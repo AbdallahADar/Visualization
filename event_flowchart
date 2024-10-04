@@ -1,0 +1,12 @@
+// Event Process Flowchart
+digraph {
+	A [label=Start]
+	B [label="Phase 1"]
+	C [label="Phase 2"]
+	D [label="Phase 3"]
+	E [label=End]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+}

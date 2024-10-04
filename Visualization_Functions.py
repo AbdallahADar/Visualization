@@ -1,7 +1,8 @@
 # ==========================================================================
 # 
 #  Author: Abdallah Dar
-#  Developed: July 2024
+#  Created: July 2024
+#  Updated: October 2024
 # 
 # ==========================================================================
 
@@ -84,7 +85,7 @@ def SankeyData_Plotly(df: pd.DataFrame, levels: list, value: str, omission: list
         group['y'] = y  # Direct assignment
         return group
     
-    y_positions = out.groupby('variable', group_keys=False).apply(apply_linspace, include_groups=False)["y"].to_list()
+    y_positions = out.groupby('variable', group_keys=False).apply(apply_linspace)["y"].to_list()
         
     ## Create color map from the larger color map supplied by user or using default colors
     if len(cmap) > 0:
@@ -143,6 +144,8 @@ import plotly.graph_objects as go
 level1 = "Technology"
 times_of_day = ["Morning", "Afternoon", "Evening", "Night"]
 cities = ["New York", "Los Angeles", "Chicago", "Houston"]
+
+np.random.seed(123)
 
 # Generate the list of dictionaries
 rows = []
@@ -339,7 +342,7 @@ plt.show()
     return ret
 
 
-def ChoroPleth_USA_PlotlyPX(seed = 123):
+def ChoroPleth_USA_PlotlyPX_Example(seed = 123):
     
     ret = f"np.random.seed({seed})"
     
@@ -410,7 +413,7 @@ fig.show(renderer='iframe')
     return ret
 
 
-def ChoroPleth_USA_PlotlyGO(seed = 123):
+def ChoroPleth_USA_PlotlyGO_Example(seed = 123):
     
     ret = f"np.random.seed({seed})"
     
@@ -479,4 +482,654 @@ fig.update_layout(
 
 fig.show(renderer='iframe')
 '''
+    return ret
+
+def JointDensityPlotKDE_Seaborn_Example():
+    
+    ret = '''
+import pandas as pd
+import random
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Sample dataframe
+data = {
+    "Assets": [random.randint(10000, 1000000) for _ in range(100)],
+    "Sales": [random.randint(5000, 500000) for _ in range(100)]
+}
+df = pd.DataFrame(data)
+
+# Plotting the joint distribution
+plt.figure(figsize=(12, 10))  # Set the figure size
+sns.set(style="whitegrid", palette="muted")  # Set the style and color palette for the plot
+
+# Creating the joint plot
+joint_plot = sns.jointplot(
+    data=df, 
+    x="Assets",  # Data for the x-axis
+    y="Sales",  # Data for the y-axis
+    kind="kde",  # Kind of plot, 'kde' for kernel density estimate
+    fill=True,  # Fill the area under the KDE curves
+    color="blue",  # Set the color of the plot
+    height=10,  # Set the height of the plot
+    space=0,  # Space between the joint plot and the marginal plots
+    ratio=8  # Ratio of the size of the joint plots to the marginal plot
+)
+
+# Adding a title and labels
+joint_plot.set_axis_labels('Assets', 'Sales', fontsize=14)  # Set axis labels with font size
+plt.suptitle('Joint Density Plot of Assets and Sales', fontsize=18, y=1.03)  # Set the title with font size and adjust the y position
+plt.subplots_adjust(top=0.95)  # Adjust the top margin to make room for the title
+
+# Enhancing the aesthetics
+sns.despine(trim=True)  # Remove the top and right spines (axes lines) for a cleaner look
+
+# Display the plot
+plt.show()  # Show the plot
+    '''
+
+    return ret
+
+def RadialHeatMap_Radar_Matplotlib_Example():
+
+    ret = '''
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import matplotlib.colors as mcolors
+
+# Generate sample data
+np.random.seed(42)
+
+percentiles = pd.DataFrame(
+    {"perc": range(0, 101),
+     "q1": np.random.rand(101),
+     "q2": np.random.rand(101),
+     "q3": np.random.rand(101),
+     "q4": np.random.rand(101),
+     "q5": np.random.rand(101),
+     "q6": np.random.rand(101),
+     "q7": np.random.rand(101)})
+
+color_hex_101 = ["#A50026", "#AA0426", "#AF0926", "#B40E26", "#B91326", "#BE1826", "#C31C26", "#C82126", "#CD2626", "#D22B26", "#D73027", "#D93629",
+                 "#DC3C2C", "#DF422F", "#E24832", "#E54E34", "#E85437", "#EB5A3A", "#EE603D", "#F16640", "#F46D43", "#F47345", "#F57949", "#F6804C",
+                 "#F7864E", "#F88D51", "#F99355", "#FA9A58", "#FBA15A", "#FCA75D", "#FDAD60", "#FDB365", "#FDB869", "#FDBC6D", "#FDC271", "#FDC775",
+                 "#FDCB7A", "#FDD17E", "#FDD582", "#FDDB86", "#FEE08B", "#FEE390", "#FEE695", "#FEE99A", "#FEEC9F", "#FEEFA4", "#FEF2AA", "#FEF5AF",
+                 "#FEF8B4", "#FEFBB9", "#FFFFBF", "#FBFDB9", "#F7FBB4", "#F3FAAF", "#EFF8AA", "#ECF7A4", "#E8F59F", "#E4F39A", "#E0F295", "#DCF090",
+                 "#D9EF8B", "#D3EC87", "#CEEA84", "#C9E881", "#C4E67D", "#BFE47A", "#BAE177", "#B5DF73", "#B0DD70", "#ABDB6D", "#A6D96A", "#9FD669",
+                 "#99D368", "#92D067", "#8CCD67", "#86CB66", "#7FC865", "#79C565", "#72C264", "#6CBF63", "#66BD63", "#5EB961", "#56B55F", "#4FB15D",
+                 "#47AE5B", "#40AA59", "#38A657", "#30A355", "#299F53", "#219B51", "#1A9850", "#17934D", "#148E4A", "#128948", "#0F8445", "#0C7F43",
+                 "#0A7B41", "#07763E", "#05713C", "#026C39", "#006837"]
+
+for i in percentiles.columns[1:]:
+    percentiles = percentiles.merge(percentiles[[i]].sort_values(by=i).assign(**{str(i) + "_c": color_hex_101}),
+                                    how="left",
+                                    on=i)
+
+# Prepare data
+num_vars = len(percentiles)
+num_segments = 7
+segment_size = 2 * np.pi / num_segments
+
+# Create circular heatmap
+fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
+
+for i, col in enumerate(percentiles.columns[1:8]):
+    theta = np.linspace(i * segment_size, (i + 1) * segment_size, 100)
+    r = np.linspace(0, 100, 100)
+    T, R = np.meshgrid(theta, r)
+    Z = R
+
+    ax.pcolormesh(T, R, Z,
+                  shading='auto',
+                  cmap=mcolors.ListedColormap(percentiles[str(col) + "_c"].values))
+
+# Add lines for each segment
+for i in range(num_segments):
+    ax.plot([i * segment_size, i * segment_size], [0, 100], color='black', linewidth=4)
+
+# Remove grid lines
+ax.grid(False)
+
+# Remove axis and labels
+ax.set_yticklabels([])
+ax.set_xticklabels([])
+
+# Remove the default polar spine
+ax.spines['polar'].set_visible(False)
+
+# If you want to display outside borders
+# ax.spines['polar'].set_visible(True)
+# ax.spines['polar'].set_linewidth(4)
+
+# Generate sample pred data
+pred = pd.DataFrame(
+    {"q1": [51],
+     "q2": [62],
+     "q3": [70],
+     "q4": [89],
+     "q5": [19],
+     "q6": [8],
+     "q7": [34]})
+
+# Radar plot
+labels = pred.columns
+num_vars = len(labels)
+angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
+angles = [angle + segment_size / 2 for angle in angles]  # Center points in the middle of the segments
+angles += angles[:1]
+
+values = pred.iloc[0].tolist()
+values += values[:1]
+
+ax.plot(angles, values, color='darkblue', linewidth=2, linestyle="none")
+ax.scatter(angles, values, color='darkblue', s=100)  # Adjust 's' for larger markers
+
+# Add column names outside the segments with more space
+label_distance = 110  # Adjust this value to increase/decrease the space between the diagram and the labels
+for i, label in enumerate(labels):
+    angle_rad = i * segment_size + segment_size / 2
+    ax.text(angle_rad, label_distance, label, size=18, horizontalalignment="center", verticalalignment='center')
+
+# plt.title('Circular Heatmap with Radar Overlay', fontsize=16, fontweight='bold', pad=20)
+plt.show()
+    '''
+
+    return ret
+
+def BarHeatMap_Radar_Plotly_Example():
+
+    ret = '''
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import plotly.io as pio
+pio.renderers.default = 'iframe'
+import plotly.offline as pyo
+pyo.init_notebook_mode(connected=True)
+import plotly.graph_objects as go
+import plotly.express as px
+from plotly.subplots import make_subplots
+
+# Generate sample data
+np.random.seed(42)
+
+percentiles = pd.DataFrame(
+    {"perc": range(0, 101),
+     "q1": np.random.rand(101),
+     "q2": np.random.rand(101),
+     "q3": np.random.rand(101),
+     "q4": np.random.rand(101),
+     "q5": np.random.rand(101),
+     "q6": np.random.rand(101),
+     "q7": np.random.rand(101)})
+
+pred = pd.DataFrame(
+    {"q1": [51],
+     "q2": [62],
+     "q3": [70],
+     "q4": [89],
+     "q5": [19],
+     "q6": [8],
+     "q7": [34]})
+
+color_hex_101 = ["#A50026", "#AA0426", "#AF0926", "#B40E26", "#B91326", "#BE1826", "#C31C26", "#C82126", "#CD2626", "#D22B26", "#D73027", "#D93629",
+                 "#DC3C2C", "#DF422F", "#E24832", "#E54E34", "#E85437", "#EB5A3A", "#EE603D", "#F16640", "#F46D43", "#F47345", "#F57949", "#F6804C",
+                 "#F7864E", "#F88D51", "#F99355", "#FA9A58", "#FBA15A", "#FCA75D", "#FDAD60", "#FDB365", "#FDB869", "#FDBC6D", "#FDC271", "#FDC775",
+                 "#FDCB7A", "#FDD17E", "#FDD582", "#FDDB86", "#FEE08B", "#FEE390", "#FEE695", "#FEE99A", "#FEEC9F", "#FEEFA4", "#FEF2AA", "#FEF5AF",
+                 "#FEF8B4", "#FEFBB9", "#FFFFBF", "#FBFDB9", "#F7FBB4", "#F3FAAF", "#EFF8AA", "#ECF7A4", "#E8F59F", "#E4F39A", "#E0F295", "#DCF090",
+                 "#D9EF8B", "#D3EC87", "#CEEA84", "#C9E881", "#C4E67D", "#BFE47A", "#BAE177", "#B5DF73", "#B0DD70", "#ABDB6D", "#A6D96A", "#9FD669",
+                 "#99D368", "#92D067", "#8CCD67", "#86CB66", "#7FC865", "#79C565", "#72C264", "#6CBF63", "#66BD63", "#5EB961", "#56B55F", "#4FB15D",
+                 "#47AE5B", "#40AA59", "#38A657", "#30A355", "#299F53", "#219B51", "#1A9850", "#17934D", "#148E4A", "#128948", "#0F8445", "#0C7F43",
+                 "#0A7B41", "#07763E", "#05713C", "#026C39", "#006837"]
+custom_color_map_101 = [[i,j] for i,j in zip(np.linspace(0,1,len(color_hex_101)),color_hex_101)]
+
+num_vars = 7
+fig = make_subplots(rows=num_vars, cols=1, vertical_spacing = 0.02)
+
+for n,j in enumerate(percentiles.columns[1:]):
+    
+    fig.add_trace(
+            go.Heatmap(z=[percentiles[j]],
+                       colorscale=custom_color_map_101,
+                       showscale=False),
+            row=n+1, col=1)
+
+    fig.add_trace(
+            go.Scatter(x=pred[j], y=[0],
+                       mode='markers',
+                       marker=dict(symbol='triangle-down', size=15, color='black'),
+                       name=f'{j} markers',
+                      showlegend=False),
+            row=n+1, col=1)
+    
+    fig.update_yaxes(tickmode='array',
+                             tickvals=[0],  # Position for the pseudo title
+                             ticktext=[str(j) + "  "],  # The pseudo title text
+                             tickangle=0,  # Keep the tick (now title) horizontal
+                             automargin=True,
+                             row=n+1, col=1,
+                             showticklabels=True)
+
+
+fig.update_xaxes(showticklabels=False)
+
+fig.update_layout(height=600)
+# Save image
+# fig.write_image("driver_bars_"+i+".png")
+
+## Just display the last one to check it ran as expected
+fig.show(renderer='iframe')
+    '''
+
+    return ret
+
+
+def PlotZoomIn_Matplotlib_Example():
+
+    ret = '''
+import numpy as np
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots()
+
+# Create example data
+x = np.arange(-100,100)
+y = np.arange(-100,100)
+
+# Change y values to add groove in the graph for easy distinction
+y[95] += 40
+y[100] += 20
+y[105] -= 40
+
+# Create base plot
+ax.plot(x,y)
+
+# Define inset axes
+# [x0, y0, width, height]: Lower-left corner of inset Axes, and its width and height. In terms of percentage of the overall graph so values from 0 to 1.
+axin = ax.inset_axes([0.7,0.1, 0.2,0.4])
+
+# Recreate plot with axin
+axin.plot(x,y)
+
+# Focus on region of interest
+axin.set_xlim(-10,10)
+axin.set_ylim(-50,50)
+
+# Remove labels and ticks for inset axes
+axin.set_xticks([])
+axin.set_yticks([])
+axin.set_xticklabels([])
+axin.set_yticklabels([])
+
+# Embed axis
+ax.indicate_inset_zoom(axin)
+
+plt.show()
+    '''
+
+    return ret
+
+def Flexible_SubPlots_Mosaic_Matplotlib_Example():
+
+    ret = '''
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Create example dataframe
+df = pd.DataFrame({
+    "x": np.arange(100)/100,
+    "y": np.arange(100),
+    "z": np.arange(100)**0.5,
+    "a": np.arange(100)**2,
+    "b": [0]*15 + [1]*10 + [2]*30 + [3]*40 + [4]*5,
+    "c": np.random.randn(100)
+})
+
+# Create mosaic plot scheme
+mosaic_scheme = \'''
+ABC
+ADD
+EEE
+\'''
+
+# Create subplot using mosaic scheme
+fig, ax = plt.subplot_mosaic(mosaic_scheme)
+
+# Customize the individual plots
+background_color = "#f0f8ff"  # Light blue background color similar to Seaborn
+
+# Set a light blue background color and add gridlines
+for key in ax.keys():
+    ax[key].set_facecolor(background_color)
+    ax[key].grid(True, linestyle='-', color='gray', alpha=0.5) # Major gridlines
+    # Add minor gridlines
+    ax[key].minorticks_on()
+    ax[key].grid(which='minor', linestyle='-', linewidth='0.5', color='gray', alpha=0.5) # Minor gridlines
+
+
+# Plot A: Line plot
+ax["A"].plot(df["x"], df["y"], color='blue', linewidth=2)
+ax["A"].set_title("Linear Growth", fontsize=12)
+ax["A"].set_xlabel("X-axis", fontsize=10)
+ax["A"].set_ylabel("Y-axis", fontsize=10)
+
+# Plot B: Scatter plot
+ax["B"].scatter(df["x"], df["z"], color='green', marker='o', alpha=0.7)
+ax["B"].set_title("Square Root Growth", fontsize=12)
+ax["B"].set_xlabel("X-axis", fontsize=10)
+ax["B"].set_ylabel("Z-axis", fontsize=10)
+
+# Plot C: Scatter plot
+ax["C"].scatter(df["x"], df["a"], color='purple', marker='+', alpha=0.7)
+ax["C"].set_title("Quadratic Growth", fontsize=12)
+ax["C"].set_xlabel("X-axis", fontsize=10)
+ax["C"].set_ylabel("A-axis", fontsize=10)
+
+# Plot D: Bar plot
+ax["D"].bar(df["b"].unique(), df["b"].value_counts().values, color='orange', edgecolor='black')
+ax["D"].set_title("Category Distribution", fontsize=12)
+ax["D"].set_xlabel("Categories", fontsize=10)
+ax["D"].set_ylabel("Counts", fontsize=10)
+
+# Plot E: Histogram
+ax["E"].hist(df["c"], bins=20, color='red', edgecolor='black', alpha=0.7)
+ax["E"].set_title("Random Data Distribution", fontsize=12)
+ax["E"].set_xlabel("Values", fontsize=10)
+ax["E"].set_ylabel("Frequency", fontsize=10)
+
+# Adjust layout
+plt.tight_layout()
+
+# Display full figure
+plt.show()
+    '''
+
+    return ret
+
+
+def SimplePlots_Altair_Example():
+
+    ret = '''
+## Create charts using Altair
+# Allows for layered charts with subplots involved
+
+import altair as alt
+from vega_datasets import data
+import numpy as np
+import pandas as pd
+
+# Get example data
+source = data.cars()
+
+# Scatter plot
+# alt.Chart() is for the data used in the plot
+# .mark_point() is the plot type which is a scatter plot in this case
+# .encode() is for specifying the variables
+# :Q means the variables is quantitative and :N means it is nominal
+points = alt.Chart(source).mark_point().encode(
+    x='Horsepower:Q',
+    y='Miles_per_Gallon:Q',
+    color='Origin:N'
+)
+
+# Line plot
+# .transform_loess() applies Loess to the point data where x and y were specified
+# .mark_line() indicates that the plot is a line plot
+# the x and y variables do not need to be encoded since they carry over from points
+lines = points.transform_loess(
+    'Horsepower', 'Miles_per_Gallon'
+).mark_line()
+
+# Want to add data from another table?
+# Create a separate plot and we layer them together in the end
+# New data for the additional line
+new_data = pd.DataFrame({
+    'x': np.arange(25)*10,
+    'y': np.linspace(5, 45, 25)
+})
+
+# Create a line chart for the new data
+new_line = alt.Chart(new_data).mark_line(color='red').encode(
+    x='x:Q',
+    y='y:Q'
+)
+
+# Layer the scatter plot, LOESS line, and the new line together
+# Instead of doing points + lines + new_line we can also use alt.layer(points, lines, new_line)
+layered_chart = (points + lines + new_line).properties(
+    title="Scatter Plot with LOESS Line and Additional Line"
+)
+
+# Simply call the named chart variable to display it
+
+## We want to add a separate plot that is in the same row.
+# .transform_density() is to get the density plot
+# .mark_area(orient) is used to define the orientation
+distribution_plot = alt.Chart(source).transform_density(
+    'Miles_per_Gallon',
+    as_=['Miles_per_Gallon', 'density']
+).mark_area(orient='vertical').encode(
+    y='Miles_per_Gallon:Q',
+    x='density:Q'
+).properties(
+    width=200,
+    height=300
+)
+
+# Concatenate the distribution plot to the layered plot
+# Alternatively we couldve used this to get the same row subplots: alt.hconcat(layered_chart,distribution_plot)
+top_row = (layered_chart | distribution_plot).resolve_scale(
+    color='independent'
+)
+
+## We want to add a separate plot that is in the next row
+# Create a histogram
+# .mark_bar() is for histogram
+aggregated_data = source.groupby('Origin')["Horsepower"].mean().reset_index()
+histogram = alt.Chart(aggregated_data).mark_bar(color = "purple").encode(
+    x=alt.X('Origin:N', title='Country Code'),
+    y=alt.Y('Horsepower:Q', title='Mean Population')
+).properties(
+    width=700,
+    height=200
+)
+
+# Concatenate the top row with the histogram in the second row
+# Alternatively we couldve used this to get the different row subplots: alt.vconcat(top_row,histogram)
+final_chart = top_row & histogram
+
+# If you wish to save the chart
+# final_chart.save('plot.png')
+
+final_chart.show()
+    '''
+
+    return ret
+
+
+def ClassificationGrid_Plotly():
+
+    ret = '''
+import plotly.graph_objects as go
+import pandas as pd
+
+# Example data for a single company
+data = {
+    'Scenario': ['S1', 'S2', 'S3', 'S4'],
+    'Classification': ['Green', 'Yellow', 'Orange', 'Red']
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Define the color mapping and position mapping
+color_mapping = {'Red': '#FF4136', 'Orange': '#FF851B', 'Yellow': '#FFDC00', 'Green': '#2ECC40'}
+position_mapping = {'Red': 0.25, 'Orange': 0.5, 'Yellow': 0.75, 'Green': 1.0}
+
+df['Color'] = df['Classification'].map(color_mapping)
+df['Position'] = df['Classification'].map(position_mapping)
+
+# Create the parallel coordinate chart
+fig = go.Figure()
+
+# Adjust X-values to bring them closer
+x_positions = [0.125, 0.25, 0.375, 0.5]
+
+# Add color bands for each scenario with slight overlap to remove white lines
+overlap = 0.00005
+bar_width = 0.125
+for i, scenario in enumerate(df['Scenario']):
+    for color, y in color_mapping.items():
+        fig.add_shape(type="rect",
+                      x0=x_positions[i] - bar_width/2 - overlap, y0=position_mapping[color] - bar_width,
+                      x1=x_positions[i] + bar_width/2 + overlap, y1=position_mapping[color] + bar_width,
+                      fillcolor=color_mapping[color],
+                      opacity=0.5,
+                      layer="below",
+                      line_width=0)
+
+# Add a trace for the company's classification
+fig.add_trace(go.Scatter(
+    x=x_positions,
+    y=df['Position'],
+    mode='lines+markers',
+    line=dict(color='black', width=2),
+    marker=dict(size=14, color=df['Color'], symbol='circle'),
+    text=df['Classification'],
+    hoverinfo='text'
+))
+
+# Customize layout for aesthetics
+fig.update_layout(
+    title="Company Classification",
+    xaxis_title="",
+    yaxis_title="",
+    yaxis=dict(tickvals=[0.25, 0.5, 0.75, 1.0],
+               ticktext=['', '', '', '']),
+    plot_bgcolor='white',
+    paper_bgcolor='white',
+    font=dict(size=14),
+    showlegend=False,
+    xaxis=dict(
+        tickmode='array',
+        tickvals=x_positions,
+        ticktext=df['Scenario']
+    ),
+    height=500,  # Adjust the height to make the plot square-shaped
+    width=500,   # Set width to match height for square shape
+    margin=dict(l=40, r=40, t=40, b=40)  # Adjust margins
+)
+
+# Show plot
+fig.show()
+    '''
+
+    return ret
+
+
+def ClassificationBar_Plotly():
+
+    ret = '''
+import plotly.graph_objects as go
+import pandas as pd
+
+# Example data for a single company
+data = {
+    'Scenario': ['S1', 'S2', 'S3', 'S4'],
+    'Classification': ['Green', 'Yellow', 'Orange', 'Red']
+}
+
+# Create a DataFrame
+df = pd.DataFrame(data)
+
+# Define the color mapping
+color_mapping = {'Red': '#FF4136', 'Orange': '#FF851B', 'Yellow': '#FFDC00', 'Green': '#2ECC40'}
+df['Color'] = df['Classification'].map(color_mapping)
+
+# Adjust X-values to bring the boxes closer together
+x_positions = [0.125, 0.25, 0.375, 0.5]
+bar_width = 0.125
+
+# Create the simplified horizontal bar plot
+fig = go.Figure()
+
+# Add a larger arrowhead next to the S4 box leading to the final label
+fig.add_annotation(
+    ax=x_positions[-1] + bar_width * 0.5,  # Start point near the S4 box
+    ay=0.5,
+    axref="x",
+    ayref="y",
+    x=x_positions[-1] + bar_width * 1.5,  # End point further right, towards the label
+    y=0.5,
+    xref="x",
+    yref="y",
+    showarrow=True,
+    arrowhead=2,
+    arrowsize=5,  # Increase the size of the arrow
+    arrowwidth=4,  # Increase the width of the arrow
+    arrowcolor="black"
+)
+
+# Add color bars for each scenario, placing them next to each other
+for i, scenario in enumerate(df['Scenario']):
+    fig.add_shape(type="rect",
+                  x0=x_positions[i] - bar_width/2, y0=0.44,  # Adjusted y0 for slightly taller rectangles
+                  x1=x_positions[i] + bar_width/2, y1=0.56,  # Adjusted y1 for slightly taller rectangles
+                  fillcolor=df['Color'][i],
+                  line=dict(color=df['Color'][i]),
+                  layer="above")
+
+    # Add the tick label as text inside the rectangle with shadow effect
+    fig.add_annotation(
+        text=scenario,
+        x=x_positions[i],
+        y=0.5,  # Center vertically inside the rectangle
+        showarrow=False,
+        font=dict(size=14, color="black", family="Arial Black"),  # Bold and slightly larger text
+        align="center",
+        yshift=0,  # Adjust yshift to fine-tune vertical alignment
+        xshift=0,  # Centered horizontally
+        opacity=0.9,
+        # Adding a subtle text shadow effect
+        font_family='Arial black',
+        font_color='black'
+    )
+
+# Center the final label inside the arrowhead
+final_classification = "Volatile"  # Example final label based on the scenarios
+fig.add_annotation(
+    text=final_classification,
+    x=x_positions[-1] + bar_width * 0.85,  # Center it inside the arrowhead
+    y=0.5,  # Center it vertically
+    showarrow=False,
+    font=dict(size=16, color="white", family="Arial Black"),
+    align="center"
+)
+
+# Customize layout for aesthetics
+fig.update_layout(
+    title="Company Classification Across Economic Scenarios",
+    xaxis_title="",
+    yaxis_title="",
+    yaxis=dict(showticklabels=False, range=[0.4, 0.6]),  # Squash Y-axis into a single line
+    xaxis=dict(
+        tickmode='array',
+        tickvals=x_positions,
+        ticktext=[''] * len(x_positions),  # Remove default tick labels
+        range=[0, max(x_positions) + 0.8]  # Extend the range to make room for the final label
+    ),
+    plot_bgcolor='white',
+    paper_bgcolor='white',
+    font=dict(size=14),
+    showlegend=False,
+    height=200,  # Adjust the height for a more compact look
+    margin=dict(l=50, r=50, t=50, b=50)  # Adjust margins
+)
+
+# Show plot
+fig.show()
+    '''
+
     return ret
