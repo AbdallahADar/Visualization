@@ -5,6 +5,7 @@ import random
 import Geographical_Plots as GPlots
 import pycountry
 import us
+from functools import reduce
 
 ################ METADATA & FORMATTING ################
 
@@ -133,6 +134,8 @@ ratio_categories = {
 
 # To sort dataframe by custom category order
 category_order = {'Green': 0, 'Yellow': 1, 'Red': 3, 'Orange': 2}
+
+############# Full Scored Dataset #############
 
 np.random.seed(18)
 # Create a sample dataframe including additional line items for each company
@@ -314,6 +317,116 @@ for i in ["ews" + (f"_{i}" if i else "") for i in scenario_order_risk]:
     # Randomly sample from the cateogries
     df[i] = random.choices(category_risk, k = len(df))
 
+############# Full Scored Dataset Large #############
+
+# Get a list of all country codes from ISO 3166-1 using pycountry
+countries = list(set([country.alpha_3 for country in pycountry.countries]) - 
+     set(["ABW", "AGO", "AND", "AZE","BMU","BRB","CAF","CIV","CUB","CUW","FLK", "FJI",
+         "IMN","STP","GIB","NIU","COD","IOT","ERI","KWT","GIN","GUM","NCL","GHA"])) # List of ISO Alpha-3 country codes
+
+# Define the variables for the new dataset
+sectors = ['Technology', 'Finance', 'Energy', 'Healthcare', "Consumer Goods", 'Utilities', 
+           'Real Estate', 'Telecommunications', 'Materials', 'Industrials', 'Consumer Services',
+           'Transportation']
+sizes = ['Large', 'Medium', 'Small', 'Micro']
+
+## Create an empty list to hold all rows
+data = []
+## Propensity distribution metadata
+cntry_size_dist = []
+cntry_size_sector_dist = []
+glb_size_dist = []
+glb_size_sector_dist = []
+
+def generate_dist(suffix, cntry, size, sector = None, models = ["Sales", "Asset", "Borrow", "Shrink"]):
+
+    out = [{"Country" : cntry, "Size" : size}]
+
+    for i in models:
+        out.append({f"{i}_{j}_{suffix}" : np.random.randint(1_000, 50_000) for j in ["H","MH","ML","L"]})
+
+    ret = reduce(lambda a, b: {**a, **b}, out)
+
+    if sector is not None:
+        ret["Sector"] = sector
+
+    return ret
+
+## Populate the dataset with Sector country and size
+for country in countries:
+    for size in sizes:
+        cntry_size_dist.append(generate_dist("cntry_size", country, size))
+        for sector in sectors:
+            cntry_size_sector_dist.append(generate_dist("cntry_size_sector", country, size, sector))
+            for industry in sector_to_industries.get(sector, []):
+                # If USA, ITA produce extra data for displaying purposes
+                if country in ["USA", "ITA"]:
+                    for m in range(30):
+                        data.append({'Sector': sector, 'Country': country, 'Size': size, "Industry" : industry})
+                
+                for n, i in enumerate(range(random.randint(5,25))):
+                    data.append({'Sector': sector, 'Country': country, 'Size': size, "Industry" : industry})
+                    
+
+for size in sizes:
+    glb_size_dist.append(generate_dist("glb_size", "Global", size))
+    for sector in sectors:
+        glb_size_sector_dist.append(generate_dist("glb_size_sector", "Global", size, sector))
+
+## Convert the list of rows into a DataFrame
+df_large = pd.DataFrame(data)
+cntry_size_dist_metadata = pd.DataFrame(cntry_size_dist)
+cntry_size_sector_dist_metadata = pd.DataFrame(cntry_size_sector_dist)
+glb_size_dist_metadata = pd.DataFrame(glb_size_dist)
+glb_size_sector_dist_metadata = pd.DataFrame(glb_size_sector_dist)
+
+## Add additional variable
+df_large["Names"] = [f"Name{i}" for i in range(len(df_large))]
+df_large["Sales"] = np.random.randint(0, 100_000_000, len(df_large))
+df_large["Asset"] = np.random.randint(0, 100_000_000, len(df_large))
+
+for i in ["Sales","Asset"]:
+    for k in range(1,6):
+        df_large[f"{i}_{k}"] = df_large[i] * np.random.uniform(0, 1, len(df_large)) 
+
+for i in model_type_list:
+    df_large[f"{i}P"] = np.random.randint(0,100, len(df_large))
+    for j in percentiles_borrow.columns[1:]:
+        df_large[f"{j}_{i}"] = np.random.randint(0,100, len(df_large))
+
+## Create competitor string
+df_large["Competitors"] = [";".join(["Name" + str(j) for j in np.random.randint(1, 100, 8) if j != i]) for i in range(1,len(df_large) + 1)]
+
+# Sales relative contribution
+rel_con = pd.DataFrame(np.random.rand(len(df_large),  percentiles_sales.shape[1] - 1),
+                      columns=[i+"_Sales_RC" for i in percentiles_sales.columns.tolist()[1:]])
+rel_con2 = rel_con.div(rel_con.sum(axis=1), axis=0)
+df_large = pd.concat([df_large, rel_con2], axis=1)
+
+# Asset relative contribution
+rel_con = pd.DataFrame(np.random.rand(len(df_large),  percentiles_asset.shape[1] - 1),
+                      columns=[i+"_Asset_RC" for i in percentiles_asset.columns.tolist()[1:]])
+rel_con2 = rel_con.div(rel_con.sum(axis=1), axis=0)
+df_large = pd.concat([df_large, rel_con2], axis=1)
+
+# Borrowing relative contribution
+rel_con = pd.DataFrame(np.random.rand(len(df_large),  percentiles_borrow.shape[1] - 1),
+                      columns=[i+"_Borrow_RC" for i in percentiles_borrow.columns.tolist()[1:]])
+rel_con2 = rel_con.div(rel_con.sum(axis=1), axis=0)
+df_large = pd.concat([df_large, rel_con2], axis=1)
+
+# Shrinkage relative contribution
+rel_con = pd.DataFrame(np.random.rand(len(df_large),  percentiles_shrink.shape[1] - 1),
+                      columns=[i+"_Shrink_RC" for i in percentiles_shrink.columns.tolist()[1:]])
+rel_con2 = rel_con.div(rel_con.sum(axis=1), axis=0)
+df_large = pd.concat([df_large, rel_con2], axis=1)
+
+# Risk segment data
+for i in ["ews" + (f"_{i}" if i else "") for i in scenario_order_risk]:
+    # Randomly sample from the cateogries
+    df_large[i] = random.choices(category_risk, k = len(df_large))
+
+############# Hot Zones #############
 
 ## Add Hot Zones data for Geographical Plots
 

@@ -567,7 +567,7 @@ def plot_nuts_country_hotzones(country_name, input_df, nuts = 1, nuts1 = None, n
     fig = px.choropleth(
         geojson=country_geojson,
         locations=names,
-        color=sub["Growth"],  # Color by NUTS region IDs
+        color=sub["Growth"]*100,  # Color by NUTS region IDs
         featureidkey="properties.NAME_LATN",
         projection="mercator",
         title = "",
@@ -575,7 +575,7 @@ def plot_nuts_country_hotzones(country_name, input_df, nuts = 1, nuts1 = None, n
     )
     
     fig.update_traces(
-            hovertemplate="<b>%{location}</b><br>Growth: %{z}<extra></extra>",
+            hovertemplate="<b>%{location}</b><br>Growth: %{z:.2f}%<extra></extra>",
         )
     
     # Update the layout to focus on the country and increase the plot size
@@ -653,6 +653,8 @@ def plot_global_country(background_color = "white"):
 
 def plot_global_country_hotzones(df, background_color = "white"):
 
+    df["Growth"] = df["Growth"]*100
+    
     # Create figure
     fig = px.choropleth(
         df,
@@ -662,7 +664,7 @@ def plot_global_country_hotzones(df, background_color = "white"):
         projection="natural earth",
         title="",
         color_continuous_scale="Thermal"
-        ).update_traces(hovertemplate='<b>%{location}</b><br>Growth: %{z}<extra></extra>',
+        ).update_traces(hovertemplate='<b>%{location}</b><br>Growth: %{z:.2f}%<extra></extra>',
                        showlegend=False)  # Customize hover template to show only ISO code
 
     fig.update_geos(
@@ -768,7 +770,7 @@ def plot_usa_states_hotzones(df, background_color = "white"):
     fig = go.Figure(data=go.Choropleth(
         locations = df['state'],  # Spatial coordinates
         locationmode = 'USA-states',  # Set of locations match entries in `locations`
-        z = df["Growth"],  # The numerical data to map to the colorscale
+        z = df["Growth"]*100,  # The numerical data to map to the colorscale
         colorscale = "Thermal", 
         colorbar=dict(
             title="Growth<br>Propensity",  # Title for the color bar
@@ -777,7 +779,7 @@ def plot_usa_states_hotzones(df, background_color = "white"):
         ),
         # hovertemplate='%{location}<extra></extra>'
         hovertext=df['state_name'],  # Show full state name in hover
-        hovertemplate='<b>%{location}</b><br>Growth: %{z}<extra></extra>',  # Use hovertext (full state name) in hover
+        hovertemplate='<b>%{location}</b><br>Growth: %{z:.2f}%<extra></extra>',  # Use hovertext (full state name) in hover
     ))
     
     fig.add_scattergeo(
@@ -785,8 +787,8 @@ def plot_usa_states_hotzones(df, background_color = "white"):
         locationmode="USA-states",
         text=df['state'],
         mode='text',
-        hovertext=df['state_name'],
-        hoverinfo='text',
+        # hovertext=df['state_name'],
+        hoverinfo='skip',
         textfont=dict(
         size=14,  # Increase font size
         # color="white",  # Set font color
@@ -895,6 +897,8 @@ def plot_usa_subnational_hotzones(df, state, background_color = "white"):
     # Specific state geo data
     counties = us_counties[fips]
 
+    df["Growth"] = df["Growth"]*100
+
     # Plot the choropleth map using custom colors and display county name in hover
     fig = px.choropleth(df, 
                         geojson=counties, 
@@ -903,7 +907,7 @@ def plot_usa_subnational_hotzones(df, state, background_color = "white"):
                         hover_name='County',  # Display county name in hover
                         color_continuous_scale="Thermal",
                         scope='usa'
-                        ).update_traces(hovertemplate='<b>%{location}</b><br>Growth: %{z}<extra></extra>',
+                        ).update_traces(hovertemplate='<b>%{hovertext}</b><br>Growth: %{z:.2f}%<extra></extra>',
                                         showlegend=False)
 
     if state == "AK":
