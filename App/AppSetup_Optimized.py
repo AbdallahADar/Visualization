@@ -253,7 +253,7 @@ def sales_assets_trend_card(company_data, page, model):
 
     return html.Div([
         html.H3("Company " + model + ("s" if model != "Sales" else ""), 
-                style = {'text-align' : 'center', 'font-size': '28px'}),
+                style = {'text-align' : 'center', 'font-size': '28px', 'position': 'relative', 'z-index': '1'}),
         dcc.Graph(figure = SPlots.create_background_line_plot(SPlots.line_plot_data_prep(company_data, model)),
                   config={'displayModeBar': False},
                   style={'position': 'absolute', 'top': '20px', 'left': '20px', 'width': 'calc(100% - 40px)', 'height': 'calc(100% - 40px)', 'z-index': '0'},

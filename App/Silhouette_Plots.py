@@ -9,7 +9,7 @@ def line_plot_data_prep(df, model_type):
 # Function to create background line plot with filled area
 def create_background_line_plot(values):
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=[i for i in range(len(values))], y=values, mode='lines', fill='tozeroy', line=dict(color='rgba(0, 0, 255, 0.1)')))
+    fig.add_trace(go.Scatter(x=[i for i in range(len(values))], y=values, mode='lines', fill='tozeroy', line=dict(color='rgba(135, 206, 250, 0.1)')))
     fig.update_layout(
         xaxis=dict(visible=False),
         yaxis=dict(visible=False),

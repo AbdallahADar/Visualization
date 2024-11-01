@@ -107,18 +107,18 @@ custom_color_map_101 = [[i,j] for i,j in zip(np.linspace(0,1,len(color_hex_101))
 
 # Define category colors
 category_colors = {
-    'Green': '#00FF00',
-    'Yellow': '#FFFF00',
-    'Red': '#FF0000',
-    'Orange': '#FFA500',
+    'Green': 'Green',
+    'Yellow': 'Yellow',
+    'Red': 'Red',
+    'Orange': 'Orange',
     'Selected': '#000000'  # Black for selected state
 }
 
 category_colors_labels = {
-    'H': '#00FF00',
-    'MH': '#FFFF00',
-    'L': '#FF0000',
-    'ML': '#FFA500',
+    'H': 'Green',
+    'MH': 'Yellow',
+    'L': 'Orange',
+    'ML': 'Red',
 }
 
 # Ratio categories
