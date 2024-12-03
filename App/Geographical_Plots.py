@@ -9,6 +9,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import json
 
+## Findings for reference
+# Dataframes altered inside the function change the dataframe outside as well
+
+
 # Geo data for NUTS1,2,3
 filtered_features = {
     1 : json.load(open("filtered_features_nuts1.json")),
@@ -653,6 +657,7 @@ def plot_global_country(background_color = "white"):
 
 def plot_global_country_hotzones(df, background_color = "white"):
 
+    df = df.copy()
     df["Growth"] = df["Growth"]*100
     
     # Create figure
@@ -897,6 +902,7 @@ def plot_usa_subnational_hotzones(df, state, background_color = "white"):
     # Specific state geo data
     counties = us_counties[fips]
 
+    df = df.copy()
     df["Growth"] = df["Growth"]*100
 
     # Plot the choropleth map using custom colors and display county name in hover
@@ -947,5 +953,70 @@ def plot_usa_subnational_hotzones(df, state, background_color = "white"):
         plot_bgcolor=background_color,  # Background color of the plotting area
         paper_bgcolor=background_color,  # Background color of the entire figure
     )
+
+    return fig
+
+
+def App_Plot_Handling(step, hot_zone, selected_geography, background_color,metadata):
+
+    # Default ret value
+    fig = None
+
+    # Global map
+    if step == "maps1":
+        # hotzones or not
+        if hot_zone:
+            fig = plot_global_country_hotzones(metadata, background_color).update_layout(clickmode='event+select')
+        else:
+            fig = plot_global_country(background_color = background_color).update_layout(clickmode='event+select')
+
+    # National / NUTS1 map
+    if step == "maps2":
+
+        # US States plot
+        if selected_geography["Country"] == "USA":
+            if hot_zone:
+                fig = plot_usa_states_hotzones(metadata, background_color)
+            else:
+                fig = plot_usa_states(background_color = background_color)
+
+        # NUTS 1
+        elif selected_geography["Country"] in nuts_countries:
+            if hot_zone:
+                fig = plot_nuts_country_hotzones(selected_geography["Country"], metadata, 1, background_color = background_color)
+            else:
+                fig = plot_nuts_country(selected_geography["Country"], 1, background_color = background_color)
+
+    # Sub-National / NUTS2 maps
+    if step == "maps3":
+
+        # US Subnational plot
+        if selected_geography["Country"] == "USA":
+            if hot_zone:
+                fig = plot_usa_subnational_hotzones(metadata[selected_geography["State"]], 
+                                                           selected_geography["State"], background_color)
+            else:
+                fig = plot_usa_subnational(selected_geography["State"], background_color = background_color)
+
+        # NUTS 1
+        elif selected_geography["Country"] in nuts_countries:
+            if hot_zone:
+                fig = plot_nuts_country_hotzones(selected_geography["Country"], metadata, 2, selected_geography["NUTS1"],background_color = background_color)
+            else:
+                fig = plot_nuts_country(selected_geography["Country"], 2, selected_geography["NUTS1"], background_color = background_color)
+
+    # NUTS3 maps
+    if step == "maps4":
+        if selected_geography["Country"] in nuts_countries:
+            
+            if hot_zone:
+                fig = plot_nuts_country_hotzones(selected_geography["Country"], metadata, 3, selected_geography["NUTS1"], 
+                                           selected_geography["NUTS2"],
+                                           background_color = background_color)
+            else:
+                fig = plot_nuts_country(selected_geography["Country"], 3, 
+                                           selected_geography["NUTS1"], 
+                                           selected_geography["NUTS2"],
+                                           background_color = background_color)
 
     return fig

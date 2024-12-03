@@ -6,11 +6,65 @@ import Geographical_Plots as GPlots
 import pycountry
 import us
 from functools import reduce
+from itertools import combinations, permutations, product
 
 ################ METADATA & FORMATTING ################
 
-narrative = '''This firm belongs in the high propensity for growth and medium propensity for borrowing while belonging to the resilient risk segment. Such firms need liquidity to continue fuel their growth trajectory. Belonging to the resilient segment ensures that the company is suitable to endure different economic conditions and remain low risk. These companies would serve as good partners to enhance existing relationships or build long term relationships.
+narrative = '''This firm belongs in the high propensity for growth and medium propensity for borrowing while belonging to the resilient risk segment. Such firms need liquidity to continue to fuel their growth trajectory. Belonging to the resilient segment ensures that the company is suitable to endure different economic conditions and remain low risk. These companies would serve as good partners to enhance existing relationships or build long term relationships.
 '''
+
+## Table styling
+# Cell styling rules for conditional coloring
+cell_styling_func = [
+    {"condition": "params.value === '1High'", "style": {"backgroundColor": "Green", 'color': 'Green'}},
+    {"condition": "params.value === '2Medium-High'", "style": {"backgroundColor": "Yellow", 'color': 'Yellow'}},
+    {"condition": "params.value === '3Medium-Low'", "style": {"backgroundColor": "Orange", 'color': 'Orange'}},
+    {"condition": "params.value === '4Low'", "style": {"backgroundColor": "Red", 'color': 'Red'}},
+]
+
+## Start page styling
+
+exploratory_half = {
+    'flex': '1', 
+    'display': 'flex', 
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'background-color': '#007BFF', 
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%'
+    }
+
+targeted_half = {
+    'flex': '1', 
+    'display': 'flex', 
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'background-color': '#28A745', 
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%'
+    }
+
+## Geographical figure styling
+geofig_styling = {
+    'display': 'flex',
+    'justifyContent': 'center',  # Horizontally center the graph
+    'alignItems': 'center', # Vertically center the graph
+    'margin-bottom':'5px',
+    # 'marginLeft': 'auto', 'marginRight': 'auto'
+}
+
+## Hot zone toggle contianer overall
+hotzone_toggle = {
+    'display': 'flex', 
+    'justify-content': 'center', 
+    'padding': '5px', 
+    'margin-bottom': '5px', 
+    'margin-top': '5px'
+}
 
 ## Create risk segment metadata
 category_risk = ["Green", "Yellow", "Orange", "Red"]
@@ -34,11 +88,11 @@ scenario_label_risk = ["Current", "Upside", "Baseline", "Downside"]
 # Growth rates metadata
 growth_metadata = pd.DataFrame(
     {
-        "Country" : ["USA"]*13 + ["GBR"]*13 + ["Global"]*13 + ["ESP"]*13 + ["FRA"]*13 + ["DEU"]*13 + ["ITA"]*13,
+        "Country" : ["USA"]*13 + ["GBR"]*13 + ["Global"]*13 + ["ESP"]*13 + ["FRA"]*13 + ["DEU"]*13 + ["ITA"]*13 + ["BRA"]*13,
         "Sector" : ['Technology','Healthcare','Finance','Energy','Consumer Goods','Utilities','Real Estate',
-                    'Telecommunications','Materials','Industrials','Consumer Services','Transportation', 'All'] * 7,
-        "Count" : np.random.randint(10_000, 1_000_000, 91),
-        "Growth Rate" : np.random.uniform(0,1,91)
+                    'Telecommunications','Materials','Industrials','Consumer Services','Transportation', 'All'] * 8,
+        "Count" : np.random.randint(10_000, 1_000_000, 104),
+        "Growth Rate" : np.random.uniform(0,1,104)
     }
 )
 
@@ -117,8 +171,15 @@ category_colors = {
 category_colors_labels = {
     'H': 'Green',
     'MH': 'Yellow',
-    'L': 'Orange',
-    'ML': 'Red',
+    'L': 'Red',
+    'ML': 'Orange',
+}
+
+category_colors_labels_full = {
+    'High': 'Green',
+    'Medium-High': 'Yellow',
+    'Low': 'Red',
+    'Medium-Low': 'Orange',
 }
 
 # Ratio categories
@@ -317,6 +378,12 @@ for i in ["ews" + (f"_{i}" if i else "") for i in scenario_order_risk]:
     # Randomly sample from the cateogries
     df[i] = random.choices(category_risk, k = len(df))
 
+
+df["Sales_Reason"] = random.choices(["Leveraged Expansion", "Reversal", "CAPEX Investment", "Strategic Reinvestment"], k = len(df))
+df["Asset_Reason"] = random.choices(["Market Gain", "Operational Expansion", "Investment Money", "Long-Term Payoff"], k = len(df))
+df["Borrow_Reason"] = random.choices(["Debt History", "Size Capacity", "Liquidity Needs", "Debt Restructuring"], k = len(df))
+df["Shrink_Reason"] = random.choices(["Low Profitability", "Underperformance", "Inefficiency", "Economic Crisis"], k = len(df))
+
 ############# Full Scored Dataset Large #############
 
 # Get a list of all country codes from ISO 3166-1 using pycountry
@@ -425,6 +492,12 @@ df_large = pd.concat([df_large, rel_con2], axis=1)
 for i in ["ews" + (f"_{i}" if i else "") for i in scenario_order_risk]:
     # Randomly sample from the cateogries
     df_large[i] = random.choices(category_risk, k = len(df_large))
+
+
+df_large["Sales_Reason"] = random.choices(["Leveraged Expansion", "Reversal", "CAPEX Investment", "Strategic Reinvestment"], k = len(df_large))
+df_large["Asset_Reason"] = random.choices(["Market Gain", "Operational Expansion", "Investment Money", "Long-Term Payoff"], k = len(df_large))
+df_large["Borrow_Reason"] = random.choices(["Debt History", "Size Capacity", "Liquidity Needs", "Debt Restructuring"], k = len(df_large))
+df_large["Shrink_Reason"] = random.choices(["Low Profitability", "Underperformance", "Inefficiency", "Economic Crisis"], k = len(df_large))
 
 ############# Hot Zones #############
 

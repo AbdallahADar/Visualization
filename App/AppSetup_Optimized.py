@@ -8,7 +8,12 @@ import numpy as np
 import itertools
 from itertools import count
 from functools import reduce
+import plotly.graph_objects as go
 
+import Funnel_Plots as FPlots
+import Combo_HeatMaps as CPlots
+import Portfolio_Composition_Plots as PCPlots
+from Portfolio_Composition_Plots import combos
 import Network_Plots as NPlots
 import Driver_Plots as DPlots
 import DistMatrix_Plots as DMPlots
@@ -19,9 +24,256 @@ import Sankey_Plots as SKPlots
 import Classification_Grid_Plots as CGPlots
 import Venn_Plots as VPlots
 import Setup
-from Setup import BACKGROUND_COLOR, NAME_BUBBLE_STYLE, MODEL_BUTTON_STYLE, COLOR_BUTTON_STYLE, OKAY_BUTTON_STYLE, CARD_STYLE, SECTOR_CONTAINER_STYLE, TILE_STYLE, BOX_STYLE, BOX_STYLE_FULL, HOVER_STYLE, SEGMENT_LABEL, category_colors, custom_color_map_101, color_hex_df, category_colors_labels, model_type_list, sectors_ndy, out_text_style, growth_metadata, color_mapping_risk, position_mapping_risk, scenario_order_risk, scenario_label_risk, segment_names, narrative, cntry_size_dist_metadata, cntry_size_sector_dist_metadata, glb_size_dist_metadata, glb_size_sector_dist_metadata
+from Setup import BACKGROUND_COLOR, NAME_BUBBLE_STYLE, MODEL_BUTTON_STYLE, COLOR_BUTTON_STYLE, OKAY_BUTTON_STYLE, CARD_STYLE, SECTOR_CONTAINER_STYLE, TILE_STYLE, BOX_STYLE, BOX_STYLE_FULL, HOVER_STYLE, SEGMENT_LABEL, category_colors, custom_color_map_101, color_hex_df, category_colors_labels, model_type_list, sectors_ndy, out_text_style, growth_metadata, color_mapping_risk, position_mapping_risk, scenario_order_risk, scenario_label_risk, segment_names, narrative, cntry_size_dist_metadata, cntry_size_sector_dist_metadata, glb_size_dist_metadata, glb_size_sector_dist_metadata, cell_styling_func, category_colors_labels_full
 
 ######### APP COMPONENTS #########
+
+def portfolio_page_generator(df):
+
+    print(df.columns.tolist())
+
+    segment_df, full_combo_df, pairwise_df = PCPlots.combo_data_prep(df.copy(), df["Names"].values,
+                                                                     model_type_list, 
+                                                                     scenario_order_risk, 
+                                                                     segment_names)
+
+    ### Define all the plots
+
+    # 1. Full combo parallel coords Plot
+    p_coords_plot = CPlots.parallel_category_plot(full_combo_df, 20, BACKGROUND_COLOR)
+    # 2. Pairwise Grid Plot
+    pariwise_plot = CPlots.pairwise_combo_grid(pairwise_df, combos, BACKGROUND_COLOR)
+    # 3. Funnel Plot
+    funnel_plot = FPlots.funnel_plot(df, model_type_list, 3, BACKGROUND_COLOR)
+    # 4. Distribution stacked bar Plot
+    stacked_bar_plot = PCPlots.BucketDist_Portfolio(full_combo_df, category_colors_labels, [i + "B" for i in model_type_list], BACKGROUND_COLOR)
+    # 5. Country donut Plot
+    donut_plot = PCPlots.Donut_Plot(df, BACKGROUND_COLOR)
+    # 6. Size Pie Chart Plot
+    pie_plot = PCPlots.PieChart_Plot(df, BACKGROUND_COLOR)
+    # 7. Sunburst Sector NDY Plot
+    sunburst_plot = PCPlots.SunBurst_Plot(df, BACKGROUND_COLOR)
+    # 8. Venn diagrams
+    venn_plot = VPlots.Venn_Portfolio_Plot(df.copy(), ["Sales", "Borrow"], 
+                           scenario_order_risk, segment_names, 
+                           category_colors_labels_full, BACKGROUND_COLOR)
+
+    ## Arrange them in app containers
+    row1 = html.Div(id = 'portfolio-row1', children = [
+    # Country Composition
+    html.Div(id = 'donut-outer', children = [
+        html.Div(id = 'donut-inner', children = [
+            dcc.Graph(
+                figure=donut_plot,
+                style={
+                    'height': '100%',
+                    'width': '100%',
+                    'box-sizing': 'border-box'
+                }
+            )
+        ], style={
+            'height': '100%',
+            'width': '100%',
+            'display': 'flex',
+            'align-items': 'center',  # Centers vertically
+            'justify-content': 'center',  # Centers horizontally
+        })
+    ], style={
+        **CARD_STYLE,
+        'display': 'flex',
+        'align-items': 'center',  # Centers content vertically
+        'justify-content': 'center',  # Centers content horizontally
+        'height': '400px',
+        # 'width': '33%'
+    }),
+
+    # Size Composition
+    html.Div(id = 'pie-outer', children = [
+        html.Div(id = 'pie-inner', children = [
+            dcc.Graph(
+                figure=pie_plot,
+                style={
+                    'height': '100%',
+                    'width': '100%',
+                    'box-sizing': 'border-box'
+                }
+            )
+        ], style={
+            'height': '100%',
+            'width': '100%',
+            'display': 'flex',
+            'align-items': 'center',
+            'justify-content': 'center',
+        })
+    ], style={
+        **CARD_STYLE,
+        'display': 'flex',
+        'align-items': 'center',
+        'justify-content': 'center',
+        'height': '400px',
+        # 'width': '33%'
+    }),
+
+    # NDY Composition
+    html.Div(id = 'sunburst-outer', children = [
+        html.Div(id = 'sunburst-inner', children = [
+            dcc.Graph(
+                figure=sunburst_plot,
+                style={
+                    'height': '100%',
+                    'width': '100%',
+                    'box-sizing': 'border-box'
+                }
+            )
+        ], style={
+            'height': '100%',
+            'width': '100%',
+            'display': 'flex',
+            'align-items': 'center',
+            'justify-content': 'center',
+        })
+    ], style={
+        **CARD_STYLE,
+        'display': 'flex',
+        'align-items': 'center',
+        'justify-content': 'center',
+        'height': '400px',
+        # 'width': '33%'
+    }),
+], style={
+    'display': 'flex',
+    'align-items': 'center',  # Centers cards vertically in the row
+    'justify-content': 'space-evenly',  # Distributes cards evenly with equal space
+    'width': '100%'
+})
+
+    
+    row2 = html.Div([
+    # Bucket Dist
+    html.Div([
+        html.Div([
+            dcc.Graph(
+                figure=stacked_bar_plot,
+                style={
+                    'height': '100%',  # Graph will take full height of the container
+                    'width': '100%',  # Graph will take full width of the container
+                    'box-sizing': 'border-box'  # Ensures padding and borders are included
+                }
+            )
+        ], style={
+            'height': '100%',  # Parent ensures no overflow
+            'width': '100%', 
+            'display': 'flex',
+            'align-items': 'center',
+            'justify-content': 'center',
+            'overflow': 'hidden'  # Clips content that exceeds
+        })
+    ], style={
+        **CARD_STYLE,
+        'height': '600px',  # Ensures the card has a fixed height
+        'width': '50%',  # Adjusts card width
+        'display': 'flex',
+        'align-items': 'center',
+        'justify-content': 'center'
+    }),
+
+    # Full Combo Dist
+    html.Div([
+        html.Div([
+            dcc.Graph(
+                figure=p_coords_plot,
+                style={
+                    'height': '100%',
+                    'width': '100%',
+                    'box-sizing': 'border-box'
+                }
+            )
+        ], style={
+            'height': '100%',
+            'width': '100%',
+            'display': 'flex',
+            'align-items': 'center',
+            'justify-content': 'center',
+            'overflow': 'hidden'
+        })
+    ], style={
+        **CARD_STYLE,
+        'height': '600px',
+        'width': '50%',
+        'display': 'flex',
+        'align-items': 'center',
+        'justify-content': 'center'
+    }),
+], style={
+    'display': 'flex',
+    'width': '100%',
+    'align-items': 'center',  # Ensures row alignment
+    'justify-content': 'space-between'  # Spreads cards evenly
+})
+
+
+    row3 = html.Div([
+        # Bucket Dist
+        html.Div([
+            html.Div([
+                dcc.Graph(figure = pariwise_plot)
+            ], style={'height': '600px', 'width': '100%', 'display': 'flex', 'align-items': 'center'})
+        ], style = {**CARD_STYLE, 'width': '100%'}),
+    ], style={'display': 'flex','width': '100%'})
+
+    row4 = html.Div([
+        # Funnel Plot
+        html.Div([
+            html.Div([
+                dcc.Graph(figure = funnel_plot)
+            ], style={'height': '700px', 'width': '100%', 'display': 'flex', 'align-items': 'center'})
+        ], style = {**CARD_STYLE, 'width': '50%'}),
+        # Venn Diagram
+        html.Div([
+            html.Div([
+                html.Img(src=venn_plot),
+            ], style={'height': '700px', 'width': '100%', 'display': 'flex', 'align-items': 'center'})
+        ], style = {**CARD_STYLE, 'width': '50%'}),
+    ], style={'display': 'flex','width': '100%'})
+
+    return html.Div([row1, row2, row3, row4], style = {'marginTop' : '0px'})
+
+def table_column_definitions():
+
+    out = [
+        {"field": "Names", "filter": True, "floatingFilter": True, "flex": 1},
+        {"field": "Country", "filter": True, "floatingFilter": True, "flex": 1},
+        {"field": "Sector", "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
+        {"field": "Industry", "filter": True, "floatingFilter": True, "flex": 1},
+        {"field": "Size", "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
+        {"headerName":"Sales Propensity", "field": "SalesP_Label", "filter": True, "floatingFilter": True,"cellStyle": {"styleConditions" : cell_styling_func}, "flex": 1},
+        {"headerName":"Asset Propensity", "field": "AssetP_Label", "filter": True, "floatingFilter": True,"cellStyle": {"styleConditions" : cell_styling_func}, "flex": 1},
+        {"headerName":"Borrow Propensity", "field": "BorrowP_Label", "filter": True, "floatingFilter": True,"cellStyle": {"styleConditions" : cell_styling_func}, "flex": 1},
+        {"headerName":"Shrink Propensity", "field": "ShrinkP_Label", "filter": True, "floatingFilter": True,"cellStyle": {"styleConditions" : cell_styling_func}, "flex": 1},
+        ]
+
+    return out
+
+def table_prep(df):
+
+    for i in model_type_list:
+        conditions = [
+            (df[i+'P'] >= 75),
+            (df[i+'P'] >= 50),
+            (df[i+'P'] >= 25)]
+        
+        choices = ['1High', '2Medium-High', '3Medium-Low']
+        df[i+'P_Label'] = np.select(conditions, choices, default='4Low')
+        # df[i+'P_Label'] = pd.Categorical(df[i+'P_Label'], ordered = True, categories = ['High', 'Medium-High', 'Medium-Low', 'Low'])
+        df.drop(columns = [i+"P"], inplace = True)
+
+    return df
+
+def placeholder():
+
+    return go.Figure(
+    data=go.Scatter(x=[1, 2, 3], y=[1, 4, 9], mode='markers')
+).update_layout( title="Placeholder", xaxis_visible=False, yaxis_visible=False, template="plotly_white", margin=dict(l=40, r=40, t=40, b=40) )
 
 ## Toggle switch card
 def toggle_switch_card():
@@ -51,7 +303,7 @@ def toggle_switch_card():
             'background': 'linear-gradient(135deg, #f5a3a9, #f8c2c6)',  # Light red gradient
             'width': '200px',  # Set card width
         })
-    ], style={'display': 'flex', 'justify-content': 'center', 'padding': '5px', 'margin-bottom': '5px', 'margin-top': '5px'})  # Center the card
+    ], style={'display': 'none'})  # Center the card
 
 ## Size boxes upper row
 def initial_size_boxes_upper():
@@ -60,7 +312,7 @@ def initial_size_boxes_upper():
         children = [
         html.Div("Large", id="large-box-size", style={'display':'none'}),
         html.Div("Medium", id="medium-box-size", style={'display':'none'}),
-        ], style={'display': 'flex', 'justifyContent': 'center','marginTop': '30px',})
+        ], style={'display': 'flex', 'justifyContent': 'center'})
 
 ## Size boxes upper row
 def initial_size_boxes_lower():
@@ -108,8 +360,7 @@ def initial_counter_display(count):
 
     return html.Div(id='counter-display',
                     children = f"{count:,}",
-                    style = counter_out_style(1, 1)
-                    )
+                    style = {"display":"none"})
 
 ## Sector/Industry container
 def sector_ndy_containers(selected_sectors = None):
@@ -211,12 +462,13 @@ def initial_model_mode_button(model_mode):
 
 def initial_category_button():
 
-    return html.Div([
-        html.Button('', id='btn-green', style={'display' : 'none'}),
-        html.Button('', id='btn-yellow', style={'display' : 'none'}),
-        html.Button('', id='btn-orange', style={'display' : 'none'}),
-        html.Button('', id='btn-red', style={'display' : 'none'}),
-    ], style={'textAlign': 'center', 'margin': '10px'})
+    return html.Div( id = "color-buttons",
+        children = [
+        html.Button('', id='btn-green', style = {**COLOR_BUTTON_STYLE, 'backgroundColor': category_colors['Green']}),
+        html.Button('', id='btn-yellow', style = {**COLOR_BUTTON_STYLE, 'backgroundColor': category_colors['Yellow']}),
+        html.Button('', id='btn-orange', style = {**COLOR_BUTTON_STYLE, 'backgroundColor': category_colors['Orange']}),
+        html.Button('', id='btn-red', style = {**COLOR_BUTTON_STYLE, 'backgroundColor': category_colors['Red']}),
+    ], style={'display': 'none'})
 
 
 ## Bubble element child retriever
@@ -761,4 +1013,4 @@ def company_page_generator(company_data, df, page, model_type_list):
     'justifyContent': 'space-between'  # Space them evenly
                })
 
-    return html.Div([name_header, row1, row2, row3, row4, row5, row6, row7, row8, row9], style = {'marginTop' : '-30px'})
+    return html.Div([name_header, row1, row2, row3, row4, row5, row6, row7, row8, row9], style = {'marginTop' : '0px'})

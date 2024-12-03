@@ -21,9 +21,6 @@ def classification_grid_prep(series, color_mapping, position_mapping, order_scen
 
     return df
 
-import plotly.graph_objects as go
-import pandas as pd
-
 
 def classification_grid_plot(df, color_mapping, position_mapping, background_color):
     fig = go.Figure()

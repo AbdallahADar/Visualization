@@ -355,7 +355,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
             # Plot usa states
             fig = GPlots.plot_usa_states(background_color = APP_BACKGROUND_COLOR)
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -384,7 +384,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
             # Plot NUTS1
             fig = GPlots.plot_nuts_country(selected_geography["Country"], 1, background_color = APP_BACKGROUND_COLOR)
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -410,7 +410,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
         # Case 3: Move to sector/ndy grid
         else:
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
             
@@ -446,7 +446,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
             # Plot usa cities
             fig = GPlots.plot_usa_subnational(selected_geography["State"], background_color = APP_BACKGROUND_COLOR)
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -478,7 +478,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
             # Plot NUTS2
             fig = GPlots.plot_nuts_country(selected_geography["Country"], 2, selected_geography["NUTS1"], background_color = APP_BACKGROUND_COLOR)
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -510,7 +510,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
             # Save selected state. This one uses hovertext
             selected_geography["City"] = click_data["points"][0]["hovertext"]
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -546,7 +546,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
                                            selected_geography["NUTS2"],
                                            background_color = APP_BACKGROUND_COLOR)
 
-            # New map plotted so rest toggle value and reference
+            # New map plotted so reset toggle value and reference
             toggle_value = False
             toggle_reference = False
 
@@ -575,7 +575,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
         # Save selected NUTS2
         selected_geography["NUTS3"] = click_data["points"][0]["location"]
 
-        # New map plotted so rest toggle value and reference
+        # New map plotted so reset toggle value and reference
         toggle_value = False
         toggle_reference = False
         
@@ -604,6 +604,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
         
         # Selected sector on grid
         clicked_index = json.loads(ctx.triggered[0]['prop_id'].split('.')[0])['index']
+        print(ctx.triggered[0]['prop_id'])
         selected_sector = sectors_ndy[clicked_index]["name"]
 
         # Toggle the selected sector
@@ -880,8 +881,7 @@ def update_app(sales_clicks, asset_clicks, borrow_clicks, shrink_clicks,
         df = Setup.model_type_prep(df, mode)
 
         # Update the bubble selections
-        ## TODO
-        names_container = AppSetup.bubble_element_child(df)
+        names_container = AppSetup.bubble_element_child(df, selected_status_new)
 
         # Update the style of the buttons to reflect what was selected
         return ([AppSetup.model_mode_button_style(mode == "Sales"), 
