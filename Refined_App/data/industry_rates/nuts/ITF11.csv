@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,L’Aquila,1729,0.5283055881846536,Overall
+L’Aquila,Technology,95,0.6337220228524211,Sector
+L’Aquila,Healthcare,168,0.6539570763487862,Sector
+L’Aquila,Finance,160,0.7470973700789265,Sector
+L’Aquila,Energy,241,0.5707398720131249,Sector
+L’Aquila,Consumer Goods,59,0.6758625080688136,Sector
+L’Aquila,Utilities,126,0.2143796730080083,Sector
+L’Aquila,Real Estate,126,0.26108180870767406,Sector
+L’Aquila,Telecommunications,107,0.3274979298625913,Sector
+L’Aquila,Materials,125,0.2856980806822683,Sector
+L’Aquila,Industrials,162,0.3773700449052667,Sector
+L’Aquila,Consumer Services,136,0.41473116731761317,Sector
+L’Aquila,Transportation,224,0.9550993475870166,Sector
+Technology,Software,5,0.4651265106815715,Industry
+Technology,Hardware,41,0.2896027276221793,Industry
+Technology,IT Services,49,0.20011848122652176,Industry
+Healthcare,Pharmaceuticals,94,0.27796111911464316,Industry
+Healthcare,Medical Devices,22,0.7215266953195174,Industry
+Healthcare,Healthcare Services,52,0.8696843283353695,Industry
+Finance,Banking,90,0.24079378351652503,Industry
+Finance,Insurance,24,0.7451821768460356,Industry
+Finance,Investment Services,46,0.88789109379918,Industry
+Energy,Oil & Gas,72,0.39247416869281704,Industry
+Energy,Renewable Energy,78,0.24233978769355025,Industry
+Energy,Energy Exploration,91,0.07172033554680624,Industry
+Consumer Goods,Food & Beverage,0,0.7140777635413486,Industry
+Consumer Goods,Household Products,26,0.3423106674859635,Industry
+Consumer Goods,Apparel,33,0.12412085810522344,Industry
+Utilities,Electric,42,0.6398122952061981,Industry
+Utilities,Water,59,0.6351412744304528,Industry
+Utilities,Gas,25,0.2960064006262426,Industry
+Real Estate,Residential,83,0.605189645726429,Industry
+Real Estate,Commercial,39,0.22762873837070075,Industry
+Real Estate,Industrial,4,0.12693895592163906,Industry
+Telecommunications,Mobile,0,0.6058386368722651,Industry
+Telecommunications,Broadband,19,0.2149479104425459,Industry
+Telecommunications,Satellite,88,0.8210647641720847,Industry
+Materials,Chemicals,22,0.6008059786494301,Industry
+Materials,Metals & Mining,42,0.19108919552069392,Industry
+Materials,Construction Materials,61,0.7926641838311809,Industry
+Industrials,Aerospace & Defense,38,0.37119897518941525,Industry
+Industrials,Machinery,63,0.5218783221898178,Industry
+Industrials,Industrial Services,61,0.5186356685632297,Industry
+Consumer Services,Retail,46,0.2688172733323487,Industry
+Consumer Services,Travel & Leisure,71,0.6119616849436034,Industry
+Consumer Services,Media,19,0.9708045335488787,Industry
+Transportation,Airlines,44,0.6440252260080038,Industry
+Transportation,Railroads,97,0.7163126142183686,Industry
+Transportation,Logistics,83,0.5778747796574429,Industry

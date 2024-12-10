@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Grad Zagreb,1683,0.447214466641073,Overall
+Grad Zagreb,Technology,109,0.2623873676302215,Sector
+Grad Zagreb,Healthcare,162,0.8755889809832275,Sector
+Grad Zagreb,Finance,150,0.06266910061800579,Sector
+Grad Zagreb,Energy,53,0.3102635919099179,Sector
+Grad Zagreb,Consumer Goods,167,0.1246156049932492,Sector
+Grad Zagreb,Utilities,141,0.7148024974851143,Sector
+Grad Zagreb,Real Estate,163,0.0856278304968714,Sector
+Grad Zagreb,Telecommunications,24,0.23212291981806676,Sector
+Grad Zagreb,Materials,245,0.7019477913182021,Sector
+Grad Zagreb,Industrials,216,0.9957745223545653,Sector
+Grad Zagreb,Consumer Services,139,0.3092299679274153,Sector
+Grad Zagreb,Transportation,114,0.7883365276871104,Sector
+Technology,Software,2,0.5588216172087451,Industry
+Technology,Hardware,60,0.0875027832850912,Industry
+Technology,IT Services,47,0.12453896588635638,Industry
+Healthcare,Pharmaceuticals,34,0.6135703551444734,Industry
+Healthcare,Medical Devices,98,0.2777345414627398,Industry
+Healthcare,Healthcare Services,30,0.8417970281900071,Industry
+Finance,Banking,50,0.04333126112549246,Industry
+Finance,Insurance,98,0.7536306822101739,Industry
+Finance,Investment Services,2,0.7360177337804337,Industry
+Energy,Oil & Gas,8,0.40282935691532673,Industry
+Energy,Renewable Energy,24,0.4826091316551452,Industry
+Energy,Energy Exploration,21,0.2871314256902703,Industry
+Consumer Goods,Food & Beverage,79,0.5043256707277389,Industry
+Consumer Goods,Household Products,84,0.16671925417195665,Industry
+Consumer Goods,Apparel,4,0.9130648813210843,Industry
+Utilities,Electric,23,0.663548360270283,Industry
+Utilities,Water,30,0.49952149148997715,Industry
+Utilities,Gas,88,0.17872305289102475,Industry
+Real Estate,Residential,28,0.5055100298461098,Industry
+Real Estate,Commercial,41,0.18930916821924026,Industry
+Real Estate,Industrial,94,0.6810316250106295,Industry
+Telecommunications,Mobile,1,0.7707148920455478,Industry
+Telecommunications,Broadband,5,0.8298212158993928,Industry
+Telecommunications,Satellite,18,0.24404686188908853,Industry
+Materials,Chemicals,68,0.5493439077113544,Industry
+Materials,Metals & Mining,96,0.6859739773779622,Industry
+Materials,Construction Materials,81,0.4149649261832764,Industry
+Industrials,Aerospace & Defense,88,0.26783999361870114,Industry
+Industrials,Machinery,88,0.6132925971090796,Industry
+Industrials,Industrial Services,40,0.8585754864032757,Industry
+Consumer Services,Retail,94,0.6906425333266024,Industry
+Consumer Services,Travel & Leisure,35,0.24627178984037468,Industry
+Consumer Services,Media,10,0.4475488687695809,Industry
+Transportation,Airlines,19,0.5642340921394121,Industry
+Transportation,Railroads,34,0.41163172087497113,Industry
+Transportation,Logistics,61,0.5275355066436527,Industry

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Bannock,1802,0.4534636524661101,Overall
+Bannock,Technology,176,0.32835266351785874,Sector
+Bannock,Healthcare,87,0.9735592112404373,Sector
+Bannock,Finance,150,0.35852203252065407,Sector
+Bannock,Energy,123,0.14947786851160305,Sector
+Bannock,Consumer Goods,144,0.048370916004165765,Sector
+Bannock,Utilities,135,0.4530216367047186,Sector
+Bannock,Real Estate,206,0.43443082752805207,Sector
+Bannock,Telecommunications,208,0.6631167181460133,Sector
+Bannock,Materials,155,0.5870546178083296,Sector
+Bannock,Industrials,89,0.26581462675144407,Sector
+Bannock,Consumer Services,177,0.138626366046114,Sector
+Bannock,Transportation,152,0.6014627872390559,Sector
+Technology,Software,21,0.6194817675004072,Industry
+Technology,Hardware,71,0.19589484594932072,Industry
+Technology,IT Services,84,0.29741016215963023,Industry
+Healthcare,Pharmaceuticals,33,0.2491550365877364,Industry
+Healthcare,Medical Devices,5,0.3235630695131101,Industry
+Healthcare,Healthcare Services,49,0.16571716105029688,Industry
+Finance,Banking,71,0.08154134365736876,Industry
+Finance,Insurance,44,0.24625949271253111,Industry
+Finance,Investment Services,35,0.41014990167954124,Industry
+Energy,Oil & Gas,78,0.47929304030659536,Industry
+Energy,Renewable Energy,18,0.42596959575056925,Industry
+Energy,Energy Exploration,27,0.5259510170923768,Industry
+Consumer Goods,Food & Beverage,48,0.17827067916703843,Industry
+Consumer Goods,Household Products,37,0.22514982342529521,Industry
+Consumer Goods,Apparel,59,0.9145534479951722,Industry
+Utilities,Electric,93,0.8113987887337538,Industry
+Utilities,Water,32,0.5134474265744515,Industry
+Utilities,Gas,10,0.09254105111083011,Industry
+Real Estate,Residential,43,0.3654069212222587,Industry
+Real Estate,Commercial,82,0.4186380124730792,Industry
+Real Estate,Industrial,81,0.2863712668106766,Industry
+Telecommunications,Mobile,64,0.14654963386911724,Industry
+Telecommunications,Broadband,88,0.7309401348729618,Industry
+Telecommunications,Satellite,56,0.021011704940357978,Industry
+Materials,Chemicals,92,0.172639958528101,Industry
+Materials,Metals & Mining,53,0.781414029946611,Industry
+Materials,Construction Materials,10,0.03298445109108772,Industry
+Industrials,Aerospace & Defense,13,0.837552328137345,Industry
+Industrials,Machinery,68,0.8568265016022402,Industry
+Industrials,Industrial Services,8,0.9988646616556186,Industry
+Consumer Services,Retail,52,0.3470188015577501,Industry
+Consumer Services,Travel & Leisure,30,0.7094681235961321,Industry
+Consumer Services,Media,95,0.03299470357126755,Industry
+Transportation,Airlines,50,0.7630839984842612,Industry
+Transportation,Railroads,13,0.5138931219063757,Industry
+Transportation,Logistics,89,0.147298083178097,Industry

@@ -1,0 +1,4 @@
+from .country_choropleth import COUNTRY_CHOROPLETH
+from .us_state_choropleth import US_STATE_CHOROPLETH
+from .us_county_choropleth import US_COUNTY_CHOROPLETH
+from .nuts_choropleth import NUTS_CHOROPLETH

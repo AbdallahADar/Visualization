@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Ozark,1738,0.0005357409673097946,Overall
+Ozark,Technology,111,0.22383139967943977,Sector
+Ozark,Healthcare,142,0.7730338348063758,Sector
+Ozark,Finance,131,0.02426238496323807,Sector
+Ozark,Energy,215,0.9040667025148685,Sector
+Ozark,Consumer Goods,115,0.5099323628339755,Sector
+Ozark,Utilities,211,0.4322116143940016,Sector
+Ozark,Real Estate,152,0.09404576756547467,Sector
+Ozark,Telecommunications,157,0.06334563261561077,Sector
+Ozark,Materials,190,0.8047431429486154,Sector
+Ozark,Industrials,77,0.5373357483697456,Sector
+Ozark,Consumer Services,112,0.5538580508034286,Sector
+Ozark,Transportation,125,0.4830156310438297,Sector
+Technology,Software,55,0.25351057982427516,Industry
+Technology,Hardware,19,0.8897126665426154,Industry
+Technology,IT Services,37,0.2714219182113483,Industry
+Healthcare,Pharmaceuticals,65,0.3689278303918909,Industry
+Healthcare,Medical Devices,76,0.3096876497560578,Industry
+Healthcare,Healthcare Services,1,0.14495755576932867,Industry
+Finance,Banking,4,0.17034276546358895,Industry
+Finance,Insurance,53,0.8147654979217627,Industry
+Finance,Investment Services,74,0.5246202486344519,Industry
+Energy,Oil & Gas,98,0.6416685334955712,Industry
+Energy,Renewable Energy,32,0.6204586253898012,Industry
+Energy,Energy Exploration,85,0.387999355324142,Industry
+Consumer Goods,Food & Beverage,71,0.1356240905639441,Industry
+Consumer Goods,Household Products,26,0.6384965229603038,Industry
+Consumer Goods,Apparel,18,0.25740674089148063,Industry
+Utilities,Electric,50,0.3655105390914528,Industry
+Utilities,Water,78,0.124473034109567,Industry
+Utilities,Gas,83,0.9116203819504343,Industry
+Real Estate,Residential,29,0.805987438100513,Industry
+Real Estate,Commercial,71,0.09319490743698056,Industry
+Real Estate,Industrial,52,0.6849952712265458,Industry
+Telecommunications,Mobile,45,0.700225695808723,Industry
+Telecommunications,Broadband,91,0.6131649442598903,Industry
+Telecommunications,Satellite,21,0.28756064875211895,Industry
+Materials,Chemicals,82,0.9334536460906596,Industry
+Materials,Metals & Mining,54,0.7515861168937078,Industry
+Materials,Construction Materials,54,0.6070224218450735,Industry
+Industrials,Aerospace & Defense,2,0.25146852439526013,Industry
+Industrials,Machinery,3,0.2832037860014289,Industry
+Industrials,Industrial Services,72,0.10070310473349353,Industry
+Consumer Services,Retail,65,0.7628711644886652,Industry
+Consumer Services,Travel & Leisure,3,0.5908073062361213,Industry
+Consumer Services,Media,44,0.2572478410289868,Industry
+Transportation,Airlines,31,0.7686105971792362,Industry
+Transportation,Railroads,86,0.40122275907367044,Industry
+Transportation,Logistics,8,0.24396258369492407,Industry

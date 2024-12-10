@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Basel-Landschaft,1627,0.4559746698630983,Overall
+Basel-Landschaft,Technology,107,0.7468406101626768,Sector
+Basel-Landschaft,Healthcare,240,0.6642189816896684,Sector
+Basel-Landschaft,Finance,131,0.7626058260970946,Sector
+Basel-Landschaft,Energy,129,0.34015050285366366,Sector
+Basel-Landschaft,Consumer Goods,142,0.6302887878092926,Sector
+Basel-Landschaft,Utilities,155,0.6490922562258005,Sector
+Basel-Landschaft,Real Estate,132,0.6874776713937808,Sector
+Basel-Landschaft,Telecommunications,86,0.785707392151647,Sector
+Basel-Landschaft,Materials,108,0.5314247069018067,Sector
+Basel-Landschaft,Industrials,181,0.1385083215364863,Sector
+Basel-Landschaft,Consumer Services,188,0.6578957606701742,Sector
+Basel-Landschaft,Transportation,28,0.3156314192121349,Sector
+Technology,Software,33,0.27295317961217114,Industry
+Technology,Hardware,61,0.49844486155206746,Industry
+Technology,IT Services,13,0.23756240793622563,Industry
+Healthcare,Pharmaceuticals,97,0.6501684860042176,Industry
+Healthcare,Medical Devices,47,0.08815887975567749,Industry
+Healthcare,Healthcare Services,96,0.32049984836069745,Industry
+Finance,Banking,38,0.0781906900928574,Industry
+Finance,Insurance,92,0.8651808528179384,Industry
+Finance,Investment Services,1,0.0689884501312873,Industry
+Energy,Oil & Gas,60,0.09858628887054077,Industry
+Energy,Renewable Energy,52,0.43600722473107023,Industry
+Energy,Energy Exploration,17,0.13026174629647846,Industry
+Consumer Goods,Food & Beverage,88,0.33174503513733145,Industry
+Consumer Goods,Household Products,18,0.0617856350695577,Industry
+Consumer Goods,Apparel,36,0.597988399388057,Industry
+Utilities,Electric,21,0.12112141242440888,Industry
+Utilities,Water,79,0.0705564435816809,Industry
+Utilities,Gas,55,0.6961364275685396,Industry
+Real Estate,Residential,63,0.6266494110827141,Industry
+Real Estate,Commercial,43,0.9500814210826483,Industry
+Real Estate,Industrial,26,0.5094789306846922,Industry
+Telecommunications,Mobile,32,0.5979207273348702,Industry
+Telecommunications,Broadband,44,0.26857632895271555,Industry
+Telecommunications,Satellite,10,0.007164312834561315,Industry
+Materials,Chemicals,19,0.9348419322209794,Industry
+Materials,Metals & Mining,16,0.4430520728883325,Industry
+Materials,Construction Materials,73,0.29977958370442703,Industry
+Industrials,Aerospace & Defense,63,0.01809885006471479,Industry
+Industrials,Machinery,64,0.8230199744047196,Industry
+Industrials,Industrial Services,54,0.4862582485383775,Industry
+Consumer Services,Retail,97,0.8640131161056902,Industry
+Consumer Services,Travel & Leisure,38,0.0850913349092075,Industry
+Consumer Services,Media,53,0.06877395780951101,Industry
+Transportation,Airlines,16,0.30184595944011217,Industry
+Transportation,Railroads,8,0.16132440583862562,Industry
+Transportation,Logistics,4,0.6188512342928975,Industry

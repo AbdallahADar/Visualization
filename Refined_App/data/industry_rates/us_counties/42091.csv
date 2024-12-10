@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Montgomery,2060,0.8893979870670466,Overall
+Montgomery,Technology,190,0.46444430961422545,Sector
+Montgomery,Healthcare,146,0.2085772558261083,Sector
+Montgomery,Finance,159,0.5903990946292023,Sector
+Montgomery,Energy,141,0.0263630213817998,Sector
+Montgomery,Consumer Goods,125,0.24724403019245023,Sector
+Montgomery,Utilities,153,0.4478531249768454,Sector
+Montgomery,Real Estate,249,0.533195186234652,Sector
+Montgomery,Telecommunications,116,0.7323730929864773,Sector
+Montgomery,Materials,200,0.9954975605555937,Sector
+Montgomery,Industrials,151,0.18276179795813563,Sector
+Montgomery,Consumer Services,228,0.5129203946970878,Sector
+Montgomery,Transportation,202,0.35867706293685164,Sector
+Technology,Software,89,0.23154944384955867,Industry
+Technology,Hardware,94,0.4774403683776689,Industry
+Technology,IT Services,7,0.19201316928638257,Industry
+Healthcare,Pharmaceuticals,58,0.21621833462765438,Industry
+Healthcare,Medical Devices,5,0.8495173861816699,Industry
+Healthcare,Healthcare Services,83,0.22758320623063644,Industry
+Finance,Banking,77,0.08220579712326825,Industry
+Finance,Insurance,8,0.7209746388165891,Industry
+Finance,Investment Services,74,0.44812507629309195,Industry
+Energy,Oil & Gas,75,0.3644299213548744,Industry
+Energy,Renewable Energy,10,0.9947246045236466,Industry
+Energy,Energy Exploration,56,0.8551561452086024,Industry
+Consumer Goods,Food & Beverage,10,0.7108003936213055,Industry
+Consumer Goods,Household Products,50,0.24483448086350246,Industry
+Consumer Goods,Apparel,65,0.09921175765669332,Industry
+Utilities,Electric,81,0.425541493039018,Industry
+Utilities,Water,63,0.14809427891562021,Industry
+Utilities,Gas,9,0.03346847299782052,Industry
+Real Estate,Residential,98,0.3325293332675491,Industry
+Real Estate,Commercial,80,0.5778596774486005,Industry
+Real Estate,Industrial,71,0.8011969573351408,Industry
+Telecommunications,Mobile,13,0.22821889384409522,Industry
+Telecommunications,Broadband,94,0.06300750400820754,Industry
+Telecommunications,Satellite,9,0.25609389845944,Industry
+Materials,Chemicals,92,0.9648370095893167,Industry
+Materials,Metals & Mining,69,0.26242858132840396,Industry
+Materials,Construction Materials,39,0.025500576682160436,Industry
+Industrials,Aerospace & Defense,50,0.8238206546360172,Industry
+Industrials,Machinery,69,0.04239179823088557,Industry
+Industrials,Industrial Services,32,0.9998184161102004,Industry
+Consumer Services,Retail,80,0.12466796844887051,Industry
+Consumer Services,Travel & Leisure,60,0.8846432156549091,Industry
+Consumer Services,Media,88,0.40462893823556245,Industry
+Transportation,Airlines,41,0.05736974174959342,Industry
+Transportation,Railroads,99,0.48897329538860035,Industry
+Transportation,Logistics,62,0.6512328336782984,Industry

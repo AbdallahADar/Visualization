@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Juab,2054,0.5608929827400505,Overall
+Juab,Technology,162,0.3734914368469173,Sector
+Juab,Healthcare,222,0.6909705265270656,Sector
+Juab,Finance,194,0.9397567623762949,Sector
+Juab,Energy,174,0.6702930537532613,Sector
+Juab,Consumer Goods,188,0.5304436488829045,Sector
+Juab,Utilities,188,0.6535302364885189,Sector
+Juab,Real Estate,78,0.6933196082954097,Sector
+Juab,Telecommunications,183,0.06409301192593053,Sector
+Juab,Materials,219,0.520623210979991,Sector
+Juab,Industrials,169,0.2978240524306175,Sector
+Juab,Consumer Services,142,0.2752600576410863,Sector
+Juab,Transportation,135,0.3594009104846779,Sector
+Technology,Software,43,0.9257686278088579,Industry
+Technology,Hardware,36,0.5158703476893469,Industry
+Technology,IT Services,83,0.7685716394561616,Industry
+Healthcare,Pharmaceuticals,47,0.9349263994605628,Industry
+Healthcare,Medical Devices,89,0.4591106334178675,Industry
+Healthcare,Healthcare Services,86,0.2854335968430629,Industry
+Finance,Banking,80,0.4469044552925594,Industry
+Finance,Insurance,74,0.31373889488116347,Industry
+Finance,Investment Services,40,0.5645098720812853,Industry
+Energy,Oil & Gas,82,0.9222030484937473,Industry
+Energy,Renewable Energy,82,0.10410661420811573,Industry
+Energy,Energy Exploration,10,0.3290572004503406,Industry
+Consumer Goods,Food & Beverage,71,0.3116284791902897,Industry
+Consumer Goods,Household Products,75,0.35930959806277973,Industry
+Consumer Goods,Apparel,42,0.06036585093305091,Industry
+Utilities,Electric,76,0.8479865153720851,Industry
+Utilities,Water,72,0.604823832653408,Industry
+Utilities,Gas,40,0.6297416484981816,Industry
+Real Estate,Residential,28,0.012767369337001622,Industry
+Real Estate,Commercial,14,0.6509393385815305,Industry
+Real Estate,Industrial,36,0.9619652217305369,Industry
+Telecommunications,Mobile,95,0.3760556684917581,Industry
+Telecommunications,Broadband,47,0.6755610171056133,Industry
+Telecommunications,Satellite,41,0.9362380915848588,Industry
+Materials,Chemicals,94,0.02151310809597362,Industry
+Materials,Metals & Mining,76,0.07043473015238755,Industry
+Materials,Construction Materials,49,0.6789288033677002,Industry
+Industrials,Aerospace & Defense,65,0.0666939107148653,Industry
+Industrials,Machinery,96,0.6833472957274209,Industry
+Industrials,Industrial Services,8,0.6364558086454518,Industry
+Consumer Services,Retail,42,0.10610332228266339,Industry
+Consumer Services,Travel & Leisure,55,0.9514032748567555,Industry
+Consumer Services,Media,45,0.4587163605186818,Industry
+Transportation,Airlines,21,0.16230527049288623,Industry
+Transportation,Railroads,59,0.023964345442800683,Industry
+Transportation,Logistics,55,0.614706428751143,Industry

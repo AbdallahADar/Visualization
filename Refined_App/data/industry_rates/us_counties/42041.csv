@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Cumberland,1959,0.9801614130507197,Overall
+Cumberland,Technology,118,0.9510461969977707,Sector
+Cumberland,Healthcare,166,0.297178592301399,Sector
+Cumberland,Finance,180,0.5393983712887187,Sector
+Cumberland,Energy,151,0.9362370716127695,Sector
+Cumberland,Consumer Goods,115,0.27856094030051337,Sector
+Cumberland,Utilities,160,0.04413168614984608,Sector
+Cumberland,Real Estate,246,0.6579620363711216,Sector
+Cumberland,Telecommunications,173,0.8333810367952432,Sector
+Cumberland,Materials,134,0.11003937256056495,Sector
+Cumberland,Industrials,208,0.8287690571389513,Sector
+Cumberland,Consumer Services,200,0.8827415266081059,Sector
+Cumberland,Transportation,108,0.8649217611543686,Sector
+Technology,Software,1,0.09541371547750876,Industry
+Technology,Hardware,42,0.2778340964924314,Industry
+Technology,IT Services,75,0.8522093242628357,Industry
+Healthcare,Pharmaceuticals,81,0.8182113320699298,Industry
+Healthcare,Medical Devices,9,0.5902465123890487,Industry
+Healthcare,Healthcare Services,76,0.07496066770477205,Industry
+Finance,Banking,38,0.05870689995983791,Industry
+Finance,Insurance,48,0.293889046946083,Industry
+Finance,Investment Services,94,0.70100060379479,Industry
+Energy,Oil & Gas,1,0.964753891708668,Industry
+Energy,Renewable Energy,55,0.8830338375979792,Industry
+Energy,Energy Exploration,95,0.6300562745530408,Industry
+Consumer Goods,Food & Beverage,55,0.39155361347034623,Industry
+Consumer Goods,Household Products,25,0.6858686175001002,Industry
+Consumer Goods,Apparel,35,0.6472399274151698,Industry
+Utilities,Electric,53,0.23164876321903904,Industry
+Utilities,Water,93,0.6390420907236797,Industry
+Utilities,Gas,14,0.7514720086966228,Industry
+Real Estate,Residential,85,0.1439790022942048,Industry
+Real Estate,Commercial,73,0.052928513046490044,Industry
+Real Estate,Industrial,88,0.5958983899289297,Industry
+Telecommunications,Mobile,89,0.6434795772776886,Industry
+Telecommunications,Broadband,84,0.9984234619966912,Industry
+Telecommunications,Satellite,0,0.9775095576829155,Industry
+Materials,Chemicals,25,0.1634319956155762,Industry
+Materials,Metals & Mining,84,0.4889414916593601,Industry
+Materials,Construction Materials,25,0.017073825715220425,Industry
+Industrials,Aerospace & Defense,67,0.9392593723623766,Industry
+Industrials,Machinery,75,0.4058864922058828,Industry
+Industrials,Industrial Services,66,0.2847808892688821,Industry
+Consumer Services,Retail,53,0.8792793850102409,Industry
+Consumer Services,Travel & Leisure,64,0.4966215846047235,Industry
+Consumer Services,Media,83,0.4021267725748485,Industry
+Transportation,Airlines,35,0.9259245180288814,Industry
+Transportation,Railroads,16,0.11115876462073271,Industry
+Transportation,Logistics,57,0.11828505780718035,Industry

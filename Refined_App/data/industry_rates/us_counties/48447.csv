@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Throckmorton,1993,0.4520174704647739,Overall
+Throckmorton,Technology,290,0.6357293657051781,Sector
+Throckmorton,Healthcare,133,0.24121751454695117,Sector
+Throckmorton,Finance,135,0.7542308117702555,Sector
+Throckmorton,Energy,150,0.34626227585573666,Sector
+Throckmorton,Consumer Goods,208,0.8826794577765448,Sector
+Throckmorton,Utilities,125,0.0530797725062353,Sector
+Throckmorton,Real Estate,57,0.09611368178246593,Sector
+Throckmorton,Telecommunications,149,0.6946457453143448,Sector
+Throckmorton,Materials,178,0.11464107318696204,Sector
+Throckmorton,Industrials,157,0.016805151525360107,Sector
+Throckmorton,Consumer Services,236,0.059464801078534024,Sector
+Throckmorton,Transportation,175,0.9338586657087509,Sector
+Technology,Software,99,0.22881715795276458,Industry
+Technology,Hardware,95,0.20682132023251687,Industry
+Technology,IT Services,96,0.7607025644227461,Industry
+Healthcare,Pharmaceuticals,14,0.9071206421746785,Industry
+Healthcare,Medical Devices,78,0.3891015484446727,Industry
+Healthcare,Healthcare Services,41,0.19180038475562144,Industry
+Finance,Banking,32,0.127420133239466,Industry
+Finance,Insurance,13,0.13784484665538688,Industry
+Finance,Investment Services,90,0.5054930352993325,Industry
+Energy,Oil & Gas,55,0.20479779220518812,Industry
+Energy,Renewable Energy,89,0.04731142819604395,Industry
+Energy,Energy Exploration,6,0.4118531265183115,Industry
+Consumer Goods,Food & Beverage,95,0.19580387652316944,Industry
+Consumer Goods,Household Products,46,0.61904670731242,Industry
+Consumer Goods,Apparel,67,0.37348525664655374,Industry
+Utilities,Electric,49,0.08110313667546243,Industry
+Utilities,Water,13,0.1838424500037681,Industry
+Utilities,Gas,63,0.9774767339286421,Industry
+Real Estate,Residential,45,0.8060992631594684,Industry
+Real Estate,Commercial,5,0.5594054542099747,Industry
+Real Estate,Industrial,7,0.6119009065838861,Industry
+Telecommunications,Mobile,62,0.3020110688759621,Industry
+Telecommunications,Broadband,78,0.21205349606476276,Industry
+Telecommunications,Satellite,9,0.5402861464179113,Industry
+Materials,Chemicals,77,0.37405641959354097,Industry
+Materials,Metals & Mining,91,0.6745103275792571,Industry
+Materials,Construction Materials,10,0.6626945748660474,Industry
+Industrials,Aerospace & Defense,29,0.08516433817735336,Industry
+Industrials,Machinery,81,0.5416066527537332,Industry
+Industrials,Industrial Services,47,0.15751212806899373,Industry
+Consumer Services,Retail,97,0.6566823818817776,Industry
+Consumer Services,Travel & Leisure,45,0.3264040223070308,Industry
+Consumer Services,Media,94,0.17113101669841102,Industry
+Transportation,Airlines,40,0.804059143630055,Industry
+Transportation,Railroads,55,0.030004240707950602,Industry
+Transportation,Logistics,80,0.9629799795189589,Industry

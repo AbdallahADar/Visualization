@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,York,1536,0.6802241828231639,Overall
+York,Technology,136,0.7933655086674114,Sector
+York,Healthcare,66,0.6846880581983041,Sector
+York,Finance,176,0.1377469924850595,Sector
+York,Energy,117,0.6737837178842692,Sector
+York,Consumer Goods,110,0.7140350712699911,Sector
+York,Utilities,116,0.5695041684050044,Sector
+York,Real Estate,56,0.1845311391588642,Sector
+York,Telecommunications,84,0.9766896678704045,Sector
+York,Materials,55,0.7735180222143762,Sector
+York,Industrials,191,0.3494293702936624,Sector
+York,Consumer Services,173,0.46606788611136873,Sector
+York,Transportation,256,0.37372417329799723,Sector
+Technology,Software,55,0.500280142706238,Industry
+Technology,Hardware,26,0.6769975999321762,Industry
+Technology,IT Services,55,0.9704049717778206,Industry
+Healthcare,Pharmaceuticals,16,0.14140414721589756,Industry
+Healthcare,Medical Devices,39,0.12809320292543647,Industry
+Healthcare,Healthcare Services,11,0.5639704405151521,Industry
+Finance,Banking,40,0.30066895132235827,Industry
+Finance,Insurance,54,0.39764631228278613,Industry
+Finance,Investment Services,82,0.44812866681546004,Industry
+Energy,Oil & Gas,7,0.21192595476037646,Industry
+Energy,Renewable Energy,18,0.36415469785946986,Industry
+Energy,Energy Exploration,92,0.22645080652832283,Industry
+Consumer Goods,Food & Beverage,24,0.1515914648226635,Industry
+Consumer Goods,Household Products,67,0.1558667788286029,Industry
+Consumer Goods,Apparel,19,0.34220815520751224,Industry
+Utilities,Electric,45,0.38799109286766575,Industry
+Utilities,Water,46,0.9742694556983468,Industry
+Utilities,Gas,25,0.8959370137769057,Industry
+Real Estate,Residential,46,0.5776229445363844,Industry
+Real Estate,Commercial,7,0.3198662887494592,Industry
+Real Estate,Industrial,3,0.3894196565747905,Industry
+Telecommunications,Mobile,12,0.5197211068391142,Industry
+Telecommunications,Broadband,32,0.5958982917941885,Industry
+Telecommunications,Satellite,40,0.3927457369315699,Industry
+Materials,Chemicals,1,0.6767527854904579,Industry
+Materials,Metals & Mining,3,0.7551009854707491,Industry
+Materials,Construction Materials,51,0.25632381619594624,Industry
+Industrials,Aerospace & Defense,51,0.18113644716166022,Industry
+Industrials,Machinery,53,0.7190133335004065,Industry
+Industrials,Industrial Services,87,0.4232245270311118,Industry
+Consumer Services,Retail,25,0.9323541830528093,Industry
+Consumer Services,Travel & Leisure,84,0.6120698387151586,Industry
+Consumer Services,Media,64,0.9193545928537923,Industry
+Transportation,Airlines,88,0.7996112964815356,Industry
+Transportation,Railroads,99,0.5685376814189078,Industry
+Transportation,Logistics,69,0.9041137848104526,Industry

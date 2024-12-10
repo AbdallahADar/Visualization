@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Katowicki,1615,0.8854843725651177,Overall
+Katowicki,Technology,60,0.9088958327392219,Sector
+Katowicki,Healthcare,131,0.05234595385608942,Sector
+Katowicki,Finance,110,0.870622686998687,Sector
+Katowicki,Energy,157,0.8712926085672756,Sector
+Katowicki,Consumer Goods,157,0.47583981672735165,Sector
+Katowicki,Utilities,122,0.29616154737760136,Sector
+Katowicki,Real Estate,156,0.023452133485298732,Sector
+Katowicki,Telecommunications,150,0.22072985197150363,Sector
+Katowicki,Materials,177,0.05115472980866831,Sector
+Katowicki,Industrials,141,0.5722297322645968,Sector
+Katowicki,Consumer Services,187,0.37334967649747874,Sector
+Katowicki,Transportation,67,0.10906245751022126,Sector
+Technology,Software,14,0.7404762872332331,Industry
+Technology,Hardware,28,0.18559376866810406,Industry
+Technology,IT Services,18,0.5528553208424096,Industry
+Healthcare,Pharmaceuticals,31,0.14313606738222073,Industry
+Healthcare,Medical Devices,61,0.15901515287481016,Industry
+Healthcare,Healthcare Services,39,0.20357579777175472,Industry
+Finance,Banking,58,0.7878988837618566,Industry
+Finance,Insurance,30,0.17508729409161405,Industry
+Finance,Investment Services,22,0.6318241184762778,Industry
+Energy,Oil & Gas,16,0.7364119661113159,Industry
+Energy,Renewable Energy,95,0.5660117177205155,Industry
+Energy,Energy Exploration,46,0.9430290324171382,Industry
+Consumer Goods,Food & Beverage,23,0.3291189571918409,Industry
+Consumer Goods,Household Products,62,0.39146212704243066,Industry
+Consumer Goods,Apparel,72,0.6742038479863458,Industry
+Utilities,Electric,6,0.4596053575060295,Industry
+Utilities,Water,80,0.3012112573855539,Industry
+Utilities,Gas,36,0.17570769092380034,Industry
+Real Estate,Residential,63,0.9611689778740327,Industry
+Real Estate,Commercial,21,0.5324845384734501,Industry
+Real Estate,Industrial,72,0.03148548580002286,Industry
+Telecommunications,Mobile,55,0.7326204254564785,Industry
+Telecommunications,Broadband,55,0.39283699539521033,Industry
+Telecommunications,Satellite,40,0.9250935432464765,Industry
+Materials,Chemicals,11,0.9518281844608933,Industry
+Materials,Metals & Mining,82,0.6703918747076308,Industry
+Materials,Construction Materials,84,0.6271731653128162,Industry
+Industrials,Aerospace & Defense,38,0.8382717852097595,Industry
+Industrials,Machinery,24,0.8233932313413431,Industry
+Industrials,Industrial Services,79,0.5309653868430734,Industry
+Consumer Services,Retail,55,0.5437317912100783,Industry
+Consumer Services,Travel & Leisure,99,0.055989653662095074,Industry
+Consumer Services,Media,33,0.5547260816624477,Industry
+Transportation,Airlines,7,0.6425632105563558,Industry
+Transportation,Railroads,52,0.497980474422965,Industry
+Transportation,Logistics,8,0.35095420147903356,Industry

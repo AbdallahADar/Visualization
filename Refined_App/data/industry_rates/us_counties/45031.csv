@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Darlington,1715,0.48258753374217234,Overall
+Darlington,Technology,129,0.9252829643836277,Sector
+Darlington,Healthcare,134,0.24946325105678457,Sector
+Darlington,Finance,111,0.07339467384838949,Sector
+Darlington,Energy,151,0.16975499141268557,Sector
+Darlington,Consumer Goods,91,0.4987919451446676,Sector
+Darlington,Utilities,177,0.0409662869608457,Sector
+Darlington,Real Estate,154,0.22363636230949002,Sector
+Darlington,Telecommunications,210,0.4198667302573169,Sector
+Darlington,Materials,151,0.8577828716915111,Sector
+Darlington,Industrials,225,0.19333155680291347,Sector
+Darlington,Consumer Services,104,0.7199424801920485,Sector
+Darlington,Transportation,78,0.37462212079343515,Sector
+Technology,Software,36,0.9215875315918021,Industry
+Technology,Hardware,72,0.5379013805766268,Industry
+Technology,IT Services,21,0.2721202552247447,Industry
+Healthcare,Pharmaceuticals,48,0.7933069198007211,Industry
+Healthcare,Medical Devices,17,0.37732329933258524,Industry
+Healthcare,Healthcare Services,69,0.21384515065086995,Industry
+Finance,Banking,1,0.7487731376566862,Industry
+Finance,Insurance,54,0.4053409581238633,Industry
+Finance,Investment Services,56,0.9499056839594641,Industry
+Energy,Oil & Gas,89,0.7076565083155286,Industry
+Energy,Renewable Energy,54,0.44572106205358974,Industry
+Energy,Energy Exploration,8,0.5145824721523334,Industry
+Consumer Goods,Food & Beverage,28,0.5549644446425119,Industry
+Consumer Goods,Household Products,25,0.018773756567101674,Industry
+Consumer Goods,Apparel,38,0.3527125086037466,Industry
+Utilities,Electric,42,0.17914489998925986,Industry
+Utilities,Water,75,0.2593862180495442,Industry
+Utilities,Gas,60,0.025039457271006094,Industry
+Real Estate,Residential,95,0.8619403343431804,Industry
+Real Estate,Commercial,16,0.14083558065559443,Industry
+Real Estate,Industrial,43,0.0785633741005699,Industry
+Telecommunications,Mobile,79,0.771421382533176,Industry
+Telecommunications,Broadband,46,0.7631248984329251,Industry
+Telecommunications,Satellite,85,0.8373746888244288,Industry
+Materials,Chemicals,30,0.16183211546362042,Industry
+Materials,Metals & Mining,46,0.619363773373605,Industry
+Materials,Construction Materials,75,0.9686404197200039,Industry
+Industrials,Aerospace & Defense,72,0.13553252734881893,Industry
+Industrials,Machinery,77,0.4805389774448209,Industry
+Industrials,Industrial Services,76,0.5914682795648771,Industry
+Consumer Services,Retail,75,0.9570508641340879,Industry
+Consumer Services,Travel & Leisure,16,0.9343868874606291,Industry
+Consumer Services,Media,13,0.3765630269132143,Industry
+Transportation,Airlines,32,0.8676950260728656,Industry
+Transportation,Railroads,21,0.3966589917863568,Industry
+Transportation,Logistics,25,0.3869600457794987,Industry

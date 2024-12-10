@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Byen København,2005,0.7665049417673337,Overall
+Byen København,Technology,234,0.9459153539752755,Sector
+Byen København,Healthcare,124,0.24728156482507324,Sector
+Byen København,Finance,120,0.19801131816524908,Sector
+Byen København,Energy,147,0.2249935910450407,Sector
+Byen København,Consumer Goods,204,0.7036448107514784,Sector
+Byen København,Utilities,165,0.5434702137474435,Sector
+Byen København,Real Estate,138,0.20834361470314766,Sector
+Byen København,Telecommunications,136,0.24765095469610332,Sector
+Byen København,Materials,184,0.048620853270152975,Sector
+Byen København,Industrials,123,0.1918785105544074,Sector
+Byen København,Consumer Services,225,0.6990283248305179,Sector
+Byen København,Transportation,205,0.2825947920653472,Sector
+Technology,Software,57,0.5459502010197694,Industry
+Technology,Hardware,80,0.8336312216953939,Industry
+Technology,IT Services,97,0.10488908572905331,Industry
+Healthcare,Pharmaceuticals,0,0.4468200526861764,Industry
+Healthcare,Medical Devices,60,0.29625014569829455,Industry
+Healthcare,Healthcare Services,64,0.8782085961602117,Industry
+Finance,Banking,10,0.8816412140491299,Industry
+Finance,Insurance,70,0.2721323271105408,Industry
+Finance,Investment Services,40,0.4030269136788148,Industry
+Energy,Oil & Gas,41,0.2125598553700867,Industry
+Energy,Renewable Energy,54,0.25402478040269916,Industry
+Energy,Energy Exploration,52,0.31109950789993623,Industry
+Consumer Goods,Food & Beverage,60,0.6378270845630314,Industry
+Consumer Goods,Household Products,73,0.4456186525720198,Industry
+Consumer Goods,Apparel,71,0.5441580944013262,Industry
+Utilities,Electric,52,0.183536793126175,Industry
+Utilities,Water,54,0.22879073348631218,Industry
+Utilities,Gas,59,0.8077396466607699,Industry
+Real Estate,Residential,32,0.5736685336872782,Industry
+Real Estate,Commercial,18,0.14973912308661297,Industry
+Real Estate,Industrial,88,0.45038225332228776,Industry
+Telecommunications,Mobile,29,0.5623352159332329,Industry
+Telecommunications,Broadband,17,0.29119038473576564,Industry
+Telecommunications,Satellite,90,0.5572021660466295,Industry
+Materials,Chemicals,2,0.931364807459236,Industry
+Materials,Metals & Mining,93,0.24061874233443703,Industry
+Materials,Construction Materials,89,0.820095344343215,Industry
+Industrials,Aerospace & Defense,86,0.5124184593294636,Industry
+Industrials,Machinery,1,0.9016301422671715,Industry
+Industrials,Industrial Services,36,0.17033660046898536,Industry
+Consumer Services,Retail,44,0.3606120443152462,Industry
+Consumer Services,Travel & Leisure,86,0.8985634820460481,Industry
+Consumer Services,Media,95,0.49446746975763634,Industry
+Transportation,Airlines,90,0.4489597672972908,Industry
+Transportation,Railroads,85,0.9726260749297001,Industry
+Transportation,Logistics,30,0.9793861309787284,Industry

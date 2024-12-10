@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Fort Bend,1433,0.7806727430081611,Overall
+Fort Bend,Technology,117,0.7271292519690714,Sector
+Fort Bend,Healthcare,88,0.5997778483075873,Sector
+Fort Bend,Finance,95,0.581953723055817,Sector
+Fort Bend,Energy,124,0.3175060655873103,Sector
+Fort Bend,Consumer Goods,84,0.5381498520958801,Sector
+Fort Bend,Utilities,102,0.45352386436984726,Sector
+Fort Bend,Real Estate,150,0.38947259429449255,Sector
+Fort Bend,Telecommunications,146,0.17070790779595213,Sector
+Fort Bend,Materials,105,0.7659504276937168,Sector
+Fort Bend,Industrials,137,0.710851930363767,Sector
+Fort Bend,Consumer Services,158,0.04500593749063897,Sector
+Fort Bend,Transportation,127,0.2601238972132175,Sector
+Technology,Software,4,0.14677644383970057,Industry
+Technology,Hardware,48,0.36492164539073046,Industry
+Technology,IT Services,65,0.2650946211720989,Industry
+Healthcare,Pharmaceuticals,66,0.9038559825024525,Industry
+Healthcare,Medical Devices,11,0.21017278444823928,Industry
+Healthcare,Healthcare Services,11,0.5623201971467852,Industry
+Finance,Banking,33,0.30621560643007684,Industry
+Finance,Insurance,37,0.26800411683633973,Industry
+Finance,Investment Services,25,0.24497566222210154,Industry
+Energy,Oil & Gas,68,0.9352060867155179,Industry
+Energy,Renewable Energy,9,0.22477560118509932,Industry
+Energy,Energy Exploration,47,0.02158518309337376,Industry
+Consumer Goods,Food & Beverage,33,0.7447647944800371,Industry
+Consumer Goods,Household Products,49,0.7022936338672753,Industry
+Consumer Goods,Apparel,2,0.657910109327701,Industry
+Utilities,Electric,59,0.4691564415125681,Industry
+Utilities,Water,12,0.11455686238357055,Industry
+Utilities,Gas,31,0.4927946265835499,Industry
+Real Estate,Residential,78,0.4813271252353204,Industry
+Real Estate,Commercial,66,0.6031782208746538,Industry
+Real Estate,Industrial,6,0.30674376531978287,Industry
+Telecommunications,Mobile,28,0.488289029537474,Industry
+Telecommunications,Broadband,41,0.42992771232718197,Industry
+Telecommunications,Satellite,77,0.11112127789089832,Industry
+Materials,Chemicals,51,0.19914292625631214,Industry
+Materials,Metals & Mining,2,0.8450413124911541,Industry
+Materials,Construction Materials,52,0.43444324513303256,Industry
+Industrials,Aerospace & Defense,44,0.3923371582818418,Industry
+Industrials,Machinery,0,0.8506105785176861,Industry
+Industrials,Industrial Services,93,0.8707516913478253,Industry
+Consumer Services,Retail,4,0.5937552077860098,Industry
+Consumer Services,Travel & Leisure,83,0.03320169778173099,Industry
+Consumer Services,Media,71,0.19412101825343897,Industry
+Transportation,Airlines,63,0.2527088375411968,Industry
+Transportation,Railroads,18,0.6344038020064785,Industry
+Transportation,Logistics,46,0.3075633172669008,Industry

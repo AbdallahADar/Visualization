@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Sarthe,1465,0.09069861212888175,Overall
+Sarthe,Technology,199,0.7921779426459213,Sector
+Sarthe,Healthcare,68,0.205173544128063,Sector
+Sarthe,Finance,163,0.9488858741339706,Sector
+Sarthe,Energy,157,0.03129957791306037,Sector
+Sarthe,Consumer Goods,118,0.5029884862993097,Sector
+Sarthe,Utilities,97,0.7395148551990708,Sector
+Sarthe,Real Estate,65,0.4831346392050563,Sector
+Sarthe,Telecommunications,104,0.6376497755071961,Sector
+Sarthe,Materials,122,0.1530986281386023,Sector
+Sarthe,Industrials,143,0.9168334328986839,Sector
+Sarthe,Consumer Services,100,0.8323237971118521,Sector
+Sarthe,Transportation,129,0.8711037567373232,Sector
+Technology,Software,87,0.5523924532777372,Industry
+Technology,Hardware,70,0.4558875267165533,Industry
+Technology,IT Services,42,0.2652283367545297,Industry
+Healthcare,Pharmaceuticals,9,0.7139560756170945,Industry
+Healthcare,Medical Devices,17,0.9316130286588401,Industry
+Healthcare,Healthcare Services,42,0.7625855511135243,Industry
+Finance,Banking,52,0.5218178173631438,Industry
+Finance,Insurance,83,0.18253334389358844,Industry
+Finance,Investment Services,28,0.30923137349795304,Industry
+Energy,Oil & Gas,49,0.6314424256870272,Industry
+Energy,Renewable Energy,88,0.2887259108017328,Industry
+Energy,Energy Exploration,20,0.2633659575254338,Industry
+Consumer Goods,Food & Beverage,54,0.3076246991471333,Industry
+Consumer Goods,Household Products,61,0.07395184857678827,Industry
+Consumer Goods,Apparel,3,0.11992937381344015,Industry
+Utilities,Electric,51,0.8061477159399274,Industry
+Utilities,Water,34,0.4558086189927686,Industry
+Utilities,Gas,12,0.9677609538334754,Industry
+Real Estate,Residential,10,0.06616877076958394,Industry
+Real Estate,Commercial,43,0.6175838906302659,Industry
+Real Estate,Industrial,12,0.5144528482651101,Industry
+Telecommunications,Mobile,50,0.6046488662999782,Industry
+Telecommunications,Broadband,3,0.19183079952636628,Industry
+Telecommunications,Satellite,51,0.5157316061298003,Industry
+Materials,Chemicals,60,0.9355598364026223,Industry
+Materials,Metals & Mining,2,0.4617878533591847,Industry
+Materials,Construction Materials,60,0.08356204642060994,Industry
+Industrials,Aerospace & Defense,58,0.46871282878557297,Industry
+Industrials,Machinery,22,0.9590745641549039,Industry
+Industrials,Industrial Services,63,0.5899099070639777,Industry
+Consumer Services,Retail,6,0.23613094229767728,Industry
+Consumer Services,Travel & Leisure,34,0.1849256837424449,Industry
+Consumer Services,Media,60,0.15415139142801404,Industry
+Transportation,Airlines,14,0.5483834658599809,Industry
+Transportation,Railroads,46,0.7168125411324621,Industry
+Transportation,Logistics,69,0.8254066481507141,Industry

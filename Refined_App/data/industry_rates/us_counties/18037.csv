@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Dubois,1964,0.5956360419715719,Overall
+Dubois,Technology,243,0.7099854808313026,Sector
+Dubois,Healthcare,130,0.1786883868596313,Sector
+Dubois,Finance,183,0.22512921743634295,Sector
+Dubois,Energy,95,0.9165324550111854,Sector
+Dubois,Consumer Goods,230,0.18945846296774338,Sector
+Dubois,Utilities,176,0.44534630044593393,Sector
+Dubois,Real Estate,259,0.04848866613693825,Sector
+Dubois,Telecommunications,121,0.8196011236582893,Sector
+Dubois,Materials,194,0.6396451313360098,Sector
+Dubois,Industrials,152,0.25506378178655165,Sector
+Dubois,Consumer Services,40,0.6076814271345029,Sector
+Dubois,Transportation,141,0.7487645371278322,Sector
+Technology,Software,83,0.568759738602945,Industry
+Technology,Hardware,82,0.5350765755035133,Industry
+Technology,IT Services,78,0.221637949336687,Industry
+Healthcare,Pharmaceuticals,21,0.5477681922549844,Industry
+Healthcare,Medical Devices,23,0.14744858300189378,Industry
+Healthcare,Healthcare Services,86,0.13024887834003918,Industry
+Finance,Banking,51,0.6521807445272784,Industry
+Finance,Insurance,89,0.09052960219740414,Industry
+Finance,Investment Services,43,0.27979454696871575,Industry
+Energy,Oil & Gas,5,0.8510929144391315,Industry
+Energy,Renewable Energy,7,0.34638994428711534,Industry
+Energy,Energy Exploration,83,0.1603719606912125,Industry
+Consumer Goods,Food & Beverage,36,0.7250349082634501,Industry
+Consumer Goods,Household Products,98,0.9803148810347566,Industry
+Consumer Goods,Apparel,96,0.9201962674872906,Industry
+Utilities,Electric,38,0.49639733677519493,Industry
+Utilities,Water,85,0.8189092653299731,Industry
+Utilities,Gas,53,0.5162374747244293,Industry
+Real Estate,Residential,81,0.12882340136170034,Industry
+Real Estate,Commercial,98,0.1601291654744733,Industry
+Real Estate,Industrial,80,0.8737298212405565,Industry
+Telecommunications,Mobile,86,0.7418620499066423,Industry
+Telecommunications,Broadband,35,0.6395624651324556,Industry
+Telecommunications,Satellite,0,0.8161536163253283,Industry
+Materials,Chemicals,50,0.9534121460619825,Industry
+Materials,Metals & Mining,71,0.8358589385615931,Industry
+Materials,Construction Materials,73,0.2907439786736099,Industry
+Industrials,Aerospace & Defense,9,0.9534970306526394,Industry
+Industrials,Machinery,83,0.2633897238029921,Industry
+Industrials,Industrial Services,60,0.20987900154663586,Industry
+Consumer Services,Retail,15,0.6574580673291922,Industry
+Consumer Services,Travel & Leisure,0,0.908471276787108,Industry
+Consumer Services,Media,25,0.5964584030448986,Industry
+Transportation,Airlines,44,0.9007773054136591,Industry
+Transportation,Railroads,43,0.8404799166457314,Industry
+Transportation,Logistics,54,0.46943406639393936,Industry

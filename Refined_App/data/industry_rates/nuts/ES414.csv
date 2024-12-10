@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Palencia,1726,0.8362507866578456,Overall
+Palencia,Technology,250,0.6787777699870599,Sector
+Palencia,Healthcare,110,0.2934979263073296,Sector
+Palencia,Finance,154,0.9551929041198639,Sector
+Palencia,Energy,72,0.7447190759767769,Sector
+Palencia,Consumer Goods,92,0.0077475139691265404,Sector
+Palencia,Utilities,167,0.34114879384709695,Sector
+Palencia,Real Estate,222,0.23078753898037307,Sector
+Palencia,Telecommunications,153,0.9670770474550583,Sector
+Palencia,Materials,107,0.27365996250689606,Sector
+Palencia,Industrials,139,0.8138652467779343,Sector
+Palencia,Consumer Services,163,0.758478898944734,Sector
+Palencia,Transportation,97,0.432224019406969,Sector
+Technology,Software,77,0.5853775529580475,Industry
+Technology,Hardware,91,0.22748287853530813,Industry
+Technology,IT Services,82,0.23791087638429298,Industry
+Healthcare,Pharmaceuticals,12,0.8851423239900121,Industry
+Healthcare,Medical Devices,61,0.1240292130645011,Industry
+Healthcare,Healthcare Services,37,0.3434360231010677,Industry
+Finance,Banking,8,0.43482670776636145,Industry
+Finance,Insurance,85,0.23711672854131838,Industry
+Finance,Investment Services,61,0.13039108399659294,Industry
+Energy,Oil & Gas,15,0.9662674138237584,Industry
+Energy,Renewable Energy,14,0.5007614937607778,Industry
+Energy,Energy Exploration,43,0.8370786900022379,Industry
+Consumer Goods,Food & Beverage,28,0.2330538134320823,Industry
+Consumer Goods,Household Products,40,0.19243091062183126,Industry
+Consumer Goods,Apparel,24,0.9169150989098726,Industry
+Utilities,Electric,56,0.014019333043205351,Industry
+Utilities,Water,92,0.3482549777469879,Industry
+Utilities,Gas,19,0.8483987663266065,Industry
+Real Estate,Residential,66,0.8142746482927701,Industry
+Real Estate,Commercial,57,0.14488991521704864,Industry
+Real Estate,Industrial,99,0.043924407861473336,Industry
+Telecommunications,Mobile,79,0.7410675002582969,Industry
+Telecommunications,Broadband,49,0.4768822153055271,Industry
+Telecommunications,Satellite,25,0.5381664208161059,Industry
+Materials,Chemicals,21,0.17028459413629116,Industry
+Materials,Metals & Mining,62,0.47229818192345985,Industry
+Materials,Construction Materials,24,0.5497596347920612,Industry
+Industrials,Aerospace & Defense,71,0.6607393579695354,Industry
+Industrials,Machinery,14,0.29887674499759065,Industry
+Industrials,Industrial Services,54,0.8761023998524244,Industry
+Consumer Services,Retail,31,0.3859092239138273,Industry
+Consumer Services,Travel & Leisure,58,0.7539038563839238,Industry
+Consumer Services,Media,74,0.4318012877294649,Industry
+Transportation,Airlines,20,0.7750758151831386,Industry
+Transportation,Railroads,4,0.4885545720085116,Industry
+Transportation,Logistics,73,0.536465526647241,Industry

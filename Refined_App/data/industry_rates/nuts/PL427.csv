@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Szczecinecko-pyrzycki,1932,0.3148806685186196,Overall
+Szczecinecko-pyrzycki,Technology,75,0.3223518655292422,Sector
+Szczecinecko-pyrzycki,Healthcare,115,0.37587439230593633,Sector
+Szczecinecko-pyrzycki,Finance,254,0.5355439878810153,Sector
+Szczecinecko-pyrzycki,Energy,120,0.7343010322146541,Sector
+Szczecinecko-pyrzycki,Consumer Goods,252,0.5565612498811504,Sector
+Szczecinecko-pyrzycki,Utilities,128,0.06927333702356986,Sector
+Szczecinecko-pyrzycki,Real Estate,199,0.3314438632009471,Sector
+Szczecinecko-pyrzycki,Telecommunications,152,0.17960354117029542,Sector
+Szczecinecko-pyrzycki,Materials,217,0.09041521865033197,Sector
+Szczecinecko-pyrzycki,Industrials,180,0.22359342349567357,Sector
+Szczecinecko-pyrzycki,Consumer Services,58,0.1493177399246024,Sector
+Szczecinecko-pyrzycki,Transportation,182,0.49207236701265233,Sector
+Technology,Software,17,0.6640269722564195,Industry
+Technology,Hardware,39,0.2201710929559504,Industry
+Technology,IT Services,19,0.06822575250426355,Industry
+Healthcare,Pharmaceuticals,13,0.5905309935728056,Industry
+Healthcare,Medical Devices,50,0.8538516746104762,Industry
+Healthcare,Healthcare Services,52,0.643229251265294,Industry
+Finance,Banking,75,0.15716960786327505,Industry
+Finance,Insurance,99,0.00938696235504266,Industry
+Finance,Investment Services,80,0.9193695819645873,Industry
+Energy,Oil & Gas,54,0.5328561964431038,Industry
+Energy,Renewable Energy,9,0.814710011052117,Industry
+Energy,Energy Exploration,57,0.6293872100601029,Industry
+Consumer Goods,Food & Beverage,97,0.722101269664271,Industry
+Consumer Goods,Household Products,62,0.8237971239174623,Industry
+Consumer Goods,Apparel,93,0.9411903470066963,Industry
+Utilities,Electric,9,0.9033840609629078,Industry
+Utilities,Water,30,0.07706210206836761,Industry
+Utilities,Gas,89,0.7366684217788547,Industry
+Real Estate,Residential,66,0.5569681240915347,Industry
+Real Estate,Commercial,59,0.8054253006293657,Industry
+Real Estate,Industrial,74,0.16474752933983816,Industry
+Telecommunications,Mobile,20,0.262795326869096,Industry
+Telecommunications,Broadband,79,0.23046477651941988,Industry
+Telecommunications,Satellite,53,0.4655571760727487,Industry
+Materials,Chemicals,70,0.7294028433691687,Industry
+Materials,Metals & Mining,98,0.5557334960251125,Industry
+Materials,Construction Materials,49,0.7181752355803532,Industry
+Industrials,Aerospace & Defense,59,0.8602217941564386,Industry
+Industrials,Machinery,93,0.5847873280606314,Industry
+Industrials,Industrial Services,28,0.9085578032396066,Industry
+Consumer Services,Retail,42,0.5555525775839105,Industry
+Consumer Services,Travel & Leisure,7,0.5621645453139709,Industry
+Consumer Services,Media,9,0.15390383866451096,Industry
+Transportation,Airlines,70,0.4369931043057578,Industry
+Transportation,Railroads,17,0.8246002193357641,Industry
+Transportation,Logistics,95,0.730850584597973,Industry

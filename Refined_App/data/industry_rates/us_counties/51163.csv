@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Rockbridge,1932,0.8130789424468574,Overall
+Rockbridge,Technology,102,0.4871050695800675,Sector
+Rockbridge,Healthcare,128,0.1054710138081123,Sector
+Rockbridge,Finance,239,0.6258822544338688,Sector
+Rockbridge,Energy,113,0.6934276731083311,Sector
+Rockbridge,Consumer Goods,205,0.9890823374736772,Sector
+Rockbridge,Utilities,169,0.3189913131317148,Sector
+Rockbridge,Real Estate,186,0.28623135092382834,Sector
+Rockbridge,Telecommunications,196,0.8049168105620482,Sector
+Rockbridge,Materials,97,0.23553174618523398,Sector
+Rockbridge,Industrials,163,0.8591555901625498,Sector
+Rockbridge,Consumer Services,131,0.2832361390176944,Sector
+Rockbridge,Transportation,203,0.449755040001537,Sector
+Technology,Software,73,0.18526831255052045,Industry
+Technology,Hardware,25,0.12492588413106598,Industry
+Technology,IT Services,4,0.6027094847776083,Industry
+Healthcare,Pharmaceuticals,60,0.7221356835746093,Industry
+Healthcare,Medical Devices,56,0.5984156845233424,Industry
+Healthcare,Healthcare Services,12,0.5650320045676761,Industry
+Finance,Banking,91,0.7820903948564016,Industry
+Finance,Insurance,50,0.5203195734231554,Industry
+Finance,Investment Services,98,0.9209242850725441,Industry
+Energy,Oil & Gas,70,0.968112354734974,Industry
+Energy,Renewable Energy,10,0.6314560374982257,Industry
+Energy,Energy Exploration,33,0.1826406583366892,Industry
+Consumer Goods,Food & Beverage,92,0.7166193169723555,Industry
+Consumer Goods,Household Products,26,0.594838146340603,Industry
+Consumer Goods,Apparel,87,0.7826560952148772,Industry
+Utilities,Electric,95,0.241727633571999,Industry
+Utilities,Water,51,0.504360923357214,Industry
+Utilities,Gas,23,0.7876957984788154,Industry
+Real Estate,Residential,69,0.9191434307887855,Industry
+Real Estate,Commercial,90,0.8339101622398587,Industry
+Real Estate,Industrial,27,0.807229759294299,Industry
+Telecommunications,Mobile,46,0.044502578874573984,Industry
+Telecommunications,Broadband,98,0.8860111364896787,Industry
+Telecommunications,Satellite,52,0.5739656835646593,Industry
+Materials,Chemicals,13,0.5721072029562508,Industry
+Materials,Metals & Mining,17,0.40923537366637286,Industry
+Materials,Construction Materials,67,0.8623276219288766,Industry
+Industrials,Aerospace & Defense,23,0.1156013574781024,Industry
+Industrials,Machinery,59,0.6330814128137547,Industry
+Industrials,Industrial Services,81,0.5637254491121791,Industry
+Consumer Services,Retail,19,0.5059666013090325,Industry
+Consumer Services,Travel & Leisure,36,0.6946980503326132,Industry
+Consumer Services,Media,76,0.880107523331516,Industry
+Transportation,Airlines,84,0.8896189251922623,Industry
+Transportation,Railroads,43,0.12063125611732872,Industry
+Transportation,Logistics,76,0.4613128200583313,Industry

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Williamsburg,1820,0.2292122790850618,Overall
+Williamsburg,Technology,93,0.6364958484804135,Sector
+Williamsburg,Healthcare,202,0.2848487649910201,Sector
+Williamsburg,Finance,101,0.17227236281769465,Sector
+Williamsburg,Energy,229,0.8458649191334348,Sector
+Williamsburg,Consumer Goods,136,0.7280765140208605,Sector
+Williamsburg,Utilities,208,0.3220104909822745,Sector
+Williamsburg,Real Estate,95,0.13443257942929332,Sector
+Williamsburg,Telecommunications,150,0.8217175282735791,Sector
+Williamsburg,Materials,102,0.5025755994363634,Sector
+Williamsburg,Industrials,186,0.887874250986728,Sector
+Williamsburg,Consumer Services,100,0.8846390944880711,Sector
+Williamsburg,Transportation,218,0.8378252619552676,Sector
+Technology,Software,50,0.8162865861039442,Industry
+Technology,Hardware,32,0.19302905100380874,Industry
+Technology,IT Services,11,0.0524999390817783,Industry
+Healthcare,Pharmaceuticals,66,0.43487467857340856,Industry
+Healthcare,Medical Devices,80,0.3359657980274179,Industry
+Healthcare,Healthcare Services,56,0.5378684402733902,Industry
+Finance,Banking,67,0.08791452294297297,Industry
+Finance,Insurance,25,0.7812206028761798,Industry
+Finance,Investment Services,9,0.7812124761151675,Industry
+Energy,Oil & Gas,85,0.9165554389613607,Industry
+Energy,Renewable Energy,95,0.9469525274197214,Industry
+Energy,Energy Exploration,49,0.3070628992161222,Industry
+Consumer Goods,Food & Beverage,39,0.49574625585502163,Industry
+Consumer Goods,Household Products,51,0.6466165979831981,Industry
+Consumer Goods,Apparel,46,0.7940280055661865,Industry
+Utilities,Electric,13,0.08609536150451147,Industry
+Utilities,Water,98,0.66762646701499,Industry
+Utilities,Gas,97,0.01868672510035696,Industry
+Real Estate,Residential,13,0.2068502922941693,Industry
+Real Estate,Commercial,32,0.7723592053837769,Industry
+Real Estate,Industrial,50,0.3391670450927263,Industry
+Telecommunications,Mobile,2,0.5411673586895757,Industry
+Telecommunications,Broadband,84,0.24021934247360266,Industry
+Telecommunications,Satellite,64,0.44071540043321267,Industry
+Materials,Chemicals,12,0.6814031026764854,Industry
+Materials,Metals & Mining,56,0.8225769550552925,Industry
+Materials,Construction Materials,34,0.4183748963267553,Industry
+Industrials,Aerospace & Defense,44,0.07113172865003003,Industry
+Industrials,Machinery,43,0.49443783226181026,Industry
+Industrials,Industrial Services,99,0.10069998201113395,Industry
+Consumer Services,Retail,1,0.6800649811498918,Industry
+Consumer Services,Travel & Leisure,52,0.05915688059975732,Industry
+Consumer Services,Media,47,0.2504827978236508,Industry
+Transportation,Airlines,35,0.1084064088826946,Industry
+Transportation,Railroads,99,0.8692666350228104,Industry
+Transportation,Logistics,84,0.46495223939069596,Industry

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Almería,1807,0.13075268323031775,Overall
+Almería,Technology,199,0.9025460237301706,Sector
+Almería,Healthcare,124,0.21334159510634898,Sector
+Almería,Finance,126,0.7725109504830887,Sector
+Almería,Energy,161,0.9200662001635364,Sector
+Almería,Consumer Goods,150,0.07959232399310567,Sector
+Almería,Utilities,95,0.5560282410548967,Sector
+Almería,Real Estate,85,0.8796434016253346,Sector
+Almería,Telecommunications,221,0.7730405742679252,Sector
+Almería,Materials,151,0.8308508815198901,Sector
+Almería,Industrials,131,0.613074400710256,Sector
+Almería,Consumer Services,186,0.7648016942081975,Sector
+Almería,Transportation,178,0.10398567166463701,Sector
+Technology,Software,88,0.4324463083355494,Industry
+Technology,Hardware,42,0.38636277892212656,Industry
+Technology,IT Services,69,0.258759088390376,Industry
+Healthcare,Pharmaceuticals,45,0.5850438317569086,Industry
+Healthcare,Medical Devices,66,0.8324066568398117,Industry
+Healthcare,Healthcare Services,13,0.7788377302304055,Industry
+Finance,Banking,41,0.8077574489345127,Industry
+Finance,Insurance,18,0.6154524276315438,Industry
+Finance,Investment Services,67,0.5613270288973794,Industry
+Energy,Oil & Gas,39,0.8385461030843534,Industry
+Energy,Renewable Energy,46,0.6931052302911601,Industry
+Energy,Energy Exploration,76,0.42798153527455796,Industry
+Consumer Goods,Food & Beverage,2,0.8825089842750952,Industry
+Consumer Goods,Household Products,83,0.3927613274832068,Industry
+Consumer Goods,Apparel,65,0.13110192188595626,Industry
+Utilities,Electric,58,0.812374208616354,Industry
+Utilities,Water,2,0.08569460765807324,Industry
+Utilities,Gas,35,0.8538981170275328,Industry
+Real Estate,Residential,32,0.22323114265697896,Industry
+Real Estate,Commercial,27,0.015624422887870582,Industry
+Real Estate,Industrial,26,0.044344572530749526,Industry
+Telecommunications,Mobile,99,0.5352787537127842,Industry
+Telecommunications,Broadband,44,0.7411408367656426,Industry
+Telecommunications,Satellite,78,0.5712969526014318,Industry
+Materials,Chemicals,13,0.22253714300673189,Industry
+Materials,Metals & Mining,85,0.4674481969842331,Industry
+Materials,Construction Materials,53,0.33607145162385776,Industry
+Industrials,Aerospace & Defense,53,0.974639239646451,Industry
+Industrials,Machinery,57,0.2775403320304297,Industry
+Industrials,Industrial Services,21,0.6221280031065753,Industry
+Consumer Services,Retail,65,0.20430225345568087,Industry
+Consumer Services,Travel & Leisure,55,0.21500783681584046,Industry
+Consumer Services,Media,66,0.8558058687707447,Industry
+Transportation,Airlines,57,0.6331486891425443,Industry
+Transportation,Railroads,87,0.15893950907383714,Industry
+Transportation,Logistics,34,0.5400677315399675,Industry

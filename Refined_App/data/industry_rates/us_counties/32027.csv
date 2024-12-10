@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Pershing,2040,0.20472785790552284,Overall
+Pershing,Technology,165,0.6967256258344176,Sector
+Pershing,Healthcare,208,0.9833796363559224,Sector
+Pershing,Finance,148,0.27011950785464167,Sector
+Pershing,Energy,170,0.34828430563247126,Sector
+Pershing,Consumer Goods,193,0.23765739961053423,Sector
+Pershing,Utilities,128,0.3054906730783403,Sector
+Pershing,Real Estate,219,0.07149196056081464,Sector
+Pershing,Telecommunications,134,0.08381895751812773,Sector
+Pershing,Materials,190,0.5457128428867666,Sector
+Pershing,Industrials,187,0.4756788913644989,Sector
+Pershing,Consumer Services,60,0.6228281273549908,Sector
+Pershing,Transportation,238,0.63065413914036,Sector
+Technology,Software,21,0.7287144608156244,Industry
+Technology,Hardware,60,0.3790964887679523,Industry
+Technology,IT Services,84,0.2709188279923891,Industry
+Healthcare,Pharmaceuticals,68,0.60185729966969,Industry
+Healthcare,Medical Devices,63,0.4608015856680622,Industry
+Healthcare,Healthcare Services,77,0.526592581427181,Industry
+Finance,Banking,17,0.946441081469376,Industry
+Finance,Insurance,49,0.22535738203354516,Industry
+Finance,Investment Services,82,0.2410748943409886,Industry
+Energy,Oil & Gas,77,0.7866269625743315,Industry
+Energy,Renewable Energy,33,0.41991472288509557,Industry
+Energy,Energy Exploration,60,0.8389371900246559,Industry
+Consumer Goods,Food & Beverage,81,0.046090548209928084,Industry
+Consumer Goods,Household Products,74,0.898992383218214,Industry
+Consumer Goods,Apparel,38,0.1313133746871129,Industry
+Utilities,Electric,85,0.8782244623872574,Industry
+Utilities,Water,38,0.7336088913221006,Industry
+Utilities,Gas,5,0.3440570381219362,Industry
+Real Estate,Residential,66,0.24408672180990143,Industry
+Real Estate,Commercial,60,0.0948024101280468,Industry
+Real Estate,Industrial,93,0.4912766050066363,Industry
+Telecommunications,Mobile,96,0.7835810569184837,Industry
+Telecommunications,Broadband,0,0.30008175606065934,Industry
+Telecommunications,Satellite,38,0.6851887516748075,Industry
+Materials,Chemicals,76,0.5698645701081804,Industry
+Materials,Metals & Mining,60,0.3517460869260296,Industry
+Materials,Construction Materials,54,0.5751520138651421,Industry
+Industrials,Aerospace & Defense,71,0.1372038333684531,Industry
+Industrials,Machinery,83,0.008658089100871846,Industry
+Industrials,Industrial Services,33,0.9672383891517102,Industry
+Consumer Services,Retail,28,0.3740961619354579,Industry
+Consumer Services,Travel & Leisure,2,0.027374183989209322,Industry
+Consumer Services,Media,30,0.2678747238594922,Industry
+Transportation,Airlines,79,0.7901651496371778,Industry
+Transportation,Railroads,90,0.9435897058613896,Industry
+Transportation,Logistics,69,0.03835909600932297,Industry

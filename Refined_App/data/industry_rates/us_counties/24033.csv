@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Prince George's,1779,0.6344876371893923,Overall
+Prince George's,Technology,44,0.8402961352081402,Sector
+Prince George's,Healthcare,131,0.10848403104722337,Sector
+Prince George's,Finance,153,0.7517134343724466,Sector
+Prince George's,Energy,125,0.520334002182958,Sector
+Prince George's,Consumer Goods,148,0.023693834521411827,Sector
+Prince George's,Utilities,179,0.7553363000606161,Sector
+Prince George's,Real Estate,204,0.39497551816461707,Sector
+Prince George's,Telecommunications,208,0.6566055009463283,Sector
+Prince George's,Materials,176,0.2774298597063085,Sector
+Prince George's,Industrials,108,0.28678416469434453,Sector
+Prince George's,Consumer Services,158,0.5028953310209733,Sector
+Prince George's,Transportation,145,0.8795156903532698,Sector
+Technology,Software,22,0.744667483340877,Industry
+Technology,Hardware,17,0.4390955950622739,Industry
+Technology,IT Services,5,0.9544422844835488,Industry
+Healthcare,Pharmaceuticals,69,0.5004665006289686,Industry
+Healthcare,Medical Devices,33,0.2747895289754211,Industry
+Healthcare,Healthcare Services,29,0.7766714597454872,Industry
+Finance,Banking,85,0.6780610150917971,Industry
+Finance,Insurance,39,0.06700756678893716,Industry
+Finance,Investment Services,29,0.0030223030742722035,Industry
+Energy,Oil & Gas,26,0.584797664598341,Industry
+Energy,Renewable Energy,58,0.8300254863517306,Industry
+Energy,Energy Exploration,41,0.42081370803544316,Industry
+Consumer Goods,Food & Beverage,15,0.5407256559941481,Industry
+Consumer Goods,Household Products,41,0.40029666241124673,Industry
+Consumer Goods,Apparel,92,0.29607420088152425,Industry
+Utilities,Electric,24,0.932279842251751,Industry
+Utilities,Water,73,0.4790590258599077,Industry
+Utilities,Gas,82,0.44954073547237106,Industry
+Real Estate,Residential,85,0.1353668383793063,Industry
+Real Estate,Commercial,56,0.7080663004755473,Industry
+Real Estate,Industrial,63,0.45694393953514023,Industry
+Telecommunications,Mobile,98,0.930869339633225,Industry
+Telecommunications,Broadband,70,0.9688590714380002,Industry
+Telecommunications,Satellite,40,0.48651370786253334,Industry
+Materials,Chemicals,93,0.4412970653479118,Industry
+Materials,Metals & Mining,77,0.42686880683721995,Industry
+Materials,Construction Materials,6,0.033272378014703285,Industry
+Industrials,Aerospace & Defense,21,0.29307086228603585,Industry
+Industrials,Machinery,86,0.5081731557191941,Industry
+Industrials,Industrial Services,1,0.7262930494071927,Industry
+Consumer Services,Retail,45,0.2508400294202823,Industry
+Consumer Services,Travel & Leisure,43,0.3613468119471357,Industry
+Consumer Services,Media,70,0.7055103099142997,Industry
+Transportation,Airlines,63,0.4399416866246417,Industry
+Transportation,Railroads,25,0.7167988627960982,Industry
+Transportation,Logistics,57,0.4929030148737791,Industry

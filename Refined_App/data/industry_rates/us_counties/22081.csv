@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Red River,1752,0.7446295653313747,Overall
+Red River,Technology,118,0.6996594585714846,Sector
+Red River,Healthcare,130,0.9833906744645852,Sector
+Red River,Finance,174,0.004821540701667737,Sector
+Red River,Energy,93,0.17537874742722825,Sector
+Red River,Consumer Goods,191,0.8960378743204065,Sector
+Red River,Utilities,137,0.7019194920921034,Sector
+Red River,Real Estate,180,0.04355341482895969,Sector
+Red River,Telecommunications,226,0.32857214360776354,Sector
+Red River,Materials,168,0.10875034609176182,Sector
+Red River,Industrials,143,0.614987689032477,Sector
+Red River,Consumer Services,124,0.19685545436106966,Sector
+Red River,Transportation,68,0.6660017489754528,Sector
+Technology,Software,50,0.9736942504295513,Industry
+Technology,Hardware,19,0.3549242286467509,Industry
+Technology,IT Services,49,0.03729538068619964,Industry
+Healthcare,Pharmaceuticals,33,0.22324329308685265,Industry
+Healthcare,Medical Devices,56,0.3754676118095489,Industry
+Healthcare,Healthcare Services,41,0.34680629026355625,Industry
+Finance,Banking,27,0.3318621200264572,Industry
+Finance,Insurance,78,0.13860772622824646,Industry
+Finance,Investment Services,69,0.5063910717989576,Industry
+Energy,Oil & Gas,49,0.6246259068762854,Industry
+Energy,Renewable Energy,31,0.11078273974577058,Industry
+Energy,Energy Exploration,13,0.38682542181008206,Industry
+Consumer Goods,Food & Beverage,89,0.4502632176729606,Industry
+Consumer Goods,Household Products,58,0.5630805284441014,Industry
+Consumer Goods,Apparel,44,0.794347371492107,Industry
+Utilities,Electric,98,0.5410178530580994,Industry
+Utilities,Water,38,0.5948616642102509,Industry
+Utilities,Gas,1,0.47705071337210736,Industry
+Real Estate,Residential,48,0.8990381760076971,Industry
+Real Estate,Commercial,82,0.78022148680507,Industry
+Real Estate,Industrial,50,0.03861978645113162,Industry
+Telecommunications,Mobile,41,0.6055027633043629,Industry
+Telecommunications,Broadband,96,0.07707323710347658,Industry
+Telecommunications,Satellite,89,0.2857273835966775,Industry
+Materials,Chemicals,31,0.5145712917867347,Industry
+Materials,Metals & Mining,63,0.2423812959116688,Industry
+Materials,Construction Materials,74,0.9428700487753254,Industry
+Industrials,Aerospace & Defense,83,0.36155159045807694,Industry
+Industrials,Machinery,18,0.4883837335677814,Industry
+Industrials,Industrial Services,42,0.9327157338246123,Industry
+Consumer Services,Retail,18,0.8137546894750006,Industry
+Consumer Services,Travel & Leisure,33,0.034330618481005715,Industry
+Consumer Services,Media,73,0.0740144710031615,Industry
+Transportation,Airlines,0,0.6700532087389163,Industry
+Transportation,Railroads,8,0.9830972178405238,Industry
+Transportation,Logistics,60,0.5888828215700493,Industry

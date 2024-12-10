@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Córdoba,1923,0.3995246106568182,Overall
+Córdoba,Technology,138,0.5930025111701008,Sector
+Córdoba,Healthcare,172,0.6283952954406274,Sector
+Córdoba,Finance,228,0.38232901338781644,Sector
+Córdoba,Energy,137,0.6260995327915255,Sector
+Córdoba,Consumer Goods,49,0.011237929794221557,Sector
+Córdoba,Utilities,240,0.4841193111635117,Sector
+Córdoba,Real Estate,188,0.5108167561354686,Sector
+Córdoba,Telecommunications,120,0.36052099277340033,Sector
+Córdoba,Materials,259,0.7527949783205893,Sector
+Córdoba,Industrials,171,0.8021217972780621,Sector
+Córdoba,Consumer Services,93,0.548395809044581,Sector
+Córdoba,Transportation,128,0.6717945435355792,Sector
+Technology,Software,19,0.27611780567798994,Industry
+Technology,Hardware,47,0.74287316626547,Industry
+Technology,IT Services,72,0.26914273318619797,Industry
+Healthcare,Pharmaceuticals,0,0.22320473147552944,Industry
+Healthcare,Medical Devices,76,0.07960258414819499,Industry
+Healthcare,Healthcare Services,96,0.49043663217004485,Industry
+Finance,Banking,54,0.12078825373434732,Industry
+Finance,Insurance,83,0.4555602117116856,Industry
+Finance,Investment Services,91,0.3877415285730068,Industry
+Energy,Oil & Gas,27,0.6636022316842961,Industry
+Energy,Renewable Energy,62,0.859184789174507,Industry
+Energy,Energy Exploration,48,0.45140707524434587,Industry
+Consumer Goods,Food & Beverage,0,0.8058001975112085,Industry
+Consumer Goods,Household Products,41,0.1556921125974804,Industry
+Consumer Goods,Apparel,8,0.259385240920585,Industry
+Utilities,Electric,99,0.6747496142646026,Industry
+Utilities,Water,75,0.9914399409631037,Industry
+Utilities,Gas,66,0.5165619507088427,Industry
+Real Estate,Residential,99,0.30741981297752197,Industry
+Real Estate,Commercial,65,0.24415833426805422,Industry
+Real Estate,Industrial,24,0.1213672964260264,Industry
+Telecommunications,Mobile,12,0.7125617449667786,Industry
+Telecommunications,Broadband,81,0.20195383609451778,Industry
+Telecommunications,Satellite,27,0.4767048866116884,Industry
+Materials,Chemicals,86,0.33379568931632153,Industry
+Materials,Metals & Mining,99,0.5020670191634848,Industry
+Materials,Construction Materials,74,0.06153045238102772,Industry
+Industrials,Aerospace & Defense,86,0.30886735575540436,Industry
+Industrials,Machinery,20,0.4624496809536581,Industry
+Industrials,Industrial Services,65,0.46453878528890935,Industry
+Consumer Services,Retail,58,0.0793891881409764,Industry
+Consumer Services,Travel & Leisure,26,0.03398428578559398,Industry
+Consumer Services,Media,9,0.4985309304640595,Industry
+Transportation,Airlines,64,0.9584123894371437,Industry
+Transportation,Railroads,24,0.250623842771311,Industry
+Transportation,Logistics,40,0.3592123705136575,Industry

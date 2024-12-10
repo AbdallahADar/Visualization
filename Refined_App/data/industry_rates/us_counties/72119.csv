@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Río Grande,1904,0.7267484096345831,Overall
+Río Grande,Technology,199,0.17841660418335892,Sector
+Río Grande,Healthcare,214,0.861969281470782,Sector
+Río Grande,Finance,163,0.6337937127405835,Sector
+Río Grande,Energy,72,0.7493841895082364,Sector
+Río Grande,Consumer Goods,183,0.7057092747605852,Sector
+Río Grande,Utilities,250,0.0148515521138326,Sector
+Río Grande,Real Estate,66,0.2582761647354742,Sector
+Río Grande,Telecommunications,125,0.03460752072039486,Sector
+Río Grande,Materials,132,0.2969653263913403,Sector
+Río Grande,Industrials,171,0.9651599586231107,Sector
+Río Grande,Consumer Services,221,0.2750212622077943,Sector
+Río Grande,Transportation,108,0.6179386887558175,Sector
+Technology,Software,65,0.10420926929386687,Industry
+Technology,Hardware,43,0.5684960141024906,Industry
+Technology,IT Services,91,0.31818225536033773,Industry
+Healthcare,Pharmaceuticals,74,0.9478623620788753,Industry
+Healthcare,Medical Devices,64,0.8261696386221432,Industry
+Healthcare,Healthcare Services,76,0.11385048254970709,Industry
+Finance,Banking,46,0.8598477245680042,Industry
+Finance,Insurance,68,0.7183410350730915,Industry
+Finance,Investment Services,49,0.682332091558299,Industry
+Energy,Oil & Gas,10,0.9204226973414219,Industry
+Energy,Renewable Energy,30,0.287468533823627,Industry
+Energy,Energy Exploration,32,0.6538502202104248,Industry
+Consumer Goods,Food & Beverage,41,0.14771224406323336,Industry
+Consumer Goods,Household Products,69,0.7910017023901466,Industry
+Consumer Goods,Apparel,73,0.32618408158362033,Industry
+Utilities,Electric,76,0.3080883814361173,Industry
+Utilities,Water,81,0.46265065038939046,Industry
+Utilities,Gas,93,0.22659367888851767,Industry
+Real Estate,Residential,18,0.5357966076847015,Industry
+Real Estate,Commercial,17,0.2231342287326885,Industry
+Real Estate,Industrial,31,0.3880731425839683,Industry
+Telecommunications,Mobile,5,0.5933782216024333,Industry
+Telecommunications,Broadband,63,0.4652326006300297,Industry
+Telecommunications,Satellite,57,0.49017122317324224,Industry
+Materials,Chemicals,74,0.2254418698975248,Industry
+Materials,Metals & Mining,54,0.5124348668519739,Industry
+Materials,Construction Materials,4,0.6382780101347326,Industry
+Industrials,Aerospace & Defense,59,0.7434163490196316,Industry
+Industrials,Machinery,72,0.3755686321015175,Industry
+Industrials,Industrial Services,40,0.2790352486797709,Industry
+Consumer Services,Retail,55,0.7763445575391712,Industry
+Consumer Services,Travel & Leisure,88,0.6827415968982185,Industry
+Consumer Services,Media,78,0.984380542449027,Industry
+Transportation,Airlines,49,0.09549760006632002,Industry
+Transportation,Railroads,43,0.41212586619810787,Industry
+Transportation,Logistics,16,0.07021303191118755,Industry

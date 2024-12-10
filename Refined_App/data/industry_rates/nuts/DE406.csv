@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Dahme-Spreewald,1951,0.4919299777898827,Overall
+Dahme-Spreewald,Technology,135,0.3593355813146981,Sector
+Dahme-Spreewald,Healthcare,184,0.8381983733868751,Sector
+Dahme-Spreewald,Finance,167,0.7623033466296594,Sector
+Dahme-Spreewald,Energy,198,0.6203723411080909,Sector
+Dahme-Spreewald,Consumer Goods,69,0.14141094679914668,Sector
+Dahme-Spreewald,Utilities,238,0.6457418523755823,Sector
+Dahme-Spreewald,Real Estate,120,0.8892269161625256,Sector
+Dahme-Spreewald,Telecommunications,190,0.33272877207920615,Sector
+Dahme-Spreewald,Materials,169,0.49029164528736224,Sector
+Dahme-Spreewald,Industrials,97,0.068370998390614,Sector
+Dahme-Spreewald,Consumer Services,219,0.7149792477334443,Sector
+Dahme-Spreewald,Transportation,165,0.6755035656861949,Sector
+Technology,Software,24,0.992708497350846,Industry
+Technology,Hardware,27,0.5732593560052986,Industry
+Technology,IT Services,84,0.7106708158900714,Industry
+Healthcare,Pharmaceuticals,14,0.7159839962873341,Industry
+Healthcare,Medical Devices,82,0.34309981946077583,Industry
+Healthcare,Healthcare Services,88,0.6697792176792325,Industry
+Finance,Banking,31,0.6034694245513843,Industry
+Finance,Insurance,65,0.07045901180448921,Industry
+Finance,Investment Services,71,0.029279597528225176,Industry
+Energy,Oil & Gas,85,0.20763432512972224,Industry
+Energy,Renewable Energy,93,0.2647228307185818,Industry
+Energy,Energy Exploration,20,0.6099791064174683,Industry
+Consumer Goods,Food & Beverage,3,0.1623842096247866,Industry
+Consumer Goods,Household Products,37,0.22002876979652775,Industry
+Consumer Goods,Apparel,29,0.256203630315583,Industry
+Utilities,Electric,84,0.1702351198239872,Industry
+Utilities,Water,69,0.8779233458008966,Industry
+Utilities,Gas,85,0.1678476879314701,Industry
+Real Estate,Residential,94,0.47625268997808434,Industry
+Real Estate,Commercial,13,0.7371964713806899,Industry
+Real Estate,Industrial,13,0.19992281313707427,Industry
+Telecommunications,Mobile,76,0.7248059669666131,Industry
+Telecommunications,Broadband,38,0.971787190698495,Industry
+Telecommunications,Satellite,76,0.8496721660664555,Industry
+Materials,Chemicals,84,0.04279053245105391,Industry
+Materials,Metals & Mining,46,0.1735578875340763,Industry
+Materials,Construction Materials,39,0.7057968295306766,Industry
+Industrials,Aerospace & Defense,49,0.7309632964428682,Industry
+Industrials,Machinery,27,0.5431666426241054,Industry
+Industrials,Industrial Services,21,0.9763210978339069,Industry
+Consumer Services,Retail,89,0.5800272569863592,Industry
+Consumer Services,Travel & Leisure,64,0.7332309278550764,Industry
+Consumer Services,Media,66,0.7539550960580704,Industry
+Transportation,Airlines,50,0.07792162402337321,Industry
+Transportation,Railroads,37,0.18548261861733584,Industry
+Transportation,Logistics,78,0.6132274930583393,Industry

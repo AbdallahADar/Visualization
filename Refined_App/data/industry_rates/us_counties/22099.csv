@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,St. Martin,1818,0.21087420397244672,Overall
+St. Martin,Technology,167,0.06200299868091852,Sector
+St. Martin,Healthcare,67,0.18765958649345704,Sector
+St. Martin,Finance,183,0.050035373678322115,Sector
+St. Martin,Energy,148,0.588874696036904,Sector
+St. Martin,Consumer Goods,113,0.45760547802767193,Sector
+St. Martin,Utilities,147,0.2856935540691804,Sector
+St. Martin,Real Estate,192,0.47978086598775993,Sector
+St. Martin,Telecommunications,175,0.9771259257476614,Sector
+St. Martin,Materials,134,0.3936765884808352,Sector
+St. Martin,Industrials,96,0.33483592968787723,Sector
+St. Martin,Consumer Services,181,0.5332200606324662,Sector
+St. Martin,Transportation,215,0.6809692063549121,Sector
+Technology,Software,10,0.5840640875109426,Industry
+Technology,Hardware,95,0.7129273854857568,Industry
+Technology,IT Services,62,0.6473176311551309,Industry
+Healthcare,Pharmaceuticals,25,0.06035431826252502,Industry
+Healthcare,Medical Devices,20,0.644500196899079,Industry
+Healthcare,Healthcare Services,22,0.7737524010202756,Industry
+Finance,Banking,83,0.10470068490430606,Industry
+Finance,Insurance,91,0.36061779582343123,Industry
+Finance,Investment Services,9,0.018314586204016825,Industry
+Energy,Oil & Gas,11,0.4230611201940464,Industry
+Energy,Renewable Energy,89,0.7460326917877323,Industry
+Energy,Energy Exploration,48,0.9145466960297673,Industry
+Consumer Goods,Food & Beverage,75,0.06460654472587346,Industry
+Consumer Goods,Household Products,4,0.5391001979324525,Industry
+Consumer Goods,Apparel,34,0.46122034904803355,Industry
+Utilities,Electric,56,0.5331164255646411,Industry
+Utilities,Water,55,0.10574666911315123,Industry
+Utilities,Gas,36,0.005609592514103978,Industry
+Real Estate,Residential,94,0.6152767031729652,Industry
+Real Estate,Commercial,21,0.9253805705815211,Industry
+Real Estate,Industrial,77,0.5944211323186586,Industry
+Telecommunications,Mobile,32,0.03406306273249626,Industry
+Telecommunications,Broadband,64,0.644220368483746,Industry
+Telecommunications,Satellite,79,0.27350540248966215,Industry
+Materials,Chemicals,55,0.38737531811035275,Industry
+Materials,Metals & Mining,1,0.03253646294764323,Industry
+Materials,Construction Materials,78,0.29440144770868204,Industry
+Industrials,Aerospace & Defense,1,0.014462853626631578,Industry
+Industrials,Machinery,63,0.004354409106726687,Industry
+Industrials,Industrial Services,32,0.6683891794579212,Industry
+Consumer Services,Retail,98,0.4764028500460502,Industry
+Consumer Services,Travel & Leisure,39,0.20012654393200668,Industry
+Consumer Services,Media,44,0.7312724276570614,Industry
+Transportation,Airlines,45,0.5599898111870859,Industry
+Transportation,Railroads,81,0.9684896937639921,Industry
+Transportation,Logistics,89,0.637596196042565,Industry

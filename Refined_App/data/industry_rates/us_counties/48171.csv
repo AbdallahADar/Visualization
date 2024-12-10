@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Gillespie,2009,0.9687972423436356,Overall
+Gillespie,Technology,143,0.7038281856617945,Sector
+Gillespie,Healthcare,96,0.5100756943488352,Sector
+Gillespie,Finance,179,0.1062840680820617,Sector
+Gillespie,Energy,192,0.9481789614065191,Sector
+Gillespie,Consumer Goods,243,0.9346776992266831,Sector
+Gillespie,Utilities,143,0.18428657301421048,Sector
+Gillespie,Real Estate,74,0.3281426632498178,Sector
+Gillespie,Telecommunications,137,0.1456063241486315,Sector
+Gillespie,Materials,211,0.05318143403012099,Sector
+Gillespie,Industrials,211,0.9947607143027682,Sector
+Gillespie,Consumer Services,161,0.6488820832060891,Sector
+Gillespie,Transportation,219,0.26402462728220966,Sector
+Technology,Software,47,0.42784899793875475,Industry
+Technology,Hardware,33,0.2081240149854865,Industry
+Technology,IT Services,63,0.136827982540756,Industry
+Healthcare,Pharmaceuticals,17,0.19881364451283556,Industry
+Healthcare,Medical Devices,51,0.3376532857687944,Industry
+Healthcare,Healthcare Services,28,0.2578628776422721,Industry
+Finance,Banking,67,0.15850834964920058,Industry
+Finance,Insurance,77,0.6050089022140451,Industry
+Finance,Investment Services,35,0.17147286768296233,Industry
+Energy,Oil & Gas,92,0.9464954122668857,Industry
+Energy,Renewable Energy,77,0.40974519693322775,Industry
+Energy,Energy Exploration,23,0.5751282632900095,Industry
+Consumer Goods,Food & Beverage,70,0.41977779105649904,Industry
+Consumer Goods,Household Products,74,0.25555987167803884,Industry
+Consumer Goods,Apparel,99,0.3481894136532041,Industry
+Utilities,Electric,0,0.5005762480575359,Industry
+Utilities,Water,53,0.5732216907024981,Industry
+Utilities,Gas,90,0.5719884871504238,Industry
+Real Estate,Residential,17,0.10824906196818906,Industry
+Real Estate,Commercial,38,0.9246065763179128,Industry
+Real Estate,Industrial,19,0.0826894891092359,Industry
+Telecommunications,Mobile,36,0.033494258563352974,Industry
+Telecommunications,Broadband,79,0.052366757321906876,Industry
+Telecommunications,Satellite,22,0.30164300572129854,Industry
+Materials,Chemicals,83,0.7528797477573105,Industry
+Materials,Metals & Mining,96,0.6885118037571712,Industry
+Materials,Construction Materials,32,0.3319388014348724,Industry
+Industrials,Aerospace & Defense,33,0.576457883838298,Industry
+Industrials,Machinery,90,0.098160593547583,Industry
+Industrials,Industrial Services,88,0.30185563660326753,Industry
+Consumer Services,Retail,51,0.9136459207070474,Industry
+Consumer Services,Travel & Leisure,63,0.4819114200325456,Industry
+Consumer Services,Media,47,0.10672121183754102,Industry
+Transportation,Airlines,85,0.2996778632198439,Industry
+Transportation,Railroads,57,0.5596586385395966,Industry
+Transportation,Logistics,77,0.5749844059355407,Industry

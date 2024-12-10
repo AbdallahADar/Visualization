@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Tulcea,1548,0.6292947457688288,Overall
+Tulcea,Technology,144,0.9568705230317427,Sector
+Tulcea,Healthcare,130,0.7448732715875662,Sector
+Tulcea,Finance,141,0.15542456542984118,Sector
+Tulcea,Energy,69,0.21356278994136635,Sector
+Tulcea,Consumer Goods,174,0.6678711016164863,Sector
+Tulcea,Utilities,100,0.1905888219236438,Sector
+Tulcea,Real Estate,48,0.11511067820671272,Sector
+Tulcea,Telecommunications,153,0.8590519803136247,Sector
+Tulcea,Materials,127,0.9782024077242741,Sector
+Tulcea,Industrials,147,0.1297933675217806,Sector
+Tulcea,Consumer Services,224,0.9250959436177968,Sector
+Tulcea,Transportation,91,0.7604551401116079,Sector
+Technology,Software,76,0.3274302485827515,Industry
+Technology,Hardware,28,0.0018324885404684688,Industry
+Technology,IT Services,40,0.6555026073768725,Industry
+Healthcare,Pharmaceuticals,76,0.47607624263323045,Industry
+Healthcare,Medical Devices,42,0.45717953262822886,Industry
+Healthcare,Healthcare Services,12,0.2611941862570911,Industry
+Finance,Banking,10,0.37465439978009396,Industry
+Finance,Insurance,82,0.9477130864447241,Industry
+Finance,Investment Services,49,0.2092825562840298,Industry
+Energy,Oil & Gas,2,0.7516215109356483,Industry
+Energy,Renewable Energy,66,0.34641464483757745,Industry
+Energy,Energy Exploration,1,0.6996218752913851,Industry
+Consumer Goods,Food & Beverage,68,0.5370979262355647,Industry
+Consumer Goods,Household Products,51,0.6457668044284334,Industry
+Consumer Goods,Apparel,55,0.9837184775128273,Industry
+Utilities,Electric,68,0.12467598516178946,Industry
+Utilities,Water,14,0.6057662517623573,Industry
+Utilities,Gas,18,0.34513399722517324,Industry
+Real Estate,Residential,11,0.12756859452858627,Industry
+Real Estate,Commercial,30,0.3585892335673617,Industry
+Real Estate,Industrial,7,0.9101075891646623,Industry
+Telecommunications,Mobile,71,0.0864927836110162,Industry
+Telecommunications,Broadband,69,0.018066108123725777,Industry
+Telecommunications,Satellite,13,0.8222234734448406,Industry
+Materials,Chemicals,25,0.6493152813556767,Industry
+Materials,Metals & Mining,67,0.4824379064652027,Industry
+Materials,Construction Materials,35,0.24770779211684912,Industry
+Industrials,Aerospace & Defense,98,0.2941411366215958,Industry
+Industrials,Machinery,45,0.5428500170357748,Industry
+Industrials,Industrial Services,4,0.627088830685999,Industry
+Consumer Services,Retail,64,0.7937964030343205,Industry
+Consumer Services,Travel & Leisure,74,0.030699436767021804,Industry
+Consumer Services,Media,86,0.29135251260677164,Industry
+Transportation,Airlines,21,0.7372201124730626,Industry
+Transportation,Railroads,49,0.5092554035161015,Industry
+Transportation,Logistics,21,0.12448120392202111,Industry

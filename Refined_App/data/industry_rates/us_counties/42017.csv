@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Bucks,2064,0.6626064598243759,Overall
+Bucks,Technology,179,0.6880276409257411,Sector
+Bucks,Healthcare,94,0.6671494665585215,Sector
+Bucks,Finance,242,0.027200492665218734,Sector
+Bucks,Energy,122,0.3878237568797097,Sector
+Bucks,Consumer Goods,221,0.3289062306433994,Sector
+Bucks,Utilities,145,0.5280509532667401,Sector
+Bucks,Real Estate,168,0.3484058442926431,Sector
+Bucks,Telecommunications,198,0.506063846261153,Sector
+Bucks,Materials,261,0.48106905046166293,Sector
+Bucks,Industrials,227,0.1111740418229119,Sector
+Bucks,Consumer Services,27,0.5468173946948632,Sector
+Bucks,Transportation,180,0.3400240795335524,Sector
+Technology,Software,26,0.05771339168331158,Industry
+Technology,Hardware,79,0.12893015103021166,Industry
+Technology,IT Services,74,0.8362395410671676,Industry
+Healthcare,Pharmaceuticals,61,0.4327539033794666,Industry
+Healthcare,Medical Devices,6,0.3537184175533269,Industry
+Healthcare,Healthcare Services,27,0.10920858611793982,Industry
+Finance,Banking,70,0.7100531185010827,Industry
+Finance,Insurance,80,0.29378326073400485,Industry
+Finance,Investment Services,92,0.42149196305925496,Industry
+Energy,Oil & Gas,67,0.6420926421827801,Industry
+Energy,Renewable Energy,30,0.19521309561860867,Industry
+Energy,Energy Exploration,25,0.9508621402469846,Industry
+Consumer Goods,Food & Beverage,72,0.702571889231637,Industry
+Consumer Goods,Household Products,77,0.30003945003997434,Industry
+Consumer Goods,Apparel,72,0.40910869168126573,Industry
+Utilities,Electric,32,0.6829584481745526,Industry
+Utilities,Water,64,0.06125830366793383,Industry
+Utilities,Gas,49,0.8494345902217246,Industry
+Real Estate,Residential,48,0.7870463067255634,Industry
+Real Estate,Commercial,47,0.9081835291922885,Industry
+Real Estate,Industrial,73,0.9127422399871058,Industry
+Telecommunications,Mobile,67,0.4177528544334209,Industry
+Telecommunications,Broadband,41,0.5554494803281975,Industry
+Telecommunications,Satellite,90,0.7317178597327808,Industry
+Materials,Chemicals,88,0.4005387378670874,Industry
+Materials,Metals & Mining,98,0.04956104798023864,Industry
+Materials,Construction Materials,75,0.6053385352483723,Industry
+Industrials,Aerospace & Defense,95,0.9819773839267105,Industry
+Industrials,Machinery,91,0.2045483979492213,Industry
+Industrials,Industrial Services,41,0.7717272776519812,Industry
+Consumer Services,Retail,3,0.9984409039202444,Industry
+Consumer Services,Travel & Leisure,16,0.7185589164389612,Industry
+Consumer Services,Media,8,0.6600425910803474,Industry
+Transportation,Airlines,94,0.19657622940927544,Industry
+Transportation,Railroads,56,0.26704986326403457,Industry
+Transportation,Logistics,30,0.25930022235511363,Industry

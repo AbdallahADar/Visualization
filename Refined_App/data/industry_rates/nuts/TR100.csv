@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,İstanbul,1997,0.9006331800797178,Overall
+İstanbul,Technology,106,0.3380122216387639,Sector
+İstanbul,Healthcare,135,0.15468643862067155,Sector
+İstanbul,Finance,152,0.7748673154044161,Sector
+İstanbul,Energy,141,0.8253475351319403,Sector
+İstanbul,Consumer Goods,132,0.1717651677149833,Sector
+İstanbul,Utilities,242,0.768390533539604,Sector
+İstanbul,Real Estate,48,0.47509901872183413,Sector
+İstanbul,Telecommunications,236,0.7849970712320493,Sector
+İstanbul,Materials,136,0.8589656060303698,Sector
+İstanbul,Industrials,199,0.9730125166469877,Sector
+İstanbul,Consumer Services,280,0.6019144324224941,Sector
+İstanbul,Transportation,190,0.38138666812957955,Sector
+Technology,Software,74,0.8363571444233505,Industry
+Technology,Hardware,28,0.3843848766853165,Industry
+Technology,IT Services,4,0.4950518143979058,Industry
+Healthcare,Pharmaceuticals,24,0.06765317605314991,Industry
+Healthcare,Medical Devices,39,0.3324759341844423,Industry
+Healthcare,Healthcare Services,72,0.3024987474343246,Industry
+Finance,Banking,31,0.8762004628140037,Industry
+Finance,Insurance,74,0.8615831807386325,Industry
+Finance,Investment Services,47,0.7222827732559964,Industry
+Energy,Oil & Gas,92,0.7179017757472408,Industry
+Energy,Renewable Energy,31,0.8728086136126296,Industry
+Energy,Energy Exploration,18,0.16589613105156908,Industry
+Consumer Goods,Food & Beverage,3,0.7124333526944822,Industry
+Consumer Goods,Household Products,39,0.42456004045454077,Industry
+Consumer Goods,Apparel,90,0.9996730255774046,Industry
+Utilities,Electric,82,0.559276837890288,Industry
+Utilities,Water,89,0.8572716540427594,Industry
+Utilities,Gas,71,0.8645586088669335,Industry
+Real Estate,Residential,3,0.5828960716902077,Industry
+Real Estate,Commercial,5,0.7522998781246013,Industry
+Real Estate,Industrial,40,0.6762532961167144,Industry
+Telecommunications,Mobile,92,0.93908423056198,Industry
+Telecommunications,Broadband,78,0.30373392824058787,Industry
+Telecommunications,Satellite,66,0.4485483855704451,Industry
+Materials,Chemicals,68,0.5118703616309341,Industry
+Materials,Metals & Mining,32,0.8484621216757384,Industry
+Materials,Construction Materials,36,0.3654307645414383,Industry
+Industrials,Aerospace & Defense,58,0.9525521109909402,Industry
+Industrials,Machinery,67,0.07608081273303202,Industry
+Industrials,Industrial Services,74,0.10424049839093918,Industry
+Consumer Services,Retail,98,0.13817404018525015,Industry
+Consumer Services,Travel & Leisure,89,0.987229870692948,Industry
+Consumer Services,Media,93,0.6941346178986856,Industry
+Transportation,Airlines,30,0.3793572083729534,Industry
+Transportation,Railroads,97,0.7593685165393452,Industry
+Transportation,Logistics,63,0.9350788774364379,Industry

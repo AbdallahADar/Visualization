@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Westchester,1806,0.39728854126448754,Overall
+Westchester,Technology,144,0.04836950474151214,Sector
+Westchester,Healthcare,124,0.6638575486289167,Sector
+Westchester,Finance,111,0.6511504842623136,Sector
+Westchester,Energy,228,0.32345498813726314,Sector
+Westchester,Consumer Goods,155,0.8681172487968335,Sector
+Westchester,Utilities,180,0.3527674445255935,Sector
+Westchester,Real Estate,210,0.1794285979624598,Sector
+Westchester,Telecommunications,192,0.6193473306329177,Sector
+Westchester,Materials,65,0.8560487775932227,Sector
+Westchester,Industrials,158,0.709556880994473,Sector
+Westchester,Consumer Services,114,0.722073311986252,Sector
+Westchester,Transportation,125,0.5622565176235447,Sector
+Technology,Software,13,0.9795751638618184,Industry
+Technology,Hardware,73,0.7237509990698717,Industry
+Technology,IT Services,58,0.2720158786531126,Industry
+Healthcare,Pharmaceuticals,55,0.6699996474889158,Industry
+Healthcare,Medical Devices,40,0.5039518727468542,Industry
+Healthcare,Healthcare Services,29,0.5093870945776483,Industry
+Finance,Banking,0,0.3917823041257916,Industry
+Finance,Insurance,64,0.008212740167306887,Industry
+Finance,Investment Services,47,0.3706666429828642,Industry
+Energy,Oil & Gas,85,0.942891380521058,Industry
+Energy,Renewable Energy,86,0.9286376131930892,Industry
+Energy,Energy Exploration,57,0.5167116107859236,Industry
+Consumer Goods,Food & Beverage,94,0.2708363590591595,Industry
+Consumer Goods,Household Products,19,0.6474066477827244,Industry
+Consumer Goods,Apparel,42,0.9927548346684171,Industry
+Utilities,Electric,78,0.20982490001136544,Industry
+Utilities,Water,97,0.8147274045881582,Industry
+Utilities,Gas,5,0.18076565207869988,Industry
+Real Estate,Residential,67,0.8337908476565659,Industry
+Real Estate,Commercial,75,0.7780798037881138,Industry
+Real Estate,Industrial,68,0.9708005682633033,Industry
+Telecommunications,Mobile,48,0.950190965255805,Industry
+Telecommunications,Broadband,92,0.5927047783096042,Industry
+Telecommunications,Satellite,52,0.2333867122479969,Industry
+Materials,Chemicals,3,0.8840125898342729,Industry
+Materials,Metals & Mining,1,0.03898037675153432,Industry
+Materials,Construction Materials,61,0.7475325568832281,Industry
+Industrials,Aerospace & Defense,43,0.7711515499127977,Industry
+Industrials,Machinery,75,0.05229238926799151,Industry
+Industrials,Industrial Services,40,0.7922792701601998,Industry
+Consumer Services,Retail,37,0.7614269155540455,Industry
+Consumer Services,Travel & Leisure,40,0.3795443680801469,Industry
+Consumer Services,Media,37,0.2730650973215957,Industry
+Transportation,Airlines,29,0.29935085328996325,Industry
+Transportation,Railroads,18,0.9475733686883987,Industry
+Transportation,Logistics,78,0.9199280373223231,Industry

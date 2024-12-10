@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,City of Belgrade,1792,0.6404889411730564,Overall
+City of Belgrade,Technology,140,0.9211107087293817,Sector
+City of Belgrade,Healthcare,167,0.5568147975364725,Sector
+City of Belgrade,Finance,164,0.7649297808947872,Sector
+City of Belgrade,Energy,159,0.1480465296417317,Sector
+City of Belgrade,Consumer Goods,184,0.4625770519729091,Sector
+City of Belgrade,Utilities,126,0.08137926148030783,Sector
+City of Belgrade,Real Estate,133,0.9919773592724718,Sector
+City of Belgrade,Telecommunications,85,0.03864910575380154,Sector
+City of Belgrade,Materials,209,0.858502096571322,Sector
+City of Belgrade,Industrials,160,0.29728370791334546,Sector
+City of Belgrade,Consumer Services,190,0.5173076862331788,Sector
+City of Belgrade,Transportation,75,0.12345797664583236,Sector
+Technology,Software,74,0.4227615379409668,Industry
+Technology,Hardware,38,0.9879746850275132,Industry
+Technology,IT Services,28,0.7738518751548406,Industry
+Healthcare,Pharmaceuticals,60,0.10365436066255629,Industry
+Healthcare,Medical Devices,55,0.060453790853642886,Industry
+Healthcare,Healthcare Services,52,0.9313905591001124,Industry
+Finance,Banking,76,0.8792115641589046,Industry
+Finance,Insurance,17,0.1107921879535887,Industry
+Finance,Investment Services,71,0.30758571429325143,Industry
+Energy,Oil & Gas,12,0.5274999253412704,Industry
+Energy,Renewable Energy,68,0.9943070352194125,Industry
+Energy,Energy Exploration,79,0.03900593474296998,Industry
+Consumer Goods,Food & Beverage,81,0.7067633459623237,Industry
+Consumer Goods,Household Products,20,0.3632535332228667,Industry
+Consumer Goods,Apparel,83,0.39911473613995796,Industry
+Utilities,Electric,11,0.44771772797289955,Industry
+Utilities,Water,75,0.2862789644827669,Industry
+Utilities,Gas,40,0.32634359916270295,Industry
+Real Estate,Residential,26,0.2795391300764818,Industry
+Real Estate,Commercial,39,0.9492921294959961,Industry
+Real Estate,Industrial,68,0.3335426542183533,Industry
+Telecommunications,Mobile,14,0.0028552987028611643,Industry
+Telecommunications,Broadband,21,0.19193896336845606,Industry
+Telecommunications,Satellite,50,0.7810680781782753,Industry
+Materials,Chemicals,66,0.8794601231473919,Industry
+Materials,Metals & Mining,47,0.9915224764041302,Industry
+Materials,Construction Materials,96,0.40277244891617214,Industry
+Industrials,Aerospace & Defense,80,0.7254165143642343,Industry
+Industrials,Machinery,79,0.6886764579709831,Industry
+Industrials,Industrial Services,1,0.21212720631925686,Industry
+Consumer Services,Retail,72,0.5069591536507153,Industry
+Consumer Services,Travel & Leisure,78,0.4394990661623037,Industry
+Consumer Services,Media,40,0.14122640621197702,Industry
+Transportation,Airlines,9,0.8384321436514485,Industry
+Transportation,Railroads,34,0.6615994829201,Industry
+Transportation,Logistics,32,0.8322017740070982,Industry

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Yellow Medicine,1981,0.10148225832022051,Overall
+Yellow Medicine,Technology,162,0.09032387470701309,Sector
+Yellow Medicine,Healthcare,124,0.1159370540202026,Sector
+Yellow Medicine,Finance,187,0.8381013925119377,Sector
+Yellow Medicine,Energy,207,0.11305843022213713,Sector
+Yellow Medicine,Consumer Goods,209,0.20264958139594702,Sector
+Yellow Medicine,Utilities,278,0.5489832576126892,Sector
+Yellow Medicine,Real Estate,66,0.6317339367792307,Sector
+Yellow Medicine,Telecommunications,75,0.7487808127184865,Sector
+Yellow Medicine,Materials,202,0.5473799709542565,Sector
+Yellow Medicine,Industrials,179,0.7770608908884458,Sector
+Yellow Medicine,Consumer Services,142,0.6804040397788775,Sector
+Yellow Medicine,Transportation,150,0.9165264192474563,Sector
+Technology,Software,18,0.8990692340896634,Industry
+Technology,Hardware,67,0.19078515976675225,Industry
+Technology,IT Services,77,0.44205121547715254,Industry
+Healthcare,Pharmaceuticals,0,0.29610341829469355,Industry
+Healthcare,Medical Devices,31,0.003816934802713501,Industry
+Healthcare,Healthcare Services,93,0.30445678731909287,Industry
+Finance,Banking,85,0.27856079363232966,Industry
+Finance,Insurance,58,0.26878575923070114,Industry
+Finance,Investment Services,44,0.5973193609157484,Industry
+Energy,Oil & Gas,20,0.460120669688879,Industry
+Energy,Renewable Energy,92,0.24878497137916566,Industry
+Energy,Energy Exploration,95,0.7498499185525243,Industry
+Consumer Goods,Food & Beverage,93,0.5404310896767218,Industry
+Consumer Goods,Household Products,94,0.676147139362186,Industry
+Consumer Goods,Apparel,22,0.5043190305201116,Industry
+Utilities,Electric,96,0.3523797806054366,Industry
+Utilities,Water,93,0.26931549843412783,Industry
+Utilities,Gas,89,0.6771503971394611,Industry
+Real Estate,Residential,4,0.02275837100347211,Industry
+Real Estate,Commercial,3,0.5681045532244032,Industry
+Real Estate,Industrial,59,0.458316429428011,Industry
+Telecommunications,Mobile,0,0.2438132706305497,Industry
+Telecommunications,Broadband,15,0.0033432867763870666,Industry
+Telecommunications,Satellite,60,0.4117711925463069,Industry
+Materials,Chemicals,56,0.01899890659841108,Industry
+Materials,Metals & Mining,71,0.8318193832988723,Industry
+Materials,Construction Materials,75,0.011578045348289656,Industry
+Industrials,Aerospace & Defense,60,0.1874209452546457,Industry
+Industrials,Machinery,64,0.16979053553617418,Industry
+Industrials,Industrial Services,55,0.21692529084903744,Industry
+Consumer Services,Retail,27,0.521525345577523,Industry
+Consumer Services,Travel & Leisure,27,0.032030644318551516,Industry
+Consumer Services,Media,88,0.9269917317754802,Industry
+Transportation,Airlines,83,0.6628190096522648,Industry
+Transportation,Railroads,57,0.3542247833838684,Industry
+Transportation,Logistics,10,0.6338758085797663,Industry

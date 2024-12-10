@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Washington,1588,0.6929016585964036,Overall
+Washington,Technology,92,0.796535855293216,Sector
+Washington,Healthcare,124,0.38105447740677667,Sector
+Washington,Finance,68,0.3584674853998656,Sector
+Washington,Energy,189,0.5392929277735706,Sector
+Washington,Consumer Goods,124,0.4987541955460081,Sector
+Washington,Utilities,108,0.2046789904906332,Sector
+Washington,Real Estate,187,0.15105642438849776,Sector
+Washington,Telecommunications,242,0.846367434801293,Sector
+Washington,Materials,48,0.6893204187864342,Sector
+Washington,Industrials,76,0.9346695671917096,Sector
+Washington,Consumer Services,234,0.19188567789961974,Sector
+Washington,Transportation,96,0.9869550052922346,Sector
+Technology,Software,65,0.9496340810819249,Industry
+Technology,Hardware,27,0.2619390364717683,Industry
+Technology,IT Services,0,0.055057326218596936,Industry
+Healthcare,Pharmaceuticals,20,0.5295863297734286,Industry
+Healthcare,Medical Devices,14,0.2378392765208719,Industry
+Healthcare,Healthcare Services,90,0.5083208546808651,Industry
+Finance,Banking,1,0.8163833905419413,Industry
+Finance,Insurance,51,0.6894599941549917,Industry
+Finance,Investment Services,16,0.9270635051428158,Industry
+Energy,Oil & Gas,79,0.054110392647875316,Industry
+Energy,Renewable Energy,89,0.7502010338243894,Industry
+Energy,Energy Exploration,21,0.6029454359592579,Industry
+Consumer Goods,Food & Beverage,59,0.14945734827245916,Industry
+Consumer Goods,Household Products,22,0.12929047902390256,Industry
+Consumer Goods,Apparel,43,0.08660241115597012,Industry
+Utilities,Electric,38,0.13044617012646675,Industry
+Utilities,Water,63,0.6375827441254223,Industry
+Utilities,Gas,7,0.1711044753962292,Industry
+Real Estate,Residential,83,0.5016245539667084,Industry
+Real Estate,Commercial,78,0.595135954475561,Industry
+Real Estate,Industrial,26,0.9133462535228173,Industry
+Telecommunications,Mobile,67,0.891713153577852,Industry
+Telecommunications,Broadband,85,0.17057882386104795,Industry
+Telecommunications,Satellite,90,0.4947569445111587,Industry
+Materials,Chemicals,23,0.15098049547007675,Industry
+Materials,Metals & Mining,8,0.13242022468606107,Industry
+Materials,Construction Materials,17,0.5884109825232229,Industry
+Industrials,Aerospace & Defense,2,0.5782298489806612,Industry
+Industrials,Machinery,51,0.1876860426546204,Industry
+Industrials,Industrial Services,23,0.4988985935891126,Industry
+Consumer Services,Retail,69,0.08580114540607853,Industry
+Consumer Services,Travel & Leisure,70,0.93450828529719,Industry
+Consumer Services,Media,95,0.766826965565132,Industry
+Transportation,Airlines,92,0.41813639274464964,Industry
+Transportation,Railroads,2,0.5757547228496505,Industry
+Transportation,Logistics,2,0.16217522421109043,Industry

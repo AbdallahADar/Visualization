@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Palo Alto,2090,0.9540101238940892,Overall
+Palo Alto,Technology,119,0.6673349967414974,Sector
+Palo Alto,Healthcare,185,0.5724072298874373,Sector
+Palo Alto,Finance,88,0.0006417425090803341,Sector
+Palo Alto,Energy,120,0.3832634773942608,Sector
+Palo Alto,Consumer Goods,110,0.22697382002456645,Sector
+Palo Alto,Utilities,236,0.5320410816303185,Sector
+Palo Alto,Real Estate,229,0.09642624401637778,Sector
+Palo Alto,Telecommunications,160,0.10640020773854209,Sector
+Palo Alto,Materials,253,0.7743596077559303,Sector
+Palo Alto,Industrials,201,0.7511311409228059,Sector
+Palo Alto,Consumer Services,166,0.12425118666131507,Sector
+Palo Alto,Transportation,223,0.43195008184456507,Sector
+Technology,Software,25,0.7578641727563468,Industry
+Technology,Hardware,84,0.6008555450231481,Industry
+Technology,IT Services,10,0.9368879035921993,Industry
+Healthcare,Pharmaceuticals,97,0.5657760837689245,Industry
+Healthcare,Medical Devices,72,0.5586733555752387,Industry
+Healthcare,Healthcare Services,16,0.3121140827366975,Industry
+Finance,Banking,37,0.7311745115095547,Industry
+Finance,Insurance,29,0.06648125996773113,Industry
+Finance,Investment Services,22,0.8821511274487575,Industry
+Energy,Oil & Gas,18,0.46478477125274276,Industry
+Energy,Renewable Energy,67,0.6548095441699859,Industry
+Energy,Energy Exploration,35,0.6637646031793203,Industry
+Consumer Goods,Food & Beverage,3,0.9095899901552577,Industry
+Consumer Goods,Household Products,58,0.24517394734038955,Industry
+Consumer Goods,Apparel,49,0.11265501376835207,Industry
+Utilities,Electric,61,0.8695426484734214,Industry
+Utilities,Water,80,0.3260467226391276,Industry
+Utilities,Gas,95,0.7270611561284741,Industry
+Real Estate,Residential,61,0.5580921717292353,Industry
+Real Estate,Commercial,77,0.4901173439536618,Industry
+Real Estate,Industrial,91,0.6387568573465728,Industry
+Telecommunications,Mobile,76,0.4038152183541244,Industry
+Telecommunications,Broadband,58,0.8644201626331823,Industry
+Telecommunications,Satellite,26,0.1371790650159208,Industry
+Materials,Chemicals,99,0.5877186991781277,Industry
+Materials,Metals & Mining,68,0.2476499522901452,Industry
+Materials,Construction Materials,86,0.5112907322377912,Industry
+Industrials,Aerospace & Defense,80,0.5297161759174095,Industry
+Industrials,Machinery,57,0.5880016384730976,Industry
+Industrials,Industrial Services,64,0.2092021578024894,Industry
+Consumer Services,Retail,98,0.7157441577472787,Industry
+Consumer Services,Travel & Leisure,13,0.6157101146526913,Industry
+Consumer Services,Media,55,0.9272359754150379,Industry
+Transportation,Airlines,77,0.1836197615372822,Industry
+Transportation,Railroads,57,0.06844172397387582,Industry
+Transportation,Logistics,89,0.9508130438752471,Industry
