@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rockingham,1612,0.14024712111911886,Overall
-Rockingham,Technology,61,0.010583914962034369,Sector
-Rockingham,Healthcare,151,0.1672092080338664,Sector
-Rockingham,Finance,112,0.10007270646661726,Sector
-Rockingham,Energy,130,0.5384233369648382,Sector
-Rockingham,Consumer Goods,154,0.13949720204946991,Sector
-Rockingham,Utilities,194,0.1248175237450283,Sector
-Rockingham,Real Estate,144,0.9402284204887914,Sector
-Rockingham,Telecommunications,124,0.8427295017983643,Sector
-Rockingham,Materials,158,0.2689853480198896,Sector
-Rockingham,Industrials,123,0.29514462342775694,Sector
-Rockingham,Consumer Services,61,0.403383658426947,Sector
-Rockingham,Transportation,200,0.37602388176913903,Sector
-Technology,Software,18,0.16084173067947338,Industry
-Technology,Hardware,10,0.653422370015864,Industry
-Technology,IT Services,33,0.6709883376730859,Industry
-Healthcare,Pharmaceuticals,31,0.6616367332979133,Industry
-Healthcare,Medical Devices,60,0.8697130625126472,Industry
-Healthcare,Healthcare Services,60,0.6123465997567176,Industry
-Finance,Banking,17,0.8104928561945409,Industry
-Finance,Insurance,35,0.4016943142431486,Industry
-Finance,Investment Services,60,0.7782271004599222,Industry
-Energy,Oil & Gas,41,0.469301936516793,Industry
-Energy,Renewable Energy,65,0.7208486713735923,Industry
-Energy,Energy Exploration,24,0.6489831404765478,Industry
-Consumer Goods,Food & Beverage,1,0.2498475334381156,Industry
-Consumer Goods,Household Products,64,0.37088548616973604,Industry
-Consumer Goods,Apparel,89,0.1073072707554591,Industry
-Utilities,Electric,75,0.12415126159877343,Industry
-Utilities,Water,59,0.6865245789201897,Industry
-Utilities,Gas,60,0.8498311854429739,Industry
-Real Estate,Residential,14,0.4330266764330303,Industry
-Real Estate,Commercial,70,0.7672159550344059,Industry
-Real Estate,Industrial,60,0.1629183609293423,Industry
-Telecommunications,Mobile,2,0.45424437936161033,Industry
-Telecommunications,Broadband,28,0.9937278252846115,Industry
-Telecommunications,Satellite,94,0.46076483498096443,Industry
-Materials,Chemicals,61,0.6995907490097696,Industry
-Materials,Metals & Mining,78,0.5664355334903117,Industry
-Materials,Construction Materials,19,0.06547549430640531,Industry
-Industrials,Aerospace & Defense,28,0.43483896485456985,Industry
-Industrials,Machinery,93,0.6431905940351571,Industry
-Industrials,Industrial Services,2,0.6497602505664022,Industry
-Consumer Services,Retail,50,0.8488765920510565,Industry
-Consumer Services,Travel & Leisure,1,0.70542720987565,Industry
-Consumer Services,Media,10,0.5221301707850201,Industry
-Transportation,Airlines,51,0.46665689357541873,Industry
-Transportation,Railroads,76,0.262283695009111,Industry
-Transportation,Logistics,73,0.5675069263573288,Industry
+,Rockingham,799,0.54477085979735,Overall
+Rockingham,HiTech,57,0.6934027017922689,Sector
+Rockingham,Agriculture,70,0.6352786074510247,Sector
+Rockingham,Transportation,0,0.39292358106160574,Sector
+Rockingham,Consumer_Products,95,0.6283187416670981,Sector
+Rockingham,Unassigned,68,0.9471716673463979,Sector
+Rockingham,Communication,91,0.6435716020527142,Sector
+Rockingham,Trade,32,0.5111132746029444,Sector
+Rockingham,Business_Services,7,0.5386376006027904,Sector
+Rockingham,Business_Products,33,0.6349855993027536,Sector
+Rockingham,Construction,79,0.7522226113059608,Sector
+Rockingham,Services,32,0.5737067782701419,Sector
+Rockingham,Mining,38,0.5612866219585287,Sector
+Rockingham,Health_Care,92,0.2799495615390789,Sector
+Rockingham,EnergyExpL_Prod,66,0.09586190457002275,Sector
+Rockingham,Utilities,39,0.28313204343691745,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chippewa,1851,0.8649756851663414,Overall
-Chippewa,Technology,171,0.9591719701460463,Sector
-Chippewa,Healthcare,184,0.9919170527437312,Sector
-Chippewa,Finance,151,0.84871520326997,Sector
-Chippewa,Energy,191,0.6587495670694171,Sector
-Chippewa,Consumer Goods,163,0.4509568874700888,Sector
-Chippewa,Utilities,67,0.5180332387121455,Sector
-Chippewa,Real Estate,169,0.05248641514435648,Sector
-Chippewa,Telecommunications,157,0.6136974375793646,Sector
-Chippewa,Materials,123,0.7746629009293312,Sector
-Chippewa,Industrials,119,0.08591395894534393,Sector
-Chippewa,Consumer Services,196,0.08093224477226835,Sector
-Chippewa,Transportation,160,0.6752438479311197,Sector
-Technology,Software,92,0.23744752127677193,Industry
-Technology,Hardware,25,0.3667817475396242,Industry
-Technology,IT Services,54,0.4342949664704395,Industry
-Healthcare,Pharmaceuticals,44,0.010058309839845792,Industry
-Healthcare,Medical Devices,73,0.07787513653534195,Industry
-Healthcare,Healthcare Services,67,0.915261758954831,Industry
-Finance,Banking,56,0.8207697693937709,Industry
-Finance,Insurance,66,0.8867060906534817,Industry
-Finance,Investment Services,29,0.4576343144396686,Industry
-Energy,Oil & Gas,26,0.7364804226420868,Industry
-Energy,Renewable Energy,66,0.06642272221542123,Industry
-Energy,Energy Exploration,99,0.4922068135617903,Industry
-Consumer Goods,Food & Beverage,78,0.031301720559871016,Industry
-Consumer Goods,Household Products,82,0.060501031123516125,Industry
-Consumer Goods,Apparel,3,0.4941605647099728,Industry
-Utilities,Electric,12,0.8862169953267323,Industry
-Utilities,Water,45,0.8381897668489561,Industry
-Utilities,Gas,10,0.09963258991167079,Industry
-Real Estate,Residential,49,0.8687740150814659,Industry
-Real Estate,Commercial,40,0.35135220834104275,Industry
-Real Estate,Industrial,80,0.8566433053850668,Industry
-Telecommunications,Mobile,91,0.33736558039402376,Industry
-Telecommunications,Broadband,39,0.07962780998470387,Industry
-Telecommunications,Satellite,27,0.7856473924438643,Industry
-Materials,Chemicals,60,0.9800185689551824,Industry
-Materials,Metals & Mining,15,0.19453092915829862,Industry
-Materials,Construction Materials,48,0.3030805528112118,Industry
-Industrials,Aerospace & Defense,4,0.16347198320768563,Industry
-Industrials,Machinery,48,0.10077946565306328,Industry
-Industrials,Industrial Services,67,0.6160238094999057,Industry
-Consumer Services,Retail,63,0.06457780012052639,Industry
-Consumer Services,Travel & Leisure,97,0.9349256091708829,Industry
-Consumer Services,Media,36,0.4325461214733801,Industry
-Transportation,Airlines,35,0.7609673619533124,Industry
-Transportation,Railroads,61,0.6288975988629567,Industry
-Transportation,Logistics,64,0.25613808244527414,Industry
+,Chippewa,840,0.5590599255271865,Overall
+Chippewa,HiTech,47,0.8315105449582,Sector
+Chippewa,Agriculture,38,0.8003464243707499,Sector
+Chippewa,Transportation,4,0.3497337809944735,Sector
+Chippewa,Consumer_Products,36,0.5031131725481272,Sector
+Chippewa,Unassigned,44,0.46048264783442583,Sector
+Chippewa,Communication,41,0.4685567503002107,Sector
+Chippewa,Trade,89,0.8185292225507765,Sector
+Chippewa,Business_Services,43,0.22656141652536466,Sector
+Chippewa,Business_Products,79,0.6384790186129349,Sector
+Chippewa,Construction,75,0.838126512277826,Sector
+Chippewa,Services,63,0.6259491633624525,Sector
+Chippewa,Mining,95,0.6018666116428615,Sector
+Chippewa,Health_Care,49,0.6962461083565384,Sector
+Chippewa,EnergyExpL_Prod,60,0.34468295009525307,Sector
+Chippewa,Utilities,77,0.18171455847760398,Sector

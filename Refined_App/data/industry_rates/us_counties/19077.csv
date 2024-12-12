@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Guthrie,1930,0.5602373465394285,Overall
-Guthrie,Technology,179,0.6749671806004267,Sector
-Guthrie,Healthcare,199,0.4017101877923064,Sector
-Guthrie,Finance,84,0.19782850438915733,Sector
-Guthrie,Energy,238,0.2724662029679187,Sector
-Guthrie,Consumer Goods,169,0.8821613992029745,Sector
-Guthrie,Utilities,124,0.13156177685470916,Sector
-Guthrie,Real Estate,86,0.7244997770027853,Sector
-Guthrie,Telecommunications,145,0.5510750335832233,Sector
-Guthrie,Materials,179,0.8486593721287825,Sector
-Guthrie,Industrials,92,0.11022481919841076,Sector
-Guthrie,Consumer Services,208,0.6711178066144667,Sector
-Guthrie,Transportation,227,0.525353429445576,Sector
-Technology,Software,74,0.9746826380912359,Industry
-Technology,Hardware,9,0.030522634416922045,Industry
-Technology,IT Services,96,0.18576345095901703,Industry
-Healthcare,Pharmaceuticals,15,0.9962072671692357,Industry
-Healthcare,Medical Devices,89,0.45748604788958047,Industry
-Healthcare,Healthcare Services,95,0.37057067476340166,Industry
-Finance,Banking,7,0.13939717330608392,Industry
-Finance,Insurance,52,0.8247295978403767,Industry
-Finance,Investment Services,25,0.4306302429221648,Industry
-Energy,Oil & Gas,93,0.898688632615315,Industry
-Energy,Renewable Energy,48,0.21101656928550383,Industry
-Energy,Energy Exploration,97,0.39131063865728377,Industry
-Consumer Goods,Food & Beverage,86,0.606064600285031,Industry
-Consumer Goods,Household Products,7,0.7665651618172189,Industry
-Consumer Goods,Apparel,76,0.5772341554367327,Industry
-Utilities,Electric,8,0.8916193302219804,Industry
-Utilities,Water,96,0.16139605238211974,Industry
-Utilities,Gas,20,0.7568835169349847,Industry
-Real Estate,Residential,37,0.7300864844581726,Industry
-Real Estate,Commercial,3,0.4864814567442519,Industry
-Real Estate,Industrial,46,0.4081615725728154,Industry
-Telecommunications,Mobile,89,0.7112014995225121,Industry
-Telecommunications,Broadband,38,0.8551805888361498,Industry
-Telecommunications,Satellite,18,0.4057562667958815,Industry
-Materials,Chemicals,92,0.6714665406203377,Industry
-Materials,Metals & Mining,64,0.7617985653899222,Industry
-Materials,Construction Materials,23,0.919338436432487,Industry
-Industrials,Aerospace & Defense,19,0.8967447878884399,Industry
-Industrials,Machinery,49,0.5354995137761235,Industry
-Industrials,Industrial Services,24,0.0524499476185063,Industry
-Consumer Services,Retail,98,0.006513626432624653,Industry
-Consumer Services,Travel & Leisure,31,0.42931114127729586,Industry
-Consumer Services,Media,79,0.6400769265825952,Industry
-Transportation,Airlines,93,0.8966403515520824,Industry
-Transportation,Railroads,67,0.34216393530802813,Industry
-Transportation,Logistics,67,0.04055180574979789,Industry
+,Guthrie,883,0.5077908206112185,Overall
+Guthrie,HiTech,90,0.9249171390439332,Sector
+Guthrie,Agriculture,45,0.9500442662917729,Sector
+Guthrie,Transportation,51,0.9289860225419709,Sector
+Guthrie,Consumer_Products,65,0.7785728257871167,Sector
+Guthrie,Unassigned,6,0.66027782341083,Sector
+Guthrie,Communication,82,0.27057877286906584,Sector
+Guthrie,Trade,47,0.1809609022466827,Sector
+Guthrie,Business_Services,33,0.3810520826701854,Sector
+Guthrie,Business_Products,92,0.14708251954638651,Sector
+Guthrie,Construction,84,0.13951400767239364,Sector
+Guthrie,Services,72,0.855324628845459,Sector
+Guthrie,Mining,69,0.4753501451554163,Sector
+Guthrie,Health_Care,40,0.18351693281629766,Sector
+Guthrie,EnergyExpL_Prod,9,0.5991138519945948,Sector
+Guthrie,Utilities,98,0.1415703882761732,Sector

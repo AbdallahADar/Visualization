@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Yakima,1689,0.8477838573132236,Overall
+Yakima,Technology,114,0.7225702909137195,Sector
+Yakima,Healthcare,171,0.7214132974583742,Sector
+Yakima,Finance,128,0.4641292635405685,Sector
+Yakima,Energy,135,0.6171841042550186,Sector
+Yakima,Consumer Goods,141,0.7646335695845623,Sector
+Yakima,Utilities,92,0.8440032590965696,Sector
+Yakima,Real Estate,212,0.4517880989037584,Sector
+Yakima,Telecommunications,183,0.3229439377634957,Sector
+Yakima,Materials,154,0.2690167900970817,Sector
+Yakima,Industrials,131,0.2453086398295088,Sector
+Yakima,Consumer Services,73,0.7231897916520174,Sector
+Yakima,Transportation,155,0.5405671247015668,Sector
+Technology,Software,2,0.19824848351621438,Industry
+Technology,Hardware,25,0.859741004700996,Industry
+Technology,IT Services,87,0.7054725040942555,Industry
+Healthcare,Pharmaceuticals,81,0.2927938201816732,Industry
+Healthcare,Medical Devices,52,0.07302288946882085,Industry
+Healthcare,Healthcare Services,38,0.7087257801502669,Industry
+Finance,Banking,94,0.8316646096480272,Industry
+Finance,Insurance,26,0.6665488053231334,Industry
+Finance,Investment Services,8,0.9827098894798951,Industry
+Energy,Oil & Gas,36,0.9061739611147731,Industry
+Energy,Renewable Energy,2,0.7961404019998277,Industry
+Energy,Energy Exploration,97,0.6893963909494479,Industry
+Consumer Goods,Food & Beverage,58,0.5624577845853431,Industry
+Consumer Goods,Household Products,69,0.46847269106652834,Industry
+Consumer Goods,Apparel,14,0.6659127531160366,Industry
+Utilities,Electric,21,0.6679485378695214,Industry
+Utilities,Water,49,0.6938257565066738,Industry
+Utilities,Gas,22,0.9278953374763589,Industry
+Real Estate,Residential,74,0.6829116240718949,Industry
+Real Estate,Commercial,97,0.16794392172379868,Industry
+Real Estate,Industrial,41,0.40004368637742915,Industry
+Telecommunications,Mobile,40,0.46072758341802045,Industry
+Telecommunications,Broadband,65,0.6462651744453488,Industry
+Telecommunications,Satellite,78,0.21181958842963422,Industry
+Materials,Chemicals,69,0.33451876097632227,Industry
+Materials,Metals & Mining,45,0.5847377560608406,Industry
+Materials,Construction Materials,40,0.14393437432259482,Industry
+Industrials,Aerospace & Defense,16,0.7657898911127605,Industry
+Industrials,Machinery,74,0.6979221677833568,Industry
+Industrials,Industrial Services,41,0.6136251253334356,Industry
+Consumer Services,Retail,31,0.43004148130475794,Industry
+Consumer Services,Travel & Leisure,33,0.49148997901866043,Industry
+Consumer Services,Media,9,0.8925658853678923,Industry
+Transportation,Airlines,33,0.04479301013814729,Industry
+Transportation,Railroads,89,0.9870861735637614,Industry
+Transportation,Logistics,33,0.496823876562953,Industry

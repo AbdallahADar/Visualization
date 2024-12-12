@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Oneida,1846,0.6491865327565982,Overall
-Oneida,Technology,163,0.909356814920184,Sector
-Oneida,Healthcare,137,0.041117157693065676,Sector
-Oneida,Finance,243,0.40431658079514654,Sector
-Oneida,Energy,163,0.16288404905595166,Sector
-Oneida,Consumer Goods,206,0.4848401699237953,Sector
-Oneida,Utilities,103,0.7066786001593464,Sector
-Oneida,Real Estate,84,0.9415240793652166,Sector
-Oneida,Telecommunications,158,0.8778828945693401,Sector
-Oneida,Materials,171,0.8246200079018431,Sector
-Oneida,Industrials,117,0.6697206066969856,Sector
-Oneida,Consumer Services,109,0.6370282214681586,Sector
-Oneida,Transportation,192,0.46533130325922123,Sector
-Technology,Software,63,0.48433570897041134,Industry
-Technology,Hardware,91,0.8938851766010166,Industry
-Technology,IT Services,9,0.851890407347761,Industry
-Healthcare,Pharmaceuticals,43,0.20376331285218752,Industry
-Healthcare,Medical Devices,68,0.7454584188827192,Industry
-Healthcare,Healthcare Services,26,0.453742255790308,Industry
-Finance,Banking,88,0.8799003762077571,Industry
-Finance,Insurance,78,0.050155690769299155,Industry
-Finance,Investment Services,77,0.6283160644538545,Industry
-Energy,Oil & Gas,74,0.07480859006404073,Industry
-Energy,Renewable Energy,23,0.14142814218043842,Industry
-Energy,Energy Exploration,66,0.02530095396619325,Industry
-Consumer Goods,Food & Beverage,96,0.07144428295557559,Industry
-Consumer Goods,Household Products,53,0.33593169497056086,Industry
-Consumer Goods,Apparel,57,0.7286086987677337,Industry
-Utilities,Electric,42,0.7229151056936785,Industry
-Utilities,Water,0,0.0013450225889269918,Industry
-Utilities,Gas,61,0.5787770446355983,Industry
-Real Estate,Residential,4,0.9111624566655877,Industry
-Real Estate,Commercial,70,0.4398782101535369,Industry
-Real Estate,Industrial,10,0.719779930796689,Industry
-Telecommunications,Mobile,39,0.5885715459743407,Industry
-Telecommunications,Broadband,61,0.19184131802027926,Industry
-Telecommunications,Satellite,58,0.65262605243333,Industry
-Materials,Chemicals,75,0.00412713850996882,Industry
-Materials,Metals & Mining,87,0.6080286155042472,Industry
-Materials,Construction Materials,9,0.08221820415947045,Industry
-Industrials,Aerospace & Defense,96,0.19268149852382344,Industry
-Industrials,Machinery,9,0.5044363680450468,Industry
-Industrials,Industrial Services,12,0.8546108987923331,Industry
-Consumer Services,Retail,18,0.5461044001717521,Industry
-Consumer Services,Travel & Leisure,7,0.16831429538096399,Industry
-Consumer Services,Media,84,0.6061083654716853,Industry
-Transportation,Airlines,54,0.33955989402185416,Industry
-Transportation,Railroads,69,0.7873520912932063,Industry
-Transportation,Logistics,69,0.7778233172657499,Industry
+,Oneida,605,0.5564299014863746,Overall
+Oneida,HiTech,4,0.4152490561213955,Sector
+Oneida,Agriculture,23,0.9912510179419443,Sector
+Oneida,Transportation,63,0.7208083362208998,Sector
+Oneida,Consumer_Products,85,0.39510224339791356,Sector
+Oneida,Unassigned,3,0.4616798417530249,Sector
+Oneida,Communication,56,0.6631415516751842,Sector
+Oneida,Trade,30,0.5518416602974432,Sector
+Oneida,Business_Services,50,0.8503360307809633,Sector
+Oneida,Business_Products,7,0.7292031745309092,Sector
+Oneida,Construction,87,0.5877032642089279,Sector
+Oneida,Services,33,0.2664469544246454,Sector
+Oneida,Mining,85,0.20911983427547953,Sector
+Oneida,Health_Care,13,0.35783318149034204,Sector
+Oneida,EnergyExpL_Prod,39,0.8415729400690027,Sector
+Oneida,Utilities,27,0.3051594351075444,Sector

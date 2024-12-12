@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Auglaize,1642,0.45705376651934093,Overall
-Auglaize,Technology,114,0.9353153160639714,Sector
-Auglaize,Healthcare,131,0.9606781327894613,Sector
-Auglaize,Finance,165,0.652442378456592,Sector
-Auglaize,Energy,85,0.24878247614838012,Sector
-Auglaize,Consumer Goods,107,0.49365424435521543,Sector
-Auglaize,Utilities,158,0.2483302137656963,Sector
-Auglaize,Real Estate,138,0.31232446987957607,Sector
-Auglaize,Telecommunications,123,0.6116493035066187,Sector
-Auglaize,Materials,224,0.5534646269196449,Sector
-Auglaize,Industrials,134,0.8306711453854589,Sector
-Auglaize,Consumer Services,126,0.9899247852598341,Sector
-Auglaize,Transportation,137,0.10887736038552676,Sector
-Technology,Software,75,0.6723549290994492,Industry
-Technology,Hardware,4,0.18785389568553812,Industry
-Technology,IT Services,35,0.24862995803950938,Industry
-Healthcare,Pharmaceuticals,20,0.23233564218468872,Industry
-Healthcare,Medical Devices,28,0.2912405368483386,Industry
-Healthcare,Healthcare Services,83,0.959765876023375,Industry
-Finance,Banking,75,0.37104702266368583,Industry
-Finance,Insurance,17,0.4685995541062983,Industry
-Finance,Investment Services,73,0.04293189857156232,Industry
-Energy,Oil & Gas,37,0.05905392895958661,Industry
-Energy,Renewable Energy,28,0.0438045456220022,Industry
-Energy,Energy Exploration,20,0.11526898944678599,Industry
-Consumer Goods,Food & Beverage,8,0.53578772335842,Industry
-Consumer Goods,Household Products,8,0.7085767922182927,Industry
-Consumer Goods,Apparel,91,0.4225439522104876,Industry
-Utilities,Electric,67,0.2837868780785645,Industry
-Utilities,Water,65,0.26508291687729213,Industry
-Utilities,Gas,26,0.73298427219665,Industry
-Real Estate,Residential,98,0.6147514119437527,Industry
-Real Estate,Commercial,18,0.21315678104492353,Industry
-Real Estate,Industrial,22,0.20234055162436748,Industry
-Telecommunications,Mobile,71,0.9607509711867686,Industry
-Telecommunications,Broadband,42,0.8922410687069775,Industry
-Telecommunications,Satellite,10,0.3890749445410797,Industry
-Materials,Chemicals,80,0.7751184087196463,Industry
-Materials,Metals & Mining,83,0.6557070393471042,Industry
-Materials,Construction Materials,61,0.6620943395070416,Industry
-Industrials,Aerospace & Defense,50,0.44482809543373225,Industry
-Industrials,Machinery,77,0.3548725839750464,Industry
-Industrials,Industrial Services,7,0.4196326531802327,Industry
-Consumer Services,Retail,71,0.6653239022040646,Industry
-Consumer Services,Travel & Leisure,26,0.7524935931485566,Industry
-Consumer Services,Media,29,0.8968777699758189,Industry
-Transportation,Airlines,55,0.042530133187538954,Industry
-Transportation,Railroads,37,0.277519411274712,Industry
-Transportation,Logistics,45,0.3434473762129011,Industry
+,Auglaize,739,0.3555689081026317,Overall
+Auglaize,HiTech,14,0.660727145127288,Sector
+Auglaize,Agriculture,52,0.6116007075299993,Sector
+Auglaize,Transportation,25,0.026850351392679328,Sector
+Auglaize,Consumer_Products,18,0.04350598382528015,Sector
+Auglaize,Unassigned,23,0.6769488459967954,Sector
+Auglaize,Communication,70,0.0619303993298671,Sector
+Auglaize,Trade,98,0.9630836237146779,Sector
+Auglaize,Business_Services,99,0.24960946810484275,Sector
+Auglaize,Business_Products,41,0.2571361884162304,Sector
+Auglaize,Construction,55,0.30949561542077886,Sector
+Auglaize,Services,33,0.33570548769956654,Sector
+Auglaize,Mining,42,0.1551363467608209,Sector
+Auglaize,Health_Care,79,0.6030210747680403,Sector
+Auglaize,EnergyExpL_Prod,41,0.3630217921388271,Sector
+Auglaize,Utilities,49,0.015760591313781047,Sector

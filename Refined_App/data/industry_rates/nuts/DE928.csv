@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Schaumburg,1592,0.48389656017752913,Overall
-Schaumburg,Technology,112,0.6089717075348178,Sector
-Schaumburg,Healthcare,33,0.3274235948127703,Sector
-Schaumburg,Finance,194,0.8511470079083167,Sector
-Schaumburg,Energy,161,0.20017122114422436,Sector
-Schaumburg,Consumer Goods,138,0.01628042323927803,Sector
-Schaumburg,Utilities,238,0.17598419253876552,Sector
-Schaumburg,Real Estate,112,0.4406450635065131,Sector
-Schaumburg,Telecommunications,133,0.5173326298637733,Sector
-Schaumburg,Materials,179,0.0010738121614184415,Sector
-Schaumburg,Industrials,112,0.5144798837846125,Sector
-Schaumburg,Consumer Services,67,0.727553288490743,Sector
-Schaumburg,Transportation,113,0.14625986285828696,Sector
-Technology,Software,7,0.19147732545669627,Industry
-Technology,Hardware,97,0.8042265939664076,Industry
-Technology,IT Services,8,0.7523499882096549,Industry
-Healthcare,Pharmaceuticals,6,0.4651948717751625,Industry
-Healthcare,Medical Devices,18,0.5338507349163105,Industry
-Healthcare,Healthcare Services,9,0.666781533386465,Industry
-Finance,Banking,20,0.5988186118177952,Industry
-Finance,Insurance,80,0.703704155885815,Industry
-Finance,Investment Services,94,0.46267126092357014,Industry
-Energy,Oil & Gas,75,0.7437895929244471,Industry
-Energy,Renewable Energy,30,0.3697845331696368,Industry
-Energy,Energy Exploration,56,0.7593798714499572,Industry
-Consumer Goods,Food & Beverage,48,0.7753762534915275,Industry
-Consumer Goods,Household Products,45,0.5825691573623061,Industry
-Consumer Goods,Apparel,45,0.3762971226526002,Industry
-Utilities,Electric,83,0.44468138984810557,Industry
-Utilities,Water,64,0.8018907365897447,Industry
-Utilities,Gas,91,0.3121241334663081,Industry
-Real Estate,Residential,16,0.3004786890498019,Industry
-Real Estate,Commercial,32,0.6786674677488774,Industry
-Real Estate,Industrial,64,0.6666381260658825,Industry
-Telecommunications,Mobile,43,0.3293962113645573,Industry
-Telecommunications,Broadband,68,0.5246694651424051,Industry
-Telecommunications,Satellite,22,0.15893545539593334,Industry
-Materials,Chemicals,65,0.5472464718311922,Industry
-Materials,Metals & Mining,92,0.6730478598850145,Industry
-Materials,Construction Materials,22,0.7856971188016159,Industry
-Industrials,Aerospace & Defense,2,0.14488367744490582,Industry
-Industrials,Machinery,58,0.3325686834845182,Industry
-Industrials,Industrial Services,52,0.2227109573353101,Industry
-Consumer Services,Retail,39,0.635430428374634,Industry
-Consumer Services,Travel & Leisure,14,0.12907179865471108,Industry
-Consumer Services,Media,14,0.25610859309054457,Industry
-Transportation,Airlines,32,0.09078161416398633,Industry
-Transportation,Railroads,29,0.69356036147834,Industry
-Transportation,Logistics,52,0.9231260600419533,Industry
+,Schaumburg,784,0.6025912380404514,Overall
+Schaumburg,HiTech,45,0.5948672455848739,Sector
+Schaumburg,Agriculture,57,0.9660418740706916,Sector
+Schaumburg,Transportation,39,0.7314343281417202,Sector
+Schaumburg,Consumer_Products,4,0.7517893063884661,Sector
+Schaumburg,Unassigned,85,0.3897903714824974,Sector
+Schaumburg,Communication,55,0.7040248625276629,Sector
+Schaumburg,Trade,34,0.15915173019843964,Sector
+Schaumburg,Business_Services,63,0.9159034330032011,Sector
+Schaumburg,Business_Products,77,0.48327302447838705,Sector
+Schaumburg,Construction,52,0.4487687625752774,Sector
+Schaumburg,Services,52,0.5459711156627123,Sector
+Schaumburg,Mining,88,0.5087390066084959,Sector
+Schaumburg,Health_Care,8,0.6932202324758208,Sector
+Schaumburg,EnergyExpL_Prod,43,0.38396584352912366,Sector
+Schaumburg,Utilities,82,0.7619274338794018,Sector

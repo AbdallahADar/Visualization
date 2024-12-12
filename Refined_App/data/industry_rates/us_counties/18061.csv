@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Harrison,1855,0.3152350628620625,Overall
-Harrison,Technology,140,0.1876897735080213,Sector
-Harrison,Healthcare,190,0.501755560604952,Sector
-Harrison,Finance,113,0.024276752373854404,Sector
-Harrison,Energy,119,0.35049340699648657,Sector
-Harrison,Consumer Goods,171,0.6105949513108214,Sector
-Harrison,Utilities,153,0.8985042321816108,Sector
-Harrison,Real Estate,160,0.872430890660552,Sector
-Harrison,Telecommunications,155,0.019223393748876605,Sector
-Harrison,Materials,203,0.25556832017485276,Sector
-Harrison,Industrials,143,0.14328089338725625,Sector
-Harrison,Consumer Services,165,0.4186798477181949,Sector
-Harrison,Transportation,143,0.3915301574300726,Sector
-Technology,Software,65,0.8331448945522336,Industry
-Technology,Hardware,27,0.393456260796722,Industry
-Technology,IT Services,48,0.8617020722535985,Industry
-Healthcare,Pharmaceuticals,14,0.785901444789769,Industry
-Healthcare,Medical Devices,85,0.6974860498228279,Industry
-Healthcare,Healthcare Services,91,0.8155877174330877,Industry
-Finance,Banking,43,0.879858618639455,Industry
-Finance,Insurance,53,0.04507378977048471,Industry
-Finance,Investment Services,17,0.6791826865114781,Industry
-Energy,Oil & Gas,99,0.7515707385989266,Industry
-Energy,Renewable Energy,4,0.49317307053316095,Industry
-Energy,Energy Exploration,16,0.5920130645195582,Industry
-Consumer Goods,Food & Beverage,14,0.8578437458679035,Industry
-Consumer Goods,Household Products,77,0.2379030896295654,Industry
-Consumer Goods,Apparel,80,0.6956000267634532,Industry
-Utilities,Electric,32,0.5498041179151407,Industry
-Utilities,Water,81,0.6648888083698602,Industry
-Utilities,Gas,40,0.8572932049805231,Industry
-Real Estate,Residential,4,0.5508504380141264,Industry
-Real Estate,Commercial,81,0.7107172146410095,Industry
-Real Estate,Industrial,75,0.0042994978230772585,Industry
-Telecommunications,Mobile,4,0.7095296956057253,Industry
-Telecommunications,Broadband,70,0.07189770178354182,Industry
-Telecommunications,Satellite,81,0.9427133648548394,Industry
-Materials,Chemicals,39,0.6876583549381515,Industry
-Materials,Metals & Mining,72,0.18922878945135768,Industry
-Materials,Construction Materials,92,0.5771434704408988,Industry
-Industrials,Aerospace & Defense,50,0.3654532750095847,Industry
-Industrials,Machinery,88,0.9224813757263032,Industry
-Industrials,Industrial Services,5,0.48812588266573853,Industry
-Consumer Services,Retail,48,0.010841062705782112,Industry
-Consumer Services,Travel & Leisure,39,0.27676523358722815,Industry
-Consumer Services,Media,78,0.650351709427358,Industry
-Transportation,Airlines,36,0.9163251386172426,Industry
-Transportation,Railroads,83,0.5319922082833799,Industry
-Transportation,Logistics,24,0.5803010681574743,Industry
+,Harrison,645,0.417347861935501,Overall
+Harrison,HiTech,28,0.5537244469869104,Sector
+Harrison,Agriculture,80,0.493604059049672,Sector
+Harrison,Transportation,20,0.01599388713564953,Sector
+Harrison,Consumer_Products,96,0.1891712536665362,Sector
+Harrison,Unassigned,9,0.135959177798344,Sector
+Harrison,Communication,67,0.24852319540265433,Sector
+Harrison,Trade,26,0.2370990085206781,Sector
+Harrison,Business_Services,74,0.2419189448772584,Sector
+Harrison,Business_Products,28,0.10348905404576747,Sector
+Harrison,Construction,25,0.4311091271687806,Sector
+Harrison,Services,78,0.6027468918062514,Sector
+Harrison,Mining,48,0.8269820907892688,Sector
+Harrison,Health_Care,14,0.29240546296907044,Sector
+Harrison,EnergyExpL_Prod,26,0.9115456170938692,Sector
+Harrison,Utilities,26,0.9759457117218036,Sector

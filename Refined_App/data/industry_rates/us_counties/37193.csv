@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wilkes,1585,0.4627859500946111,Overall
-Wilkes,Technology,191,0.7057119074136484,Sector
-Wilkes,Healthcare,159,0.5095505463193197,Sector
-Wilkes,Finance,161,0.3239906703799451,Sector
-Wilkes,Energy,114,0.9288331749183482,Sector
-Wilkes,Consumer Goods,118,0.955767720982565,Sector
-Wilkes,Utilities,55,0.49117216164246236,Sector
-Wilkes,Real Estate,160,0.6185068125882193,Sector
-Wilkes,Telecommunications,116,0.9013006117262072,Sector
-Wilkes,Materials,165,0.5976272831303505,Sector
-Wilkes,Industrials,62,0.8603257591427182,Sector
-Wilkes,Consumer Services,108,0.30799431919906817,Sector
-Wilkes,Transportation,176,0.9339778608442554,Sector
-Technology,Software,80,0.6614424022341965,Industry
-Technology,Hardware,35,0.28829279832332355,Industry
-Technology,IT Services,76,0.8057026575783782,Industry
-Healthcare,Pharmaceuticals,96,0.13140835626895464,Industry
-Healthcare,Medical Devices,4,0.5824522971250773,Industry
-Healthcare,Healthcare Services,59,0.7934785144258253,Industry
-Finance,Banking,85,0.4536138538847978,Industry
-Finance,Insurance,29,0.14560058861131986,Industry
-Finance,Investment Services,47,0.8844027893285761,Industry
-Energy,Oil & Gas,23,0.744616989088933,Industry
-Energy,Renewable Energy,15,0.847257514331996,Industry
-Energy,Energy Exploration,76,0.38297148258401414,Industry
-Consumer Goods,Food & Beverage,77,0.05800950977075636,Industry
-Consumer Goods,Household Products,22,0.9888316603605684,Industry
-Consumer Goods,Apparel,19,0.3732684333871298,Industry
-Utilities,Electric,22,0.15762934271764006,Industry
-Utilities,Water,16,0.11712323248445755,Industry
-Utilities,Gas,17,0.40943322956978423,Industry
-Real Estate,Residential,99,0.8452797667559243,Industry
-Real Estate,Commercial,51,0.6314588478487646,Industry
-Real Estate,Industrial,10,0.23485517044594284,Industry
-Telecommunications,Mobile,26,0.4365922055610052,Industry
-Telecommunications,Broadband,27,0.2450530653944617,Industry
-Telecommunications,Satellite,63,0.8815305283898751,Industry
-Materials,Chemicals,17,0.5180874806208015,Industry
-Materials,Metals & Mining,80,0.1348487699339217,Industry
-Materials,Construction Materials,68,0.4228654498647202,Industry
-Industrials,Aerospace & Defense,49,0.8744458708266981,Industry
-Industrials,Machinery,6,0.788385029769075,Industry
-Industrials,Industrial Services,7,0.05989796651450652,Industry
-Consumer Services,Retail,1,0.23880043645462212,Industry
-Consumer Services,Travel & Leisure,58,0.5399260784275791,Industry
-Consumer Services,Media,49,0.6972118939033072,Industry
-Transportation,Airlines,98,0.9371371879505179,Industry
-Transportation,Railroads,77,0.2683002463862747,Industry
-Transportation,Logistics,1,0.0905542110392683,Industry
+,Wilkes,835,0.48641408981034095,Overall
+Wilkes,HiTech,54,0.0004956640691389236,Sector
+Wilkes,Agriculture,67,0.4231862815686507,Sector
+Wilkes,Transportation,58,0.27942512624120464,Sector
+Wilkes,Consumer_Products,41,0.16336215978082103,Sector
+Wilkes,Unassigned,19,0.12994429377135108,Sector
+Wilkes,Communication,34,0.8530628904155236,Sector
+Wilkes,Trade,89,0.8914145012705964,Sector
+Wilkes,Business_Services,96,0.5637911753554932,Sector
+Wilkes,Business_Products,51,0.94025325921918,Sector
+Wilkes,Construction,76,0.9683228894490286,Sector
+Wilkes,Services,33,0.20049940799712507,Sector
+Wilkes,Mining,80,0.7693960277752788,Sector
+Wilkes,Health_Care,69,0.06501124270888847,Sector
+Wilkes,EnergyExpL_Prod,61,0.8001126036575544,Sector
+Wilkes,Utilities,7,0.24793382387527851,Sector

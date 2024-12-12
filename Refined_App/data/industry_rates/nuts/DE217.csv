@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dachau,1672,0.03684190414931032,Overall
-Dachau,Technology,190,0.168000524680736,Sector
-Dachau,Healthcare,92,0.6737496413120906,Sector
-Dachau,Finance,144,0.16873509576873846,Sector
-Dachau,Energy,152,0.8278239993216003,Sector
-Dachau,Consumer Goods,145,0.7818302925065157,Sector
-Dachau,Utilities,161,0.2596615475245695,Sector
-Dachau,Real Estate,108,0.4517021963797677,Sector
-Dachau,Telecommunications,196,0.0038851589971219402,Sector
-Dachau,Materials,100,0.1548356290419498,Sector
-Dachau,Industrials,93,0.24246808933710895,Sector
-Dachau,Consumer Services,132,0.5002161732637945,Sector
-Dachau,Transportation,159,0.29817616336506514,Sector
-Technology,Software,77,0.34715575989357594,Industry
-Technology,Hardware,28,0.18267780259834354,Industry
-Technology,IT Services,85,0.8119781964861308,Industry
-Healthcare,Pharmaceuticals,62,0.282022027356181,Industry
-Healthcare,Medical Devices,22,0.7559936727148421,Industry
-Healthcare,Healthcare Services,8,0.3410088096982151,Industry
-Finance,Banking,64,0.13922533290773675,Industry
-Finance,Insurance,42,0.1801419507795866,Industry
-Finance,Investment Services,38,0.6443913159483725,Industry
-Energy,Oil & Gas,73,0.9949085449478997,Industry
-Energy,Renewable Energy,38,0.014128967402714743,Industry
-Energy,Energy Exploration,41,0.6867036475223679,Industry
-Consumer Goods,Food & Beverage,93,0.9132706536197789,Industry
-Consumer Goods,Household Products,13,0.8586653748786234,Industry
-Consumer Goods,Apparel,39,0.7580467094548082,Industry
-Utilities,Electric,6,0.8759694689616256,Industry
-Utilities,Water,93,0.5945555786428595,Industry
-Utilities,Gas,62,0.5669455598538011,Industry
-Real Estate,Residential,21,0.2429463737405716,Industry
-Real Estate,Commercial,53,0.5728503478254482,Industry
-Real Estate,Industrial,34,0.5077998813887915,Industry
-Telecommunications,Mobile,80,0.45474251373123487,Industry
-Telecommunications,Broadband,94,0.7063491239959885,Industry
-Telecommunications,Satellite,22,0.28384631350373113,Industry
-Materials,Chemicals,59,0.10715359603847585,Industry
-Materials,Metals & Mining,14,0.015617528597481,Industry
-Materials,Construction Materials,27,0.5197833362450089,Industry
-Industrials,Aerospace & Defense,26,0.8436854453142365,Industry
-Industrials,Machinery,40,0.39494335048000806,Industry
-Industrials,Industrial Services,27,0.7587630625689283,Industry
-Consumer Services,Retail,44,0.47878869523022793,Industry
-Consumer Services,Travel & Leisure,12,0.4883149949538128,Industry
-Consumer Services,Media,76,0.4414028735592239,Industry
-Transportation,Airlines,48,0.18564138822214393,Industry
-Transportation,Railroads,89,0.5592604702889574,Industry
-Transportation,Logistics,22,0.22299256870369522,Industry
+,Dachau,615,0.43332456011599774,Overall
+Dachau,HiTech,7,0.06385364866375998,Sector
+Dachau,Agriculture,48,0.6452904658843799,Sector
+Dachau,Transportation,27,0.11571329483913528,Sector
+Dachau,Consumer_Products,33,0.32867530232305664,Sector
+Dachau,Unassigned,63,0.49003210059620816,Sector
+Dachau,Communication,19,0.5340296541787403,Sector
+Dachau,Trade,61,0.5558432120987007,Sector
+Dachau,Business_Services,60,0.9455508612513412,Sector
+Dachau,Business_Products,24,0.29137917290429116,Sector
+Dachau,Construction,66,0.4515504999063116,Sector
+Dachau,Services,51,0.4363586227515297,Sector
+Dachau,Mining,4,0.07628313254997465,Sector
+Dachau,Health_Care,39,0.7260820953083268,Sector
+Dachau,EnergyExpL_Prod,22,0.16135437095891614,Sector
+Dachau,Utilities,91,0.6778719675252934,Sector

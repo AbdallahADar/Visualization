@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Washoe,1855,0.22208224889053774,Overall
-Washoe,Technology,160,0.4409997548180816,Sector
-Washoe,Healthcare,77,0.29776389938148584,Sector
-Washoe,Finance,176,0.11939253839235953,Sector
-Washoe,Energy,240,0.2831274957699911,Sector
-Washoe,Consumer Goods,151,0.2091010373330836,Sector
-Washoe,Utilities,170,0.09191035753747046,Sector
-Washoe,Real Estate,108,0.4037098870153868,Sector
-Washoe,Telecommunications,121,0.6136138197195973,Sector
-Washoe,Materials,164,0.5496754749889298,Sector
-Washoe,Industrials,159,0.3863034863557234,Sector
-Washoe,Consumer Services,148,0.3513701009840754,Sector
-Washoe,Transportation,181,0.7727595411449691,Sector
-Technology,Software,83,0.6171954530328485,Industry
-Technology,Hardware,29,0.6653231410314483,Industry
-Technology,IT Services,48,0.01739135465079522,Industry
-Healthcare,Pharmaceuticals,10,0.3140929569267684,Industry
-Healthcare,Medical Devices,20,0.8953675257378976,Industry
-Healthcare,Healthcare Services,47,0.4653887797126819,Industry
-Finance,Banking,90,0.7823381890843442,Industry
-Finance,Insurance,73,0.7498976804646503,Industry
-Finance,Investment Services,13,0.1514146205748509,Industry
-Energy,Oil & Gas,87,0.5005050615934545,Industry
-Energy,Renewable Energy,68,0.5132125724398133,Industry
-Energy,Energy Exploration,85,0.786471657179891,Industry
-Consumer Goods,Food & Beverage,33,0.9969007101160019,Industry
-Consumer Goods,Household Products,67,0.7006039740473294,Industry
-Consumer Goods,Apparel,51,0.46588542869959315,Industry
-Utilities,Electric,49,0.8774929650907214,Industry
-Utilities,Water,93,0.23845729619200973,Industry
-Utilities,Gas,28,0.9884938533734257,Industry
-Real Estate,Residential,42,0.49969748195660435,Industry
-Real Estate,Commercial,49,0.4246649193708878,Industry
-Real Estate,Industrial,17,0.11324565036806489,Industry
-Telecommunications,Mobile,62,0.460397097810478,Industry
-Telecommunications,Broadband,26,0.9769701283511235,Industry
-Telecommunications,Satellite,33,0.5270383012722121,Industry
-Materials,Chemicals,97,0.9121725088497562,Industry
-Materials,Metals & Mining,62,0.08531611277264017,Industry
-Materials,Construction Materials,5,0.6915726108658349,Industry
-Industrials,Aerospace & Defense,74,0.319540104045111,Industry
-Industrials,Machinery,40,0.5386270560507699,Industry
-Industrials,Industrial Services,45,0.6935379717623462,Industry
-Consumer Services,Retail,54,0.24271464381763053,Industry
-Consumer Services,Travel & Leisure,62,0.6774216393053838,Industry
-Consumer Services,Media,32,0.20838949474656565,Industry
-Transportation,Airlines,56,0.8198800689789808,Industry
-Transportation,Railroads,85,0.2879092707365324,Industry
-Transportation,Logistics,40,0.5096202874694348,Industry
+,Washoe,602,0.40533130937989087,Overall
+Washoe,HiTech,50,0.33808396486850834,Sector
+Washoe,Agriculture,58,0.2671780502199439,Sector
+Washoe,Transportation,16,0.24201562957382372,Sector
+Washoe,Consumer_Products,78,0.7631377218157397,Sector
+Washoe,Unassigned,38,0.3591596920747505,Sector
+Washoe,Communication,69,0.40927826128849776,Sector
+Washoe,Trade,23,0.6213322789022795,Sector
+Washoe,Business_Services,55,0.5983321117768651,Sector
+Washoe,Business_Products,56,0.09016887648219307,Sector
+Washoe,Construction,8,0.6167459172276308,Sector
+Washoe,Services,24,0.4396969982339526,Sector
+Washoe,Mining,12,0.20612664046884366,Sector
+Washoe,Health_Care,42,0.26891806920090233,Sector
+Washoe,EnergyExpL_Prod,58,0.3130687015700566,Sector
+Washoe,Utilities,15,0.5467267269943751,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McCurtain,1792,0.8020581202985688,Overall
-McCurtain,Technology,163,0.666414261178868,Sector
-McCurtain,Healthcare,166,0.4477740940155561,Sector
-McCurtain,Finance,142,0.05098169614637338,Sector
-McCurtain,Energy,136,0.5633116859064115,Sector
-McCurtain,Consumer Goods,109,0.17715109507258886,Sector
-McCurtain,Utilities,123,0.959077526944463,Sector
-McCurtain,Real Estate,148,0.8435673691957102,Sector
-McCurtain,Telecommunications,155,0.03726745658034458,Sector
-McCurtain,Materials,240,0.2865574613336558,Sector
-McCurtain,Industrials,105,0.28858616738552834,Sector
-McCurtain,Consumer Services,171,0.11593216440635379,Sector
-McCurtain,Transportation,134,0.8031835615796321,Sector
-Technology,Software,77,0.794763499191557,Industry
-Technology,Hardware,1,0.4882338934287678,Industry
-Technology,IT Services,85,0.44705749256449456,Industry
-Healthcare,Pharmaceuticals,53,0.3457640535020191,Industry
-Healthcare,Medical Devices,29,0.4896295423174727,Industry
-Healthcare,Healthcare Services,84,0.52008711209773,Industry
-Finance,Banking,80,0.9589146172241569,Industry
-Finance,Insurance,46,0.8439473413986877,Industry
-Finance,Investment Services,16,0.7296327859264318,Industry
-Energy,Oil & Gas,69,0.8050224936738932,Industry
-Energy,Renewable Energy,7,0.2580525142512623,Industry
-Energy,Energy Exploration,60,0.2703432566685211,Industry
-Consumer Goods,Food & Beverage,50,0.7504094160884641,Industry
-Consumer Goods,Household Products,35,0.6839346942351928,Industry
-Consumer Goods,Apparel,24,0.8398696464044302,Industry
-Utilities,Electric,61,0.7613865955665725,Industry
-Utilities,Water,24,0.1893688030374472,Industry
-Utilities,Gas,38,0.886088725071946,Industry
-Real Estate,Residential,88,0.293693260986148,Industry
-Real Estate,Commercial,4,0.4364047619864838,Industry
-Real Estate,Industrial,56,0.8970543309199478,Industry
-Telecommunications,Mobile,41,0.14920904566288307,Industry
-Telecommunications,Broadband,49,0.45580475878205895,Industry
-Telecommunications,Satellite,65,0.9420647606277186,Industry
-Materials,Chemicals,67,0.49408113250043695,Industry
-Materials,Metals & Mining,77,0.25218975921008246,Industry
-Materials,Construction Materials,96,0.5887505961107842,Industry
-Industrials,Aerospace & Defense,29,0.2363918393724881,Industry
-Industrials,Machinery,5,0.38512991980234523,Industry
-Industrials,Industrial Services,71,0.12792126200195608,Industry
-Consumer Services,Retail,50,0.12509923538781953,Industry
-Consumer Services,Travel & Leisure,33,0.46707731863261504,Industry
-Consumer Services,Media,88,0.9731358667171157,Industry
-Transportation,Airlines,80,0.3913697384233973,Industry
-Transportation,Railroads,6,0.21938693675191556,Industry
-Transportation,Logistics,48,0.6907007070496787,Industry
+,McCurtain,760,0.5577637785791684,Overall
+McCurtain,HiTech,17,0.6742682388721091,Sector
+McCurtain,Agriculture,92,0.09963032196976718,Sector
+McCurtain,Transportation,45,0.8252257383776234,Sector
+McCurtain,Consumer_Products,90,0.5072434219255397,Sector
+McCurtain,Unassigned,41,0.7658945862953497,Sector
+McCurtain,Communication,84,0.5638216417750364,Sector
+McCurtain,Trade,56,0.7519144223342931,Sector
+McCurtain,Business_Services,14,0.829558686370049,Sector
+McCurtain,Business_Products,79,0.0775041399390961,Sector
+McCurtain,Construction,35,0.894193216432361,Sector
+McCurtain,Services,10,0.695279672462939,Sector
+McCurtain,Mining,25,0.517085683733471,Sector
+McCurtain,Health_Care,72,0.8921461550791343,Sector
+McCurtain,EnergyExpL_Prod,73,0.12539866821616852,Sector
+McCurtain,Utilities,27,0.14729208490458623,Sector

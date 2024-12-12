@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Reagan,1877,0.767161364523624,Overall
-Reagan,Technology,152,0.6846440241009015,Sector
-Reagan,Healthcare,132,0.8540674843645403,Sector
-Reagan,Finance,226,0.8808913675396526,Sector
-Reagan,Energy,142,0.7670743941867164,Sector
-Reagan,Consumer Goods,203,0.9545161312883109,Sector
-Reagan,Utilities,250,0.5934309063087286,Sector
-Reagan,Real Estate,214,0.5717298207297433,Sector
-Reagan,Telecommunications,109,0.2441118099068137,Sector
-Reagan,Materials,35,0.5038757091645807,Sector
-Reagan,Industrials,191,0.9278684065153239,Sector
-Reagan,Consumer Services,129,0.8454782686934811,Sector
-Reagan,Transportation,94,0.07441974015585462,Sector
-Technology,Software,56,0.3940067823180389,Industry
-Technology,Hardware,83,0.3825385181147901,Industry
-Technology,IT Services,13,0.8801512382028114,Industry
-Healthcare,Pharmaceuticals,58,0.7295448166649434,Industry
-Healthcare,Medical Devices,0,0.7557327209148851,Industry
-Healthcare,Healthcare Services,74,0.18146315084919706,Industry
-Finance,Banking,70,0.605274630149502,Industry
-Finance,Insurance,72,0.6410891211241134,Industry
-Finance,Investment Services,84,0.05354969630479467,Industry
-Energy,Oil & Gas,69,0.04393282319785763,Industry
-Energy,Renewable Energy,52,0.7559501202368353,Industry
-Energy,Energy Exploration,21,0.009012106971185707,Industry
-Consumer Goods,Food & Beverage,90,0.9091962260392062,Industry
-Consumer Goods,Household Products,63,0.8050392250824329,Industry
-Consumer Goods,Apparel,50,0.0607982894960839,Industry
-Utilities,Electric,73,0.7743680154119079,Industry
-Utilities,Water,84,0.6865028166220606,Industry
-Utilities,Gas,93,0.32019119058150314,Industry
-Real Estate,Residential,60,0.5139910472026256,Industry
-Real Estate,Commercial,70,0.3871334868579587,Industry
-Real Estate,Industrial,84,0.01825665739008364,Industry
-Telecommunications,Mobile,61,0.1586746682554082,Industry
-Telecommunications,Broadband,20,0.01122279037378593,Industry
-Telecommunications,Satellite,28,0.49298380452440105,Industry
-Materials,Chemicals,19,0.33366765204855753,Industry
-Materials,Metals & Mining,13,0.8790203350255366,Industry
-Materials,Construction Materials,3,0.23359872982881524,Industry
-Industrials,Aerospace & Defense,90,0.35475441353004966,Industry
-Industrials,Machinery,95,0.6847804112125497,Industry
-Industrials,Industrial Services,6,0.4166465024012026,Industry
-Consumer Services,Retail,44,0.6970830573735547,Industry
-Consumer Services,Travel & Leisure,17,0.1637611317516663,Industry
-Consumer Services,Media,68,0.83075204898226,Industry
-Transportation,Airlines,55,0.32810859405544357,Industry
-Transportation,Railroads,33,0.5660826278214165,Industry
-Transportation,Logistics,6,0.7916354926917586,Industry
+,Reagan,750,0.49136046837655545,Overall
+Reagan,HiTech,99,0.7839410312753828,Sector
+Reagan,Agriculture,68,0.2692308394424586,Sector
+Reagan,Transportation,91,0.7386857579806712,Sector
+Reagan,Consumer_Products,71,0.04268247025041627,Sector
+Reagan,Unassigned,21,0.8015400015417831,Sector
+Reagan,Communication,5,0.45382498830782647,Sector
+Reagan,Trade,53,0.6779301234595027,Sector
+Reagan,Business_Services,12,0.6185681123570095,Sector
+Reagan,Business_Products,71,0.8481184978394318,Sector
+Reagan,Construction,38,0.10778764971255417,Sector
+Reagan,Services,75,0.11805237813697134,Sector
+Reagan,Mining,77,0.6237026072720994,Sector
+Reagan,Health_Care,9,0.9848932896272149,Sector
+Reagan,EnergyExpL_Prod,16,0.05281754409818806,Sector
+Reagan,Utilities,44,0.24863173434682206,Sector

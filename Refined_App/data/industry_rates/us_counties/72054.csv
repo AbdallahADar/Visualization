@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Florida,1820,0.6310391489782856,Overall
-Florida,Technology,50,0.06624673102708745,Sector
-Florida,Healthcare,193,0.4856528918952694,Sector
-Florida,Finance,142,0.9585133260605816,Sector
-Florida,Energy,71,0.25601326862141216,Sector
-Florida,Consumer Goods,194,0.6531797832186537,Sector
-Florida,Utilities,116,0.3877053047960495,Sector
-Florida,Real Estate,213,0.921326479782346,Sector
-Florida,Telecommunications,139,0.8693044049551552,Sector
-Florida,Materials,147,0.31064137282773463,Sector
-Florida,Industrials,194,0.06441415357600333,Sector
-Florida,Consumer Services,260,0.47395621212815053,Sector
-Florida,Transportation,101,0.13118640525651126,Sector
-Technology,Software,19,0.6644308093115993,Industry
-Technology,Hardware,14,0.7126954344513244,Industry
-Technology,IT Services,17,0.6996636604250989,Industry
-Healthcare,Pharmaceuticals,75,0.1017640383412961,Industry
-Healthcare,Medical Devices,62,0.024368868864608095,Industry
-Healthcare,Healthcare Services,56,0.7280079824543351,Industry
-Finance,Banking,5,0.17222880955893027,Industry
-Finance,Insurance,50,0.9262117701148508,Industry
-Finance,Investment Services,87,0.7811535548750909,Industry
-Energy,Oil & Gas,27,0.28638674311582313,Industry
-Energy,Renewable Energy,26,0.5715554281777868,Industry
-Energy,Energy Exploration,18,0.6707599573195743,Industry
-Consumer Goods,Food & Beverage,73,0.7644204919358172,Industry
-Consumer Goods,Household Products,44,0.4150334787837823,Industry
-Consumer Goods,Apparel,77,0.8030633643406231,Industry
-Utilities,Electric,3,0.946405238111198,Industry
-Utilities,Water,61,0.5597302997299091,Industry
-Utilities,Gas,52,0.9474413159113785,Industry
-Real Estate,Residential,43,0.39537174004724307,Industry
-Real Estate,Commercial,97,0.6246137194269851,Industry
-Real Estate,Industrial,73,0.19579506242407696,Industry
-Telecommunications,Mobile,7,0.6701471156459315,Industry
-Telecommunications,Broadband,69,0.1368146912116054,Industry
-Telecommunications,Satellite,63,0.4239017577857497,Industry
-Materials,Chemicals,39,0.01962350720846251,Industry
-Materials,Metals & Mining,26,0.245764384517983,Industry
-Materials,Construction Materials,82,0.5571429221272176,Industry
-Industrials,Aerospace & Defense,40,0.38295526704569616,Industry
-Industrials,Machinery,90,0.8539267573099721,Industry
-Industrials,Industrial Services,64,0.688327494055898,Industry
-Consumer Services,Retail,93,0.7032553711656422,Industry
-Consumer Services,Travel & Leisure,77,0.35137826353480195,Industry
-Consumer Services,Media,90,0.7222793012201543,Industry
-Transportation,Airlines,30,0.6087071781092207,Industry
-Transportation,Railroads,66,0.05022389592592824,Industry
-Transportation,Logistics,5,0.20083642541922175,Industry
+,Florida,953,0.4826177172459657,Overall
+Florida,HiTech,61,0.637548508467411,Sector
+Florida,Agriculture,78,0.40320971348634504,Sector
+Florida,Transportation,51,0.3345752887363387,Sector
+Florida,Consumer_Products,52,0.5695057841351114,Sector
+Florida,Unassigned,88,0.4363825968625964,Sector
+Florida,Communication,72,0.25853873046742637,Sector
+Florida,Trade,95,0.3850290736908052,Sector
+Florida,Business_Services,17,0.3006646481758206,Sector
+Florida,Business_Products,34,0.34581575703594525,Sector
+Florida,Construction,66,0.11433338832688289,Sector
+Florida,Services,48,0.34659067257359377,Sector
+Florida,Mining,41,0.5781281504038484,Sector
+Florida,Health_Care,52,0.8996021891630347,Sector
+Florida,EnergyExpL_Prod,99,0.9059478410651108,Sector
+Florida,Utilities,99,0.7233934160992146,Sector

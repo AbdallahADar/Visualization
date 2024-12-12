@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Carlisle,1905,0.7663849478990598,Overall
-Carlisle,Technology,173,0.17592102088636308,Sector
-Carlisle,Healthcare,90,0.6323292096949839,Sector
-Carlisle,Finance,155,0.5524072237102354,Sector
-Carlisle,Energy,177,0.3405224854112652,Sector
-Carlisle,Consumer Goods,66,0.42224730401006083,Sector
-Carlisle,Utilities,186,0.09723982092206129,Sector
-Carlisle,Real Estate,200,0.9574471960792168,Sector
-Carlisle,Telecommunications,161,0.3231334166307328,Sector
-Carlisle,Materials,173,0.1878820432553706,Sector
-Carlisle,Industrials,109,0.31020867913886085,Sector
-Carlisle,Consumer Services,231,0.3109706090134762,Sector
-Carlisle,Transportation,184,0.6180684805456531,Sector
-Technology,Software,46,0.09570179713279092,Industry
-Technology,Hardware,45,0.771842015607846,Industry
-Technology,IT Services,82,0.6640010565471297,Industry
-Healthcare,Pharmaceuticals,22,0.10219249064045777,Industry
-Healthcare,Medical Devices,36,0.4102106848524856,Industry
-Healthcare,Healthcare Services,32,0.4806749933429496,Industry
-Finance,Banking,66,0.8512576482366091,Industry
-Finance,Insurance,84,0.9032408935572745,Industry
-Finance,Investment Services,5,0.8819343062210718,Industry
-Energy,Oil & Gas,35,0.3217952452924414,Industry
-Energy,Renewable Energy,71,0.06345418014427684,Industry
-Energy,Energy Exploration,71,0.9701457003210774,Industry
-Consumer Goods,Food & Beverage,3,0.5419138891416322,Industry
-Consumer Goods,Household Products,4,0.5428269894225398,Industry
-Consumer Goods,Apparel,59,0.9392800413045691,Industry
-Utilities,Electric,63,0.2956063832702378,Industry
-Utilities,Water,85,0.7556329152204089,Industry
-Utilities,Gas,38,0.8257908167022892,Industry
-Real Estate,Residential,67,0.6199480922580496,Industry
-Real Estate,Commercial,55,0.28767981340097426,Industry
-Real Estate,Industrial,78,0.3441782500725925,Industry
-Telecommunications,Mobile,13,0.9717699321783025,Industry
-Telecommunications,Broadband,64,0.664514620220064,Industry
-Telecommunications,Satellite,84,0.9356374870732678,Industry
-Materials,Chemicals,79,0.8982939615639854,Industry
-Materials,Metals & Mining,35,0.21240218042666803,Industry
-Materials,Construction Materials,59,0.08417342257469984,Industry
-Industrials,Aerospace & Defense,84,0.8288557153125254,Industry
-Industrials,Machinery,17,0.4961229591397206,Industry
-Industrials,Industrial Services,8,0.43753911824456626,Industry
-Consumer Services,Retail,93,0.41864530171649494,Industry
-Consumer Services,Travel & Leisure,76,0.54884825086633,Industry
-Consumer Services,Media,62,0.07996660071379158,Industry
-Transportation,Airlines,83,0.9992669446501596,Industry
-Transportation,Railroads,30,0.6193036344136333,Industry
-Transportation,Logistics,71,0.3204999582114034,Industry
+,Carlisle,920,0.5478959082592573,Overall
+Carlisle,HiTech,91,0.880097597747702,Sector
+Carlisle,Agriculture,50,0.3977711520979357,Sector
+Carlisle,Transportation,98,0.1266966980765739,Sector
+Carlisle,Consumer_Products,79,0.49468447636153123,Sector
+Carlisle,Unassigned,77,0.5380758515450481,Sector
+Carlisle,Communication,80,0.668445526053627,Sector
+Carlisle,Trade,8,0.7275786328941364,Sector
+Carlisle,Business_Services,96,0.8994580683489093,Sector
+Carlisle,Business_Products,3,0.734202952881153,Sector
+Carlisle,Construction,45,0.8564570712069176,Sector
+Carlisle,Services,6,0.2144322445348591,Sector
+Carlisle,Mining,82,0.1439846244915589,Sector
+Carlisle,Health_Care,78,0.31527485921480436,Sector
+Carlisle,EnergyExpL_Prod,76,0.9870526218698458,Sector
+Carlisle,Utilities,51,0.23422624656425672,Sector

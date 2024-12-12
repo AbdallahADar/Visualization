@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cameron,1985,0.08538816664441984,Overall
-Cameron,Technology,174,0.33657833518116886,Sector
-Cameron,Healthcare,163,0.7168816963165137,Sector
-Cameron,Finance,218,0.21402170998754777,Sector
-Cameron,Energy,130,0.7140398560598156,Sector
-Cameron,Consumer Goods,150,0.058231835483145034,Sector
-Cameron,Utilities,239,0.21860390954198083,Sector
-Cameron,Real Estate,167,0.39365661441091315,Sector
-Cameron,Telecommunications,77,0.13975573949740838,Sector
-Cameron,Materials,172,0.6319718398299321,Sector
-Cameron,Industrials,151,0.590027029925692,Sector
-Cameron,Consumer Services,138,0.06612499507833991,Sector
-Cameron,Transportation,206,0.14649911876219346,Sector
-Technology,Software,82,0.23448917972004202,Industry
-Technology,Hardware,6,0.709910624953932,Industry
-Technology,IT Services,86,0.34611434833927657,Industry
-Healthcare,Pharmaceuticals,57,0.9235719812240426,Industry
-Healthcare,Medical Devices,61,0.25912321765145263,Industry
-Healthcare,Healthcare Services,45,0.24352253670850088,Industry
-Finance,Banking,94,0.17666707088023115,Industry
-Finance,Insurance,66,0.6432521327281622,Industry
-Finance,Investment Services,58,0.9312702619233292,Industry
-Energy,Oil & Gas,23,0.5915877029008191,Industry
-Energy,Renewable Energy,58,0.27391154830979325,Industry
-Energy,Energy Exploration,49,0.3986900707626755,Industry
-Consumer Goods,Food & Beverage,56,0.5115319881937839,Industry
-Consumer Goods,Household Products,38,0.6212539382050315,Industry
-Consumer Goods,Apparel,56,0.9582525269680336,Industry
-Utilities,Electric,98,0.34401057331725093,Industry
-Utilities,Water,85,0.06408617703714303,Industry
-Utilities,Gas,56,0.6719025575627502,Industry
-Real Estate,Residential,46,0.003770764902247037,Industry
-Real Estate,Commercial,28,0.10641965326791458,Industry
-Real Estate,Industrial,93,0.9000351660775756,Industry
-Telecommunications,Mobile,4,0.27313945571050335,Industry
-Telecommunications,Broadband,15,0.12512893262362046,Industry
-Telecommunications,Satellite,58,0.9062532692195872,Industry
-Materials,Chemicals,40,0.012677402478579514,Industry
-Materials,Metals & Mining,70,0.15866471272514948,Industry
-Materials,Construction Materials,62,0.3435804647774898,Industry
-Industrials,Aerospace & Defense,46,0.22548603825837177,Industry
-Industrials,Machinery,66,0.6628025507157799,Industry
-Industrials,Industrial Services,39,0.697711888036984,Industry
-Consumer Services,Retail,23,0.550618630517743,Industry
-Consumer Services,Travel & Leisure,27,0.5720675285304502,Industry
-Consumer Services,Media,88,0.8684566568191189,Industry
-Transportation,Airlines,46,0.08284698243380362,Industry
-Transportation,Railroads,78,0.6578003583949052,Industry
-Transportation,Logistics,82,0.8614725300774606,Industry
+,Cameron,723,0.48802512661088937,Overall
+Cameron,HiTech,71,0.6750378245704988,Sector
+Cameron,Agriculture,23,0.5692282237402179,Sector
+Cameron,Transportation,33,0.558198734719352,Sector
+Cameron,Consumer_Products,36,0.5369328684595065,Sector
+Cameron,Unassigned,78,0.34470161333118887,Sector
+Cameron,Communication,17,0.08013407413689366,Sector
+Cameron,Trade,57,0.8971684130827979,Sector
+Cameron,Business_Services,12,0.017897931517800947,Sector
+Cameron,Business_Products,37,0.1026692555360601,Sector
+Cameron,Construction,97,0.39057187794344506,Sector
+Cameron,Services,34,0.8731495724785088,Sector
+Cameron,Mining,40,0.7835076879034759,Sector
+Cameron,Health_Care,18,0.40440390912006274,Sector
+Cameron,EnergyExpL_Prod,94,0.6390984625909573,Sector
+Cameron,Utilities,76,0.44767645003257395,Sector

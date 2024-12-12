@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bayburt,1410,0.0014832589461326595,Overall
-Bayburt,Technology,104,0.33176496021077606,Sector
-Bayburt,Healthcare,166,0.21101537418305227,Sector
-Bayburt,Finance,144,0.012737114311719866,Sector
-Bayburt,Energy,98,0.056657740272464396,Sector
-Bayburt,Consumer Goods,78,0.8206703943981751,Sector
-Bayburt,Utilities,128,0.2714189403817735,Sector
-Bayburt,Real Estate,112,0.33241730235113653,Sector
-Bayburt,Telecommunications,41,0.7336596743553134,Sector
-Bayburt,Materials,136,0.244919724669445,Sector
-Bayburt,Industrials,105,0.9573316986819062,Sector
-Bayburt,Consumer Services,122,0.10644020543378285,Sector
-Bayburt,Transportation,176,0.9089432014736053,Sector
-Technology,Software,9,0.7112885074537572,Industry
-Technology,Hardware,66,0.049469204355753416,Industry
-Technology,IT Services,29,0.9080687263882086,Industry
-Healthcare,Pharmaceuticals,77,0.8129348161832748,Industry
-Healthcare,Medical Devices,78,0.2024616656395093,Industry
-Healthcare,Healthcare Services,11,0.8611135155242976,Industry
-Finance,Banking,3,0.9787503010618811,Industry
-Finance,Insurance,55,0.8066063697430764,Industry
-Finance,Investment Services,86,0.38757324993985587,Industry
-Energy,Oil & Gas,6,0.17626048525995397,Industry
-Energy,Renewable Energy,60,0.7626013626458447,Industry
-Energy,Energy Exploration,32,0.7361119556168079,Industry
-Consumer Goods,Food & Beverage,8,0.575976924609812,Industry
-Consumer Goods,Household Products,33,0.5298435454403717,Industry
-Consumer Goods,Apparel,37,0.8779816557572868,Industry
-Utilities,Electric,84,0.07427730023431112,Industry
-Utilities,Water,30,0.6766921046452661,Industry
-Utilities,Gas,14,0.3046672216545815,Industry
-Real Estate,Residential,46,0.18326733175676002,Industry
-Real Estate,Commercial,56,0.0017061119048100704,Industry
-Real Estate,Industrial,10,0.8740862004927438,Industry
-Telecommunications,Mobile,18,0.5651663542087262,Industry
-Telecommunications,Broadband,1,0.8030723960994063,Industry
-Telecommunications,Satellite,22,0.47936483413301856,Industry
-Materials,Chemicals,42,0.3794136297712811,Industry
-Materials,Metals & Mining,83,0.5291532174728849,Industry
-Materials,Construction Materials,11,0.3931186040123208,Industry
-Industrials,Aerospace & Defense,7,0.25860456559429457,Industry
-Industrials,Machinery,58,0.28265355809689596,Industry
-Industrials,Industrial Services,40,0.395408346738397,Industry
-Consumer Services,Retail,31,0.9192270936460286,Industry
-Consumer Services,Travel & Leisure,69,0.3132777577198109,Industry
-Consumer Services,Media,22,0.5051969727275851,Industry
-Transportation,Airlines,11,0.6013995073635483,Industry
-Transportation,Railroads,91,0.6158324223904531,Industry
-Transportation,Logistics,74,0.5651992414343603,Industry
+,Bayburt,726,0.5052708257717791,Overall
+Bayburt,HiTech,72,0.5899261743771775,Sector
+Bayburt,Agriculture,22,0.3372065159273737,Sector
+Bayburt,Transportation,93,0.9516595366708397,Sector
+Bayburt,Consumer_Products,77,0.18974594042690562,Sector
+Bayburt,Unassigned,80,0.9339128608046882,Sector
+Bayburt,Communication,32,0.7290726576669848,Sector
+Bayburt,Trade,24,0.5208932707979378,Sector
+Bayburt,Business_Services,88,0.1735314887662367,Sector
+Bayburt,Business_Products,9,0.44455530316528413,Sector
+Bayburt,Construction,58,0.5358427470989822,Sector
+Bayburt,Services,58,0.23235922399347841,Sector
+Bayburt,Mining,2,0.23039229017757212,Sector
+Bayburt,Health_Care,59,0.8340218195467887,Sector
+Bayburt,EnergyExpL_Prod,4,0.5025468051556126,Sector
+Bayburt,Utilities,48,0.3733957520008233,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Innlandet,1887,0.3627684354859477,Overall
-Innlandet,Technology,125,0.808426998312315,Sector
-Innlandet,Healthcare,151,0.6665801093095082,Sector
-Innlandet,Finance,192,0.8236045472814756,Sector
-Innlandet,Energy,199,0.8856549787085157,Sector
-Innlandet,Consumer Goods,228,0.5265235214539289,Sector
-Innlandet,Utilities,199,0.6753085364724121,Sector
-Innlandet,Real Estate,141,0.7031177994194299,Sector
-Innlandet,Telecommunications,201,0.5745525993616615,Sector
-Innlandet,Materials,104,0.6131051221065498,Sector
-Innlandet,Industrials,104,0.8621212969284737,Sector
-Innlandet,Consumer Services,94,0.43927296847821096,Sector
-Innlandet,Transportation,149,0.0991173754407284,Sector
-Technology,Software,27,0.8537422079501671,Industry
-Technology,Hardware,31,0.5062185564550031,Industry
-Technology,IT Services,67,0.17092475718743905,Industry
-Healthcare,Pharmaceuticals,13,0.6588757367867043,Industry
-Healthcare,Medical Devices,41,0.6089762692495453,Industry
-Healthcare,Healthcare Services,97,0.4387609907304364,Industry
-Finance,Banking,18,0.46781262750279096,Industry
-Finance,Insurance,95,0.06304920325728258,Industry
-Finance,Investment Services,79,0.5541595062231757,Industry
-Energy,Oil & Gas,83,0.083344154027434,Industry
-Energy,Renewable Energy,69,0.21198356374722405,Industry
-Energy,Energy Exploration,47,0.6621695268658562,Industry
-Consumer Goods,Food & Beverage,81,0.5385908712381514,Industry
-Consumer Goods,Household Products,53,0.2425351530071409,Industry
-Consumer Goods,Apparel,94,0.3399519425491332,Industry
-Utilities,Electric,97,0.6370222549989208,Industry
-Utilities,Water,89,0.052783718567813165,Industry
-Utilities,Gas,13,0.8841613962518631,Industry
-Real Estate,Residential,58,0.48046850569131483,Industry
-Real Estate,Commercial,43,0.7044521578136028,Industry
-Real Estate,Industrial,40,0.09007557829968038,Industry
-Telecommunications,Mobile,98,0.20559583671235637,Industry
-Telecommunications,Broadband,7,0.16648089998876214,Industry
-Telecommunications,Satellite,96,0.06900848247317803,Industry
-Materials,Chemicals,44,0.12296824526936312,Industry
-Materials,Metals & Mining,16,0.3247420327022166,Industry
-Materials,Construction Materials,44,0.6373026206557465,Industry
-Industrials,Aerospace & Defense,6,0.37255540370152473,Industry
-Industrials,Machinery,6,0.1677672739323791,Industry
-Industrials,Industrial Services,92,0.5984031780686943,Industry
-Consumer Services,Retail,1,0.9224296945976577,Industry
-Consumer Services,Travel & Leisure,78,0.002754801803644069,Industry
-Consumer Services,Media,15,0.3252610913608668,Industry
-Transportation,Airlines,69,0.9703425184982578,Industry
-Transportation,Railroads,19,0.9374523779319486,Industry
-Transportation,Logistics,61,0.5073009971953019,Industry
+,Innlandet,859,0.4048975001964216,Overall
+Innlandet,HiTech,60,0.6806339440962111,Sector
+Innlandet,Agriculture,51,0.04647447096467783,Sector
+Innlandet,Transportation,64,0.523560646634948,Sector
+Innlandet,Consumer_Products,99,0.28637609148975895,Sector
+Innlandet,Unassigned,56,0.17959426170179726,Sector
+Innlandet,Communication,11,0.3085436446480031,Sector
+Innlandet,Trade,86,0.9952451355380734,Sector
+Innlandet,Business_Services,68,0.00046125673387475974,Sector
+Innlandet,Business_Products,79,0.2649065516845931,Sector
+Innlandet,Construction,81,0.4146468906895928,Sector
+Innlandet,Services,18,0.25897183148896363,Sector
+Innlandet,Mining,25,0.9534315326810009,Sector
+Innlandet,Health_Care,71,0.22852234387782822,Sector
+Innlandet,EnergyExpL_Prod,13,0.49865063775691665,Sector
+Innlandet,Utilities,77,0.4334432629600853,Sector

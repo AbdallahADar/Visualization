@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Phillips,1583,0.3964279561237498,Overall
-Phillips,Technology,169,0.5188467437456241,Sector
-Phillips,Healthcare,131,0.24801372142120437,Sector
-Phillips,Finance,60,0.9770568433276554,Sector
-Phillips,Energy,232,0.32962097058591566,Sector
-Phillips,Consumer Goods,142,0.592031531729984,Sector
-Phillips,Utilities,76,0.16578492745089257,Sector
-Phillips,Real Estate,139,0.09688975169153535,Sector
-Phillips,Telecommunications,137,0.4471251301545347,Sector
-Phillips,Materials,81,0.11977727558920803,Sector
-Phillips,Industrials,96,0.309840968885131,Sector
-Phillips,Consumer Services,220,0.22178032748870302,Sector
-Phillips,Transportation,100,0.12672146645741322,Sector
-Technology,Software,83,0.8469772490128716,Industry
-Technology,Hardware,1,0.3887356494202723,Industry
-Technology,IT Services,85,0.07119136509645008,Industry
-Healthcare,Pharmaceuticals,26,0.6797878685800043,Industry
-Healthcare,Medical Devices,87,0.21973670867096962,Industry
-Healthcare,Healthcare Services,18,0.6449742379542464,Industry
-Finance,Banking,23,0.6212996765419785,Industry
-Finance,Insurance,11,0.6696273427519349,Industry
-Finance,Investment Services,26,0.9338467676505632,Industry
-Energy,Oil & Gas,37,0.15936336841856935,Industry
-Energy,Renewable Energy,97,0.8949156975935733,Industry
-Energy,Energy Exploration,98,0.8931231937087827,Industry
-Consumer Goods,Food & Beverage,73,0.04986216700551116,Industry
-Consumer Goods,Household Products,33,0.3403004112385154,Industry
-Consumer Goods,Apparel,36,0.1374483327303081,Industry
-Utilities,Electric,47,0.8936124948163059,Industry
-Utilities,Water,1,0.8669261389761127,Industry
-Utilities,Gas,28,0.3609947772731581,Industry
-Real Estate,Residential,64,0.10168435067813486,Industry
-Real Estate,Commercial,24,0.5004653418224231,Industry
-Real Estate,Industrial,51,0.036594825543505016,Industry
-Telecommunications,Mobile,35,0.9561599929567273,Industry
-Telecommunications,Broadband,93,0.6741984294272135,Industry
-Telecommunications,Satellite,9,0.15236387603611767,Industry
-Materials,Chemicals,19,0.36738568448401543,Industry
-Materials,Metals & Mining,50,0.794345545316055,Industry
-Materials,Construction Materials,12,0.37991825361897125,Industry
-Industrials,Aerospace & Defense,70,0.6887709478683467,Industry
-Industrials,Machinery,1,0.2340278552437246,Industry
-Industrials,Industrial Services,25,0.713252758066383,Industry
-Consumer Services,Retail,91,0.34468187290387275,Industry
-Consumer Services,Travel & Leisure,65,0.9549373659464381,Industry
-Consumer Services,Media,64,0.8013269032441552,Industry
-Transportation,Airlines,60,0.32170300845299515,Industry
-Transportation,Railroads,16,0.5387973830586132,Industry
-Transportation,Logistics,24,0.6586289994906761,Industry
+,Phillips,688,0.2655413323575457,Overall
+Phillips,HiTech,77,0.19515615783818507,Sector
+Phillips,Agriculture,22,0.014707713576491477,Sector
+Phillips,Transportation,85,0.13188409526785505,Sector
+Phillips,Consumer_Products,32,0.7577460080774778,Sector
+Phillips,Unassigned,8,0.8236965121703826,Sector
+Phillips,Communication,10,0.3912853849811283,Sector
+Phillips,Trade,67,0.2821237700318645,Sector
+Phillips,Business_Services,40,0.20174490881087992,Sector
+Phillips,Business_Products,23,0.11161990665450883,Sector
+Phillips,Construction,45,0.28537570565545844,Sector
+Phillips,Services,10,0.4013581199264208,Sector
+Phillips,Mining,51,0.024646541794936083,Sector
+Phillips,Health_Care,66,0.01598346161504105,Sector
+Phillips,EnergyExpL_Prod,77,0.18928285624705343,Sector
+Phillips,Utilities,75,0.15650884271550125,Sector

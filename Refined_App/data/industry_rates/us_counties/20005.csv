@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Atchison,1724,0.9090840991570054,Overall
-Atchison,Technology,116,0.0359459674680207,Sector
-Atchison,Healthcare,104,0.9712920831224781,Sector
-Atchison,Finance,227,0.652270781268944,Sector
-Atchison,Energy,241,0.4880983067370225,Sector
-Atchison,Consumer Goods,146,0.9496610871047891,Sector
-Atchison,Utilities,97,0.40241704581088067,Sector
-Atchison,Real Estate,185,0.19902474167167583,Sector
-Atchison,Telecommunications,101,0.059540668934970786,Sector
-Atchison,Materials,211,0.4174008173949021,Sector
-Atchison,Industrials,88,0.6543434178447565,Sector
-Atchison,Consumer Services,120,0.13311557897729176,Sector
-Atchison,Transportation,88,0.39943326819209723,Sector
-Technology,Software,41,0.6524523322159432,Industry
-Technology,Hardware,1,0.32138529344697975,Industry
-Technology,IT Services,74,0.9100137534102483,Industry
-Healthcare,Pharmaceuticals,12,0.6625268666524244,Industry
-Healthcare,Medical Devices,73,0.8400554832992551,Industry
-Healthcare,Healthcare Services,19,0.7015422096334485,Industry
-Finance,Banking,57,0.7278714237204826,Industry
-Finance,Insurance,78,0.4572900225933926,Industry
-Finance,Investment Services,92,0.9600152123001683,Industry
-Energy,Oil & Gas,99,0.15573828505232445,Industry
-Energy,Renewable Energy,52,0.8695284156641161,Industry
-Energy,Energy Exploration,90,0.589032513011758,Industry
-Consumer Goods,Food & Beverage,9,0.9750115963990245,Industry
-Consumer Goods,Household Products,62,0.4840311406889698,Industry
-Consumer Goods,Apparel,75,0.7802624863797282,Industry
-Utilities,Electric,53,0.6801981939161271,Industry
-Utilities,Water,44,0.8083941072932077,Industry
-Utilities,Gas,0,0.022725082623091697,Industry
-Real Estate,Residential,63,0.31321869850460926,Industry
-Real Estate,Commercial,47,0.1726084977652781,Industry
-Real Estate,Industrial,75,0.926858984345192,Industry
-Telecommunications,Mobile,36,0.6458866025680422,Industry
-Telecommunications,Broadband,9,0.48097646785950987,Industry
-Telecommunications,Satellite,56,0.090224190054497,Industry
-Materials,Chemicals,47,0.42263329952302975,Industry
-Materials,Metals & Mining,68,0.2687195013047524,Industry
-Materials,Construction Materials,96,0.11349678140904651,Industry
-Industrials,Aerospace & Defense,26,0.7504834312420677,Industry
-Industrials,Machinery,4,0.9872653067570606,Industry
-Industrials,Industrial Services,58,0.35166621576722656,Industry
-Consumer Services,Retail,66,0.27884217464520744,Industry
-Consumer Services,Travel & Leisure,47,0.6678512867864479,Industry
-Consumer Services,Media,7,0.8621118958832956,Industry
-Transportation,Airlines,1,0.00774750709215688,Industry
-Transportation,Railroads,41,0.10194379331501568,Industry
-Transportation,Logistics,46,0.9824472808242793,Industry
+,Atchison,893,0.5773041404684084,Overall
+Atchison,HiTech,4,0.3320672219679215,Sector
+Atchison,Agriculture,8,0.5894640792456496,Sector
+Atchison,Transportation,73,0.7712548170155079,Sector
+Atchison,Consumer_Products,66,0.06621024609472959,Sector
+Atchison,Unassigned,79,0.7055258038736628,Sector
+Atchison,Communication,94,0.5410122215417028,Sector
+Atchison,Trade,67,0.8343827425025294,Sector
+Atchison,Business_Services,97,0.4564825517719179,Sector
+Atchison,Business_Products,78,0.5773562082621694,Sector
+Atchison,Construction,41,0.9909007919411079,Sector
+Atchison,Services,11,0.48009968632263644,Sector
+Atchison,Mining,57,0.6969787184046355,Sector
+Atchison,Health_Care,97,0.7050888569888738,Sector
+Atchison,EnergyExpL_Prod,57,0.8010553370156521,Sector
+Atchison,Utilities,64,0.11168282407742902,Sector

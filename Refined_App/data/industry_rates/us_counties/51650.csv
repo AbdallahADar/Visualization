@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hampton,1828,0.8418598596167743,Overall
-Hampton,Technology,94,0.15033614415661833,Sector
-Hampton,Healthcare,181,0.4734789853028548,Sector
-Hampton,Finance,197,0.6646098668615747,Sector
-Hampton,Energy,81,0.8727692684019233,Sector
-Hampton,Consumer Goods,235,0.34971770556118154,Sector
-Hampton,Utilities,102,0.420321614571195,Sector
-Hampton,Real Estate,122,0.6547438601945055,Sector
-Hampton,Telecommunications,172,0.08526258755353666,Sector
-Hampton,Materials,137,0.3020096777294258,Sector
-Hampton,Industrials,117,0.3446557316307294,Sector
-Hampton,Consumer Services,198,0.5749236021959394,Sector
-Hampton,Transportation,192,0.7590711287227876,Sector
-Technology,Software,30,0.3852391746014543,Industry
-Technology,Hardware,45,0.6872705261690847,Industry
-Technology,IT Services,19,0.42675534463863485,Industry
-Healthcare,Pharmaceuticals,83,0.316119805884692,Industry
-Healthcare,Medical Devices,46,0.15459465898712987,Industry
-Healthcare,Healthcare Services,52,0.8711111563857122,Industry
-Finance,Banking,65,0.36128931984032464,Industry
-Finance,Insurance,41,0.22175073350098218,Industry
-Finance,Investment Services,91,0.6992879949797407,Industry
-Energy,Oil & Gas,2,0.6106302856768564,Industry
-Energy,Renewable Energy,41,0.3349753868738149,Industry
-Energy,Energy Exploration,38,0.4737955397559741,Industry
-Consumer Goods,Food & Beverage,94,0.2258508051975573,Industry
-Consumer Goods,Household Products,86,0.6531811243837463,Industry
-Consumer Goods,Apparel,55,0.5538663837970225,Industry
-Utilities,Electric,19,0.7262508954006169,Industry
-Utilities,Water,22,0.09954336242158013,Industry
-Utilities,Gas,61,0.45335428164040814,Industry
-Real Estate,Residential,25,0.37796001490981657,Industry
-Real Estate,Commercial,44,0.9642961695333804,Industry
-Real Estate,Industrial,53,0.8207874433173912,Industry
-Telecommunications,Mobile,87,0.20270213630007938,Industry
-Telecommunications,Broadband,13,0.01941413680351356,Industry
-Telecommunications,Satellite,72,0.7027592310962321,Industry
-Materials,Chemicals,16,0.4492925150365912,Industry
-Materials,Metals & Mining,73,0.40701089212972785,Industry
-Materials,Construction Materials,48,0.5029023377324916,Industry
-Industrials,Aerospace & Defense,15,0.7147640199520903,Industry
-Industrials,Machinery,23,0.4055598105980305,Industry
-Industrials,Industrial Services,79,0.0293059819876067,Industry
-Consumer Services,Retail,76,0.7811762382889823,Industry
-Consumer Services,Travel & Leisure,71,0.6849588413488428,Industry
-Consumer Services,Media,51,0.1257235278821106,Industry
-Transportation,Airlines,91,0.9521962083315697,Industry
-Transportation,Railroads,60,0.27020074219940604,Industry
-Transportation,Logistics,41,0.6531360060917293,Industry
+,Hampton,718,0.47157755126342144,Overall
+Hampton,HiTech,75,0.506145673837898,Sector
+Hampton,Agriculture,83,0.026297816570635013,Sector
+Hampton,Transportation,3,0.9329757680602063,Sector
+Hampton,Consumer_Products,5,0.56833172270762,Sector
+Hampton,Unassigned,46,0.841561453493591,Sector
+Hampton,Communication,60,0.1522480888201192,Sector
+Hampton,Trade,36,0.3820125414929567,Sector
+Hampton,Business_Services,67,0.26399321246187724,Sector
+Hampton,Business_Products,81,0.3477362839841853,Sector
+Hampton,Construction,62,0.3021326819244944,Sector
+Hampton,Services,21,0.8600260295813806,Sector
+Hampton,Mining,33,0.9781239561283829,Sector
+Hampton,Health_Care,22,0.25248806020590386,Sector
+Hampton,EnergyExpL_Prod,74,0.39863936421180934,Sector
+Hampton,Utilities,50,0.2609506154702623,Sector

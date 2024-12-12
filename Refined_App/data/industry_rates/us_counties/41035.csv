@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Klamath,1649,0.7662441882132164,Overall
-Klamath,Technology,86,0.07275622444263086,Sector
-Klamath,Healthcare,122,0.32200327023609754,Sector
-Klamath,Finance,216,0.2578143097719876,Sector
-Klamath,Energy,253,0.727418590825399,Sector
-Klamath,Consumer Goods,151,0.3026536389660224,Sector
-Klamath,Utilities,133,0.9399841423444073,Sector
-Klamath,Real Estate,136,0.00441135749383148,Sector
-Klamath,Telecommunications,87,0.7551072381498288,Sector
-Klamath,Materials,124,0.5656221480968192,Sector
-Klamath,Industrials,111,0.2784194442871003,Sector
-Klamath,Consumer Services,131,0.36907660034267564,Sector
-Klamath,Transportation,99,0.4939047599380275,Sector
-Technology,Software,4,0.5477312497973563,Industry
-Technology,Hardware,62,0.09913897179928421,Industry
-Technology,IT Services,20,0.7489746881147673,Industry
-Healthcare,Pharmaceuticals,62,0.5468370539022538,Industry
-Healthcare,Medical Devices,5,0.2966485265436317,Industry
-Healthcare,Healthcare Services,55,0.756401232008512,Industry
-Finance,Banking,64,0.6488046598913666,Industry
-Finance,Insurance,66,0.18848047311186078,Industry
-Finance,Investment Services,86,0.7923604146297285,Industry
-Energy,Oil & Gas,85,0.4546652817869169,Industry
-Energy,Renewable Energy,69,0.40624139075821675,Industry
-Energy,Energy Exploration,99,0.2340272736803255,Industry
-Consumer Goods,Food & Beverage,99,0.7213036094297438,Industry
-Consumer Goods,Household Products,52,0.23155857376066857,Industry
-Consumer Goods,Apparel,0,0.6667873145475616,Industry
-Utilities,Electric,40,0.28570957753358983,Industry
-Utilities,Water,57,0.792927450099358,Industry
-Utilities,Gas,36,0.4973364959101386,Industry
-Real Estate,Residential,38,0.627647404177736,Industry
-Real Estate,Commercial,46,0.29635457699842505,Industry
-Real Estate,Industrial,52,0.18493103876406225,Industry
-Telecommunications,Mobile,25,0.16176942677181272,Industry
-Telecommunications,Broadband,23,0.7910240706161289,Industry
-Telecommunications,Satellite,39,0.7415807958351908,Industry
-Materials,Chemicals,41,0.8979727911756469,Industry
-Materials,Metals & Mining,41,0.48581392892283515,Industry
-Materials,Construction Materials,42,0.49676723292055947,Industry
-Industrials,Aerospace & Defense,71,0.3832144249587659,Industry
-Industrials,Machinery,18,0.10819917927630851,Industry
-Industrials,Industrial Services,22,0.8150051981732708,Industry
-Consumer Services,Retail,57,0.6863791758879901,Industry
-Consumer Services,Travel & Leisure,60,0.5614828431229401,Industry
-Consumer Services,Media,14,0.03415299639622815,Industry
-Transportation,Airlines,85,0.5939355435771401,Industry
-Transportation,Railroads,6,0.551035671225024,Industry
-Transportation,Logistics,8,0.49122149179661967,Industry
+,Klamath,535,0.6496152020600675,Overall
+Klamath,HiTech,58,0.769353198541168,Sector
+Klamath,Agriculture,4,0.2769391800740165,Sector
+Klamath,Transportation,64,0.7614243423444914,Sector
+Klamath,Consumer_Products,14,0.9529567245971663,Sector
+Klamath,Unassigned,47,0.30117373022327465,Sector
+Klamath,Communication,13,0.7076862957098856,Sector
+Klamath,Trade,10,0.48009209527728003,Sector
+Klamath,Business_Services,63,0.45613886860599917,Sector
+Klamath,Business_Products,71,0.723818823984635,Sector
+Klamath,Construction,44,0.6669025020219224,Sector
+Klamath,Services,39,0.8998367185713043,Sector
+Klamath,Mining,80,0.9430523126204714,Sector
+Klamath,Health_Care,9,0.6870702685431844,Sector
+Klamath,EnergyExpL_Prod,8,0.6730114983305571,Sector
+Klamath,Utilities,11,0.444771471455656,Sector

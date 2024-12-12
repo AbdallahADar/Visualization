@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Westmoreland,1997,0.28468120092541094,Overall
-Westmoreland,Technology,116,0.36231559736807173,Sector
-Westmoreland,Healthcare,201,0.5981628134863632,Sector
-Westmoreland,Finance,209,0.10689147101835728,Sector
-Westmoreland,Energy,88,0.23078151019068838,Sector
-Westmoreland,Consumer Goods,140,0.8050382495221484,Sector
-Westmoreland,Utilities,237,0.2882910935406787,Sector
-Westmoreland,Real Estate,189,0.7345188546498796,Sector
-Westmoreland,Telecommunications,139,0.5465913672764777,Sector
-Westmoreland,Materials,212,0.9163599434034502,Sector
-Westmoreland,Industrials,175,0.9428981954309903,Sector
-Westmoreland,Consumer Services,142,0.3176812893263563,Sector
-Westmoreland,Transportation,149,0.14504337209502838,Sector
-Technology,Software,16,0.9422406048520621,Industry
-Technology,Hardware,24,0.8052577984165444,Industry
-Technology,IT Services,76,0.20958627142256214,Industry
-Healthcare,Pharmaceuticals,67,0.013357385854347648,Industry
-Healthcare,Medical Devices,41,0.791827971222378,Industry
-Healthcare,Healthcare Services,93,0.17904057875436363,Industry
-Finance,Banking,43,0.7212010756990815,Industry
-Finance,Insurance,85,0.17180870041235075,Industry
-Finance,Investment Services,81,0.3761084249477207,Industry
-Energy,Oil & Gas,8,0.35145871763263226,Industry
-Energy,Renewable Energy,44,0.47454787685707955,Industry
-Energy,Energy Exploration,36,0.39907985127471635,Industry
-Consumer Goods,Food & Beverage,48,0.026559314677132018,Industry
-Consumer Goods,Household Products,33,0.010457321247201112,Industry
-Consumer Goods,Apparel,59,0.21752545304842907,Industry
-Utilities,Electric,77,0.4559340803425088,Industry
-Utilities,Water,90,0.020985370299934192,Industry
-Utilities,Gas,70,0.7253753599501206,Industry
-Real Estate,Residential,56,0.18709160369706768,Industry
-Real Estate,Commercial,50,0.25460627540056613,Industry
-Real Estate,Industrial,83,0.016010682443754476,Industry
-Telecommunications,Mobile,11,0.6961380666816481,Industry
-Telecommunications,Broadband,35,0.3433076519598507,Industry
-Telecommunications,Satellite,93,0.6794505681349956,Industry
-Materials,Chemicals,62,0.5745268611353338,Industry
-Materials,Metals & Mining,65,0.5514317657617567,Industry
-Materials,Construction Materials,85,0.8166851525783493,Industry
-Industrials,Aerospace & Defense,80,0.9152150102838499,Industry
-Industrials,Machinery,32,0.2742918403147522,Industry
-Industrials,Industrial Services,63,0.6711711469908442,Industry
-Consumer Services,Retail,43,0.5620423945640476,Industry
-Consumer Services,Travel & Leisure,85,0.7601579480706687,Industry
-Consumer Services,Media,14,0.038349509080516486,Industry
-Transportation,Airlines,49,0.8970486029666159,Industry
-Transportation,Railroads,20,0.5965091292194711,Industry
-Transportation,Logistics,80,0.737596262685835,Industry
+,Westmoreland,739,0.36440405925997216,Overall
+Westmoreland,HiTech,98,0.8282447905353422,Sector
+Westmoreland,Agriculture,60,0.6470209747213268,Sector
+Westmoreland,Transportation,94,0.45214656152348465,Sector
+Westmoreland,Consumer_Products,26,0.9479879707351008,Sector
+Westmoreland,Unassigned,17,0.43870662982894704,Sector
+Westmoreland,Communication,46,0.5928242836735186,Sector
+Westmoreland,Trade,79,0.1261724075306363,Sector
+Westmoreland,Business_Services,33,0.04492301607583249,Sector
+Westmoreland,Business_Products,47,0.10096134610890295,Sector
+Westmoreland,Construction,40,0.2189628038792082,Sector
+Westmoreland,Services,91,0.16585456747704108,Sector
+Westmoreland,Mining,29,0.06902850178341546,Sector
+Westmoreland,Health_Care,55,0.04213203959431533,Sector
+Westmoreland,EnergyExpL_Prod,23,0.3905054367482258,Sector
+Westmoreland,Utilities,1,0.4005895586842847,Sector

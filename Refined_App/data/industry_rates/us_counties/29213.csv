@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Taney,1360,0.3617923713925518,Overall
-Taney,Technology,141,0.012796009619002624,Sector
-Taney,Healthcare,76,0.1326199029111248,Sector
-Taney,Finance,174,0.36250572742069487,Sector
-Taney,Energy,63,0.18364048324434645,Sector
-Taney,Consumer Goods,72,0.39501668664419864,Sector
-Taney,Utilities,143,0.39298667489886885,Sector
-Taney,Real Estate,94,0.10440822014301832,Sector
-Taney,Telecommunications,158,0.06970763346272046,Sector
-Taney,Materials,97,0.41018496639090984,Sector
-Taney,Industrials,116,0.6406362935616815,Sector
-Taney,Consumer Services,90,0.6823583723696416,Sector
-Taney,Transportation,136,0.5966457363705399,Sector
-Technology,Software,53,0.6796864295629579,Industry
-Technology,Hardware,68,0.9629824867165979,Industry
-Technology,IT Services,20,0.837616629417201,Industry
-Healthcare,Pharmaceuticals,11,0.1529408294598803,Industry
-Healthcare,Medical Devices,30,0.5774010499740052,Industry
-Healthcare,Healthcare Services,35,0.49304222230558103,Industry
-Finance,Banking,25,0.2845505116012327,Industry
-Finance,Insurance,87,0.8237661229785548,Industry
-Finance,Investment Services,62,0.11199770892441074,Industry
-Energy,Oil & Gas,20,0.25090906018118997,Industry
-Energy,Renewable Energy,27,0.30565131546413726,Industry
-Energy,Energy Exploration,16,0.7783288855502221,Industry
-Consumer Goods,Food & Beverage,33,0.21506844047346252,Industry
-Consumer Goods,Household Products,31,0.30947995612193724,Industry
-Consumer Goods,Apparel,8,0.8750343090440911,Industry
-Utilities,Electric,29,0.17669952057727767,Industry
-Utilities,Water,48,0.7783959577002402,Industry
-Utilities,Gas,66,0.08292095127102084,Industry
-Real Estate,Residential,11,0.11606454181903747,Industry
-Real Estate,Commercial,40,0.17768324411708414,Industry
-Real Estate,Industrial,43,0.8823862817661909,Industry
-Telecommunications,Mobile,20,0.884541627448229,Industry
-Telecommunications,Broadband,88,0.8405388804045701,Industry
-Telecommunications,Satellite,50,0.8118595641871136,Industry
-Materials,Chemicals,11,0.8074003151486531,Industry
-Materials,Metals & Mining,34,0.5107095994197399,Industry
-Materials,Construction Materials,52,0.08779802437873618,Industry
-Industrials,Aerospace & Defense,47,0.018685077403330363,Industry
-Industrials,Machinery,0,0.3533542821767106,Industry
-Industrials,Industrial Services,69,0.9627044922800969,Industry
-Consumer Services,Retail,0,0.8289606966299727,Industry
-Consumer Services,Travel & Leisure,52,0.7816676810576962,Industry
-Consumer Services,Media,38,0.39046908341000997,Industry
-Transportation,Airlines,73,0.7484204735101747,Industry
-Transportation,Railroads,32,0.08438125794043305,Industry
-Transportation,Logistics,31,0.9666439839385594,Industry
+,Taney,950,0.5957587266839902,Overall
+Taney,HiTech,38,0.4802484436968709,Sector
+Taney,Agriculture,94,0.8119298468224407,Sector
+Taney,Transportation,58,0.6537370096259012,Sector
+Taney,Consumer_Products,81,0.5351452600154311,Sector
+Taney,Unassigned,94,0.6022664732317924,Sector
+Taney,Communication,35,0.02437097515863118,Sector
+Taney,Trade,90,0.2957275549873907,Sector
+Taney,Business_Services,70,0.40803088637882456,Sector
+Taney,Business_Products,89,0.9371091021541732,Sector
+Taney,Construction,70,0.4652785799324497,Sector
+Taney,Services,90,0.9974445872154291,Sector
+Taney,Mining,0,0.9408786809763394,Sector
+Taney,Health_Care,40,0.9087672315045495,Sector
+Taney,EnergyExpL_Prod,69,0.08894750656046657,Sector
+Taney,Utilities,32,0.7864987619991641,Sector

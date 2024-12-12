@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wolfe,2337,0.7725792343876161,Overall
-Wolfe,Technology,169,0.2519011142385422,Sector
-Wolfe,Healthcare,218,0.13216119951270044,Sector
-Wolfe,Finance,178,0.20272228127278813,Sector
-Wolfe,Energy,199,0.047871137613446746,Sector
-Wolfe,Consumer Goods,249,0.34520779102853505,Sector
-Wolfe,Utilities,205,0.2744880894798509,Sector
-Wolfe,Real Estate,147,0.41500072189110915,Sector
-Wolfe,Telecommunications,229,0.852486966148326,Sector
-Wolfe,Materials,202,0.8567386547736788,Sector
-Wolfe,Industrials,191,0.17632575410479145,Sector
-Wolfe,Consumer Services,179,0.5001708032393919,Sector
-Wolfe,Transportation,171,0.6683052807033925,Sector
-Technology,Software,79,0.9315203468595784,Industry
-Technology,Hardware,35,0.8246848545477201,Industry
-Technology,IT Services,55,0.5453243665955929,Industry
-Healthcare,Pharmaceuticals,27,0.541865068564473,Industry
-Healthcare,Medical Devices,93,0.41077658319926,Industry
-Healthcare,Healthcare Services,98,0.8514350000595217,Industry
-Finance,Banking,33,0.7971627528186758,Industry
-Finance,Insurance,56,0.12361326230339553,Industry
-Finance,Investment Services,89,0.9175985384366961,Industry
-Energy,Oil & Gas,79,0.4214725084860572,Industry
-Energy,Renewable Energy,86,0.19268471344214455,Industry
-Energy,Energy Exploration,34,0.2145179902945462,Industry
-Consumer Goods,Food & Beverage,94,0.12196435296367847,Industry
-Consumer Goods,Household Products,87,0.8224653126742986,Industry
-Consumer Goods,Apparel,68,0.5053420403875653,Industry
-Utilities,Electric,87,0.3537982755315172,Industry
-Utilities,Water,64,0.8697545448119736,Industry
-Utilities,Gas,54,0.4586789785491422,Industry
-Real Estate,Residential,25,0.5596880049474096,Industry
-Real Estate,Commercial,23,0.9281498260107572,Industry
-Real Estate,Industrial,99,0.0010262454652356645,Industry
-Telecommunications,Mobile,39,0.15905778783796853,Industry
-Telecommunications,Broadband,92,0.8897197322370655,Industry
-Telecommunications,Satellite,98,0.22087290788026048,Industry
-Materials,Chemicals,95,0.5448076228874413,Industry
-Materials,Metals & Mining,92,0.36901498786597753,Industry
-Materials,Construction Materials,15,0.061593997654563415,Industry
-Industrials,Aerospace & Defense,69,0.7515086655848203,Industry
-Industrials,Machinery,37,0.26800409637147893,Industry
-Industrials,Industrial Services,85,0.09245122587475685,Industry
-Consumer Services,Retail,0,0.5069778911125172,Industry
-Consumer Services,Travel & Leisure,99,0.9880476113016956,Industry
-Consumer Services,Media,80,0.06917246637917163,Industry
-Transportation,Airlines,62,0.10306550751861487,Industry
-Transportation,Railroads,87,0.3531658871399359,Industry
-Transportation,Logistics,22,0.6578366298033057,Industry
+,Wolfe,583,0.4819747578781625,Overall
+Wolfe,HiTech,11,0.5085325814941695,Sector
+Wolfe,Agriculture,16,0.31286406893284646,Sector
+Wolfe,Transportation,20,0.6624461064608375,Sector
+Wolfe,Consumer_Products,36,0.0318742908976013,Sector
+Wolfe,Unassigned,72,0.81979650464323,Sector
+Wolfe,Communication,55,0.7929446406467978,Sector
+Wolfe,Trade,53,0.9992018338395907,Sector
+Wolfe,Business_Services,50,0.2846048405591356,Sector
+Wolfe,Business_Products,12,0.14075450373274478,Sector
+Wolfe,Construction,53,0.3878197467510881,Sector
+Wolfe,Services,3,0.7562667560849621,Sector
+Wolfe,Mining,3,0.03087357489288589,Sector
+Wolfe,Health_Care,92,0.6757444093788021,Sector
+Wolfe,EnergyExpL_Prod,92,0.13324188995813369,Sector
+Wolfe,Utilities,15,0.6926556198996139,Sector

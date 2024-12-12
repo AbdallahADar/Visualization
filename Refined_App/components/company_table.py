@@ -2,92 +2,51 @@ import dash
 from dash import html, dcc
 from utils.ids import TABLE_IDS, TABLE_COLUMNS
 from utils.constants import SELECTED_TABLE_HEADER
-# from utils.styles import CELL_STYLING_FUNC_PROPENSITY, CELL_STYLING_EWS
+from utils.styles import CELL_STYLING_FUNC_PROPENSITY, CELL_STYLING_EWS
 import dash_ag_grid as dag
 import numpy as np
 import pandas as pd
 
-# out = [
-#     {"headerName":"Company Name", "field": TABLE_COLUMNS["name"], 
-#      "filter": True, "floatingFilter": True, "flex": 1},
-#     {"headerName": "Location", "field":TABLE_COLUMNS["location"],
-#      "filter": True, "floatingFilter": True, "flex": 1},
-#     {"headerName": "Sector", "field":TABLE_COLUMNS["sector"],
-#      "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
-#     {"headerName": "Industry", "field":TABLE_COLUMNS["ndy"],
-#      "filter": True, "floatingFilter": True, "flex": 1},
-#     {"headerName": "Size", "field":TABLE_COLUMNS["size"],
-#      "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
-#     {"headerName":"Top Growth Propensity", "field": TABLE_COLUMNS["growth-propensity"],
-#      "filter": True, "floatingFilter": True,
-#      "filterParams":{"values":["True","False"], "caseSensitive": False},
-#      "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY}, "flex": 1},
-#     {"headerName":"Borrowing Propensity", "field": TABLE_COLUMNS["borrowing-propensity"],
-#      "filter": True, "floatingFilter": True,
-#      "filterParams":{"values":["True","False"], "caseSensitive": False},
-#      "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY}, "flex": 1},
-#     {"headerName":"Shrinkage Propensity", "field": TABLE_COLUMNS["shrinkage-propensity"],
-#      "filter": True, "floatingFilter": True,
-#      "filterParams":{"values":["True","False"], "caseSensitive": False},
-#      "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY}, "flex": 1},
-#     {"headerName":"Early Warning Signal", "field": TABLE_COLUMNS["ews"],
-#      "filter": True, "floatingFilter": True,
-#      "filterParams":{"values":["Low","Medium","High","Severe"], "caseSensitive": False},
-#      "cellStyle": {"styleConditions" : CELL_STYLING_EWS}, "flex": 1}
-#     ]
-
-
-def CELL_STYLING_EWS(params):
-    EWS_COLOR = {
-        "Low": "lightgreen",
-        "Medium": "yellow",
-        "High": "orange",
-        "Severe": "red"
-    }
-    value = params.get("value", None)
-    if value in EWS_COLOR:
-        return {"backgroundColor": EWS_COLOR[value], "color": "black"}
-    return {}
-
-
-def CELL_STYLING_FUNC_PROPENSITY(params):
-    if params.get("value") == "True":
-        return {"backgroundColor": "green", "color": "white"}
-    elif params.get("value") == "False":
-        return {"backgroundColor": "red", "color": "white"}
-    return {}
-
-
-
 out = [
-    {"headerName": "Company Name", "field": TABLE_COLUMNS["name"], 
+    {"headerName":"Company Name", "field": TABLE_COLUMNS["name"], 
+     "cellStyle": {"textAlign": "center"},
      "filter": True, "floatingFilter": True, "flex": 1},
-    {"headerName": "Location", "field": TABLE_COLUMNS["location"], 
+    {"headerName": "Location", "field":TABLE_COLUMNS["location"],
      "filter": True, "floatingFilter": True, "flex": 1},
-    {"headerName": "Sector", "field": TABLE_COLUMNS["sector"], 
+    {"headerName": "Sector", "field":TABLE_COLUMNS["sector"],
+     "cellStyle": {"textAlign": "center"},
      "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
-    {"headerName": "Industry", "field": TABLE_COLUMNS["ndy"], 
-     "filter": True, "floatingFilter": True, "flex": 1},
-    {"headerName": "Size", "field": TABLE_COLUMNS["size"], 
+    # {"headerName": "Industry", "field":TABLE_COLUMNS["ndy"],
+    #  "filter": True, "floatingFilter": True, "flex": 1},
+    {"headerName": "Size", "field":TABLE_COLUMNS["size"],
+     "cellStyle": {"textAlign": "center"},
      "filter": True, "floatingFilter": True, "width": 120, "flex": 1},
-    {"headerName": "Top Growth Propensity", "field": TABLE_COLUMNS["growth-propensity"], 
+    {"headerName": "EDF-Implied Rating", "field":TABLE_COLUMNS["ir"],
+     "cellStyle": {"textAlign": "center"},
+     "filter": True, "floatingFilter": True, "flex": 1},
+    {"headerName":"Top-Growth Propensity", "field": TABLE_COLUMNS["growth-propensity"],
      "filter": True, "floatingFilter": True,
-     "filterParams": {"values": ["True", "False"], "caseSensitive": False},
-     "cellStyle": CELL_STYLING_FUNC_PROPENSITY, "flex": 1},
-    {"headerName": "Borrowing Propensity", "field": TABLE_COLUMNS["borrowing-propensity"], 
+     # "filterParams":{"values":["True","False"], "caseSensitive": False},
+     "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY, "textAlign": "center"}, "flex": 1},
+    # {"headerName":"Borrowing Propensity", "field": TABLE_COLUMNS["borrowing-propensity"],
+    #  "filter": True, "floatingFilter": True,
+    #  # "filterParams":{"values":["True","False"], "caseSensitive": False},
+    #  "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY, "textAlign": "center"}, "flex": 1},
+    # {"headerName":"Shrinkage Propensity", "field": TABLE_COLUMNS["shrinkage-propensity"],
+    #  "filter": True, "floatingFilter": True,
+    #  # "filterParams":{"values":["True","False"], "caseSensitive": False},
+    #  "cellStyle": {"styleConditions" : CELL_STYLING_FUNC_PROPENSITY, "textAlign": "center"}, "flex": 1},
+    {"headerName":"Early Warning Signal", "field": TABLE_COLUMNS["ews"],
      "filter": True, "floatingFilter": True,
-     "filterParams": {"values": ["True", "False"], "caseSensitive": False},
-     "cellStyle": CELL_STYLING_FUNC_PROPENSITY, "flex": 1},
-    {"headerName": "Shrinkage Propensity", "field": TABLE_COLUMNS["shrinkage-propensity"], 
-     "filter": True, "floatingFilter": True,
-     "filterParams": {"values": ["True", "False"], "caseSensitive": False},
-     "cellStyle": CELL_STYLING_FUNC_PROPENSITY, "flex": 1},
-    {"headerName": "Early Warning Signal", "field": TABLE_COLUMNS["ews"], 
-     "filter": True, "floatingFilter": True,
-     "filterParams": {"values": ["Low", "Medium", "High", "Severe"], "caseSensitive": False},
-     "cellStyle": CELL_STYLING_EWS, "flex": 1}
-]
+     # "filterParams":{"values":["Low","Medium","High","Severe"], "caseSensitive": False},
+     "cellStyle": {"styleConditions" : CELL_STYLING_EWS, "textAlign": "center"}, "flex": 1}
+    ]
 
+defaultColDef = {
+    "initialWidth": 200,
+    "wrapHeaderText": True,
+    "autoHeaderHeight": True,
+}
 
 company_table = html.Div(
     id = TABLE_IDS["overall-container"],
@@ -98,6 +57,7 @@ company_table = html.Div(
             id = TABLE_IDS["full-table"],
             columnDefs = out,
             rowData = [],
+            defaultColDef=defaultColDef,
             dashGridOptions = {
                 "pagination": True,
                 "paginationPageSize": 20,
@@ -106,7 +66,7 @@ company_table = html.Div(
             ),
         html.Div([
             html.H2(SELECTED_TABLE_HEADER, style = {'text-align': 'center', 'display': 'inline-block'}),
-            html.Button("Done", id = "portfolio-selection-button", 
+            html.Button("Export as csv", id = "portfolio-selection-button", 
                         n_clicks = 0,
                         style = {
                                "margin-left": "20px",
@@ -128,6 +88,7 @@ company_table = html.Div(
                 id = TABLE_IDS["selected-table"],
                 columnDefs = out,
                 rowData = [],
+                defaultColDef=defaultColDef,
                 csvExportParams = {"fileName" : "screened_names.csv"},
                 dashGridOptions={
                     "pagination": True,

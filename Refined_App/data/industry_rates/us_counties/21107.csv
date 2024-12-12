@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hopkins,1862,0.5775308542066864,Overall
-Hopkins,Technology,196,0.1578480432044963,Sector
-Hopkins,Healthcare,193,0.248105683295348,Sector
-Hopkins,Finance,90,0.27622359448196254,Sector
-Hopkins,Energy,28,0.40760352372130493,Sector
-Hopkins,Consumer Goods,175,0.20676707180454978,Sector
-Hopkins,Utilities,236,0.589872352144637,Sector
-Hopkins,Real Estate,224,0.1067018911888199,Sector
-Hopkins,Telecommunications,155,0.8854765087194846,Sector
-Hopkins,Materials,109,0.6636981600321805,Sector
-Hopkins,Industrials,82,0.8455075311890132,Sector
-Hopkins,Consumer Services,160,0.8506121091994592,Sector
-Hopkins,Transportation,214,0.998535798399088,Sector
-Technology,Software,76,0.9767145690631623,Industry
-Technology,Hardware,52,0.7025060571298117,Industry
-Technology,IT Services,68,0.16869439327515678,Industry
-Healthcare,Pharmaceuticals,65,0.23814041386135354,Industry
-Healthcare,Medical Devices,45,0.8664428763308331,Industry
-Healthcare,Healthcare Services,83,0.8107254629573155,Industry
-Finance,Banking,16,0.8941304459340198,Industry
-Finance,Insurance,39,0.9894446683151364,Industry
-Finance,Investment Services,35,0.5834319954186312,Industry
-Energy,Oil & Gas,6,0.6376538663783486,Industry
-Energy,Renewable Energy,16,0.9063386434565637,Industry
-Energy,Energy Exploration,6,0.24230126351119674,Industry
-Consumer Goods,Food & Beverage,98,0.385127287052785,Industry
-Consumer Goods,Household Products,49,0.8213407495421522,Industry
-Consumer Goods,Apparel,28,0.46978451132545174,Industry
-Utilities,Electric,89,0.5843542484662027,Industry
-Utilities,Water,54,0.19158987067856426,Industry
-Utilities,Gas,93,0.7651168914538745,Industry
-Real Estate,Residential,98,0.5344264718857176,Industry
-Real Estate,Commercial,93,0.5058313397048865,Industry
-Real Estate,Industrial,33,0.022879728440843516,Industry
-Telecommunications,Mobile,20,0.5195692262815703,Industry
-Telecommunications,Broadband,40,0.7042317044319764,Industry
-Telecommunications,Satellite,95,0.49637098082685005,Industry
-Materials,Chemicals,63,0.7321438894421735,Industry
-Materials,Metals & Mining,1,0.12784457235310231,Industry
-Materials,Construction Materials,45,0.21095280744110345,Industry
-Industrials,Aerospace & Defense,21,0.9612935441343098,Industry
-Industrials,Machinery,47,0.9987210641905309,Industry
-Industrials,Industrial Services,14,0.19168714901449502,Industry
-Consumer Services,Retail,30,0.16000335461029846,Industry
-Consumer Services,Travel & Leisure,95,0.16577018591602988,Industry
-Consumer Services,Media,35,0.47485749416183554,Industry
-Transportation,Airlines,39,0.008918819927992594,Industry
-Transportation,Railroads,79,0.46874767597600153,Industry
-Transportation,Logistics,96,0.18335836368860814,Industry
+,Hopkins,774,0.4341181209076893,Overall
+Hopkins,HiTech,11,0.002814247620282151,Sector
+Hopkins,Agriculture,81,0.2513624019914069,Sector
+Hopkins,Transportation,78,0.07793197890425752,Sector
+Hopkins,Consumer_Products,95,0.440768841386025,Sector
+Hopkins,Unassigned,7,0.610445667285034,Sector
+Hopkins,Communication,58,0.7972299695377355,Sector
+Hopkins,Trade,38,0.28468336732813126,Sector
+Hopkins,Business_Services,29,0.19166408585298877,Sector
+Hopkins,Business_Products,27,0.7616287003426001,Sector
+Hopkins,Construction,70,0.6785035919787064,Sector
+Hopkins,Services,45,0.9203789503956575,Sector
+Hopkins,Mining,40,0.8036041509266855,Sector
+Hopkins,Health_Care,97,0.3509072328133772,Sector
+Hopkins,EnergyExpL_Prod,8,0.17057332845316675,Sector
+Hopkins,Utilities,90,0.1692752987992855,Sector

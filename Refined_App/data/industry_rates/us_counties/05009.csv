@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Boone,1906,0.610692282219601,Overall
-Boone,Technology,249,0.9024733082490334,Sector
-Boone,Healthcare,109,0.8924947890723812,Sector
-Boone,Finance,245,0.6651631276078352,Sector
-Boone,Energy,113,0.3795116623411269,Sector
-Boone,Consumer Goods,169,0.20728700902656771,Sector
-Boone,Utilities,166,0.6748265012062127,Sector
-Boone,Real Estate,197,0.01775427292331111,Sector
-Boone,Telecommunications,256,0.06853341243108102,Sector
-Boone,Materials,166,0.9703658616146833,Sector
-Boone,Industrials,62,0.12081791151014387,Sector
-Boone,Consumer Services,81,0.5481254515870793,Sector
-Boone,Transportation,93,0.8746905779799825,Sector
-Technology,Software,89,0.046720490701418704,Industry
-Technology,Hardware,82,0.9167252864928906,Industry
-Technology,IT Services,78,0.12554169602921317,Industry
-Healthcare,Pharmaceuticals,80,0.2666352226882138,Industry
-Healthcare,Medical Devices,1,0.6529064849801821,Industry
-Healthcare,Healthcare Services,28,0.03834280458998829,Industry
-Finance,Banking,94,0.856104660932984,Industry
-Finance,Insurance,65,0.8928121031702515,Industry
-Finance,Investment Services,86,0.14366765714750274,Industry
-Energy,Oil & Gas,32,0.7565939326975949,Industry
-Energy,Renewable Energy,15,0.658359816701521,Industry
-Energy,Energy Exploration,66,0.5021387859585523,Industry
-Consumer Goods,Food & Beverage,97,0.2640560049779419,Industry
-Consumer Goods,Household Products,61,0.5225001301485511,Industry
-Consumer Goods,Apparel,11,0.3581108633827216,Industry
-Utilities,Electric,92,0.2603147895045612,Industry
-Utilities,Water,22,0.38140470669763415,Industry
-Utilities,Gas,52,0.716538280703926,Industry
-Real Estate,Residential,76,0.999799374457072,Industry
-Real Estate,Commercial,34,0.862778712259904,Industry
-Real Estate,Industrial,87,0.8818170535343064,Industry
-Telecommunications,Mobile,98,0.7458536499449295,Industry
-Telecommunications,Broadband,63,0.5807121514143205,Industry
-Telecommunications,Satellite,95,0.8479741219377236,Industry
-Materials,Chemicals,85,0.8087841303287723,Industry
-Materials,Metals & Mining,23,0.04640914618365233,Industry
-Materials,Construction Materials,58,0.6712709168993803,Industry
-Industrials,Aerospace & Defense,55,0.18859644034140866,Industry
-Industrials,Machinery,4,0.9127318816435683,Industry
-Industrials,Industrial Services,3,0.9617358503597874,Industry
-Consumer Services,Retail,28,0.04003867671424066,Industry
-Consumer Services,Travel & Leisure,27,0.9505624324392129,Industry
-Consumer Services,Media,26,0.8361316781493553,Industry
-Transportation,Airlines,77,0.8089892540598471,Industry
-Transportation,Railroads,8,0.6720894099391844,Industry
-Transportation,Logistics,8,0.21170059177781775,Industry
+,Boone,806,0.4632923470869537,Overall
+Boone,HiTech,12,0.11651842982495297,Sector
+Boone,Agriculture,81,0.5746934776115978,Sector
+Boone,Transportation,50,0.16122138623274984,Sector
+Boone,Consumer_Products,5,0.7608547750664513,Sector
+Boone,Unassigned,44,0.41209598374071554,Sector
+Boone,Communication,84,0.057237331717875484,Sector
+Boone,Trade,53,0.09263026370796945,Sector
+Boone,Business_Services,42,0.7287664746487763,Sector
+Boone,Business_Products,1,0.9862021983374148,Sector
+Boone,Construction,75,0.10448196165074308,Sector
+Boone,Services,92,0.9116712618736942,Sector
+Boone,Mining,54,0.7671628312802022,Sector
+Boone,Health_Care,79,0.6819665796827327,Sector
+Boone,EnergyExpL_Prod,37,0.29097795199694665,Sector
+Boone,Utilities,97,0.3029042989314823,Sector

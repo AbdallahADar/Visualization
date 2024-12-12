@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fulton,1942,0.19239310263264398,Overall
-Fulton,Technology,83,0.09914939261024236,Sector
-Fulton,Healthcare,48,0.1547443498583183,Sector
-Fulton,Finance,136,0.3541406182211304,Sector
-Fulton,Energy,214,0.6795725280480441,Sector
-Fulton,Consumer Goods,188,0.8070580169931242,Sector
-Fulton,Utilities,117,0.6344822127393812,Sector
-Fulton,Real Estate,231,0.11063802896431552,Sector
-Fulton,Telecommunications,115,0.10728808190394734,Sector
-Fulton,Materials,270,0.9191397148441033,Sector
-Fulton,Industrials,174,0.8617171447310347,Sector
-Fulton,Consumer Services,258,0.6324652308932889,Sector
-Fulton,Transportation,108,0.012326000883009725,Sector
-Technology,Software,64,0.8857292876300211,Industry
-Technology,Hardware,1,0.46965342451064607,Industry
-Technology,IT Services,18,0.3401426042316704,Industry
-Healthcare,Pharmaceuticals,12,0.4198353840373732,Industry
-Healthcare,Medical Devices,12,0.6624739427494197,Industry
-Healthcare,Healthcare Services,24,0.15629034649404583,Industry
-Finance,Banking,77,0.5748415200298456,Industry
-Finance,Insurance,20,0.7800667324115355,Industry
-Finance,Investment Services,39,0.2595137206413686,Industry
-Energy,Oil & Gas,75,0.5070821692853856,Industry
-Energy,Renewable Energy,41,0.33165697600158706,Industry
-Energy,Energy Exploration,98,0.6939163209080583,Industry
-Consumer Goods,Food & Beverage,57,0.13315162110961543,Industry
-Consumer Goods,Household Products,60,0.7445735868243636,Industry
-Consumer Goods,Apparel,71,0.2501573550031154,Industry
-Utilities,Electric,33,0.938955179083451,Industry
-Utilities,Water,15,0.8325691773768876,Industry
-Utilities,Gas,69,0.12577058048232315,Industry
-Real Estate,Residential,45,0.6450930147408078,Industry
-Real Estate,Commercial,98,0.7641672370625874,Industry
-Real Estate,Industrial,88,0.0957134044339516,Industry
-Telecommunications,Mobile,1,0.5811135209033611,Industry
-Telecommunications,Broadband,95,0.5148819222665856,Industry
-Telecommunications,Satellite,19,0.8236428912814225,Industry
-Materials,Chemicals,87,0.17888818032240816,Industry
-Materials,Metals & Mining,99,0.6029870435842241,Industry
-Materials,Construction Materials,84,0.24638158861581827,Industry
-Industrials,Aerospace & Defense,60,0.3478207071363898,Industry
-Industrials,Machinery,18,0.14200846655193955,Industry
-Industrials,Industrial Services,96,0.5578591518967235,Industry
-Consumer Services,Retail,96,0.733824848515966,Industry
-Consumer Services,Travel & Leisure,78,0.016099867629181253,Industry
-Consumer Services,Media,84,0.06074880141228489,Industry
-Transportation,Airlines,23,0.5284378758133416,Industry
-Transportation,Railroads,65,0.4576991704950689,Industry
-Transportation,Logistics,20,0.6123842491182665,Industry
+,Fulton,706,0.5225042160543417,Overall
+Fulton,HiTech,41,0.49605437252741447,Sector
+Fulton,Agriculture,41,0.15538256330060718,Sector
+Fulton,Transportation,47,0.07335567725893621,Sector
+Fulton,Consumer_Products,25,0.9279018047331683,Sector
+Fulton,Unassigned,69,0.549664256794226,Sector
+Fulton,Communication,71,0.8406698193237581,Sector
+Fulton,Trade,82,0.36451192366334495,Sector
+Fulton,Business_Services,93,0.24769852092495626,Sector
+Fulton,Business_Products,1,0.9864070538609849,Sector
+Fulton,Construction,17,0.6450910433002099,Sector
+Fulton,Services,59,0.32854423127416865,Sector
+Fulton,Mining,64,0.5259814431525369,Sector
+Fulton,Health_Care,40,0.7134038871288169,Sector
+Fulton,EnergyExpL_Prod,39,0.1562694335626138,Sector
+Fulton,Utilities,17,0.8266272100093832,Sector

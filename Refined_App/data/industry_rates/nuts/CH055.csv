@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,St. Gallen,1790,0.8145102895060654,Overall
-St. Gallen,Technology,60,0.2906389058215768,Sector
-St. Gallen,Healthcare,159,0.4274469779602358,Sector
-St. Gallen,Finance,165,0.11441220645862249,Sector
-St. Gallen,Energy,171,0.7272244418467075,Sector
-St. Gallen,Consumer Goods,111,0.23876620509610502,Sector
-St. Gallen,Utilities,191,0.8689096054896575,Sector
-St. Gallen,Real Estate,79,0.5490943708508327,Sector
-St. Gallen,Telecommunications,65,0.9677099904305788,Sector
-St. Gallen,Materials,169,0.7818847574448146,Sector
-St. Gallen,Industrials,249,0.55240758352185,Sector
-St. Gallen,Consumer Services,178,0.44500241952825437,Sector
-St. Gallen,Transportation,193,0.07630751181830375,Sector
-Technology,Software,43,0.44827207302962035,Industry
-Technology,Hardware,1,0.9972834786179164,Industry
-Technology,IT Services,16,0.03314168639587434,Industry
-Healthcare,Pharmaceuticals,80,0.49991014880579265,Industry
-Healthcare,Medical Devices,41,0.5494171749012063,Industry
-Healthcare,Healthcare Services,38,0.9856070879755666,Industry
-Finance,Banking,29,0.39121519539034155,Industry
-Finance,Insurance,57,0.8664042957048036,Industry
-Finance,Investment Services,79,0.5115429071105492,Industry
-Energy,Oil & Gas,81,0.6771900471331539,Industry
-Energy,Renewable Energy,33,0.025600251794903994,Industry
-Energy,Energy Exploration,57,0.9225366907258965,Industry
-Consumer Goods,Food & Beverage,7,0.15896799244303572,Industry
-Consumer Goods,Household Products,63,0.18168885075903096,Industry
-Consumer Goods,Apparel,41,0.8928522811580579,Industry
-Utilities,Electric,98,0.9058442279126485,Industry
-Utilities,Water,1,0.9909452694204531,Industry
-Utilities,Gas,92,0.4143305880592453,Industry
-Real Estate,Residential,8,0.20118305525859903,Industry
-Real Estate,Commercial,65,0.7942102023469696,Industry
-Real Estate,Industrial,6,0.08621364670840248,Industry
-Telecommunications,Mobile,10,0.8649818733392275,Industry
-Telecommunications,Broadband,18,0.5663688046889191,Industry
-Telecommunications,Satellite,37,0.20583601304924448,Industry
-Materials,Chemicals,99,0.8308094294300075,Industry
-Materials,Metals & Mining,3,0.03086488861746206,Industry
-Materials,Construction Materials,67,0.7630574737882659,Industry
-Industrials,Aerospace & Defense,92,0.0042107024875648325,Industry
-Industrials,Machinery,71,0.769023710646383,Industry
-Industrials,Industrial Services,86,0.08600198602823039,Industry
-Consumer Services,Retail,55,0.4951346037911786,Industry
-Consumer Services,Travel & Leisure,38,0.6454256387059814,Industry
-Consumer Services,Media,85,0.4465508003609079,Industry
-Transportation,Airlines,47,0.6711338808437382,Industry
-Transportation,Railroads,72,0.5011049721141293,Industry
-Transportation,Logistics,74,0.11105562148683767,Industry
+,St. Gallen,548,0.4043101895395048,Overall
+St. Gallen,HiTech,89,0.09296162056721935,Sector
+St. Gallen,Agriculture,56,0.9029726842270408,Sector
+St. Gallen,Transportation,0,0.25032378210743245,Sector
+St. Gallen,Consumer_Products,23,0.42392562681761614,Sector
+St. Gallen,Unassigned,36,0.5230669531426585,Sector
+St. Gallen,Communication,6,0.18726423264388592,Sector
+St. Gallen,Trade,8,0.5358153149916498,Sector
+St. Gallen,Business_Services,66,0.7064746582119683,Sector
+St. Gallen,Business_Products,17,0.588343243597373,Sector
+St. Gallen,Construction,41,0.026338121995558517,Sector
+St. Gallen,Services,20,0.6545562109533049,Sector
+St. Gallen,Mining,20,0.7593473955174795,Sector
+St. Gallen,Health_Care,38,0.22912576836204035,Sector
+St. Gallen,EnergyExpL_Prod,34,0.10386390991441052,Sector
+St. Gallen,Utilities,94,0.08027332004293442,Sector

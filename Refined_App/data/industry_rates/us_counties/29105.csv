@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Laclede,1567,0.9952678732875327,Overall
-Laclede,Technology,172,0.5760992053512468,Sector
-Laclede,Healthcare,106,0.8248469599034876,Sector
-Laclede,Finance,139,0.9647316357129512,Sector
-Laclede,Energy,171,0.946907216229142,Sector
-Laclede,Consumer Goods,18,0.17777058875061058,Sector
-Laclede,Utilities,176,0.7768158672820774,Sector
-Laclede,Real Estate,53,0.41034168158768736,Sector
-Laclede,Telecommunications,66,0.7514303238423212,Sector
-Laclede,Materials,128,0.5420437841262511,Sector
-Laclede,Industrials,67,0.8209240915764104,Sector
-Laclede,Consumer Services,245,0.49921135001983863,Sector
-Laclede,Transportation,226,0.13913282278458583,Sector
-Technology,Software,40,0.3268274860853313,Industry
-Technology,Hardware,60,0.7361567184707846,Industry
-Technology,IT Services,72,0.3894286459486753,Industry
-Healthcare,Pharmaceuticals,41,0.017677443166726814,Industry
-Healthcare,Medical Devices,10,0.12723006213016375,Industry
-Healthcare,Healthcare Services,55,0.40704767126470887,Industry
-Finance,Banking,46,0.9279092163042632,Industry
-Finance,Insurance,32,0.6398973669105708,Industry
-Finance,Investment Services,61,0.6625512307474213,Industry
-Energy,Oil & Gas,64,0.6050722300336037,Industry
-Energy,Renewable Energy,27,0.4262873892350276,Industry
-Energy,Energy Exploration,80,0.8862705259805517,Industry
-Consumer Goods,Food & Beverage,3,0.16004924024896205,Industry
-Consumer Goods,Household Products,13,0.5443318752856922,Industry
-Consumer Goods,Apparel,2,0.4721563768877233,Industry
-Utilities,Electric,81,0.37651211558746134,Industry
-Utilities,Water,5,0.7113084981577606,Industry
-Utilities,Gas,90,0.7449679457732431,Industry
-Real Estate,Residential,1,0.16601204720720486,Industry
-Real Estate,Commercial,6,0.4444357269466871,Industry
-Real Estate,Industrial,46,0.2793218878853051,Industry
-Telecommunications,Mobile,61,0.026220276356403116,Industry
-Telecommunications,Broadband,5,0.28362850211971624,Industry
-Telecommunications,Satellite,0,0.19477319639105017,Industry
-Materials,Chemicals,27,0.929940933720017,Industry
-Materials,Metals & Mining,69,0.1555509940719093,Industry
-Materials,Construction Materials,32,0.7028457720221628,Industry
-Industrials,Aerospace & Defense,33,0.6409521642599885,Industry
-Industrials,Machinery,3,0.31870622014125494,Industry
-Industrials,Industrial Services,31,0.29326269540934546,Industry
-Consumer Services,Retail,99,0.36480718557368286,Industry
-Consumer Services,Travel & Leisure,62,0.29632352377163584,Industry
-Consumer Services,Media,84,0.43487398707596214,Industry
-Transportation,Airlines,61,0.038872206174419666,Industry
-Transportation,Railroads,67,0.6225667870685738,Industry
-Transportation,Logistics,98,0.2437735940118092,Industry
+,Laclede,818,0.5547597006480257,Overall
+Laclede,HiTech,10,0.6658662938814855,Sector
+Laclede,Agriculture,48,0.8150275395732952,Sector
+Laclede,Transportation,41,0.9147697418571761,Sector
+Laclede,Consumer_Products,93,0.970355767316584,Sector
+Laclede,Unassigned,38,0.7007123757328114,Sector
+Laclede,Communication,87,0.6277347516362017,Sector
+Laclede,Trade,74,0.3928914840879426,Sector
+Laclede,Business_Services,44,0.00892546955311413,Sector
+Laclede,Business_Products,63,0.12412584952615802,Sector
+Laclede,Construction,79,0.9660269163982192,Sector
+Laclede,Services,47,0.5831869893223441,Sector
+Laclede,Mining,78,0.2616365228031313,Sector
+Laclede,Health_Care,73,0.34254480490852235,Sector
+Laclede,EnergyExpL_Prod,3,0.3003159667832487,Sector
+Laclede,Utilities,40,0.64727503634015,Sector

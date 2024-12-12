@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dickens,1828,0.11930458305782143,Overall
-Dickens,Technology,225,0.39426920852134595,Sector
-Dickens,Healthcare,106,0.09964495421508368,Sector
-Dickens,Finance,139,0.8732640795234843,Sector
-Dickens,Energy,124,0.7078287900195943,Sector
-Dickens,Consumer Goods,108,0.4765742378957176,Sector
-Dickens,Utilities,167,0.535188031102279,Sector
-Dickens,Real Estate,207,0.9336420458977082,Sector
-Dickens,Telecommunications,198,0.24751099831429846,Sector
-Dickens,Materials,214,0.14490108192342144,Sector
-Dickens,Industrials,148,0.047970050722002,Sector
-Dickens,Consumer Services,75,0.31699104923425214,Sector
-Dickens,Transportation,117,0.9533568569748341,Sector
-Technology,Software,77,0.4831793587465675,Industry
-Technology,Hardware,96,0.9221238583830477,Industry
-Technology,IT Services,52,0.5500810704867664,Industry
-Healthcare,Pharmaceuticals,2,0.6037799964984691,Industry
-Healthcare,Medical Devices,44,0.5596176185464609,Industry
-Healthcare,Healthcare Services,60,0.06545367811615643,Industry
-Finance,Banking,73,0.8103827812200096,Industry
-Finance,Insurance,51,0.763663672937354,Industry
-Finance,Investment Services,15,0.6122749835763623,Industry
-Energy,Oil & Gas,57,0.9461984850171956,Industry
-Energy,Renewable Energy,63,0.18888672856891553,Industry
-Energy,Energy Exploration,4,0.7389947286468397,Industry
-Consumer Goods,Food & Beverage,78,0.21960186266566395,Industry
-Consumer Goods,Household Products,0,0.4451359246477883,Industry
-Consumer Goods,Apparel,30,0.752252801493316,Industry
-Utilities,Electric,45,0.47509358975666804,Industry
-Utilities,Water,28,0.9937729310504126,Industry
-Utilities,Gas,94,0.7495822291539667,Industry
-Real Estate,Residential,93,0.5979575830131023,Industry
-Real Estate,Commercial,99,0.8288376015831794,Industry
-Real Estate,Industrial,15,0.08872468668629319,Industry
-Telecommunications,Mobile,74,0.8673680796720887,Industry
-Telecommunications,Broadband,74,0.8531393721613191,Industry
-Telecommunications,Satellite,50,0.40561100942125605,Industry
-Materials,Chemicals,93,0.9349215593848353,Industry
-Materials,Metals & Mining,80,0.6336416483715449,Industry
-Materials,Construction Materials,41,0.5265263484982594,Industry
-Industrials,Aerospace & Defense,66,0.47199307795046874,Industry
-Industrials,Machinery,56,0.6364321986950824,Industry
-Industrials,Industrial Services,26,0.02491017651931915,Industry
-Consumer Services,Retail,32,0.6797374863977781,Industry
-Consumer Services,Travel & Leisure,3,0.8803356530586732,Industry
-Consumer Services,Media,40,0.43808080740526023,Industry
-Transportation,Airlines,31,0.9130664873087605,Industry
-Transportation,Railroads,72,0.9982946873266901,Industry
-Transportation,Logistics,14,0.13690832130487762,Industry
+,Dickens,568,0.5062867236991625,Overall
+Dickens,HiTech,69,0.2810982829752622,Sector
+Dickens,Agriculture,53,0.9866366718196343,Sector
+Dickens,Transportation,50,0.4018192845387999,Sector
+Dickens,Consumer_Products,25,0.6691527069358619,Sector
+Dickens,Unassigned,18,0.04561155612876744,Sector
+Dickens,Communication,7,0.03582801400687596,Sector
+Dickens,Trade,6,0.9684949692290746,Sector
+Dickens,Business_Services,0,0.5213751012234392,Sector
+Dickens,Business_Products,40,0.44958253203007414,Sector
+Dickens,Construction,46,0.4633733688926024,Sector
+Dickens,Services,32,0.3053611485992541,Sector
+Dickens,Mining,43,0.4498691956420465,Sector
+Dickens,Health_Care,75,0.7053569283490635,Sector
+Dickens,EnergyExpL_Prod,92,0.9908853074031502,Sector
+Dickens,Utilities,12,0.3198557877135312,Sector

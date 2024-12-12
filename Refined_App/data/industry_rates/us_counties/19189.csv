@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Winnebago,1574,0.933943372059566,Overall
-Winnebago,Technology,173,0.6038035108674118,Sector
-Winnebago,Healthcare,64,0.5266768265940587,Sector
-Winnebago,Finance,154,0.3885267971085409,Sector
-Winnebago,Energy,140,0.03995528003551552,Sector
-Winnebago,Consumer Goods,213,0.1952251830729479,Sector
-Winnebago,Utilities,148,0.9593017222265311,Sector
-Winnebago,Real Estate,40,0.9544409280700386,Sector
-Winnebago,Telecommunications,147,0.059206420859094444,Sector
-Winnebago,Materials,87,0.9473798362873089,Sector
-Winnebago,Industrials,184,0.25587167237294683,Sector
-Winnebago,Consumer Services,62,0.9130137989372867,Sector
-Winnebago,Transportation,162,0.31468788967131234,Sector
-Technology,Software,29,0.041852187360402526,Industry
-Technology,Hardware,84,0.7207525743531663,Industry
-Technology,IT Services,60,0.2943838951480565,Industry
-Healthcare,Pharmaceuticals,3,0.7421230335665411,Industry
-Healthcare,Medical Devices,19,0.6017675384029353,Industry
-Healthcare,Healthcare Services,42,0.30292481776743874,Industry
-Finance,Banking,50,0.4460644133163735,Industry
-Finance,Insurance,14,0.7779737795524362,Industry
-Finance,Investment Services,90,0.540746734376137,Industry
-Energy,Oil & Gas,20,0.43005222849689295,Industry
-Energy,Renewable Energy,69,0.413690694059176,Industry
-Energy,Energy Exploration,51,0.04429556012340563,Industry
-Consumer Goods,Food & Beverage,73,0.6351824868286385,Industry
-Consumer Goods,Household Products,83,0.48230257951549216,Industry
-Consumer Goods,Apparel,57,0.8857013671375182,Industry
-Utilities,Electric,67,0.8105790972061762,Industry
-Utilities,Water,79,0.9263575467998112,Industry
-Utilities,Gas,2,0.5277884687587069,Industry
-Real Estate,Residential,18,0.8618114970090031,Industry
-Real Estate,Commercial,14,0.43269198067423875,Industry
-Real Estate,Industrial,8,0.15791509299402007,Industry
-Telecommunications,Mobile,2,0.41018517473571703,Industry
-Telecommunications,Broadband,84,0.8757140795450281,Industry
-Telecommunications,Satellite,61,0.37265317555870914,Industry
-Materials,Chemicals,14,0.5663891347717667,Industry
-Materials,Metals & Mining,53,0.10640685230777946,Industry
-Materials,Construction Materials,20,0.647883177222613,Industry
-Industrials,Aerospace & Defense,92,0.2600994690008067,Industry
-Industrials,Machinery,71,0.1360865624798766,Industry
-Industrials,Industrial Services,21,0.4110018112545528,Industry
-Consumer Services,Retail,20,0.7950856282038236,Industry
-Consumer Services,Travel & Leisure,1,0.07174112328484528,Industry
-Consumer Services,Media,41,0.17877037015951425,Industry
-Transportation,Airlines,51,0.4611336468203765,Industry
-Transportation,Railroads,75,0.37508622881100484,Industry
-Transportation,Logistics,36,0.4209912277648832,Industry
+,Winnebago,898,0.4267400284083688,Overall
+Winnebago,HiTech,78,0.7073278876230344,Sector
+Winnebago,Agriculture,58,0.12051482328445906,Sector
+Winnebago,Transportation,81,0.24202153742481602,Sector
+Winnebago,Consumer_Products,28,0.937726789552217,Sector
+Winnebago,Unassigned,85,0.45287435983302204,Sector
+Winnebago,Communication,19,0.2410944952849946,Sector
+Winnebago,Trade,64,0.4337433524040104,Sector
+Winnebago,Business_Services,54,0.27269227964692433,Sector
+Winnebago,Business_Products,43,0.9583059611258231,Sector
+Winnebago,Construction,46,0.3005398474104265,Sector
+Winnebago,Services,85,0.3420454873218155,Sector
+Winnebago,Mining,32,0.3010921558544999,Sector
+Winnebago,Health_Care,72,0.2602872435227743,Sector
+Winnebago,EnergyExpL_Prod,85,0.05901118998646704,Sector
+Winnebago,Utilities,68,0.7718230158502468,Sector

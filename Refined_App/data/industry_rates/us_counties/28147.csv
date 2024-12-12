@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Walthall,2066,0.4875054976004274,Overall
-Walthall,Technology,188,0.17010578642385354,Sector
-Walthall,Healthcare,172,0.9741637543040564,Sector
-Walthall,Finance,155,0.4199489622832042,Sector
-Walthall,Energy,167,0.9300549122174547,Sector
-Walthall,Consumer Goods,184,0.30075034500618125,Sector
-Walthall,Utilities,147,0.6591264930125598,Sector
-Walthall,Real Estate,177,0.16542321794666714,Sector
-Walthall,Telecommunications,247,0.9984772155467679,Sector
-Walthall,Materials,172,0.3994970988593448,Sector
-Walthall,Industrials,186,0.16447036728496234,Sector
-Walthall,Consumer Services,146,0.920238804561741,Sector
-Walthall,Transportation,125,0.9171280896371439,Sector
-Technology,Software,63,0.7635715992048668,Industry
-Technology,Hardware,70,0.4550604573608523,Industry
-Technology,IT Services,55,0.6816127851082545,Industry
-Healthcare,Pharmaceuticals,47,0.39059222973529706,Industry
-Healthcare,Medical Devices,55,0.7065265799690056,Industry
-Healthcare,Healthcare Services,70,0.2868729782118612,Industry
-Finance,Banking,83,0.7998210267682568,Industry
-Finance,Insurance,59,0.8355790068530736,Industry
-Finance,Investment Services,13,0.32606167730524793,Industry
-Energy,Oil & Gas,59,0.18661040952836705,Industry
-Energy,Renewable Energy,52,0.6976173069185194,Industry
-Energy,Energy Exploration,56,0.9616351749953609,Industry
-Consumer Goods,Food & Beverage,30,0.49294432582227754,Industry
-Consumer Goods,Household Products,84,0.6061366474872922,Industry
-Consumer Goods,Apparel,70,0.6598572131613328,Industry
-Utilities,Electric,53,0.23163504278708502,Industry
-Utilities,Water,81,0.7051536961982534,Industry
-Utilities,Gas,13,0.20657297450789147,Industry
-Real Estate,Residential,31,0.4257723153835815,Industry
-Real Estate,Commercial,75,0.35681472068914655,Industry
-Real Estate,Industrial,71,0.7375971765682899,Industry
-Telecommunications,Mobile,73,0.5635720139093794,Industry
-Telecommunications,Broadband,93,0.9056090739106648,Industry
-Telecommunications,Satellite,81,0.6644113388799308,Industry
-Materials,Chemicals,46,0.6778268845868965,Industry
-Materials,Metals & Mining,92,0.29400088049767925,Industry
-Materials,Construction Materials,34,0.39202469749219093,Industry
-Industrials,Aerospace & Defense,62,0.8104260775640699,Industry
-Industrials,Machinery,34,0.24748077017304404,Industry
-Industrials,Industrial Services,90,0.3922407805582,Industry
-Consumer Services,Retail,47,0.5259953207841224,Industry
-Consumer Services,Travel & Leisure,90,0.14496078732138973,Industry
-Consumer Services,Media,9,0.9562076106191115,Industry
-Transportation,Airlines,46,0.6058820561913363,Industry
-Transportation,Railroads,61,0.7918095486286452,Industry
-Transportation,Logistics,18,0.06525588331629151,Industry
+,Walthall,781,0.5029525546392403,Overall
+Walthall,HiTech,27,0.4628846309918331,Sector
+Walthall,Agriculture,69,0.4966634605293039,Sector
+Walthall,Transportation,21,0.32201639941389004,Sector
+Walthall,Consumer_Products,15,0.25589848012346594,Sector
+Walthall,Unassigned,87,0.7198778029531003,Sector
+Walthall,Communication,36,0.9861763354904199,Sector
+Walthall,Trade,3,0.5079369826980129,Sector
+Walthall,Business_Services,20,0.4172004044239017,Sector
+Walthall,Business_Products,72,0.6174780637879426,Sector
+Walthall,Construction,80,0.021727504094378847,Sector
+Walthall,Services,97,0.4675008526031631,Sector
+Walthall,Mining,58,0.36663525936834584,Sector
+Walthall,Health_Care,94,0.9810209426333637,Sector
+Walthall,EnergyExpL_Prod,87,0.43010523664323974,Sector
+Walthall,Utilities,15,0.49116596383424216,Sector

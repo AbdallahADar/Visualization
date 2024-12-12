@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Vercelli,1858,0.9220559286681104,Overall
-Vercelli,Technology,90,0.5704978935226171,Sector
-Vercelli,Healthcare,151,0.5996638975585336,Sector
-Vercelli,Finance,173,0.45000757908185307,Sector
-Vercelli,Energy,93,0.6793922194146826,Sector
-Vercelli,Consumer Goods,168,0.911729010392333,Sector
-Vercelli,Utilities,199,0.32230612073063103,Sector
-Vercelli,Real Estate,229,0.025924773496636244,Sector
-Vercelli,Telecommunications,176,0.17819846643599235,Sector
-Vercelli,Materials,151,0.01800038705912721,Sector
-Vercelli,Industrials,81,0.297279324212431,Sector
-Vercelli,Consumer Services,175,0.86873984338525,Sector
-Vercelli,Transportation,172,0.06219457025536412,Sector
-Technology,Software,66,0.5494417980349415,Industry
-Technology,Hardware,13,0.3658980869087659,Industry
-Technology,IT Services,11,0.32130285432079553,Industry
-Healthcare,Pharmaceuticals,68,0.3287469640938022,Industry
-Healthcare,Medical Devices,81,0.6099653704301163,Industry
-Healthcare,Healthcare Services,2,0.6143883178876594,Industry
-Finance,Banking,77,0.7939842479995501,Industry
-Finance,Insurance,88,0.5944794597872496,Industry
-Finance,Investment Services,8,0.6543204201214029,Industry
-Energy,Oil & Gas,14,0.3346830110956226,Industry
-Energy,Renewable Energy,76,0.6571270015166414,Industry
-Energy,Energy Exploration,3,0.06977561776611252,Industry
-Consumer Goods,Food & Beverage,51,0.4630588858716319,Industry
-Consumer Goods,Household Products,32,0.3198669522588464,Industry
-Consumer Goods,Apparel,85,0.78437580475904,Industry
-Utilities,Electric,64,0.8962590580376248,Industry
-Utilities,Water,88,0.5030781161677315,Industry
-Utilities,Gas,47,0.22294509023463915,Industry
-Real Estate,Residential,94,0.7556962521560252,Industry
-Real Estate,Commercial,59,0.33659048478810083,Industry
-Real Estate,Industrial,76,0.009731585340636228,Industry
-Telecommunications,Mobile,75,0.7836688610381098,Industry
-Telecommunications,Broadband,89,0.17513897533397915,Industry
-Telecommunications,Satellite,12,0.07284180274102647,Industry
-Materials,Chemicals,29,0.2758822450490661,Industry
-Materials,Metals & Mining,69,0.7648205844983708,Industry
-Materials,Construction Materials,53,0.8151764280316112,Industry
-Industrials,Aerospace & Defense,28,0.7875024745461956,Industry
-Industrials,Machinery,15,0.3597242502107272,Industry
-Industrials,Industrial Services,38,0.2727931735403558,Industry
-Consumer Services,Retail,71,0.5804627436484888,Industry
-Consumer Services,Travel & Leisure,43,0.21110922741129035,Industry
-Consumer Services,Media,61,0.4268204323735917,Industry
-Transportation,Airlines,96,0.36035080011939336,Industry
-Transportation,Railroads,11,0.21644421409809955,Industry
-Transportation,Logistics,65,0.6320511698470241,Industry
+,Vercelli,769,0.5622181119004358,Overall
+Vercelli,HiTech,76,0.14650523461266995,Sector
+Vercelli,Agriculture,72,0.5816700991212439,Sector
+Vercelli,Transportation,39,0.5274529296829106,Sector
+Vercelli,Consumer_Products,16,0.014699695854909711,Sector
+Vercelli,Unassigned,43,0.927302375010932,Sector
+Vercelli,Communication,98,0.824759808837851,Sector
+Vercelli,Trade,56,0.6819609498935727,Sector
+Vercelli,Business_Services,66,0.04936334138197873,Sector
+Vercelli,Business_Products,12,0.6344195131786802,Sector
+Vercelli,Construction,74,0.7089950263677979,Sector
+Vercelli,Services,42,0.9867500897605813,Sector
+Vercelli,Mining,4,0.28412737357656537,Sector
+Vercelli,Health_Care,34,0.4858135295296221,Sector
+Vercelli,EnergyExpL_Prod,38,0.9269720010297501,Sector
+Vercelli,Utilities,99,0.6524797106674733,Sector

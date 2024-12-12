@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mettmann,1962,0.7787161642773468,Overall
-Mettmann,Technology,163,0.32657910490251896,Sector
-Mettmann,Healthcare,181,0.27117481312752834,Sector
-Mettmann,Finance,206,0.4295057069014325,Sector
-Mettmann,Energy,206,0.3951537938133971,Sector
-Mettmann,Consumer Goods,94,0.9323608218105687,Sector
-Mettmann,Utilities,145,0.9142653495645251,Sector
-Mettmann,Real Estate,193,0.800094722565038,Sector
-Mettmann,Telecommunications,139,0.5666657935005475,Sector
-Mettmann,Materials,207,0.22119962634253576,Sector
-Mettmann,Industrials,79,0.6576417466505496,Sector
-Mettmann,Consumer Services,232,0.7396719302030588,Sector
-Mettmann,Transportation,117,0.11613552160606178,Sector
-Technology,Software,25,0.6464791752328014,Industry
-Technology,Hardware,43,0.029175229471632314,Industry
-Technology,IT Services,95,0.6363874418009478,Industry
-Healthcare,Pharmaceuticals,55,0.030519113142997822,Industry
-Healthcare,Medical Devices,66,0.8605660070850429,Industry
-Healthcare,Healthcare Services,60,0.9217754405038133,Industry
-Finance,Banking,36,0.6813752260698862,Industry
-Finance,Insurance,94,0.4523084599609294,Industry
-Finance,Investment Services,76,0.7354616443288299,Industry
-Energy,Oil & Gas,64,0.6544663824037209,Industry
-Energy,Renewable Energy,50,0.7018377262436196,Industry
-Energy,Energy Exploration,92,0.6979648108645818,Industry
-Consumer Goods,Food & Beverage,45,0.7808282828295556,Industry
-Consumer Goods,Household Products,36,0.9253374691555478,Industry
-Consumer Goods,Apparel,13,0.6015665345980334,Industry
-Utilities,Electric,46,0.25851501451359316,Industry
-Utilities,Water,96,0.24552749262937956,Industry
-Utilities,Gas,3,0.4012761141773439,Industry
-Real Estate,Residential,80,0.687593408804389,Industry
-Real Estate,Commercial,94,0.2155858853385033,Industry
-Real Estate,Industrial,19,0.2955933291932493,Industry
-Telecommunications,Mobile,45,0.9930196678310986,Industry
-Telecommunications,Broadband,26,0.596350161233327,Industry
-Telecommunications,Satellite,68,0.5610063106608839,Industry
-Materials,Chemicals,98,0.7566316335149814,Industry
-Materials,Metals & Mining,85,0.009604296474188478,Industry
-Materials,Construction Materials,24,0.9381748533064854,Industry
-Industrials,Aerospace & Defense,68,0.6228794686139811,Industry
-Industrials,Machinery,9,0.7364343626847452,Industry
-Industrials,Industrial Services,2,0.8125286583050435,Industry
-Consumer Services,Retail,68,0.30430945246765184,Industry
-Consumer Services,Travel & Leisure,88,0.7314257871102117,Industry
-Consumer Services,Media,76,0.7840892474914943,Industry
-Transportation,Airlines,41,0.7275527251712316,Industry
-Transportation,Railroads,24,0.07110947282344271,Industry
-Transportation,Logistics,52,0.7407469363567883,Industry
+,Mettmann,674,0.43622856232544205,Overall
+Mettmann,HiTech,13,0.21836564845895268,Sector
+Mettmann,Agriculture,87,0.6844101142350212,Sector
+Mettmann,Transportation,29,0.9415933227714047,Sector
+Mettmann,Consumer_Products,37,0.2541996816209381,Sector
+Mettmann,Unassigned,84,0.41809697663603607,Sector
+Mettmann,Communication,41,0.006117464442860321,Sector
+Mettmann,Trade,4,0.0851875314504732,Sector
+Mettmann,Business_Services,21,0.8618979525235329,Sector
+Mettmann,Business_Products,81,0.7308395009767908,Sector
+Mettmann,Construction,33,0.5238317795257664,Sector
+Mettmann,Services,52,0.6813146577158973,Sector
+Mettmann,Mining,95,0.3674122371480393,Sector
+Mettmann,Health_Care,58,0.18435962563874198,Sector
+Mettmann,EnergyExpL_Prod,3,0.044615356423199026,Sector
+Mettmann,Utilities,36,0.5411865853139768,Sector

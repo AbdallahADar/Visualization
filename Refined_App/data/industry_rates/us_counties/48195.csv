@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hansford,2025,0.4521322147454834,Overall
-Hansford,Technology,173,0.642175130654662,Sector
-Hansford,Healthcare,146,0.20109010910028302,Sector
-Hansford,Finance,144,0.7563409080995038,Sector
-Hansford,Energy,175,0.25196332379415953,Sector
-Hansford,Consumer Goods,153,0.9783837292939758,Sector
-Hansford,Utilities,199,0.1880447087601379,Sector
-Hansford,Real Estate,106,0.4310294407665799,Sector
-Hansford,Telecommunications,213,0.915238462536461,Sector
-Hansford,Materials,181,0.7514270792469427,Sector
-Hansford,Industrials,213,0.2799894634951283,Sector
-Hansford,Consumer Services,147,0.3862951376084973,Sector
-Hansford,Transportation,175,0.5840674139347085,Sector
-Technology,Software,44,0.2433319087903657,Industry
-Technology,Hardware,93,0.4383182416157442,Industry
-Technology,IT Services,36,0.25606331867421706,Industry
-Healthcare,Pharmaceuticals,24,0.525222205678004,Industry
-Healthcare,Medical Devices,87,0.39496709195209734,Industry
-Healthcare,Healthcare Services,35,0.9286763617221999,Industry
-Finance,Banking,1,0.11648536060739978,Industry
-Finance,Insurance,98,0.6217776184505764,Industry
-Finance,Investment Services,45,0.3379094222041169,Industry
-Energy,Oil & Gas,29,0.28673524596311584,Industry
-Energy,Renewable Energy,52,0.4298586860522857,Industry
-Energy,Energy Exploration,94,0.6162229585283788,Industry
-Consumer Goods,Food & Beverage,61,0.8049546620453452,Industry
-Consumer Goods,Household Products,18,0.20034795813532247,Industry
-Consumer Goods,Apparel,74,0.0798979243083382,Industry
-Utilities,Electric,56,0.780428112078153,Industry
-Utilities,Water,81,0.6688746956376578,Industry
-Utilities,Gas,62,0.844594238352498,Industry
-Real Estate,Residential,41,0.7007973672788181,Industry
-Real Estate,Commercial,7,0.026670048763268617,Industry
-Real Estate,Industrial,58,0.34500056363325227,Industry
-Telecommunications,Mobile,72,0.7021692699402947,Industry
-Telecommunications,Broadband,51,0.5970537964494942,Industry
-Telecommunications,Satellite,90,0.32214862514324816,Industry
-Materials,Chemicals,85,0.3055768461698414,Industry
-Materials,Metals & Mining,31,0.21424002801936992,Industry
-Materials,Construction Materials,65,0.4424058227895178,Industry
-Industrials,Aerospace & Defense,96,0.15130247202149316,Industry
-Industrials,Machinery,66,0.7928124786082039,Industry
-Industrials,Industrial Services,51,0.9481948746599306,Industry
-Consumer Services,Retail,73,0.7902647987449178,Industry
-Consumer Services,Travel & Leisure,51,0.35981358673791397,Industry
-Consumer Services,Media,23,0.11496660970109096,Industry
-Transportation,Airlines,71,0.17489044368044682,Industry
-Transportation,Railroads,7,0.09157423770381834,Industry
-Transportation,Logistics,97,0.26123248352728545,Industry
+,Hansford,839,0.6467960939831402,Overall
+Hansford,HiTech,46,0.9271466265412199,Sector
+Hansford,Agriculture,46,0.9318447762207476,Sector
+Hansford,Transportation,63,0.9457257039813832,Sector
+Hansford,Consumer_Products,53,0.35363812952407614,Sector
+Hansford,Unassigned,84,0.47232521089223023,Sector
+Hansford,Communication,37,0.3229486007969039,Sector
+Hansford,Trade,54,0.8231967537229227,Sector
+Hansford,Business_Services,84,0.8919311871045267,Sector
+Hansford,Business_Products,19,0.5800084849517397,Sector
+Hansford,Construction,74,0.07278773493498303,Sector
+Hansford,Services,35,0.8723621816630639,Sector
+Hansford,Mining,31,0.17186891911901347,Sector
+Hansford,Health_Care,80,0.7413881820915654,Sector
+Hansford,EnergyExpL_Prod,76,0.6465798152452974,Sector
+Hansford,Utilities,57,0.9481891029574302,Sector

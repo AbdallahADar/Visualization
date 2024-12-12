@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Iron,1557,0.20239849868301085,Overall
-Iron,Technology,108,0.4230795717975502,Sector
-Iron,Healthcare,126,0.0156343127322226,Sector
-Iron,Finance,120,0.13329814248697391,Sector
-Iron,Energy,262,0.9408873349703131,Sector
-Iron,Consumer Goods,67,0.7143120836105545,Sector
-Iron,Utilities,109,0.009098663486599046,Sector
-Iron,Real Estate,244,0.5503462005983101,Sector
-Iron,Telecommunications,126,0.7788644772908013,Sector
-Iron,Materials,65,0.48620793581393584,Sector
-Iron,Industrials,95,0.7778052350078575,Sector
-Iron,Consumer Services,113,0.7728764174016595,Sector
-Iron,Transportation,122,0.6220177571871466,Sector
-Technology,Software,2,0.6573681717015869,Industry
-Technology,Hardware,92,0.5475626790569279,Industry
-Technology,IT Services,14,0.939634957987281,Industry
-Healthcare,Pharmaceuticals,47,0.3155278431091063,Industry
-Healthcare,Medical Devices,43,0.059392067949401994,Industry
-Healthcare,Healthcare Services,36,0.3837934741951532,Industry
-Finance,Banking,38,0.893603443989536,Industry
-Finance,Insurance,64,0.7847119729975678,Industry
-Finance,Investment Services,18,0.8945820465520525,Industry
-Energy,Oil & Gas,96,0.4937043496958755,Industry
-Energy,Renewable Energy,97,0.30949596275831526,Industry
-Energy,Energy Exploration,69,0.6267291173239065,Industry
-Consumer Goods,Food & Beverage,18,0.38322029923555423,Industry
-Consumer Goods,Household Products,47,0.4519507213087194,Industry
-Consumer Goods,Apparel,2,0.8585297978985178,Industry
-Utilities,Electric,25,0.5832656047753751,Industry
-Utilities,Water,37,0.9146258996781491,Industry
-Utilities,Gas,47,0.16454482620747712,Industry
-Real Estate,Residential,80,0.31433019003821383,Industry
-Real Estate,Commercial,83,0.8578799874511143,Industry
-Real Estate,Industrial,81,0.27970875867052125,Industry
-Telecommunications,Mobile,23,0.6714727984507,Industry
-Telecommunications,Broadband,5,0.02484055169906474,Industry
-Telecommunications,Satellite,98,0.38250734729677915,Industry
-Materials,Chemicals,19,0.47660988939587323,Industry
-Materials,Metals & Mining,30,0.7725077278821548,Industry
-Materials,Construction Materials,16,0.8670836337729433,Industry
-Industrials,Aerospace & Defense,61,0.3657897291578658,Industry
-Industrials,Machinery,29,0.1981277936571577,Industry
-Industrials,Industrial Services,5,0.0013671089649337498,Industry
-Consumer Services,Retail,22,0.581379782205039,Industry
-Consumer Services,Travel & Leisure,40,0.986188286009729,Industry
-Consumer Services,Media,51,0.902606673367318,Industry
-Transportation,Airlines,29,0.995270725661541,Industry
-Transportation,Railroads,42,0.3569903584936247,Industry
-Transportation,Logistics,51,0.8206832256358276,Industry
+,Iron,565,0.5130310586016545,Overall
+Iron,HiTech,1,0.22087600549672837,Sector
+Iron,Agriculture,43,0.8928624626025154,Sector
+Iron,Transportation,74,0.9829250938736538,Sector
+Iron,Consumer_Products,64,0.6581034990183973,Sector
+Iron,Unassigned,25,0.01485856852602363,Sector
+Iron,Communication,15,0.22239450577122244,Sector
+Iron,Trade,44,0.3935344893338366,Sector
+Iron,Business_Services,7,0.4783294613886955,Sector
+Iron,Business_Products,21,0.7222529257216806,Sector
+Iron,Construction,38,0.49984515738285196,Sector
+Iron,Services,31,0.5683667458687357,Sector
+Iron,Mining,62,0.4970938870771273,Sector
+Iron,Health_Care,29,0.6511144798206616,Sector
+Iron,EnergyExpL_Prod,60,0.09944989392555048,Sector
+Iron,Utilities,51,0.793458703217138,Sector

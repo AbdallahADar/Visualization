@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Brescia,1816,0.9937830282886677,Overall
+Brescia,Technology,187,0.31870583287740395,Sector
+Brescia,Healthcare,122,0.801837553826808,Sector
+Brescia,Finance,202,0.7954701342346067,Sector
+Brescia,Energy,111,0.2533082923909453,Sector
+Brescia,Consumer Goods,72,0.23226311360956653,Sector
+Brescia,Utilities,108,0.586083826003456,Sector
+Brescia,Real Estate,113,0.6701223663901249,Sector
+Brescia,Telecommunications,166,0.7719281204577404,Sector
+Brescia,Materials,167,0.648904039272055,Sector
+Brescia,Industrials,225,0.7443572639687678,Sector
+Brescia,Consumer Services,176,0.09447146983733123,Sector
+Brescia,Transportation,167,0.005408779684220377,Sector
+Technology,Software,81,0.7416319801293105,Industry
+Technology,Hardware,31,0.19458849371232123,Industry
+Technology,IT Services,75,0.4581802571894561,Industry
+Healthcare,Pharmaceuticals,28,0.48059971563555115,Industry
+Healthcare,Medical Devices,68,0.664640073603161,Industry
+Healthcare,Healthcare Services,26,0.5933991264507509,Industry
+Finance,Banking,53,0.4313136381434428,Industry
+Finance,Insurance,75,0.37067542657317587,Industry
+Finance,Investment Services,74,0.08190131534199963,Industry
+Energy,Oil & Gas,32,0.7415124095906146,Industry
+Energy,Renewable Energy,62,0.04737537620049925,Industry
+Energy,Energy Exploration,17,0.2720499632846637,Industry
+Consumer Goods,Food & Beverage,46,0.45269973363755,Industry
+Consumer Goods,Household Products,18,0.3336252391125638,Industry
+Consumer Goods,Apparel,8,0.17797480903956697,Industry
+Utilities,Electric,11,0.7135154148563146,Industry
+Utilities,Water,19,0.11375997259770843,Industry
+Utilities,Gas,78,0.3430033111878622,Industry
+Real Estate,Residential,81,0.34386917216979296,Industry
+Real Estate,Commercial,12,0.05813702953931499,Industry
+Real Estate,Industrial,20,0.23454008269554216,Industry
+Telecommunications,Mobile,75,0.766090619088861,Industry
+Telecommunications,Broadband,1,0.3093710462102368,Industry
+Telecommunications,Satellite,90,0.35820699701875813,Industry
+Materials,Chemicals,34,0.2902640489768019,Industry
+Materials,Metals & Mining,44,0.246026176616858,Industry
+Materials,Construction Materials,89,0.20933316481769626,Industry
+Industrials,Aerospace & Defense,97,0.38102739744052194,Industry
+Industrials,Machinery,85,0.027232708681450446,Industry
+Industrials,Industrial Services,43,0.44730125608500737,Industry
+Consumer Services,Retail,7,0.4673957488634992,Industry
+Consumer Services,Travel & Leisure,89,0.4586777608263193,Industry
+Consumer Services,Media,80,0.45298666358896844,Industry
+Transportation,Airlines,50,0.16526759549323988,Industry
+Transportation,Railroads,89,0.3239910071950274,Industry
+Transportation,Logistics,28,0.3106563226251057,Industry

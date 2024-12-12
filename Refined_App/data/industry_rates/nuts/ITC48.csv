@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pavia,2045,0.5633976192534463,Overall
-Pavia,Technology,88,0.7008934507256641,Sector
-Pavia,Healthcare,192,0.544045159441638,Sector
-Pavia,Finance,223,0.4812268119146874,Sector
-Pavia,Energy,183,0.16693966706328278,Sector
-Pavia,Consumer Goods,183,0.8496682190499718,Sector
-Pavia,Utilities,204,0.9140254128948954,Sector
-Pavia,Real Estate,193,0.9833966651663387,Sector
-Pavia,Telecommunications,157,0.09989844058315256,Sector
-Pavia,Materials,207,0.6038327578297275,Sector
-Pavia,Industrials,149,0.9632912727665188,Sector
-Pavia,Consumer Services,170,0.5280695071323576,Sector
-Pavia,Transportation,96,0.31314053325323066,Sector
-Technology,Software,28,0.7192057695253145,Industry
-Technology,Hardware,0,0.5683979750759698,Industry
-Technology,IT Services,60,0.7593368017326647,Industry
-Healthcare,Pharmaceuticals,68,0.5032291006057749,Industry
-Healthcare,Medical Devices,76,0.29219207958157367,Industry
-Healthcare,Healthcare Services,48,0.6417912412838517,Industry
-Finance,Banking,66,0.41665311307571595,Industry
-Finance,Insurance,63,0.7950294885338505,Industry
-Finance,Investment Services,94,0.02249629441032841,Industry
-Energy,Oil & Gas,75,0.6805888665846215,Industry
-Energy,Renewable Energy,49,0.5028088482018255,Industry
-Energy,Energy Exploration,59,0.8121879891436117,Industry
-Consumer Goods,Food & Beverage,88,0.3516973024730843,Industry
-Consumer Goods,Household Products,17,0.20075905850309317,Industry
-Consumer Goods,Apparel,78,0.19281687931297065,Industry
-Utilities,Electric,61,0.2970212831579101,Industry
-Utilities,Water,73,0.37102403460915323,Industry
-Utilities,Gas,70,0.3050343855639971,Industry
-Real Estate,Residential,92,0.40443424388351,Industry
-Real Estate,Commercial,23,0.31134805879653604,Industry
-Real Estate,Industrial,78,0.05507003210126782,Industry
-Telecommunications,Mobile,50,0.25548221340909505,Industry
-Telecommunications,Broadband,41,0.6391198307243867,Industry
-Telecommunications,Satellite,66,0.06699231108041592,Industry
-Materials,Chemicals,60,0.6417300166142064,Industry
-Materials,Metals & Mining,58,0.7899272697296232,Industry
-Materials,Construction Materials,89,0.6823037477423645,Industry
-Industrials,Aerospace & Defense,68,0.009796328118865327,Industry
-Industrials,Machinery,68,0.6548247082430232,Industry
-Industrials,Industrial Services,13,0.3781983666076608,Industry
-Consumer Services,Retail,18,0.09551214628831983,Industry
-Consumer Services,Travel & Leisure,87,0.3286452169904608,Industry
-Consumer Services,Media,65,0.9614176188716587,Industry
-Transportation,Airlines,4,0.47084689722126316,Industry
-Transportation,Railroads,0,0.19506879147042622,Industry
-Transportation,Logistics,92,0.9662713606071993,Industry
+,Pavia,620,0.5532565459021653,Overall
+Pavia,HiTech,44,0.9802633989933726,Sector
+Pavia,Agriculture,16,0.045419274570167145,Sector
+Pavia,Transportation,32,0.2035074308657825,Sector
+Pavia,Consumer_Products,80,0.7160133524893678,Sector
+Pavia,Unassigned,62,0.09235158478969763,Sector
+Pavia,Communication,66,0.8545604650603685,Sector
+Pavia,Trade,9,0.5163807767526926,Sector
+Pavia,Business_Services,3,0.390707592118104,Sector
+Pavia,Business_Products,42,0.7852756295179273,Sector
+Pavia,Construction,18,0.7453614086612189,Sector
+Pavia,Services,61,0.7813442579083864,Sector
+Pavia,Mining,3,0.4409800241817652,Sector
+Pavia,Health_Care,61,0.7974611581815568,Sector
+Pavia,EnergyExpL_Prod,78,0.9133351264988253,Sector
+Pavia,Utilities,45,0.03588670794324644,Sector

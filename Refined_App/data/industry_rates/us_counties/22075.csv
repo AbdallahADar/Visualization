@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Plaquemines,1745,0.5507039428295345,Overall
-Plaquemines,Technology,98,0.49354050261713034,Sector
-Plaquemines,Healthcare,190,0.9425546749786942,Sector
-Plaquemines,Finance,137,0.007625271425187097,Sector
-Plaquemines,Energy,184,0.11641048991364178,Sector
-Plaquemines,Consumer Goods,166,0.4523788525614648,Sector
-Plaquemines,Utilities,166,0.9083573754720914,Sector
-Plaquemines,Real Estate,187,0.4718711075690434,Sector
-Plaquemines,Telecommunications,120,0.9034410092133105,Sector
-Plaquemines,Materials,117,0.5645890397226627,Sector
-Plaquemines,Industrials,190,0.28208448182651347,Sector
-Plaquemines,Consumer Services,129,0.8716927268488376,Sector
-Plaquemines,Transportation,61,0.4051698892554868,Sector
-Technology,Software,39,0.7902454771746313,Industry
-Technology,Hardware,57,0.24780564892744916,Industry
-Technology,IT Services,2,0.12595552838765878,Industry
-Healthcare,Pharmaceuticals,47,0.07640652080390464,Industry
-Healthcare,Medical Devices,64,0.17592194494248292,Industry
-Healthcare,Healthcare Services,79,0.9278450385543595,Industry
-Finance,Banking,34,0.18640227192932957,Industry
-Finance,Insurance,59,0.9713843502144828,Industry
-Finance,Investment Services,44,0.5907116377967265,Industry
-Energy,Oil & Gas,75,0.4113596922865892,Industry
-Energy,Renewable Energy,83,0.3397263437878627,Industry
-Energy,Energy Exploration,26,0.21141149827880368,Industry
-Consumer Goods,Food & Beverage,79,0.2645448668242921,Industry
-Consumer Goods,Household Products,41,0.5986510641576088,Industry
-Consumer Goods,Apparel,46,0.5067181166359022,Industry
-Utilities,Electric,32,0.9496618200096776,Industry
-Utilities,Water,55,0.4796061960113114,Industry
-Utilities,Gas,79,0.477458764181354,Industry
-Real Estate,Residential,73,0.6474332814012604,Industry
-Real Estate,Commercial,88,0.22087457861254922,Industry
-Real Estate,Industrial,26,0.48029985911756956,Industry
-Telecommunications,Mobile,86,0.9550494897224827,Industry
-Telecommunications,Broadband,16,0.7418205558371972,Industry
-Telecommunications,Satellite,18,0.21592885780729043,Industry
-Materials,Chemicals,74,0.633056606493794,Industry
-Materials,Metals & Mining,29,0.24631614610914632,Industry
-Materials,Construction Materials,14,0.4318767677566627,Industry
-Industrials,Aerospace & Defense,35,0.5702483403340123,Industry
-Industrials,Machinery,92,0.6275198184101477,Industry
-Industrials,Industrial Services,63,0.785367553818094,Industry
-Consumer Services,Retail,69,0.4042795034604175,Industry
-Consumer Services,Travel & Leisure,34,0.7198358002218993,Industry
-Consumer Services,Media,26,0.22854515477853576,Industry
-Transportation,Airlines,6,0.12404496328777115,Industry
-Transportation,Railroads,7,0.21234116107604495,Industry
-Transportation,Logistics,48,0.11722850419019637,Industry
+,Plaquemines,728,0.5843803556005177,Overall
+Plaquemines,HiTech,27,0.334660403160694,Sector
+Plaquemines,Agriculture,48,0.8673430147884803,Sector
+Plaquemines,Transportation,84,0.5592688088294607,Sector
+Plaquemines,Consumer_Products,84,0.700210554895581,Sector
+Plaquemines,Unassigned,4,0.11350772158953126,Sector
+Plaquemines,Communication,19,0.9946061983192035,Sector
+Plaquemines,Trade,61,0.8008296828563964,Sector
+Plaquemines,Business_Services,35,0.903967736071783,Sector
+Plaquemines,Business_Products,62,0.22464809366649108,Sector
+Plaquemines,Construction,43,0.3787652378347698,Sector
+Plaquemines,Services,47,0.30824581205790225,Sector
+Plaquemines,Mining,88,0.8240337437329668,Sector
+Plaquemines,Health_Care,93,0.36114381840462517,Sector
+Plaquemines,EnergyExpL_Prod,17,0.8335826719869842,Sector
+Plaquemines,Utilities,16,0.5608918358128961,Sector

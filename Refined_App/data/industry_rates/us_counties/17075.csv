@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Iroquois,1722,0.12766617530328606,Overall
-Iroquois,Technology,108,0.2694464097267988,Sector
-Iroquois,Healthcare,222,0.5558573171010047,Sector
-Iroquois,Finance,154,0.04531379145778991,Sector
-Iroquois,Energy,93,0.2767510321446037,Sector
-Iroquois,Consumer Goods,182,0.4188169367048118,Sector
-Iroquois,Utilities,136,0.9918324385086368,Sector
-Iroquois,Real Estate,109,0.5038160912294201,Sector
-Iroquois,Telecommunications,133,0.5047072154005668,Sector
-Iroquois,Materials,122,0.290741918128125,Sector
-Iroquois,Industrials,236,0.06366922097093719,Sector
-Iroquois,Consumer Services,93,0.373779360155181,Sector
-Iroquois,Transportation,134,0.7249512436392618,Sector
-Technology,Software,15,0.1282952497887342,Industry
-Technology,Hardware,8,0.9494534070477104,Industry
-Technology,IT Services,85,0.29563133621709514,Industry
-Healthcare,Pharmaceuticals,62,0.5594992671081591,Industry
-Healthcare,Medical Devices,64,0.5165008335174812,Industry
-Healthcare,Healthcare Services,96,0.04828210103795294,Industry
-Finance,Banking,73,0.5239859008510472,Industry
-Finance,Insurance,42,0.2681000356860569,Industry
-Finance,Investment Services,39,0.6502805117855314,Industry
-Energy,Oil & Gas,0,0.7293014222247404,Industry
-Energy,Renewable Energy,3,0.8023393806804846,Industry
-Energy,Energy Exploration,90,0.6728752338190331,Industry
-Consumer Goods,Food & Beverage,30,0.38776952609944604,Industry
-Consumer Goods,Household Products,78,0.46149130949502437,Industry
-Consumer Goods,Apparel,74,0.7060293376541716,Industry
-Utilities,Electric,40,0.5997086788681978,Industry
-Utilities,Water,1,0.14485519339449604,Industry
-Utilities,Gas,95,0.5353332435325272,Industry
-Real Estate,Residential,18,0.2745796432687495,Industry
-Real Estate,Commercial,85,0.8475721947151228,Industry
-Real Estate,Industrial,6,0.8246121560760484,Industry
-Telecommunications,Mobile,25,0.7186683438762794,Industry
-Telecommunications,Broadband,43,0.9992849381995642,Industry
-Telecommunications,Satellite,65,0.6202580712972046,Industry
-Materials,Chemicals,56,0.3293221354370083,Industry
-Materials,Metals & Mining,20,0.29515942523778904,Industry
-Materials,Construction Materials,46,0.9838711288333077,Industry
-Industrials,Aerospace & Defense,75,0.5618644785963092,Industry
-Industrials,Machinery,71,0.6835932102929003,Industry
-Industrials,Industrial Services,90,0.6208054353972517,Industry
-Consumer Services,Retail,52,0.41069561508556307,Industry
-Consumer Services,Travel & Leisure,4,0.33917499752237923,Industry
-Consumer Services,Media,37,0.32005324664370893,Industry
-Transportation,Airlines,67,0.30903958947654564,Industry
-Transportation,Railroads,28,0.3448537615897468,Industry
-Transportation,Logistics,39,0.06395053592612443,Industry
+,Iroquois,980,0.45429047415880597,Overall
+Iroquois,HiTech,61,0.5402157666784226,Sector
+Iroquois,Agriculture,86,0.23254713642400215,Sector
+Iroquois,Transportation,64,0.9126988545428291,Sector
+Iroquois,Consumer_Products,35,0.2085133816586553,Sector
+Iroquois,Unassigned,84,0.5532683131186638,Sector
+Iroquois,Communication,45,0.2065191525881379,Sector
+Iroquois,Trade,83,0.2410057781113375,Sector
+Iroquois,Business_Services,95,0.9423638118258105,Sector
+Iroquois,Business_Products,44,0.2897934514594428,Sector
+Iroquois,Construction,71,0.6045244752049743,Sector
+Iroquois,Services,98,0.6000024977968896,Sector
+Iroquois,Mining,95,0.8340138028402673,Sector
+Iroquois,Health_Care,79,0.20602428958706953,Sector
+Iroquois,EnergyExpL_Prod,26,0.22404050280083698,Sector
+Iroquois,Utilities,14,0.21882589774474948,Sector

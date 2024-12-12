@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bexar,1849,0.9035862719585642,Overall
-Bexar,Technology,212,0.706443989681031,Sector
-Bexar,Healthcare,95,0.2961614268144712,Sector
-Bexar,Finance,232,0.8339631276539283,Sector
-Bexar,Energy,201,0.7455784219880028,Sector
-Bexar,Consumer Goods,164,0.2373184862169655,Sector
-Bexar,Utilities,162,0.674996289119915,Sector
-Bexar,Real Estate,172,0.15531754103355255,Sector
-Bexar,Telecommunications,98,0.04036135852358491,Sector
-Bexar,Materials,225,0.5936834589160929,Sector
-Bexar,Industrials,59,0.5717175691479894,Sector
-Bexar,Consumer Services,92,0.47586188169188326,Sector
-Bexar,Transportation,137,0.08509350025081996,Sector
-Technology,Software,99,0.03874568561855707,Industry
-Technology,Hardware,87,0.7192986271853158,Industry
-Technology,IT Services,26,0.8148091686083638,Industry
-Healthcare,Pharmaceuticals,75,0.4851600001804769,Industry
-Healthcare,Medical Devices,14,0.38142999191521565,Industry
-Healthcare,Healthcare Services,6,0.34536713717542267,Industry
-Finance,Banking,89,0.5184069884491534,Industry
-Finance,Insurance,95,0.3715958417220946,Industry
-Finance,Investment Services,48,0.5429286230760891,Industry
-Energy,Oil & Gas,99,0.4714524851136501,Industry
-Energy,Renewable Energy,74,0.29324282175210536,Industry
-Energy,Energy Exploration,28,0.5342123991907537,Industry
-Consumer Goods,Food & Beverage,65,0.33732774640330654,Industry
-Consumer Goods,Household Products,59,0.42446108466317156,Industry
-Consumer Goods,Apparel,40,0.3441948401143192,Industry
-Utilities,Electric,70,0.5796836571581705,Industry
-Utilities,Water,91,0.3639273802259605,Industry
-Utilities,Gas,1,0.6964116359457042,Industry
-Real Estate,Residential,78,0.2501553478747329,Industry
-Real Estate,Commercial,68,0.9828346903769184,Industry
-Real Estate,Industrial,26,0.5875355365951513,Industry
-Telecommunications,Mobile,39,0.6968197055294036,Industry
-Telecommunications,Broadband,53,0.3389580544675771,Industry
-Telecommunications,Satellite,6,0.5572827245187786,Industry
-Materials,Chemicals,95,0.7616044652666055,Industry
-Materials,Metals & Mining,42,0.25428380798559924,Industry
-Materials,Construction Materials,88,0.8692651785929121,Industry
-Industrials,Aerospace & Defense,30,0.25002608323185804,Industry
-Industrials,Machinery,23,0.03034817286663616,Industry
-Industrials,Industrial Services,6,0.9383333643537306,Industry
-Consumer Services,Retail,31,0.14590128300652516,Industry
-Consumer Services,Travel & Leisure,61,0.3764029976897437,Industry
-Consumer Services,Media,0,0.8989643992650032,Industry
-Transportation,Airlines,56,0.061781740651474015,Industry
-Transportation,Railroads,15,0.7135086725581901,Industry
-Transportation,Logistics,66,0.3370192855573215,Industry
+,Bexar,703,0.4882919057588807,Overall
+Bexar,HiTech,86,0.8382210189278412,Sector
+Bexar,Agriculture,58,0.4565972724329922,Sector
+Bexar,Transportation,99,0.526255375136585,Sector
+Bexar,Consumer_Products,13,0.3097380281760914,Sector
+Bexar,Unassigned,55,0.5689180148773025,Sector
+Bexar,Communication,10,0.8486371229536206,Sector
+Bexar,Trade,28,0.9726440104175634,Sector
+Bexar,Business_Services,73,0.3404503732413816,Sector
+Bexar,Business_Products,30,0.41110757030659284,Sector
+Bexar,Construction,30,0.4734926201861387,Sector
+Bexar,Services,13,0.028806128656349905,Sector
+Bexar,Mining,41,0.5204668609793167,Sector
+Bexar,Health_Care,37,0.05464657913791571,Sector
+Bexar,EnergyExpL_Prod,77,0.13577152402310422,Sector
+Bexar,Utilities,53,0.8386260869304151,Sector

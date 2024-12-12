@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,La Salle,1833,0.3182696622086496,Overall
-La Salle,Technology,196,0.2798950877281985,Sector
-La Salle,Healthcare,192,0.8824443725792398,Sector
-La Salle,Finance,138,0.9064252673625973,Sector
-La Salle,Energy,138,0.12141910151602209,Sector
-La Salle,Consumer Goods,164,0.8475613444380866,Sector
-La Salle,Utilities,180,0.9052572248872442,Sector
-La Salle,Real Estate,173,0.48942722866248356,Sector
-La Salle,Telecommunications,189,0.8801813428034501,Sector
-La Salle,Materials,46,0.1240946030108605,Sector
-La Salle,Industrials,201,0.5412590619155143,Sector
-La Salle,Consumer Services,116,0.7100106726154233,Sector
-La Salle,Transportation,100,0.8624168346007416,Sector
-Technology,Software,19,0.22457544223220294,Industry
-Technology,Hardware,87,0.2837290378643913,Industry
-Technology,IT Services,90,0.6191553653080958,Industry
-Healthcare,Pharmaceuticals,91,0.013914228634155479,Industry
-Healthcare,Medical Devices,29,0.898522202141412,Industry
-Healthcare,Healthcare Services,72,0.909284515293997,Industry
-Finance,Banking,50,0.8113788688144876,Industry
-Finance,Insurance,62,0.7853270635103692,Industry
-Finance,Investment Services,26,0.7005571059980497,Industry
-Energy,Oil & Gas,40,0.23322070773847203,Industry
-Energy,Renewable Energy,49,0.1386573955654672,Industry
-Energy,Energy Exploration,49,0.3364227548587433,Industry
-Consumer Goods,Food & Beverage,41,0.961805726163626,Industry
-Consumer Goods,Household Products,75,0.6710315891287109,Industry
-Consumer Goods,Apparel,48,0.446488342242081,Industry
-Utilities,Electric,52,0.04912692004926811,Industry
-Utilities,Water,53,0.632950946785479,Industry
-Utilities,Gas,75,0.6674765446405448,Industry
-Real Estate,Residential,99,0.8259016007804293,Industry
-Real Estate,Commercial,67,0.4109201492895377,Industry
-Real Estate,Industrial,7,0.5404043933016915,Industry
-Telecommunications,Mobile,39,0.7498137639905301,Industry
-Telecommunications,Broadband,76,0.3336822485937623,Industry
-Telecommunications,Satellite,74,0.6596799561056894,Industry
-Materials,Chemicals,1,0.08317569832307836,Industry
-Materials,Metals & Mining,20,0.8495982643710768,Industry
-Materials,Construction Materials,25,0.2796816468755531,Industry
-Industrials,Aerospace & Defense,72,0.5379046204469887,Industry
-Industrials,Machinery,68,0.543468409139594,Industry
-Industrials,Industrial Services,61,0.9761610823472284,Industry
-Consumer Services,Retail,3,0.26932959237570275,Industry
-Consumer Services,Travel & Leisure,38,0.1726843805969589,Industry
-Consumer Services,Media,75,0.4025729633464443,Industry
-Transportation,Airlines,12,0.43008866191124906,Industry
-Transportation,Railroads,68,0.22608396314671964,Industry
-Transportation,Logistics,20,0.8369519058991041,Industry
+,La Salle,693,0.5064931530405631,Overall
+La Salle,HiTech,28,0.1701462348833731,Sector
+La Salle,Agriculture,19,0.27048321125799757,Sector
+La Salle,Transportation,21,0.7780976353946779,Sector
+La Salle,Consumer_Products,70,0.812150380160509,Sector
+La Salle,Unassigned,87,0.0829010812495049,Sector
+La Salle,Communication,7,0.7991439385944695,Sector
+La Salle,Trade,63,0.49417455032609114,Sector
+La Salle,Business_Services,73,0.7038242756151281,Sector
+La Salle,Business_Products,59,0.571506128344621,Sector
+La Salle,Construction,27,0.2641647266165704,Sector
+La Salle,Services,35,0.8230310996385226,Sector
+La Salle,Mining,38,0.5886329105154062,Sector
+La Salle,Health_Care,35,0.5895025473263359,Sector
+La Salle,EnergyExpL_Prod,72,0.5564420098101867,Sector
+La Salle,Utilities,59,0.09319656587505032,Sector

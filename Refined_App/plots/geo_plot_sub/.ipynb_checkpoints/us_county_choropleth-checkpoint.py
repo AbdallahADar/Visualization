@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
-from utils.constants import METADATA_COLUMNS
+from utils.constants import METADATA_COLUMNS, HEATMAP_GEO
 import json
 
 def US_COUNTY_CHOROPLETH(file_name, state, bg_color = "white"):
@@ -25,7 +25,7 @@ def US_COUNTY_CHOROPLETH(file_name, state, bg_color = "white"):
                         locations = COUNTY_COLUMN, 
                         color = GROWTH_RATE_COLUMN,
                         hover_name = COUNTY_NAME,  # Display county name in hover
-                        color_continuous_scale = "Thermal",
+                        color_continuous_scale = HEATMAP_GEO["hot-zones"],
                         scope = 'usa'
                         ).update_traces(hovertemplate='<b>%{hovertext}</b><br>Growth: %{z:.2f}%<extra></extra>',
                                         showlegend=False)

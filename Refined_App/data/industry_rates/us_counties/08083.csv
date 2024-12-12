@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Montezuma,1726,0.020571528625006885,Overall
-Montezuma,Technology,47,0.16765514020019834,Sector
-Montezuma,Healthcare,98,0.21149581581552168,Sector
-Montezuma,Finance,70,0.9892131178267566,Sector
-Montezuma,Energy,169,0.7945268688125842,Sector
-Montezuma,Consumer Goods,154,0.5937791417505607,Sector
-Montezuma,Utilities,214,0.9198263643749939,Sector
-Montezuma,Real Estate,218,0.8824420531235653,Sector
-Montezuma,Telecommunications,169,0.8874853632862499,Sector
-Montezuma,Materials,142,0.37172770701981206,Sector
-Montezuma,Industrials,203,0.5879811719726061,Sector
-Montezuma,Consumer Services,86,0.038680858757457526,Sector
-Montezuma,Transportation,156,0.7581050092183548,Sector
-Technology,Software,10,0.8548059902426998,Industry
-Technology,Hardware,20,0.9244716830177601,Industry
-Technology,IT Services,17,0.7366593942494154,Industry
-Healthcare,Pharmaceuticals,16,0.3706321437572683,Industry
-Healthcare,Medical Devices,26,0.18488507249448316,Industry
-Healthcare,Healthcare Services,56,0.568176988434552,Industry
-Finance,Banking,15,0.24641862951455906,Industry
-Finance,Insurance,20,0.18938745529081458,Industry
-Finance,Investment Services,35,0.6485430850916455,Industry
-Energy,Oil & Gas,53,0.903184906062543,Industry
-Energy,Renewable Energy,43,0.4405640275406182,Industry
-Energy,Energy Exploration,73,0.5023718660517369,Industry
-Consumer Goods,Food & Beverage,21,0.5338305824165379,Industry
-Consumer Goods,Household Products,50,0.031073577687404597,Industry
-Consumer Goods,Apparel,83,0.7165383299280509,Industry
-Utilities,Electric,97,0.9690093837107734,Industry
-Utilities,Water,89,0.3386277361966725,Industry
-Utilities,Gas,28,0.7473683434217057,Industry
-Real Estate,Residential,46,0.4724248572380605,Industry
-Real Estate,Commercial,94,0.09067686030374711,Industry
-Real Estate,Industrial,78,0.33521798747725273,Industry
-Telecommunications,Mobile,50,0.15095357404899123,Industry
-Telecommunications,Broadband,40,0.38607232005569014,Industry
-Telecommunications,Satellite,79,0.09981412629720354,Industry
-Materials,Chemicals,22,0.39430686773453605,Industry
-Materials,Metals & Mining,65,0.12215300218140013,Industry
-Materials,Construction Materials,55,0.7472626256703592,Industry
-Industrials,Aerospace & Defense,95,0.41669054086466195,Industry
-Industrials,Machinery,22,0.6797994093139914,Industry
-Industrials,Industrial Services,86,0.1162190918235686,Industry
-Consumer Services,Retail,24,0.27870974159121964,Industry
-Consumer Services,Travel & Leisure,27,0.46809102632082944,Industry
-Consumer Services,Media,35,0.064426230798449,Industry
-Transportation,Airlines,45,0.40304012218907515,Industry
-Transportation,Railroads,65,0.7595901632774468,Industry
-Transportation,Logistics,46,0.26435168212990556,Industry
+,Montezuma,809,0.4957961896620165,Overall
+Montezuma,HiTech,18,0.8259648970638278,Sector
+Montezuma,Agriculture,58,0.5107449418850457,Sector
+Montezuma,Transportation,5,0.8598400164715013,Sector
+Montezuma,Consumer_Products,12,0.6973280634096447,Sector
+Montezuma,Unassigned,54,0.18833498488407086,Sector
+Montezuma,Communication,31,0.028820408661344055,Sector
+Montezuma,Trade,96,0.08530709889755783,Sector
+Montezuma,Business_Services,20,0.4071052942335037,Sector
+Montezuma,Business_Products,39,0.7371585692434676,Sector
+Montezuma,Construction,95,0.7096327180360271,Sector
+Montezuma,Services,96,0.3075760099212983,Sector
+Montezuma,Mining,79,0.34850022317547713,Sector
+Montezuma,Health_Care,64,0.08452600837892577,Sector
+Montezuma,EnergyExpL_Prod,45,0.7776083171164322,Sector
+Montezuma,Utilities,97,0.868495293552124,Sector

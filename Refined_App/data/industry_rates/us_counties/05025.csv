@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cleveland,1613,0.7230061488679693,Overall
-Cleveland,Technology,253,0.021371431968451815,Sector
-Cleveland,Healthcare,65,0.13461410402536178,Sector
-Cleveland,Finance,89,0.9992242530236535,Sector
-Cleveland,Energy,141,0.2126693911670514,Sector
-Cleveland,Consumer Goods,125,0.4685853651789389,Sector
-Cleveland,Utilities,54,0.5396332973697884,Sector
-Cleveland,Real Estate,142,0.5340924824732259,Sector
-Cleveland,Telecommunications,191,0.3369264574239972,Sector
-Cleveland,Materials,74,0.5159628871191773,Sector
-Cleveland,Industrials,160,0.999324806669439,Sector
-Cleveland,Consumer Services,160,0.43352774847713194,Sector
-Cleveland,Transportation,159,0.40139998427660406,Sector
-Technology,Software,78,0.6560953959484797,Industry
-Technology,Hardware,83,0.9348287684487516,Industry
-Technology,IT Services,92,0.8496430875128422,Industry
-Healthcare,Pharmaceuticals,8,0.08227089139868893,Industry
-Healthcare,Medical Devices,26,0.598284213470385,Industry
-Healthcare,Healthcare Services,31,0.5081307144745513,Industry
-Finance,Banking,11,0.8138298094434151,Industry
-Finance,Insurance,31,0.3656985878820551,Industry
-Finance,Investment Services,47,0.5122776113557986,Industry
-Energy,Oil & Gas,60,0.2695051683463695,Industry
-Energy,Renewable Energy,56,0.10796862688384101,Industry
-Energy,Energy Exploration,25,0.3699990340161786,Industry
-Consumer Goods,Food & Beverage,7,0.6816731550640105,Industry
-Consumer Goods,Household Products,40,0.6327448288866169,Industry
-Consumer Goods,Apparel,78,0.17206395603252045,Industry
-Utilities,Electric,24,0.30680712003838684,Industry
-Utilities,Water,3,0.6378544972451086,Industry
-Utilities,Gas,27,0.9377945379357924,Industry
-Real Estate,Residential,18,0.7990081987629843,Industry
-Real Estate,Commercial,92,0.6914488897034086,Industry
-Real Estate,Industrial,32,0.760759542493655,Industry
-Telecommunications,Mobile,72,0.10593701036685244,Industry
-Telecommunications,Broadband,33,0.38981553522889834,Industry
-Telecommunications,Satellite,86,0.3870153106291787,Industry
-Materials,Chemicals,17,0.4341422331876119,Industry
-Materials,Metals & Mining,46,0.3090067318574258,Industry
-Materials,Construction Materials,11,0.7389781205580009,Industry
-Industrials,Aerospace & Defense,94,0.044350986839190476,Industry
-Industrials,Machinery,22,0.9963778890766134,Industry
-Industrials,Industrial Services,44,0.6059953200430735,Industry
-Consumer Services,Retail,35,0.46050259602623256,Industry
-Consumer Services,Travel & Leisure,41,0.555323118083681,Industry
-Consumer Services,Media,84,0.6011733717514387,Industry
-Transportation,Airlines,81,0.6358902731036354,Industry
-Transportation,Railroads,29,0.4046865999135072,Industry
-Transportation,Logistics,49,0.689049284129834,Industry
+,Cleveland,675,0.5733497903035124,Overall
+Cleveland,HiTech,83,0.9087395770814235,Sector
+Cleveland,Agriculture,42,0.13000139054938364,Sector
+Cleveland,Transportation,3,0.9548869785570518,Sector
+Cleveland,Consumer_Products,20,0.38220141998188895,Sector
+Cleveland,Unassigned,40,0.5017715432450439,Sector
+Cleveland,Communication,58,0.7097584531757724,Sector
+Cleveland,Trade,38,0.4883677806205128,Sector
+Cleveland,Business_Services,70,0.6911985836285769,Sector
+Cleveland,Business_Products,92,0.09552987554133086,Sector
+Cleveland,Construction,6,0.9989479656255273,Sector
+Cleveland,Services,28,0.5300357362638601,Sector
+Cleveland,Mining,79,0.10156223491373395,Sector
+Cleveland,Health_Care,94,0.9821485799082879,Sector
+Cleveland,EnergyExpL_Prod,17,0.34201645151083315,Sector
+Cleveland,Utilities,5,0.7830802839494585,Sector

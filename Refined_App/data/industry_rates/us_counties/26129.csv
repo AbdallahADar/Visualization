@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ogemaw,1647,0.14679253326142294,Overall
-Ogemaw,Technology,118,0.8144322936954659,Sector
-Ogemaw,Healthcare,95,0.19934504392036412,Sector
-Ogemaw,Finance,137,0.39976892461624713,Sector
-Ogemaw,Energy,50,0.9539661663634836,Sector
-Ogemaw,Consumer Goods,131,0.17547796282524086,Sector
-Ogemaw,Utilities,156,0.06700779457425432,Sector
-Ogemaw,Real Estate,172,0.6816538509568155,Sector
-Ogemaw,Telecommunications,136,0.5714795060516985,Sector
-Ogemaw,Materials,161,0.20233920237936254,Sector
-Ogemaw,Industrials,122,0.04530128518416765,Sector
-Ogemaw,Consumer Services,187,0.8813054567340477,Sector
-Ogemaw,Transportation,182,0.7449940377774957,Sector
-Technology,Software,39,0.23281686987014272,Industry
-Technology,Hardware,31,0.12624998788927366,Industry
-Technology,IT Services,48,0.9984735445540238,Industry
-Healthcare,Pharmaceuticals,29,0.11566874643129221,Industry
-Healthcare,Medical Devices,54,0.992862441641057,Industry
-Healthcare,Healthcare Services,12,0.796577923940772,Industry
-Finance,Banking,81,0.22809256933105693,Industry
-Finance,Insurance,6,0.7209721656694493,Industry
-Finance,Investment Services,50,0.609253154707168,Industry
-Energy,Oil & Gas,10,0.19351498624724317,Industry
-Energy,Renewable Energy,8,0.09392960823760566,Industry
-Energy,Energy Exploration,32,0.09214976537696351,Industry
-Consumer Goods,Food & Beverage,21,0.5328345156870422,Industry
-Consumer Goods,Household Products,51,0.2610439955133832,Industry
-Consumer Goods,Apparel,59,0.13856247069362326,Industry
-Utilities,Electric,63,0.7079236079645693,Industry
-Utilities,Water,31,0.731772513700497,Industry
-Utilities,Gas,62,0.12317120295867656,Industry
-Real Estate,Residential,64,0.15658250500045123,Industry
-Real Estate,Commercial,28,0.7948250915427776,Industry
-Real Estate,Industrial,80,0.1004148302700355,Industry
-Telecommunications,Mobile,51,0.7564956443364343,Industry
-Telecommunications,Broadband,17,0.7549966866349959,Industry
-Telecommunications,Satellite,68,0.38867670118271835,Industry
-Materials,Chemicals,32,0.2950572874156726,Industry
-Materials,Metals & Mining,95,0.5818858195901669,Industry
-Materials,Construction Materials,34,0.18902329150320518,Industry
-Industrials,Aerospace & Defense,30,0.278447515194189,Industry
-Industrials,Machinery,33,0.03991320514187391,Industry
-Industrials,Industrial Services,59,0.30534813435264463,Industry
-Consumer Services,Retail,95,0.6698185050583833,Industry
-Consumer Services,Travel & Leisure,80,0.014395358490098986,Industry
-Consumer Services,Media,12,0.9156338981792822,Industry
-Transportation,Airlines,98,0.1419250326609709,Industry
-Transportation,Railroads,30,0.5765393010163216,Industry
-Transportation,Logistics,54,0.7328766028328054,Industry
+,Ogemaw,565,0.43481397409450284,Overall
+Ogemaw,HiTech,86,0.3759298676664504,Sector
+Ogemaw,Agriculture,42,0.6728817062686883,Sector
+Ogemaw,Transportation,34,0.1556517998160184,Sector
+Ogemaw,Consumer_Products,28,0.3010321930036911,Sector
+Ogemaw,Unassigned,14,0.38010180897041623,Sector
+Ogemaw,Communication,12,0.10723761270386578,Sector
+Ogemaw,Trade,3,0.6297946352352535,Sector
+Ogemaw,Business_Services,89,0.15181464259973876,Sector
+Ogemaw,Business_Products,13,0.8718411576691095,Sector
+Ogemaw,Construction,37,0.426390443743359,Sector
+Ogemaw,Services,7,0.8542462956971648,Sector
+Ogemaw,Mining,69,0.08505317477346352,Sector
+Ogemaw,Health_Care,12,0.19446762765686687,Sector
+Ogemaw,EnergyExpL_Prod,40,0.8453187604500586,Sector
+Ogemaw,Utilities,79,0.4704478851633974,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Briscoe,1872,0.8135101504350069,Overall
-Briscoe,Technology,111,0.9530024973399516,Sector
-Briscoe,Healthcare,169,0.44378189613706276,Sector
-Briscoe,Finance,131,0.6096404003056017,Sector
-Briscoe,Energy,45,0.27190927775370255,Sector
-Briscoe,Consumer Goods,110,0.5156947810679277,Sector
-Briscoe,Utilities,104,0.27816611181329154,Sector
-Briscoe,Real Estate,263,0.6535265481566336,Sector
-Briscoe,Telecommunications,265,0.5180222299611176,Sector
-Briscoe,Materials,225,0.640163436874892,Sector
-Briscoe,Industrials,224,0.3923039855283691,Sector
-Briscoe,Consumer Services,76,0.8681748942287693,Sector
-Briscoe,Transportation,149,0.7678216537011562,Sector
-Technology,Software,59,0.6736289963544441,Industry
-Technology,Hardware,21,0.04298742703626568,Industry
-Technology,IT Services,31,0.692437067435134,Industry
-Healthcare,Pharmaceuticals,82,0.4360195206190238,Industry
-Healthcare,Medical Devices,41,0.22364825294352586,Industry
-Healthcare,Healthcare Services,46,0.04502535922379969,Industry
-Finance,Banking,58,0.2282741162950681,Industry
-Finance,Insurance,33,0.9522948416861386,Industry
-Finance,Investment Services,40,0.6199403017569249,Industry
-Energy,Oil & Gas,10,0.1473238252482919,Industry
-Energy,Renewable Energy,23,0.2286157874206416,Industry
-Energy,Energy Exploration,12,0.20967497215060882,Industry
-Consumer Goods,Food & Beverage,65,0.5953173006184519,Industry
-Consumer Goods,Household Products,30,0.24386671499709556,Industry
-Consumer Goods,Apparel,15,0.5864079649231037,Industry
-Utilities,Electric,13,0.6513524809787746,Industry
-Utilities,Water,59,0.15286364942457675,Industry
-Utilities,Gas,32,0.3924949971494144,Industry
-Real Estate,Residential,97,0.18949978036727644,Industry
-Real Estate,Commercial,75,0.8517188845366325,Industry
-Real Estate,Industrial,91,0.8493290282995941,Industry
-Telecommunications,Mobile,88,0.318792936973493,Industry
-Telecommunications,Broadband,83,0.7473368211454976,Industry
-Telecommunications,Satellite,94,0.5006090897267582,Industry
-Materials,Chemicals,91,0.2203749042131512,Industry
-Materials,Metals & Mining,81,0.009367691812019019,Industry
-Materials,Construction Materials,53,0.9437130691048686,Industry
-Industrials,Aerospace & Defense,98,0.3714988737507964,Industry
-Industrials,Machinery,83,0.8909659801240304,Industry
-Industrials,Industrial Services,43,0.2646534078873135,Industry
-Consumer Services,Retail,32,0.3031756034603258,Industry
-Consumer Services,Travel & Leisure,18,0.050949468721403934,Industry
-Consumer Services,Media,26,0.10211109499976789,Industry
-Transportation,Airlines,94,0.7847629788421057,Industry
-Transportation,Railroads,15,0.8186143287225895,Industry
-Transportation,Logistics,40,0.9754470037346248,Industry
+,Briscoe,845,0.5476222602829002,Overall
+Briscoe,HiTech,61,0.43903115831816775,Sector
+Briscoe,Agriculture,35,0.9442792338429814,Sector
+Briscoe,Transportation,88,0.00050399901023368,Sector
+Briscoe,Consumer_Products,37,0.9406740688263063,Sector
+Briscoe,Unassigned,96,0.22098498391445376,Sector
+Briscoe,Communication,33,0.5352131540051902,Sector
+Briscoe,Trade,23,0.973356168885039,Sector
+Briscoe,Business_Services,79,0.9371478550350323,Sector
+Briscoe,Business_Products,87,0.6024296241827495,Sector
+Briscoe,Construction,98,0.6685476585066508,Sector
+Briscoe,Services,81,0.2932107708706505,Sector
+Briscoe,Mining,1,0.918247719076667,Sector
+Briscoe,Health_Care,47,0.35972541727453633,Sector
+Briscoe,EnergyExpL_Prod,23,0.1944208632290847,Sector
+Briscoe,Utilities,56,0.18656122926575913,Sector

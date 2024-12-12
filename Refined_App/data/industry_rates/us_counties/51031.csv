@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Campbell,2000,0.9106432968200145,Overall
-Campbell,Technology,162,0.7687676539883006,Sector
-Campbell,Healthcare,61,0.9232746273639367,Sector
-Campbell,Finance,171,0.12240271670870262,Sector
-Campbell,Energy,131,0.048987067382190275,Sector
-Campbell,Consumer Goods,156,0.25397704440865765,Sector
-Campbell,Utilities,217,0.27637988481617193,Sector
-Campbell,Real Estate,222,0.16462028978820686,Sector
-Campbell,Telecommunications,189,0.40146083685011746,Sector
-Campbell,Materials,129,0.10085312357817544,Sector
-Campbell,Industrials,222,0.5071551436738752,Sector
-Campbell,Consumer Services,189,0.6167692721936615,Sector
-Campbell,Transportation,151,0.028379338968355206,Sector
-Technology,Software,47,0.02298947709607757,Industry
-Technology,Hardware,65,0.7052271990702759,Industry
-Technology,IT Services,50,0.46403332848345746,Industry
-Healthcare,Pharmaceuticals,27,0.5016862410665942,Industry
-Healthcare,Medical Devices,10,0.8858535489025574,Industry
-Healthcare,Healthcare Services,24,0.4695498032199993,Industry
-Finance,Banking,96,0.015714116527409727,Industry
-Finance,Insurance,6,0.8978216208675392,Industry
-Finance,Investment Services,69,0.7808089300754558,Industry
-Energy,Oil & Gas,19,0.3926005152323756,Industry
-Energy,Renewable Energy,76,0.2843538215882454,Industry
-Energy,Energy Exploration,36,0.40336938401051925,Industry
-Consumer Goods,Food & Beverage,67,0.41580896646566157,Industry
-Consumer Goods,Household Products,26,0.9082339770395924,Industry
-Consumer Goods,Apparel,63,0.9261899106187609,Industry
-Utilities,Electric,80,0.37856427928064385,Industry
-Utilities,Water,42,0.27045462991079516,Industry
-Utilities,Gas,95,0.9119240745504403,Industry
-Real Estate,Residential,97,0.2689892004480684,Industry
-Real Estate,Commercial,59,0.6275321391567672,Industry
-Real Estate,Industrial,66,0.8630263975985256,Industry
-Telecommunications,Mobile,74,0.6165846583563018,Industry
-Telecommunications,Broadband,96,0.604972767049221,Industry
-Telecommunications,Satellite,19,0.1510881605531892,Industry
-Materials,Chemicals,80,0.6120043100853485,Industry
-Materials,Metals & Mining,33,0.4335323025741965,Industry
-Materials,Construction Materials,16,0.33841884898741426,Industry
-Industrials,Aerospace & Defense,32,0.039919161509515244,Industry
-Industrials,Machinery,96,0.2611610945288716,Industry
-Industrials,Industrial Services,94,0.061654785616757524,Industry
-Consumer Services,Retail,37,0.5997248596707629,Industry
-Consumer Services,Travel & Leisure,83,0.9282801992910649,Industry
-Consumer Services,Media,69,0.644479700715564,Industry
-Transportation,Airlines,11,0.044691281514219194,Industry
-Transportation,Railroads,74,0.8688619640816961,Industry
-Transportation,Logistics,66,0.3126422072254432,Industry
+,Campbell,639,0.47105843269361475,Overall
+Campbell,HiTech,40,0.23384678260980085,Sector
+Campbell,Agriculture,22,0.8410764462765687,Sector
+Campbell,Transportation,58,0.8709282217042682,Sector
+Campbell,Consumer_Products,39,0.9922065015668992,Sector
+Campbell,Unassigned,9,0.4696370372290297,Sector
+Campbell,Communication,57,0.12141748912172246,Sector
+Campbell,Trade,26,0.04980344821700877,Sector
+Campbell,Business_Services,87,0.4880344239357861,Sector
+Campbell,Business_Products,93,0.46268731645288064,Sector
+Campbell,Construction,41,0.3082102549284359,Sector
+Campbell,Services,8,0.1382181316518133,Sector
+Campbell,Mining,79,0.12875989487717188,Sector
+Campbell,Health_Care,8,0.37707594545591383,Sector
+Campbell,EnergyExpL_Prod,6,0.6806616560703178,Sector
+Campbell,Utilities,66,0.9033129403066039,Sector

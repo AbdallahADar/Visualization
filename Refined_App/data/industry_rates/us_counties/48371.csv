@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pecos,1987,0.6617740860013079,Overall
-Pecos,Technology,234,0.38945455670063134,Sector
-Pecos,Healthcare,178,0.13702265643015465,Sector
-Pecos,Finance,206,0.3970706580631639,Sector
-Pecos,Energy,108,0.4330537242607687,Sector
-Pecos,Consumer Goods,163,0.5627287304214025,Sector
-Pecos,Utilities,213,0.12197724285288158,Sector
-Pecos,Real Estate,176,0.8128507383692833,Sector
-Pecos,Telecommunications,82,0.5126534285234847,Sector
-Pecos,Materials,151,0.7421793273061541,Sector
-Pecos,Industrials,204,0.5962960754735104,Sector
-Pecos,Consumer Services,69,0.2897281117037961,Sector
-Pecos,Transportation,203,0.3506905526724252,Sector
-Technology,Software,83,0.8742537940402259,Industry
-Technology,Hardware,80,0.6162805788707175,Industry
-Technology,IT Services,71,0.5422615597462082,Industry
-Healthcare,Pharmaceuticals,25,0.654859332962574,Industry
-Healthcare,Medical Devices,96,0.8770959341850025,Industry
-Healthcare,Healthcare Services,57,0.7269483023611244,Industry
-Finance,Banking,78,0.613070669324349,Industry
-Finance,Insurance,83,0.13556078465113053,Industry
-Finance,Investment Services,45,0.6258297046192745,Industry
-Energy,Oil & Gas,34,0.10987337294681032,Industry
-Energy,Renewable Energy,36,0.6096932109421977,Industry
-Energy,Energy Exploration,38,0.1986929910858849,Industry
-Consumer Goods,Food & Beverage,64,0.999595689002876,Industry
-Consumer Goods,Household Products,78,0.8986076108993853,Industry
-Consumer Goods,Apparel,21,0.9458000187604326,Industry
-Utilities,Electric,82,0.7979802471307277,Industry
-Utilities,Water,76,0.29921349738175274,Industry
-Utilities,Gas,55,0.8515000151700215,Industry
-Real Estate,Residential,50,0.7825527477611045,Industry
-Real Estate,Commercial,61,0.4725799417077239,Industry
-Real Estate,Industrial,65,0.35778882495388176,Industry
-Telecommunications,Mobile,55,0.7297413190692069,Industry
-Telecommunications,Broadband,27,0.6734385460040558,Industry
-Telecommunications,Satellite,0,0.3123977097178239,Industry
-Materials,Chemicals,96,0.17112652754722213,Industry
-Materials,Metals & Mining,18,0.0821635179030269,Industry
-Materials,Construction Materials,37,0.03592786766011724,Industry
-Industrials,Aerospace & Defense,98,0.9797875471598876,Industry
-Industrials,Machinery,15,0.8255468387122047,Industry
-Industrials,Industrial Services,91,0.445923552012057,Industry
-Consumer Services,Retail,9,0.25450970755184243,Industry
-Consumer Services,Travel & Leisure,51,0.07240565728996251,Industry
-Consumer Services,Media,9,0.3214595380700913,Industry
-Transportation,Airlines,62,0.7176023992468419,Industry
-Transportation,Railroads,71,0.9867013446975582,Industry
-Transportation,Logistics,70,0.3904241885563655,Industry
+,Pecos,783,0.5508721252562288,Overall
+Pecos,HiTech,83,0.9159333514811268,Sector
+Pecos,Agriculture,33,0.603802844863593,Sector
+Pecos,Transportation,27,0.492680024445741,Sector
+Pecos,Consumer_Products,64,0.14792596678686787,Sector
+Pecos,Unassigned,54,0.9397691431029547,Sector
+Pecos,Communication,4,0.3852763949410791,Sector
+Pecos,Trade,54,0.28175016608699943,Sector
+Pecos,Business_Services,6,0.3184248480414582,Sector
+Pecos,Business_Products,82,0.18769451707561602,Sector
+Pecos,Construction,74,0.4153539560379027,Sector
+Pecos,Services,11,0.9979657280002184,Sector
+Pecos,Mining,81,0.9168657770516139,Sector
+Pecos,Health_Care,90,0.22430102771987637,Sector
+Pecos,EnergyExpL_Prod,35,0.7632853553013321,Sector
+Pecos,Utilities,85,0.6720527779070523,Sector

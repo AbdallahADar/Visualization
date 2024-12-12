@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wilson,1898,0.27732196979131796,Overall
-Wilson,Technology,218,0.09674488388954072,Sector
-Wilson,Healthcare,106,0.5002387670758979,Sector
-Wilson,Finance,144,0.5072436419376625,Sector
-Wilson,Energy,126,0.2753142458315516,Sector
-Wilson,Consumer Goods,115,0.714250429504317,Sector
-Wilson,Utilities,219,0.3014291609430334,Sector
-Wilson,Real Estate,147,0.03246390574889435,Sector
-Wilson,Telecommunications,197,0.5300855807152707,Sector
-Wilson,Materials,126,0.3864032696050176,Sector
-Wilson,Industrials,208,0.6327781130930891,Sector
-Wilson,Consumer Services,180,0.6158816477086404,Sector
-Wilson,Transportation,112,0.3452746845624892,Sector
-Technology,Software,68,0.42424920035006053,Industry
-Technology,Hardware,91,0.4796560257445456,Industry
-Technology,IT Services,59,0.9458034272305453,Industry
-Healthcare,Pharmaceuticals,8,0.4067982401272189,Industry
-Healthcare,Medical Devices,49,0.402894143064355,Industry
-Healthcare,Healthcare Services,49,0.21239519993244171,Industry
-Finance,Banking,65,0.055062518309224484,Industry
-Finance,Insurance,4,0.2955061237914891,Industry
-Finance,Investment Services,75,0.9060851914851427,Industry
-Energy,Oil & Gas,39,0.6084507994457415,Industry
-Energy,Renewable Energy,47,0.18245421660821382,Industry
-Energy,Energy Exploration,40,0.6747781827952096,Industry
-Consumer Goods,Food & Beverage,76,0.8101422234799582,Industry
-Consumer Goods,Household Products,34,0.4558420199887099,Industry
-Consumer Goods,Apparel,5,0.5274798575352819,Industry
-Utilities,Electric,71,0.23179926074118973,Industry
-Utilities,Water,51,0.8599664313295822,Industry
-Utilities,Gas,97,0.43050823199150023,Industry
-Real Estate,Residential,75,0.28773551994167124,Industry
-Real Estate,Commercial,30,0.2506678842605823,Industry
-Real Estate,Industrial,42,0.8103526395641689,Industry
-Telecommunications,Mobile,94,0.021970000003213586,Industry
-Telecommunications,Broadband,92,0.5508128727508685,Industry
-Telecommunications,Satellite,11,0.004198914527993591,Industry
-Materials,Chemicals,85,0.6580685656070199,Industry
-Materials,Metals & Mining,14,0.768156354814494,Industry
-Materials,Construction Materials,27,0.35539024962827537,Industry
-Industrials,Aerospace & Defense,96,0.24509169597648794,Industry
-Industrials,Machinery,65,0.39938587809065595,Industry
-Industrials,Industrial Services,47,0.12771467048685536,Industry
-Consumer Services,Retail,68,0.0945638207688948,Industry
-Consumer Services,Travel & Leisure,85,0.40047900070558495,Industry
-Consumer Services,Media,27,0.46548107586789944,Industry
-Transportation,Airlines,1,0.3486316010309751,Industry
-Transportation,Railroads,68,0.9227930630174374,Industry
-Transportation,Logistics,43,0.6171106116746676,Industry
+,Wilson,763,0.41270476173637305,Overall
+Wilson,HiTech,48,0.1532625934001709,Sector
+Wilson,Agriculture,20,0.0462251388784215,Sector
+Wilson,Transportation,66,0.09094397565311596,Sector
+Wilson,Consumer_Products,63,0.9717659282469716,Sector
+Wilson,Unassigned,58,0.7609990695544068,Sector
+Wilson,Communication,16,0.0882896678345283,Sector
+Wilson,Trade,95,0.7925201250110503,Sector
+Wilson,Business_Services,22,0.6146272301210559,Sector
+Wilson,Business_Products,78,0.10563065541174788,Sector
+Wilson,Construction,49,0.7520344359483522,Sector
+Wilson,Services,63,0.7523197455561926,Sector
+Wilson,Mining,67,0.06203073438121942,Sector
+Wilson,Health_Care,80,0.31713723602379806,Sector
+Wilson,EnergyExpL_Prod,25,0.037820395840662546,Sector
+Wilson,Utilities,13,0.6449644941839018,Sector

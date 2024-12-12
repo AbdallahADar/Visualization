@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sedgwick,1805,0.5803848581576412,Overall
-Sedgwick,Technology,107,0.27357771061677383,Sector
-Sedgwick,Healthcare,124,0.09772353017867697,Sector
-Sedgwick,Finance,147,0.9725870455250232,Sector
-Sedgwick,Energy,147,0.9852834594165891,Sector
-Sedgwick,Consumer Goods,205,0.6582598983364341,Sector
-Sedgwick,Utilities,83,0.9761724674978713,Sector
-Sedgwick,Real Estate,183,0.123482297312421,Sector
-Sedgwick,Telecommunications,216,0.12999095471155586,Sector
-Sedgwick,Materials,237,0.14759609394673445,Sector
-Sedgwick,Industrials,100,0.45901067447552435,Sector
-Sedgwick,Consumer Services,166,0.8402863631721977,Sector
-Sedgwick,Transportation,90,0.13425144463418015,Sector
-Technology,Software,92,0.5815037213955433,Industry
-Technology,Hardware,5,0.11079392913104247,Industry
-Technology,IT Services,10,0.32330280908716336,Industry
-Healthcare,Pharmaceuticals,70,0.9129218189238464,Industry
-Healthcare,Medical Devices,24,0.8586145307585272,Industry
-Healthcare,Healthcare Services,30,0.9175621549851575,Industry
-Finance,Banking,75,0.7707621241705999,Industry
-Finance,Insurance,10,0.8546757040858833,Industry
-Finance,Investment Services,62,0.24560552783369805,Industry
-Energy,Oil & Gas,95,0.7851535749999821,Industry
-Energy,Renewable Energy,39,0.9313041439505029,Industry
-Energy,Energy Exploration,13,0.535913318286007,Industry
-Consumer Goods,Food & Beverage,78,0.21178013409200147,Industry
-Consumer Goods,Household Products,64,0.47604526458041185,Industry
-Consumer Goods,Apparel,63,0.18310766199478867,Industry
-Utilities,Electric,8,0.43956040544570807,Industry
-Utilities,Water,60,0.7352905453501055,Industry
-Utilities,Gas,15,0.29009568183553014,Industry
-Real Estate,Residential,79,0.9853652597644361,Industry
-Real Estate,Commercial,56,0.886629707122956,Industry
-Real Estate,Industrial,48,0.2606172056100252,Industry
-Telecommunications,Mobile,94,0.32166506007924556,Industry
-Telecommunications,Broadband,97,0.3068837504197762,Industry
-Telecommunications,Satellite,25,0.20643026569388334,Industry
-Materials,Chemicals,79,0.35197398558605786,Industry
-Materials,Metals & Mining,90,0.5322807871750711,Industry
-Materials,Construction Materials,68,0.5946525584079212,Industry
-Industrials,Aerospace & Defense,4,0.5956440275978109,Industry
-Industrials,Machinery,90,0.7236393907749334,Industry
-Industrials,Industrial Services,6,0.42505114790970644,Industry
-Consumer Services,Retail,64,0.39410942953949124,Industry
-Consumer Services,Travel & Leisure,59,0.1685761660329207,Industry
-Consumer Services,Media,43,0.9980088566781933,Industry
-Transportation,Airlines,31,0.9915452274165781,Industry
-Transportation,Railroads,29,0.853070662395952,Industry
-Transportation,Logistics,30,0.02299076469119965,Industry
+,Sedgwick,598,0.5543930858244627,Overall
+Sedgwick,HiTech,25,0.0790956412352285,Sector
+Sedgwick,Agriculture,55,0.6175196734559836,Sector
+Sedgwick,Transportation,36,0.5935274868242243,Sector
+Sedgwick,Consumer_Products,18,0.5709651849969803,Sector
+Sedgwick,Unassigned,86,0.6908081176781157,Sector
+Sedgwick,Communication,79,0.3457684872026229,Sector
+Sedgwick,Trade,28,0.9422118387364237,Sector
+Sedgwick,Business_Services,49,0.8806519760629478,Sector
+Sedgwick,Business_Products,11,0.6344763055676775,Sector
+Sedgwick,Construction,26,0.8187898613409694,Sector
+Sedgwick,Services,9,0.7248850272128966,Sector
+Sedgwick,Mining,49,0.36125639481556904,Sector
+Sedgwick,Health_Care,80,0.028349651974192147,Sector
+Sedgwick,EnergyExpL_Prod,23,0.05807871916380247,Sector
+Sedgwick,Utilities,24,0.9695119210993057,Sector

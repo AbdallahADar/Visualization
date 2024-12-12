@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Brunswick,1947,0.9791626549463606,Overall
-Brunswick,Technology,136,0.9036145763269756,Sector
-Brunswick,Healthcare,112,0.09909242592443701,Sector
-Brunswick,Finance,236,0.15296306875416188,Sector
-Brunswick,Energy,58,0.8464176220150752,Sector
-Brunswick,Consumer Goods,221,0.7783344661874585,Sector
-Brunswick,Utilities,215,0.9378611073287646,Sector
-Brunswick,Real Estate,145,0.31154793730570507,Sector
-Brunswick,Telecommunications,121,0.5587282767566669,Sector
-Brunswick,Materials,195,0.4467622494886545,Sector
-Brunswick,Industrials,151,0.07472130366101193,Sector
-Brunswick,Consumer Services,191,0.012156435386899922,Sector
-Brunswick,Transportation,166,0.44182487163362405,Sector
-Technology,Software,30,0.04778901380303735,Industry
-Technology,Hardware,92,0.7920567848285911,Industry
-Technology,IT Services,14,0.4774209284368801,Industry
-Healthcare,Pharmaceuticals,14,0.7871970125905381,Industry
-Healthcare,Medical Devices,35,0.8410501189215835,Industry
-Healthcare,Healthcare Services,63,0.54455207926733,Industry
-Finance,Banking,73,0.6778175864288346,Industry
-Finance,Insurance,98,0.9868777915159705,Industry
-Finance,Investment Services,65,0.3298813836777045,Industry
-Energy,Oil & Gas,22,0.4629860152142352,Industry
-Energy,Renewable Energy,35,0.6334474134109788,Industry
-Energy,Energy Exploration,1,0.9262211038149739,Industry
-Consumer Goods,Food & Beverage,66,0.8446220756959558,Industry
-Consumer Goods,Household Products,93,0.5471501518558257,Industry
-Consumer Goods,Apparel,62,0.6784491855643406,Industry
-Utilities,Electric,35,0.6925781562740772,Industry
-Utilities,Water,97,0.6299551494724676,Industry
-Utilities,Gas,83,0.08778544187878567,Industry
-Real Estate,Residential,57,0.6973477408012622,Industry
-Real Estate,Commercial,82,0.29442465653037697,Industry
-Real Estate,Industrial,6,0.799591467697774,Industry
-Telecommunications,Mobile,43,0.020845295542838316,Industry
-Telecommunications,Broadband,68,0.9298179503611201,Industry
-Telecommunications,Satellite,10,0.3442019124813428,Industry
-Materials,Chemicals,44,0.7775673258021056,Industry
-Materials,Metals & Mining,78,0.10139063787791447,Industry
-Materials,Construction Materials,73,0.8403053688360249,Industry
-Industrials,Aerospace & Defense,17,0.1652711995475885,Industry
-Industrials,Machinery,47,0.15859816598088594,Industry
-Industrials,Industrial Services,87,0.962932161200142,Industry
-Consumer Services,Retail,57,0.0460118241322135,Industry
-Consumer Services,Travel & Leisure,52,0.8288245259347587,Industry
-Consumer Services,Media,82,0.8061566659914153,Industry
-Transportation,Airlines,89,0.2734465716832444,Industry
-Transportation,Railroads,76,0.21940526198548926,Industry
-Transportation,Logistics,1,0.09223584865663026,Industry
+,Brunswick,851,0.45098688478793647,Overall
+Brunswick,HiTech,72,0.10773808438918686,Sector
+Brunswick,Agriculture,45,0.20561119134493888,Sector
+Brunswick,Transportation,50,0.7372760416783563,Sector
+Brunswick,Consumer_Products,13,0.37803282585967957,Sector
+Brunswick,Unassigned,93,0.27578339359284054,Sector
+Brunswick,Communication,92,0.519378722522407,Sector
+Brunswick,Trade,27,0.019354055271531,Sector
+Brunswick,Business_Services,68,0.9689078975370793,Sector
+Brunswick,Business_Products,43,0.9593614302569206,Sector
+Brunswick,Construction,24,0.47942229905914846,Sector
+Brunswick,Services,18,0.26649059927662344,Sector
+Brunswick,Mining,94,0.5078900460993029,Sector
+Brunswick,Health_Care,83,0.4897764938635527,Sector
+Brunswick,EnergyExpL_Prod,73,0.13740500883838813,Sector
+Brunswick,Utilities,56,0.7123751822290919,Sector

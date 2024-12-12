@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Logan,1823,0.062044907036809094,Overall
-Logan,Technology,214,0.034165286857883115,Sector
-Logan,Healthcare,213,0.9968073124631285,Sector
-Logan,Finance,186,0.14357646110033095,Sector
-Logan,Energy,122,0.9611980337313704,Sector
-Logan,Consumer Goods,59,0.30441493154056554,Sector
-Logan,Utilities,125,0.952128788182206,Sector
-Logan,Real Estate,174,0.154874191305009,Sector
-Logan,Telecommunications,141,0.8339981387321567,Sector
-Logan,Materials,116,0.37780223082033093,Sector
-Logan,Industrials,142,0.19291239662627935,Sector
-Logan,Consumer Services,148,0.556225614029775,Sector
-Logan,Transportation,183,0.2681695450451911,Sector
-Technology,Software,95,0.22546330560613836,Industry
-Technology,Hardware,68,0.7937259479573738,Industry
-Technology,IT Services,51,0.8450298469198024,Industry
-Healthcare,Pharmaceuticals,87,0.15012492152266388,Industry
-Healthcare,Medical Devices,94,0.5764634220717338,Industry
-Healthcare,Healthcare Services,32,0.6059941617688966,Industry
-Finance,Banking,74,0.6472667393042049,Industry
-Finance,Insurance,98,0.6831063220175987,Industry
-Finance,Investment Services,14,0.5308449561405357,Industry
-Energy,Oil & Gas,35,0.701500455784261,Industry
-Energy,Renewable Energy,46,0.21982411570932203,Industry
-Energy,Energy Exploration,41,0.5317484290142225,Industry
-Consumer Goods,Food & Beverage,2,0.3672501823874168,Industry
-Consumer Goods,Household Products,1,0.1736065235260873,Industry
-Consumer Goods,Apparel,56,0.42787681001293876,Industry
-Utilities,Electric,92,0.7864007800931236,Industry
-Utilities,Water,27,0.673859221377571,Industry
-Utilities,Gas,6,0.6902701229918448,Industry
-Real Estate,Residential,30,0.8133933660428748,Industry
-Real Estate,Commercial,93,0.6519725774232276,Industry
-Real Estate,Industrial,51,0.2994833006210944,Industry
-Telecommunications,Mobile,31,0.4136091716852477,Industry
-Telecommunications,Broadband,61,0.8607065931572738,Industry
-Telecommunications,Satellite,49,0.5022996032681926,Industry
-Materials,Chemicals,27,0.09934534177176857,Industry
-Materials,Metals & Mining,41,0.8179413524890664,Industry
-Materials,Construction Materials,48,0.08626837021731526,Industry
-Industrials,Aerospace & Defense,88,0.7464049792024726,Industry
-Industrials,Machinery,44,0.11911509354897709,Industry
-Industrials,Industrial Services,10,0.9426068359769935,Industry
-Consumer Services,Retail,79,0.33424700449225586,Industry
-Consumer Services,Travel & Leisure,0,0.08808830113460664,Industry
-Consumer Services,Media,69,0.15340365597523797,Industry
-Transportation,Airlines,61,0.34940269719278494,Industry
-Transportation,Railroads,42,0.495666209052813,Industry
-Transportation,Logistics,80,0.04171444921436884,Industry
+,Logan,650,0.5210461658174734,Overall
+Logan,HiTech,12,0.5592883787079461,Sector
+Logan,Agriculture,41,0.8172360437365319,Sector
+Logan,Transportation,63,0.16780473233204962,Sector
+Logan,Consumer_Products,35,0.30480558218537124,Sector
+Logan,Unassigned,14,0.5459399087932075,Sector
+Logan,Communication,52,0.8731864701571433,Sector
+Logan,Trade,59,0.6661843405946151,Sector
+Logan,Business_Services,25,0.8689680084795142,Sector
+Logan,Business_Products,51,0.782698043115595,Sector
+Logan,Construction,72,0.8558947199588263,Sector
+Logan,Services,5,0.1985766918423345,Sector
+Logan,Mining,17,0.2738132098122057,Sector
+Logan,Health_Care,81,0.45091132754588636,Sector
+Logan,EnergyExpL_Prod,54,0.40738063119136214,Sector
+Logan,Utilities,69,0.0430043988095139,Sector

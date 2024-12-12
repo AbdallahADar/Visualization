@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Prahova,1797,0.09694217973517605,Overall
-Prahova,Technology,200,0.8245672371703898,Sector
-Prahova,Healthcare,128,0.33130307651615765,Sector
-Prahova,Finance,146,0.2301985370772165,Sector
-Prahova,Energy,85,0.9112667366691404,Sector
-Prahova,Consumer Goods,216,0.9713210787416973,Sector
-Prahova,Utilities,186,0.6430191197881325,Sector
-Prahova,Real Estate,211,0.32275190987599567,Sector
-Prahova,Telecommunications,175,0.9514057702900004,Sector
-Prahova,Materials,111,0.997547681563259,Sector
-Prahova,Industrials,157,0.6267308957804496,Sector
-Prahova,Consumer Services,62,0.6112872226537739,Sector
-Prahova,Transportation,120,0.47467175634744263,Sector
-Technology,Software,89,0.01564701289216308,Industry
-Technology,Hardware,57,0.910539587815299,Industry
-Technology,IT Services,54,0.6151625675803043,Industry
-Healthcare,Pharmaceuticals,1,0.9945802020647039,Industry
-Healthcare,Medical Devices,77,0.3130753075698942,Industry
-Healthcare,Healthcare Services,50,0.08143868145415922,Industry
-Finance,Banking,98,0.676654481269227,Industry
-Finance,Insurance,2,0.638481425048618,Industry
-Finance,Investment Services,46,0.036758691763791984,Industry
-Energy,Oil & Gas,26,0.03881243291762215,Industry
-Energy,Renewable Energy,44,0.679379477645376,Industry
-Energy,Energy Exploration,15,0.8723471775808026,Industry
-Consumer Goods,Food & Beverage,83,0.4961625591235467,Industry
-Consumer Goods,Household Products,66,0.536233361589829,Industry
-Consumer Goods,Apparel,67,0.49653728591556456,Industry
-Utilities,Electric,61,0.8142442519524291,Industry
-Utilities,Water,62,0.7677729943310193,Industry
-Utilities,Gas,63,0.4406314794622419,Industry
-Real Estate,Residential,47,0.8371846344373685,Industry
-Real Estate,Commercial,80,0.07066887298554603,Industry
-Real Estate,Industrial,84,0.3254708533690981,Industry
-Telecommunications,Mobile,54,0.4128043010218071,Industry
-Telecommunications,Broadband,65,0.9507577664827092,Industry
-Telecommunications,Satellite,56,0.32706319475707124,Industry
-Materials,Chemicals,5,0.2972759495900805,Industry
-Materials,Metals & Mining,13,0.15885137428362495,Industry
-Materials,Construction Materials,93,0.628074708535695,Industry
-Industrials,Aerospace & Defense,12,0.102714390182164,Industry
-Industrials,Machinery,78,0.9063408688210758,Industry
-Industrials,Industrial Services,67,0.5450516963349143,Industry
-Consumer Services,Retail,34,0.20645863105698348,Industry
-Consumer Services,Travel & Leisure,20,0.7740935754051889,Industry
-Consumer Services,Media,8,0.19853204509198763,Industry
-Transportation,Airlines,23,0.38433581921193294,Industry
-Transportation,Railroads,79,0.941781302923969,Industry
-Transportation,Logistics,18,0.814488816530759,Industry
+,Prahova,922,0.49649022275664595,Overall
+Prahova,HiTech,83,0.675003775650567,Sector
+Prahova,Agriculture,32,0.6279004580613313,Sector
+Prahova,Transportation,60,0.3301079860086652,Sector
+Prahova,Consumer_Products,46,0.6415590996885421,Sector
+Prahova,Unassigned,65,0.01840082862368242,Sector
+Prahova,Communication,2,0.7336563270079719,Sector
+Prahova,Trade,42,0.10719108220853313,Sector
+Prahova,Business_Services,79,0.91313176210085,Sector
+Prahova,Business_Products,76,0.5672417190726164,Sector
+Prahova,Construction,87,0.37051842302270666,Sector
+Prahova,Services,32,0.04433757010753969,Sector
+Prahova,Mining,97,0.9775969959806883,Sector
+Prahova,Health_Care,90,0.24219220440934075,Sector
+Prahova,EnergyExpL_Prod,66,0.55920227212996,Sector
+Prahova,Utilities,65,0.6393128372766945,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,St. Clair,1734,0.6864409762942418,Overall
-St. Clair,Technology,108,0.0899889295230244,Sector
-St. Clair,Healthcare,214,0.3160177567654714,Sector
-St. Clair,Finance,71,0.4662656454783316,Sector
-St. Clair,Energy,130,0.938332636440235,Sector
-St. Clair,Consumer Goods,200,0.7786424695491779,Sector
-St. Clair,Utilities,169,0.34898031548068587,Sector
-St. Clair,Real Estate,189,0.4941667784258337,Sector
-St. Clair,Telecommunications,97,0.13196549395280477,Sector
-St. Clair,Materials,91,0.42235300642578466,Sector
-St. Clair,Industrials,144,0.9356959017332722,Sector
-St. Clair,Consumer Services,147,0.6460644062509879,Sector
-St. Clair,Transportation,174,0.8119075367922162,Sector
-Technology,Software,2,0.004241001719001325,Industry
-Technology,Hardware,61,0.2198074977335467,Industry
-Technology,IT Services,45,0.2010453656461506,Industry
-Healthcare,Pharmaceuticals,91,0.20532338847166098,Industry
-Healthcare,Medical Devices,56,0.6766300799502656,Industry
-Healthcare,Healthcare Services,67,0.9296574584977002,Industry
-Finance,Banking,8,0.3388250184997591,Industry
-Finance,Insurance,46,0.37154392485388144,Industry
-Finance,Investment Services,17,0.3157301018146922,Industry
-Energy,Oil & Gas,67,0.6012805582268381,Industry
-Energy,Renewable Energy,55,0.20111954163890222,Industry
-Energy,Energy Exploration,8,0.7799569309490043,Industry
-Consumer Goods,Food & Beverage,94,0.6557787536782904,Industry
-Consumer Goods,Household Products,39,0.7252682127337892,Industry
-Consumer Goods,Apparel,67,0.4352193468399854,Industry
-Utilities,Electric,81,0.4760554010193243,Industry
-Utilities,Water,43,0.6362222973676459,Industry
-Utilities,Gas,45,0.5240886573653777,Industry
-Real Estate,Residential,82,0.4978741012222979,Industry
-Real Estate,Commercial,79,0.8617827426410559,Industry
-Real Estate,Industrial,28,0.5779325934692574,Industry
-Telecommunications,Mobile,9,0.05382796143913804,Industry
-Telecommunications,Broadband,39,0.6994596614899404,Industry
-Telecommunications,Satellite,49,0.896304160572512,Industry
-Materials,Chemicals,44,0.5103620741018146,Industry
-Materials,Metals & Mining,26,0.6482565063478298,Industry
-Materials,Construction Materials,21,0.02631452212080232,Industry
-Industrials,Aerospace & Defense,57,0.7237584996071995,Industry
-Industrials,Machinery,34,0.09877657355083513,Industry
-Industrials,Industrial Services,53,0.08139770101856814,Industry
-Consumer Services,Retail,73,0.2513819810064145,Industry
-Consumer Services,Travel & Leisure,41,0.4852871205905277,Industry
-Consumer Services,Media,33,0.031956618259183056,Industry
-Transportation,Airlines,48,0.4204447506243656,Industry
-Transportation,Railroads,28,0.35230652423370357,Industry
-Transportation,Logistics,98,0.4580484119791739,Industry
+,St. Clair,813,0.37427606151404663,Overall
+St. Clair,HiTech,71,0.6252403281610843,Sector
+St. Clair,Agriculture,40,0.2960318776188532,Sector
+St. Clair,Transportation,34,0.3773481856752968,Sector
+St. Clair,Consumer_Products,68,0.5090787459731465,Sector
+St. Clair,Unassigned,76,0.35781254188901146,Sector
+St. Clair,Communication,82,0.04588724890319884,Sector
+St. Clair,Trade,48,0.6048923149586972,Sector
+St. Clair,Business_Services,21,0.14705872276335696,Sector
+St. Clair,Business_Products,98,0.6381520993108752,Sector
+St. Clair,Construction,28,0.2865177655117028,Sector
+St. Clair,Services,94,0.22567718412413684,Sector
+St. Clair,Mining,22,0.16560635935302537,Sector
+St. Clair,Health_Care,7,0.23838456145454712,Sector
+St. Clair,EnergyExpL_Prod,88,0.6368038996845224,Sector
+St. Clair,Utilities,36,0.45964908732924536,Sector

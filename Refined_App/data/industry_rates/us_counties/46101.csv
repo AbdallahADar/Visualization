@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Moody,1914,0.4255867019771259,Overall
-Moody,Technology,100,0.2890410361932021,Sector
-Moody,Healthcare,215,0.4682170629360404,Sector
-Moody,Finance,230,0.8355442307593098,Sector
-Moody,Energy,103,0.4429806578248382,Sector
-Moody,Consumer Goods,176,0.7372805633974393,Sector
-Moody,Utilities,104,0.427015571067932,Sector
-Moody,Real Estate,66,0.8400105523876696,Sector
-Moody,Telecommunications,208,0.10527042909876705,Sector
-Moody,Materials,142,0.2908131453173316,Sector
-Moody,Industrials,173,0.22286786568789552,Sector
-Moody,Consumer Services,200,0.9093305372052802,Sector
-Moody,Transportation,197,0.5898010941851484,Sector
-Technology,Software,33,0.5071800285617234,Industry
-Technology,Hardware,63,0.43015560964569544,Industry
-Technology,IT Services,4,0.17326514204494514,Industry
-Healthcare,Pharmaceuticals,77,0.2023097544201422,Industry
-Healthcare,Medical Devices,99,0.9225816987597536,Industry
-Healthcare,Healthcare Services,39,0.7345055485274332,Industry
-Finance,Banking,61,0.10006733284487679,Industry
-Finance,Insurance,92,0.07714912663910034,Industry
-Finance,Investment Services,77,0.7109931057004024,Industry
-Energy,Oil & Gas,34,0.5983152233952639,Industry
-Energy,Renewable Energy,39,0.790131914781267,Industry
-Energy,Energy Exploration,30,0.9706522354967603,Industry
-Consumer Goods,Food & Beverage,19,0.5965569409005927,Industry
-Consumer Goods,Household Products,65,0.38874708521257706,Industry
-Consumer Goods,Apparel,92,0.44672258563247647,Industry
-Utilities,Electric,79,0.30851102844465217,Industry
-Utilities,Water,15,0.8429607287865221,Industry
-Utilities,Gas,10,0.8658768878980574,Industry
-Real Estate,Residential,6,0.6876204150584264,Industry
-Real Estate,Commercial,33,0.1661925186374692,Industry
-Real Estate,Industrial,27,0.8115251485549126,Industry
-Telecommunications,Mobile,68,0.3586989514153238,Industry
-Telecommunications,Broadband,92,0.7478731579986755,Industry
-Telecommunications,Satellite,48,0.8920259053106145,Industry
-Materials,Chemicals,60,0.21209553280476268,Industry
-Materials,Metals & Mining,27,0.031199436895281818,Industry
-Materials,Construction Materials,55,0.5852304770981996,Industry
-Industrials,Aerospace & Defense,23,0.9372031025048133,Industry
-Industrials,Machinery,66,0.6763869032795302,Industry
-Industrials,Industrial Services,84,0.9364890673966447,Industry
-Consumer Services,Retail,93,0.18062775338746284,Industry
-Consumer Services,Travel & Leisure,25,0.25490659925147496,Industry
-Consumer Services,Media,82,0.821037387015837,Industry
-Transportation,Airlines,52,0.5312722663970875,Industry
-Transportation,Railroads,65,0.215393707027152,Industry
-Transportation,Logistics,80,0.10215548759840432,Industry
+,Moody,1003,0.5231538422406313,Overall
+Moody,HiTech,65,0.990381565611169,Sector
+Moody,Agriculture,92,0.2559714029157656,Sector
+Moody,Transportation,50,0.6406803854551822,Sector
+Moody,Consumer_Products,86,0.7435657745950343,Sector
+Moody,Unassigned,85,0.8660212284067563,Sector
+Moody,Communication,97,0.3059221930007605,Sector
+Moody,Trade,91,0.1975742087006358,Sector
+Moody,Business_Services,61,0.1913926669363275,Sector
+Moody,Business_Products,9,0.19002242816047177,Sector
+Moody,Construction,99,0.9752404020947399,Sector
+Moody,Services,27,0.9603578202813491,Sector
+Moody,Mining,13,0.20634436612842988,Sector
+Moody,Health_Care,97,0.06559979731526644,Sector
+Moody,EnergyExpL_Prod,45,0.297409290725518,Sector
+Moody,Utilities,86,0.9608241032820625,Sector

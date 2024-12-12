@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fulda,1543,0.010786464618072755,Overall
-Fulda,Technology,86,0.12951206958605854,Sector
-Fulda,Healthcare,143,0.027035595060495687,Sector
-Fulda,Finance,39,0.37217784352224825,Sector
-Fulda,Energy,112,0.25473893934508807,Sector
-Fulda,Consumer Goods,189,0.22014806793847763,Sector
-Fulda,Utilities,48,0.9432316929770673,Sector
-Fulda,Real Estate,73,0.8491248780700066,Sector
-Fulda,Telecommunications,136,0.6582356094613387,Sector
-Fulda,Materials,185,0.025819297731503155,Sector
-Fulda,Industrials,222,0.6440257248003466,Sector
-Fulda,Consumer Services,164,0.8548130178011284,Sector
-Fulda,Transportation,146,0.918385374717349,Sector
-Technology,Software,15,0.68174693126224,Industry
-Technology,Hardware,20,0.8385597728102806,Industry
-Technology,IT Services,51,0.5459560934195932,Industry
-Healthcare,Pharmaceuticals,61,0.1706058459945471,Industry
-Healthcare,Medical Devices,29,0.7758305952986716,Industry
-Healthcare,Healthcare Services,53,0.6646518493976822,Industry
-Finance,Banking,4,0.585319418813212,Industry
-Finance,Insurance,23,0.00658052166807932,Industry
-Finance,Investment Services,12,0.8361563603888668,Industry
-Energy,Oil & Gas,27,0.022261949072247655,Industry
-Energy,Renewable Energy,26,0.9579121608290639,Industry
-Energy,Energy Exploration,59,0.8043047371887122,Industry
-Consumer Goods,Food & Beverage,89,0.9170305613025943,Industry
-Consumer Goods,Household Products,96,0.9323752686773721,Industry
-Consumer Goods,Apparel,4,0.03718740620319172,Industry
-Utilities,Electric,12,0.9150988097197751,Industry
-Utilities,Water,31,0.06841219031539514,Industry
-Utilities,Gas,5,0.7047691606724077,Industry
-Real Estate,Residential,2,0.927632616901411,Industry
-Real Estate,Commercial,6,0.2804638952216907,Industry
-Real Estate,Industrial,65,0.6196329346845559,Industry
-Telecommunications,Mobile,18,0.5604850868554023,Industry
-Telecommunications,Broadband,61,0.5703464236440264,Industry
-Telecommunications,Satellite,57,0.0887100009756353,Industry
-Materials,Chemicals,66,0.23142432883262853,Industry
-Materials,Metals & Mining,88,0.9259758298229208,Industry
-Materials,Construction Materials,31,0.3509155272012888,Industry
-Industrials,Aerospace & Defense,42,0.19783652319475986,Industry
-Industrials,Machinery,98,0.12954482684169477,Industry
-Industrials,Industrial Services,82,0.6575826083748496,Industry
-Consumer Services,Retail,59,0.35856794513315415,Industry
-Consumer Services,Travel & Leisure,37,0.17223958306547626,Industry
-Consumer Services,Media,68,0.6066310160435958,Industry
-Transportation,Airlines,36,0.2288232069106284,Industry
-Transportation,Railroads,36,0.5737539567149422,Industry
-Transportation,Logistics,74,0.8849382410672114,Industry
+,Fulda,841,0.6679257676700099,Overall
+Fulda,HiTech,27,0.07579679887547075,Sector
+Fulda,Agriculture,16,0.7230767801870247,Sector
+Fulda,Transportation,95,0.8762030876960764,Sector
+Fulda,Consumer_Products,97,0.9717173209042571,Sector
+Fulda,Unassigned,3,0.9140761301704108,Sector
+Fulda,Communication,65,0.8817052790879985,Sector
+Fulda,Trade,55,0.9366748847453316,Sector
+Fulda,Business_Services,49,0.7832364733579245,Sector
+Fulda,Business_Products,55,0.40468279895483017,Sector
+Fulda,Construction,75,0.9880554731707081,Sector
+Fulda,Services,34,0.9367914915231093,Sector
+Fulda,Mining,83,0.5626926037307193,Sector
+Fulda,Health_Care,79,0.5607952886619556,Sector
+Fulda,EnergyExpL_Prod,89,0.20037086217783107,Sector
+Fulda,Utilities,19,0.20301124180650176,Sector

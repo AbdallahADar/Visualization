@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Culberson,1783,0.6437466259159098,Overall
-Culberson,Technology,184,0.7547140486358461,Sector
-Culberson,Healthcare,186,0.07187941916152707,Sector
-Culberson,Finance,142,0.0940799243961501,Sector
-Culberson,Energy,192,0.17645046064046543,Sector
-Culberson,Consumer Goods,60,0.5542491814317442,Sector
-Culberson,Utilities,178,0.8347480076602349,Sector
-Culberson,Real Estate,210,0.30523116179647924,Sector
-Culberson,Telecommunications,120,0.25667102158945776,Sector
-Culberson,Materials,155,0.5786898454513774,Sector
-Culberson,Industrials,81,0.8256146003866662,Sector
-Culberson,Consumer Services,110,0.7571570790635829,Sector
-Culberson,Transportation,165,0.21118093290094264,Sector
-Technology,Software,57,0.01971960867988376,Industry
-Technology,Hardware,70,0.7884480662896536,Industry
-Technology,IT Services,57,0.5951878548845353,Industry
-Healthcare,Pharmaceuticals,14,0.9778347057022819,Industry
-Healthcare,Medical Devices,88,0.5195486566600195,Industry
-Healthcare,Healthcare Services,84,0.016181994545188094,Industry
-Finance,Banking,31,0.647566944264608,Industry
-Finance,Insurance,43,0.05626817942489171,Industry
-Finance,Investment Services,68,0.11220117178527567,Industry
-Energy,Oil & Gas,76,0.09907076837196627,Industry
-Energy,Renewable Energy,26,0.40952078511702494,Industry
-Energy,Energy Exploration,90,0.4651255177087388,Industry
-Consumer Goods,Food & Beverage,1,0.3509464127113019,Industry
-Consumer Goods,Household Products,53,0.3764056133726523,Industry
-Consumer Goods,Apparel,6,0.46104252975454707,Industry
-Utilities,Electric,84,0.5148661233371762,Industry
-Utilities,Water,54,0.4074589726434369,Industry
-Utilities,Gas,40,0.6681722992993132,Industry
-Real Estate,Residential,60,0.4783095066764915,Industry
-Real Estate,Commercial,63,0.9579156445992506,Industry
-Real Estate,Industrial,87,0.5614735795507927,Industry
-Telecommunications,Mobile,56,0.10100317039053641,Industry
-Telecommunications,Broadband,28,0.27816125928672475,Industry
-Telecommunications,Satellite,36,0.022739377137100725,Industry
-Materials,Chemicals,56,0.06079283241250788,Industry
-Materials,Metals & Mining,32,0.2163636760926967,Industry
-Materials,Construction Materials,67,0.2865573698916736,Industry
-Industrials,Aerospace & Defense,17,0.556935977091444,Industry
-Industrials,Machinery,41,0.29321289493872327,Industry
-Industrials,Industrial Services,23,0.05472752705510897,Industry
-Consumer Services,Retail,47,0.14788221779467048,Industry
-Consumer Services,Travel & Leisure,56,0.3493798059930382,Industry
-Consumer Services,Media,7,0.5772526034415922,Industry
-Transportation,Airlines,92,0.08324573991948403,Industry
-Transportation,Railroads,25,0.1408468346318622,Industry
-Transportation,Logistics,48,0.8612338734502144,Industry
+,Culberson,672,0.4146669836486987,Overall
+Culberson,HiTech,89,0.27357126396734843,Sector
+Culberson,Agriculture,28,0.13644126905813636,Sector
+Culberson,Transportation,90,0.3652098630744527,Sector
+Culberson,Consumer_Products,77,0.6644471473055242,Sector
+Culberson,Unassigned,11,0.41339802416299076,Sector
+Culberson,Communication,16,0.1392151318737227,Sector
+Culberson,Trade,52,0.31387970372182017,Sector
+Culberson,Business_Services,58,0.982850655452208,Sector
+Culberson,Business_Products,4,0.4520039500242662,Sector
+Culberson,Construction,11,0.4407172576998343,Sector
+Culberson,Services,14,0.0006625872993037962,Sector
+Culberson,Mining,41,0.8508596625103154,Sector
+Culberson,Health_Care,2,0.06738720952584487,Sector
+Culberson,EnergyExpL_Prod,81,0.5717159525439134,Sector
+Culberson,Utilities,98,0.5476450765107983,Sector

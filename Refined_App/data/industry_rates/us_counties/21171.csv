@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Monroe,1769,0.9213250629310884,Overall
-Monroe,Technology,139,0.9493763645094694,Sector
-Monroe,Healthcare,125,0.7260601729685945,Sector
-Monroe,Finance,146,0.5044749179541165,Sector
-Monroe,Energy,126,0.9374681528085842,Sector
-Monroe,Consumer Goods,139,0.9645402340068167,Sector
-Monroe,Utilities,103,0.28456730594749846,Sector
-Monroe,Real Estate,171,0.30301075684665413,Sector
-Monroe,Telecommunications,196,0.9524737238855041,Sector
-Monroe,Materials,127,0.14572720863801547,Sector
-Monroe,Industrials,140,0.38824660900121666,Sector
-Monroe,Consumer Services,186,0.07085814014714553,Sector
-Monroe,Transportation,171,0.6792856650453722,Sector
-Technology,Software,44,0.38474230085401095,Industry
-Technology,Hardware,5,0.6405222638048031,Industry
-Technology,IT Services,90,0.24033383606522785,Industry
-Healthcare,Pharmaceuticals,37,0.5276100218009453,Industry
-Healthcare,Medical Devices,28,0.4291837589160413,Industry
-Healthcare,Healthcare Services,60,0.5815674217807582,Industry
-Finance,Banking,71,0.7684013749668918,Industry
-Finance,Insurance,45,0.6220767682841052,Industry
-Finance,Investment Services,30,0.7632768228194975,Industry
-Energy,Oil & Gas,48,0.3154298997943713,Industry
-Energy,Renewable Energy,1,0.04603361817428542,Industry
-Energy,Energy Exploration,77,0.6531436352820265,Industry
-Consumer Goods,Food & Beverage,43,0.14675735226514375,Industry
-Consumer Goods,Household Products,22,0.7437652421987175,Industry
-Consumer Goods,Apparel,74,0.7915235223233337,Industry
-Utilities,Electric,41,0.5897231903583597,Industry
-Utilities,Water,41,0.5372267101090984,Industry
-Utilities,Gas,21,0.0637567022816441,Industry
-Real Estate,Residential,33,0.9094122599279525,Industry
-Real Estate,Commercial,59,0.596557699744238,Industry
-Real Estate,Industrial,79,0.8075160660696534,Industry
-Telecommunications,Mobile,45,0.48358489690941,Industry
-Telecommunications,Broadband,80,0.9777633011938288,Industry
-Telecommunications,Satellite,71,0.6035215108090067,Industry
-Materials,Chemicals,65,0.2858909478321351,Industry
-Materials,Metals & Mining,26,0.7141522281986462,Industry
-Materials,Construction Materials,36,0.736692663620613,Industry
-Industrials,Aerospace & Defense,27,0.3728768073527343,Industry
-Industrials,Machinery,51,0.957683176923921,Industry
-Industrials,Industrial Services,62,0.8778720715304535,Industry
-Consumer Services,Retail,99,0.9988788307053632,Industry
-Consumer Services,Travel & Leisure,67,0.27915658946600375,Industry
-Consumer Services,Media,20,0.8847322292623321,Industry
-Transportation,Airlines,78,0.4013304293184823,Industry
-Transportation,Railroads,75,0.6088831102240935,Industry
-Transportation,Logistics,18,0.05890236428243889,Industry
+,Monroe,787,0.609790479597321,Overall
+Monroe,HiTech,55,0.9320378063567285,Sector
+Monroe,Agriculture,57,0.9537596144062455,Sector
+Monroe,Transportation,51,0.22780046219701477,Sector
+Monroe,Consumer_Products,14,0.47408735076929354,Sector
+Monroe,Unassigned,77,0.5246908307862876,Sector
+Monroe,Communication,77,0.5696938457982892,Sector
+Monroe,Trade,54,0.9925377691671385,Sector
+Monroe,Business_Services,95,0.45822351044784404,Sector
+Monroe,Business_Products,33,0.9890341193821943,Sector
+Monroe,Construction,12,0.8615411543860731,Sector
+Monroe,Services,79,0.8457182303033514,Sector
+Monroe,Mining,87,0.20116369917811516,Sector
+Monroe,Health_Care,25,0.5884004213438975,Sector
+Monroe,EnergyExpL_Prod,39,0.11146961816225787,Sector
+Monroe,Utilities,32,0.41669876127508343,Sector

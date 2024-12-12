@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Waynesboro,1776,0.8739878679317258,Overall
-Waynesboro,Technology,123,0.008489931479196633,Sector
-Waynesboro,Healthcare,65,0.5152019679104924,Sector
-Waynesboro,Finance,118,0.18628090730459257,Sector
-Waynesboro,Energy,129,0.8721941937015569,Sector
-Waynesboro,Consumer Goods,210,0.9721359485482253,Sector
-Waynesboro,Utilities,168,0.06777305501636988,Sector
-Waynesboro,Real Estate,171,0.9066669523192018,Sector
-Waynesboro,Telecommunications,180,0.8602447079555096,Sector
-Waynesboro,Materials,125,0.11196564187703273,Sector
-Waynesboro,Industrials,153,0.6881643922414785,Sector
-Waynesboro,Consumer Services,177,0.11501253355798302,Sector
-Waynesboro,Transportation,157,0.47819359714746545,Sector
-Technology,Software,0,0.972286754724439,Industry
-Technology,Hardware,50,0.5744357233820561,Industry
-Technology,IT Services,73,0.4266842639895798,Industry
-Healthcare,Pharmaceuticals,35,0.2512152276640356,Industry
-Healthcare,Medical Devices,7,0.8904337664725913,Industry
-Healthcare,Healthcare Services,23,0.6019461829785061,Industry
-Finance,Banking,24,0.2021269819659196,Industry
-Finance,Insurance,39,0.7208679350843825,Industry
-Finance,Investment Services,55,0.9470707987590349,Industry
-Energy,Oil & Gas,18,0.37973312392420666,Industry
-Energy,Renewable Energy,82,0.9426820853951294,Industry
-Energy,Energy Exploration,29,0.012915801984254016,Industry
-Consumer Goods,Food & Beverage,97,0.36164961805586127,Industry
-Consumer Goods,Household Products,58,0.6125619975112992,Industry
-Consumer Goods,Apparel,55,0.9012566786324325,Industry
-Utilities,Electric,6,0.9806167289211508,Industry
-Utilities,Water,80,0.8600944391617412,Industry
-Utilities,Gas,82,0.9259552920140656,Industry
-Real Estate,Residential,76,0.3724384127085868,Industry
-Real Estate,Commercial,5,0.35938107598825897,Industry
-Real Estate,Industrial,90,0.4965646737802114,Industry
-Telecommunications,Mobile,43,0.4617238285830766,Industry
-Telecommunications,Broadband,84,0.12458893079965183,Industry
-Telecommunications,Satellite,53,0.45670009559423463,Industry
-Materials,Chemicals,45,0.7620681784534554,Industry
-Materials,Metals & Mining,42,0.02778919351530995,Industry
-Materials,Construction Materials,38,0.7516351919488454,Industry
-Industrials,Aerospace & Defense,30,0.6466289775085958,Industry
-Industrials,Machinery,90,0.10712539056253889,Industry
-Industrials,Industrial Services,33,0.9189777362792729,Industry
-Consumer Services,Retail,75,0.6194109776901087,Industry
-Consumer Services,Travel & Leisure,66,0.010501164053809742,Industry
-Consumer Services,Media,36,0.3699139761883605,Industry
-Transportation,Airlines,68,0.8574560726362872,Industry
-Transportation,Railroads,86,0.9266739369726515,Industry
-Transportation,Logistics,3,0.8982461293143453,Industry
+,Waynesboro,793,0.6300634152422044,Overall
+Waynesboro,HiTech,33,0.8301108623711103,Sector
+Waynesboro,Agriculture,76,0.6085627230241591,Sector
+Waynesboro,Transportation,5,0.8857816684406262,Sector
+Waynesboro,Consumer_Products,28,0.15272190308283273,Sector
+Waynesboro,Unassigned,80,0.6818327928706504,Sector
+Waynesboro,Communication,87,0.41919187106848377,Sector
+Waynesboro,Trade,26,0.8652354855516954,Sector
+Waynesboro,Business_Services,49,0.5334593112174735,Sector
+Waynesboro,Business_Products,61,0.5223986662415839,Sector
+Waynesboro,Construction,6,0.5122894565569104,Sector
+Waynesboro,Services,23,0.3390370052796057,Sector
+Waynesboro,Mining,98,0.833954206853558,Sector
+Waynesboro,Health_Care,43,0.9380569667976749,Sector
+Waynesboro,EnergyExpL_Prod,89,0.9226817866566696,Sector
+Waynesboro,Utilities,89,0.40563652262003436,Sector

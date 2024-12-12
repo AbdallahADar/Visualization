@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Torrance,1577,0.5485885260740123,Overall
-Torrance,Technology,50,0.4493333254038735,Sector
-Torrance,Healthcare,179,0.4066837300911803,Sector
-Torrance,Finance,155,0.9434727222111886,Sector
-Torrance,Energy,180,0.4367858799583182,Sector
-Torrance,Consumer Goods,247,0.5679500975757118,Sector
-Torrance,Utilities,137,0.5307019836401811,Sector
-Torrance,Real Estate,104,0.7241428241303844,Sector
-Torrance,Telecommunications,122,0.9700723335366777,Sector
-Torrance,Materials,53,0.3032570592837498,Sector
-Torrance,Industrials,128,0.8239964580011317,Sector
-Torrance,Consumer Services,190,0.45440201173466466,Sector
-Torrance,Transportation,32,0.5934681986764252,Sector
-Technology,Software,18,0.6814030235007297,Industry
-Technology,Hardware,31,0.4912678868702066,Industry
-Technology,IT Services,1,0.4725700217339591,Industry
-Healthcare,Pharmaceuticals,80,0.01034514201670389,Industry
-Healthcare,Medical Devices,54,0.11441524842781359,Industry
-Healthcare,Healthcare Services,45,0.2774948895201612,Industry
-Finance,Banking,6,0.3125699830759102,Industry
-Finance,Insurance,63,0.7671189717044856,Industry
-Finance,Investment Services,86,0.49571320387338347,Industry
-Energy,Oil & Gas,82,0.6461276383679201,Industry
-Energy,Renewable Energy,24,0.1659857104745216,Industry
-Energy,Energy Exploration,74,0.22484619473248724,Industry
-Consumer Goods,Food & Beverage,76,0.02155196833649342,Industry
-Consumer Goods,Household Products,94,0.48323552759576127,Industry
-Consumer Goods,Apparel,77,0.1885214193524789,Industry
-Utilities,Electric,52,0.16146326169661374,Industry
-Utilities,Water,48,0.25098623154433486,Industry
-Utilities,Gas,37,0.22450789022558526,Industry
-Real Estate,Residential,20,0.6477550848429352,Industry
-Real Estate,Commercial,28,0.5165008563882079,Industry
-Real Estate,Industrial,56,0.9989124266062359,Industry
-Telecommunications,Mobile,56,0.1717647161021848,Industry
-Telecommunications,Broadband,51,0.952839783319356,Industry
-Telecommunications,Satellite,15,0.03875579258926798,Industry
-Materials,Chemicals,0,0.23747928900398108,Industry
-Materials,Metals & Mining,36,0.23397910859240323,Industry
-Materials,Construction Materials,17,0.3976800361591023,Industry
-Industrials,Aerospace & Defense,24,0.13261058591206,Industry
-Industrials,Machinery,58,0.7195099553797286,Industry
-Industrials,Industrial Services,46,0.14396359925286173,Industry
-Consumer Services,Retail,78,0.3268745298883443,Industry
-Consumer Services,Travel & Leisure,92,0.4753785630166759,Industry
-Consumer Services,Media,20,0.08492456285574046,Industry
-Transportation,Airlines,3,0.966963978062167,Industry
-Transportation,Railroads,10,0.9546071191548711,Industry
-Transportation,Logistics,19,0.6469952433541789,Industry
+,Torrance,835,0.42032496773881545,Overall
+Torrance,HiTech,66,0.23685167194868073,Sector
+Torrance,Agriculture,77,0.36859062742229676,Sector
+Torrance,Transportation,20,0.517393713413203,Sector
+Torrance,Consumer_Products,26,0.4060827446430103,Sector
+Torrance,Unassigned,59,0.16682033374521532,Sector
+Torrance,Communication,63,0.9292782956608249,Sector
+Torrance,Trade,10,0.8408767896267982,Sector
+Torrance,Business_Services,20,0.2561570593475344,Sector
+Torrance,Business_Products,58,0.10714785879130062,Sector
+Torrance,Construction,88,0.36622501992975676,Sector
+Torrance,Services,97,0.027247069758889464,Sector
+Torrance,Mining,55,0.8514184484215878,Sector
+Torrance,Health_Care,82,0.4934348001956653,Sector
+Torrance,EnergyExpL_Prod,96,0.5538655350039208,Sector
+Torrance,Utilities,18,0.1834845481735481,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Amasya,2026,0.6861213554312019,Overall
-Amasya,Technology,198,0.749678294521491,Sector
-Amasya,Healthcare,114,0.6203783534355772,Sector
-Amasya,Finance,153,0.4323027002100924,Sector
-Amasya,Energy,230,0.005695150759412515,Sector
-Amasya,Consumer Goods,109,0.0024884974895742484,Sector
-Amasya,Utilities,231,0.14068561210273722,Sector
-Amasya,Real Estate,206,0.6171255458395299,Sector
-Amasya,Telecommunications,125,0.49495925884251135,Sector
-Amasya,Materials,226,0.41085532573680805,Sector
-Amasya,Industrials,171,0.9016837342901445,Sector
-Amasya,Consumer Services,155,0.5337917603255706,Sector
-Amasya,Transportation,108,0.7622792167106929,Sector
-Technology,Software,62,0.09086787258193385,Industry
-Technology,Hardware,53,0.7936577885338526,Industry
-Technology,IT Services,83,0.6854181182728142,Industry
-Healthcare,Pharmaceuticals,1,0.6498900657795947,Industry
-Healthcare,Medical Devices,58,0.2555808454863867,Industry
-Healthcare,Healthcare Services,55,0.3593040079515515,Industry
-Finance,Banking,37,0.5908048874052304,Industry
-Finance,Insurance,24,0.9811807347566184,Industry
-Finance,Investment Services,92,0.6756059430716466,Industry
-Energy,Oil & Gas,97,0.26026553381940964,Industry
-Energy,Renewable Energy,91,0.020648062848412474,Industry
-Energy,Energy Exploration,42,0.7847794073334602,Industry
-Consumer Goods,Food & Beverage,16,0.5941331967014706,Industry
-Consumer Goods,Household Products,10,0.9250980070535292,Industry
-Consumer Goods,Apparel,83,0.5963778094089685,Industry
-Utilities,Electric,88,0.9770937467347235,Industry
-Utilities,Water,93,0.6936333713343036,Industry
-Utilities,Gas,50,0.3490245617111818,Industry
-Real Estate,Residential,98,0.9097201528619542,Industry
-Real Estate,Commercial,85,0.6991307208162029,Industry
-Real Estate,Industrial,23,0.8545055349820784,Industry
-Telecommunications,Mobile,66,0.5644441738280995,Industry
-Telecommunications,Broadband,50,0.9140923345383886,Industry
-Telecommunications,Satellite,9,0.2955409713976226,Industry
-Materials,Chemicals,94,0.8140120966307687,Industry
-Materials,Metals & Mining,96,0.20245705874929665,Industry
-Materials,Construction Materials,36,0.9643924298097365,Industry
-Industrials,Aerospace & Defense,25,0.7224823656523188,Industry
-Industrials,Machinery,99,0.4113638010112457,Industry
-Industrials,Industrial Services,47,0.5565214538571226,Industry
-Consumer Services,Retail,50,0.9805236394399929,Industry
-Consumer Services,Travel & Leisure,39,0.8177315808535971,Industry
-Consumer Services,Media,66,0.7634521409885436,Industry
-Transportation,Airlines,22,0.15248890988154018,Industry
-Transportation,Railroads,60,0.99797155969494,Industry
-Transportation,Logistics,26,0.06915674267633942,Industry
+,Amasya,592,0.5389556190273574,Overall
+Amasya,HiTech,0,0.5669883948033355,Sector
+Amasya,Agriculture,79,0.6322648839859715,Sector
+Amasya,Transportation,51,0.15046807703358245,Sector
+Amasya,Consumer_Products,8,0.9538371550854692,Sector
+Amasya,Unassigned,6,0.7042051645566995,Sector
+Amasya,Communication,24,0.10062515389666715,Sector
+Amasya,Trade,42,0.5091237939143003,Sector
+Amasya,Business_Services,6,0.2116509145376182,Sector
+Amasya,Business_Products,89,0.24250852338304396,Sector
+Amasya,Construction,93,0.902556050439413,Sector
+Amasya,Services,56,0.6248715565815527,Sector
+Amasya,Mining,73,0.26361028444416257,Sector
+Amasya,Health_Care,4,0.8901994683846688,Sector
+Amasya,EnergyExpL_Prod,29,0.4966069839721968,Sector
+Amasya,Utilities,32,0.8348178803916801,Sector

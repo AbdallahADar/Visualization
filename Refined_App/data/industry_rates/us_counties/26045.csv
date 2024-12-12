@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Eaton,1948,0.8942956704353602,Overall
-Eaton,Technology,132,0.1564285430292962,Sector
-Eaton,Healthcare,222,0.3536046547002166,Sector
-Eaton,Finance,272,0.0877963192469009,Sector
-Eaton,Energy,156,0.9968360746904561,Sector
-Eaton,Consumer Goods,148,0.7607307406863681,Sector
-Eaton,Utilities,150,0.5860274378867794,Sector
-Eaton,Real Estate,182,0.6742709879892939,Sector
-Eaton,Telecommunications,145,0.3239023998707804,Sector
-Eaton,Materials,155,0.2937713741838699,Sector
-Eaton,Industrials,124,0.08200679319462212,Sector
-Eaton,Consumer Services,72,0.07565440143516788,Sector
-Eaton,Transportation,190,0.6640491914388246,Sector
-Technology,Software,9,0.8645896343825523,Industry
-Technology,Hardware,93,0.7214445901742212,Industry
-Technology,IT Services,30,0.17495068134876712,Industry
-Healthcare,Pharmaceuticals,99,0.4275821931144286,Industry
-Healthcare,Medical Devices,61,0.9904697356160456,Industry
-Healthcare,Healthcare Services,62,0.7475247976256767,Industry
-Finance,Banking,85,0.5648664710725967,Industry
-Finance,Insurance,96,0.9873986474847585,Industry
-Finance,Investment Services,91,0.23351883988591937,Industry
-Energy,Oil & Gas,44,0.4377017971982835,Industry
-Energy,Renewable Energy,43,0.6974170106843579,Industry
-Energy,Energy Exploration,69,0.989772029102561,Industry
-Consumer Goods,Food & Beverage,70,0.7840275203104489,Industry
-Consumer Goods,Household Products,61,0.7442584957720952,Industry
-Consumer Goods,Apparel,17,0.6841783183446136,Industry
-Utilities,Electric,56,0.6342281394482714,Industry
-Utilities,Water,21,0.02953987960719906,Industry
-Utilities,Gas,73,0.9885927214708072,Industry
-Real Estate,Residential,23,0.8686722774552499,Industry
-Real Estate,Commercial,96,0.7869865242579732,Industry
-Real Estate,Industrial,63,0.6263359343809062,Industry
-Telecommunications,Mobile,72,0.5460416575073507,Industry
-Telecommunications,Broadband,51,0.5367652816814433,Industry
-Telecommunications,Satellite,22,0.5973503945783817,Industry
-Materials,Chemicals,66,0.3996241224839645,Industry
-Materials,Metals & Mining,77,0.10177962402381224,Industry
-Materials,Construction Materials,12,0.06078290281808452,Industry
-Industrials,Aerospace & Defense,23,0.6372416737767881,Industry
-Industrials,Machinery,68,0.3706014348774227,Industry
-Industrials,Industrial Services,33,0.5476598255453912,Industry
-Consumer Services,Retail,36,0.7613250121252721,Industry
-Consumer Services,Travel & Leisure,35,0.0789001782560309,Industry
-Consumer Services,Media,1,0.3011907759650533,Industry
-Transportation,Airlines,89,0.8230072873551554,Industry
-Transportation,Railroads,44,0.06197982892811338,Industry
-Transportation,Logistics,57,0.34520532810398186,Industry
+,Eaton,766,0.5532199922762872,Overall
+Eaton,HiTech,54,0.21737415823336603,Sector
+Eaton,Agriculture,75,0.4122043618397887,Sector
+Eaton,Transportation,69,0.25648669231672383,Sector
+Eaton,Consumer_Products,77,0.8985225164472095,Sector
+Eaton,Unassigned,75,0.5155738667517666,Sector
+Eaton,Communication,73,0.11054841558485817,Sector
+Eaton,Trade,72,0.1300359047581099,Sector
+Eaton,Business_Services,23,0.7689897718669134,Sector
+Eaton,Business_Products,88,0.9116144295346681,Sector
+Eaton,Construction,35,0.9041451231764926,Sector
+Eaton,Services,54,0.889830449626426,Sector
+Eaton,Mining,39,0.3416760076614005,Sector
+Eaton,Health_Care,10,0.9600567528611289,Sector
+Eaton,EnergyExpL_Prod,12,0.18319867062956763,Sector
+Eaton,Utilities,10,0.798042762855887,Sector

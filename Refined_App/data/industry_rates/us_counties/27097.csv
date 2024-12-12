@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Morrison,1672,0.5745508103075948,Overall
-Morrison,Technology,116,0.6946486488245869,Sector
-Morrison,Healthcare,186,0.340786263580486,Sector
-Morrison,Finance,38,0.7483249567321062,Sector
-Morrison,Energy,118,0.07976204103783613,Sector
-Morrison,Consumer Goods,108,0.05593086974219352,Sector
-Morrison,Utilities,111,0.7268234455545298,Sector
-Morrison,Real Estate,87,0.6589924105129767,Sector
-Morrison,Telecommunications,267,0.8868171168929457,Sector
-Morrison,Materials,175,0.08276360719649478,Sector
-Morrison,Industrials,134,0.09020444170143471,Sector
-Morrison,Consumer Services,172,0.7879874810622145,Sector
-Morrison,Transportation,160,0.9897070038788456,Sector
-Technology,Software,35,0.7910292346494194,Industry
-Technology,Hardware,75,0.39496805065539276,Industry
-Technology,IT Services,6,0.6703762849788325,Industry
-Healthcare,Pharmaceuticals,10,0.5846754458375215,Industry
-Healthcare,Medical Devices,85,0.7346718851475574,Industry
-Healthcare,Healthcare Services,91,0.9481697176820552,Industry
-Finance,Banking,32,0.11526051451491415,Industry
-Finance,Insurance,6,0.4897421028721811,Industry
-Finance,Investment Services,0,0.34547137778804726,Industry
-Energy,Oil & Gas,66,0.10963322528536057,Industry
-Energy,Renewable Energy,38,0.570009816259476,Industry
-Energy,Energy Exploration,14,0.6669802596554253,Industry
-Consumer Goods,Food & Beverage,19,0.7993901437496729,Industry
-Consumer Goods,Household Products,4,0.8190109793116099,Industry
-Consumer Goods,Apparel,85,0.1854720080075175,Industry
-Utilities,Electric,29,0.3362467694439115,Industry
-Utilities,Water,61,0.926381482629085,Industry
-Utilities,Gas,21,0.7681230719310957,Industry
-Real Estate,Residential,3,0.05939293100129661,Industry
-Real Estate,Commercial,12,0.476593081720299,Industry
-Real Estate,Industrial,72,0.4452006227676618,Industry
-Telecommunications,Mobile,89,0.8508255058511092,Industry
-Telecommunications,Broadband,92,0.5466920089949767,Industry
-Telecommunications,Satellite,86,0.7988537344802034,Industry
-Materials,Chemicals,33,0.32315990508828696,Industry
-Materials,Metals & Mining,95,0.8658426489572755,Industry
-Materials,Construction Materials,47,0.12420571690777349,Industry
-Industrials,Aerospace & Defense,36,0.9843654605048451,Industry
-Industrials,Machinery,46,0.16175904712511835,Industry
-Industrials,Industrial Services,52,0.17585896497461428,Industry
-Consumer Services,Retail,51,0.43548028751375467,Industry
-Consumer Services,Travel & Leisure,40,0.848146497933445,Industry
-Consumer Services,Media,81,0.8565955716844379,Industry
-Transportation,Airlines,34,0.9015332036412703,Industry
-Transportation,Railroads,65,0.09002899493755079,Industry
-Transportation,Logistics,61,0.873061379762975,Industry
+,Morrison,743,0.49166758078897843,Overall
+Morrison,HiTech,15,0.35497374401835724,Sector
+Morrison,Agriculture,39,0.28343893603181736,Sector
+Morrison,Transportation,7,0.424316112375542,Sector
+Morrison,Consumer_Products,36,0.1489393737818846,Sector
+Morrison,Unassigned,2,0.8190859154468844,Sector
+Morrison,Communication,59,0.32762507800557894,Sector
+Morrison,Trade,76,0.8655834322401504,Sector
+Morrison,Business_Services,98,0.18480059559727158,Sector
+Morrison,Business_Products,94,0.8607641991223973,Sector
+Morrison,Construction,46,0.7470258436610239,Sector
+Morrison,Services,69,0.15753164269629683,Sector
+Morrison,Mining,52,0.3033070603320056,Sector
+Morrison,Health_Care,36,0.9070977192973408,Sector
+Morrison,EnergyExpL_Prod,55,0.7621111946518222,Sector
+Morrison,Utilities,59,0.2284128645763036,Sector

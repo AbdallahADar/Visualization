@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lafayette,1441,0.8199973979844967,Overall
-Lafayette,Technology,72,0.05368996638812995,Sector
-Lafayette,Healthcare,133,0.8910795517755978,Sector
-Lafayette,Finance,223,0.6416398452900746,Sector
-Lafayette,Energy,101,0.310669095856449,Sector
-Lafayette,Consumer Goods,160,0.4837104332863207,Sector
-Lafayette,Utilities,164,0.6963435135089941,Sector
-Lafayette,Real Estate,81,0.49939333476795056,Sector
-Lafayette,Telecommunications,70,0.2107589331185694,Sector
-Lafayette,Materials,77,0.39427869366044865,Sector
-Lafayette,Industrials,170,0.2161996950455265,Sector
-Lafayette,Consumer Services,79,0.9759897052060573,Sector
-Lafayette,Transportation,111,0.04559396827790119,Sector
-Technology,Software,15,0.29417926709155895,Industry
-Technology,Hardware,17,0.8290334085779151,Industry
-Technology,IT Services,40,0.7704668615539643,Industry
-Healthcare,Pharmaceuticals,52,0.3101389509817376,Industry
-Healthcare,Medical Devices,41,0.42818907515594185,Industry
-Healthcare,Healthcare Services,40,0.3447412576109874,Industry
-Finance,Banking,75,0.8907982753764024,Industry
-Finance,Insurance,75,0.11307508930615695,Industry
-Finance,Investment Services,73,0.08930082059620859,Industry
-Energy,Oil & Gas,52,0.012916779785107413,Industry
-Energy,Renewable Energy,30,0.037827244674005445,Industry
-Energy,Energy Exploration,19,0.1681990348253679,Industry
-Consumer Goods,Food & Beverage,78,0.5701211086062081,Industry
-Consumer Goods,Household Products,39,0.4958831926831335,Industry
-Consumer Goods,Apparel,43,0.7765956747022635,Industry
-Utilities,Electric,46,0.31914878927310286,Industry
-Utilities,Water,26,0.9287271853680249,Industry
-Utilities,Gas,92,0.38407254789654377,Industry
-Real Estate,Residential,0,0.10752270136027786,Industry
-Real Estate,Commercial,59,0.04529236094894262,Industry
-Real Estate,Industrial,22,0.5794735189632697,Industry
-Telecommunications,Mobile,7,0.25248678396816904,Industry
-Telecommunications,Broadband,3,0.4301051091482888,Industry
-Telecommunications,Satellite,60,0.15597802313218945,Industry
-Materials,Chemicals,20,0.21500683609046667,Industry
-Materials,Metals & Mining,36,0.6483426041084532,Industry
-Materials,Construction Materials,21,0.9958930755256569,Industry
-Industrials,Aerospace & Defense,44,0.39834549964247123,Industry
-Industrials,Machinery,98,0.2926183384710629,Industry
-Industrials,Industrial Services,28,0.38888101537246134,Industry
-Consumer Services,Retail,36,0.080662717147987,Industry
-Consumer Services,Travel & Leisure,34,0.025611595807464416,Industry
-Consumer Services,Media,9,0.5255388994337309,Industry
-Transportation,Airlines,43,0.062071234574905154,Industry
-Transportation,Railroads,56,0.7474880573318531,Industry
-Transportation,Logistics,12,0.8773354047138618,Industry
+,Lafayette,660,0.37429389262495566,Overall
+Lafayette,HiTech,31,0.4875624021663284,Sector
+Lafayette,Agriculture,5,0.3825171706986268,Sector
+Lafayette,Transportation,17,0.525652119206739,Sector
+Lafayette,Consumer_Products,40,0.19891618578364179,Sector
+Lafayette,Unassigned,24,0.33045964989452137,Sector
+Lafayette,Communication,5,0.6343648977095887,Sector
+Lafayette,Trade,67,0.07246874256946534,Sector
+Lafayette,Business_Services,50,0.20251253771500877,Sector
+Lafayette,Business_Products,78,0.21525081103841437,Sector
+Lafayette,Construction,47,0.20594684828038234,Sector
+Lafayette,Services,97,0.23582083547869104,Sector
+Lafayette,Mining,61,0.7920658678186074,Sector
+Lafayette,Health_Care,34,0.7570827655379831,Sector
+Lafayette,EnergyExpL_Prod,85,0.5578924219158425,Sector
+Lafayette,Utilities,19,0.015895133560494212,Sector

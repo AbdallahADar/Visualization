@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hillsborough,1655,0.23017756045488458,Overall
-Hillsborough,Technology,167,0.9788660762231371,Sector
-Hillsborough,Healthcare,120,0.22306715750129036,Sector
-Hillsborough,Finance,102,0.08939317174218042,Sector
-Hillsborough,Energy,144,0.7910286640000023,Sector
-Hillsborough,Consumer Goods,99,0.7243518349636171,Sector
-Hillsborough,Utilities,162,0.08092108784274432,Sector
-Hillsborough,Real Estate,197,0.4389512730792925,Sector
-Hillsborough,Telecommunications,201,0.9807033083666588,Sector
-Hillsborough,Materials,94,0.4961674666155791,Sector
-Hillsborough,Industrials,150,0.17491484389234724,Sector
-Hillsborough,Consumer Services,121,0.5407715277393251,Sector
-Hillsborough,Transportation,98,0.12961372011618488,Sector
-Technology,Software,10,0.006408010227742955,Industry
-Technology,Hardware,81,0.7549004731796248,Industry
-Technology,IT Services,76,0.4792352795126321,Industry
-Healthcare,Pharmaceuticals,7,0.6251799417290242,Industry
-Healthcare,Medical Devices,23,0.6296656209128709,Industry
-Healthcare,Healthcare Services,90,0.44138469188196994,Industry
-Finance,Banking,22,0.475309416421143,Industry
-Finance,Insurance,60,0.3667385205656587,Industry
-Finance,Investment Services,20,0.2890332767379642,Industry
-Energy,Oil & Gas,4,0.4810920609617477,Industry
-Energy,Renewable Energy,91,0.5959663780427037,Industry
-Energy,Energy Exploration,49,0.4454363391004187,Industry
-Consumer Goods,Food & Beverage,75,0.24934626941111226,Industry
-Consumer Goods,Household Products,16,0.04098496719436684,Industry
-Consumer Goods,Apparel,8,0.8207083112706757,Industry
-Utilities,Electric,49,0.04730923448705082,Industry
-Utilities,Water,97,0.19758498976797745,Industry
-Utilities,Gas,16,0.7431395295623029,Industry
-Real Estate,Residential,50,0.23159795950693873,Industry
-Real Estate,Commercial,81,0.17781021248894624,Industry
-Real Estate,Industrial,66,0.6207856973030764,Industry
-Telecommunications,Mobile,80,0.7648957849207451,Industry
-Telecommunications,Broadband,63,0.721038122265753,Industry
-Telecommunications,Satellite,58,0.8694288144007755,Industry
-Materials,Chemicals,0,0.8267170127511859,Industry
-Materials,Metals & Mining,56,0.794202250043623,Industry
-Materials,Construction Materials,38,0.39799595476672645,Industry
-Industrials,Aerospace & Defense,40,0.20510950947690487,Industry
-Industrials,Machinery,38,0.7407306021103293,Industry
-Industrials,Industrial Services,72,0.7525373992126433,Industry
-Consumer Services,Retail,39,0.16945152844240086,Industry
-Consumer Services,Travel & Leisure,46,0.1624195387468299,Industry
-Consumer Services,Media,36,0.25789602267266754,Industry
-Transportation,Airlines,23,0.08451025860698136,Industry
-Transportation,Railroads,18,0.2210789175865996,Industry
-Transportation,Logistics,57,0.9854661099757795,Industry
+,Hillsborough,730,0.44988013166283275,Overall
+Hillsborough,HiTech,99,0.3931609927361628,Sector
+Hillsborough,Agriculture,70,0.3147128542848836,Sector
+Hillsborough,Transportation,34,0.6027876749392463,Sector
+Hillsborough,Consumer_Products,17,0.4267864903497456,Sector
+Hillsborough,Unassigned,74,0.11957324491715549,Sector
+Hillsborough,Communication,75,0.4990175281840066,Sector
+Hillsborough,Trade,14,0.37436323712551667,Sector
+Hillsborough,Business_Services,68,0.9209461330732682,Sector
+Hillsborough,Business_Products,64,0.5041081489272753,Sector
+Hillsborough,Construction,37,0.1452175889335965,Sector
+Hillsborough,Services,85,0.3938227972809871,Sector
+Hillsborough,Mining,24,0.01720553766644428,Sector
+Hillsborough,Health_Care,39,0.46927669981913056,Sector
+Hillsborough,EnergyExpL_Prod,15,0.6991144018819239,Sector
+Hillsborough,Utilities,15,0.8681086448231483,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McIntosh,1922,0.6301107064208507,Overall
-McIntosh,Technology,113,0.20650375269802734,Sector
-McIntosh,Healthcare,212,0.2012673927086286,Sector
-McIntosh,Finance,187,0.1689925992309268,Sector
-McIntosh,Energy,140,0.6951985069828477,Sector
-McIntosh,Consumer Goods,145,0.1419473654416883,Sector
-McIntosh,Utilities,166,0.6016961568052585,Sector
-McIntosh,Real Estate,153,0.7636019314686172,Sector
-McIntosh,Telecommunications,70,0.601365741419502,Sector
-McIntosh,Materials,110,0.4058401356724999,Sector
-McIntosh,Industrials,246,0.1766937536460561,Sector
-McIntosh,Consumer Services,144,0.2806926962230497,Sector
-McIntosh,Transportation,236,0.9408109731678681,Sector
-Technology,Software,29,0.6320120111574292,Industry
-Technology,Hardware,6,0.391158711341115,Industry
-Technology,IT Services,78,0.9749280998185819,Industry
-Healthcare,Pharmaceuticals,72,0.11253300715867809,Industry
-Healthcare,Medical Devices,86,0.9534420295682071,Industry
-Healthcare,Healthcare Services,54,0.031241360377680993,Industry
-Finance,Banking,54,0.49120682686960804,Industry
-Finance,Insurance,93,0.46412840875709027,Industry
-Finance,Investment Services,40,0.311488921994309,Industry
-Energy,Oil & Gas,28,0.2654991243226582,Industry
-Energy,Renewable Energy,57,0.8538802018683656,Industry
-Energy,Energy Exploration,55,0.2567741993265573,Industry
-Consumer Goods,Food & Beverage,10,0.15615279726370712,Industry
-Consumer Goods,Household Products,93,0.18883176160869564,Industry
-Consumer Goods,Apparel,42,0.5730163876761187,Industry
-Utilities,Electric,76,0.12781097958368337,Industry
-Utilities,Water,14,0.06450653698484887,Industry
-Utilities,Gas,76,0.2963739932886885,Industry
-Real Estate,Residential,8,0.5641049639443299,Industry
-Real Estate,Commercial,98,0.9938252095021302,Industry
-Real Estate,Industrial,47,0.47405627768986813,Industry
-Telecommunications,Mobile,1,0.25878389375557953,Industry
-Telecommunications,Broadband,4,0.5322971359403329,Industry
-Telecommunications,Satellite,65,0.9421239136872162,Industry
-Materials,Chemicals,21,0.11572067902127758,Industry
-Materials,Metals & Mining,52,0.7943432474847373,Industry
-Materials,Construction Materials,37,0.6177299966638313,Industry
-Industrials,Aerospace & Defense,89,0.691071240186579,Industry
-Industrials,Machinery,78,0.5685936328474785,Industry
-Industrials,Industrial Services,79,0.577945081268509,Industry
-Consumer Services,Retail,22,0.8937736424898487,Industry
-Consumer Services,Travel & Leisure,61,0.1855245530502636,Industry
-Consumer Services,Media,61,0.9092716413606887,Industry
-Transportation,Airlines,71,0.08016976582383517,Industry
-Transportation,Railroads,68,0.9412798780121596,Industry
-Transportation,Logistics,97,0.7389523710065251,Industry
+,McIntosh,850,0.5238258971211983,Overall
+McIntosh,HiTech,41,0.8527995071438997,Sector
+McIntosh,Agriculture,28,0.3846142956125215,Sector
+McIntosh,Transportation,43,0.2256637696203968,Sector
+McIntosh,Consumer_Products,63,0.07342708776138895,Sector
+McIntosh,Unassigned,57,0.5791359651011645,Sector
+McIntosh,Communication,65,0.05040493946566704,Sector
+McIntosh,Trade,55,0.7761659090518126,Sector
+McIntosh,Business_Services,88,0.17540780722559524,Sector
+McIntosh,Business_Products,99,0.49250544432452004,Sector
+McIntosh,Construction,66,0.8561090184321382,Sector
+McIntosh,Services,74,0.7386715585812316,Sector
+McIntosh,Mining,47,0.8730700666341654,Sector
+McIntosh,Health_Care,85,0.8002081979038178,Sector
+McIntosh,EnergyExpL_Prod,31,0.7421345237624305,Sector
+McIntosh,Utilities,8,0.23707036619722477,Sector

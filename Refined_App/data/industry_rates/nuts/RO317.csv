@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Teleorman,1797,0.49878883339129476,Overall
-Teleorman,Technology,154,0.09639850208009215,Sector
-Teleorman,Healthcare,119,0.8372185707693083,Sector
-Teleorman,Finance,23,0.741961973419263,Sector
-Teleorman,Energy,186,0.21493553648345587,Sector
-Teleorman,Consumer Goods,102,0.8914751137827033,Sector
-Teleorman,Utilities,187,0.11766278036078859,Sector
-Teleorman,Real Estate,184,0.3097859928211114,Sector
-Teleorman,Telecommunications,178,0.48676626025210024,Sector
-Teleorman,Materials,91,0.1133526726011308,Sector
-Teleorman,Industrials,175,0.6711919135496581,Sector
-Teleorman,Consumer Services,176,0.08167266126699435,Sector
-Teleorman,Transportation,222,0.7537853312346171,Sector
-Technology,Software,29,0.709149490923228,Industry
-Technology,Hardware,26,0.11822186468428897,Industry
-Technology,IT Services,99,0.5907983473817202,Industry
-Healthcare,Pharmaceuticals,40,0.11948314602335275,Industry
-Healthcare,Medical Devices,39,0.2417590170117796,Industry
-Healthcare,Healthcare Services,40,0.8449321092545945,Industry
-Finance,Banking,3,0.756831940751723,Industry
-Finance,Insurance,7,0.7002887957888554,Industry
-Finance,Investment Services,13,0.06856061693774107,Industry
-Energy,Oil & Gas,30,0.6173794113275543,Industry
-Energy,Renewable Energy,68,0.0522764999821993,Industry
-Energy,Energy Exploration,88,0.6205001429631687,Industry
-Consumer Goods,Food & Beverage,17,0.4889982893391188,Industry
-Consumer Goods,Household Products,26,0.9543294763963179,Industry
-Consumer Goods,Apparel,59,0.36247421415492986,Industry
-Utilities,Electric,38,0.3332113585068094,Industry
-Utilities,Water,69,0.7110241164640595,Industry
-Utilities,Gas,80,0.6208810647564424,Industry
-Real Estate,Residential,65,0.7588281621115034,Industry
-Real Estate,Commercial,98,0.7314913807752056,Industry
-Real Estate,Industrial,21,0.5535093104111115,Industry
-Telecommunications,Mobile,65,0.8502415130647262,Industry
-Telecommunications,Broadband,37,0.3876398405838992,Industry
-Telecommunications,Satellite,76,0.6594772313359535,Industry
-Materials,Chemicals,35,0.006464626187446365,Industry
-Materials,Metals & Mining,50,0.6549357121404962,Industry
-Materials,Construction Materials,6,0.16427713085605178,Industry
-Industrials,Aerospace & Defense,71,0.9443170354642915,Industry
-Industrials,Machinery,47,0.5909242390769193,Industry
-Industrials,Industrial Services,57,0.06716172304733536,Industry
-Consumer Services,Retail,81,0.8026202104101895,Industry
-Consumer Services,Travel & Leisure,19,0.994815907987522,Industry
-Consumer Services,Media,76,0.29539420943763606,Industry
-Transportation,Airlines,69,0.934548412943681,Industry
-Transportation,Railroads,76,0.9844775235458533,Industry
-Transportation,Logistics,77,0.7867383322322415,Industry
+,Teleorman,593,0.4977620682017925,Overall
+Teleorman,HiTech,16,0.5978644232510292,Sector
+Teleorman,Agriculture,80,0.8964901855116141,Sector
+Teleorman,Transportation,67,0.5796882128009039,Sector
+Teleorman,Consumer_Products,8,0.012512368460520173,Sector
+Teleorman,Unassigned,14,0.12195550654156262,Sector
+Teleorman,Communication,81,0.5945515310684839,Sector
+Teleorman,Trade,0,0.12254272686103174,Sector
+Teleorman,Business_Services,43,0.2283951990590818,Sector
+Teleorman,Business_Products,21,0.22210773849494436,Sector
+Teleorman,Construction,5,0.8198789484603687,Sector
+Teleorman,Services,67,0.5188185074405186,Sector
+Teleorman,Mining,97,0.28941852313011907,Sector
+Teleorman,Health_Care,13,0.707757997895028,Sector
+Teleorman,EnergyExpL_Prod,49,0.9919917005406065,Sector
+Teleorman,Utilities,32,0.7624574535110743,Sector

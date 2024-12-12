@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cantabria,1927,0.59914776781814,Overall
-Cantabria,Technology,183,0.6655641228246585,Sector
-Cantabria,Healthcare,200,0.25838669451038687,Sector
-Cantabria,Finance,190,0.39771416640840074,Sector
-Cantabria,Energy,183,0.4297835025260007,Sector
-Cantabria,Consumer Goods,204,0.4362595386685253,Sector
-Cantabria,Utilities,220,0.6587195484842414,Sector
-Cantabria,Real Estate,87,0.562016118006605,Sector
-Cantabria,Telecommunications,115,0.5131000445161953,Sector
-Cantabria,Materials,129,0.19795237962750123,Sector
-Cantabria,Industrials,110,0.7004495547743664,Sector
-Cantabria,Consumer Services,136,0.9664635457709981,Sector
-Cantabria,Transportation,170,0.6858584450206632,Sector
-Technology,Software,30,0.2359017267147806,Industry
-Technology,Hardware,97,0.21079981624180166,Industry
-Technology,IT Services,56,0.20737038252450735,Industry
-Healthcare,Pharmaceuticals,78,0.7584531711233934,Industry
-Healthcare,Medical Devices,29,0.4631212093967578,Industry
-Healthcare,Healthcare Services,93,0.8410758759655494,Industry
-Finance,Banking,62,0.2678312191072647,Industry
-Finance,Insurance,75,0.8473071035676853,Industry
-Finance,Investment Services,53,0.7710048477544152,Industry
-Energy,Oil & Gas,91,0.3600713207239177,Industry
-Energy,Renewable Energy,32,0.2075847703344078,Industry
-Energy,Energy Exploration,60,0.9865712499837594,Industry
-Consumer Goods,Food & Beverage,88,0.22239298734215507,Industry
-Consumer Goods,Household Products,62,0.5463738444420476,Industry
-Consumer Goods,Apparel,54,0.25961411470812523,Industry
-Utilities,Electric,95,0.6090272464733598,Industry
-Utilities,Water,40,0.1647657977281758,Industry
-Utilities,Gas,85,0.9356598243792192,Industry
-Real Estate,Residential,35,0.159246583420651,Industry
-Real Estate,Commercial,51,0.7775842129728207,Industry
-Real Estate,Industrial,1,0.5205299403624577,Industry
-Telecommunications,Mobile,70,0.5079142298302023,Industry
-Telecommunications,Broadband,4,0.379472518037158,Industry
-Telecommunications,Satellite,41,0.9055702435965204,Industry
-Materials,Chemicals,41,0.9123037488302742,Industry
-Materials,Metals & Mining,77,0.1623966795280004,Industry
-Materials,Construction Materials,11,0.11628178327977812,Industry
-Industrials,Aerospace & Defense,34,0.8739923485230486,Industry
-Industrials,Machinery,53,0.9181445407751013,Industry
-Industrials,Industrial Services,23,0.19730705429725304,Industry
-Consumer Services,Retail,74,0.42280694919584216,Industry
-Consumer Services,Travel & Leisure,55,0.7258928084560086,Industry
-Consumer Services,Media,7,0.24315715037367658,Industry
-Transportation,Airlines,5,0.7864216736054968,Industry
-Transportation,Railroads,73,0.4122536034296652,Industry
-Transportation,Logistics,92,0.7522029215341183,Industry
+,Cantabria,738,0.5745593857774374,Overall
+Cantabria,HiTech,46,0.5788079440261337,Sector
+Cantabria,Agriculture,79,0.5818913230704412,Sector
+Cantabria,Transportation,58,0.37132637086656173,Sector
+Cantabria,Consumer_Products,79,0.6674683692038886,Sector
+Cantabria,Unassigned,4,0.5913780405548673,Sector
+Cantabria,Communication,85,0.3140481000617297,Sector
+Cantabria,Trade,50,0.9568592387820505,Sector
+Cantabria,Business_Services,15,0.6128009843293415,Sector
+Cantabria,Business_Products,57,0.7589230368058685,Sector
+Cantabria,Construction,42,0.6028554251591657,Sector
+Cantabria,Services,16,0.9160582951481611,Sector
+Cantabria,Mining,31,0.8812164746219892,Sector
+Cantabria,Health_Care,88,0.2897667753762615,Sector
+Cantabria,EnergyExpL_Prod,25,0.18569617978467545,Sector
+Cantabria,Utilities,63,0.30929422887042524,Sector

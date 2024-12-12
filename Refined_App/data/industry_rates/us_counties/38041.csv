@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hettinger,1835,0.12681280071665735,Overall
-Hettinger,Technology,168,0.269712473509203,Sector
-Hettinger,Healthcare,58,0.40596868704302724,Sector
-Hettinger,Finance,143,0.5748863458869791,Sector
-Hettinger,Energy,222,0.09498057619808986,Sector
-Hettinger,Consumer Goods,79,0.3579255319009378,Sector
-Hettinger,Utilities,156,0.19288968850531363,Sector
-Hettinger,Real Estate,136,0.9408640162855532,Sector
-Hettinger,Telecommunications,138,0.135344203176749,Sector
-Hettinger,Materials,190,0.9549932596072307,Sector
-Hettinger,Industrials,203,0.8342596160390737,Sector
-Hettinger,Consumer Services,162,0.8293957061062519,Sector
-Hettinger,Transportation,180,0.2311016373582352,Sector
-Technology,Software,8,0.7522941214020262,Industry
-Technology,Hardware,95,0.04220997427583417,Industry
-Technology,IT Services,65,0.937507253147522,Industry
-Healthcare,Pharmaceuticals,39,0.8453821875110761,Industry
-Healthcare,Medical Devices,11,0.18499234521744023,Industry
-Healthcare,Healthcare Services,8,0.5359699132326009,Industry
-Finance,Banking,59,0.6029280383981128,Industry
-Finance,Insurance,7,0.781469446591089,Industry
-Finance,Investment Services,77,0.6477050361926078,Industry
-Energy,Oil & Gas,74,0.22144257323650418,Industry
-Energy,Renewable Energy,66,0.5848565305534912,Industry
-Energy,Energy Exploration,82,0.42407266124899357,Industry
-Consumer Goods,Food & Beverage,17,0.6223114942125932,Industry
-Consumer Goods,Household Products,4,0.481041364164416,Industry
-Consumer Goods,Apparel,58,0.02169389115495579,Industry
-Utilities,Electric,54,0.26795862911762414,Industry
-Utilities,Water,6,0.20237297741166071,Industry
-Utilities,Gas,96,0.7176275738820517,Industry
-Real Estate,Residential,56,0.28433257755991037,Industry
-Real Estate,Commercial,19,0.2655326541051841,Industry
-Real Estate,Industrial,61,0.46505013859706756,Industry
-Telecommunications,Mobile,62,0.5916126936230617,Industry
-Telecommunications,Broadband,66,0.601369020122475,Industry
-Telecommunications,Satellite,10,0.42618655394990856,Industry
-Materials,Chemicals,75,0.7834293297081527,Industry
-Materials,Metals & Mining,74,0.30218852273427765,Industry
-Materials,Construction Materials,41,0.5343332130514874,Industry
-Industrials,Aerospace & Defense,86,0.5938161434553499,Industry
-Industrials,Machinery,74,0.8654220452674859,Industry
-Industrials,Industrial Services,43,0.2946859483149904,Industry
-Consumer Services,Retail,46,0.4787471540649266,Industry
-Consumer Services,Travel & Leisure,46,0.2120457923343141,Industry
-Consumer Services,Media,70,0.7549350201678633,Industry
-Transportation,Airlines,43,0.07780224234806055,Industry
-Transportation,Railroads,86,0.01576238748269354,Industry
-Transportation,Logistics,51,0.3339458026409813,Industry
+,Hettinger,747,0.540074738197248,Overall
+Hettinger,HiTech,56,0.6847587381881237,Sector
+Hettinger,Agriculture,53,0.43685186620733485,Sector
+Hettinger,Transportation,48,0.29358888329493793,Sector
+Hettinger,Consumer_Products,69,0.6848850282017603,Sector
+Hettinger,Unassigned,54,0.6449396952716838,Sector
+Hettinger,Communication,16,0.9233599238938416,Sector
+Hettinger,Trade,38,0.9206388781932672,Sector
+Hettinger,Business_Services,93,0.7498936126419877,Sector
+Hettinger,Business_Products,84,0.8995491669643261,Sector
+Hettinger,Construction,77,0.03874915438226878,Sector
+Hettinger,Services,57,0.050175416991671495,Sector
+Hettinger,Mining,1,0.6388143223357517,Sector
+Hettinger,Health_Care,60,0.3717667435801143,Sector
+Hettinger,EnergyExpL_Prod,8,0.5905963532337858,Sector
+Hettinger,Utilities,33,0.1725532895778661,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Washington,1888,0.6018589732041906,Overall
-Washington,Technology,102,0.7003399966717485,Sector
-Washington,Healthcare,192,0.7851067486381573,Sector
-Washington,Finance,125,0.268825459441978,Sector
-Washington,Energy,130,0.9920385202263193,Sector
-Washington,Consumer Goods,186,0.44988746323669027,Sector
-Washington,Utilities,115,0.05969663970884875,Sector
-Washington,Real Estate,127,0.8904075891238,Sector
-Washington,Telecommunications,123,0.9443257246139395,Sector
-Washington,Materials,168,0.38576308292000516,Sector
-Washington,Industrials,248,0.5297737139880834,Sector
-Washington,Consumer Services,149,0.3571767034148474,Sector
-Washington,Transportation,223,0.22721230649660318,Sector
-Technology,Software,65,0.28111673354129707,Industry
-Technology,Hardware,18,0.4903604837702199,Industry
-Technology,IT Services,19,0.8664086861544341,Industry
-Healthcare,Pharmaceuticals,68,0.3636213697105627,Industry
-Healthcare,Medical Devices,36,0.24139936016152108,Industry
-Healthcare,Healthcare Services,88,0.3836689759838947,Industry
-Finance,Banking,22,0.7049910873208607,Industry
-Finance,Insurance,87,0.14125027650853328,Industry
-Finance,Investment Services,16,0.10292397284086718,Industry
-Energy,Oil & Gas,29,0.8627579387585917,Industry
-Energy,Renewable Energy,29,0.07278657643631259,Industry
-Energy,Energy Exploration,72,0.3974490748992836,Industry
-Consumer Goods,Food & Beverage,23,0.4354473068856012,Industry
-Consumer Goods,Household Products,77,0.11307494762136028,Industry
-Consumer Goods,Apparel,86,0.08227243329976919,Industry
-Utilities,Electric,32,0.3217890972233296,Industry
-Utilities,Water,14,0.9201625260444957,Industry
-Utilities,Gas,69,0.7153965767957396,Industry
-Real Estate,Residential,2,0.34733970542074954,Industry
-Real Estate,Commercial,27,0.7635264420957949,Industry
-Real Estate,Industrial,98,0.03465271982987117,Industry
-Telecommunications,Mobile,27,0.5914594852343714,Industry
-Telecommunications,Broadband,43,0.4987285168494878,Industry
-Telecommunications,Satellite,53,0.27285101475579143,Industry
-Materials,Chemicals,92,0.0695235356858066,Industry
-Materials,Metals & Mining,21,0.8938117399450435,Industry
-Materials,Construction Materials,55,0.7949996938861057,Industry
-Industrials,Aerospace & Defense,61,0.2569259414737951,Industry
-Industrials,Machinery,88,0.34932356066207415,Industry
-Industrials,Industrial Services,99,0.4637233357937276,Industry
-Consumer Services,Retail,7,0.8400752310980197,Industry
-Consumer Services,Travel & Leisure,72,0.9018600571833305,Industry
-Consumer Services,Media,70,0.16020899191122906,Industry
-Transportation,Airlines,49,0.5714798214754565,Industry
-Transportation,Railroads,90,0.8195993352073702,Industry
-Transportation,Logistics,84,0.7697927799825135,Industry
+,Washington,773,0.5310562458461472,Overall
+Washington,HiTech,73,0.8639509191070761,Sector
+Washington,Agriculture,43,0.6026898231028694,Sector
+Washington,Transportation,63,0.6173985048292026,Sector
+Washington,Consumer_Products,39,0.6203692386317794,Sector
+Washington,Unassigned,44,0.03449838152739981,Sector
+Washington,Communication,56,0.2774863622803233,Sector
+Washington,Trade,55,0.7054307386723446,Sector
+Washington,Business_Services,63,0.9503316471028321,Sector
+Washington,Business_Products,42,0.4113202367056933,Sector
+Washington,Construction,66,0.520954862578193,Sector
+Washington,Services,45,0.4757319157659117,Sector
+Washington,Mining,20,0.7003852578674394,Sector
+Washington,Health_Care,92,0.8766191074164558,Sector
+Washington,EnergyExpL_Prod,17,0.013303731593691803,Sector
+Washington,Utilities,55,0.2953729605109956,Sector

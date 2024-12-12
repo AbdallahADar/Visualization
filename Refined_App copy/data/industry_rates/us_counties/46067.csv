@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Hutchinson,1926,0.5280850491132454,Overall
+Hutchinson,Technology,87,0.21151289697062714,Sector
+Hutchinson,Healthcare,178,0.4074120224799572,Sector
+Hutchinson,Finance,140,0.02601688510714728,Sector
+Hutchinson,Energy,152,0.46453055809969923,Sector
+Hutchinson,Consumer Goods,162,0.6328853676195534,Sector
+Hutchinson,Utilities,197,0.5095226197771251,Sector
+Hutchinson,Real Estate,201,0.9546985698970978,Sector
+Hutchinson,Telecommunications,110,0.37008968736462045,Sector
+Hutchinson,Materials,174,0.5745668303278556,Sector
+Hutchinson,Industrials,174,0.211489864712341,Sector
+Hutchinson,Consumer Services,213,0.223973260615571,Sector
+Hutchinson,Transportation,138,0.5339011656637992,Sector
+Technology,Software,25,0.1693473938388843,Industry
+Technology,Hardware,21,0.7462110836643897,Industry
+Technology,IT Services,41,0.5105209578286274,Industry
+Healthcare,Pharmaceuticals,80,0.5270460053706437,Industry
+Healthcare,Medical Devices,88,0.3257484981559625,Industry
+Healthcare,Healthcare Services,10,0.9655085885235274,Industry
+Finance,Banking,8,0.6989087935304309,Industry
+Finance,Insurance,96,0.6406128816945758,Industry
+Finance,Investment Services,36,0.2584923748918454,Industry
+Energy,Oil & Gas,39,0.920993544871598,Industry
+Energy,Renewable Energy,88,0.13116195315349644,Industry
+Energy,Energy Exploration,25,0.35555214627318554,Industry
+Consumer Goods,Food & Beverage,54,0.1546568582382113,Industry
+Consumer Goods,Household Products,9,0.5148261174557488,Industry
+Consumer Goods,Apparel,99,0.8868466993823357,Industry
+Utilities,Electric,78,0.2665983792230717,Industry
+Utilities,Water,90,0.1363852079046849,Industry
+Utilities,Gas,29,0.5585408770120777,Industry
+Real Estate,Residential,78,0.016250047493037045,Industry
+Real Estate,Commercial,38,0.3533367424352837,Industry
+Real Estate,Industrial,85,0.4308122072746723,Industry
+Telecommunications,Mobile,61,0.8837617458897365,Industry
+Telecommunications,Broadband,2,0.9632006194072453,Industry
+Telecommunications,Satellite,47,0.5057523885807549,Industry
+Materials,Chemicals,69,0.5956116427948709,Industry
+Materials,Metals & Mining,80,0.9190162129388458,Industry
+Materials,Construction Materials,25,0.8244604483569296,Industry
+Industrials,Aerospace & Defense,86,0.20283793502246794,Industry
+Industrials,Machinery,30,0.645727217828515,Industry
+Industrials,Industrial Services,58,0.9062838752036112,Industry
+Consumer Services,Retail,61,0.09742712412397181,Industry
+Consumer Services,Travel & Leisure,67,0.7261319840720446,Industry
+Consumer Services,Media,85,0.535939995548654,Industry
+Transportation,Airlines,46,0.41652689255265574,Industry
+Transportation,Railroads,37,0.9209029647660872,Industry
+Transportation,Logistics,55,0.1543504489730484,Industry

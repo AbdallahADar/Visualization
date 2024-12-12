@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Warren,1643,0.17719245824202057,Overall
-Warren,Technology,104,0.2699992649827645,Sector
-Warren,Healthcare,103,0.8532126140090696,Sector
-Warren,Finance,114,0.0029094190702603218,Sector
-Warren,Energy,119,0.7875950821177533,Sector
-Warren,Consumer Goods,201,0.13660960062966065,Sector
-Warren,Utilities,226,0.17159032454213097,Sector
-Warren,Real Estate,61,0.2659438448135717,Sector
-Warren,Telecommunications,123,0.5148014662610481,Sector
-Warren,Materials,129,0.7901961516832072,Sector
-Warren,Industrials,217,0.08690849664280353,Sector
-Warren,Consumer Services,113,0.33785644587984964,Sector
-Warren,Transportation,133,0.6420760826769539,Sector
-Technology,Software,32,0.6800609252024628,Industry
-Technology,Hardware,14,0.9592606201015234,Industry
-Technology,IT Services,58,0.592150364306775,Industry
-Healthcare,Pharmaceuticals,8,0.32536841544324757,Industry
-Healthcare,Medical Devices,12,0.10487339106679261,Industry
-Healthcare,Healthcare Services,83,0.9252573468165617,Industry
-Finance,Banking,68,0.6599587242703905,Industry
-Finance,Insurance,8,0.4145581805429056,Industry
-Finance,Investment Services,38,0.8791445336503801,Industry
-Energy,Oil & Gas,36,0.3415924513935207,Industry
-Energy,Renewable Energy,34,0.3245346107275481,Industry
-Energy,Energy Exploration,49,0.9193909793877779,Industry
-Consumer Goods,Food & Beverage,76,0.22592685296874082,Industry
-Consumer Goods,Household Products,40,0.4340724953357381,Industry
-Consumer Goods,Apparel,85,0.7514370927197151,Industry
-Utilities,Electric,96,0.17434627230542554,Industry
-Utilities,Water,64,0.9435856513570002,Industry
-Utilities,Gas,66,0.6965383997329743,Industry
-Real Estate,Residential,27,0.006514990514600916,Industry
-Real Estate,Commercial,12,0.6797844142985162,Industry
-Real Estate,Industrial,22,0.21844472336997933,Industry
-Telecommunications,Mobile,2,0.9228233892256854,Industry
-Telecommunications,Broadband,79,0.39914729034626717,Industry
-Telecommunications,Satellite,42,0.3832537995951678,Industry
-Materials,Chemicals,75,0.6476306702783797,Industry
-Materials,Metals & Mining,15,0.3097599153868934,Industry
-Materials,Construction Materials,39,0.8178110878224633,Industry
-Industrials,Aerospace & Defense,74,0.710047621822364,Industry
-Industrials,Machinery,67,0.016631469694165624,Industry
-Industrials,Industrial Services,76,0.1565641643871264,Industry
-Consumer Services,Retail,65,0.430497288909784,Industry
-Consumer Services,Travel & Leisure,20,0.01312208508619983,Industry
-Consumer Services,Media,28,0.724831732288144,Industry
-Transportation,Airlines,8,0.40740116724337494,Industry
-Transportation,Railroads,75,0.2626540644550708,Industry
-Transportation,Logistics,50,0.6727908336898447,Industry
+,Warren,630,0.49803315449654,Overall
+Warren,HiTech,25,0.7247806669949023,Sector
+Warren,Agriculture,27,0.4335707316330123,Sector
+Warren,Transportation,36,0.3641496055889294,Sector
+Warren,Consumer_Products,71,0.22538764260390276,Sector
+Warren,Unassigned,98,0.13688298842311108,Sector
+Warren,Communication,79,0.9269313943546071,Sector
+Warren,Trade,16,0.8793661906882343,Sector
+Warren,Business_Services,83,0.17149716903571632,Sector
+Warren,Business_Products,32,0.7936453863917236,Sector
+Warren,Construction,50,0.6399016046589251,Sector
+Warren,Services,0,0.1533208722044792,Sector
+Warren,Mining,60,0.8383917283377931,Sector
+Warren,Health_Care,22,0.2651988198198334,Sector
+Warren,EnergyExpL_Prod,6,0.48042326099133603,Sector
+Warren,Utilities,25,0.43704925572159414,Sector

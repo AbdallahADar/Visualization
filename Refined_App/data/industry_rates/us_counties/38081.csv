@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sargent,1518,0.2569901160727842,Overall
-Sargent,Technology,62,0.3339966444468695,Sector
-Sargent,Healthcare,179,0.49237395613356205,Sector
-Sargent,Finance,182,0.16839884750510703,Sector
-Sargent,Energy,148,0.10403952037265696,Sector
-Sargent,Consumer Goods,180,0.3873450230749238,Sector
-Sargent,Utilities,77,0.12107293151564125,Sector
-Sargent,Real Estate,129,0.10218755221984988,Sector
-Sargent,Telecommunications,115,0.6700898812471224,Sector
-Sargent,Materials,150,0.18121968274261135,Sector
-Sargent,Industrials,97,0.44739811275979724,Sector
-Sargent,Consumer Services,72,0.10599658914284216,Sector
-Sargent,Transportation,127,0.04864527809906993,Sector
-Technology,Software,33,0.6164079950342553,Industry
-Technology,Hardware,26,0.1637664663697337,Industry
-Technology,IT Services,3,0.7750337917827591,Industry
-Healthcare,Pharmaceuticals,51,0.4453728646338876,Industry
-Healthcare,Medical Devices,50,0.46388774241447484,Industry
-Healthcare,Healthcare Services,78,0.14981795671015707,Industry
-Finance,Banking,76,0.2156748311178095,Industry
-Finance,Insurance,99,0.7888240699557337,Industry
-Finance,Investment Services,7,0.497467712293173,Industry
-Energy,Oil & Gas,36,0.6856040140174541,Industry
-Energy,Renewable Energy,93,0.09721489614041201,Industry
-Energy,Energy Exploration,19,0.6202523625409669,Industry
-Consumer Goods,Food & Beverage,55,0.19865172839862721,Industry
-Consumer Goods,Household Products,79,0.542662987289471,Industry
-Consumer Goods,Apparel,46,0.9581448798596679,Industry
-Utilities,Electric,47,0.73618604691922,Industry
-Utilities,Water,22,0.4367734019351328,Industry
-Utilities,Gas,8,0.9899141998998542,Industry
-Real Estate,Residential,40,0.7832076505080557,Industry
-Real Estate,Commercial,78,0.7126218923979977,Industry
-Real Estate,Industrial,11,0.6148606216067605,Industry
-Telecommunications,Mobile,6,0.19480033142739817,Industry
-Telecommunications,Broadband,25,0.4614635673192986,Industry
-Telecommunications,Satellite,84,0.9170964046585411,Industry
-Materials,Chemicals,32,0.27110489559698847,Industry
-Materials,Metals & Mining,94,0.7534596981561077,Industry
-Materials,Construction Materials,24,0.3506202720014614,Industry
-Industrials,Aerospace & Defense,39,0.3315361250059513,Industry
-Industrials,Machinery,35,0.5119719537025509,Industry
-Industrials,Industrial Services,23,0.08127433759381808,Industry
-Consumer Services,Retail,34,0.5160843739704277,Industry
-Consumer Services,Travel & Leisure,22,0.6256168401715066,Industry
-Consumer Services,Media,16,0.7647657013857814,Industry
-Transportation,Airlines,55,0.249472737375943,Industry
-Transportation,Railroads,50,0.1442863717724584,Industry
-Transportation,Logistics,22,0.8709940344496808,Industry
+,Sargent,742,0.4502683245110572,Overall
+Sargent,HiTech,16,0.0007745696119099144,Sector
+Sargent,Agriculture,13,0.31223683509463407,Sector
+Sargent,Transportation,86,0.1773903872774305,Sector
+Sargent,Consumer_Products,92,0.42889701262820346,Sector
+Sargent,Unassigned,65,0.04693098575176813,Sector
+Sargent,Communication,67,0.23833772045442525,Sector
+Sargent,Trade,11,0.2310152543067413,Sector
+Sargent,Business_Services,18,0.685696453991527,Sector
+Sargent,Business_Products,8,0.0942986743525025,Sector
+Sargent,Construction,1,0.9655807552074868,Sector
+Sargent,Services,98,0.9423660795822771,Sector
+Sargent,Mining,37,0.8717041701400309,Sector
+Sargent,Health_Care,58,0.3919822578198101,Sector
+Sargent,EnergyExpL_Prod,87,0.4590977485155555,Sector
+Sargent,Utilities,85,0.9077159629315544,Sector

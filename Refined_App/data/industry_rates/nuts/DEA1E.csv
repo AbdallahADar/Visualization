@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Viersen,1678,0.26518661428856183,Overall
-Viersen,Technology,126,0.3940816433090969,Sector
-Viersen,Healthcare,115,0.10736353360786155,Sector
-Viersen,Finance,207,0.25747677984948203,Sector
-Viersen,Energy,193,0.7896343093670944,Sector
-Viersen,Consumer Goods,67,0.7240231982649726,Sector
-Viersen,Utilities,147,0.6603281610097536,Sector
-Viersen,Real Estate,170,0.23065999260459324,Sector
-Viersen,Telecommunications,118,0.3259522843543229,Sector
-Viersen,Materials,102,0.6028634252846552,Sector
-Viersen,Industrials,178,0.31632062292153906,Sector
-Viersen,Consumer Services,122,0.5211145832909574,Sector
-Viersen,Transportation,133,0.06268302106114942,Sector
-Technology,Software,40,0.2551620744052242,Industry
-Technology,Hardware,54,0.45640317939851716,Industry
-Technology,IT Services,32,0.4340006596022018,Industry
-Healthcare,Pharmaceuticals,84,0.7040510165984813,Industry
-Healthcare,Medical Devices,28,0.13447776112292686,Industry
-Healthcare,Healthcare Services,3,0.5471966037078103,Industry
-Finance,Banking,13,0.16608135986591288,Industry
-Finance,Insurance,98,0.5524158903306947,Industry
-Finance,Investment Services,96,0.11105549304886686,Industry
-Energy,Oil & Gas,88,0.8576085544627055,Industry
-Energy,Renewable Energy,28,0.4891564325219592,Industry
-Energy,Energy Exploration,77,0.5313025368176568,Industry
-Consumer Goods,Food & Beverage,30,0.4007075375439867,Industry
-Consumer Goods,Household Products,0,0.45008730429001376,Industry
-Consumer Goods,Apparel,37,0.5154886551093744,Industry
-Utilities,Electric,80,0.959066874667215,Industry
-Utilities,Water,36,0.7752378073613865,Industry
-Utilities,Gas,31,0.48417791281473466,Industry
-Real Estate,Residential,26,0.8781273262792888,Industry
-Real Estate,Commercial,63,0.9657494231693723,Industry
-Real Estate,Industrial,81,0.9930856154747681,Industry
-Telecommunications,Mobile,35,0.7788837370657709,Industry
-Telecommunications,Broadband,46,0.10259061928883251,Industry
-Telecommunications,Satellite,37,0.128065938872852,Industry
-Materials,Chemicals,27,0.9800366908149251,Industry
-Materials,Metals & Mining,34,0.011449015092838577,Industry
-Materials,Construction Materials,41,0.1135482273222721,Industry
-Industrials,Aerospace & Defense,62,0.22864232429595122,Industry
-Industrials,Machinery,30,0.745913878802166,Industry
-Industrials,Industrial Services,86,0.12079347132184903,Industry
-Consumer Services,Retail,46,0.19813846854994988,Industry
-Consumer Services,Travel & Leisure,54,0.23114346359078686,Industry
-Consumer Services,Media,22,0.15042915303356086,Industry
-Transportation,Airlines,70,0.3084422065497241,Industry
-Transportation,Railroads,27,0.4100534406408981,Industry
-Transportation,Logistics,36,0.7568203861892632,Industry
+,Viersen,874,0.5240229941964019,Overall
+Viersen,HiTech,88,0.8466818375487861,Sector
+Viersen,Agriculture,80,0.5829225286022627,Sector
+Viersen,Transportation,35,0.07759858980042211,Sector
+Viersen,Consumer_Products,98,0.9905584164457463,Sector
+Viersen,Unassigned,71,0.027025533076051933,Sector
+Viersen,Communication,69,0.6609337749284753,Sector
+Viersen,Trade,22,0.15441505802976463,Sector
+Viersen,Business_Services,45,0.5822361534477614,Sector
+Viersen,Business_Products,9,0.9003741618762475,Sector
+Viersen,Construction,10,0.6869199955413289,Sector
+Viersen,Services,96,0.8301292479620015,Sector
+Viersen,Mining,73,0.6085464558603141,Sector
+Viersen,Health_Care,62,0.1142216134084102,Sector
+Viersen,EnergyExpL_Prod,25,0.09011955288352225,Sector
+Viersen,Utilities,91,0.707661993534932,Sector

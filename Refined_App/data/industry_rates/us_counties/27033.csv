@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cottonwood,1877,0.6918753841770288,Overall
-Cottonwood,Technology,218,0.365075316108495,Sector
-Cottonwood,Healthcare,130,0.885239949254724,Sector
-Cottonwood,Finance,122,0.9787720908927403,Sector
-Cottonwood,Energy,139,0.40874450817229313,Sector
-Cottonwood,Consumer Goods,112,0.06146486277932817,Sector
-Cottonwood,Utilities,237,0.05537215344022395,Sector
-Cottonwood,Real Estate,134,0.8209556585044462,Sector
-Cottonwood,Telecommunications,212,0.09631449565521111,Sector
-Cottonwood,Materials,178,0.776484901492727,Sector
-Cottonwood,Industrials,125,0.28071670801062476,Sector
-Cottonwood,Consumer Services,118,0.7172380062464044,Sector
-Cottonwood,Transportation,152,0.28637495580016525,Sector
-Technology,Software,65,0.5505569376178541,Industry
-Technology,Hardware,74,0.6689559564921017,Industry
-Technology,IT Services,79,0.873337656901832,Industry
-Healthcare,Pharmaceuticals,22,0.5937461988825228,Industry
-Healthcare,Medical Devices,32,0.05511224980354856,Industry
-Healthcare,Healthcare Services,76,0.3744164094706064,Industry
-Finance,Banking,37,0.16283249028159563,Industry
-Finance,Insurance,77,0.9708433623931154,Industry
-Finance,Investment Services,8,0.5088058887547763,Industry
-Energy,Oil & Gas,17,0.18402069695753887,Industry
-Energy,Renewable Energy,99,0.546062255875237,Industry
-Energy,Energy Exploration,23,0.20900032011522096,Industry
-Consumer Goods,Food & Beverage,76,0.620727949784504,Industry
-Consumer Goods,Household Products,16,0.6773264590929565,Industry
-Consumer Goods,Apparel,20,0.020411444946738855,Industry
-Utilities,Electric,94,0.24909474191849146,Industry
-Utilities,Water,80,0.3295571516005139,Industry
-Utilities,Gas,63,0.09700281138332167,Industry
-Real Estate,Residential,93,0.12809721348030678,Industry
-Real Estate,Commercial,37,0.1165084431147535,Industry
-Real Estate,Industrial,4,0.07844477179672127,Industry
-Telecommunications,Mobile,65,0.8317040448478682,Industry
-Telecommunications,Broadband,80,0.36115464818685084,Industry
-Telecommunications,Satellite,67,0.6024482526933022,Industry
-Materials,Chemicals,99,0.6240059327623282,Industry
-Materials,Metals & Mining,61,0.25375948619881517,Industry
-Materials,Construction Materials,18,0.49186469650876363,Industry
-Industrials,Aerospace & Defense,77,0.2818790588019854,Industry
-Industrials,Machinery,25,0.33486224540348775,Industry
-Industrials,Industrial Services,23,0.35892563766735774,Industry
-Consumer Services,Retail,57,0.5488074084197452,Industry
-Consumer Services,Travel & Leisure,49,0.3687027227876465,Industry
-Consumer Services,Media,12,0.553872147401068,Industry
-Transportation,Airlines,39,0.8699204067253817,Industry
-Transportation,Railroads,15,0.7545821421226792,Industry
-Transportation,Logistics,98,0.49568329691977897,Industry
+,Cottonwood,779,0.5341540080239174,Overall
+Cottonwood,HiTech,38,0.8580981996869117,Sector
+Cottonwood,Agriculture,50,0.33562307597696206,Sector
+Cottonwood,Transportation,44,0.3376163942557826,Sector
+Cottonwood,Consumer_Products,38,0.4567416887707513,Sector
+Cottonwood,Unassigned,55,0.14036556293363267,Sector
+Cottonwood,Communication,81,0.8608672229823323,Sector
+Cottonwood,Trade,97,0.1503381757790152,Sector
+Cottonwood,Business_Services,36,0.7566959486394367,Sector
+Cottonwood,Business_Products,4,0.06132544871346135,Sector
+Cottonwood,Construction,26,0.8849325022731104,Sector
+Cottonwood,Services,46,0.4374375412922954,Sector
+Cottonwood,Mining,94,0.9935485581394669,Sector
+Cottonwood,Health_Care,64,0.6838754353171641,Sector
+Cottonwood,EnergyExpL_Prod,64,0.16458033101825054,Sector
+Cottonwood,Utilities,42,0.8902640345801898,Sector

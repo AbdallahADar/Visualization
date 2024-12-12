@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Berkeley,1800,0.06859892906993925,Overall
-Berkeley,Technology,139,0.8422649236855108,Sector
-Berkeley,Healthcare,187,0.9477276369605242,Sector
-Berkeley,Finance,187,0.9886590445384446,Sector
-Berkeley,Energy,168,0.6379917055359386,Sector
-Berkeley,Consumer Goods,215,0.3932514399731718,Sector
-Berkeley,Utilities,88,0.20956417241660108,Sector
-Berkeley,Real Estate,149,0.07255531052406916,Sector
-Berkeley,Telecommunications,130,0.17747967602129122,Sector
-Berkeley,Materials,123,0.5739099150713115,Sector
-Berkeley,Industrials,152,0.3957735045560027,Sector
-Berkeley,Consumer Services,144,0.9008407906772026,Sector
-Berkeley,Transportation,118,0.5432609680881804,Sector
-Technology,Software,50,0.3468282868623668,Industry
-Technology,Hardware,16,0.9925678364277599,Industry
-Technology,IT Services,73,0.3754469808531057,Industry
-Healthcare,Pharmaceuticals,75,0.029249940197281443,Industry
-Healthcare,Medical Devices,66,0.3811362471094968,Industry
-Healthcare,Healthcare Services,46,0.27055823682299185,Industry
-Finance,Banking,45,0.7982772176551487,Industry
-Finance,Insurance,48,0.04932626171750798,Industry
-Finance,Investment Services,94,0.8801696352830725,Industry
-Energy,Oil & Gas,42,0.3739450961217686,Industry
-Energy,Renewable Energy,85,0.6934892400706509,Industry
-Energy,Energy Exploration,41,0.4341973632870797,Industry
-Consumer Goods,Food & Beverage,86,0.46307752032281824,Industry
-Consumer Goods,Household Products,74,0.307351816814031,Industry
-Consumer Goods,Apparel,55,0.7129789993356191,Industry
-Utilities,Electric,85,0.7172071344745564,Industry
-Utilities,Water,1,0.2529485349263729,Industry
-Utilities,Gas,2,0.5459726939287113,Industry
-Real Estate,Residential,82,0.2966262813787993,Industry
-Real Estate,Commercial,28,0.19135490426104151,Industry
-Real Estate,Industrial,39,0.8851768772251476,Industry
-Telecommunications,Mobile,43,0.7334646477706452,Industry
-Telecommunications,Broadband,34,0.8115427094701162,Industry
-Telecommunications,Satellite,53,0.4445383390410944,Industry
-Materials,Chemicals,23,0.4115221159036584,Industry
-Materials,Metals & Mining,84,0.6260240568717611,Industry
-Materials,Construction Materials,16,0.955053863338748,Industry
-Industrials,Aerospace & Defense,16,0.949643012869996,Industry
-Industrials,Machinery,72,0.31164462596089093,Industry
-Industrials,Industrial Services,64,0.11325843355349485,Industry
-Consumer Services,Retail,12,0.3519368462122775,Industry
-Consumer Services,Travel & Leisure,89,0.05703675721253787,Industry
-Consumer Services,Media,43,0.6342422814985939,Industry
-Transportation,Airlines,20,0.3970139597241984,Industry
-Transportation,Railroads,84,0.21428892773194497,Industry
-Transportation,Logistics,14,0.4574303315586903,Industry
+,Berkeley,738,0.6436402937624727,Overall
+Berkeley,HiTech,41,0.23232571332113372,Sector
+Berkeley,Agriculture,41,0.7138201477327909,Sector
+Berkeley,Transportation,34,0.8174350290789767,Sector
+Berkeley,Consumer_Products,75,0.11502817766576812,Sector
+Berkeley,Unassigned,41,0.8341678601697856,Sector
+Berkeley,Communication,48,0.8699770544037507,Sector
+Berkeley,Trade,90,0.9918704332150143,Sector
+Berkeley,Business_Services,11,0.9746803155089822,Sector
+Berkeley,Business_Products,77,0.8222798166716945,Sector
+Berkeley,Construction,4,0.7213145363270639,Sector
+Berkeley,Services,71,0.6728062052004529,Sector
+Berkeley,Mining,48,0.2075923451801075,Sector
+Berkeley,Health_Care,55,0.7032961083926482,Sector
+Berkeley,EnergyExpL_Prod,18,0.4155961818873176,Sector
+Berkeley,Utilities,84,0.5624144816816021,Sector

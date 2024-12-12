@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Benton,1553,0.6566780325335705,Overall
-Benton,Technology,72,0.48087494322174007,Sector
-Benton,Healthcare,192,0.006606117820261659,Sector
-Benton,Finance,62,0.7459931142984997,Sector
-Benton,Energy,105,0.939231174677842,Sector
-Benton,Consumer Goods,203,0.3819496971498554,Sector
-Benton,Utilities,182,0.35016438317933485,Sector
-Benton,Real Estate,171,0.10044614657822704,Sector
-Benton,Telecommunications,123,0.7175108088545933,Sector
-Benton,Materials,67,0.4317154858298262,Sector
-Benton,Industrials,140,0.903344569159945,Sector
-Benton,Consumer Services,136,0.6567971022190895,Sector
-Benton,Transportation,100,0.34437287611883305,Sector
-Technology,Software,23,0.5178554754477486,Industry
-Technology,Hardware,29,0.22848016634538604,Industry
-Technology,IT Services,20,0.28969226319274377,Industry
-Healthcare,Pharmaceuticals,83,0.46745713617850926,Industry
-Healthcare,Medical Devices,11,0.2833742155587087,Industry
-Healthcare,Healthcare Services,98,0.8226620209319856,Industry
-Finance,Banking,11,0.08364911993640844,Industry
-Finance,Insurance,6,0.770723394278196,Industry
-Finance,Investment Services,45,0.7988892465981787,Industry
-Energy,Oil & Gas,16,0.46703156952787817,Industry
-Energy,Renewable Energy,16,0.7630265648495175,Industry
-Energy,Energy Exploration,73,0.6425229134552056,Industry
-Consumer Goods,Food & Beverage,81,0.7810567534669092,Industry
-Consumer Goods,Household Products,80,0.4388725936101274,Industry
-Consumer Goods,Apparel,42,0.4776557826564477,Industry
-Utilities,Electric,95,0.2646111415752679,Industry
-Utilities,Water,53,0.11890821761974779,Industry
-Utilities,Gas,34,0.593072849967352,Industry
-Real Estate,Residential,80,0.2761189520469931,Industry
-Real Estate,Commercial,74,0.7459564424571048,Industry
-Real Estate,Industrial,17,0.3839384735254533,Industry
-Telecommunications,Mobile,47,0.43766193832861544,Industry
-Telecommunications,Broadband,10,0.23289690042047384,Industry
-Telecommunications,Satellite,66,0.545694958504804,Industry
-Materials,Chemicals,54,0.4567905387394049,Industry
-Materials,Metals & Mining,9,0.06903511229964543,Industry
-Materials,Construction Materials,4,0.0334816831994772,Industry
-Industrials,Aerospace & Defense,26,0.957598619189888,Industry
-Industrials,Machinery,36,0.22508163010859672,Industry
-Industrials,Industrial Services,78,0.9191707200702979,Industry
-Consumer Services,Retail,32,0.2924826143007835,Industry
-Consumer Services,Travel & Leisure,38,0.9154113304267281,Industry
-Consumer Services,Media,66,0.338834977191214,Industry
-Transportation,Airlines,29,0.9123087768411361,Industry
-Transportation,Railroads,15,0.20138702631734573,Industry
-Transportation,Logistics,56,0.31543079181861333,Industry
+,Benton,825,0.5067664600129288,Overall
+Benton,HiTech,21,0.3213353886282547,Sector
+Benton,Agriculture,33,0.21665581085671526,Sector
+Benton,Transportation,66,0.9104573331352133,Sector
+Benton,Consumer_Products,52,0.6664032537521092,Sector
+Benton,Unassigned,1,0.39109581890688394,Sector
+Benton,Communication,79,0.7544206377215319,Sector
+Benton,Trade,65,0.7268112492726886,Sector
+Benton,Business_Services,12,0.3383050183065841,Sector
+Benton,Business_Products,83,0.750507839365722,Sector
+Benton,Construction,93,0.5107486335041844,Sector
+Benton,Services,50,0.17491383653259995,Sector
+Benton,Mining,89,0.13129207044138658,Sector
+Benton,Health_Care,64,0.28438288477423024,Sector
+Benton,EnergyExpL_Prod,73,0.8624457242697618,Sector
+Benton,Utilities,44,0.5617214007260679,Sector

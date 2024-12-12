@@ -21,7 +21,7 @@ def register_callbacks(app):
         prevent_initial_call = True
     )
     def update(sector, state):
-
+        
         print("sector-dropdown")
 
         SM = StateManager.from_dict(state)

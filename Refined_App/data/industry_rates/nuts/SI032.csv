@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Podravska,1492,0.47134353689466923,Overall
-Podravska,Technology,225,0.5239405031441533,Sector
-Podravska,Healthcare,67,0.7030467627913123,Sector
-Podravska,Finance,139,0.26722747023607174,Sector
-Podravska,Energy,110,0.8941664866358955,Sector
-Podravska,Consumer Goods,26,0.8175369975058495,Sector
-Podravska,Utilities,162,0.8766546908006208,Sector
-Podravska,Real Estate,115,0.2687235178636138,Sector
-Podravska,Telecommunications,102,0.1277334533302762,Sector
-Podravska,Materials,139,0.256304721158261,Sector
-Podravska,Industrials,166,0.9829821828068657,Sector
-Podravska,Consumer Services,133,0.5241206991846471,Sector
-Podravska,Transportation,108,0.4826123603647009,Sector
-Technology,Software,64,0.5221304447016963,Industry
-Technology,Hardware,99,0.3771079086283228,Industry
-Technology,IT Services,62,0.5523662908574553,Industry
-Healthcare,Pharmaceuticals,49,0.4119337082618255,Industry
-Healthcare,Medical Devices,11,0.9658740482192335,Industry
-Healthcare,Healthcare Services,7,0.6725421622146246,Industry
-Finance,Banking,83,0.6763802864405559,Industry
-Finance,Insurance,52,0.8422816178542729,Industry
-Finance,Investment Services,4,0.6735856392164354,Industry
-Energy,Oil & Gas,95,0.886108529246853,Industry
-Energy,Renewable Energy,13,0.7021267434257014,Industry
-Energy,Energy Exploration,2,0.34300118045341876,Industry
-Consumer Goods,Food & Beverage,5,0.0611351544778268,Industry
-Consumer Goods,Household Products,4,0.7715493027442715,Industry
-Consumer Goods,Apparel,17,0.9060967985572211,Industry
-Utilities,Electric,55,0.12246993309890364,Industry
-Utilities,Water,13,0.9743979087970372,Industry
-Utilities,Gas,94,0.03787745568429002,Industry
-Real Estate,Residential,25,0.1733032543415418,Industry
-Real Estate,Commercial,43,0.4033361985474153,Industry
-Real Estate,Industrial,47,0.30299002154954824,Industry
-Telecommunications,Mobile,20,0.37351430577699674,Industry
-Telecommunications,Broadband,11,0.8702162935150173,Industry
-Telecommunications,Satellite,71,0.5919931140572252,Industry
-Materials,Chemicals,19,0.07952542172113297,Industry
-Materials,Metals & Mining,65,0.8899967282371376,Industry
-Materials,Construction Materials,55,0.8387479401834446,Industry
-Industrials,Aerospace & Defense,76,0.33800936334512266,Industry
-Industrials,Machinery,71,0.9115047675888558,Industry
-Industrials,Industrial Services,19,0.2559775662917658,Industry
-Consumer Services,Retail,83,0.7583283964884519,Industry
-Consumer Services,Travel & Leisure,48,0.8605048590463624,Industry
-Consumer Services,Media,2,0.4515369140815997,Industry
-Transportation,Airlines,83,0.025216761749154326,Industry
-Transportation,Railroads,9,0.7479952229097326,Industry
-Transportation,Logistics,16,0.541383709943614,Industry
+,Podravska,800,0.5262635362174312,Overall
+Podravska,HiTech,78,0.957835003811078,Sector
+Podravska,Agriculture,40,0.9585204526213598,Sector
+Podravska,Transportation,32,0.28677248026033086,Sector
+Podravska,Consumer_Products,92,0.10256040473674266,Sector
+Podravska,Unassigned,67,0.6127089207020527,Sector
+Podravska,Communication,24,0.7677623878103875,Sector
+Podravska,Trade,88,0.05853985202403478,Sector
+Podravska,Business_Services,94,0.6319388610909361,Sector
+Podravska,Business_Products,62,0.6306339168042397,Sector
+Podravska,Construction,11,0.055169102786299606,Sector
+Podravska,Services,35,0.9373765892009707,Sector
+Podravska,Mining,51,0.0029904416422674718,Sector
+Podravska,Health_Care,43,0.3950940391663854,Sector
+Podravska,EnergyExpL_Prod,48,0.7684772439460444,Sector
+Podravska,Utilities,35,0.7275733466583382,Sector

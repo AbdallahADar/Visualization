@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Manatí,1665,0.36613489883258843,Overall
-Manatí,Technology,86,0.9009955321435597,Sector
-Manatí,Healthcare,110,0.8873681594033352,Sector
-Manatí,Finance,133,0.1050566804676546,Sector
-Manatí,Energy,115,0.7326031458379375,Sector
-Manatí,Consumer Goods,198,0.9769405428679169,Sector
-Manatí,Utilities,193,0.3274904984509208,Sector
-Manatí,Real Estate,115,0.42489207011217656,Sector
-Manatí,Telecommunications,156,0.0426469290303263,Sector
-Manatí,Materials,155,0.9617501448125553,Sector
-Manatí,Industrials,110,0.5875924343492414,Sector
-Manatí,Consumer Services,107,0.26838336016237707,Sector
-Manatí,Transportation,187,0.14433985525943072,Sector
-Technology,Software,29,0.6033778984138501,Industry
-Technology,Hardware,20,0.7003783404068034,Industry
-Technology,IT Services,37,0.15148748995296668,Industry
-Healthcare,Pharmaceuticals,45,0.2724795774690697,Industry
-Healthcare,Medical Devices,22,0.13174084163642874,Industry
-Healthcare,Healthcare Services,43,0.3479428178955227,Industry
-Finance,Banking,46,0.9107350300404167,Industry
-Finance,Insurance,59,0.6969347523134648,Industry
-Finance,Investment Services,28,0.5623030329068689,Industry
-Energy,Oil & Gas,4,0.5615831542811545,Industry
-Energy,Renewable Energy,74,0.8635402284200131,Industry
-Energy,Energy Exploration,37,0.98211960924096,Industry
-Consumer Goods,Food & Beverage,33,0.6668085422475601,Industry
-Consumer Goods,Household Products,77,0.6612000760436788,Industry
-Consumer Goods,Apparel,88,0.9454321856927119,Industry
-Utilities,Electric,78,0.8700682161006698,Industry
-Utilities,Water,91,0.9085987605318032,Industry
-Utilities,Gas,24,0.6841266695744405,Industry
-Real Estate,Residential,16,0.02873761075060499,Industry
-Real Estate,Commercial,54,0.7678351729900962,Industry
-Real Estate,Industrial,45,0.19964174569685378,Industry
-Telecommunications,Mobile,37,0.06324181395514206,Industry
-Telecommunications,Broadband,96,0.2995828485066072,Industry
-Telecommunications,Satellite,23,0.13719411422263217,Industry
-Materials,Chemicals,70,0.8520135624017255,Industry
-Materials,Metals & Mining,75,0.7749370405553655,Industry
-Materials,Construction Materials,10,0.7436759398368078,Industry
-Industrials,Aerospace & Defense,73,0.42936910924143823,Industry
-Industrials,Machinery,24,0.1969653531606015,Industry
-Industrials,Industrial Services,13,0.5924045685321716,Industry
-Consumer Services,Retail,6,0.12835732246787002,Industry
-Consumer Services,Travel & Leisure,37,0.6352885852484745,Industry
-Consumer Services,Media,64,0.2923568913043161,Industry
-Transportation,Airlines,95,0.039010755308075296,Industry
-Transportation,Railroads,79,0.825840894435896,Industry
-Transportation,Logistics,13,0.5305949924969305,Industry
+,Manatí,968,0.5545443208631594,Overall
+Manatí,HiTech,95,0.8915897691579417,Sector
+Manatí,Agriculture,84,0.8881884879523065,Sector
+Manatí,Transportation,89,0.4485090430022409,Sector
+Manatí,Consumer_Products,3,0.9653198266333973,Sector
+Manatí,Unassigned,86,0.1380381669211398,Sector
+Manatí,Communication,32,0.024794003228999495,Sector
+Manatí,Trade,86,0.8378621983903686,Sector
+Manatí,Business_Services,57,0.7163480477077253,Sector
+Manatí,Business_Products,21,0.3002962689325376,Sector
+Manatí,Construction,96,0.43990694094900673,Sector
+Manatí,Services,91,0.46517980924694335,Sector
+Manatí,Mining,80,0.20358359217388522,Sector
+Manatí,Health_Care,35,0.6535049417912078,Sector
+Manatí,EnergyExpL_Prod,57,0.5498124528697236,Sector
+Manatí,Utilities,56,0.7952312639899666,Sector

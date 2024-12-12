@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Clearwater,1915,0.15552071713130955,Overall
-Clearwater,Technology,230,0.885633446853746,Sector
-Clearwater,Healthcare,85,0.3812175637655074,Sector
-Clearwater,Finance,145,0.12458697507269223,Sector
-Clearwater,Energy,118,0.7383349753068936,Sector
-Clearwater,Consumer Goods,119,0.9911620283775868,Sector
-Clearwater,Utilities,184,0.5489938953965162,Sector
-Clearwater,Real Estate,130,0.08154708642858366,Sector
-Clearwater,Telecommunications,215,0.28200676005517455,Sector
-Clearwater,Materials,182,0.7742470624441641,Sector
-Clearwater,Industrials,116,0.5798007699679347,Sector
-Clearwater,Consumer Services,186,0.40955714638538054,Sector
-Clearwater,Transportation,205,0.29342104305402894,Sector
-Technology,Software,45,0.20830935540458373,Industry
-Technology,Hardware,91,0.23678414128758496,Industry
-Technology,IT Services,94,0.1162379698117767,Industry
-Healthcare,Pharmaceuticals,4,0.9471630694529648,Industry
-Healthcare,Medical Devices,29,0.5285993770670607,Industry
-Healthcare,Healthcare Services,52,0.34819653254440497,Industry
-Finance,Banking,90,0.46878858916021326,Industry
-Finance,Insurance,15,0.14913083621977963,Industry
-Finance,Investment Services,40,0.8412383449701935,Industry
-Energy,Oil & Gas,0,0.03304453168816346,Industry
-Energy,Renewable Energy,34,0.5175364264897384,Industry
-Energy,Energy Exploration,84,0.7896025105382214,Industry
-Consumer Goods,Food & Beverage,55,0.6952205038760808,Industry
-Consumer Goods,Household Products,57,0.1651256867784422,Industry
-Consumer Goods,Apparel,7,0.6267908832820318,Industry
-Utilities,Electric,72,0.4314188845777531,Industry
-Utilities,Water,48,0.12176834240979384,Industry
-Utilities,Gas,64,0.6924901628244903,Industry
-Real Estate,Residential,2,0.7794652545838391,Industry
-Real Estate,Commercial,30,0.6400914047668006,Industry
-Real Estate,Industrial,98,0.6739291792696985,Industry
-Telecommunications,Mobile,64,0.7879232356161402,Industry
-Telecommunications,Broadband,94,0.7730108274099979,Industry
-Telecommunications,Satellite,57,0.701074144411776,Industry
-Materials,Chemicals,51,0.22323470144118385,Industry
-Materials,Metals & Mining,84,0.12131988250499393,Industry
-Materials,Construction Materials,47,0.24606538949151846,Industry
-Industrials,Aerospace & Defense,46,0.6970098715887649,Industry
-Industrials,Machinery,49,0.3042220750460304,Industry
-Industrials,Industrial Services,21,0.9880744387930201,Industry
-Consumer Services,Retail,55,0.284107569601993,Industry
-Consumer Services,Travel & Leisure,37,0.6484305384599187,Industry
-Consumer Services,Media,94,0.22703914098853872,Industry
-Transportation,Airlines,53,0.4626866900540484,Industry
-Transportation,Railroads,56,0.4343752697793217,Industry
-Transportation,Logistics,96,0.7662705863672988,Industry
+,Clearwater,649,0.5080168186249377,Overall
+Clearwater,HiTech,89,0.5759197005665969,Sector
+Clearwater,Agriculture,2,0.20956599971333256,Sector
+Clearwater,Transportation,75,0.9033580076650859,Sector
+Clearwater,Consumer_Products,33,0.09846157892694485,Sector
+Clearwater,Unassigned,0,0.8709799246242292,Sector
+Clearwater,Communication,65,0.5609518506406972,Sector
+Clearwater,Trade,19,0.10177321768167469,Sector
+Clearwater,Business_Services,0,0.11978454072058176,Sector
+Clearwater,Business_Products,23,0.7465460305297524,Sector
+Clearwater,Construction,71,0.015973771709610562,Sector
+Clearwater,Services,60,0.8827330685932705,Sector
+Clearwater,Mining,17,0.6578755051999944,Sector
+Clearwater,Health_Care,45,0.6468410545570117,Sector
+Clearwater,EnergyExpL_Prod,94,0.7959878055588037,Sector
+Clearwater,Utilities,56,0.4335002226864798,Sector

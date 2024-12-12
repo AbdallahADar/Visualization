@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Malatya,1909,0.5936824172035859,Overall
-Malatya,Technology,55,0.2969973285068105,Sector
-Malatya,Healthcare,144,0.8650397428389306,Sector
-Malatya,Finance,91,0.02230751187143909,Sector
-Malatya,Energy,133,0.046065814625908086,Sector
-Malatya,Consumer Goods,171,0.7041498777894246,Sector
-Malatya,Utilities,253,0.6665525624731987,Sector
-Malatya,Real Estate,113,0.9220274384212716,Sector
-Malatya,Telecommunications,201,0.4712665774160646,Sector
-Malatya,Materials,122,0.06668325643404438,Sector
-Malatya,Industrials,182,0.7588946332809782,Sector
-Malatya,Consumer Services,220,0.32717192749386004,Sector
-Malatya,Transportation,224,0.14706640860108233,Sector
-Technology,Software,26,0.5912347283574596,Industry
-Technology,Hardware,22,0.02927821085660831,Industry
-Technology,IT Services,7,0.35462267601816666,Industry
-Healthcare,Pharmaceuticals,47,0.5677709710604915,Industry
-Healthcare,Medical Devices,48,0.2042531123075798,Industry
-Healthcare,Healthcare Services,49,0.6232724633938445,Industry
-Finance,Banking,48,0.2397170514356668,Industry
-Finance,Insurance,39,0.43880660402620963,Industry
-Finance,Investment Services,4,0.3143008618650919,Industry
-Energy,Oil & Gas,41,0.4201402565745159,Industry
-Energy,Renewable Energy,50,0.9495369301823298,Industry
-Energy,Energy Exploration,42,0.18985978625030608,Industry
-Consumer Goods,Food & Beverage,29,0.43822919865363064,Industry
-Consumer Goods,Household Products,63,0.7669665563630563,Industry
-Consumer Goods,Apparel,79,0.41577013455269896,Industry
-Utilities,Electric,93,0.9736936054639519,Industry
-Utilities,Water,75,0.040277274658444995,Industry
-Utilities,Gas,85,0.8034466586645465,Industry
-Real Estate,Residential,15,0.24156029965658132,Industry
-Real Estate,Commercial,39,0.25390406931269605,Industry
-Real Estate,Industrial,59,0.7594871571772462,Industry
-Telecommunications,Mobile,37,0.9901478604379689,Industry
-Telecommunications,Broadband,76,0.26041670808613704,Industry
-Telecommunications,Satellite,88,0.9860302830050607,Industry
-Materials,Chemicals,41,0.39438541070964617,Industry
-Materials,Metals & Mining,5,0.8140726235611133,Industry
-Materials,Construction Materials,76,0.3151612541961659,Industry
-Industrials,Aerospace & Defense,64,0.6648188203591584,Industry
-Industrials,Machinery,80,0.5899215504283473,Industry
-Industrials,Industrial Services,38,0.48165590872501207,Industry
-Consumer Services,Retail,96,0.1943173410146236,Industry
-Consumer Services,Travel & Leisure,47,0.10721699100801907,Industry
-Consumer Services,Media,77,0.9730498574844948,Industry
-Transportation,Airlines,74,0.46325984418591704,Industry
-Transportation,Railroads,85,0.039984481550357054,Industry
-Transportation,Logistics,65,0.9443173311403281,Industry
+,Malatya,854,0.42967322600537405,Overall
+Malatya,HiTech,73,0.2590988211238312,Sector
+Malatya,Agriculture,77,0.6044813315365721,Sector
+Malatya,Transportation,14,0.7097992360711286,Sector
+Malatya,Consumer_Products,64,0.2115781122251439,Sector
+Malatya,Unassigned,5,0.9974136754433043,Sector
+Malatya,Communication,67,0.8734648439416589,Sector
+Malatya,Trade,60,0.13060546684696983,Sector
+Malatya,Business_Services,81,0.17207013662206427,Sector
+Malatya,Business_Products,68,0.25741193532818374,Sector
+Malatya,Construction,18,0.040695514795143994,Sector
+Malatya,Services,79,0.26436842475176003,Sector
+Malatya,Mining,53,0.0954547731189963,Sector
+Malatya,Health_Care,76,0.850554321297292,Sector
+Malatya,EnergyExpL_Prod,43,0.6891224815597667,Sector
+Malatya,Utilities,76,0.28897931541879573,Sector

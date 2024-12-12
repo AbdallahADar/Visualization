@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Humboldt,1798,0.899088582190275,Overall
-Humboldt,Technology,98,0.8665779961573287,Sector
-Humboldt,Healthcare,85,0.579542682737756,Sector
-Humboldt,Finance,102,0.07822819156261862,Sector
-Humboldt,Energy,107,0.1136563612139454,Sector
-Humboldt,Consumer Goods,228,0.8753466283522838,Sector
-Humboldt,Utilities,161,0.21111784894292096,Sector
-Humboldt,Real Estate,115,0.8167995611934754,Sector
-Humboldt,Telecommunications,243,0.16245775554909592,Sector
-Humboldt,Materials,173,0.9549827450030914,Sector
-Humboldt,Industrials,197,0.5816260609577836,Sector
-Humboldt,Consumer Services,169,0.9997023845969585,Sector
-Humboldt,Transportation,120,0.15250707477948877,Sector
-Technology,Software,18,0.136802678687852,Industry
-Technology,Hardware,51,0.5032069958804675,Industry
-Technology,IT Services,29,0.5734032199694344,Industry
-Healthcare,Pharmaceuticals,67,0.024999116206346206,Industry
-Healthcare,Medical Devices,0,0.7007947892560411,Industry
-Healthcare,Healthcare Services,18,0.17209874079770615,Industry
-Finance,Banking,61,0.967396136980325,Industry
-Finance,Insurance,23,0.7079638486434837,Industry
-Finance,Investment Services,18,0.4982056375646712,Industry
-Energy,Oil & Gas,77,0.1218960686310896,Industry
-Energy,Renewable Energy,27,0.3908801709145544,Industry
-Energy,Energy Exploration,3,0.09641324128723139,Industry
-Consumer Goods,Food & Beverage,56,0.7701006858133405,Industry
-Consumer Goods,Household Products,90,0.5006296186563716,Industry
-Consumer Goods,Apparel,82,0.5382179938607549,Industry
-Utilities,Electric,92,0.5639788263115677,Industry
-Utilities,Water,10,0.028785749654595016,Industry
-Utilities,Gas,59,0.6786460250537565,Industry
-Real Estate,Residential,63,0.7893823112449605,Industry
-Real Estate,Commercial,12,0.4601079706200335,Industry
-Real Estate,Industrial,40,0.26226823172140157,Industry
-Telecommunications,Mobile,76,0.9694615878105199,Industry
-Telecommunications,Broadband,68,0.4716678711552643,Industry
-Telecommunications,Satellite,99,0.2620425175607001,Industry
-Materials,Chemicals,63,0.8471755118361399,Industry
-Materials,Metals & Mining,51,0.9780504546610151,Industry
-Materials,Construction Materials,59,0.45406992148605074,Industry
-Industrials,Aerospace & Defense,85,0.3476190886718469,Industry
-Industrials,Machinery,54,0.1351891948094187,Industry
-Industrials,Industrial Services,58,0.005463627713278352,Industry
-Consumer Services,Retail,83,0.6525415348873733,Industry
-Consumer Services,Travel & Leisure,9,0.916163198684191,Industry
-Consumer Services,Media,77,0.37871589848089837,Industry
-Transportation,Airlines,31,0.15016969465592656,Industry
-Transportation,Railroads,26,0.5926308744764993,Industry
-Transportation,Logistics,63,0.38214248860074407,Industry
+,Humboldt,775,0.5573915352460289,Overall
+Humboldt,HiTech,28,0.7089408537670776,Sector
+Humboldt,Agriculture,21,0.8576905510162174,Sector
+Humboldt,Transportation,77,0.051974655971502415,Sector
+Humboldt,Consumer_Products,11,0.33668659852836136,Sector
+Humboldt,Unassigned,3,0.17972191559681827,Sector
+Humboldt,Communication,38,0.4809659015014973,Sector
+Humboldt,Trade,87,0.6120663440606943,Sector
+Humboldt,Business_Services,97,0.7466261881069493,Sector
+Humboldt,Business_Products,82,0.45842135875856405,Sector
+Humboldt,Construction,73,0.4070472135091734,Sector
+Humboldt,Services,97,0.8870391386675495,Sector
+Humboldt,Mining,44,0.7445840930456831,Sector
+Humboldt,Health_Care,4,0.6869724842521064,Sector
+Humboldt,EnergyExpL_Prod,67,0.5662583806875523,Sector
+Humboldt,Utilities,46,0.6358773512206877,Sector

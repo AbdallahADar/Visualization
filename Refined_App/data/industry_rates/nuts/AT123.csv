@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sankt Pölten,1643,0.39671460659604674,Overall
-Sankt Pölten,Technology,163,0.12974401638614008,Sector
-Sankt Pölten,Healthcare,112,0.20627931802343025,Sector
-Sankt Pölten,Finance,247,0.0476131071390582,Sector
-Sankt Pölten,Energy,145,0.8457776616945355,Sector
-Sankt Pölten,Consumer Goods,113,0.7436583905227194,Sector
-Sankt Pölten,Utilities,143,0.9537524606154103,Sector
-Sankt Pölten,Real Estate,83,0.8479004364531177,Sector
-Sankt Pölten,Telecommunications,172,0.5691230039184298,Sector
-Sankt Pölten,Materials,222,0.24545031455617738,Sector
-Sankt Pölten,Industrials,80,0.3679538243585536,Sector
-Sankt Pölten,Consumer Services,63,0.414819295608732,Sector
-Sankt Pölten,Transportation,100,0.623510178234738,Sector
-Technology,Software,42,0.7003511128622607,Industry
-Technology,Hardware,72,0.38805686773550563,Industry
-Technology,IT Services,49,0.4384144529004925,Industry
-Healthcare,Pharmaceuticals,8,0.40528440670601773,Industry
-Healthcare,Medical Devices,84,0.9669924982339042,Industry
-Healthcare,Healthcare Services,20,0.17534541903044676,Industry
-Finance,Banking,58,0.2521842895311105,Industry
-Finance,Insurance,93,0.9787086069221859,Industry
-Finance,Investment Services,96,0.3672994504880325,Industry
-Energy,Oil & Gas,62,0.7585537790223936,Industry
-Energy,Renewable Energy,72,0.09544443404994651,Industry
-Energy,Energy Exploration,11,0.46404221389479394,Industry
-Consumer Goods,Food & Beverage,20,0.6044452183541924,Industry
-Consumer Goods,Household Products,65,0.006810764446292916,Industry
-Consumer Goods,Apparel,28,0.970546786684876,Industry
-Utilities,Electric,38,0.3750768638587805,Industry
-Utilities,Water,88,0.8570683462385662,Industry
-Utilities,Gas,17,0.6868058595721772,Industry
-Real Estate,Residential,7,0.268909627975766,Industry
-Real Estate,Commercial,53,0.29350722630806314,Industry
-Real Estate,Industrial,23,0.1700997640892219,Industry
-Telecommunications,Mobile,89,0.9001906696613633,Industry
-Telecommunications,Broadband,65,0.8834811666805649,Industry
-Telecommunications,Satellite,18,0.7558801364053297,Industry
-Materials,Chemicals,77,0.38333792162470515,Industry
-Materials,Metals & Mining,91,0.016486376525224555,Industry
-Materials,Construction Materials,54,0.9873523464154614,Industry
-Industrials,Aerospace & Defense,64,0.4973954384200555,Industry
-Industrials,Machinery,12,0.3068471051457331,Industry
-Industrials,Industrial Services,4,0.7340580712765808,Industry
-Consumer Services,Retail,12,0.8902679604831607,Industry
-Consumer Services,Travel & Leisure,2,0.05629644735660799,Industry
-Consumer Services,Media,49,0.0594832302540238,Industry
-Transportation,Airlines,50,0.7114413774581773,Industry
-Transportation,Railroads,32,0.8905676476060008,Industry
-Transportation,Logistics,18,0.6153805146592847,Industry
+,Sankt Pölten,645,0.4546558695265139,Overall
+Sankt Pölten,HiTech,52,0.45156401769527077,Sector
+Sankt Pölten,Agriculture,42,0.06898161358957311,Sector
+Sankt Pölten,Transportation,95,0.8080287993819661,Sector
+Sankt Pölten,Consumer_Products,57,0.13856915740330944,Sector
+Sankt Pölten,Unassigned,5,0.02282089126709763,Sector
+Sankt Pölten,Communication,19,0.15828241687612732,Sector
+Sankt Pölten,Trade,15,0.5529700145313035,Sector
+Sankt Pölten,Business_Services,89,0.4491925820145076,Sector
+Sankt Pölten,Business_Products,65,0.3488649690786221,Sector
+Sankt Pölten,Construction,17,0.6010182139566146,Sector
+Sankt Pölten,Services,3,0.865807868075389,Sector
+Sankt Pölten,Mining,44,0.2157218785202485,Sector
+Sankt Pölten,Health_Care,25,0.7535853689711206,Sector
+Sankt Pölten,EnergyExpL_Prod,44,0.9841587435263942,Sector
+Sankt Pölten,Utilities,73,0.40027150801016376,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Winkler,1820,0.7841030714480282,Overall
-Winkler,Technology,213,0.9661952874807517,Sector
-Winkler,Healthcare,166,0.36001448195710184,Sector
-Winkler,Finance,171,0.6248278474124199,Sector
-Winkler,Energy,155,0.40637103688503273,Sector
-Winkler,Consumer Goods,127,0.7515592869326783,Sector
-Winkler,Utilities,160,0.6705565281336432,Sector
-Winkler,Real Estate,117,0.17272928157984035,Sector
-Winkler,Telecommunications,97,0.38894653824855907,Sector
-Winkler,Materials,122,0.6458499666384548,Sector
-Winkler,Industrials,171,0.009672532361300168,Sector
-Winkler,Consumer Services,127,0.45073967499217293,Sector
-Winkler,Transportation,194,0.9234219226378007,Sector
-Technology,Software,50,0.37071993625174315,Industry
-Technology,Hardware,85,0.9890970839779304,Industry
-Technology,IT Services,78,0.19081979100430801,Industry
-Healthcare,Pharmaceuticals,57,0.3657718878007117,Industry
-Healthcare,Medical Devices,81,0.5888953436362969,Industry
-Healthcare,Healthcare Services,28,0.8597085313711336,Industry
-Finance,Banking,62,0.09231676907212027,Industry
-Finance,Insurance,33,0.08307427012390745,Industry
-Finance,Investment Services,76,0.41262816509325195,Industry
-Energy,Oil & Gas,78,0.899878564391963,Industry
-Energy,Renewable Energy,28,0.49560979256747806,Industry
-Energy,Energy Exploration,49,0.5924769972626531,Industry
-Consumer Goods,Food & Beverage,78,0.8063923779399667,Industry
-Consumer Goods,Household Products,7,0.25302008620199934,Industry
-Consumer Goods,Apparel,42,0.06909640860705457,Industry
-Utilities,Electric,54,0.28426521958626116,Industry
-Utilities,Water,71,0.3971966608648956,Industry
-Utilities,Gas,35,0.21757864288260198,Industry
-Real Estate,Residential,18,0.2073954265168566,Industry
-Real Estate,Commercial,97,0.18079939180735582,Industry
-Real Estate,Industrial,2,0.11316537617561118,Industry
-Telecommunications,Mobile,46,0.8659168909516987,Industry
-Telecommunications,Broadband,0,0.990526966909208,Industry
-Telecommunications,Satellite,51,0.4437979293742891,Industry
-Materials,Chemicals,39,0.8094844659731459,Industry
-Materials,Metals & Mining,21,0.9532491757503836,Industry
-Materials,Construction Materials,62,0.7654231779468532,Industry
-Industrials,Aerospace & Defense,42,0.3197388251094727,Industry
-Industrials,Machinery,70,0.05626028230624058,Industry
-Industrials,Industrial Services,59,0.47357643376394953,Industry
-Consumer Services,Retail,21,0.08762842187548536,Industry
-Consumer Services,Travel & Leisure,72,0.1664706281830377,Industry
-Consumer Services,Media,34,0.09729223219558081,Industry
-Transportation,Airlines,94,0.8289550257985626,Industry
-Transportation,Railroads,25,0.8672968582848006,Industry
-Transportation,Logistics,75,0.25203487532467583,Industry
+,Winkler,694,0.43392881054214205,Overall
+Winkler,HiTech,6,0.024333790386663168,Sector
+Winkler,Agriculture,35,0.44768521949448215,Sector
+Winkler,Transportation,46,0.9520749971127774,Sector
+Winkler,Consumer_Products,24,0.13610424752530004,Sector
+Winkler,Unassigned,29,0.31856354381451024,Sector
+Winkler,Communication,67,0.7178763051692711,Sector
+Winkler,Trade,52,0.24245252587657073,Sector
+Winkler,Business_Services,61,0.5743831978858377,Sector
+Winkler,Business_Products,77,0.38342406788640127,Sector
+Winkler,Construction,43,0.6154454593062195,Sector
+Winkler,Services,97,0.34896951771433093,Sector
+Winkler,Mining,69,0.39486795898506466,Sector
+Winkler,Health_Care,20,0.7619036249280573,Sector
+Winkler,EnergyExpL_Prod,11,0.10843186691098838,Sector
+Winkler,Utilities,57,0.4824158351356569,Sector

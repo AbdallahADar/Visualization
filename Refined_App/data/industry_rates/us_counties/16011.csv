@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bingham,1905,0.12582359397922438,Overall
-Bingham,Technology,216,0.663419456713613,Sector
-Bingham,Healthcare,124,0.5352798303008959,Sector
-Bingham,Finance,149,0.7556977315034997,Sector
-Bingham,Energy,134,0.317959103954061,Sector
-Bingham,Consumer Goods,193,0.2290483162923157,Sector
-Bingham,Utilities,180,0.15390031221051326,Sector
-Bingham,Real Estate,134,0.3997866730261501,Sector
-Bingham,Telecommunications,243,0.3469830412731133,Sector
-Bingham,Materials,207,0.7542429576383306,Sector
-Bingham,Industrials,149,0.10007190672798638,Sector
-Bingham,Consumer Services,121,0.38966905673853625,Sector
-Bingham,Transportation,55,0.4409560146057745,Sector
-Technology,Software,71,0.7881185979279959,Industry
-Technology,Hardware,50,0.8346511288340878,Industry
-Technology,IT Services,95,0.7891303868999447,Industry
-Healthcare,Pharmaceuticals,83,0.28086931577451923,Industry
-Healthcare,Medical Devices,7,0.690302323713748,Industry
-Healthcare,Healthcare Services,34,0.07459658231761757,Industry
-Finance,Banking,64,0.9113236410411719,Industry
-Finance,Insurance,0,0.5689552666547472,Industry
-Finance,Investment Services,85,0.9162032447724467,Industry
-Energy,Oil & Gas,59,0.6811319355948993,Industry
-Energy,Renewable Energy,20,0.5417613348941673,Industry
-Energy,Energy Exploration,55,0.6354870030529974,Industry
-Consumer Goods,Food & Beverage,75,0.9921671188994122,Industry
-Consumer Goods,Household Products,63,0.2392755247489332,Industry
-Consumer Goods,Apparel,55,0.21090004402783746,Industry
-Utilities,Electric,89,0.714104930298377,Industry
-Utilities,Water,73,0.3433051954296995,Industry
-Utilities,Gas,18,0.5800818582589362,Industry
-Real Estate,Residential,51,0.8613977514977251,Industry
-Real Estate,Commercial,10,0.6902996325249905,Industry
-Real Estate,Industrial,73,0.9342339985396334,Industry
-Telecommunications,Mobile,68,0.2901001768147303,Industry
-Telecommunications,Broadband,86,0.47908886035782894,Industry
-Telecommunications,Satellite,89,0.5365764696972539,Industry
-Materials,Chemicals,96,0.6840168928199404,Industry
-Materials,Metals & Mining,76,0.15778641094782964,Industry
-Materials,Construction Materials,35,0.5679512148749745,Industry
-Industrials,Aerospace & Defense,37,0.8481559653390147,Industry
-Industrials,Machinery,41,0.9360980815717667,Industry
-Industrials,Industrial Services,71,0.6566765102103121,Industry
-Consumer Services,Retail,42,0.9947651434098297,Industry
-Consumer Services,Travel & Leisure,36,0.4526094708927755,Industry
-Consumer Services,Media,43,0.2928979446690029,Industry
-Transportation,Airlines,11,0.3215402987137438,Industry
-Transportation,Railroads,2,0.9459431807065867,Industry
-Transportation,Logistics,42,0.6630891568612817,Industry
+,Bingham,973,0.419635226831437,Overall
+Bingham,HiTech,83,0.47753800135472757,Sector
+Bingham,Agriculture,99,0.7328011221120911,Sector
+Bingham,Transportation,95,0.21564654767755176,Sector
+Bingham,Consumer_Products,52,0.2797539592146676,Sector
+Bingham,Unassigned,82,0.21077435129173772,Sector
+Bingham,Communication,88,0.351070987478709,Sector
+Bingham,Trade,44,0.28707223419675354,Sector
+Bingham,Business_Services,25,0.06898100663650719,Sector
+Bingham,Business_Products,13,0.7320152924895742,Sector
+Bingham,Construction,84,0.5163381493448551,Sector
+Bingham,Services,86,0.6524274362702182,Sector
+Bingham,Mining,36,0.2268128481130237,Sector
+Bingham,Health_Care,82,0.6825166943546596,Sector
+Bingham,EnergyExpL_Prod,19,0.48176746520442226,Sector
+Bingham,Utilities,85,0.379012306732056,Sector

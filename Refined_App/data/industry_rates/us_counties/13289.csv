@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Twiggs,1666,0.7480093762816484,Overall
-Twiggs,Technology,169,0.3999637267806875,Sector
-Twiggs,Healthcare,138,0.5108425103642928,Sector
-Twiggs,Finance,226,0.762056319414188,Sector
-Twiggs,Energy,204,0.5681423817948152,Sector
-Twiggs,Consumer Goods,238,0.764981736255816,Sector
-Twiggs,Utilities,122,0.24308136753611453,Sector
-Twiggs,Real Estate,99,0.47781882253971186,Sector
-Twiggs,Telecommunications,91,0.3241221671528771,Sector
-Twiggs,Materials,65,0.9644735464382744,Sector
-Twiggs,Industrials,85,0.6682803752223146,Sector
-Twiggs,Consumer Services,73,0.6429590449114504,Sector
-Twiggs,Transportation,156,0.3972101066956173,Sector
-Technology,Software,81,0.46251858512531163,Industry
-Technology,Hardware,82,0.7621404448557494,Industry
-Technology,IT Services,6,0.8700473955537419,Industry
-Healthcare,Pharmaceuticals,86,0.5595134572905991,Industry
-Healthcare,Medical Devices,26,0.4326848217173438,Industry
-Healthcare,Healthcare Services,26,0.9515620726295624,Industry
-Finance,Banking,91,0.3516190993182061,Industry
-Finance,Insurance,71,0.20818357020366973,Industry
-Finance,Investment Services,64,0.4428000122707567,Industry
-Energy,Oil & Gas,63,0.03211457928561012,Industry
-Energy,Renewable Energy,71,0.5882247016754638,Industry
-Energy,Energy Exploration,70,0.53941582739338,Industry
-Consumer Goods,Food & Beverage,69,0.5426334477985859,Industry
-Consumer Goods,Household Products,85,0.1414190243604977,Industry
-Consumer Goods,Apparel,84,0.42193528966235516,Industry
-Utilities,Electric,38,0.5240772698405904,Industry
-Utilities,Water,49,0.256365798386184,Industry
-Utilities,Gas,35,0.28782662266158876,Industry
-Real Estate,Residential,23,0.15250721730705807,Industry
-Real Estate,Commercial,22,0.567210261711921,Industry
-Real Estate,Industrial,54,0.6928130229716492,Industry
-Telecommunications,Mobile,32,0.26833883509396017,Industry
-Telecommunications,Broadband,27,0.14854057935250853,Industry
-Telecommunications,Satellite,32,0.5237092717993893,Industry
-Materials,Chemicals,43,0.9150598875429675,Industry
-Materials,Metals & Mining,8,0.3737940661147535,Industry
-Materials,Construction Materials,14,0.5409633223737433,Industry
-Industrials,Aerospace & Defense,21,0.7309805687692827,Industry
-Industrials,Machinery,11,0.2943414281291057,Industry
-Industrials,Industrial Services,53,0.07357916168460032,Industry
-Consumer Services,Retail,14,0.7033029862199618,Industry
-Consumer Services,Travel & Leisure,25,0.9687992664777421,Industry
-Consumer Services,Media,34,0.19613939490363042,Industry
-Transportation,Airlines,17,0.5329571184590718,Industry
-Transportation,Railroads,86,0.04684847120145974,Industry
-Transportation,Logistics,53,0.8075342958764746,Industry
+,Twiggs,740,0.45326773644474844,Overall
+Twiggs,HiTech,66,0.24855650122529138,Sector
+Twiggs,Agriculture,76,0.2266090502626138,Sector
+Twiggs,Transportation,10,0.46082187334681957,Sector
+Twiggs,Consumer_Products,74,0.06804237989876538,Sector
+Twiggs,Unassigned,28,0.594622135793656,Sector
+Twiggs,Communication,30,0.3758713765732479,Sector
+Twiggs,Trade,6,0.6263042923154449,Sector
+Twiggs,Business_Services,5,0.24484281649665984,Sector
+Twiggs,Business_Products,62,0.38026040762235036,Sector
+Twiggs,Construction,67,0.710392078788131,Sector
+Twiggs,Services,97,0.7677782923117714,Sector
+Twiggs,Mining,23,0.5739341205555405,Sector
+Twiggs,Health_Care,49,0.9227818801437718,Sector
+Twiggs,EnergyExpL_Prod,92,0.15134362628319964,Sector
+Twiggs,Utilities,55,0.44685521505396386,Sector

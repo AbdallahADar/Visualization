@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bornholm,1956,0.19324692011649092,Overall
-Bornholm,Technology,176,0.700040466326877,Sector
-Bornholm,Healthcare,146,0.04398250845482732,Sector
-Bornholm,Finance,127,0.005842456206310076,Sector
-Bornholm,Energy,125,0.888217038048747,Sector
-Bornholm,Consumer Goods,196,0.3510438082241383,Sector
-Bornholm,Utilities,207,0.5570029764474868,Sector
-Bornholm,Real Estate,211,0.027289849704187574,Sector
-Bornholm,Telecommunications,111,0.775836589914363,Sector
-Bornholm,Materials,147,0.7240355473584605,Sector
-Bornholm,Industrials,166,0.8537222291412144,Sector
-Bornholm,Consumer Services,102,0.7698362849477287,Sector
-Bornholm,Transportation,242,0.5713657244624618,Sector
-Technology,Software,54,0.4856232903922426,Industry
-Technology,Hardware,89,0.5526026162630947,Industry
-Technology,IT Services,33,0.6741730329684477,Industry
-Healthcare,Pharmaceuticals,32,0.83372680764985,Industry
-Healthcare,Medical Devices,48,0.7666466046346888,Industry
-Healthcare,Healthcare Services,66,0.44836244479891274,Industry
-Finance,Banking,25,0.7857621168816536,Industry
-Finance,Insurance,44,0.9892812798029679,Industry
-Finance,Investment Services,58,0.5301131389407745,Industry
-Energy,Oil & Gas,5,0.2964449433464228,Industry
-Energy,Renewable Energy,79,0.5780348782689765,Industry
-Energy,Energy Exploration,41,0.48721803526145,Industry
-Consumer Goods,Food & Beverage,74,0.09836282027889365,Industry
-Consumer Goods,Household Products,98,0.5863406654036841,Industry
-Consumer Goods,Apparel,24,0.9573381287136613,Industry
-Utilities,Electric,92,0.3539357980601141,Industry
-Utilities,Water,98,0.46375430322933997,Industry
-Utilities,Gas,17,0.3184844189852126,Industry
-Real Estate,Residential,82,0.5167620932249037,Industry
-Real Estate,Commercial,32,0.259846445827444,Industry
-Real Estate,Industrial,97,0.3653512234881925,Industry
-Telecommunications,Mobile,26,0.4455169782663865,Industry
-Telecommunications,Broadband,30,0.3616250177581527,Industry
-Telecommunications,Satellite,55,0.60569983161492,Industry
-Materials,Chemicals,29,0.6581869756874137,Industry
-Materials,Metals & Mining,98,0.251629908793607,Industry
-Materials,Construction Materials,20,0.8703348582060852,Industry
-Industrials,Aerospace & Defense,8,0.33571563694089135,Industry
-Industrials,Machinery,62,0.5797053699068883,Industry
-Industrials,Industrial Services,96,0.16427623311182882,Industry
-Consumer Services,Retail,21,0.10259195992956816,Industry
-Consumer Services,Travel & Leisure,58,0.45689449492226164,Industry
-Consumer Services,Media,23,0.9126366949736802,Industry
-Transportation,Airlines,69,0.7892944534429985,Industry
-Transportation,Railroads,79,0.5217582122103321,Industry
-Transportation,Logistics,94,0.8543077174711374,Industry
+,Bornholm,534,0.511580579791096,Overall
+Bornholm,HiTech,50,0.6899244001241828,Sector
+Bornholm,Agriculture,8,0.9171044878998638,Sector
+Bornholm,Transportation,38,0.7623523507027785,Sector
+Bornholm,Consumer_Products,49,0.08268432993119901,Sector
+Bornholm,Unassigned,9,0.8923106861564937,Sector
+Bornholm,Communication,43,0.29362708055956266,Sector
+Bornholm,Trade,9,0.14977372157062607,Sector
+Bornholm,Business_Services,21,0.05562325655156486,Sector
+Bornholm,Business_Products,22,0.06492337906448364,Sector
+Bornholm,Construction,67,0.35789245546311477,Sector
+Bornholm,Services,43,0.8699957287337707,Sector
+Bornholm,Mining,11,0.8801724921119457,Sector
+Bornholm,Health_Care,59,0.4017342376353442,Sector
+Bornholm,EnergyExpL_Prod,29,0.3939779443540652,Sector
+Bornholm,Utilities,76,0.8616121460074425,Sector

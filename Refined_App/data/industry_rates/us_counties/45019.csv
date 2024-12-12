@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Charleston,1877,0.32871440093560633,Overall
-Charleston,Technology,163,0.25289799435150584,Sector
-Charleston,Healthcare,144,0.9211818847246717,Sector
-Charleston,Finance,94,0.5267275719184641,Sector
-Charleston,Energy,50,0.5653830216231853,Sector
-Charleston,Consumer Goods,190,0.6819937981112094,Sector
-Charleston,Utilities,142,0.5279881818854265,Sector
-Charleston,Real Estate,178,0.35085477301017565,Sector
-Charleston,Telecommunications,205,0.8393054579861898,Sector
-Charleston,Materials,185,0.8073401070446206,Sector
-Charleston,Industrials,170,0.5985400070035276,Sector
-Charleston,Consumer Services,238,0.3721941759982821,Sector
-Charleston,Transportation,118,0.07946874390702685,Sector
-Technology,Software,79,0.34351272478465933,Industry
-Technology,Hardware,51,0.8640342642996021,Industry
-Technology,IT Services,33,0.7642779550235408,Industry
-Healthcare,Pharmaceuticals,66,0.9282576044232359,Industry
-Healthcare,Medical Devices,29,0.3653582762270985,Industry
-Healthcare,Healthcare Services,49,0.0383476797308262,Industry
-Finance,Banking,55,0.5173332639515453,Industry
-Finance,Insurance,20,0.8662204076090454,Industry
-Finance,Investment Services,19,0.43789976535546205,Industry
-Energy,Oil & Gas,0,0.4318551611419459,Industry
-Energy,Renewable Energy,24,0.9329582036351007,Industry
-Energy,Energy Exploration,26,0.877929640149543,Industry
-Consumer Goods,Food & Beverage,74,0.0025498478103571642,Industry
-Consumer Goods,Household Products,84,0.8352304259811606,Industry
-Consumer Goods,Apparel,32,0.9576695075298153,Industry
-Utilities,Electric,50,0.4676770453227148,Industry
-Utilities,Water,19,0.35410748318162466,Industry
-Utilities,Gas,73,0.7927923985016453,Industry
-Real Estate,Residential,74,0.2763626610344402,Industry
-Real Estate,Commercial,12,0.09118423572972545,Industry
-Real Estate,Industrial,92,0.20453825771392742,Industry
-Telecommunications,Mobile,79,0.08428301433181207,Industry
-Telecommunications,Broadband,70,0.7698434790069959,Industry
-Telecommunications,Satellite,56,0.21268393383707274,Industry
-Materials,Chemicals,91,0.9629397681043351,Industry
-Materials,Metals & Mining,24,0.3876607437624897,Industry
-Materials,Construction Materials,70,0.7735619278032833,Industry
-Industrials,Aerospace & Defense,79,0.9414016733088407,Industry
-Industrials,Machinery,62,0.22168133817858116,Industry
-Industrials,Industrial Services,29,0.38976188709401405,Industry
-Consumer Services,Retail,95,0.9764394882195366,Industry
-Consumer Services,Travel & Leisure,85,0.06268262427069982,Industry
-Consumer Services,Media,58,0.36973212175956094,Industry
-Transportation,Airlines,0,0.5488193676106982,Industry
-Transportation,Railroads,25,0.9064625486372893,Industry
-Transportation,Logistics,93,0.57679113691685,Industry
+,Charleston,685,0.5513334010565409,Overall
+Charleston,HiTech,47,0.8776998525403689,Sector
+Charleston,Agriculture,24,0.5123042540047257,Sector
+Charleston,Transportation,63,0.3899053085156857,Sector
+Charleston,Consumer_Products,32,0.8789716886814481,Sector
+Charleston,Unassigned,79,0.5512806510936222,Sector
+Charleston,Communication,77,0.050946421601611336,Sector
+Charleston,Trade,85,0.6635095731292783,Sector
+Charleston,Business_Services,57,0.4573217634566792,Sector
+Charleston,Business_Products,4,0.8393625262061188,Sector
+Charleston,Construction,58,0.5566106775428064,Sector
+Charleston,Services,3,0.6565191166855254,Sector
+Charleston,Mining,22,0.3268536440548353,Sector
+Charleston,Health_Care,14,0.30617142937969044,Sector
+Charleston,EnergyExpL_Prod,52,0.4999113467153443,Sector
+Charleston,Utilities,68,0.7026327622403737,Sector

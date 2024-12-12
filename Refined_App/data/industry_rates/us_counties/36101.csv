@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Steuben,2058,0.7833642693124772,Overall
-Steuben,Technology,163,0.1266647652193742,Sector
-Steuben,Healthcare,168,0.48871773565545407,Sector
-Steuben,Finance,178,0.1558730264754472,Sector
-Steuben,Energy,154,0.3958574969958454,Sector
-Steuben,Consumer Goods,165,0.6518234470771068,Sector
-Steuben,Utilities,157,0.06806069732428555,Sector
-Steuben,Real Estate,136,0.8225701560196473,Sector
-Steuben,Telecommunications,217,0.2999643123458343,Sector
-Steuben,Materials,115,0.5282279476096106,Sector
-Steuben,Industrials,180,0.6003301447579154,Sector
-Steuben,Consumer Services,211,0.8696704269606613,Sector
-Steuben,Transportation,214,0.09696418299283893,Sector
-Technology,Software,66,0.40179035036893906,Industry
-Technology,Hardware,5,0.5180272071090509,Industry
-Technology,IT Services,92,0.32757363625184066,Industry
-Healthcare,Pharmaceuticals,62,0.12728856787394094,Industry
-Healthcare,Medical Devices,53,0.8359963184665724,Industry
-Healthcare,Healthcare Services,53,0.9107425506602228,Industry
-Finance,Banking,53,0.578229442887375,Industry
-Finance,Insurance,47,0.4167984526777305,Industry
-Finance,Investment Services,78,0.8601192665469749,Industry
-Energy,Oil & Gas,45,0.8690140226126105,Industry
-Energy,Renewable Energy,26,0.14976895478332575,Industry
-Energy,Energy Exploration,83,0.9571693645778644,Industry
-Consumer Goods,Food & Beverage,59,0.5490975046913058,Industry
-Consumer Goods,Household Products,60,0.9728780912155258,Industry
-Consumer Goods,Apparel,46,0.4747878963633082,Industry
-Utilities,Electric,81,0.5780522858596501,Industry
-Utilities,Water,73,0.5289026417557326,Industry
-Utilities,Gas,3,0.5839129839458673,Industry
-Real Estate,Residential,97,0.01712926093424305,Industry
-Real Estate,Commercial,24,0.6303242240006565,Industry
-Real Estate,Industrial,15,0.8730389765701704,Industry
-Telecommunications,Mobile,63,0.8840865903874251,Industry
-Telecommunications,Broadband,88,0.6599074726651473,Industry
-Telecommunications,Satellite,66,0.36721501849333416,Industry
-Materials,Chemicals,8,0.6389613985012957,Industry
-Materials,Metals & Mining,27,0.46620590670163553,Industry
-Materials,Construction Materials,80,0.35585518326019405,Industry
-Industrials,Aerospace & Defense,43,0.34301760541709214,Industry
-Industrials,Machinery,44,0.8594299646324742,Industry
-Industrials,Industrial Services,93,0.7509381247955135,Industry
-Consumer Services,Retail,95,0.618321051588581,Industry
-Consumer Services,Travel & Leisure,95,0.03336245379601055,Industry
-Consumer Services,Media,21,0.9723169760800222,Industry
-Transportation,Airlines,96,0.14029324171546997,Industry
-Transportation,Railroads,98,0.32645661306899965,Industry
-Transportation,Logistics,20,0.14500679461920252,Industry
+,Steuben,712,0.45625827539931724,Overall
+Steuben,HiTech,78,0.14415106940576816,Sector
+Steuben,Agriculture,63,0.3160026499002041,Sector
+Steuben,Transportation,34,0.5118153393832668,Sector
+Steuben,Consumer_Products,69,0.509661021391794,Sector
+Steuben,Unassigned,40,0.7969583859289053,Sector
+Steuben,Communication,32,0.8252701094417518,Sector
+Steuben,Trade,66,0.08410571985424287,Sector
+Steuben,Business_Services,1,0.25865321884544035,Sector
+Steuben,Business_Products,26,0.9041557218237274,Sector
+Steuben,Construction,33,0.5510905675468648,Sector
+Steuben,Services,13,0.7514592642187494,Sector
+Steuben,Mining,60,0.2524956747283361,Sector
+Steuben,Health_Care,97,0.35484975293854293,Sector
+Steuben,EnergyExpL_Prod,38,0.06998047948651176,Sector
+Steuben,Utilities,62,0.5132251560956514,Sector

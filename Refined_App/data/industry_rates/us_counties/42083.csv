@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McKean,1627,0.28462554915088467,Overall
-McKean,Technology,131,0.8977457131164185,Sector
-McKean,Healthcare,137,0.130615945300531,Sector
-McKean,Finance,204,0.18896092380808127,Sector
-McKean,Energy,87,0.9569442467064485,Sector
-McKean,Consumer Goods,170,0.28155787188990633,Sector
-McKean,Utilities,155,0.9288943343951029,Sector
-McKean,Real Estate,205,0.5210867859886791,Sector
-McKean,Telecommunications,128,0.2916501113795372,Sector
-McKean,Materials,40,0.2851946368001864,Sector
-McKean,Industrials,161,0.8028806461514932,Sector
-McKean,Consumer Services,133,0.36089407116342853,Sector
-McKean,Transportation,76,0.7171183369597361,Sector
-Technology,Software,21,0.48464495478307146,Industry
-Technology,Hardware,29,0.865439557989548,Industry
-Technology,IT Services,81,0.9582212777389056,Industry
-Healthcare,Pharmaceuticals,21,0.013607721261311823,Industry
-Healthcare,Medical Devices,28,0.4421666037573314,Industry
-Healthcare,Healthcare Services,88,0.33538664345925506,Industry
-Finance,Banking,82,0.25551132966364976,Industry
-Finance,Insurance,23,0.47519737946588136,Industry
-Finance,Investment Services,99,0.6469064844595704,Industry
-Energy,Oil & Gas,3,0.9859681884894875,Industry
-Energy,Renewable Energy,26,0.35231350280086804,Industry
-Energy,Energy Exploration,58,0.12938961227639523,Industry
-Consumer Goods,Food & Beverage,79,0.6983740800450575,Industry
-Consumer Goods,Household Products,79,0.520237019297828,Industry
-Consumer Goods,Apparel,12,0.3392067865203716,Industry
-Utilities,Electric,48,0.5682226234934,Industry
-Utilities,Water,99,0.7322157669754268,Industry
-Utilities,Gas,8,0.842209959367693,Industry
-Real Estate,Residential,31,0.6790422258697403,Industry
-Real Estate,Commercial,98,0.2666605383899675,Industry
-Real Estate,Industrial,76,0.866855406081171,Industry
-Telecommunications,Mobile,20,0.20538258710558754,Industry
-Telecommunications,Broadband,29,0.6646469441244821,Industry
-Telecommunications,Satellite,79,0.7529310251669626,Industry
-Materials,Chemicals,0,0.8344919287653793,Industry
-Materials,Metals & Mining,27,0.8681394047247047,Industry
-Materials,Construction Materials,13,0.9859277637083267,Industry
-Industrials,Aerospace & Defense,18,0.5278555624880509,Industry
-Industrials,Machinery,70,0.7398852228593533,Industry
-Industrials,Industrial Services,73,0.527126089139093,Industry
-Consumer Services,Retail,30,0.29726258767175595,Industry
-Consumer Services,Travel & Leisure,84,0.6027952698239643,Industry
-Consumer Services,Media,19,0.6468387588988342,Industry
-Transportation,Airlines,30,0.019158168875972326,Industry
-Transportation,Railroads,18,0.7004280089809553,Industry
-Transportation,Logistics,28,0.374941614299903,Industry
+,McKean,669,0.39003376502023995,Overall
+McKean,HiTech,21,0.23644268153889636,Sector
+McKean,Agriculture,73,0.26509778834144915,Sector
+McKean,Transportation,38,0.015447638918228423,Sector
+McKean,Consumer_Products,87,0.9130995165993251,Sector
+McKean,Unassigned,87,0.8960562618746792,Sector
+McKean,Communication,40,0.8700190497818002,Sector
+McKean,Trade,18,0.3832368411389169,Sector
+McKean,Business_Services,59,0.02184027221567697,Sector
+McKean,Business_Products,3,0.7148302007042868,Sector
+McKean,Construction,15,0.993447453487811,Sector
+McKean,Services,98,0.043187712288365265,Sector
+McKean,Mining,4,0.001757330150513714,Sector
+McKean,Health_Care,0,0.1469528101110773,Sector
+McKean,EnergyExpL_Prod,89,0.27523474932807135,Sector
+McKean,Utilities,37,0.07385616882450152,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Juniata,1758,0.14881685673236178,Overall
-Juniata,Technology,167,0.40206235393009715,Sector
-Juniata,Healthcare,139,0.6463322002033348,Sector
-Juniata,Finance,163,0.5216620456320449,Sector
-Juniata,Energy,104,0.21849368920637768,Sector
-Juniata,Consumer Goods,125,0.6934997440349328,Sector
-Juniata,Utilities,184,0.9346872041084737,Sector
-Juniata,Real Estate,149,0.06619786441719144,Sector
-Juniata,Telecommunications,101,0.8899635914917533,Sector
-Juniata,Materials,160,0.39238937307111577,Sector
-Juniata,Industrials,192,0.8296324708692413,Sector
-Juniata,Consumer Services,172,0.9044047824667695,Sector
-Juniata,Transportation,102,0.4234455881032877,Sector
-Technology,Software,2,0.45521062341745266,Industry
-Technology,Hardware,73,0.21883561491099346,Industry
-Technology,IT Services,92,0.7277172328492024,Industry
-Healthcare,Pharmaceuticals,4,0.8851323126533701,Industry
-Healthcare,Medical Devices,59,0.19685385166600222,Industry
-Healthcare,Healthcare Services,76,0.7536787290045329,Industry
-Finance,Banking,96,0.4201629186974253,Industry
-Finance,Insurance,64,0.9131783737308301,Industry
-Finance,Investment Services,3,0.0786854138853943,Industry
-Energy,Oil & Gas,4,0.841475167607076,Industry
-Energy,Renewable Energy,63,0.05692613289129511,Industry
-Energy,Energy Exploration,37,0.17975476186950567,Industry
-Consumer Goods,Food & Beverage,0,0.8618703313825806,Industry
-Consumer Goods,Household Products,49,0.2143939618901307,Industry
-Consumer Goods,Apparel,76,0.3780615541344531,Industry
-Utilities,Electric,25,0.21313769548122463,Industry
-Utilities,Water,81,0.7412371210604881,Industry
-Utilities,Gas,78,0.5096249566617308,Industry
-Real Estate,Residential,80,0.5841889638757886,Industry
-Real Estate,Commercial,20,0.6370580503884578,Industry
-Real Estate,Industrial,49,0.7632607377811411,Industry
-Telecommunications,Mobile,13,0.2752860902058808,Industry
-Telecommunications,Broadband,46,0.9219903877585722,Industry
-Telecommunications,Satellite,42,0.2205336589452206,Industry
-Materials,Chemicals,87,0.8361892765992884,Industry
-Materials,Metals & Mining,57,0.7195533125088357,Industry
-Materials,Construction Materials,16,0.1396787273031752,Industry
-Industrials,Aerospace & Defense,83,0.24842299563321935,Industry
-Industrials,Machinery,13,0.15695723489129776,Industry
-Industrials,Industrial Services,96,0.1576567370271006,Industry
-Consumer Services,Retail,4,0.31781648746356184,Industry
-Consumer Services,Travel & Leisure,92,0.2798774044231275,Industry
-Consumer Services,Media,76,0.4800576555492979,Industry
-Transportation,Airlines,2,0.28056014975261834,Industry
-Transportation,Railroads,92,0.7454029235952396,Industry
-Transportation,Logistics,8,0.9156024661529472,Industry
+,Juniata,798,0.43640599216464876,Overall
+Juniata,HiTech,59,0.7674696397014452,Sector
+Juniata,Agriculture,98,0.9253116842956977,Sector
+Juniata,Transportation,57,0.681434208085775,Sector
+Juniata,Consumer_Products,92,0.4799083351533815,Sector
+Juniata,Unassigned,12,0.17730263284333758,Sector
+Juniata,Communication,35,0.08940464779158763,Sector
+Juniata,Trade,6,0.5665549579227609,Sector
+Juniata,Business_Services,81,0.05888135872164357,Sector
+Juniata,Business_Products,6,0.8951520416832006,Sector
+Juniata,Construction,90,0.18340195764489464,Sector
+Juniata,Services,78,0.5845691158041341,Sector
+Juniata,Mining,30,0.4721799838886326,Sector
+Juniata,Health_Care,82,0.1465100208328537,Sector
+Juniata,EnergyExpL_Prod,7,0.3367871886666298,Sector
+Juniata,Utilities,65,0.18122210943375583,Sector

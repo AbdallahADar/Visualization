@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Norton,1898,0.7300911531364639,Overall
-Norton,Technology,221,0.6381355107754847,Sector
-Norton,Healthcare,133,0.019751984571036663,Sector
-Norton,Finance,160,0.061874573804342026,Sector
-Norton,Energy,246,0.705417019253172,Sector
-Norton,Consumer Goods,70,0.6204650296453795,Sector
-Norton,Utilities,80,0.22111902644855075,Sector
-Norton,Real Estate,157,0.2897638923589769,Sector
-Norton,Telecommunications,230,0.515737167921052,Sector
-Norton,Materials,169,0.8957960959613269,Sector
-Norton,Industrials,129,0.5338435029926848,Sector
-Norton,Consumer Services,59,0.9736650262590023,Sector
-Norton,Transportation,244,0.41832735172990376,Sector
-Technology,Software,97,0.4675025087177357,Industry
-Technology,Hardware,82,0.5559072143465331,Industry
-Technology,IT Services,42,0.7131697099010084,Industry
-Healthcare,Pharmaceuticals,41,0.443656253712318,Industry
-Healthcare,Medical Devices,56,0.4994552267588446,Industry
-Healthcare,Healthcare Services,36,0.3088146818698848,Industry
-Finance,Banking,71,0.01934189315765278,Industry
-Finance,Insurance,5,0.38431963807878056,Industry
-Finance,Investment Services,84,0.6431978863492096,Industry
-Energy,Oil & Gas,87,0.3931848370450506,Industry
-Energy,Renewable Energy,95,0.5612217470823213,Industry
-Energy,Energy Exploration,64,0.4703274734117714,Industry
-Consumer Goods,Food & Beverage,61,0.8540772350730158,Industry
-Consumer Goods,Household Products,9,0.37108997741880034,Industry
-Consumer Goods,Apparel,0,0.8256486543061404,Industry
-Utilities,Electric,6,0.7018720844126227,Industry
-Utilities,Water,14,0.4362817413805792,Industry
-Utilities,Gas,60,0.1701891500784607,Industry
-Real Estate,Residential,42,0.8148848861446577,Industry
-Real Estate,Commercial,61,0.4356313172348071,Industry
-Real Estate,Industrial,54,0.4903443271043447,Industry
-Telecommunications,Mobile,64,0.4825921242015564,Industry
-Telecommunications,Broadband,74,0.1589831651910787,Industry
-Telecommunications,Satellite,92,0.8398441995580737,Industry
-Materials,Chemicals,64,0.30462885572022247,Industry
-Materials,Metals & Mining,34,0.8553417198301357,Industry
-Materials,Construction Materials,71,0.663482353542431,Industry
-Industrials,Aerospace & Defense,9,0.30979061338735436,Industry
-Industrials,Machinery,31,0.4412386456581787,Industry
-Industrials,Industrial Services,89,0.2056320600655417,Industry
-Consumer Services,Retail,29,0.6733297316124979,Industry
-Consumer Services,Travel & Leisure,19,0.5586964568217135,Industry
-Consumer Services,Media,11,0.5253007448618704,Industry
-Transportation,Airlines,90,0.6769950512324436,Industry
-Transportation,Railroads,96,0.7917110026800982,Industry
-Transportation,Logistics,58,0.8903224434013245,Industry
+,Norton,723,0.41002194109852824,Overall
+Norton,HiTech,63,0.3492241245087371,Sector
+Norton,Agriculture,37,0.7265312834308554,Sector
+Norton,Transportation,51,0.1665734215348481,Sector
+Norton,Consumer_Products,10,0.8207049939519409,Sector
+Norton,Unassigned,86,0.1966868503876984,Sector
+Norton,Communication,8,0.45796191140274733,Sector
+Norton,Trade,27,0.2881190844958421,Sector
+Norton,Business_Services,82,0.5100536115154878,Sector
+Norton,Business_Products,60,0.4241653193103031,Sector
+Norton,Construction,74,0.013998087685716087,Sector
+Norton,Services,1,0.1978689867400638,Sector
+Norton,Mining,20,0.14708808706543308,Sector
+Norton,Health_Care,69,0.9926859030544931,Sector
+Norton,EnergyExpL_Prod,48,0.15695994709625471,Sector
+Norton,Utilities,87,0.7017075042975036,Sector

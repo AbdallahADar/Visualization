@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Matagorda,1665,0.8023840759889741,Overall
-Matagorda,Technology,96,0.5176864476608478,Sector
-Matagorda,Healthcare,70,0.25290676110871435,Sector
-Matagorda,Finance,104,0.04458338899236569,Sector
-Matagorda,Energy,88,0.8141471640622929,Sector
-Matagorda,Consumer Goods,232,0.04784084126277077,Sector
-Matagorda,Utilities,111,0.9744130745311305,Sector
-Matagorda,Real Estate,238,0.8033100320150897,Sector
-Matagorda,Telecommunications,161,0.20420110627962995,Sector
-Matagorda,Materials,48,0.09704765415689198,Sector
-Matagorda,Industrials,137,0.320853031424303,Sector
-Matagorda,Consumer Services,163,0.36232674077717386,Sector
-Matagorda,Transportation,217,0.35001545471841644,Sector
-Technology,Software,27,0.2961237982094781,Industry
-Technology,Hardware,26,0.10443661243670155,Industry
-Technology,IT Services,43,0.48130397425153393,Industry
-Healthcare,Pharmaceuticals,10,0.06726981515538,Industry
-Healthcare,Medical Devices,27,0.0759572866186109,Industry
-Healthcare,Healthcare Services,33,0.23563852058180734,Industry
-Finance,Banking,11,0.8037877917093953,Industry
-Finance,Insurance,90,0.2828070193517044,Industry
-Finance,Investment Services,3,0.8991647420562887,Industry
-Energy,Oil & Gas,10,0.3470855213135491,Industry
-Energy,Renewable Energy,39,0.3766745372649234,Industry
-Energy,Energy Exploration,39,0.8129311054818467,Industry
-Consumer Goods,Food & Beverage,81,0.43822065096449525,Industry
-Consumer Goods,Household Products,62,0.8648938691966213,Industry
-Consumer Goods,Apparel,89,0.1852951121874571,Industry
-Utilities,Electric,48,0.6961023547104062,Industry
-Utilities,Water,15,0.6477251061799636,Industry
-Utilities,Gas,48,0.6681806654638215,Industry
-Real Estate,Residential,79,0.42831049626801754,Industry
-Real Estate,Commercial,62,0.6910653234338822,Industry
-Real Estate,Industrial,97,0.17304913894764828,Industry
-Telecommunications,Mobile,76,0.10207550751360561,Industry
-Telecommunications,Broadband,72,0.16961292165307662,Industry
-Telecommunications,Satellite,13,0.6298298525939843,Industry
-Materials,Chemicals,1,0.9210785787549295,Industry
-Materials,Metals & Mining,19,0.09572635037620769,Industry
-Materials,Construction Materials,28,0.5174737417731359,Industry
-Industrials,Aerospace & Defense,33,0.6164506793654432,Industry
-Industrials,Machinery,87,0.3592876708780852,Industry
-Industrials,Industrial Services,17,0.20497476735722842,Industry
-Consumer Services,Retail,38,0.37851845128641737,Industry
-Consumer Services,Travel & Leisure,44,0.47213822748198986,Industry
-Consumer Services,Media,81,0.34157686755360506,Industry
-Transportation,Airlines,55,0.7822051004338508,Industry
-Transportation,Railroads,98,0.4145712759856478,Industry
-Transportation,Logistics,64,0.6345832418982726,Industry
+,Matagorda,533,0.4919992789651176,Overall
+Matagorda,HiTech,65,0.6787388506373924,Sector
+Matagorda,Agriculture,1,0.18409569952169735,Sector
+Matagorda,Transportation,2,0.6460385835931832,Sector
+Matagorda,Consumer_Products,14,0.5852506481556616,Sector
+Matagorda,Unassigned,0,0.18185562081192408,Sector
+Matagorda,Communication,66,0.9717755968166243,Sector
+Matagorda,Trade,57,0.3475700295759768,Sector
+Matagorda,Business_Services,6,0.05511910176073165,Sector
+Matagorda,Business_Products,25,0.5461392768585994,Sector
+Matagorda,Construction,49,0.39099847886408745,Sector
+Matagorda,Services,62,0.9364071628921491,Sector
+Matagorda,Mining,10,0.36737864970896306,Sector
+Matagorda,Health_Care,20,0.9436354570123149,Sector
+Matagorda,EnergyExpL_Prod,81,0.4808845018583848,Sector
+Matagorda,Utilities,75,0.0641015264090734,Sector

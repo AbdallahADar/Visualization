@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Baldwin,2159,0.09183665593356771,Overall
-Baldwin,Technology,162,0.22567208827856422,Sector
-Baldwin,Healthcare,210,0.4572244468414808,Sector
-Baldwin,Finance,186,0.8620893173022821,Sector
-Baldwin,Energy,125,0.06630156279419752,Sector
-Baldwin,Consumer Goods,273,0.652400164610523,Sector
-Baldwin,Utilities,179,0.6056552638410692,Sector
-Baldwin,Real Estate,189,0.7019771799032135,Sector
-Baldwin,Telecommunications,178,0.8932856360697817,Sector
-Baldwin,Materials,190,0.37249408422689356,Sector
-Baldwin,Industrials,240,0.8654998929049587,Sector
-Baldwin,Consumer Services,82,0.8033797029501089,Sector
-Baldwin,Transportation,145,0.6913669749266623,Sector
-Technology,Software,81,0.7718294598937384,Industry
-Technology,Hardware,38,0.12038267588645579,Industry
-Technology,IT Services,43,0.22460379757846693,Industry
-Healthcare,Pharmaceuticals,98,0.333893905127143,Industry
-Healthcare,Medical Devices,92,0.904344582285567,Industry
-Healthcare,Healthcare Services,20,0.015024193990651913,Industry
-Finance,Banking,33,0.14127690172107743,Industry
-Finance,Insurance,85,0.37167216434822525,Industry
-Finance,Investment Services,68,0.8556007695439054,Industry
-Energy,Oil & Gas,61,0.9087448697943395,Industry
-Energy,Renewable Energy,49,0.9686989936225261,Industry
-Energy,Energy Exploration,15,0.09008927749633544,Industry
-Consumer Goods,Food & Beverage,94,0.9933893709071365,Industry
-Consumer Goods,Household Products,83,0.6189630949859377,Industry
-Consumer Goods,Apparel,96,0.6368971262013803,Industry
-Utilities,Electric,41,0.8900051809489407,Industry
-Utilities,Water,60,0.6295256487151798,Industry
-Utilities,Gas,78,0.5465152220162193,Industry
-Real Estate,Residential,94,0.9398471663519793,Industry
-Real Estate,Commercial,2,0.8265457696898554,Industry
-Real Estate,Industrial,93,0.5158869121827883,Industry
-Telecommunications,Mobile,94,0.054375952052439724,Industry
-Telecommunications,Broadband,42,0.9804667554117275,Industry
-Telecommunications,Satellite,42,0.7713209186697649,Industry
-Materials,Chemicals,83,0.24648722247927124,Industry
-Materials,Metals & Mining,43,0.6258655377761828,Industry
-Materials,Construction Materials,64,0.25835958542515347,Industry
-Industrials,Aerospace & Defense,79,0.21960792053417855,Industry
-Industrials,Machinery,90,0.07785923288550556,Industry
-Industrials,Industrial Services,71,0.9101041336999726,Industry
-Consumer Services,Retail,4,0.3375819042695265,Industry
-Consumer Services,Travel & Leisure,28,0.7918131286345969,Industry
-Consumer Services,Media,50,0.04310304705873658,Industry
-Transportation,Airlines,14,0.6874365570123239,Industry
-Transportation,Railroads,36,0.21053816773297862,Industry
-Transportation,Logistics,95,0.8312153972897786,Industry
+,Baldwin,578,0.3777662039248686,Overall
+Baldwin,HiTech,4,0.8867138379687487,Sector
+Baldwin,Agriculture,19,0.05794262935250649,Sector
+Baldwin,Transportation,11,0.7220472837659986,Sector
+Baldwin,Consumer_Products,81,0.31067440100904276,Sector
+Baldwin,Unassigned,55,0.5915943115513747,Sector
+Baldwin,Communication,14,0.14587044023113416,Sector
+Baldwin,Trade,3,0.10459274293793763,Sector
+Baldwin,Business_Services,54,0.10662812193723414,Sector
+Baldwin,Business_Products,51,0.6942795694509883,Sector
+Baldwin,Construction,13,0.1862182861760343,Sector
+Baldwin,Services,81,0.24638749145130134,Sector
+Baldwin,Mining,51,0.5513310383825742,Sector
+Baldwin,Health_Care,9,0.1451776629281194,Sector
+Baldwin,EnergyExpL_Prod,70,0.23139737136610106,Sector
+Baldwin,Utilities,62,0.6856378703639334,Sector

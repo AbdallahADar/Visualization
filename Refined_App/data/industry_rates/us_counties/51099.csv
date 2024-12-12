@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,King George,1361,0.14726407814256925,Overall
-King George,Technology,94,0.29078277800963204,Sector
-King George,Healthcare,141,0.7087065833149422,Sector
-King George,Finance,78,0.8048212459869444,Sector
-King George,Energy,174,0.21755552723022886,Sector
-King George,Consumer Goods,116,0.6347125663327567,Sector
-King George,Utilities,73,0.361446044078475,Sector
-King George,Real Estate,104,0.042894456583463136,Sector
-King George,Telecommunications,137,0.9135389479396834,Sector
-King George,Materials,174,0.9159697413592809,Sector
-King George,Industrials,99,0.3504684085092453,Sector
-King George,Consumer Services,108,0.36947817509630165,Sector
-King George,Transportation,63,0.968547175082144,Sector
-Technology,Software,60,0.37278477978002844,Industry
-Technology,Hardware,10,0.10733642633675011,Industry
-Technology,IT Services,24,0.12411367962920239,Industry
-Healthcare,Pharmaceuticals,1,0.061105791871097104,Industry
-Healthcare,Medical Devices,56,0.706844842821487,Industry
-Healthcare,Healthcare Services,84,0.4417583773928011,Industry
-Finance,Banking,18,0.29532764275698564,Industry
-Finance,Insurance,55,0.23776180275968495,Industry
-Finance,Investment Services,5,0.06810869313501666,Industry
-Energy,Oil & Gas,42,0.3136039413026124,Industry
-Energy,Renewable Energy,50,0.1282928602620379,Industry
-Energy,Energy Exploration,82,0.10501886155494111,Industry
-Consumer Goods,Food & Beverage,21,0.29887173717844373,Industry
-Consumer Goods,Household Products,84,0.9693893271078067,Industry
-Consumer Goods,Apparel,11,0.20220807637835114,Industry
-Utilities,Electric,27,0.3405135690046859,Industry
-Utilities,Water,39,0.9139613429804705,Industry
-Utilities,Gas,7,0.42732360694926064,Industry
-Real Estate,Residential,13,0.45441361066945685,Industry
-Real Estate,Commercial,55,0.9459921030408331,Industry
-Real Estate,Industrial,36,0.516570900130258,Industry
-Telecommunications,Mobile,96,0.1357488658192032,Industry
-Telecommunications,Broadband,29,0.22540831768205172,Industry
-Telecommunications,Satellite,12,0.821089090532358,Industry
-Materials,Chemicals,59,0.3277622359116107,Industry
-Materials,Metals & Mining,24,0.39573520625851344,Industry
-Materials,Construction Materials,91,0.24750937321800193,Industry
-Industrials,Aerospace & Defense,40,0.483273926798952,Industry
-Industrials,Machinery,21,0.12662990960333664,Industry
-Industrials,Industrial Services,38,0.7045235544221613,Industry
-Consumer Services,Retail,73,0.9386739923325282,Industry
-Consumer Services,Travel & Leisure,35,0.3349022352156952,Industry
-Consumer Services,Media,0,0.06387113513627174,Industry
-Transportation,Airlines,48,0.465409884571346,Industry
-Transportation,Railroads,13,0.9680459105057346,Industry
-Transportation,Logistics,2,0.9187696632626925,Industry
+,King George,817,0.5625764188079181,Overall
+King George,HiTech,14,0.8144130590008213,Sector
+King George,Agriculture,8,0.04657219425834502,Sector
+King George,Transportation,99,0.6560226864355843,Sector
+King George,Consumer_Products,73,0.6089854633305957,Sector
+King George,Unassigned,57,0.7724480788906315,Sector
+King George,Communication,10,0.2007337074809482,Sector
+King George,Trade,36,0.551465418448569,Sector
+King George,Business_Services,54,0.7021586328012677,Sector
+King George,Business_Products,99,0.8119845172597028,Sector
+King George,Construction,58,0.8738361085300379,Sector
+King George,Services,20,0.4005891709706737,Sector
+King George,Mining,78,0.7896908994185159,Sector
+King George,Health_Care,56,0.5999602865751047,Sector
+King George,EnergyExpL_Prod,66,0.09190468205122748,Sector
+King George,Utilities,89,0.5178813766667478,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Adams,2004,0.09989668076681346,Overall
+Adams,Technology,175,0.7518598094175689,Sector
+Adams,Healthcare,198,0.6451201503774043,Sector
+Adams,Finance,126,0.0880972685642124,Sector
+Adams,Energy,267,0.34942961155284713,Sector
+Adams,Consumer Goods,159,0.7808932915919088,Sector
+Adams,Utilities,167,0.20875917311748293,Sector
+Adams,Real Estate,112,0.5433491765194278,Sector
+Adams,Telecommunications,69,0.18196187523103102,Sector
+Adams,Materials,201,0.9272702764455764,Sector
+Adams,Industrials,178,0.20170567959439978,Sector
+Adams,Consumer Services,103,0.9356329314240004,Sector
+Adams,Transportation,249,0.9782833088131389,Sector
+Technology,Software,89,0.8015767253252893,Industry
+Technology,Hardware,41,0.04301774820550919,Industry
+Technology,IT Services,45,0.9619182131068609,Industry
+Healthcare,Pharmaceuticals,86,0.9632384232071649,Industry
+Healthcare,Medical Devices,50,0.9215482713627515,Industry
+Healthcare,Healthcare Services,62,0.43358963586829846,Industry
+Finance,Banking,4,0.7292844584730402,Industry
+Finance,Insurance,34,0.6087333603245974,Industry
+Finance,Investment Services,88,0.5946459558664425,Industry
+Energy,Oil & Gas,87,0.6495836192366189,Industry
+Energy,Renewable Energy,98,0.8622633367835262,Industry
+Energy,Energy Exploration,82,0.0006288816366859518,Industry
+Consumer Goods,Food & Beverage,77,0.12658639066850752,Industry
+Consumer Goods,Household Products,1,0.5901195530300578,Industry
+Consumer Goods,Apparel,81,0.45014141131705954,Industry
+Utilities,Electric,40,0.14907409924134463,Industry
+Utilities,Water,52,0.12515252837625734,Industry
+Utilities,Gas,75,0.4905620362023808,Industry
+Real Estate,Residential,46,0.09809175346293453,Industry
+Real Estate,Commercial,43,0.8060588347709362,Industry
+Real Estate,Industrial,23,0.12100295187263532,Industry
+Telecommunications,Mobile,0,0.8457665020144548,Industry
+Telecommunications,Broadband,24,0.6650592914560313,Industry
+Telecommunications,Satellite,45,0.5562364902714986,Industry
+Materials,Chemicals,65,0.8079485650812153,Industry
+Materials,Metals & Mining,81,0.029575414115462828,Industry
+Materials,Construction Materials,55,0.13851533820294226,Industry
+Industrials,Aerospace & Defense,99,0.41177253319587015,Industry
+Industrials,Machinery,76,0.4635185257490012,Industry
+Industrials,Industrial Services,3,0.02379760347063331,Industry
+Consumer Services,Retail,46,0.22484641538623074,Industry
+Consumer Services,Travel & Leisure,49,0.07859142255666562,Industry
+Consumer Services,Media,8,0.24827267241213213,Industry
+Transportation,Airlines,99,0.5880518552412145,Industry
+Transportation,Railroads,96,0.18263656468751666,Industry
+Transportation,Logistics,54,0.23077451519022618,Industry

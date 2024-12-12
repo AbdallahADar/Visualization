@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Olmsted,1621,0.7884227269487416,Overall
-Olmsted,Technology,115,0.7077593711420648,Sector
-Olmsted,Healthcare,123,0.027021429106225292,Sector
-Olmsted,Finance,148,0.9285066539823351,Sector
-Olmsted,Energy,48,0.3750191771526368,Sector
-Olmsted,Consumer Goods,65,0.33197500127961466,Sector
-Olmsted,Utilities,204,0.9659504830643205,Sector
-Olmsted,Real Estate,167,0.8240019855474721,Sector
-Olmsted,Telecommunications,45,0.4027280944026761,Sector
-Olmsted,Materials,151,0.5794435104891622,Sector
-Olmsted,Industrials,144,0.6691850981268033,Sector
-Olmsted,Consumer Services,253,0.8091658147478327,Sector
-Olmsted,Transportation,158,0.9462255787885431,Sector
-Technology,Software,10,0.3862926664743672,Industry
-Technology,Hardware,34,0.5171708464514171,Industry
-Technology,IT Services,71,0.3846083121691849,Industry
-Healthcare,Pharmaceuticals,24,0.7929061311470909,Industry
-Healthcare,Medical Devices,48,0.26873562760470415,Industry
-Healthcare,Healthcare Services,51,0.6911696130267203,Industry
-Finance,Banking,84,0.0884895885823378,Industry
-Finance,Insurance,2,0.3905415544178795,Industry
-Finance,Investment Services,62,0.08926434514115344,Industry
-Energy,Oil & Gas,20,0.800214422680564,Industry
-Energy,Renewable Energy,16,0.5685340707523028,Industry
-Energy,Energy Exploration,12,0.06345737914166283,Industry
-Consumer Goods,Food & Beverage,37,0.5769932112297629,Industry
-Consumer Goods,Household Products,23,0.032049911056707625,Industry
-Consumer Goods,Apparel,5,0.1873696379772848,Industry
-Utilities,Electric,93,0.7191504672812209,Industry
-Utilities,Water,68,0.8295350357127156,Industry
-Utilities,Gas,43,0.8377459431123535,Industry
-Real Estate,Residential,83,0.18717544378703066,Industry
-Real Estate,Commercial,23,0.6850529805016745,Industry
-Real Estate,Industrial,61,0.27045059160646356,Industry
-Telecommunications,Mobile,20,0.7794763946051562,Industry
-Telecommunications,Broadband,23,0.8793382722251025,Industry
-Telecommunications,Satellite,2,0.011423637999258052,Industry
-Materials,Chemicals,34,0.19656803614546747,Industry
-Materials,Metals & Mining,98,0.21047681129793805,Industry
-Materials,Construction Materials,19,0.7354624520766068,Industry
-Industrials,Aerospace & Defense,70,0.6681774501918355,Industry
-Industrials,Machinery,37,0.7557218746610975,Industry
-Industrials,Industrial Services,37,0.8576077842593643,Industry
-Consumer Services,Retail,72,0.6882043530829123,Industry
-Consumer Services,Travel & Leisure,83,0.6488116102011582,Industry
-Consumer Services,Media,98,0.640189958175647,Industry
-Transportation,Airlines,29,0.4317560741043077,Industry
-Transportation,Railroads,89,0.2904757246923272,Industry
-Transportation,Logistics,40,0.36745029387158545,Industry
+,Olmsted,567,0.4307428744371377,Overall
+Olmsted,HiTech,63,0.14579509786630473,Sector
+Olmsted,Agriculture,58,0.7775653314990204,Sector
+Olmsted,Transportation,68,0.6739107831154595,Sector
+Olmsted,Consumer_Products,14,0.3490530935506736,Sector
+Olmsted,Unassigned,9,0.016575025682463163,Sector
+Olmsted,Communication,18,0.26827259274109794,Sector
+Olmsted,Trade,51,0.15334329147537729,Sector
+Olmsted,Business_Services,21,0.21425156821925995,Sector
+Olmsted,Business_Products,33,0.7160970629509551,Sector
+Olmsted,Construction,94,0.03222117594963847,Sector
+Olmsted,Services,62,0.7672129026622939,Sector
+Olmsted,Mining,47,0.8329453601745811,Sector
+Olmsted,Health_Care,7,0.9980726688670629,Sector
+Olmsted,EnergyExpL_Prod,12,0.2364418644109758,Sector
+Olmsted,Utilities,10,0.27938529739190143,Sector

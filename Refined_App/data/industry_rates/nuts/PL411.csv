@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pilski,1905,0.2861879679538937,Overall
-Pilski,Technology,142,0.5638636792216977,Sector
-Pilski,Healthcare,75,0.9797817218893852,Sector
-Pilski,Finance,120,0.5682487638211517,Sector
-Pilski,Energy,189,0.4422860093207934,Sector
-Pilski,Consumer Goods,184,0.38858577684734086,Sector
-Pilski,Utilities,150,0.6539960752068178,Sector
-Pilski,Real Estate,151,0.9369715933958688,Sector
-Pilski,Telecommunications,194,0.7172688502680495,Sector
-Pilski,Materials,193,0.5896620018092923,Sector
-Pilski,Industrials,273,0.400948262526038,Sector
-Pilski,Consumer Services,130,0.5888825724912456,Sector
-Pilski,Transportation,104,0.13057602256276857,Sector
-Technology,Software,22,0.9140056332524763,Industry
-Technology,Hardware,48,0.30496361014432205,Industry
-Technology,IT Services,72,0.3067352785854299,Industry
-Healthcare,Pharmaceuticals,26,0.0901426920202365,Industry
-Healthcare,Medical Devices,20,0.026360460508499384,Industry
-Healthcare,Healthcare Services,29,0.8513466197998999,Industry
-Finance,Banking,59,0.8386615581759401,Industry
-Finance,Insurance,43,0.9685853607369078,Industry
-Finance,Investment Services,18,0.9152264309666585,Industry
-Energy,Oil & Gas,40,0.1730666370323376,Industry
-Energy,Renewable Energy,73,0.272428849230557,Industry
-Energy,Energy Exploration,76,0.9029787392735581,Industry
-Consumer Goods,Food & Beverage,65,0.8454886194427542,Industry
-Consumer Goods,Household Products,85,0.9252691067714267,Industry
-Consumer Goods,Apparel,34,0.47063836325982733,Industry
-Utilities,Electric,79,0.4193989377869449,Industry
-Utilities,Water,57,0.8107009961950244,Industry
-Utilities,Gas,14,0.08829103333795774,Industry
-Real Estate,Residential,9,0.28852022665790367,Industry
-Real Estate,Commercial,87,0.19010131244057715,Industry
-Real Estate,Industrial,55,0.8750307869975287,Industry
-Telecommunications,Mobile,48,0.2586894454863161,Industry
-Telecommunications,Broadband,58,0.47675084208793783,Industry
-Telecommunications,Satellite,88,0.6609647971213828,Industry
-Materials,Chemicals,68,0.5365561975995873,Industry
-Materials,Metals & Mining,41,0.18980769533113895,Industry
-Materials,Construction Materials,84,0.6651546407681294,Industry
-Industrials,Aerospace & Defense,81,0.497321992158138,Industry
-Industrials,Machinery,97,0.9448076738943119,Industry
-Industrials,Industrial Services,95,0.29466161039521366,Industry
-Consumer Services,Retail,4,0.6345284693849778,Industry
-Consumer Services,Travel & Leisure,66,0.41577838812241863,Industry
-Consumer Services,Media,60,0.9104190691104728,Industry
-Transportation,Airlines,20,0.16417245784243828,Industry
-Transportation,Railroads,28,0.54465382343202,Industry
-Transportation,Logistics,56,0.5918159784850554,Industry
+,Pilski,747,0.5255294571321196,Overall
+Pilski,HiTech,0,0.610816387619354,Sector
+Pilski,Agriculture,84,0.649887238948412,Sector
+Pilski,Transportation,82,0.49816144191841205,Sector
+Pilski,Consumer_Products,1,0.7561976803781785,Sector
+Pilski,Unassigned,64,0.0862638753073729,Sector
+Pilski,Communication,48,0.30447439380352637,Sector
+Pilski,Trade,65,0.3354772368186554,Sector
+Pilski,Business_Services,22,0.8652205422844257,Sector
+Pilski,Business_Products,90,0.8981533554614483,Sector
+Pilski,Construction,18,0.6959514173926558,Sector
+Pilski,Services,94,0.844765463255151,Sector
+Pilski,Mining,15,0.21391072252300047,Sector
+Pilski,Health_Care,8,0.14268909334931157,Sector
+Pilski,EnergyExpL_Prod,88,0.7914048959527002,Sector
+Pilski,Utilities,68,0.1895681119691901,Sector

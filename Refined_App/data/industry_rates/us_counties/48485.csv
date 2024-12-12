@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wichita,1679,0.383022798898074,Overall
-Wichita,Technology,197,0.2870191330711378,Sector
-Wichita,Healthcare,99,0.1983741293622051,Sector
-Wichita,Finance,187,0.6308247760472511,Sector
-Wichita,Energy,225,0.23707708138755001,Sector
-Wichita,Consumer Goods,157,0.07373693940607617,Sector
-Wichita,Utilities,114,0.6357643415899003,Sector
-Wichita,Real Estate,88,0.7236676376269656,Sector
-Wichita,Telecommunications,108,0.9832715393400264,Sector
-Wichita,Materials,111,0.6799192528550873,Sector
-Wichita,Industrials,98,0.8869177758625323,Sector
-Wichita,Consumer Services,136,0.8365968575410558,Sector
-Wichita,Transportation,159,0.927651970490515,Sector
-Technology,Software,84,0.23565521472150108,Industry
-Technology,Hardware,29,0.8998674299211118,Industry
-Technology,IT Services,84,0.1532708875022909,Industry
-Healthcare,Pharmaceuticals,19,0.5875123247301963,Industry
-Healthcare,Medical Devices,76,0.6353194749507683,Industry
-Healthcare,Healthcare Services,4,0.22171351921386795,Industry
-Finance,Banking,59,0.3266211516705859,Industry
-Finance,Insurance,88,0.635782340747162,Industry
-Finance,Investment Services,40,0.8732057617015963,Industry
-Energy,Oil & Gas,95,0.09089376050346498,Industry
-Energy,Renewable Energy,39,0.5023679379742427,Industry
-Energy,Energy Exploration,91,0.2787427320290995,Industry
-Consumer Goods,Food & Beverage,57,0.8639491083584926,Industry
-Consumer Goods,Household Products,25,0.1543699515337016,Industry
-Consumer Goods,Apparel,75,0.5625659576790658,Industry
-Utilities,Electric,5,0.817155016246216,Industry
-Utilities,Water,94,0.764062643634973,Industry
-Utilities,Gas,15,0.38165754765487436,Industry
-Real Estate,Residential,16,0.04889201954327904,Industry
-Real Estate,Commercial,36,0.239148598600049,Industry
-Real Estate,Industrial,36,0.4632445480101428,Industry
-Telecommunications,Mobile,18,0.003246904978121523,Industry
-Telecommunications,Broadband,90,0.6412792989424472,Industry
-Telecommunications,Satellite,0,0.43374764275814115,Industry
-Materials,Chemicals,42,0.464698026441944,Industry
-Materials,Metals & Mining,44,0.2481220667158952,Industry
-Materials,Construction Materials,25,0.3232700635098429,Industry
-Industrials,Aerospace & Defense,26,0.39294367949553355,Industry
-Industrials,Machinery,12,0.6425790139637803,Industry
-Industrials,Industrial Services,60,0.021842026920228963,Industry
-Consumer Services,Retail,64,0.4767644190467166,Industry
-Consumer Services,Travel & Leisure,5,0.959905977788268,Industry
-Consumer Services,Media,67,0.22996325412473273,Industry
-Transportation,Airlines,53,0.388704158074034,Industry
-Transportation,Railroads,82,0.12631323539275197,Industry
-Transportation,Logistics,24,0.47608825599910587,Industry
+,Wichita,597,0.5009992221614149,Overall
+Wichita,HiTech,60,0.6312519264864841,Sector
+Wichita,Agriculture,15,0.5910255885139184,Sector
+Wichita,Transportation,74,0.25357568868937685,Sector
+Wichita,Consumer_Products,26,0.8759731905741442,Sector
+Wichita,Unassigned,18,0.24137092891408374,Sector
+Wichita,Communication,1,0.09066486423457232,Sector
+Wichita,Trade,27,0.9707320779626762,Sector
+Wichita,Business_Services,66,0.6343773706467716,Sector
+Wichita,Business_Products,11,0.4819127073469922,Sector
+Wichita,Construction,32,0.2605364758792955,Sector
+Wichita,Services,32,0.6157592130028029,Sector
+Wichita,Mining,80,0.8578464902216988,Sector
+Wichita,Health_Care,71,0.42202981688582164,Sector
+Wichita,EnergyExpL_Prod,5,0.043544443574931146,Sector
+Wichita,Utilities,79,0.544387549487654,Sector

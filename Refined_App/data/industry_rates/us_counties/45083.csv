@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Spartanburg,1740,0.05992317979469297,Overall
-Spartanburg,Technology,154,0.5475312922909727,Sector
-Spartanburg,Healthcare,232,0.35227222529580904,Sector
-Spartanburg,Finance,78,0.17949465084083682,Sector
-Spartanburg,Energy,203,0.8319507421096162,Sector
-Spartanburg,Consumer Goods,64,0.16766393466763574,Sector
-Spartanburg,Utilities,147,0.9517179029105566,Sector
-Spartanburg,Real Estate,248,0.8284631966631343,Sector
-Spartanburg,Telecommunications,250,0.7548606774700279,Sector
-Spartanburg,Materials,116,0.4502926515264094,Sector
-Spartanburg,Industrials,69,0.057490756999967196,Sector
-Spartanburg,Consumer Services,125,0.25915051024007874,Sector
-Spartanburg,Transportation,54,0.8456162530909205,Sector
-Technology,Software,65,0.2992933570242281,Industry
-Technology,Hardware,69,0.7283873052886943,Industry
-Technology,IT Services,20,0.9710903183672577,Industry
-Healthcare,Pharmaceuticals,48,0.20687892568231137,Industry
-Healthcare,Medical Devices,96,0.7993662451307696,Industry
-Healthcare,Healthcare Services,88,0.6530111547859341,Industry
-Finance,Banking,44,0.313335082192875,Industry
-Finance,Insurance,20,0.3252288002265793,Industry
-Finance,Investment Services,14,0.9812195155557727,Industry
-Energy,Oil & Gas,52,0.020812199817388133,Industry
-Energy,Renewable Energy,57,0.4821866689636618,Industry
-Energy,Energy Exploration,94,0.23061777074484446,Industry
-Consumer Goods,Food & Beverage,22,0.8803089441868299,Industry
-Consumer Goods,Household Products,33,0.08748033631358565,Industry
-Consumer Goods,Apparel,9,0.21268386490484248,Industry
-Utilities,Electric,37,0.5156465798842155,Industry
-Utilities,Water,37,0.3425699929268482,Industry
-Utilities,Gas,73,0.21793069964645684,Industry
-Real Estate,Residential,87,0.724547052246201,Industry
-Real Estate,Commercial,98,0.18940782314674098,Industry
-Real Estate,Industrial,63,0.3644413648527306,Industry
-Telecommunications,Mobile,85,0.5190397824712035,Industry
-Telecommunications,Broadband,92,0.7130183706197998,Industry
-Telecommunications,Satellite,73,0.7618478426567846,Industry
-Materials,Chemicals,58,0.6240798754938943,Industry
-Materials,Metals & Mining,51,0.28574287382732455,Industry
-Materials,Construction Materials,7,0.9116107805176842,Industry
-Industrials,Aerospace & Defense,0,0.39542465500598667,Industry
-Industrials,Machinery,20,0.8967734657452513,Industry
-Industrials,Industrial Services,49,0.7821714349471478,Industry
-Consumer Services,Retail,49,0.08333583259629485,Industry
-Consumer Services,Travel & Leisure,55,0.9426512164732473,Industry
-Consumer Services,Media,21,0.40567371557682474,Industry
-Transportation,Airlines,6,0.7857914446190299,Industry
-Transportation,Railroads,30,0.3056534901838708,Industry
-Transportation,Logistics,18,0.2682664279016239,Industry
+,Spartanburg,681,0.6174495237483157,Overall
+Spartanburg,HiTech,44,0.835141305933666,Sector
+Spartanburg,Agriculture,6,0.9306615962616166,Sector
+Spartanburg,Transportation,74,0.9732825067008785,Sector
+Spartanburg,Consumer_Products,91,0.6903271190798956,Sector
+Spartanburg,Unassigned,29,0.19513189684552756,Sector
+Spartanburg,Communication,54,0.8348981652955356,Sector
+Spartanburg,Trade,11,0.053361353425141034,Sector
+Spartanburg,Business_Services,47,0.8960812551199606,Sector
+Spartanburg,Business_Products,10,0.11080415026248902,Sector
+Spartanburg,Construction,20,0.6230493890735961,Sector
+Spartanburg,Services,89,0.7070989755413999,Sector
+Spartanburg,Mining,94,0.6703012418415435,Sector
+Spartanburg,Health_Care,13,0.7300976748101253,Sector
+Spartanburg,EnergyExpL_Prod,59,0.3089569328530799,Sector
+Spartanburg,Utilities,40,0.7025492931802799,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Milano,1693,0.3098107384979938,Overall
-Milano,Technology,224,0.4012780201612647,Sector
-Milano,Healthcare,172,0.5515965958894091,Sector
-Milano,Finance,95,0.34016235135847694,Sector
-Milano,Energy,119,0.9604154255078177,Sector
-Milano,Consumer Goods,83,0.36217354964414483,Sector
-Milano,Utilities,155,0.27873865989283964,Sector
-Milano,Real Estate,187,0.5631835750681184,Sector
-Milano,Telecommunications,118,0.22318198729508687,Sector
-Milano,Materials,132,0.02293504295029647,Sector
-Milano,Industrials,64,0.8826921147038449,Sector
-Milano,Consumer Services,187,0.4575207551829624,Sector
-Milano,Transportation,157,0.4811954792367701,Sector
-Technology,Software,48,0.46748456852603704,Industry
-Technology,Hardware,79,0.715773429478581,Industry
-Technology,IT Services,97,0.37132349478651494,Industry
-Healthcare,Pharmaceuticals,74,0.5538544965114234,Industry
-Healthcare,Medical Devices,87,0.7840826057339433,Industry
-Healthcare,Healthcare Services,11,0.8477816564634569,Industry
-Finance,Banking,12,0.49583130535223463,Industry
-Finance,Insurance,75,0.6920129998120754,Industry
-Finance,Investment Services,8,0.21502950041450053,Industry
-Energy,Oil & Gas,48,0.7907221705844963,Industry
-Energy,Renewable Energy,35,0.7555519655393397,Industry
-Energy,Energy Exploration,36,0.16988452035284896,Industry
-Consumer Goods,Food & Beverage,65,0.5515568022672329,Industry
-Consumer Goods,Household Products,11,0.9527162876781391,Industry
-Consumer Goods,Apparel,7,0.9528990995228599,Industry
-Utilities,Electric,50,0.5036696387237902,Industry
-Utilities,Water,22,0.8919604112712766,Industry
-Utilities,Gas,83,0.33476132852337315,Industry
-Real Estate,Residential,89,0.9860949742730645,Industry
-Real Estate,Commercial,97,0.1119483827872414,Industry
-Real Estate,Industrial,1,0.017022405400690666,Industry
-Telecommunications,Mobile,66,0.2052344761144128,Industry
-Telecommunications,Broadband,52,0.40917797779743925,Industry
-Telecommunications,Satellite,0,0.12391675498403276,Industry
-Materials,Chemicals,36,0.08123788768462337,Industry
-Materials,Metals & Mining,60,0.15311334197205495,Industry
-Materials,Construction Materials,36,0.3046666783414892,Industry
-Industrials,Aerospace & Defense,20,0.4698053581064494,Industry
-Industrials,Machinery,25,0.9927672599524082,Industry
-Industrials,Industrial Services,19,0.5341856807082386,Industry
-Consumer Services,Retail,92,0.8227374551761645,Industry
-Consumer Services,Travel & Leisure,43,0.03463936935705869,Industry
-Consumer Services,Media,52,0.10352634430368579,Industry
-Transportation,Airlines,61,0.1454753165905046,Industry
-Transportation,Railroads,64,0.9346332733252694,Industry
-Transportation,Logistics,32,0.7289995177228394,Industry
+,Milano,525,0.49128047229543076,Overall
+Milano,HiTech,33,0.8165360742455429,Sector
+Milano,Agriculture,80,0.22490391472477567,Sector
+Milano,Transportation,27,0.19037142951949426,Sector
+Milano,Consumer_Products,82,0.7594272571434637,Sector
+Milano,Unassigned,49,0.2644610716396607,Sector
+Milano,Communication,12,0.3013795592537519,Sector
+Milano,Trade,54,0.5131936136932389,Sector
+Milano,Business_Services,15,0.15491323911551957,Sector
+Milano,Business_Products,62,0.5781247554279003,Sector
+Milano,Construction,11,0.9601351908677536,Sector
+Milano,Services,16,0.45242749778872804,Sector
+Milano,Mining,41,0.6693549737644897,Sector
+Milano,Health_Care,1,0.5090369793258687,Sector
+Milano,EnergyExpL_Prod,17,0.8409823451000225,Sector
+Milano,Utilities,25,0.13395918282125086,Sector

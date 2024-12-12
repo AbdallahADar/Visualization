@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Buffalo,1431,0.366511294155381,Overall
-Buffalo,Technology,65,0.09691017383604561,Sector
-Buffalo,Healthcare,89,0.21973545738592526,Sector
-Buffalo,Finance,22,0.016604609373403134,Sector
-Buffalo,Energy,86,0.8506015172475923,Sector
-Buffalo,Consumer Goods,152,0.5808252669979694,Sector
-Buffalo,Utilities,213,0.431858054081801,Sector
-Buffalo,Real Estate,117,0.6298881028996581,Sector
-Buffalo,Telecommunications,203,0.9696003334352346,Sector
-Buffalo,Materials,124,0.691712501224889,Sector
-Buffalo,Industrials,110,0.4795793576142663,Sector
-Buffalo,Consumer Services,129,0.43539650562225174,Sector
-Buffalo,Transportation,121,0.9772092149993323,Sector
-Technology,Software,8,0.10230390536316725,Industry
-Technology,Hardware,32,0.932353769789974,Industry
-Technology,IT Services,25,0.8329338837767003,Industry
-Healthcare,Pharmaceuticals,45,0.8386671023055627,Industry
-Healthcare,Medical Devices,31,0.9633556238636678,Industry
-Healthcare,Healthcare Services,13,0.937588340402388,Industry
-Finance,Banking,14,0.2576537138682009,Industry
-Finance,Insurance,3,0.5910766140777546,Industry
-Finance,Investment Services,5,0.0834907987271083,Industry
-Energy,Oil & Gas,60,0.63719346284725,Industry
-Energy,Renewable Energy,8,0.7703119667282691,Industry
-Energy,Energy Exploration,18,0.7429453132325923,Industry
-Consumer Goods,Food & Beverage,61,0.3815393256993327,Industry
-Consumer Goods,Household Products,12,0.7746580489142838,Industry
-Consumer Goods,Apparel,79,0.15353285496242897,Industry
-Utilities,Electric,63,0.0178422559019199,Industry
-Utilities,Water,72,0.838910030331523,Industry
-Utilities,Gas,78,0.7880129565921079,Industry
-Real Estate,Residential,29,0.7432537010132304,Industry
-Real Estate,Commercial,14,0.2662113642492463,Industry
-Real Estate,Industrial,74,0.4207621839414516,Industry
-Telecommunications,Mobile,37,0.2809156427461996,Industry
-Telecommunications,Broadband,91,0.539817414060741,Industry
-Telecommunications,Satellite,75,0.5363789249939525,Industry
-Materials,Chemicals,73,0.874546435253685,Industry
-Materials,Metals & Mining,50,0.5679265270543308,Industry
-Materials,Construction Materials,1,0.7023664323608495,Industry
-Industrials,Aerospace & Defense,44,0.7620370164820344,Industry
-Industrials,Machinery,34,0.13288405670516312,Industry
-Industrials,Industrial Services,32,0.08188286611778162,Industry
-Consumer Services,Retail,41,0.43569209665600483,Industry
-Consumer Services,Travel & Leisure,38,0.3541651408769775,Industry
-Consumer Services,Media,50,0.7046026580465137,Industry
-Transportation,Airlines,56,0.014809579069212986,Industry
-Transportation,Railroads,57,0.859523682849937,Industry
-Transportation,Logistics,8,0.034391544868044854,Industry
+,Buffalo,773,0.547841411581549,Overall
+Buffalo,HiTech,52,0.43450099977955803,Sector
+Buffalo,Agriculture,63,0.955109363824681,Sector
+Buffalo,Transportation,48,0.7940204303082415,Sector
+Buffalo,Consumer_Products,17,0.2451351449215965,Sector
+Buffalo,Unassigned,99,0.4105306816072565,Sector
+Buffalo,Communication,30,0.09837540706505432,Sector
+Buffalo,Trade,97,0.7028718974878018,Sector
+Buffalo,Business_Services,41,0.4455636525705843,Sector
+Buffalo,Business_Products,40,0.46485757581278164,Sector
+Buffalo,Construction,3,0.8982229380526602,Sector
+Buffalo,Services,97,0.15668094841795055,Sector
+Buffalo,Mining,79,0.9652515627132795,Sector
+Buffalo,Health_Care,35,0.23959530245323224,Sector
+Buffalo,EnergyExpL_Prod,8,0.5300919205711739,Sector
+Buffalo,Utilities,64,0.876813348137383,Sector

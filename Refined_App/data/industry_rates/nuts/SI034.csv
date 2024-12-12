@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Savinjska,2193,0.6490318445421512,Overall
-Savinjska,Technology,181,0.32288395690177485,Sector
-Savinjska,Healthcare,176,0.24028924896401804,Sector
-Savinjska,Finance,126,0.9192084926809152,Sector
-Savinjska,Energy,143,0.13268706437105737,Sector
-Savinjska,Consumer Goods,177,0.130738367953122,Sector
-Savinjska,Utilities,193,0.09826293961075572,Sector
-Savinjska,Real Estate,206,0.4732094309154118,Sector
-Savinjska,Telecommunications,231,0.838526437209153,Sector
-Savinjska,Materials,242,0.08523679511707583,Sector
-Savinjska,Industrials,153,0.9348623177292609,Sector
-Savinjska,Consumer Services,170,0.08970489938062343,Sector
-Savinjska,Transportation,195,0.0171734561636121,Sector
-Technology,Software,34,0.01589617522816067,Industry
-Technology,Hardware,64,0.9520578507305921,Industry
-Technology,IT Services,83,0.1467891896923279,Industry
-Healthcare,Pharmaceuticals,87,0.7532830356773188,Industry
-Healthcare,Medical Devices,22,0.1052753378005643,Industry
-Healthcare,Healthcare Services,67,0.5219024670042635,Industry
-Finance,Banking,11,0.437047360631191,Industry
-Finance,Insurance,86,0.5235074150256238,Industry
-Finance,Investment Services,29,0.07695158650203215,Industry
-Energy,Oil & Gas,52,0.08384081638499497,Industry
-Energy,Renewable Energy,90,0.10043049821249961,Industry
-Energy,Energy Exploration,1,0.4582283698628973,Industry
-Consumer Goods,Food & Beverage,9,0.5480371627194341,Industry
-Consumer Goods,Household Products,85,0.3431633571790914,Industry
-Consumer Goods,Apparel,83,0.4947670621547795,Industry
-Utilities,Electric,26,0.40955728901995325,Industry
-Utilities,Water,68,0.14924126397762683,Industry
-Utilities,Gas,99,0.13126288401804243,Industry
-Real Estate,Residential,38,0.41724954906155376,Industry
-Real Estate,Commercial,71,0.42430184830515727,Industry
-Real Estate,Industrial,97,0.8509768641092105,Industry
-Telecommunications,Mobile,71,0.2634735585222574,Industry
-Telecommunications,Broadband,72,0.015096879523037399,Industry
-Telecommunications,Satellite,88,0.07760089323028563,Industry
-Materials,Chemicals,90,0.006990747244945417,Industry
-Materials,Metals & Mining,82,0.7212642086079234,Industry
-Materials,Construction Materials,70,0.3965388577540765,Industry
-Industrials,Aerospace & Defense,31,0.6056543593706231,Industry
-Industrials,Machinery,56,0.6062993294827221,Industry
-Industrials,Industrial Services,66,0.7992983767985978,Industry
-Consumer Services,Retail,90,0.32609875098853414,Industry
-Consumer Services,Travel & Leisure,10,0.2141666977807577,Industry
-Consumer Services,Media,70,0.006395683839389599,Industry
-Transportation,Airlines,89,0.11418918625517571,Industry
-Transportation,Railroads,35,0.3004933551378569,Industry
-Transportation,Logistics,71,0.23950593511564833,Industry
+,Savinjska,627,0.5823581181434229,Overall
+Savinjska,HiTech,56,0.9270242207932023,Sector
+Savinjska,Agriculture,49,0.6787513577979344,Sector
+Savinjska,Transportation,87,0.34002559972754853,Sector
+Savinjska,Consumer_Products,66,0.49989045598422166,Sector
+Savinjska,Unassigned,61,0.5258149885412643,Sector
+Savinjska,Communication,74,0.5912151406027252,Sector
+Savinjska,Trade,10,0.1859732271891601,Sector
+Savinjska,Business_Services,15,0.007773453159663712,Sector
+Savinjska,Business_Products,32,0.8605424125046043,Sector
+Savinjska,Construction,57,0.34790821953897166,Sector
+Savinjska,Services,37,0.879454648806157,Sector
+Savinjska,Mining,8,0.6787162215681989,Sector
+Savinjska,Health_Care,44,0.5480566539733168,Sector
+Savinjska,EnergyExpL_Prod,11,0.8341874036706934,Sector
+Savinjska,Utilities,20,0.8300377682936795,Sector

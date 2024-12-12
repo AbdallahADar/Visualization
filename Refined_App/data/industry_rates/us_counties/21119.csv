@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Knott,1717,0.2996238348748721,Overall
-Knott,Technology,109,0.01906369948956732,Sector
-Knott,Healthcare,170,0.7800208640055523,Sector
-Knott,Finance,179,0.7919461003126936,Sector
-Knott,Energy,185,0.044421573019167715,Sector
-Knott,Consumer Goods,105,0.6507665107628301,Sector
-Knott,Utilities,207,0.15582098033820557,Sector
-Knott,Real Estate,110,0.17586026029800228,Sector
-Knott,Telecommunications,186,0.342735546206405,Sector
-Knott,Materials,130,0.265478811491178,Sector
-Knott,Industrials,167,0.5418282580188156,Sector
-Knott,Consumer Services,78,0.8605788525422065,Sector
-Knott,Transportation,91,0.9417057631824122,Sector
-Technology,Software,5,0.2783978422132626,Industry
-Technology,Hardware,85,0.7646773873824342,Industry
-Technology,IT Services,19,0.22743848898368746,Industry
-Healthcare,Pharmaceuticals,53,0.4296757666733436,Industry
-Healthcare,Medical Devices,25,0.24530193177947812,Industry
-Healthcare,Healthcare Services,92,0.3350184596816802,Industry
-Finance,Banking,61,0.23624022895593777,Industry
-Finance,Insurance,28,0.47900271123036064,Industry
-Finance,Investment Services,90,0.010594120477651736,Industry
-Energy,Oil & Gas,99,0.13307284018194931,Industry
-Energy,Renewable Energy,23,0.48338141446534555,Industry
-Energy,Energy Exploration,63,0.49377786531874424,Industry
-Consumer Goods,Food & Beverage,43,0.3660010894942137,Industry
-Consumer Goods,Household Products,47,0.6145943048358652,Industry
-Consumer Goods,Apparel,15,0.5515068079353326,Industry
-Utilities,Electric,44,0.5323458837794198,Industry
-Utilities,Water,91,0.8118138645172854,Industry
-Utilities,Gas,72,0.8222649631637258,Industry
-Real Estate,Residential,90,0.7342325828238152,Industry
-Real Estate,Commercial,10,0.5869338714504211,Industry
-Real Estate,Industrial,10,0.9029073596616104,Industry
-Telecommunications,Mobile,24,0.3547673156420166,Industry
-Telecommunications,Broadband,78,0.8077775140320012,Industry
-Telecommunications,Satellite,84,0.9222967340598665,Industry
-Materials,Chemicals,37,0.0606260168818179,Industry
-Materials,Metals & Mining,22,0.06467649025135458,Industry
-Materials,Construction Materials,71,0.3898251395872956,Industry
-Industrials,Aerospace & Defense,95,0.3279937239088495,Industry
-Industrials,Machinery,50,0.14249253154550878,Industry
-Industrials,Industrial Services,22,0.9936648724805944,Industry
-Consumer Services,Retail,44,0.8971868578359314,Industry
-Consumer Services,Travel & Leisure,4,0.540554337717665,Industry
-Consumer Services,Media,30,0.46936810430803255,Industry
-Transportation,Airlines,68,0.8287287534596596,Industry
-Transportation,Railroads,13,0.18865459160276554,Industry
-Transportation,Logistics,10,0.8624072785739806,Industry
+,Knott,813,0.4754701174363557,Overall
+Knott,HiTech,97,0.5303702122399637,Sector
+Knott,Agriculture,49,0.020599994346555683,Sector
+Knott,Transportation,47,0.9727429629750575,Sector
+Knott,Consumer_Products,64,0.9541946852273903,Sector
+Knott,Unassigned,13,0.43337370801289754,Sector
+Knott,Communication,81,0.12958508898801957,Sector
+Knott,Trade,11,0.9181329011301923,Sector
+Knott,Business_Services,55,0.4157967036157135,Sector
+Knott,Business_Products,80,0.4842508194411548,Sector
+Knott,Construction,43,0.11242282408685311,Sector
+Knott,Services,80,0.24233932993347074,Sector
+Knott,Mining,67,0.3343706649381246,Sector
+Knott,Health_Care,15,0.22929460787336553,Sector
+Knott,EnergyExpL_Prod,41,0.9080627141134041,Sector
+Knott,Utilities,70,0.44651454462317297,Sector

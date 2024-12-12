@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Marshall,1884,0.7805482523321723,Overall
-Marshall,Technology,108,0.2512335758599685,Sector
-Marshall,Healthcare,152,0.2693790260525645,Sector
-Marshall,Finance,192,0.7871367848561274,Sector
-Marshall,Energy,178,0.3685185276636793,Sector
-Marshall,Consumer Goods,97,0.4994049043933436,Sector
-Marshall,Utilities,105,0.49661096909293123,Sector
-Marshall,Real Estate,184,0.5283073295673747,Sector
-Marshall,Telecommunications,118,0.3363900827042696,Sector
-Marshall,Materials,237,0.7015524802974982,Sector
-Marshall,Industrials,175,0.2380330603207257,Sector
-Marshall,Consumer Services,133,0.4617491422945714,Sector
-Marshall,Transportation,205,0.8606823343926059,Sector
-Technology,Software,45,0.09275246452414077,Industry
-Technology,Hardware,27,0.7012472278243748,Industry
-Technology,IT Services,36,0.7794286318229056,Industry
-Healthcare,Pharmaceuticals,12,0.13720860235308563,Industry
-Healthcare,Medical Devices,88,0.905899631111633,Industry
-Healthcare,Healthcare Services,52,0.45943272360164455,Industry
-Finance,Banking,94,0.6430058244830101,Industry
-Finance,Insurance,63,0.5841707848510144,Industry
-Finance,Investment Services,35,0.13806840714551138,Industry
-Energy,Oil & Gas,97,0.41341289764566214,Industry
-Energy,Renewable Energy,24,0.044466509252026554,Industry
-Energy,Energy Exploration,57,0.22877031894002486,Industry
-Consumer Goods,Food & Beverage,16,0.6623714937514988,Industry
-Consumer Goods,Household Products,59,0.764949410860478,Industry
-Consumer Goods,Apparel,22,0.5186941679529737,Industry
-Utilities,Electric,42,0.3343713572831214,Industry
-Utilities,Water,61,0.037719009041633944,Industry
-Utilities,Gas,2,0.8162458861814668,Industry
-Real Estate,Residential,32,0.62387126812736,Industry
-Real Estate,Commercial,98,0.803204279084105,Industry
-Real Estate,Industrial,54,0.8579845863288792,Industry
-Telecommunications,Mobile,40,0.9831189637473216,Industry
-Telecommunications,Broadband,66,0.9911930443868952,Industry
-Telecommunications,Satellite,12,0.5053853697412225,Industry
-Materials,Chemicals,84,0.47224867640822776,Industry
-Materials,Metals & Mining,70,0.7769526514445272,Industry
-Materials,Construction Materials,83,0.9584647953317188,Industry
-Industrials,Aerospace & Defense,89,0.17160758065426707,Industry
-Industrials,Machinery,85,0.10963530206169836,Industry
-Industrials,Industrial Services,1,0.5066537041956927,Industry
-Consumer Services,Retail,87,0.6081752239746067,Industry
-Consumer Services,Travel & Leisure,43,0.4297224284365626,Industry
-Consumer Services,Media,3,0.9320127543398204,Industry
-Transportation,Airlines,45,0.8432278287789869,Industry
-Transportation,Railroads,88,0.6504864958512483,Industry
-Transportation,Logistics,72,0.8107782244544288,Industry
+,Marshall,852,0.5831628797288861,Overall
+Marshall,HiTech,90,0.789164273981619,Sector
+Marshall,Agriculture,50,0.7024172826296518,Sector
+Marshall,Transportation,61,0.5189560363802329,Sector
+Marshall,Consumer_Products,37,0.9930602236278492,Sector
+Marshall,Unassigned,13,0.6299269023290922,Sector
+Marshall,Communication,63,0.9708117823642233,Sector
+Marshall,Trade,87,0.981037965038459,Sector
+Marshall,Business_Services,10,0.2166537698892793,Sector
+Marshall,Business_Products,76,0.8420426326623943,Sector
+Marshall,Construction,28,0.37898941863703683,Sector
+Marshall,Services,95,0.3899106451440457,Sector
+Marshall,Mining,77,0.8608831782043223,Sector
+Marshall,Health_Care,97,0.29063784563195383,Sector
+Marshall,EnergyExpL_Prod,21,0.15086480701896987,Sector
+Marshall,Utilities,47,0.03208643239416342,Sector

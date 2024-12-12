@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Emmendingen,1834,0.053930593634104684,Overall
-Emmendingen,Technology,250,0.7503934757726013,Sector
-Emmendingen,Healthcare,205,0.03786923550603305,Sector
-Emmendingen,Finance,168,0.8765876655937569,Sector
-Emmendingen,Energy,156,0.9194507130461119,Sector
-Emmendingen,Consumer Goods,157,0.3091184050133772,Sector
-Emmendingen,Utilities,174,0.8178584607152385,Sector
-Emmendingen,Real Estate,105,0.7909223123743118,Sector
-Emmendingen,Telecommunications,189,0.9392293720488823,Sector
-Emmendingen,Materials,87,0.31142300253287525,Sector
-Emmendingen,Industrials,121,0.4781945612984597,Sector
-Emmendingen,Consumer Services,171,0.664114427913628,Sector
-Emmendingen,Transportation,51,0.5618404657040512,Sector
-Technology,Software,92,0.9986282589017681,Industry
-Technology,Hardware,97,0.043565233049846164,Industry
-Technology,IT Services,61,0.006556717063962658,Industry
-Healthcare,Pharmaceuticals,32,0.5667164325582279,Industry
-Healthcare,Medical Devices,74,0.5124280714706435,Industry
-Healthcare,Healthcare Services,99,0.7594119378455862,Industry
-Finance,Banking,32,0.01604706940895273,Industry
-Finance,Insurance,49,0.5788888283087279,Industry
-Finance,Investment Services,87,0.13921549232293362,Industry
-Energy,Oil & Gas,53,0.19886859956306824,Industry
-Energy,Renewable Energy,96,0.24729525624145665,Industry
-Energy,Energy Exploration,7,0.34978353786414773,Industry
-Consumer Goods,Food & Beverage,76,0.04668311252923052,Industry
-Consumer Goods,Household Products,7,0.8560628138835356,Industry
-Consumer Goods,Apparel,74,0.5588585362157401,Industry
-Utilities,Electric,82,0.9502114354237468,Industry
-Utilities,Water,79,0.28973079245536626,Industry
-Utilities,Gas,13,0.27701668765362575,Industry
-Real Estate,Residential,25,0.30334654221809965,Industry
-Real Estate,Commercial,66,0.03581787992164365,Industry
-Real Estate,Industrial,14,0.6514635953602833,Industry
-Telecommunications,Mobile,71,0.6787543397510657,Industry
-Telecommunications,Broadband,77,0.111495085309678,Industry
-Telecommunications,Satellite,41,0.89548309254324,Industry
-Materials,Chemicals,18,0.24244490352926762,Industry
-Materials,Metals & Mining,61,0.024548226122116268,Industry
-Materials,Construction Materials,8,0.31174115308817585,Industry
-Industrials,Aerospace & Defense,8,0.3727559737429459,Industry
-Industrials,Machinery,76,0.7120326514000618,Industry
-Industrials,Industrial Services,37,0.7522277890281557,Industry
-Consumer Services,Retail,60,0.061198677811722835,Industry
-Consumer Services,Travel & Leisure,88,0.8401202497382166,Industry
-Consumer Services,Media,23,0.5696370003452721,Industry
-Transportation,Airlines,10,0.6121867236660699,Industry
-Transportation,Railroads,5,0.7990442689183297,Industry
-Transportation,Logistics,36,0.6937384479503842,Industry
+,Emmendingen,672,0.4665463223646009,Overall
+Emmendingen,HiTech,30,0.01123621158714283,Sector
+Emmendingen,Agriculture,69,0.682779066258557,Sector
+Emmendingen,Transportation,51,0.2811753203645496,Sector
+Emmendingen,Consumer_Products,19,0.3558099373103827,Sector
+Emmendingen,Unassigned,59,0.632588535910922,Sector
+Emmendingen,Communication,21,0.2365865154395158,Sector
+Emmendingen,Trade,45,0.9465532171770747,Sector
+Emmendingen,Business_Services,75,0.9760301151870364,Sector
+Emmendingen,Business_Products,78,0.6523170377872219,Sector
+Emmendingen,Construction,49,0.9586663251839747,Sector
+Emmendingen,Services,57,0.011637259769516795,Sector
+Emmendingen,Mining,40,0.8214915920287499,Sector
+Emmendingen,Health_Care,44,0.022195739704272355,Sector
+Emmendingen,EnergyExpL_Prod,31,0.08646855144325127,Sector
+Emmendingen,Utilities,4,0.32265941031684575,Sector

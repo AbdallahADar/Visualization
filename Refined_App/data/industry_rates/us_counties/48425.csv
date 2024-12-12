@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Somervell,1864,0.8647517128104899,Overall
-Somervell,Technology,176,0.1719262536174978,Sector
-Somervell,Healthcare,159,0.9843749083708774,Sector
-Somervell,Finance,189,0.6930734741878191,Sector
-Somervell,Energy,71,0.08858848413607434,Sector
-Somervell,Consumer Goods,103,0.8708006020887541,Sector
-Somervell,Utilities,180,0.27940319504967626,Sector
-Somervell,Real Estate,157,0.7007337086218282,Sector
-Somervell,Telecommunications,188,0.9129727243805368,Sector
-Somervell,Materials,208,0.7151453866767004,Sector
-Somervell,Industrials,113,0.2702762752843352,Sector
-Somervell,Consumer Services,141,0.6649210972941803,Sector
-Somervell,Transportation,179,0.6223415183508201,Sector
-Technology,Software,78,0.7328605540932203,Industry
-Technology,Hardware,18,0.51442246701195,Industry
-Technology,IT Services,80,0.8674042444355223,Industry
-Healthcare,Pharmaceuticals,42,0.13735805106396937,Industry
-Healthcare,Medical Devices,72,0.04625415333661931,Industry
-Healthcare,Healthcare Services,45,0.25814731760459864,Industry
-Finance,Banking,80,0.21592512157807486,Industry
-Finance,Insurance,36,0.23064493088914517,Industry
-Finance,Investment Services,73,0.02426311007369586,Industry
-Energy,Oil & Gas,8,0.5707134423221368,Industry
-Energy,Renewable Energy,52,0.9622559939489267,Industry
-Energy,Energy Exploration,11,0.33050393970475145,Industry
-Consumer Goods,Food & Beverage,57,0.7673972958823544,Industry
-Consumer Goods,Household Products,2,0.2947330541636831,Industry
-Consumer Goods,Apparel,44,0.7139229124820887,Industry
-Utilities,Electric,96,0.902523454529769,Industry
-Utilities,Water,10,0.3484142211900976,Industry
-Utilities,Gas,74,0.762066468524186,Industry
-Real Estate,Residential,27,0.09274392866248138,Industry
-Real Estate,Commercial,33,0.8578785443759039,Industry
-Real Estate,Industrial,97,0.6704142152669996,Industry
-Telecommunications,Mobile,32,0.5978218626950712,Industry
-Telecommunications,Broadband,91,0.5834117424529487,Industry
-Telecommunications,Satellite,65,0.38182014412472276,Industry
-Materials,Chemicals,57,0.0910985267628397,Industry
-Materials,Metals & Mining,68,0.11504467121651851,Industry
-Materials,Construction Materials,83,0.16269042690847135,Industry
-Industrials,Aerospace & Defense,35,0.6491192475144851,Industry
-Industrials,Machinery,44,0.35299305928294633,Industry
-Industrials,Industrial Services,34,0.4511501863331445,Industry
-Consumer Services,Retail,31,0.19106876730503664,Industry
-Consumer Services,Travel & Leisure,23,0.8632092802370729,Industry
-Consumer Services,Media,87,0.4624557793193834,Industry
-Transportation,Airlines,81,0.7700420757174331,Industry
-Transportation,Railroads,24,0.7273502070846232,Industry
-Transportation,Logistics,74,0.596103949631528,Industry
+,Somervell,826,0.4652864106930645,Overall
+Somervell,HiTech,56,0.45770341549827975,Sector
+Somervell,Agriculture,35,0.6102769199420217,Sector
+Somervell,Transportation,45,0.369935146809512,Sector
+Somervell,Consumer_Products,60,0.6893389045575523,Sector
+Somervell,Unassigned,15,0.626396613432395,Sector
+Somervell,Communication,74,0.19121791514375186,Sector
+Somervell,Trade,39,0.5897135301086851,Sector
+Somervell,Business_Services,51,0.2676217701205147,Sector
+Somervell,Business_Products,56,0.680707545439695,Sector
+Somervell,Construction,82,0.24558682049566394,Sector
+Somervell,Services,85,0.18387939165855094,Sector
+Somervell,Mining,54,0.25556182313922415,Sector
+Somervell,Health_Care,48,0.4135086849156866,Sector
+Somervell,EnergyExpL_Prod,72,0.648007525911619,Sector
+Somervell,Utilities,54,0.7498401532228148,Sector

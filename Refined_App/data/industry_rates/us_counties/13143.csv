@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Haralson,1632,0.5072316498177669,Overall
-Haralson,Technology,142,0.9989366110332668,Sector
-Haralson,Healthcare,121,0.7728482071605283,Sector
-Haralson,Finance,159,0.9189463752093194,Sector
-Haralson,Energy,123,0.8340476632825022,Sector
-Haralson,Consumer Goods,135,0.3009661687480951,Sector
-Haralson,Utilities,61,0.20534103553201732,Sector
-Haralson,Real Estate,145,0.815780315600756,Sector
-Haralson,Telecommunications,167,0.47396287519859825,Sector
-Haralson,Materials,170,0.9298848931576927,Sector
-Haralson,Industrials,132,0.789836325189728,Sector
-Haralson,Consumer Services,154,0.2766223891160411,Sector
-Haralson,Transportation,123,0.7852623840781766,Sector
-Technology,Software,40,0.34766419110228564,Industry
-Technology,Hardware,75,0.9002302499706595,Industry
-Technology,IT Services,27,0.07422556960265903,Industry
-Healthcare,Pharmaceuticals,13,0.827782912067642,Industry
-Healthcare,Medical Devices,91,0.7154849984681652,Industry
-Healthcare,Healthcare Services,17,0.3424934525956943,Industry
-Finance,Banking,28,0.9591395732922353,Industry
-Finance,Insurance,90,0.36541138061195244,Industry
-Finance,Investment Services,41,0.9253675839801576,Industry
-Energy,Oil & Gas,51,0.6633219951646881,Industry
-Energy,Renewable Energy,5,0.4659249639153986,Industry
-Energy,Energy Exploration,67,0.9769622465040585,Industry
-Consumer Goods,Food & Beverage,60,0.05558289191624399,Industry
-Consumer Goods,Household Products,27,0.21877960946599584,Industry
-Consumer Goods,Apparel,48,0.6876153149047438,Industry
-Utilities,Electric,0,0.07807997712332326,Industry
-Utilities,Water,35,0.30916431309401726,Industry
-Utilities,Gas,26,0.8464910319377131,Industry
-Real Estate,Residential,46,0.23619730541303896,Industry
-Real Estate,Commercial,62,0.10390322507998895,Industry
-Real Estate,Industrial,37,0.13571412064376454,Industry
-Telecommunications,Mobile,86,0.5958039464591458,Industry
-Telecommunications,Broadband,14,0.6660583677834001,Industry
-Telecommunications,Satellite,67,0.43526607751984425,Industry
-Materials,Chemicals,39,0.8267960279520029,Industry
-Materials,Metals & Mining,74,0.9734248660836458,Industry
-Materials,Construction Materials,57,0.03058837140592685,Industry
-Industrials,Aerospace & Defense,50,0.9124357996570922,Industry
-Industrials,Machinery,50,0.25980771422273896,Industry
-Industrials,Industrial Services,32,0.8562407513287252,Industry
-Consumer Services,Retail,24,0.01732147280755958,Industry
-Consumer Services,Travel & Leisure,33,0.11145549268113997,Industry
-Consumer Services,Media,97,0.2677401543885579,Industry
-Transportation,Airlines,20,0.4792107625828278,Industry
-Transportation,Railroads,53,0.8169142816310484,Industry
-Transportation,Logistics,50,0.6974089447077146,Industry
+,Haralson,821,0.4499093976305953,Overall
+Haralson,HiTech,26,0.43973603041052756,Sector
+Haralson,Agriculture,47,0.3527344836258267,Sector
+Haralson,Transportation,12,0.9545703939598332,Sector
+Haralson,Consumer_Products,97,0.5305760386648342,Sector
+Haralson,Unassigned,48,0.23571671906980718,Sector
+Haralson,Communication,28,0.41759796795908877,Sector
+Haralson,Trade,1,0.23518434320058168,Sector
+Haralson,Business_Services,84,0.08866929386073774,Sector
+Haralson,Business_Products,82,0.2083991297194625,Sector
+Haralson,Construction,85,0.9093207838899561,Sector
+Haralson,Services,48,0.872272616238689,Sector
+Haralson,Mining,48,0.4293253650142107,Sector
+Haralson,Health_Care,95,0.11051278974934742,Sector
+Haralson,EnergyExpL_Prod,82,0.33324761346550325,Sector
+Haralson,Utilities,38,0.630777395630524,Sector

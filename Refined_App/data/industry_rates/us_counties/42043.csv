@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dauphin,1633,0.54810179214888,Overall
-Dauphin,Technology,147,0.18679878713579035,Sector
-Dauphin,Healthcare,145,0.031151103910129874,Sector
-Dauphin,Finance,86,0.6678175638598621,Sector
-Dauphin,Energy,73,0.3182723335381058,Sector
-Dauphin,Consumer Goods,179,0.6224326977619767,Sector
-Dauphin,Utilities,103,0.8855238580212955,Sector
-Dauphin,Real Estate,163,0.7036218697439147,Sector
-Dauphin,Telecommunications,211,0.70255828106317,Sector
-Dauphin,Materials,47,0.17375706649420053,Sector
-Dauphin,Industrials,159,0.6474200810649701,Sector
-Dauphin,Consumer Services,205,0.30895253249045773,Sector
-Dauphin,Transportation,115,0.5678306370357238,Sector
-Technology,Software,80,0.7137043230705923,Industry
-Technology,Hardware,2,0.9290837557692947,Industry
-Technology,IT Services,65,0.6707762981484923,Industry
-Healthcare,Pharmaceuticals,51,0.21984272817089867,Industry
-Healthcare,Medical Devices,28,0.1801575624400038,Industry
-Healthcare,Healthcare Services,66,0.27535442875456073,Industry
-Finance,Banking,0,0.5704487282981702,Industry
-Finance,Insurance,21,0.557372782865216,Industry
-Finance,Investment Services,65,0.6823221388843722,Industry
-Energy,Oil & Gas,28,0.8191190479112134,Industry
-Energy,Renewable Energy,5,0.1734192801119918,Industry
-Energy,Energy Exploration,40,0.3906492953038624,Industry
-Consumer Goods,Food & Beverage,81,0.3540720456410459,Industry
-Consumer Goods,Household Products,39,0.773179450702793,Industry
-Consumer Goods,Apparel,59,0.025731681197856293,Industry
-Utilities,Electric,78,0.4035912692087793,Industry
-Utilities,Water,15,0.03078255131536578,Industry
-Utilities,Gas,10,0.5116211140428791,Industry
-Real Estate,Residential,87,0.22854039627012712,Industry
-Real Estate,Commercial,8,0.21644768293012517,Industry
-Real Estate,Industrial,68,0.9304579900910019,Industry
-Telecommunications,Mobile,15,0.6909915900592799,Industry
-Telecommunications,Broadband,99,0.9484325072298913,Industry
-Telecommunications,Satellite,97,0.6782226623716411,Industry
-Materials,Chemicals,17,0.7229430360200682,Industry
-Materials,Metals & Mining,17,0.7034526696916241,Industry
-Materials,Construction Materials,13,0.00871029517785471,Industry
-Industrials,Aerospace & Defense,0,0.24008721057754467,Industry
-Industrials,Machinery,89,0.25096398503778583,Industry
-Industrials,Industrial Services,70,0.19828447960895745,Industry
-Consumer Services,Retail,93,0.0957354763970113,Industry
-Consumer Services,Travel & Leisure,76,0.897551135602116,Industry
-Consumer Services,Media,36,0.6367077458214727,Industry
-Transportation,Airlines,33,0.8258547485822524,Industry
-Transportation,Railroads,24,0.04822812758128092,Industry
-Transportation,Logistics,58,0.2981364465696026,Industry
+,Dauphin,863,0.5376879163870093,Overall
+Dauphin,HiTech,32,0.09996128360454948,Sector
+Dauphin,Agriculture,46,0.3948662296194476,Sector
+Dauphin,Transportation,94,0.4329047188708163,Sector
+Dauphin,Consumer_Products,48,0.7419803335344064,Sector
+Dauphin,Unassigned,55,0.46446025789747425,Sector
+Dauphin,Communication,29,0.6292404486771028,Sector
+Dauphin,Trade,3,0.7977628727341821,Sector
+Dauphin,Business_Services,97,0.8118509658622559,Sector
+Dauphin,Business_Products,27,0.8922682128210555,Sector
+Dauphin,Construction,71,0.455007638884933,Sector
+Dauphin,Services,67,0.9287330632217289,Sector
+Dauphin,Mining,95,0.4569865981771306,Sector
+Dauphin,Health_Care,87,0.262359536147721,Sector
+Dauphin,EnergyExpL_Prod,79,0.39923678434033605,Sector
+Dauphin,Utilities,33,0.29769980141200003,Sector

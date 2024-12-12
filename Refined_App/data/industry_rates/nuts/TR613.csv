@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Burdur,2103,0.9109144229043947,Overall
-Burdur,Technology,99,0.2874532221274818,Sector
-Burdur,Healthcare,105,0.8211869240683918,Sector
-Burdur,Finance,223,0.3753266136328448,Sector
-Burdur,Energy,189,0.15467669122098338,Sector
-Burdur,Consumer Goods,205,0.6125838672660356,Sector
-Burdur,Utilities,203,0.15529669498097065,Sector
-Burdur,Real Estate,203,0.5754956877732845,Sector
-Burdur,Telecommunications,148,0.0659926890714132,Sector
-Burdur,Materials,283,0.6914492058606425,Sector
-Burdur,Industrials,197,0.4734578134195311,Sector
-Burdur,Consumer Services,159,0.1450008638223479,Sector
-Burdur,Transportation,89,0.1786833631602548,Sector
-Technology,Software,48,0.05774455202118789,Industry
-Technology,Hardware,33,0.4538048432097386,Industry
-Technology,IT Services,18,0.628368313895684,Industry
-Healthcare,Pharmaceuticals,13,0.8167469421836097,Industry
-Healthcare,Medical Devices,77,0.16963887963503077,Industry
-Healthcare,Healthcare Services,15,0.7968997678619115,Industry
-Finance,Banking,68,0.13057729262994922,Industry
-Finance,Insurance,78,0.9481725730215502,Industry
-Finance,Investment Services,77,0.48862857546168714,Industry
-Energy,Oil & Gas,30,0.8628019496717109,Industry
-Energy,Renewable Energy,86,0.8566496127513119,Industry
-Energy,Energy Exploration,73,0.0006538673570919418,Industry
-Consumer Goods,Food & Beverage,94,0.060971332258739186,Industry
-Consumer Goods,Household Products,41,0.3551433583140452,Industry
-Consumer Goods,Apparel,70,0.9224305945888797,Industry
-Utilities,Electric,24,0.7511657786862851,Industry
-Utilities,Water,81,0.8541396746037366,Industry
-Utilities,Gas,98,0.5887951395201265,Industry
-Real Estate,Residential,42,0.08779403279376174,Industry
-Real Estate,Commercial,64,0.700988583403028,Industry
-Real Estate,Industrial,97,0.5828237309067844,Industry
-Telecommunications,Mobile,96,0.5245224663178965,Industry
-Telecommunications,Broadband,44,0.2953954415816852,Industry
-Telecommunications,Satellite,8,0.19077123171055377,Industry
-Materials,Chemicals,99,0.7703181800059438,Industry
-Materials,Metals & Mining,85,0.27245246040134474,Industry
-Materials,Construction Materials,99,0.8809689388299761,Industry
-Industrials,Aerospace & Defense,64,0.9985478744051852,Industry
-Industrials,Machinery,37,0.6208647857888543,Industry
-Industrials,Industrial Services,96,0.34714272755046205,Industry
-Consumer Services,Retail,33,0.9923888816977262,Industry
-Consumer Services,Travel & Leisure,83,0.6481465128607121,Industry
-Consumer Services,Media,43,0.29416786886312707,Industry
-Transportation,Airlines,50,0.1325760127412372,Industry
-Transportation,Railroads,28,0.2549640847497133,Industry
-Transportation,Logistics,11,0.6371028330418511,Industry
+,Burdur,569,0.5794567504463408,Overall
+Burdur,HiTech,4,0.08016231367379634,Sector
+Burdur,Agriculture,35,0.5734589194374322,Sector
+Burdur,Transportation,70,0.9161218963797843,Sector
+Burdur,Consumer_Products,38,0.9264884342174694,Sector
+Burdur,Unassigned,29,0.4102371140361304,Sector
+Burdur,Communication,30,0.8363552869982291,Sector
+Burdur,Trade,95,0.2192363891349245,Sector
+Burdur,Business_Services,37,0.02106342262304528,Sector
+Burdur,Business_Products,76,0.8865150919315721,Sector
+Burdur,Construction,15,0.8352934699582135,Sector
+Burdur,Services,31,0.7266083129118591,Sector
+Burdur,Mining,19,0.5228791732443526,Sector
+Burdur,Health_Care,44,0.45567245942274004,Sector
+Burdur,EnergyExpL_Prod,46,0.8677410611945875,Sector
+Burdur,Utilities,0,0.41401791153097633,Sector

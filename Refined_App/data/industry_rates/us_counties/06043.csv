@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mariposa,1713,0.4227579278669822,Overall
-Mariposa,Technology,168,0.2025520385045344,Sector
-Mariposa,Healthcare,166,0.42869420863326224,Sector
-Mariposa,Finance,121,0.41637019726499525,Sector
-Mariposa,Energy,183,0.9589585297862556,Sector
-Mariposa,Consumer Goods,190,0.09844530553457176,Sector
-Mariposa,Utilities,165,0.28443090477217847,Sector
-Mariposa,Real Estate,207,0.8910702069829173,Sector
-Mariposa,Telecommunications,50,0.4799580323546859,Sector
-Mariposa,Materials,160,0.5600977651582807,Sector
-Mariposa,Industrials,53,0.22787128138778145,Sector
-Mariposa,Consumer Services,116,0.4370607844083285,Sector
-Mariposa,Transportation,134,0.7228300015363742,Sector
-Technology,Software,51,0.7315842431348021,Industry
-Technology,Hardware,86,0.6483889519942507,Industry
-Technology,IT Services,31,0.3310504291477878,Industry
-Healthcare,Pharmaceuticals,44,0.730618025597602,Industry
-Healthcare,Medical Devices,67,0.04405272508366165,Industry
-Healthcare,Healthcare Services,55,0.4851001189961929,Industry
-Finance,Banking,25,0.1898535771939569,Industry
-Finance,Insurance,52,0.12247237584524218,Industry
-Finance,Investment Services,44,0.17514724900653456,Industry
-Energy,Oil & Gas,35,0.7312290522480173,Industry
-Energy,Renewable Energy,88,0.5221349740130582,Industry
-Energy,Energy Exploration,60,0.07920199860757715,Industry
-Consumer Goods,Food & Beverage,45,0.975104847378497,Industry
-Consumer Goods,Household Products,60,0.8858784505065646,Industry
-Consumer Goods,Apparel,85,0.016205353722002824,Industry
-Utilities,Electric,90,0.7857529798708139,Industry
-Utilities,Water,3,0.8803944805836301,Industry
-Utilities,Gas,72,0.16590265335192134,Industry
-Real Estate,Residential,83,0.6174209330715453,Industry
-Real Estate,Commercial,30,0.7513038931405074,Industry
-Real Estate,Industrial,94,0.8239914889626355,Industry
-Telecommunications,Mobile,15,0.2679735830737111,Industry
-Telecommunications,Broadband,29,0.8690043634022676,Industry
-Telecommunications,Satellite,6,0.5971860293031204,Industry
-Materials,Chemicals,40,0.4331428661222122,Industry
-Materials,Metals & Mining,46,0.1931734059131095,Industry
-Materials,Construction Materials,74,0.44256001207534124,Industry
-Industrials,Aerospace & Defense,14,0.5070936478631113,Industry
-Industrials,Machinery,21,0.864892151818743,Industry
-Industrials,Industrial Services,18,0.7068528527764475,Industry
-Consumer Services,Retail,10,0.709283483331261,Industry
-Consumer Services,Travel & Leisure,75,0.8472762306709011,Industry
-Consumer Services,Media,31,0.17204768303434936,Industry
-Transportation,Airlines,45,0.1738188505935866,Industry
-Transportation,Railroads,78,0.8627167903740819,Industry
-Transportation,Logistics,11,0.8364704602257075,Industry
+,Mariposa,907,0.471861802187856,Overall
+Mariposa,HiTech,99,0.6004736985323262,Sector
+Mariposa,Agriculture,94,0.6448290361137095,Sector
+Mariposa,Transportation,14,0.05446622371468923,Sector
+Mariposa,Consumer_Products,69,0.5935606374904775,Sector
+Mariposa,Unassigned,69,0.4445360583909852,Sector
+Mariposa,Communication,47,0.40513162460887564,Sector
+Mariposa,Trade,17,0.5244782266035605,Sector
+Mariposa,Business_Services,17,0.23850567142199963,Sector
+Mariposa,Business_Products,98,0.43085992687460584,Sector
+Mariposa,Construction,77,0.10589489588145717,Sector
+Mariposa,Services,87,0.8007068385262148,Sector
+Mariposa,Mining,34,0.6452864239369898,Sector
+Mariposa,Health_Care,38,0.9390209734462964,Sector
+Mariposa,EnergyExpL_Prod,58,0.24670188467768073,Sector
+Mariposa,Utilities,89,0.4034749125979713,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gwinnett,1762,0.8270575440147105,Overall
-Gwinnett,Technology,155,0.4603160739581127,Sector
-Gwinnett,Healthcare,208,0.11747071631198125,Sector
-Gwinnett,Finance,158,0.6567088373595705,Sector
-Gwinnett,Energy,62,0.09335944828666398,Sector
-Gwinnett,Consumer Goods,81,0.14716758432957555,Sector
-Gwinnett,Utilities,196,0.2510671615082184,Sector
-Gwinnett,Real Estate,183,0.45602135809161815,Sector
-Gwinnett,Telecommunications,145,0.3347915507575998,Sector
-Gwinnett,Materials,121,0.5418408008275142,Sector
-Gwinnett,Industrials,177,0.4605419485039681,Sector
-Gwinnett,Consumer Services,109,0.585312770552307,Sector
-Gwinnett,Transportation,167,0.3444938037307862,Sector
-Technology,Software,80,0.04249965993130589,Industry
-Technology,Hardware,45,0.774167899987659,Industry
-Technology,IT Services,30,0.9170995820823046,Industry
-Healthcare,Pharmaceuticals,90,0.9285361827825338,Industry
-Healthcare,Medical Devices,45,0.3711960033577919,Industry
-Healthcare,Healthcare Services,73,0.9354280179161263,Industry
-Finance,Banking,80,0.0012762513150247345,Industry
-Finance,Insurance,20,0.6695231823070555,Industry
-Finance,Investment Services,58,0.19505994753004474,Industry
-Energy,Oil & Gas,8,0.0474274513672045,Industry
-Energy,Renewable Energy,19,0.8425060684653335,Industry
-Energy,Energy Exploration,35,0.7371093710560329,Industry
-Consumer Goods,Food & Beverage,7,0.6245864487799758,Industry
-Consumer Goods,Household Products,51,0.23319799143691922,Industry
-Consumer Goods,Apparel,23,0.33402776039614035,Industry
-Utilities,Electric,17,0.4391891880865877,Industry
-Utilities,Water,86,0.4558233272972363,Industry
-Utilities,Gas,93,0.10094321123824468,Industry
-Real Estate,Residential,94,0.8329633895040115,Industry
-Real Estate,Commercial,31,0.8383441513212938,Industry
-Real Estate,Industrial,58,0.44335653089452676,Industry
-Telecommunications,Mobile,56,0.8703416664281672,Industry
-Telecommunications,Broadband,66,0.5175407625978479,Industry
-Telecommunications,Satellite,23,0.3878323951148953,Industry
-Materials,Chemicals,41,0.5944567689628932,Industry
-Materials,Metals & Mining,53,0.5353724848115303,Industry
-Materials,Construction Materials,27,0.521822237578708,Industry
-Industrials,Aerospace & Defense,5,0.13204440593180167,Industry
-Industrials,Machinery,91,0.939599789755323,Industry
-Industrials,Industrial Services,81,0.27066443602748147,Industry
-Consumer Services,Retail,6,0.39977305004270136,Industry
-Consumer Services,Travel & Leisure,76,0.1777591120626144,Industry
-Consumer Services,Media,27,0.7761842262022633,Industry
-Transportation,Airlines,32,0.5186169029277905,Industry
-Transportation,Railroads,46,0.41876379060036717,Industry
-Transportation,Logistics,89,0.8441439151253737,Industry
+,Gwinnett,594,0.4165987472194356,Overall
+Gwinnett,HiTech,9,0.3259731645070676,Sector
+Gwinnett,Agriculture,33,0.4975633434885186,Sector
+Gwinnett,Transportation,94,0.21177920079905999,Sector
+Gwinnett,Consumer_Products,12,0.3436333796933789,Sector
+Gwinnett,Unassigned,43,0.44840929566411425,Sector
+Gwinnett,Communication,18,0.4380195815131148,Sector
+Gwinnett,Trade,46,0.9078441023294225,Sector
+Gwinnett,Business_Services,26,0.6546938342912418,Sector
+Gwinnett,Business_Products,67,0.06677962884179622,Sector
+Gwinnett,Construction,33,0.43318700688127565,Sector
+Gwinnett,Services,24,0.8149620447912161,Sector
+Gwinnett,Mining,41,0.2847190212878249,Sector
+Gwinnett,Health_Care,68,0.4118012687053664,Sector
+Gwinnett,EnergyExpL_Prod,20,0.15018013107091743,Sector
+Gwinnett,Utilities,60,0.2594362044272185,Sector

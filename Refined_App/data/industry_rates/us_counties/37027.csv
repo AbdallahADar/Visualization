@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Caldwell,2109,0.2588516373580382,Overall
-Caldwell,Technology,186,0.1542275939581319,Sector
-Caldwell,Healthcare,117,0.023521200770692086,Sector
-Caldwell,Finance,127,0.2394226370419612,Sector
-Caldwell,Energy,161,0.2847026008408302,Sector
-Caldwell,Consumer Goods,94,0.7228957390646387,Sector
-Caldwell,Utilities,174,0.8363663940529308,Sector
-Caldwell,Real Estate,257,0.7923681277665716,Sector
-Caldwell,Telecommunications,247,0.6017917979459996,Sector
-Caldwell,Materials,155,0.44426838922210377,Sector
-Caldwell,Industrials,184,0.49283841855306854,Sector
-Caldwell,Consumer Services,182,0.8395446803189893,Sector
-Caldwell,Transportation,225,0.5438954427224182,Sector
-Technology,Software,64,0.2604397312611689,Industry
-Technology,Hardware,40,0.6353772973386789,Industry
-Technology,IT Services,82,0.40020360049225434,Industry
-Healthcare,Pharmaceuticals,24,0.9474102200329093,Industry
-Healthcare,Medical Devices,32,0.4832515945191066,Industry
-Healthcare,Healthcare Services,61,0.2541291655894654,Industry
-Finance,Banking,66,0.351544711800581,Industry
-Finance,Insurance,23,0.46837172028982776,Industry
-Finance,Investment Services,38,0.5819194146276733,Industry
-Energy,Oil & Gas,82,0.8599308198373316,Industry
-Energy,Renewable Energy,9,0.5661933178440751,Industry
-Energy,Energy Exploration,70,0.9683554523103154,Industry
-Consumer Goods,Food & Beverage,10,0.1090759229295527,Industry
-Consumer Goods,Household Products,14,0.6703702957447243,Industry
-Consumer Goods,Apparel,70,0.18171467898754257,Industry
-Utilities,Electric,47,0.9650407820056129,Industry
-Utilities,Water,60,0.15390721073680513,Industry
-Utilities,Gas,67,0.8770480848314987,Industry
-Real Estate,Residential,91,0.3095482353700536,Industry
-Real Estate,Commercial,90,0.33394951516093874,Industry
-Real Estate,Industrial,76,0.026979778936482957,Industry
-Telecommunications,Mobile,90,0.23645005153365062,Industry
-Telecommunications,Broadband,62,0.10206475731187836,Industry
-Telecommunications,Satellite,95,0.16050997111008158,Industry
-Materials,Chemicals,59,0.5073099678617862,Industry
-Materials,Metals & Mining,47,0.1503136549773627,Industry
-Materials,Construction Materials,49,0.5901226735638279,Industry
-Industrials,Aerospace & Defense,74,0.852611224920024,Industry
-Industrials,Machinery,42,0.029568215778922213,Industry
-Industrials,Industrial Services,68,0.9633002904946683,Industry
-Consumer Services,Retail,84,0.29898664534978014,Industry
-Consumer Services,Travel & Leisure,19,0.0028234485926720287,Industry
-Consumer Services,Media,79,0.4720359734795798,Industry
-Transportation,Airlines,94,0.617889667095476,Industry
-Transportation,Railroads,90,0.31875364734827294,Industry
-Transportation,Logistics,41,0.80415613266757,Industry
+,Caldwell,835,0.5579870280565059,Overall
+Caldwell,HiTech,96,0.3257309488556175,Sector
+Caldwell,Agriculture,44,0.6126261326424342,Sector
+Caldwell,Transportation,73,0.30649424535386627,Sector
+Caldwell,Consumer_Products,86,0.3063946447547766,Sector
+Caldwell,Unassigned,83,0.8387905229906363,Sector
+Caldwell,Communication,21,0.9043077580158884,Sector
+Caldwell,Trade,38,0.7585124431544915,Sector
+Caldwell,Business_Services,23,0.20054619301758203,Sector
+Caldwell,Business_Products,86,0.3444380987222805,Sector
+Caldwell,Construction,21,0.7174125632817495,Sector
+Caldwell,Services,91,0.10948411851938378,Sector
+Caldwell,Mining,7,0.8414440116440028,Sector
+Caldwell,Health_Care,23,0.9994480744180247,Sector
+Caldwell,EnergyExpL_Prod,97,0.26438974108982316,Sector
+Caldwell,Utilities,46,0.8397859243870324,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Muskingum,2041,0.6127712818144239,Overall
-Muskingum,Technology,159,0.40995426987721606,Sector
-Muskingum,Healthcare,174,0.8298016292416336,Sector
-Muskingum,Finance,240,0.704899060395145,Sector
-Muskingum,Energy,180,0.9876317396871179,Sector
-Muskingum,Consumer Goods,54,0.9507013811940412,Sector
-Muskingum,Utilities,158,0.8810153677209922,Sector
-Muskingum,Real Estate,185,0.6190862176799025,Sector
-Muskingum,Telecommunications,209,0.8805422103125057,Sector
-Muskingum,Materials,189,0.23618256262160642,Sector
-Muskingum,Industrials,139,0.8225312881691327,Sector
-Muskingum,Consumer Services,176,0.3995823062467365,Sector
-Muskingum,Transportation,178,0.600022600741238,Sector
-Technology,Software,10,0.7352286993925453,Industry
-Technology,Hardware,57,0.756366960739244,Industry
-Technology,IT Services,92,0.47645528634070056,Industry
-Healthcare,Pharmaceuticals,38,0.4174954055520017,Industry
-Healthcare,Medical Devices,66,0.7834818491721195,Industry
-Healthcare,Healthcare Services,70,0.5074940703086344,Industry
-Finance,Banking,96,0.021142212799334814,Industry
-Finance,Insurance,86,0.8747304967606482,Industry
-Finance,Investment Services,58,0.9952610887837703,Industry
-Energy,Oil & Gas,72,0.7081737559014308,Industry
-Energy,Renewable Energy,83,0.3954294841385303,Industry
-Energy,Energy Exploration,25,0.7127689650590924,Industry
-Consumer Goods,Food & Beverage,15,0.581827584640484,Industry
-Consumer Goods,Household Products,21,0.7960823087480141,Industry
-Consumer Goods,Apparel,18,0.7670438340260838,Industry
-Utilities,Electric,47,0.5060468348427882,Industry
-Utilities,Water,45,0.8593301205072079,Industry
-Utilities,Gas,66,0.5594672138549306,Industry
-Real Estate,Residential,86,0.22649776213450346,Industry
-Real Estate,Commercial,98,0.09943698217424568,Industry
-Real Estate,Industrial,1,0.44596886181163664,Industry
-Telecommunications,Mobile,82,0.7809544237089894,Industry
-Telecommunications,Broadband,35,0.059455694161570705,Industry
-Telecommunications,Satellite,92,0.6012879529705121,Industry
-Materials,Chemicals,62,0.07887381071114075,Industry
-Materials,Metals & Mining,34,0.3234412613300319,Industry
-Materials,Construction Materials,93,0.25971683208971463,Industry
-Industrials,Aerospace & Defense,33,0.7732905208542676,Industry
-Industrials,Machinery,20,0.563032608699408,Industry
-Industrials,Industrial Services,86,0.852004472193435,Industry
-Consumer Services,Retail,34,0.6635313251653104,Industry
-Consumer Services,Travel & Leisure,46,0.7847581260457605,Industry
-Consumer Services,Media,96,0.6217528957265003,Industry
-Transportation,Airlines,54,0.32230604060412327,Industry
-Transportation,Railroads,76,0.5426377274896168,Industry
-Transportation,Logistics,48,0.9225882838340181,Industry
+,Muskingum,965,0.5147412128087804,Overall
+Muskingum,HiTech,7,0.7335622355775384,Sector
+Muskingum,Agriculture,72,0.3859967224959209,Sector
+Muskingum,Transportation,9,0.8091252981753039,Sector
+Muskingum,Consumer_Products,53,0.831300280278071,Sector
+Muskingum,Unassigned,52,0.44556321773657914,Sector
+Muskingum,Communication,25,0.004773309208172649,Sector
+Muskingum,Trade,83,0.6253860387661102,Sector
+Muskingum,Business_Services,92,0.10675637826555762,Sector
+Muskingum,Business_Products,98,0.31008732212688783,Sector
+Muskingum,Construction,86,0.9358700811992633,Sector
+Muskingum,Services,71,0.5525397319912313,Sector
+Muskingum,Mining,88,0.09134384194463074,Sector
+Muskingum,Health_Care,95,0.43655143522720274,Sector
+Muskingum,EnergyExpL_Prod,47,0.8219225993254581,Sector
+Muskingum,Utilities,87,0.630339699813777,Sector

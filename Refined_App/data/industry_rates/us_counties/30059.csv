@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Meagher,1605,0.3720810118335026,Overall
-Meagher,Technology,195,0.9848846798077995,Sector
-Meagher,Healthcare,168,0.9406138091989218,Sector
-Meagher,Finance,107,0.38988248704978756,Sector
-Meagher,Energy,193,0.1988256305479169,Sector
-Meagher,Consumer Goods,139,0.0991492123074662,Sector
-Meagher,Utilities,147,0.591066159380202,Sector
-Meagher,Real Estate,91,0.06931753994498979,Sector
-Meagher,Telecommunications,90,0.12924812509410089,Sector
-Meagher,Materials,152,0.9437466494187573,Sector
-Meagher,Industrials,38,0.7699053914405006,Sector
-Meagher,Consumer Services,198,0.8256098291977514,Sector
-Meagher,Transportation,87,0.6532881872771807,Sector
-Technology,Software,75,0.48526703240175995,Industry
-Technology,Hardware,32,0.8860837504865088,Industry
-Technology,IT Services,88,0.4431186770223693,Industry
-Healthcare,Pharmaceuticals,65,0.8829470441749837,Industry
-Healthcare,Medical Devices,95,0.8616217210977435,Industry
-Healthcare,Healthcare Services,8,0.9177553773436381,Industry
-Finance,Banking,18,0.9109740748582273,Industry
-Finance,Insurance,60,0.10047753203801024,Industry
-Finance,Investment Services,29,0.4097866096114322,Industry
-Energy,Oil & Gas,81,0.910268837438841,Industry
-Energy,Renewable Energy,69,0.39177858305034086,Industry
-Energy,Energy Exploration,43,0.9162129212856133,Industry
-Consumer Goods,Food & Beverage,41,0.9686656715744639,Industry
-Consumer Goods,Household Products,49,0.007129010280804815,Industry
-Consumer Goods,Apparel,49,0.5633424634198413,Industry
-Utilities,Electric,82,0.25559097366499517,Industry
-Utilities,Water,25,0.09060674478079378,Industry
-Utilities,Gas,40,0.036965209234592344,Industry
-Real Estate,Residential,22,0.5304577654925843,Industry
-Real Estate,Commercial,48,0.7152843432508669,Industry
-Real Estate,Industrial,21,0.9119727039903142,Industry
-Telecommunications,Mobile,7,0.9035521010843712,Industry
-Telecommunications,Broadband,59,0.665549659394568,Industry
-Telecommunications,Satellite,24,0.4323197067806418,Industry
-Materials,Chemicals,76,0.8397837760679827,Industry
-Materials,Metals & Mining,29,0.5532122223864133,Industry
-Materials,Construction Materials,47,0.43906941735722727,Industry
-Industrials,Aerospace & Defense,18,0.32914068332563073,Industry
-Industrials,Machinery,16,0.13469057780252613,Industry
-Industrials,Industrial Services,4,0.6691692772614077,Industry
-Consumer Services,Retail,4,0.32319194612045987,Industry
-Consumer Services,Travel & Leisure,98,0.6477725995916167,Industry
-Consumer Services,Media,96,0.5948872799863666,Industry
-Transportation,Airlines,43,0.00263300711364034,Industry
-Transportation,Railroads,44,0.4476778881820863,Industry
-Transportation,Logistics,0,0.609883844350117,Industry
+,Meagher,639,0.5023689820739407,Overall
+Meagher,HiTech,23,0.4692724368601008,Sector
+Meagher,Agriculture,31,0.7548702697219715,Sector
+Meagher,Transportation,88,0.30395636543568294,Sector
+Meagher,Consumer_Products,70,0.7138180854993692,Sector
+Meagher,Unassigned,0,0.037843070440441995,Sector
+Meagher,Communication,77,0.4594796194374988,Sector
+Meagher,Trade,0,0.1706501179246661,Sector
+Meagher,Business_Services,35,0.300159669797319,Sector
+Meagher,Business_Products,69,0.970276116453325,Sector
+Meagher,Construction,63,0.4284084566082893,Sector
+Meagher,Services,30,0.8409165155250208,Sector
+Meagher,Mining,46,0.8714558120647763,Sector
+Meagher,Health_Care,36,0.051120410853367826,Sector
+Meagher,EnergyExpL_Prod,26,0.5422202533629226,Sector
+Meagher,Utilities,45,0.6210875311243588,Sector

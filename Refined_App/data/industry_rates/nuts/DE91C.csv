@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Göttingen,1905,0.8431261410693204,Overall
-Göttingen,Technology,100,0.6585140400386509,Sector
-Göttingen,Healthcare,189,0.0480891792206678,Sector
-Göttingen,Finance,189,0.03837396052888131,Sector
-Göttingen,Energy,201,0.44364175174329046,Sector
-Göttingen,Consumer Goods,158,0.7409264007405808,Sector
-Göttingen,Utilities,212,0.5761286414605735,Sector
-Göttingen,Real Estate,132,0.6844166464901514,Sector
-Göttingen,Telecommunications,155,0.3873702232215064,Sector
-Göttingen,Materials,102,0.8058340797609324,Sector
-Göttingen,Industrials,161,0.5793141518730474,Sector
-Göttingen,Consumer Services,157,0.9130896363536863,Sector
-Göttingen,Transportation,149,0.5519712344131777,Sector
-Technology,Software,4,0.7074846760255391,Industry
-Technology,Hardware,73,0.6576115219998799,Industry
-Technology,IT Services,23,0.1161075147063908,Industry
-Healthcare,Pharmaceuticals,72,0.5576831617255877,Industry
-Healthcare,Medical Devices,47,0.959693587564351,Industry
-Healthcare,Healthcare Services,70,0.5737879899455736,Industry
-Finance,Banking,11,0.4602352651810333,Industry
-Finance,Insurance,80,0.40000263044445483,Industry
-Finance,Investment Services,98,0.9409482435926952,Industry
-Energy,Oil & Gas,43,0.04220914586747382,Industry
-Energy,Renewable Energy,93,0.25331283823869066,Industry
-Energy,Energy Exploration,65,0.9664590252268418,Industry
-Consumer Goods,Food & Beverage,40,0.6134319969457682,Industry
-Consumer Goods,Household Products,46,0.3070861973880066,Industry
-Consumer Goods,Apparel,72,0.5198238902505513,Industry
-Utilities,Electric,91,0.23189293886889017,Industry
-Utilities,Water,54,0.9444808325034728,Industry
-Utilities,Gas,67,0.7411501695185488,Industry
-Real Estate,Residential,5,0.6002172612467563,Industry
-Real Estate,Commercial,87,0.7332447715279273,Industry
-Real Estate,Industrial,40,0.7815743483326475,Industry
-Telecommunications,Mobile,70,0.49792586382795767,Industry
-Telecommunications,Broadband,22,0.29978811312036324,Industry
-Telecommunications,Satellite,63,0.6942124474706367,Industry
-Materials,Chemicals,5,0.9729613256132307,Industry
-Materials,Metals & Mining,26,0.4044855115858591,Industry
-Materials,Construction Materials,71,0.6296267551227652,Industry
-Industrials,Aerospace & Defense,83,0.48027048124073235,Industry
-Industrials,Machinery,29,0.5100784419252916,Industry
-Industrials,Industrial Services,49,0.31012193141047606,Industry
-Consumer Services,Retail,74,0.3543889165169878,Industry
-Consumer Services,Travel & Leisure,53,0.1592679553194316,Industry
-Consumer Services,Media,30,0.3934414450036101,Industry
-Transportation,Airlines,50,0.5529155995689999,Industry
-Transportation,Railroads,68,0.4112966614066347,Industry
-Transportation,Logistics,31,0.0015451884247091874,Industry
+,Göttingen,767,0.5893224896592232,Overall
+Göttingen,HiTech,85,0.6273542584891569,Sector
+Göttingen,Agriculture,33,0.7652174453979258,Sector
+Göttingen,Transportation,14,0.729772713872307,Sector
+Göttingen,Consumer_Products,71,0.18357551505440783,Sector
+Göttingen,Unassigned,78,0.5374820939878056,Sector
+Göttingen,Communication,49,0.8835356758656042,Sector
+Göttingen,Trade,12,0.6687733669097209,Sector
+Göttingen,Business_Services,42,0.5031287849799266,Sector
+Göttingen,Business_Products,93,0.9668921420334778,Sector
+Göttingen,Construction,17,0.6524111294979957,Sector
+Göttingen,Services,54,0.28245436035384364,Sector
+Göttingen,Mining,47,0.36687018502053637,Sector
+Göttingen,Health_Care,45,0.055503265874705665,Sector
+Göttingen,EnergyExpL_Prod,92,0.6577432476444087,Sector
+Göttingen,Utilities,35,0.959123159906526,Sector

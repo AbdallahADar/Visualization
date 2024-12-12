@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Tillman,1519,0.17305766911271403,Overall
-Tillman,Technology,141,0.7985176357794952,Sector
-Tillman,Healthcare,160,0.26054372838553963,Sector
-Tillman,Finance,79,0.7056856302112595,Sector
-Tillman,Energy,107,0.8843821145574127,Sector
-Tillman,Consumer Goods,157,0.19977631301894438,Sector
-Tillman,Utilities,149,0.2834379353127766,Sector
-Tillman,Real Estate,97,0.23104845021491938,Sector
-Tillman,Telecommunications,118,0.6089218477230204,Sector
-Tillman,Materials,102,0.025431317753712435,Sector
-Tillman,Industrials,138,0.322116778845551,Sector
-Tillman,Consumer Services,199,0.7937077918679328,Sector
-Tillman,Transportation,72,0.6214340642874938,Sector
-Technology,Software,47,0.9037903937713663,Industry
-Technology,Hardware,59,0.009244617433527669,Industry
-Technology,IT Services,35,0.13674672371283947,Industry
-Healthcare,Pharmaceuticals,27,0.26263032487330773,Industry
-Healthcare,Medical Devices,89,0.9869466475908831,Industry
-Healthcare,Healthcare Services,44,0.033858306665235594,Industry
-Finance,Banking,50,0.14503198179042376,Industry
-Finance,Insurance,3,0.9823492016358868,Industry
-Finance,Investment Services,26,0.32551859172834285,Industry
-Energy,Oil & Gas,17,0.19002435176306254,Industry
-Energy,Renewable Energy,70,0.7036000024285355,Industry
-Energy,Energy Exploration,20,0.4130850151756005,Industry
-Consumer Goods,Food & Beverage,84,0.36060179615512433,Industry
-Consumer Goods,Household Products,34,0.3284300305156507,Industry
-Consumer Goods,Apparel,39,0.23727748466467669,Industry
-Utilities,Electric,72,0.09140157781651381,Industry
-Utilities,Water,40,0.6721045473666581,Industry
-Utilities,Gas,37,0.3837425399887284,Industry
-Real Estate,Residential,10,0.572698894359603,Industry
-Real Estate,Commercial,85,0.24056333217093917,Industry
-Real Estate,Industrial,2,0.18517473958618935,Industry
-Telecommunications,Mobile,11,0.5693814288453878,Industry
-Telecommunications,Broadband,19,0.37887217429349784,Industry
-Telecommunications,Satellite,88,0.6272272120409849,Industry
-Materials,Chemicals,19,0.7778633069311677,Industry
-Materials,Metals & Mining,33,0.5320827918476722,Industry
-Materials,Construction Materials,50,0.125973256912004,Industry
-Industrials,Aerospace & Defense,71,0.4933748676965727,Industry
-Industrials,Machinery,51,0.43590957949590026,Industry
-Industrials,Industrial Services,16,0.8069955371412617,Industry
-Consumer Services,Retail,56,0.7478713023219827,Industry
-Consumer Services,Travel & Leisure,63,0.7539659653028151,Industry
-Consumer Services,Media,80,0.8212102100128409,Industry
-Transportation,Airlines,45,0.3644961503173463,Industry
-Transportation,Railroads,17,0.5701643812604076,Industry
-Transportation,Logistics,10,0.667090047546039,Industry
+,Tillman,838,0.6070874202590122,Overall
+Tillman,HiTech,16,0.5188126324091684,Sector
+Tillman,Agriculture,29,0.9301050675098188,Sector
+Tillman,Transportation,92,0.9824291982135679,Sector
+Tillman,Consumer_Products,3,0.34142392646491315,Sector
+Tillman,Unassigned,75,0.31394002889353423,Sector
+Tillman,Communication,78,0.6931392965123728,Sector
+Tillman,Trade,82,0.9986667746020271,Sector
+Tillman,Business_Services,69,0.7630665050838329,Sector
+Tillman,Business_Products,52,0.793498764353456,Sector
+Tillman,Construction,63,0.5425121767360267,Sector
+Tillman,Services,58,0.23685235556683326,Sector
+Tillman,Mining,51,0.11059981567492383,Sector
+Tillman,Health_Care,53,0.9850772282748567,Sector
+Tillman,EnergyExpL_Prod,98,0.5316776175503537,Sector
+Tillman,Utilities,19,0.36450991603949645,Sector

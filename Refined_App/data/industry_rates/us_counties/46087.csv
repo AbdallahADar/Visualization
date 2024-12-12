@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McCook,1834,0.14862922483817875,Overall
-McCook,Technology,122,0.8634321581176048,Sector
-McCook,Healthcare,96,0.22044805648038301,Sector
-McCook,Finance,212,0.8376431103148001,Sector
-McCook,Energy,170,0.033596132297729286,Sector
-McCook,Consumer Goods,98,0.008658987966308929,Sector
-McCook,Utilities,94,0.23609678472283724,Sector
-McCook,Real Estate,282,0.5385475664260686,Sector
-McCook,Telecommunications,194,0.5132744684964681,Sector
-McCook,Materials,201,0.6008862575589575,Sector
-McCook,Industrials,188,0.6559297778552196,Sector
-McCook,Consumer Services,121,0.23008626809141175,Sector
-McCook,Transportation,56,0.36460329431714866,Sector
-Technology,Software,20,0.4056475656543441,Industry
-Technology,Hardware,99,0.27975992561714824,Industry
-Technology,IT Services,3,0.9320989614506203,Industry
-Healthcare,Pharmaceuticals,12,0.32753005036597005,Industry
-Healthcare,Medical Devices,15,0.12642234543843356,Industry
-Healthcare,Healthcare Services,69,0.31483674767025005,Industry
-Finance,Banking,77,0.284290616464162,Industry
-Finance,Insurance,96,0.22022669572186593,Industry
-Finance,Investment Services,39,0.38327685925080923,Industry
-Energy,Oil & Gas,81,0.16536257641638086,Industry
-Energy,Renewable Energy,4,0.3117349857780116,Industry
-Energy,Energy Exploration,85,0.6823498839816458,Industry
-Consumer Goods,Food & Beverage,17,0.002428867438488691,Industry
-Consumer Goods,Household Products,53,0.18818667344224804,Industry
-Consumer Goods,Apparel,28,0.2479422811571429,Industry
-Utilities,Electric,35,0.21689077141560464,Industry
-Utilities,Water,39,0.6071824637544952,Industry
-Utilities,Gas,20,0.625737702738604,Industry
-Real Estate,Residential,91,0.3255480570112712,Industry
-Real Estate,Commercial,97,0.4149442061604164,Industry
-Real Estate,Industrial,94,0.3572550432407431,Industry
-Telecommunications,Mobile,64,0.7009191026655851,Industry
-Telecommunications,Broadband,52,0.6943881942062023,Industry
-Telecommunications,Satellite,78,0.7414137440233914,Industry
-Materials,Chemicals,89,0.4329602144498129,Industry
-Materials,Metals & Mining,50,0.4815129026154096,Industry
-Materials,Construction Materials,62,0.6392776512945447,Industry
-Industrials,Aerospace & Defense,81,0.19247458765230596,Industry
-Industrials,Machinery,73,0.3588147358324246,Industry
-Industrials,Industrial Services,34,0.8486586339953185,Industry
-Consumer Services,Retail,63,0.920051199084434,Industry
-Consumer Services,Travel & Leisure,32,0.8336739307953982,Industry
-Consumer Services,Media,26,0.39832845439845943,Industry
-Transportation,Airlines,4,0.4424465461290539,Industry
-Transportation,Railroads,10,0.5960175387030191,Industry
-Transportation,Logistics,42,0.46763382473910764,Industry
+,McCook,850,0.537639747394788,Overall
+McCook,HiTech,12,0.7377390688811567,Sector
+McCook,Agriculture,74,0.16209749988215427,Sector
+McCook,Transportation,93,0.005123626477895549,Sector
+McCook,Consumer_Products,34,0.5405500443419302,Sector
+McCook,Unassigned,78,0.9318946247403246,Sector
+McCook,Communication,84,0.7285201708553382,Sector
+McCook,Trade,39,0.14355752096037055,Sector
+McCook,Business_Services,49,0.836002740565771,Sector
+McCook,Business_Products,76,0.6967050018248028,Sector
+McCook,Construction,4,0.2527059668724436,Sector
+McCook,Services,59,0.8020528260806902,Sector
+McCook,Mining,4,0.5389722447702276,Sector
+McCook,Health_Care,67,0.742711153319738,Sector
+McCook,EnergyExpL_Prod,82,0.8393252793784295,Sector
+McCook,Utilities,95,0.10663844197054761,Sector

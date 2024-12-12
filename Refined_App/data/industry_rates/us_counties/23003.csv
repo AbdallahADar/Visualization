@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Aroostook,1578,0.8468811595355236,Overall
-Aroostook,Technology,119,0.370482444027894,Sector
-Aroostook,Healthcare,142,0.4541481303522099,Sector
-Aroostook,Finance,170,0.0024742210011565735,Sector
-Aroostook,Energy,125,0.4920372374957388,Sector
-Aroostook,Consumer Goods,112,0.40110861250917274,Sector
-Aroostook,Utilities,208,0.528189777963708,Sector
-Aroostook,Real Estate,131,0.24215023083204124,Sector
-Aroostook,Telecommunications,82,0.42580867802272004,Sector
-Aroostook,Materials,168,0.05317193731838088,Sector
-Aroostook,Industrials,126,0.5156530177432809,Sector
-Aroostook,Consumer Services,153,0.6969999962828637,Sector
-Aroostook,Transportation,42,0.4646228734198189,Sector
-Technology,Software,51,0.48957269115295754,Industry
-Technology,Hardware,34,0.2442214914277161,Industry
-Technology,IT Services,34,0.49231361351249026,Industry
-Healthcare,Pharmaceuticals,27,0.8834418757031146,Industry
-Healthcare,Medical Devices,32,0.6496352860374969,Industry
-Healthcare,Healthcare Services,83,0.061670132911447184,Industry
-Finance,Banking,18,0.1433194655810478,Industry
-Finance,Insurance,84,0.5751744090335875,Industry
-Finance,Investment Services,68,0.7736262105171271,Industry
-Energy,Oil & Gas,0,0.8643430719168621,Industry
-Energy,Renewable Energy,89,0.6684578557473889,Industry
-Energy,Energy Exploration,36,0.37277477690493843,Industry
-Consumer Goods,Food & Beverage,20,0.09384865958460642,Industry
-Consumer Goods,Household Products,4,0.09242220934071665,Industry
-Consumer Goods,Apparel,88,0.38878325089280064,Industry
-Utilities,Electric,98,0.19107926633471495,Industry
-Utilities,Water,82,0.6953320017707819,Industry
-Utilities,Gas,28,0.5278875402578777,Industry
-Real Estate,Residential,84,0.39847307293370426,Industry
-Real Estate,Commercial,40,0.29783161122260005,Industry
-Real Estate,Industrial,7,0.8620139821740255,Industry
-Telecommunications,Mobile,14,0.4672575399153721,Industry
-Telecommunications,Broadband,65,0.4146889819068347,Industry
-Telecommunications,Satellite,3,0.5431531427672307,Industry
-Materials,Chemicals,44,0.4728174036647812,Industry
-Materials,Metals & Mining,46,0.1694791982759578,Industry
-Materials,Construction Materials,78,0.4225800381259104,Industry
-Industrials,Aerospace & Defense,43,0.010184179869589638,Industry
-Industrials,Machinery,64,0.0010418205065078068,Industry
-Industrials,Industrial Services,19,0.9723309586818738,Industry
-Consumer Services,Retail,42,0.6320041421822455,Industry
-Consumer Services,Travel & Leisure,34,0.3133263034927011,Industry
-Consumer Services,Media,77,0.28779931122346203,Industry
-Transportation,Airlines,20,0.9308801417064448,Industry
-Transportation,Railroads,18,0.07238828785619866,Industry
-Transportation,Logistics,4,0.17070998662784376,Industry
+,Aroostook,681,0.6020710887734129,Overall
+Aroostook,HiTech,89,0.45845043889352344,Sector
+Aroostook,Agriculture,21,0.3706185235647471,Sector
+Aroostook,Transportation,23,0.6950156183863241,Sector
+Aroostook,Consumer_Products,50,0.8669283512564883,Sector
+Aroostook,Unassigned,67,0.49276927495324574,Sector
+Aroostook,Communication,35,0.6402995692382717,Sector
+Aroostook,Trade,12,0.7015504011768658,Sector
+Aroostook,Business_Services,2,0.9739455338929442,Sector
+Aroostook,Business_Products,77,0.58403434317401,Sector
+Aroostook,Construction,38,0.4306448629233407,Sector
+Aroostook,Services,67,0.675085249906976,Sector
+Aroostook,Mining,19,0.9842060395033633,Sector
+Aroostook,Health_Care,28,0.502479751375341,Sector
+Aroostook,EnergyExpL_Prod,68,0.17450406558153408,Sector
+Aroostook,Utilities,85,0.4805343077742166,Sector

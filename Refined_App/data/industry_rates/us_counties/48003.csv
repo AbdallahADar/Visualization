@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Andrews,1815,0.9449098671111672,Overall
-Andrews,Technology,104,0.5599094966580699,Sector
-Andrews,Healthcare,182,0.32474022644769074,Sector
-Andrews,Finance,105,0.789275881565689,Sector
-Andrews,Energy,170,0.0035963071889946185,Sector
-Andrews,Consumer Goods,82,0.9464625992066599,Sector
-Andrews,Utilities,197,0.09555228679757555,Sector
-Andrews,Real Estate,147,0.9991687341045731,Sector
-Andrews,Telecommunications,95,0.5887837544940818,Sector
-Andrews,Materials,94,0.4309320521658915,Sector
-Andrews,Industrials,243,0.2710363155790728,Sector
-Andrews,Consumer Services,205,0.2852807413649775,Sector
-Andrews,Transportation,191,0.40728586221736274,Sector
-Technology,Software,3,0.07389446453933612,Industry
-Technology,Hardware,45,0.6824564465976236,Industry
-Technology,IT Services,56,0.9076292121295975,Industry
-Healthcare,Pharmaceuticals,67,0.8872697437161648,Industry
-Healthcare,Medical Devices,33,0.20778558765213928,Industry
-Healthcare,Healthcare Services,82,0.6967330915075137,Industry
-Finance,Banking,43,0.875364425097954,Industry
-Finance,Insurance,30,0.8274136107208162,Industry
-Finance,Investment Services,32,0.8507469750779234,Industry
-Energy,Oil & Gas,67,0.3583312667003531,Industry
-Energy,Renewable Energy,95,0.013115192524626562,Industry
-Energy,Energy Exploration,8,0.05885362346036138,Industry
-Consumer Goods,Food & Beverage,0,0.5920395907276591,Industry
-Consumer Goods,Household Products,80,0.046346153395835143,Industry
-Consumer Goods,Apparel,2,0.4944385711947744,Industry
-Utilities,Electric,57,0.9128491538595483,Industry
-Utilities,Water,67,0.044798412913275465,Industry
-Utilities,Gas,73,0.05649718742115051,Industry
-Real Estate,Residential,9,0.9067156557293553,Industry
-Real Estate,Commercial,83,0.7494210729964025,Industry
-Real Estate,Industrial,55,0.8751765550070683,Industry
-Telecommunications,Mobile,78,0.9188662983257294,Industry
-Telecommunications,Broadband,16,0.79013683541502,Industry
-Telecommunications,Satellite,1,0.5770883548930265,Industry
-Materials,Chemicals,44,0.8401201328627345,Industry
-Materials,Metals & Mining,39,0.3500066616520665,Industry
-Materials,Construction Materials,11,0.3087659645471065,Industry
-Industrials,Aerospace & Defense,90,0.5866383339782377,Industry
-Industrials,Machinery,94,0.45844131031349755,Industry
-Industrials,Industrial Services,59,0.4447567677357601,Industry
-Consumer Services,Retail,71,0.5824181140832826,Industry
-Consumer Services,Travel & Leisure,86,0.2979050435654681,Industry
-Consumer Services,Media,48,0.37425644028241056,Industry
-Transportation,Airlines,92,0.15795234800178526,Industry
-Transportation,Railroads,2,0.6505411846681062,Industry
-Transportation,Logistics,97,0.3943093697357114,Industry
+,Andrews,671,0.4989737026770379,Overall
+Andrews,HiTech,29,0.19691387901383461,Sector
+Andrews,Agriculture,85,0.555232929977195,Sector
+Andrews,Transportation,20,0.02467025142629753,Sector
+Andrews,Consumer_Products,52,0.5904197269941847,Sector
+Andrews,Unassigned,30,0.4665015371123814,Sector
+Andrews,Communication,87,0.953903159016101,Sector
+Andrews,Trade,77,0.3084940930120321,Sector
+Andrews,Business_Services,7,0.3224843307920595,Sector
+Andrews,Business_Products,33,0.20812827361824415,Sector
+Andrews,Construction,60,0.8299672868247171,Sector
+Andrews,Services,7,0.60170808869218,Sector
+Andrews,Mining,30,0.5884799709243554,Sector
+Andrews,Health_Care,55,0.20075315501521285,Sector
+Andrews,EnergyExpL_Prod,0,0.7475017369898247,Sector
+Andrews,Utilities,99,0.8894471207469493,Sector

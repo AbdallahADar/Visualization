@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Aube,1700,0.691212632740828,Overall
-Aube,Technology,129,0.31687638399002316,Sector
-Aube,Healthcare,130,0.17645235863806596,Sector
-Aube,Finance,188,0.9070909631810293,Sector
-Aube,Energy,244,0.47052930648404767,Sector
-Aube,Consumer Goods,112,0.5141342131513856,Sector
-Aube,Utilities,48,0.761212445934623,Sector
-Aube,Real Estate,108,0.1631752733232572,Sector
-Aube,Telecommunications,126,0.6436172478174954,Sector
-Aube,Materials,211,0.24230734408899557,Sector
-Aube,Industrials,249,0.9216521567208181,Sector
-Aube,Consumer Services,63,0.7440022600833961,Sector
-Aube,Transportation,92,0.2542199772846062,Sector
-Technology,Software,39,0.5387443727163687,Industry
-Technology,Hardware,72,0.5000369202429416,Industry
-Technology,IT Services,18,0.6487633206614648,Industry
-Healthcare,Pharmaceuticals,68,0.03747500439332352,Industry
-Healthcare,Medical Devices,8,0.8557509452622718,Industry
-Healthcare,Healthcare Services,54,0.008880242516498105,Industry
-Finance,Banking,37,0.0674842148065693,Industry
-Finance,Insurance,68,0.0010918895724714162,Industry
-Finance,Investment Services,83,0.26773379087037497,Industry
-Energy,Oil & Gas,82,0.17512901222097932,Industry
-Energy,Renewable Energy,87,0.7899229011453406,Industry
-Energy,Energy Exploration,75,0.9387265628238716,Industry
-Consumer Goods,Food & Beverage,16,0.42971790603769755,Industry
-Consumer Goods,Household Products,90,0.6269762975922066,Industry
-Consumer Goods,Apparel,6,0.40263292022172215,Industry
-Utilities,Electric,42,0.22075514398512353,Industry
-Utilities,Water,0,0.8385833999179243,Industry
-Utilities,Gas,6,0.8985113848959306,Industry
-Real Estate,Residential,14,0.03194745902096141,Industry
-Real Estate,Commercial,38,0.15569156749743784,Industry
-Real Estate,Industrial,56,0.019916440314139083,Industry
-Telecommunications,Mobile,25,0.9725626390806681,Industry
-Telecommunications,Broadband,21,0.31949862687955544,Industry
-Telecommunications,Satellite,80,0.1046521887905465,Industry
-Materials,Chemicals,98,0.691723905085765,Industry
-Materials,Metals & Mining,42,0.7359130765615016,Industry
-Materials,Construction Materials,71,0.8042614813347294,Industry
-Industrials,Aerospace & Defense,84,0.04931359805038338,Industry
-Industrials,Machinery,97,0.10125801606858531,Industry
-Industrials,Industrial Services,68,0.8630719460624175,Industry
-Consumer Services,Retail,12,0.8681849204486051,Industry
-Consumer Services,Travel & Leisure,25,0.47022380701565747,Industry
-Consumer Services,Media,26,0.6081788720727273,Industry
-Transportation,Airlines,24,0.49292749600830943,Industry
-Transportation,Railroads,61,0.4223986876939343,Industry
-Transportation,Logistics,7,0.1592275370839421,Industry
+,Aube,822,0.4637862005172272,Overall
+Aube,HiTech,57,0.009315842155449117,Sector
+Aube,Agriculture,54,0.15169397811688012,Sector
+Aube,Transportation,54,0.14153785195957003,Sector
+Aube,Consumer_Products,97,0.7110681717778132,Sector
+Aube,Unassigned,65,0.875504382382022,Sector
+Aube,Communication,75,0.5389711282070747,Sector
+Aube,Trade,73,0.8387281074529697,Sector
+Aube,Business_Services,44,0.4527537373372408,Sector
+Aube,Business_Products,11,0.06853174921687688,Sector
+Aube,Construction,56,0.9306104553223603,Sector
+Aube,Services,82,0.14757240791436232,Sector
+Aube,Mining,52,0.9619570595098529,Sector
+Aube,Health_Care,10,0.23504779018642463,Sector
+Aube,EnergyExpL_Prod,78,0.24788176375103976,Sector
+Aube,Utilities,14,0.6456185824684718,Sector

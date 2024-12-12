@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Clayton,1735,0.3256085426077161,Overall
-Clayton,Technology,155,0.5491852456994802,Sector
-Clayton,Healthcare,138,0.7069120881593899,Sector
-Clayton,Finance,111,0.18241804928197625,Sector
-Clayton,Energy,161,0.9614607550293693,Sector
-Clayton,Consumer Goods,124,0.20167598265938835,Sector
-Clayton,Utilities,74,0.025598469956583658,Sector
-Clayton,Real Estate,189,0.5646645957186645,Sector
-Clayton,Telecommunications,258,0.27556072131257137,Sector
-Clayton,Materials,221,0.03062798126610411,Sector
-Clayton,Industrials,90,0.18447539698157245,Sector
-Clayton,Consumer Services,20,0.21606463227523398,Sector
-Clayton,Transportation,194,0.5315152387126819,Sector
-Technology,Software,83,0.10762107058494008,Industry
-Technology,Hardware,43,0.25593881824160325,Industry
-Technology,IT Services,29,0.3437443156601857,Industry
-Healthcare,Pharmaceuticals,60,0.4079642751347071,Industry
-Healthcare,Medical Devices,13,0.06831182391332191,Industry
-Healthcare,Healthcare Services,65,0.09443154152131372,Industry
-Finance,Banking,48,0.8036631509089096,Industry
-Finance,Insurance,28,0.43508395740796046,Industry
-Finance,Investment Services,35,0.14149328335581912,Industry
-Energy,Oil & Gas,26,0.000567557810147612,Industry
-Energy,Renewable Energy,65,0.5554057613008803,Industry
-Energy,Energy Exploration,70,0.017345275064610588,Industry
-Consumer Goods,Food & Beverage,20,0.43592327146925414,Industry
-Consumer Goods,Household Products,80,0.18607753929113935,Industry
-Consumer Goods,Apparel,24,0.6287491817625989,Industry
-Utilities,Electric,3,0.12125671743045807,Industry
-Utilities,Water,25,0.9585089158934934,Industry
-Utilities,Gas,46,0.5423823998059364,Industry
-Real Estate,Residential,76,0.2404365401437376,Industry
-Real Estate,Commercial,44,0.6982383497660813,Industry
-Real Estate,Industrial,69,0.3514851525779512,Industry
-Telecommunications,Mobile,99,0.6350841884255948,Industry
-Telecommunications,Broadband,79,0.8488710984631972,Industry
-Telecommunications,Satellite,80,0.3432118326508492,Industry
-Materials,Chemicals,99,0.6502737108727558,Industry
-Materials,Metals & Mining,27,0.9275064431321149,Industry
-Materials,Construction Materials,95,0.3163756447548246,Industry
-Industrials,Aerospace & Defense,58,0.6079736810627485,Industry
-Industrials,Machinery,3,0.5441565649874124,Industry
-Industrials,Industrial Services,29,0.5092164207975338,Industry
-Consumer Services,Retail,8,0.17683188035973718,Industry
-Consumer Services,Travel & Leisure,7,0.7176121125592723,Industry
-Consumer Services,Media,5,0.11387634493549281,Industry
-Transportation,Airlines,80,0.8376723126026403,Industry
-Transportation,Railroads,22,0.3061672312744246,Industry
-Transportation,Logistics,92,0.7037003093965554,Industry
+,Clayton,705,0.5046410614318688,Overall
+Clayton,HiTech,4,0.2093272593434724,Sector
+Clayton,Agriculture,13,0.8086882960740935,Sector
+Clayton,Transportation,93,0.2550246530249167,Sector
+Clayton,Consumer_Products,28,0.8542891343062996,Sector
+Clayton,Unassigned,90,0.05345773641113272,Sector
+Clayton,Communication,25,0.5994513832492901,Sector
+Clayton,Trade,77,0.635786088980266,Sector
+Clayton,Business_Services,64,0.6220152507591092,Sector
+Clayton,Business_Products,16,0.7280223804602071,Sector
+Clayton,Construction,65,0.31099818266611623,Sector
+Clayton,Services,62,0.31453292295345425,Sector
+Clayton,Mining,81,0.9936065706634133,Sector
+Clayton,Health_Care,25,0.7819703208043023,Sector
+Clayton,EnergyExpL_Prod,45,0.09416663374402545,Sector
+Clayton,Utilities,17,0.30827910803793435,Sector

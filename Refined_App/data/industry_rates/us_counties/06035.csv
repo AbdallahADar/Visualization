@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lassen,1968,0.7639808036749837,Overall
-Lassen,Technology,188,0.08584589443833524,Sector
-Lassen,Healthcare,75,0.9585192597404862,Sector
-Lassen,Finance,178,0.7079870126009229,Sector
-Lassen,Energy,153,0.9866189721213597,Sector
-Lassen,Consumer Goods,165,0.03812065503139739,Sector
-Lassen,Utilities,218,0.6933551823980284,Sector
-Lassen,Real Estate,150,0.7888341017169499,Sector
-Lassen,Telecommunications,203,0.8822039032852809,Sector
-Lassen,Materials,144,0.6985316058518329,Sector
-Lassen,Industrials,152,0.5129925409910108,Sector
-Lassen,Consumer Services,188,0.3689455588769246,Sector
-Lassen,Transportation,154,0.1339491227938272,Sector
-Technology,Software,93,0.3318028054109421,Industry
-Technology,Hardware,18,0.33032290032341083,Industry
-Technology,IT Services,77,0.34458876057903287,Industry
-Healthcare,Pharmaceuticals,14,0.7256619357992314,Industry
-Healthcare,Medical Devices,59,0.27945422366960526,Industry
-Healthcare,Healthcare Services,2,0.7260365770777882,Industry
-Finance,Banking,89,0.5904033009890393,Industry
-Finance,Insurance,69,0.5935408001783199,Industry
-Finance,Investment Services,20,0.8455226234203663,Industry
-Energy,Oil & Gas,78,0.24178003105059087,Industry
-Energy,Renewable Energy,42,0.13255532162792982,Industry
-Energy,Energy Exploration,33,0.04859985796261401,Industry
-Consumer Goods,Food & Beverage,85,0.5445913698264996,Industry
-Consumer Goods,Household Products,55,0.2921905620614158,Industry
-Consumer Goods,Apparel,25,0.29272925206077627,Industry
-Utilities,Electric,85,0.5704982103090482,Industry
-Utilities,Water,64,0.9816856041075388,Industry
-Utilities,Gas,69,0.5059970970591735,Industry
-Real Estate,Residential,29,0.5882604968309549,Industry
-Real Estate,Commercial,50,0.060972916786068976,Industry
-Real Estate,Industrial,71,0.8769122818187293,Industry
-Telecommunications,Mobile,77,0.19661037047092722,Industry
-Telecommunications,Broadband,57,0.2711159120890819,Industry
-Telecommunications,Satellite,69,0.17732192950277015,Industry
-Materials,Chemicals,4,0.14925962648803337,Industry
-Materials,Metals & Mining,43,0.8522565560005574,Industry
-Materials,Construction Materials,97,0.8294654783533839,Industry
-Industrials,Aerospace & Defense,69,0.5602479385766306,Industry
-Industrials,Machinery,18,0.5968567621868585,Industry
-Industrials,Industrial Services,65,0.0912853136346079,Industry
-Consumer Services,Retail,84,0.5101976946554246,Industry
-Consumer Services,Travel & Leisure,27,0.6300649342054893,Industry
-Consumer Services,Media,77,0.3885307039741285,Industry
-Transportation,Airlines,30,0.5876955187250879,Industry
-Transportation,Railroads,45,0.05314347321732149,Industry
-Transportation,Logistics,79,0.6494288998744288,Industry
+,Lassen,693,0.3929901761570179,Overall
+Lassen,HiTech,41,0.44318738204973707,Sector
+Lassen,Agriculture,36,0.5716156627577738,Sector
+Lassen,Transportation,85,0.9531736123947983,Sector
+Lassen,Consumer_Products,54,0.3905770854650331,Sector
+Lassen,Unassigned,0,0.08487031100663545,Sector
+Lassen,Communication,92,0.11930439664965542,Sector
+Lassen,Trade,10,0.13525293276023143,Sector
+Lassen,Business_Services,56,0.403449455362632,Sector
+Lassen,Business_Products,60,0.6768611625449642,Sector
+Lassen,Construction,82,0.1669814566677288,Sector
+Lassen,Services,82,0.3624567929356284,Sector
+Lassen,Mining,41,0.07396579970871953,Sector
+Lassen,Health_Care,16,0.3690546634162799,Sector
+Lassen,EnergyExpL_Prod,28,0.6180200972691727,Sector
+Lassen,Utilities,10,0.5260818313662784,Sector

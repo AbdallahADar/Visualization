@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Switzerland,1639,0.13103251849617792,Overall
-Switzerland,Technology,150,0.8744310537321663,Sector
-Switzerland,Healthcare,122,0.41850185996627165,Sector
-Switzerland,Finance,171,0.744090473926963,Sector
-Switzerland,Energy,82,0.4835089633432864,Sector
-Switzerland,Consumer Goods,119,0.1441192104962682,Sector
-Switzerland,Utilities,161,0.7783824196593281,Sector
-Switzerland,Real Estate,172,0.7891723046150854,Sector
-Switzerland,Telecommunications,53,0.12026898854757972,Sector
-Switzerland,Materials,205,0.028157285178837754,Sector
-Switzerland,Industrials,54,0.5615832566812912,Sector
-Switzerland,Consumer Services,233,0.334569229596134,Sector
-Switzerland,Transportation,117,0.9326628210798038,Sector
-Technology,Software,89,0.9522791628038667,Industry
-Technology,Hardware,30,0.7386833294635307,Industry
-Technology,IT Services,31,0.6981746962748342,Industry
-Healthcare,Pharmaceuticals,30,0.41583889894374915,Industry
-Healthcare,Medical Devices,64,0.1325201660163171,Industry
-Healthcare,Healthcare Services,28,0.2222096467271638,Industry
-Finance,Banking,83,0.19654645037006413,Industry
-Finance,Insurance,84,0.14125241950241219,Industry
-Finance,Investment Services,4,0.5191394936624536,Industry
-Energy,Oil & Gas,61,0.7778346837464952,Industry
-Energy,Renewable Energy,5,0.5896770656345595,Industry
-Energy,Energy Exploration,16,0.10964633737365759,Industry
-Consumer Goods,Food & Beverage,24,0.8231880418866422,Industry
-Consumer Goods,Household Products,79,0.6031305264606915,Industry
-Consumer Goods,Apparel,16,0.6313817719594751,Industry
-Utilities,Electric,59,0.7305764040909553,Industry
-Utilities,Water,46,0.4672814526452539,Industry
-Utilities,Gas,56,0.8820275304978347,Industry
-Real Estate,Residential,86,0.2065129284742181,Industry
-Real Estate,Commercial,2,0.08433835766189146,Industry
-Real Estate,Industrial,84,0.5147814786643171,Industry
-Telecommunications,Mobile,43,0.0036446796862942277,Industry
-Telecommunications,Broadband,0,0.2992675293724196,Industry
-Telecommunications,Satellite,10,0.7846557409781644,Industry
-Materials,Chemicals,55,0.8244861889976329,Industry
-Materials,Metals & Mining,76,0.4098386152041764,Industry
-Materials,Construction Materials,74,0.20588631784161449,Industry
-Industrials,Aerospace & Defense,45,0.9253857272797914,Industry
-Industrials,Machinery,6,0.9320745345260991,Industry
-Industrials,Industrial Services,3,0.6563481904994116,Industry
-Consumer Services,Retail,53,0.7653928389718746,Industry
-Consumer Services,Travel & Leisure,83,0.3549975262184397,Industry
-Consumer Services,Media,97,0.7934508099745465,Industry
-Transportation,Airlines,37,0.47300332444417015,Industry
-Transportation,Railroads,43,0.33861581473336944,Industry
-Transportation,Logistics,37,0.7457638630460623,Industry
+,Switzerland,767,0.5499032119039423,Overall
+Switzerland,HiTech,35,0.827761112700492,Sector
+Switzerland,Agriculture,47,0.4186173220187436,Sector
+Switzerland,Transportation,67,0.049186467945128265,Sector
+Switzerland,Consumer_Products,28,0.7439664416564425,Sector
+Switzerland,Unassigned,3,0.504141061994859,Sector
+Switzerland,Communication,1,0.899535901101457,Sector
+Switzerland,Trade,88,0.6411570407685923,Sector
+Switzerland,Business_Services,27,0.25171193546770154,Sector
+Switzerland,Business_Products,78,0.5708569732117657,Sector
+Switzerland,Construction,93,0.1467372964908773,Sector
+Switzerland,Services,83,0.9683540182619162,Sector
+Switzerland,Mining,5,0.6861593653141095,Sector
+Switzerland,Health_Care,91,0.3901458727581685,Sector
+Switzerland,EnergyExpL_Prod,76,0.916064928103503,Sector
+Switzerland,Utilities,45,0.23415244076537867,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gosper,1832,0.828965827961943,Overall
-Gosper,Technology,148,0.3307455612740182,Sector
-Gosper,Healthcare,181,0.8399591308096728,Sector
-Gosper,Finance,189,0.9674640859134093,Sector
-Gosper,Energy,98,0.27493452108926253,Sector
-Gosper,Consumer Goods,161,0.6592763118095383,Sector
-Gosper,Utilities,45,0.44171045470943504,Sector
-Gosper,Real Estate,182,0.740786626426311,Sector
-Gosper,Telecommunications,185,0.8544017249797956,Sector
-Gosper,Materials,124,0.9030307887391641,Sector
-Gosper,Industrials,147,0.7949744882371794,Sector
-Gosper,Consumer Services,158,0.709061332320576,Sector
-Gosper,Transportation,214,0.26503497224071704,Sector
-Technology,Software,47,0.8531440172938556,Industry
-Technology,Hardware,69,0.5860120664883304,Industry
-Technology,IT Services,32,0.9446108694924078,Industry
-Healthcare,Pharmaceuticals,98,0.12974319715021077,Industry
-Healthcare,Medical Devices,2,0.6605104846892471,Industry
-Healthcare,Healthcare Services,81,0.8075067535622021,Industry
-Finance,Banking,97,0.2013143531994065,Industry
-Finance,Insurance,31,0.18953321003390378,Industry
-Finance,Investment Services,61,0.38861367603306196,Industry
-Energy,Oil & Gas,18,0.5800712112844113,Industry
-Energy,Renewable Energy,22,0.9403488861261241,Industry
-Energy,Energy Exploration,58,0.6081459048852023,Industry
-Consumer Goods,Food & Beverage,18,0.27215518479012946,Industry
-Consumer Goods,Household Products,86,0.4274022274384389,Industry
-Consumer Goods,Apparel,57,0.2888384452994254,Industry
-Utilities,Electric,29,0.1164364067380127,Industry
-Utilities,Water,2,0.7624060940430367,Industry
-Utilities,Gas,14,0.8520038281702234,Industry
-Real Estate,Residential,85,0.4905662120932829,Industry
-Real Estate,Commercial,14,0.2630264801638179,Industry
-Real Estate,Industrial,83,0.026547920088729526,Industry
-Telecommunications,Mobile,91,0.6854516195461658,Industry
-Telecommunications,Broadband,70,0.4105097493281089,Industry
-Telecommunications,Satellite,24,0.6375959334006711,Industry
-Materials,Chemicals,42,0.5541329861336232,Industry
-Materials,Metals & Mining,67,0.4998877380326603,Industry
-Materials,Construction Materials,15,0.698747579205078,Industry
-Industrials,Aerospace & Defense,96,0.15301538428986738,Industry
-Industrials,Machinery,51,0.43537775357747643,Industry
-Industrials,Industrial Services,0,0.020039886376009508,Industry
-Consumer Services,Retail,65,0.15949817876396122,Industry
-Consumer Services,Travel & Leisure,22,0.46207040768541685,Industry
-Consumer Services,Media,71,0.6264249007961995,Industry
-Transportation,Airlines,80,0.07015751562182593,Industry
-Transportation,Railroads,44,0.9404011294228378,Industry
-Transportation,Logistics,90,0.5038247548169444,Industry
+,Gosper,753,0.49168967582992656,Overall
+Gosper,HiTech,15,0.09665171893531055,Sector
+Gosper,Agriculture,74,0.8775715357246678,Sector
+Gosper,Transportation,7,0.39627679770774316,Sector
+Gosper,Consumer_Products,88,0.9061332328400691,Sector
+Gosper,Unassigned,76,0.6431757990079627,Sector
+Gosper,Communication,60,0.35089901467655615,Sector
+Gosper,Trade,69,0.9716601390784273,Sector
+Gosper,Business_Services,4,0.3176076939895146,Sector
+Gosper,Business_Products,34,0.5398341712198764,Sector
+Gosper,Construction,47,0.31770740556344024,Sector
+Gosper,Services,1,0.2644590660850422,Sector
+Gosper,Mining,81,0.039296059196956,Sector
+Gosper,Health_Care,71,0.30395732655546315,Sector
+Gosper,EnergyExpL_Prod,29,0.6556685369666935,Sector
+Gosper,Utilities,97,0.6944466399011764,Sector

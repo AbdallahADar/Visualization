@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Shawnee,1744,0.36368367535809665,Overall
-Shawnee,Technology,115,0.09476596087343725,Sector
-Shawnee,Healthcare,129,0.018959008430353586,Sector
-Shawnee,Finance,189,0.13863096213980586,Sector
-Shawnee,Energy,92,0.9167421225087784,Sector
-Shawnee,Consumer Goods,99,0.18902054933792378,Sector
-Shawnee,Utilities,104,0.23968688362319435,Sector
-Shawnee,Real Estate,179,0.8716969633382818,Sector
-Shawnee,Telecommunications,215,0.44257567354938065,Sector
-Shawnee,Materials,121,0.8443401880600205,Sector
-Shawnee,Industrials,169,0.840342105224061,Sector
-Shawnee,Consumer Services,151,0.690443837865887,Sector
-Shawnee,Transportation,181,0.9174118945996467,Sector
-Technology,Software,10,0.2024602196885813,Industry
-Technology,Hardware,30,0.3906396692884416,Industry
-Technology,IT Services,75,0.5869112741092839,Industry
-Healthcare,Pharmaceuticals,48,0.6464064818674656,Industry
-Healthcare,Medical Devices,27,0.09631410891449954,Industry
-Healthcare,Healthcare Services,54,0.06749938790486132,Industry
-Finance,Banking,18,0.8374818931050992,Industry
-Finance,Insurance,72,0.6460868948411633,Industry
-Finance,Investment Services,99,0.5615357602134944,Industry
-Energy,Oil & Gas,52,0.022194903100206997,Industry
-Energy,Renewable Energy,30,0.12252373486544044,Industry
-Energy,Energy Exploration,10,0.4164568900194541,Industry
-Consumer Goods,Food & Beverage,30,0.17273988232399118,Industry
-Consumer Goods,Household Products,45,0.9469593072922988,Industry
-Consumer Goods,Apparel,24,0.6820012494611583,Industry
-Utilities,Electric,39,0.09429656146089671,Industry
-Utilities,Water,34,0.4906381712152278,Industry
-Utilities,Gas,31,0.3817190959742627,Industry
-Real Estate,Residential,21,0.4242896407502932,Industry
-Real Estate,Commercial,63,0.7090439004563018,Industry
-Real Estate,Industrial,95,0.45297933468524765,Industry
-Telecommunications,Mobile,58,0.2861974132175761,Industry
-Telecommunications,Broadband,80,0.763217757370217,Industry
-Telecommunications,Satellite,77,0.8168496778883875,Industry
-Materials,Chemicals,84,0.5980932793955431,Industry
-Materials,Metals & Mining,11,0.06176534724017513,Industry
-Materials,Construction Materials,26,0.437406571508029,Industry
-Industrials,Aerospace & Defense,58,0.5380409551709278,Industry
-Industrials,Machinery,83,0.6873122896438671,Industry
-Industrials,Industrial Services,28,0.3149821803906727,Industry
-Consumer Services,Retail,35,0.6956927335730386,Industry
-Consumer Services,Travel & Leisure,34,0.8535027815703551,Industry
-Consumer Services,Media,82,0.32117568411584296,Industry
-Transportation,Airlines,92,0.5696206544848655,Industry
-Transportation,Railroads,34,0.541418841866582,Industry
-Transportation,Logistics,55,0.21825875733924094,Industry
+,Shawnee,594,0.5117172585976586,Overall
+Shawnee,HiTech,54,0.9620063849778693,Sector
+Shawnee,Agriculture,11,0.04369510627739359,Sector
+Shawnee,Transportation,41,0.19016144430033943,Sector
+Shawnee,Consumer_Products,38,0.5540334029010339,Sector
+Shawnee,Unassigned,4,0.833401693588088,Sector
+Shawnee,Communication,37,0.7460268556651113,Sector
+Shawnee,Trade,24,0.7782985028342033,Sector
+Shawnee,Business_Services,44,0.37565958795426513,Sector
+Shawnee,Business_Products,60,0.3765590555856526,Sector
+Shawnee,Construction,38,0.5041549058543507,Sector
+Shawnee,Services,71,0.05053975787990572,Sector
+Shawnee,Mining,80,0.3238985737362704,Sector
+Shawnee,Health_Care,19,0.5988076853554861,Sector
+Shawnee,EnergyExpL_Prod,30,0.8085627765216644,Sector
+Shawnee,Utilities,43,0.5299531455332451,Sector

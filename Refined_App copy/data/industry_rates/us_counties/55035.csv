@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Eau Claire,1781,0.19058798288262735,Overall
+Eau Claire,Technology,156,0.18725443519129403,Sector
+Eau Claire,Healthcare,100,0.417280467139846,Sector
+Eau Claire,Finance,220,0.18548303205236194,Sector
+Eau Claire,Energy,138,0.464464359903069,Sector
+Eau Claire,Consumer Goods,113,0.5430731428714335,Sector
+Eau Claire,Utilities,188,0.9649948193535318,Sector
+Eau Claire,Real Estate,109,0.5489465736103358,Sector
+Eau Claire,Telecommunications,158,0.6240867848121205,Sector
+Eau Claire,Materials,187,0.5453608137016396,Sector
+Eau Claire,Industrials,191,0.986403744608719,Sector
+Eau Claire,Consumer Services,116,0.7032606142950791,Sector
+Eau Claire,Transportation,105,0.6169260389112035,Sector
+Technology,Software,20,0.5846215617471014,Industry
+Technology,Hardware,85,0.6605460682300497,Industry
+Technology,IT Services,51,0.7434307134524769,Industry
+Healthcare,Pharmaceuticals,22,0.7780082043727164,Industry
+Healthcare,Medical Devices,23,0.9501727272856025,Industry
+Healthcare,Healthcare Services,55,0.22199642210052117,Industry
+Finance,Banking,52,0.9816148108611993,Industry
+Finance,Insurance,71,0.19954517265757887,Industry
+Finance,Investment Services,97,0.3940879580314284,Industry
+Energy,Oil & Gas,52,0.5545586890412166,Industry
+Energy,Renewable Energy,81,0.786694227492362,Industry
+Energy,Energy Exploration,5,0.7530912354986915,Industry
+Consumer Goods,Food & Beverage,23,0.3117918104678059,Industry
+Consumer Goods,Household Products,33,0.8630095631832988,Industry
+Consumer Goods,Apparel,57,0.4478534297747804,Industry
+Utilities,Electric,78,0.017854494956431433,Industry
+Utilities,Water,19,0.8360486932150133,Industry
+Utilities,Gas,91,0.9866807246883096,Industry
+Real Estate,Residential,1,0.8773419863446085,Industry
+Real Estate,Commercial,17,0.9385939330570078,Industry
+Real Estate,Industrial,91,0.379938379543564,Industry
+Telecommunications,Mobile,99,0.8124745448324476,Industry
+Telecommunications,Broadband,26,0.6020863859832336,Industry
+Telecommunications,Satellite,33,0.953287896473035,Industry
+Materials,Chemicals,98,0.38406524285960775,Industry
+Materials,Metals & Mining,80,0.25256248572309814,Industry
+Materials,Construction Materials,9,0.3813653939299394,Industry
+Industrials,Aerospace & Defense,87,0.601127885973373,Industry
+Industrials,Machinery,94,0.1553541770954081,Industry
+Industrials,Industrial Services,10,0.6902128157044377,Industry
+Consumer Services,Retail,38,0.9256375816349587,Industry
+Consumer Services,Travel & Leisure,39,0.4336169058776649,Industry
+Consumer Services,Media,39,0.982910606591928,Industry
+Transportation,Airlines,45,0.4539595724173989,Industry
+Transportation,Railroads,13,0.8519939060741388,Industry
+Transportation,Logistics,47,0.6398417956439345,Industry

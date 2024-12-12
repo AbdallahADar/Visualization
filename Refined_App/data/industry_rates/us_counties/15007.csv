@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kauai,1672,0.12268070159710243,Overall
-Kauai,Technology,200,0.6974392228009625,Sector
-Kauai,Healthcare,148,0.1166661569964097,Sector
-Kauai,Finance,175,0.44582048911423,Sector
-Kauai,Energy,224,0.4935975278463576,Sector
-Kauai,Consumer Goods,91,0.4424192003542855,Sector
-Kauai,Utilities,84,0.7171185800872508,Sector
-Kauai,Real Estate,157,0.8395336152564062,Sector
-Kauai,Telecommunications,134,0.7594039857663748,Sector
-Kauai,Materials,39,0.8757600053459008,Sector
-Kauai,Industrials,99,0.14862886907254724,Sector
-Kauai,Consumer Services,200,0.272895984666759,Sector
-Kauai,Transportation,121,0.4070469675470034,Sector
-Technology,Software,52,0.6723610533635824,Industry
-Technology,Hardware,62,0.6723896427967139,Industry
-Technology,IT Services,86,0.9704205660777117,Industry
-Healthcare,Pharmaceuticals,29,0.4503430707283196,Industry
-Healthcare,Medical Devices,58,0.18138500487351428,Industry
-Healthcare,Healthcare Services,61,0.47692757550168474,Industry
-Finance,Banking,89,0.8904885772182963,Industry
-Finance,Insurance,86,0.23012146393061206,Industry
-Finance,Investment Services,0,0.9453182410650859,Industry
-Energy,Oil & Gas,97,0.41438028531081095,Industry
-Energy,Renewable Energy,46,0.12175260811791189,Industry
-Energy,Energy Exploration,81,0.031547746688904144,Industry
-Consumer Goods,Food & Beverage,7,0.5961515622215817,Industry
-Consumer Goods,Household Products,72,0.06443425254791202,Industry
-Consumer Goods,Apparel,12,0.3272681958210856,Industry
-Utilities,Electric,34,0.3524037243221524,Industry
-Utilities,Water,48,0.6837474807853351,Industry
-Utilities,Gas,2,0.7416614823330477,Industry
-Real Estate,Residential,63,0.35182704346304305,Industry
-Real Estate,Commercial,74,0.2087216661653043,Industry
-Real Estate,Industrial,20,0.8318297841340608,Industry
-Telecommunications,Mobile,47,0.7712189793779086,Industry
-Telecommunications,Broadband,36,0.9013999524400776,Industry
-Telecommunications,Satellite,51,0.17094557232553498,Industry
-Materials,Chemicals,10,0.6091523203653421,Industry
-Materials,Metals & Mining,12,0.14786487359091416,Industry
-Materials,Construction Materials,17,0.10242079352689226,Industry
-Industrials,Aerospace & Defense,59,0.13496957769313966,Industry
-Industrials,Machinery,31,0.09612493452060111,Industry
-Industrials,Industrial Services,9,0.9579126312559317,Industry
-Consumer Services,Retail,58,0.6948446570467613,Industry
-Consumer Services,Travel & Leisure,83,0.4410492709851659,Industry
-Consumer Services,Media,59,0.09022385878449068,Industry
-Transportation,Airlines,24,0.23534806175303302,Industry
-Transportation,Railroads,81,0.9068054375250129,Industry
-Transportation,Logistics,16,0.4218522793026799,Industry
+,Kauai,676,0.48443021361372945,Overall
+Kauai,HiTech,92,0.0675664486526033,Sector
+Kauai,Agriculture,53,0.14346024522116196,Sector
+Kauai,Transportation,81,0.2948568388951248,Sector
+Kauai,Consumer_Products,77,0.601227939619929,Sector
+Kauai,Unassigned,8,0.9111228056655076,Sector
+Kauai,Communication,4,0.7902233548855975,Sector
+Kauai,Trade,2,0.0900291528300865,Sector
+Kauai,Business_Services,66,0.8895505340587266,Sector
+Kauai,Business_Products,63,0.4219841423167944,Sector
+Kauai,Construction,79,0.2666359935312138,Sector
+Kauai,Services,2,0.8953610827361392,Sector
+Kauai,Mining,59,0.22868425227102096,Sector
+Kauai,Health_Care,10,0.479334987546047,Sector
+Kauai,EnergyExpL_Prod,25,0.6418950877930252,Sector
+Kauai,Utilities,55,0.5445203381829635,Sector

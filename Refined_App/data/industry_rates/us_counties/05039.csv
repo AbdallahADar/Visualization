@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dallas,1860,0.5680795687842823,Overall
-Dallas,Technology,134,0.8885573464904427,Sector
-Dallas,Healthcare,129,0.49766777083242786,Sector
-Dallas,Finance,189,0.775113862611236,Sector
-Dallas,Energy,159,0.7165307941302409,Sector
-Dallas,Consumer Goods,172,0.20381788280533697,Sector
-Dallas,Utilities,64,0.277889576937721,Sector
-Dallas,Real Estate,175,0.9023881029116253,Sector
-Dallas,Telecommunications,183,0.8311829929392073,Sector
-Dallas,Materials,199,0.6509938690466519,Sector
-Dallas,Industrials,208,0.14947931795008507,Sector
-Dallas,Consumer Services,68,0.7724404765162155,Sector
-Dallas,Transportation,180,0.4634708372623365,Sector
-Technology,Software,47,0.9955920703453955,Industry
-Technology,Hardware,87,0.3557281071110767,Industry
-Technology,IT Services,0,0.46019834659378656,Industry
-Healthcare,Pharmaceuticals,13,0.6680446350940684,Industry
-Healthcare,Medical Devices,43,0.9588583389143188,Industry
-Healthcare,Healthcare Services,73,0.9560598491789006,Industry
-Finance,Banking,89,0.4796009305554172,Industry
-Finance,Insurance,94,0.5129494877870012,Industry
-Finance,Investment Services,6,0.6828008095581066,Industry
-Energy,Oil & Gas,59,0.37714446574632865,Industry
-Energy,Renewable Energy,84,0.43193324409238787,Industry
-Energy,Energy Exploration,16,0.2922739468125941,Industry
-Consumer Goods,Food & Beverage,0,0.4939535643027143,Industry
-Consumer Goods,Household Products,80,0.14101329250513595,Industry
-Consumer Goods,Apparel,92,0.46779999075058465,Industry
-Utilities,Electric,2,0.03785074853266257,Industry
-Utilities,Water,4,0.6938962162922528,Industry
-Utilities,Gas,58,0.3717241165826628,Industry
-Real Estate,Residential,80,0.26736921978419037,Industry
-Real Estate,Commercial,1,0.7531777195873848,Industry
-Real Estate,Industrial,94,0.24185929480715052,Industry
-Telecommunications,Mobile,51,0.7248412836733943,Industry
-Telecommunications,Broadband,53,0.39469609217900126,Industry
-Telecommunications,Satellite,79,0.4197521635258661,Industry
-Materials,Chemicals,62,0.33167352984921694,Industry
-Materials,Metals & Mining,67,0.834907866788958,Industry
-Materials,Construction Materials,70,0.6825557225132513,Industry
-Industrials,Aerospace & Defense,70,0.6119711321461789,Industry
-Industrials,Machinery,91,0.6008013492733848,Industry
-Industrials,Industrial Services,47,0.5457437238638524,Industry
-Consumer Services,Retail,29,0.5237740103353828,Industry
-Consumer Services,Travel & Leisure,39,0.6428003300512204,Industry
-Consumer Services,Media,0,0.688729513047273,Industry
-Transportation,Airlines,57,0.2612239701217064,Industry
-Transportation,Railroads,27,0.0877626943958455,Industry
-Transportation,Logistics,96,0.3600635777653245,Industry
+,Dallas,685,0.47832913614115546,Overall
+Dallas,HiTech,31,0.5495411050895415,Sector
+Dallas,Agriculture,36,0.7778187580363177,Sector
+Dallas,Transportation,82,0.5943516853239491,Sector
+Dallas,Consumer_Products,82,0.7539851602270712,Sector
+Dallas,Unassigned,53,0.1532277641791746,Sector
+Dallas,Communication,4,0.5926896479120763,Sector
+Dallas,Trade,38,0.5463471995613585,Sector
+Dallas,Business_Services,29,0.2976549972647664,Sector
+Dallas,Business_Products,62,0.35212467321246343,Sector
+Dallas,Construction,33,0.5134762435670271,Sector
+Dallas,Services,46,0.2555050901363497,Sector
+Dallas,Mining,40,0.8762755910144898,Sector
+Dallas,Health_Care,78,0.27096349091167893,Sector
+Dallas,EnergyExpL_Prod,1,0.3428610793184268,Sector
+Dallas,Utilities,70,0.2981145563626427,Sector

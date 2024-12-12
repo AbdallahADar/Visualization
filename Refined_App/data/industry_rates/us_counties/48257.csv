@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kaufman,2027,0.7012178439849183,Overall
-Kaufman,Technology,167,0.25603693962360785,Sector
-Kaufman,Healthcare,199,0.5531490037757033,Sector
-Kaufman,Finance,140,0.5770587125332571,Sector
-Kaufman,Energy,139,0.4316848505345633,Sector
-Kaufman,Consumer Goods,129,0.7291542236463388,Sector
-Kaufman,Utilities,214,0.9248480018488638,Sector
-Kaufman,Real Estate,232,0.8183279218933807,Sector
-Kaufman,Telecommunications,178,0.33585184197204143,Sector
-Kaufman,Materials,195,0.26924043149539323,Sector
-Kaufman,Industrials,117,0.5029407216017413,Sector
-Kaufman,Consumer Services,189,0.9037980262320084,Sector
-Kaufman,Transportation,128,0.03735819212010083,Sector
-Technology,Software,75,0.23374276719387854,Industry
-Technology,Hardware,80,0.5665137556447333,Industry
-Technology,IT Services,12,0.6633164677772748,Industry
-Healthcare,Pharmaceuticals,75,0.8977579238412173,Industry
-Healthcare,Medical Devices,60,0.43917842247571215,Industry
-Healthcare,Healthcare Services,64,0.19826227420531517,Industry
-Finance,Banking,72,0.8727309976067563,Industry
-Finance,Insurance,34,0.9718757745369903,Industry
-Finance,Investment Services,34,0.9674262236697224,Industry
-Energy,Oil & Gas,81,0.1923084771264837,Industry
-Energy,Renewable Energy,2,0.819516722737887,Industry
-Energy,Energy Exploration,56,0.8160144882455372,Industry
-Consumer Goods,Food & Beverage,33,0.7039165815981558,Industry
-Consumer Goods,Household Products,13,0.34428460477334855,Industry
-Consumer Goods,Apparel,83,0.049494388463687256,Industry
-Utilities,Electric,83,0.8838088961342819,Industry
-Utilities,Water,80,0.1857090604002135,Industry
-Utilities,Gas,51,0.44866218369904753,Industry
-Real Estate,Residential,65,0.45477949420975494,Industry
-Real Estate,Commercial,71,0.9617657389370968,Industry
-Real Estate,Industrial,96,0.1232319340265624,Industry
-Telecommunications,Mobile,19,0.9738366623640988,Industry
-Telecommunications,Broadband,89,0.8002286155957756,Industry
-Telecommunications,Satellite,70,0.3506645613564362,Industry
-Materials,Chemicals,68,0.6775018365797194,Industry
-Materials,Metals & Mining,81,0.27922393222819186,Industry
-Materials,Construction Materials,46,0.735637389739435,Industry
-Industrials,Aerospace & Defense,40,0.6679357208135162,Industry
-Industrials,Machinery,60,0.5932706067304258,Industry
-Industrials,Industrial Services,17,0.6139291499085582,Industry
-Consumer Services,Retail,15,0.8278687286836763,Industry
-Consumer Services,Travel & Leisure,79,0.33018232410166615,Industry
-Consumer Services,Media,95,0.5058925227180241,Industry
-Transportation,Airlines,62,0.48307388298655396,Industry
-Transportation,Railroads,19,0.18341376714836577,Industry
-Transportation,Logistics,47,0.6840849692274028,Industry
+,Kaufman,741,0.5075493206779329,Overall
+Kaufman,HiTech,24,0.2608188696717737,Sector
+Kaufman,Agriculture,81,0.5747992754184699,Sector
+Kaufman,Transportation,26,0.3014596835853601,Sector
+Kaufman,Consumer_Products,7,0.5447815867317228,Sector
+Kaufman,Unassigned,13,0.48356902536051083,Sector
+Kaufman,Communication,85,0.8139682078809293,Sector
+Kaufman,Trade,11,0.010802505993844358,Sector
+Kaufman,Business_Services,11,0.8651966844408618,Sector
+Kaufman,Business_Products,86,0.47466727073911974,Sector
+Kaufman,Construction,77,0.6617075429538162,Sector
+Kaufman,Services,63,0.1147582961841318,Sector
+Kaufman,Mining,81,0.7946667425246632,Sector
+Kaufman,Health_Care,63,0.37047238118852954,Sector
+Kaufman,EnergyExpL_Prod,43,0.4053247795901084,Sector
+Kaufman,Utilities,70,0.9362469579051524,Sector

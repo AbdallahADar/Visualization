@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Buskerud,1619,0.014514491838113708,Overall
-Buskerud,Technology,119,0.21202567453179444,Sector
-Buskerud,Healthcare,103,0.5256951222779057,Sector
-Buskerud,Finance,137,0.5905487281830624,Sector
-Buskerud,Energy,134,0.19082099597251323,Sector
-Buskerud,Consumer Goods,102,0.051806693469102605,Sector
-Buskerud,Utilities,157,0.8796368668967747,Sector
-Buskerud,Real Estate,134,0.32048068652282713,Sector
-Buskerud,Telecommunications,129,0.2836419405787104,Sector
-Buskerud,Materials,66,0.5297456064203432,Sector
-Buskerud,Industrials,198,0.12299843664350951,Sector
-Buskerud,Consumer Services,156,0.2521111138667823,Sector
-Buskerud,Transportation,184,0.6917616982136096,Sector
-Technology,Software,75,0.18388430237859044,Industry
-Technology,Hardware,30,0.3277731994341049,Industry
-Technology,IT Services,14,0.6672199701354529,Industry
-Healthcare,Pharmaceuticals,24,0.5842607394694846,Industry
-Healthcare,Medical Devices,49,0.6481167975294259,Industry
-Healthcare,Healthcare Services,30,0.8880976983410099,Industry
-Finance,Banking,51,0.6663284418154001,Industry
-Finance,Insurance,35,0.3325799417377219,Industry
-Finance,Investment Services,51,0.2611137699494488,Industry
-Energy,Oil & Gas,32,0.27090921837331816,Industry
-Energy,Renewable Energy,35,0.5377955546796958,Industry
-Energy,Energy Exploration,67,0.9229837006535003,Industry
-Consumer Goods,Food & Beverage,46,0.3623858711436768,Industry
-Consumer Goods,Household Products,42,0.13316351492140088,Industry
-Consumer Goods,Apparel,14,0.664391852681365,Industry
-Utilities,Electric,5,0.20758630504321784,Industry
-Utilities,Water,79,0.3582387353839147,Industry
-Utilities,Gas,73,0.8417857931383199,Industry
-Real Estate,Residential,28,0.5773779746989158,Industry
-Real Estate,Commercial,12,0.620067539414215,Industry
-Real Estate,Industrial,94,0.37187893364167235,Industry
-Telecommunications,Mobile,31,0.8456257739079283,Industry
-Telecommunications,Broadband,14,0.052493430014444176,Industry
-Telecommunications,Satellite,84,0.6144446531116707,Industry
-Materials,Chemicals,26,0.563694803306766,Industry
-Materials,Metals & Mining,29,0.8271925103741016,Industry
-Materials,Construction Materials,11,0.5613760055687872,Industry
-Industrials,Aerospace & Defense,56,0.39695009257126646,Industry
-Industrials,Machinery,96,0.6828858598090406,Industry
-Industrials,Industrial Services,46,0.3657202788656937,Industry
-Consumer Services,Retail,58,0.8752087957501102,Industry
-Consumer Services,Travel & Leisure,74,0.6774776323846047,Industry
-Consumer Services,Media,24,0.3779099489513782,Industry
-Transportation,Airlines,78,0.2819731626229599,Industry
-Transportation,Railroads,36,0.9703433246135849,Industry
-Transportation,Logistics,70,0.21651388105536962,Industry
+,Buskerud,637,0.3656218461201957,Overall
+Buskerud,HiTech,25,0.10373300969397015,Sector
+Buskerud,Agriculture,7,0.33155293874935676,Sector
+Buskerud,Transportation,42,0.4197729232021252,Sector
+Buskerud,Consumer_Products,19,0.8255465151277509,Sector
+Buskerud,Unassigned,79,0.9746474482157693,Sector
+Buskerud,Communication,31,0.06200372782291441,Sector
+Buskerud,Trade,76,0.2769166161405109,Sector
+Buskerud,Business_Services,14,0.4311269422572863,Sector
+Buskerud,Business_Products,65,0.6182636716506059,Sector
+Buskerud,Construction,20,0.2009143735838793,Sector
+Buskerud,Services,51,0.17116939649449514,Sector
+Buskerud,Mining,95,0.5609900810736027,Sector
+Buskerud,Health_Care,26,0.05040265123163079,Sector
+Buskerud,EnergyExpL_Prod,65,0.15657661911823317,Sector
+Buskerud,Utilities,22,0.30071077744080443,Sector

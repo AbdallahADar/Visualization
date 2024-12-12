@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,St. Louis,1788,0.7102978185531337,Overall
-St. Louis,Technology,237,0.17304039953740036,Sector
-St. Louis,Healthcare,97,0.9698396139117312,Sector
-St. Louis,Finance,188,0.6696660663157649,Sector
-St. Louis,Energy,38,0.09857219495980618,Sector
-St. Louis,Consumer Goods,151,0.9554400008927962,Sector
-St. Louis,Utilities,175,0.5015741265880712,Sector
-St. Louis,Real Estate,127,0.4778014403006535,Sector
-St. Louis,Telecommunications,113,0.5674164314088691,Sector
-St. Louis,Materials,173,0.5997291151073697,Sector
-St. Louis,Industrials,152,0.36203991928894286,Sector
-St. Louis,Consumer Services,177,0.7091562878222731,Sector
-St. Louis,Transportation,160,0.3842983891295587,Sector
-Technology,Software,62,0.7317177719428847,Industry
-Technology,Hardware,84,0.8651833776469419,Industry
-Technology,IT Services,91,0.5203614294773706,Industry
-Healthcare,Pharmaceuticals,65,0.9139125508931335,Industry
-Healthcare,Medical Devices,3,0.8411756836558258,Industry
-Healthcare,Healthcare Services,29,0.8386174171972044,Industry
-Finance,Banking,92,0.4387324030816102,Industry
-Finance,Insurance,91,0.4580891886551497,Industry
-Finance,Investment Services,5,0.273315614775537,Industry
-Energy,Oil & Gas,16,0.7089954083308435,Industry
-Energy,Renewable Energy,3,0.14684511157314273,Industry
-Energy,Energy Exploration,19,0.197791088406297,Industry
-Consumer Goods,Food & Beverage,50,0.9950187646194241,Industry
-Consumer Goods,Household Products,17,0.43315879303004323,Industry
-Consumer Goods,Apparel,84,0.568916809575635,Industry
-Utilities,Electric,65,0.037710493911588205,Industry
-Utilities,Water,96,0.607163162838413,Industry
-Utilities,Gas,14,0.4590638353399572,Industry
-Real Estate,Residential,15,0.7728771437571841,Industry
-Real Estate,Commercial,42,0.8632790928513157,Industry
-Real Estate,Industrial,70,0.3824408052291627,Industry
-Telecommunications,Mobile,73,0.611857419442896,Industry
-Telecommunications,Broadband,39,0.13439438808084048,Industry
-Telecommunications,Satellite,1,0.8740238602331513,Industry
-Materials,Chemicals,92,0.21853422682770274,Industry
-Materials,Metals & Mining,8,0.43351119844354935,Industry
-Materials,Construction Materials,73,0.6630766072877142,Industry
-Industrials,Aerospace & Defense,19,0.6228899365529821,Industry
-Industrials,Machinery,75,0.67379489549486,Industry
-Industrials,Industrial Services,58,0.6501179716403733,Industry
-Consumer Services,Retail,72,0.23882794927795992,Industry
-Consumer Services,Travel & Leisure,99,0.5574965447400434,Industry
-Consumer Services,Media,6,0.6892215392969135,Industry
-Transportation,Airlines,35,0.5013126181298178,Industry
-Transportation,Railroads,77,0.8055945963894098,Industry
-Transportation,Logistics,48,0.7310449436254701,Industry
+,St. Louis,698,0.46951742250251577,Overall
+St. Louis,HiTech,4,0.12552781333251162,Sector
+St. Louis,Agriculture,65,0.21580923034735933,Sector
+St. Louis,Transportation,73,0.05045355940239571,Sector
+St. Louis,Consumer_Products,15,0.7700828757066146,Sector
+St. Louis,Unassigned,14,0.9109528205790224,Sector
+St. Louis,Communication,83,0.3794489258614111,Sector
+St. Louis,Trade,69,0.5858271719487419,Sector
+St. Louis,Business_Services,29,0.4367377817119442,Sector
+St. Louis,Business_Products,19,0.6512297595406157,Sector
+St. Louis,Construction,18,0.3083687206562903,Sector
+St. Louis,Services,88,0.973251086070095,Sector
+St. Louis,Mining,17,0.28417476984993506,Sector
+St. Louis,Health_Care,84,0.15603473254547695,Sector
+St. Louis,EnergyExpL_Prod,60,0.2364727483776592,Sector
+St. Louis,Utilities,60,0.9583893416076635,Sector

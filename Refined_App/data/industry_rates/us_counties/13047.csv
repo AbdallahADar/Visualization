@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Catoosa,1620,0.9150019771773558,Overall
-Catoosa,Technology,76,0.9434392204127718,Sector
-Catoosa,Healthcare,174,0.14900805514480397,Sector
-Catoosa,Finance,118,0.817491130292235,Sector
-Catoosa,Energy,54,0.4475375056698617,Sector
-Catoosa,Consumer Goods,235,0.47294417334228933,Sector
-Catoosa,Utilities,48,0.11089542930934992,Sector
-Catoosa,Real Estate,122,0.0700369270213641,Sector
-Catoosa,Telecommunications,90,0.2526542459185429,Sector
-Catoosa,Materials,178,0.12918538544600633,Sector
-Catoosa,Industrials,177,0.23268043382628423,Sector
-Catoosa,Consumer Services,197,0.6598832698912546,Sector
-Catoosa,Transportation,151,0.8970685371791393,Sector
-Technology,Software,11,0.09080620695663977,Industry
-Technology,Hardware,41,0.3863566003444521,Industry
-Technology,IT Services,24,0.39820376579368144,Industry
-Healthcare,Pharmaceuticals,90,0.2189194640222446,Industry
-Healthcare,Medical Devices,24,0.6288133053350431,Industry
-Healthcare,Healthcare Services,60,0.27698185456519475,Industry
-Finance,Banking,39,0.7784759105859723,Industry
-Finance,Insurance,77,0.8134463424792718,Industry
-Finance,Investment Services,2,0.46786956177634575,Industry
-Energy,Oil & Gas,4,0.41294621289263433,Industry
-Energy,Renewable Energy,7,0.6267623976442147,Industry
-Energy,Energy Exploration,43,0.32952355795461763,Industry
-Consumer Goods,Food & Beverage,81,0.9448158268005317,Industry
-Consumer Goods,Household Products,94,0.5624143597291389,Industry
-Consumer Goods,Apparel,60,0.4965225187277482,Industry
-Utilities,Electric,10,0.9941509597331696,Industry
-Utilities,Water,9,0.03876740645183441,Industry
-Utilities,Gas,29,0.4037728950187983,Industry
-Real Estate,Residential,28,0.3668489682808226,Industry
-Real Estate,Commercial,21,0.8134689705602137,Industry
-Real Estate,Industrial,73,0.5903929192720665,Industry
-Telecommunications,Mobile,17,0.6784264285374363,Industry
-Telecommunications,Broadband,69,0.9007826913636195,Industry
-Telecommunications,Satellite,4,0.743548563884112,Industry
-Materials,Chemicals,62,0.06814942681068159,Industry
-Materials,Metals & Mining,63,0.47919254199152295,Industry
-Materials,Construction Materials,53,0.7019917912147331,Industry
-Industrials,Aerospace & Defense,72,0.8952401066438073,Industry
-Industrials,Machinery,42,0.34017846732012447,Industry
-Industrials,Industrial Services,63,0.38857685520969565,Industry
-Consumer Services,Retail,25,0.5950858579458126,Industry
-Consumer Services,Travel & Leisure,79,0.9326018883989006,Industry
-Consumer Services,Media,93,0.5796862043981977,Industry
-Transportation,Airlines,50,0.3112482547704595,Industry
-Transportation,Railroads,62,0.6177056042483385,Industry
-Transportation,Logistics,39,0.31459308083007365,Industry
+,Catoosa,989,0.613884517133108,Overall
+Catoosa,HiTech,99,0.5221243397480526,Sector
+Catoosa,Agriculture,95,0.12431747660693027,Sector
+Catoosa,Transportation,66,0.902549793678066,Sector
+Catoosa,Consumer_Products,7,0.8143995956689374,Sector
+Catoosa,Unassigned,43,0.6499379217680326,Sector
+Catoosa,Communication,31,0.5831924727800444,Sector
+Catoosa,Trade,37,0.3208000908882146,Sector
+Catoosa,Business_Services,38,0.9783953404268337,Sector
+Catoosa,Business_Products,66,0.7847001591478245,Sector
+Catoosa,Construction,86,0.8539372060053992,Sector
+Catoosa,Services,70,0.29874315083534697,Sector
+Catoosa,Mining,89,0.9067857632302835,Sector
+Catoosa,Health_Care,88,0.20247502025991726,Sector
+Catoosa,EnergyExpL_Prod,98,0.3979242591053954,Sector
+Catoosa,Utilities,76,0.8679851668473421,Sector

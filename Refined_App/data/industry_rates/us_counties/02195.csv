@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Petersburg,2160,0.6875708710643812,Overall
-Petersburg,Technology,200,0.11457815319670828,Sector
-Petersburg,Healthcare,200,0.25669364574471376,Sector
-Petersburg,Finance,157,0.9477802431436755,Sector
-Petersburg,Energy,215,0.09829240996896238,Sector
-Petersburg,Consumer Goods,167,0.07373676426126796,Sector
-Petersburg,Utilities,216,0.2828295084504405,Sector
-Petersburg,Real Estate,225,0.991780244604646,Sector
-Petersburg,Telecommunications,148,0.0623518806323724,Sector
-Petersburg,Materials,116,0.569785979978697,Sector
-Petersburg,Industrials,240,0.9388763288325991,Sector
-Petersburg,Consumer Services,129,0.8221070685332044,Sector
-Petersburg,Transportation,147,0.07608852461958149,Sector
-Technology,Software,33,0.027705089341558353,Industry
-Technology,Hardware,68,0.8414543959742011,Industry
-Technology,IT Services,99,0.3786286843467628,Industry
-Healthcare,Pharmaceuticals,65,0.9542666022778735,Industry
-Healthcare,Medical Devices,40,0.9107080237599994,Industry
-Healthcare,Healthcare Services,95,0.5071646685927759,Industry
-Finance,Banking,30,0.3857061206148854,Industry
-Finance,Insurance,51,0.49621371884707677,Industry
-Finance,Investment Services,76,0.10772709151358784,Industry
-Energy,Oil & Gas,87,0.9820440760846364,Industry
-Energy,Renewable Energy,48,0.5115732571471168,Industry
-Energy,Energy Exploration,80,0.794590210923659,Industry
-Consumer Goods,Food & Beverage,98,0.6266855738641838,Industry
-Consumer Goods,Household Products,60,0.008783065781396093,Industry
-Consumer Goods,Apparel,9,0.6293885670594801,Industry
-Utilities,Electric,73,0.4262236823997222,Industry
-Utilities,Water,48,0.17616545762980407,Industry
-Utilities,Gas,95,0.4541507061971848,Industry
-Real Estate,Residential,68,0.752941392834954,Industry
-Real Estate,Commercial,71,0.409201050544313,Industry
-Real Estate,Industrial,86,0.29648308795574985,Industry
-Telecommunications,Mobile,33,0.39864686266274907,Industry
-Telecommunications,Broadband,86,0.9388220940774088,Industry
-Telecommunications,Satellite,29,0.3105812235584241,Industry
-Materials,Chemicals,22,0.20623566339826738,Industry
-Materials,Metals & Mining,52,0.538495724010283,Industry
-Materials,Construction Materials,42,0.6826017094268186,Industry
-Industrials,Aerospace & Defense,62,0.07669477224555232,Industry
-Industrials,Machinery,85,0.6256130913106158,Industry
-Industrials,Industrial Services,93,0.16592770048442296,Industry
-Consumer Services,Retail,85,0.7895195332558715,Industry
-Consumer Services,Travel & Leisure,28,0.7954557069858372,Industry
-Consumer Services,Media,16,0.22877654645244272,Industry
-Transportation,Airlines,46,0.9137646984508102,Industry
-Transportation,Railroads,86,0.11511451794666772,Industry
-Transportation,Logistics,15,0.22504687756824204,Industry
+,Petersburg,699,0.5706341057922596,Overall
+Petersburg,HiTech,99,0.1768643916881013,Sector
+Petersburg,Agriculture,11,0.9894449300453927,Sector
+Petersburg,Transportation,61,0.665640160467177,Sector
+Petersburg,Consumer_Products,39,0.41426513872296344,Sector
+Petersburg,Unassigned,49,0.40289306956404036,Sector
+Petersburg,Communication,59,0.7704914095557611,Sector
+Petersburg,Trade,75,0.40748859917291247,Sector
+Petersburg,Business_Services,75,0.9751602104959423,Sector
+Petersburg,Business_Products,4,0.5685974864860885,Sector
+Petersburg,Construction,88,0.9302106439053476,Sector
+Petersburg,Services,3,0.8487560428554486,Sector
+Petersburg,Mining,42,0.006491899823773295,Sector
+Petersburg,Health_Care,59,0.5435762227078021,Sector
+Petersburg,EnergyExpL_Prod,0,0.6442969987617194,Sector
+Petersburg,Utilities,35,0.21533438263142202,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hartford,1828,0.6464617335090158,Overall
-Hartford,Technology,214,0.8157127855183858,Sector
-Hartford,Healthcare,152,0.5739412162112246,Sector
-Hartford,Finance,205,0.7841051790024488,Sector
-Hartford,Energy,176,0.5173475964399961,Sector
-Hartford,Consumer Goods,82,0.46606834336664116,Sector
-Hartford,Utilities,199,0.4200774553542429,Sector
-Hartford,Real Estate,186,0.43582417031127174,Sector
-Hartford,Telecommunications,129,0.1658800713109867,Sector
-Hartford,Materials,109,0.911060660486109,Sector
-Hartford,Industrials,57,0.05754937484665701,Sector
-Hartford,Consumer Services,94,0.7343275746431597,Sector
-Hartford,Transportation,225,0.7113915336139055,Sector
-Technology,Software,99,0.061888997924924194,Industry
-Technology,Hardware,51,0.9728413791015476,Industry
-Technology,IT Services,64,0.8900863837286281,Industry
-Healthcare,Pharmaceuticals,39,0.46018544642159964,Industry
-Healthcare,Medical Devices,26,0.7156360368511222,Industry
-Healthcare,Healthcare Services,87,0.8421131403387645,Industry
-Finance,Banking,31,0.2235350072429525,Industry
-Finance,Insurance,79,0.6287051399266287,Industry
-Finance,Investment Services,95,0.2981242376569364,Industry
-Energy,Oil & Gas,84,0.24988677047350538,Industry
-Energy,Renewable Energy,70,0.7829611233673638,Industry
-Energy,Energy Exploration,22,0.3464478607569933,Industry
-Consumer Goods,Food & Beverage,27,0.23035006729429808,Industry
-Consumer Goods,Household Products,49,0.8876223280555247,Industry
-Consumer Goods,Apparel,6,0.5610460330848432,Industry
-Utilities,Electric,52,0.35174674494621994,Industry
-Utilities,Water,67,0.7571072875688688,Industry
-Utilities,Gas,80,0.9070539009611274,Industry
-Real Estate,Residential,93,0.38512460308167085,Industry
-Real Estate,Commercial,47,0.48200728804451687,Industry
-Real Estate,Industrial,46,0.828457712034673,Industry
-Telecommunications,Mobile,0,0.21034803899036947,Industry
-Telecommunications,Broadband,77,0.9865040567853287,Industry
-Telecommunications,Satellite,52,0.10533554917134991,Industry
-Materials,Chemicals,42,0.319094433287445,Industry
-Materials,Metals & Mining,21,0.9895009753619484,Industry
-Materials,Construction Materials,46,0.1782861530399824,Industry
-Industrials,Aerospace & Defense,10,0.9928017121383319,Industry
-Industrials,Machinery,42,0.1296000815066004,Industry
-Industrials,Industrial Services,5,0.6351462527153339,Industry
-Consumer Services,Retail,0,0.5453950387073003,Industry
-Consumer Services,Travel & Leisure,93,0.5780269847818269,Industry
-Consumer Services,Media,1,0.8465238226693931,Industry
-Transportation,Airlines,99,0.3208092983095635,Industry
-Transportation,Railroads,81,0.49744989465656764,Industry
-Transportation,Logistics,45,0.5649334401812373,Industry
+,Hartford,915,0.5130248981011623,Overall
+Hartford,HiTech,66,0.5783762183507863,Sector
+Hartford,Agriculture,37,0.6885455530047627,Sector
+Hartford,Transportation,77,0.9708875434456845,Sector
+Hartford,Consumer_Products,74,0.9235961712177431,Sector
+Hartford,Unassigned,31,0.3970851208149626,Sector
+Hartford,Communication,3,0.01754469851488294,Sector
+Hartford,Trade,87,0.5157556277132309,Sector
+Hartford,Business_Services,35,0.7182690983815484,Sector
+Hartford,Business_Products,81,0.38211445646396314,Sector
+Hartford,Construction,60,0.37113948997120527,Sector
+Hartford,Services,61,0.7785070578758854,Sector
+Hartford,Mining,77,0.5082684045872072,Sector
+Hartford,Health_Care,99,0.13897304157926038,Sector
+Hartford,EnergyExpL_Prod,47,0.6634930352602861,Sector
+Hartford,Utilities,80,0.042817954336024644,Sector

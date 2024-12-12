@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Svalbard,1926,0.8576320607200397,Overall
-Svalbard,Technology,151,0.9990295269482373,Sector
-Svalbard,Healthcare,122,0.8985874115031288,Sector
-Svalbard,Finance,129,0.771554557912619,Sector
-Svalbard,Energy,159,0.21950713059036586,Sector
-Svalbard,Consumer Goods,161,0.3834645124289061,Sector
-Svalbard,Utilities,264,0.3398704070239218,Sector
-Svalbard,Real Estate,163,0.5001169089104046,Sector
-Svalbard,Telecommunications,165,0.29368655748741535,Sector
-Svalbard,Materials,121,0.5868834514547934,Sector
-Svalbard,Industrials,154,0.12489486340834954,Sector
-Svalbard,Consumer Services,202,0.532745567315038,Sector
-Svalbard,Transportation,135,0.3804374408630554,Sector
-Technology,Software,32,0.4007978254526764,Industry
-Technology,Hardware,74,0.19676178895169838,Industry
-Technology,IT Services,45,0.14638819357890065,Industry
-Healthcare,Pharmaceuticals,39,0.25867631826244974,Industry
-Healthcare,Medical Devices,54,0.7855355522252732,Industry
-Healthcare,Healthcare Services,29,0.4745550133959139,Industry
-Finance,Banking,36,0.14235237325706473,Industry
-Finance,Insurance,58,0.003275593966478363,Industry
-Finance,Investment Services,35,0.6724580547714644,Industry
-Energy,Oil & Gas,1,0.16832391680741698,Industry
-Energy,Renewable Energy,60,0.05568688720563997,Industry
-Energy,Energy Exploration,98,0.9612049884455107,Industry
-Consumer Goods,Food & Beverage,64,0.16863788984643324,Industry
-Consumer Goods,Household Products,92,0.9104575985476899,Industry
-Consumer Goods,Apparel,5,0.20887356550458847,Industry
-Utilities,Electric,95,0.7941900022680359,Industry
-Utilities,Water,97,0.12566805519132995,Industry
-Utilities,Gas,72,0.15720244753078527,Industry
-Real Estate,Residential,79,0.6152676066150382,Industry
-Real Estate,Commercial,35,0.26472351802956917,Industry
-Real Estate,Industrial,49,0.33376199354115743,Industry
-Telecommunications,Mobile,83,0.6121858953784266,Industry
-Telecommunications,Broadband,54,0.677125585904742,Industry
-Telecommunications,Satellite,28,0.09523191388126995,Industry
-Materials,Chemicals,42,0.2596034882396827,Industry
-Materials,Metals & Mining,79,0.9277546898406872,Industry
-Materials,Construction Materials,0,0.09670497736931816,Industry
-Industrials,Aerospace & Defense,91,0.004011723463457573,Industry
-Industrials,Machinery,12,0.40042657992346786,Industry
-Industrials,Industrial Services,51,0.9083063856441458,Industry
-Consumer Services,Retail,80,0.11034766671365326,Industry
-Consumer Services,Travel & Leisure,38,0.9437222141417019,Industry
-Consumer Services,Media,84,0.22850511586421363,Industry
-Transportation,Airlines,11,0.5896471709898579,Industry
-Transportation,Railroads,80,0.020343760810832112,Industry
-Transportation,Logistics,44,0.41645101248061756,Industry
+,Svalbard,693,0.3670519030784772,Overall
+Svalbard,HiTech,64,0.520755841226231,Sector
+Svalbard,Agriculture,5,0.5812395653596139,Sector
+Svalbard,Transportation,5,0.5553470822144742,Sector
+Svalbard,Consumer_Products,76,0.10921158547360843,Sector
+Svalbard,Unassigned,92,0.6847693242159721,Sector
+Svalbard,Communication,65,0.19295013337504607,Sector
+Svalbard,Trade,18,0.4000442903650331,Sector
+Svalbard,Business_Services,83,0.4657743645884116,Sector
+Svalbard,Business_Products,1,0.3739185764528302,Sector
+Svalbard,Construction,23,0.34266201099246285,Sector
+Svalbard,Services,65,0.05146468785328817,Sector
+Svalbard,Mining,5,0.4560130128905414,Sector
+Svalbard,Health_Care,54,0.5539394692754961,Sector
+Svalbard,EnergyExpL_Prod,60,0.10588583586592049,Sector
+Svalbard,Utilities,77,0.11180276602822858,Sector

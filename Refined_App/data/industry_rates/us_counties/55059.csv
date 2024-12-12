@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kenosha,1714,0.37936542833086595,Overall
-Kenosha,Technology,160,0.040340836153839765,Sector
-Kenosha,Healthcare,137,0.26221687678946415,Sector
-Kenosha,Finance,197,0.7105216932619446,Sector
-Kenosha,Energy,225,0.9362756070306341,Sector
-Kenosha,Consumer Goods,84,0.0171325978444401,Sector
-Kenosha,Utilities,120,0.6807306101813677,Sector
-Kenosha,Real Estate,99,0.8657696937137623,Sector
-Kenosha,Telecommunications,56,0.3070439176290216,Sector
-Kenosha,Materials,195,0.2947426245664956,Sector
-Kenosha,Industrials,117,0.832034821970602,Sector
-Kenosha,Consumer Services,126,0.24266294739923033,Sector
-Kenosha,Transportation,198,0.036867005483631865,Sector
-Technology,Software,19,0.7986565210280456,Industry
-Technology,Hardware,51,0.8487965387518422,Industry
-Technology,IT Services,90,0.58718449569754,Industry
-Healthcare,Pharmaceuticals,78,0.03196851474191564,Industry
-Healthcare,Medical Devices,11,0.6027650629197074,Industry
-Healthcare,Healthcare Services,48,0.7481971487432116,Industry
-Finance,Banking,86,0.7745438173551114,Industry
-Finance,Insurance,59,0.21718541612478415,Industry
-Finance,Investment Services,52,0.8850516950696506,Industry
-Energy,Oil & Gas,93,0.7180808001013308,Industry
-Energy,Renewable Energy,89,0.2258563219351145,Industry
-Energy,Energy Exploration,43,0.3573403093052391,Industry
-Consumer Goods,Food & Beverage,30,0.251880511014535,Industry
-Consumer Goods,Household Products,51,0.04866845767206873,Industry
-Consumer Goods,Apparel,3,0.032997581405818655,Industry
-Utilities,Electric,65,0.09358056317421659,Industry
-Utilities,Water,39,0.4671739127135486,Industry
-Utilities,Gas,16,0.18436211305694328,Industry
-Real Estate,Residential,40,0.6524573851720428,Industry
-Real Estate,Commercial,55,0.034717516180306385,Industry
-Real Estate,Industrial,4,0.2550778636068859,Industry
-Telecommunications,Mobile,5,0.6991733875969991,Industry
-Telecommunications,Broadband,42,0.8675895223517851,Industry
-Telecommunications,Satellite,9,0.10220790744923125,Industry
-Materials,Chemicals,98,0.4520895185269792,Industry
-Materials,Metals & Mining,69,0.012273129271817673,Industry
-Materials,Construction Materials,28,0.47795448980923616,Industry
-Industrials,Aerospace & Defense,26,0.3593221021147005,Industry
-Industrials,Machinery,23,0.09713718853280628,Industry
-Industrials,Industrial Services,68,0.8815462806861019,Industry
-Consumer Services,Retail,18,0.20973452603849851,Industry
-Consumer Services,Travel & Leisure,54,0.1167024469579161,Industry
-Consumer Services,Media,54,0.04012737680963008,Industry
-Transportation,Airlines,99,0.3921639932252857,Industry
-Transportation,Railroads,5,0.0943445816079973,Industry
-Transportation,Logistics,94,0.2818267446854055,Industry
+,Kenosha,695,0.4447632260683785,Overall
+Kenosha,HiTech,46,0.2817891143466055,Sector
+Kenosha,Agriculture,69,0.42237139181030026,Sector
+Kenosha,Transportation,79,0.9904748716980043,Sector
+Kenosha,Consumer_Products,76,0.17283366583012583,Sector
+Kenosha,Unassigned,21,0.49668437566071166,Sector
+Kenosha,Communication,19,0.37317396383733314,Sector
+Kenosha,Trade,47,0.4929008779584967,Sector
+Kenosha,Business_Services,89,0.9989206983224634,Sector
+Kenosha,Business_Products,52,0.7186023702089784,Sector
+Kenosha,Construction,12,0.10674531940434728,Sector
+Kenosha,Services,25,0.7353446681450188,Sector
+Kenosha,Mining,39,0.2723378959531576,Sector
+Kenosha,Health_Care,53,0.41058898037987956,Sector
+Kenosha,EnergyExpL_Prod,40,0.09942683573224498,Sector
+Kenosha,Utilities,28,0.09925336173800947,Sector

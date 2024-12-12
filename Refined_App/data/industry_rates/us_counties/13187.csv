@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lumpkin,1951,0.9230655880603573,Overall
-Lumpkin,Technology,227,0.3639394217876689,Sector
-Lumpkin,Healthcare,128,0.7686560289091543,Sector
-Lumpkin,Finance,212,0.4465650265990134,Sector
-Lumpkin,Energy,212,0.15596745242983523,Sector
-Lumpkin,Consumer Goods,201,0.5970952788752124,Sector
-Lumpkin,Utilities,203,0.5990780684775361,Sector
-Lumpkin,Real Estate,81,0.4798257588585758,Sector
-Lumpkin,Telecommunications,34,0.4801373038667033,Sector
-Lumpkin,Materials,131,0.5947384891643671,Sector
-Lumpkin,Industrials,197,0.8259754150954944,Sector
-Lumpkin,Consumer Services,151,0.42916338297172296,Sector
-Lumpkin,Transportation,174,0.9729802358481594,Sector
-Technology,Software,63,0.19549704292502157,Industry
-Technology,Hardware,99,0.2510065370344564,Industry
-Technology,IT Services,65,0.06578425292098289,Industry
-Healthcare,Pharmaceuticals,26,0.8071225213269794,Industry
-Healthcare,Medical Devices,72,0.4658088789570357,Industry
-Healthcare,Healthcare Services,30,0.73780918568924,Industry
-Finance,Banking,67,0.16357034981558805,Industry
-Finance,Insurance,51,0.1413581573271694,Industry
-Finance,Investment Services,94,0.9402756991182927,Industry
-Energy,Oil & Gas,82,0.13164423099627143,Industry
-Energy,Renewable Energy,47,0.1282035418996217,Industry
-Energy,Energy Exploration,83,0.8754624218658797,Industry
-Consumer Goods,Food & Beverage,52,0.6514276894669573,Industry
-Consumer Goods,Household Products,59,0.9353520515761455,Industry
-Consumer Goods,Apparel,90,0.5969296443471852,Industry
-Utilities,Electric,97,0.9735060305164276,Industry
-Utilities,Water,71,0.8205381161925268,Industry
-Utilities,Gas,35,0.48811934918302535,Industry
-Real Estate,Residential,11,0.1705334878557323,Industry
-Real Estate,Commercial,12,0.8775220535624555,Industry
-Real Estate,Industrial,58,0.4704283481204601,Industry
-Telecommunications,Mobile,28,0.1380825229547621,Industry
-Telecommunications,Broadband,6,0.4583115237213159,Industry
-Telecommunications,Satellite,0,0.330548362916239,Industry
-Materials,Chemicals,1,0.857351427407611,Industry
-Materials,Metals & Mining,90,0.5474414675741683,Industry
-Materials,Construction Materials,40,0.7947379935388225,Industry
-Industrials,Aerospace & Defense,99,0.851399782048119,Industry
-Industrials,Machinery,11,0.3932279682564134,Industry
-Industrials,Industrial Services,87,0.8740959598948828,Industry
-Consumer Services,Retail,21,0.13416580713750925,Industry
-Consumer Services,Travel & Leisure,89,0.03293587140685461,Industry
-Consumer Services,Media,41,0.4318625543808694,Industry
-Transportation,Airlines,30,0.7385561603592307,Industry
-Transportation,Railroads,85,0.8487535620545531,Industry
-Transportation,Logistics,59,0.30724705715976786,Industry
+,Lumpkin,740,0.6010479410019175,Overall
+Lumpkin,HiTech,4,0.47566056485035835,Sector
+Lumpkin,Agriculture,64,0.6955640280016093,Sector
+Lumpkin,Transportation,93,0.7781714800600035,Sector
+Lumpkin,Consumer_Products,24,0.5694134206454833,Sector
+Lumpkin,Unassigned,85,0.8520320898453948,Sector
+Lumpkin,Communication,61,0.961915895413127,Sector
+Lumpkin,Trade,28,0.21328983405924384,Sector
+Lumpkin,Business_Services,45,0.4072919357952328,Sector
+Lumpkin,Business_Products,26,0.8100551385147879,Sector
+Lumpkin,Construction,39,0.7196656936293621,Sector
+Lumpkin,Services,99,0.6212040081620093,Sector
+Lumpkin,Mining,58,0.7187682961384411,Sector
+Lumpkin,Health_Care,27,0.36132528713659895,Sector
+Lumpkin,EnergyExpL_Prod,76,0.6676394572302903,Sector
+Lumpkin,Utilities,11,0.16372198554682071,Sector

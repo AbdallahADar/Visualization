@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Talbot,1667,0.16523863250294635,Overall
-Talbot,Technology,173,0.795888819017776,Sector
-Talbot,Healthcare,172,0.36345706007213197,Sector
-Talbot,Finance,115,0.41439310655419925,Sector
-Talbot,Energy,73,0.8928135864940675,Sector
-Talbot,Consumer Goods,174,0.07951657755971497,Sector
-Talbot,Utilities,206,0.0032664405213791436,Sector
-Talbot,Real Estate,152,0.23153550231055864,Sector
-Talbot,Telecommunications,193,0.895080160640677,Sector
-Talbot,Materials,48,0.1587383830259218,Sector
-Talbot,Industrials,109,0.3604240556666448,Sector
-Talbot,Consumer Services,83,0.7535648723551858,Sector
-Talbot,Transportation,169,0.21063156940320427,Sector
-Technology,Software,92,0.09504437961192169,Industry
-Technology,Hardware,67,0.056939123226011024,Industry
-Technology,IT Services,14,0.5966752263540611,Industry
-Healthcare,Pharmaceuticals,84,0.7801325616893146,Industry
-Healthcare,Medical Devices,32,0.40600253014487175,Industry
-Healthcare,Healthcare Services,56,0.5628530435503905,Industry
-Finance,Banking,25,0.6678946444805932,Industry
-Finance,Insurance,76,0.384449597816247,Industry
-Finance,Investment Services,14,0.5091036367552204,Industry
-Energy,Oil & Gas,37,0.5401209886476677,Industry
-Energy,Renewable Energy,21,0.7291540544307011,Industry
-Energy,Energy Exploration,15,0.7533255782403955,Industry
-Consumer Goods,Food & Beverage,81,0.854626059135218,Industry
-Consumer Goods,Household Products,19,0.5067828419338655,Industry
-Consumer Goods,Apparel,74,0.09073108496308335,Industry
-Utilities,Electric,97,0.6728042306466047,Industry
-Utilities,Water,32,0.09944153427912483,Industry
-Utilities,Gas,77,0.9195966357822918,Industry
-Real Estate,Residential,85,0.8417308528679275,Industry
-Real Estate,Commercial,19,0.4041516515166844,Industry
-Real Estate,Industrial,48,0.9760361981760557,Industry
-Telecommunications,Mobile,60,0.7890435286020677,Industry
-Telecommunications,Broadband,55,0.14270517965934248,Industry
-Telecommunications,Satellite,78,0.3852848979192609,Industry
-Materials,Chemicals,28,0.9018197191475416,Industry
-Materials,Metals & Mining,13,0.737431896335457,Industry
-Materials,Construction Materials,7,0.3425883004988691,Industry
-Industrials,Aerospace & Defense,65,0.7768974985774519,Industry
-Industrials,Machinery,20,0.06654747962934093,Industry
-Industrials,Industrial Services,24,0.36567913242201366,Industry
-Consumer Services,Retail,4,0.8684878716499141,Industry
-Consumer Services,Travel & Leisure,39,0.004864483560908628,Industry
-Consumer Services,Media,40,0.014350863802625513,Industry
-Transportation,Airlines,47,0.8844309192408576,Industry
-Transportation,Railroads,84,0.6785980823397681,Industry
-Transportation,Logistics,38,0.08014323673120316,Industry
+,Talbot,836,0.48979083951931396,Overall
+Talbot,HiTech,67,0.7040060519987421,Sector
+Talbot,Agriculture,87,0.2622500536902137,Sector
+Talbot,Transportation,91,0.5104511690684136,Sector
+Talbot,Consumer_Products,94,0.44286974914091626,Sector
+Talbot,Unassigned,65,0.463872223673538,Sector
+Talbot,Communication,17,0.3576277256752378,Sector
+Talbot,Trade,19,0.6584420738826934,Sector
+Talbot,Business_Services,48,0.40724071827220876,Sector
+Talbot,Business_Products,8,0.12505288035973205,Sector
+Talbot,Construction,92,0.5598110525928701,Sector
+Talbot,Services,61,0.5814373927438631,Sector
+Talbot,Mining,24,0.9320079703876673,Sector
+Talbot,Health_Care,81,0.1225605594028627,Sector
+Talbot,EnergyExpL_Prod,2,0.47376230127915475,Sector
+Talbot,Utilities,80,0.7454706706215958,Sector

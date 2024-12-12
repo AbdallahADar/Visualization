@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fajardo,1589,0.006551921558464735,Overall
-Fajardo,Technology,82,0.4128988268145367,Sector
-Fajardo,Healthcare,134,0.8110965614058604,Sector
-Fajardo,Finance,122,0.6179637429859386,Sector
-Fajardo,Energy,77,0.08464073252319027,Sector
-Fajardo,Consumer Goods,127,0.9521441985533748,Sector
-Fajardo,Utilities,95,0.9088207573476097,Sector
-Fajardo,Real Estate,125,0.5537419844722044,Sector
-Fajardo,Telecommunications,122,0.6256544586878044,Sector
-Fajardo,Materials,185,0.29666891328641976,Sector
-Fajardo,Industrials,233,0.8945997166862603,Sector
-Fajardo,Consumer Services,161,0.2196088100060818,Sector
-Fajardo,Transportation,126,0.9264233463470712,Sector
-Technology,Software,1,0.9445216013938619,Industry
-Technology,Hardware,67,0.7603645000441319,Industry
-Technology,IT Services,14,0.9559080047154405,Industry
-Healthcare,Pharmaceuticals,88,0.11070589594458335,Industry
-Healthcare,Medical Devices,33,0.610816996919393,Industry
-Healthcare,Healthcare Services,13,0.24963780571833027,Industry
-Finance,Banking,28,0.16647727064827977,Industry
-Finance,Insurance,23,0.1394408877367036,Industry
-Finance,Investment Services,71,0.6473570196069751,Industry
-Energy,Oil & Gas,0,0.020632538360127017,Industry
-Energy,Renewable Energy,10,0.467900272300495,Industry
-Energy,Energy Exploration,67,0.8284027614565896,Industry
-Consumer Goods,Food & Beverage,12,0.35009559506444177,Industry
-Consumer Goods,Household Products,36,0.957798314097832,Industry
-Consumer Goods,Apparel,79,0.3236597111200754,Industry
-Utilities,Electric,59,0.28706291997054534,Industry
-Utilities,Water,21,0.41996666135230676,Industry
-Utilities,Gas,15,0.3875469821985279,Industry
-Real Estate,Residential,61,0.6949170330553012,Industry
-Real Estate,Commercial,14,0.8529950365300233,Industry
-Real Estate,Industrial,50,0.9030512307278825,Industry
-Telecommunications,Mobile,27,0.8336702829857634,Industry
-Telecommunications,Broadband,68,0.7210237977087044,Industry
-Telecommunications,Satellite,27,0.9104695712190758,Industry
-Materials,Chemicals,74,0.7464532226404238,Industry
-Materials,Metals & Mining,54,0.8828447349826213,Industry
-Materials,Construction Materials,57,0.18373151736995896,Industry
-Industrials,Aerospace & Defense,78,0.2942144872790905,Industry
-Industrials,Machinery,97,0.41029769752276724,Industry
-Industrials,Industrial Services,58,0.08586159195406373,Industry
-Consumer Services,Retail,59,0.6441287493959078,Industry
-Consumer Services,Travel & Leisure,7,0.6341999089629708,Industry
-Consumer Services,Media,95,0.8885744876825387,Industry
-Transportation,Airlines,39,0.08937213648737385,Industry
-Transportation,Railroads,20,0.37185041931300966,Industry
-Transportation,Logistics,67,0.8619571359719918,Industry
+,Fajardo,745,0.5289527038955414,Overall
+Fajardo,HiTech,27,0.12842991052916364,Sector
+Fajardo,Agriculture,28,0.16057245436698098,Sector
+Fajardo,Transportation,32,0.45935191848629153,Sector
+Fajardo,Consumer_Products,46,0.16737846107470788,Sector
+Fajardo,Unassigned,49,0.3691161677731003,Sector
+Fajardo,Communication,99,0.8626320800612715,Sector
+Fajardo,Trade,16,0.9881229106815353,Sector
+Fajardo,Business_Services,86,0.5059252898426498,Sector
+Fajardo,Business_Products,28,0.7150957777881606,Sector
+Fajardo,Construction,99,0.1953939351523073,Sector
+Fajardo,Services,76,0.7977891461613323,Sector
+Fajardo,Mining,9,0.42635577982859474,Sector
+Fajardo,Health_Care,47,0.5611873116090389,Sector
+Fajardo,EnergyExpL_Prod,80,0.7876345464359529,Sector
+Fajardo,Utilities,23,0.8093048686420315,Sector

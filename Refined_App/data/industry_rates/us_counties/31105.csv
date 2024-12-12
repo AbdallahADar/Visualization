@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kimball,1688,0.669721059385241,Overall
-Kimball,Technology,99,0.056129072647639,Sector
-Kimball,Healthcare,176,0.13420811197610227,Sector
-Kimball,Finance,67,0.43903268700907294,Sector
-Kimball,Energy,217,0.8623779656257252,Sector
-Kimball,Consumer Goods,81,0.6910405982579605,Sector
-Kimball,Utilities,233,0.556711626138101,Sector
-Kimball,Real Estate,162,0.8435727630171905,Sector
-Kimball,Telecommunications,50,0.24635625251367044,Sector
-Kimball,Materials,127,0.4985193725878304,Sector
-Kimball,Industrials,247,0.11292621475591802,Sector
-Kimball,Consumer Services,117,0.014755542394923937,Sector
-Kimball,Transportation,112,0.7355799283603469,Sector
-Technology,Software,78,0.42648066550235486,Industry
-Technology,Hardware,21,0.8600406193474714,Industry
-Technology,IT Services,0,0.45891989399727695,Industry
-Healthcare,Pharmaceuticals,56,0.7762015471886949,Industry
-Healthcare,Medical Devices,35,0.61929432768989,Industry
-Healthcare,Healthcare Services,85,0.13698479375342554,Industry
-Finance,Banking,42,0.9597804476959397,Industry
-Finance,Insurance,3,0.07597941415059883,Industry
-Finance,Investment Services,22,0.20589746219950167,Industry
-Energy,Oil & Gas,42,0.39402034734440017,Industry
-Energy,Renewable Energy,96,0.3061822424168257,Industry
-Energy,Energy Exploration,79,0.0020436974480763093,Industry
-Consumer Goods,Food & Beverage,5,0.8275812969385282,Industry
-Consumer Goods,Household Products,32,0.2325249900537274,Industry
-Consumer Goods,Apparel,44,0.8096580504627093,Industry
-Utilities,Electric,83,0.12613578547615,Industry
-Utilities,Water,90,0.16444915906892077,Industry
-Utilities,Gas,60,0.06945338084943642,Industry
-Real Estate,Residential,60,0.19091439351627626,Industry
-Real Estate,Commercial,57,0.6069080975247259,Industry
-Real Estate,Industrial,45,0.48973987994893475,Industry
-Telecommunications,Mobile,11,0.35965788940908505,Industry
-Telecommunications,Broadband,35,0.3101481646422255,Industry
-Telecommunications,Satellite,4,0.5394681717595301,Industry
-Materials,Chemicals,45,0.38625537509005725,Industry
-Materials,Metals & Mining,69,0.7757076344516592,Industry
-Materials,Construction Materials,13,0.10810837974924747,Industry
-Industrials,Aerospace & Defense,66,0.959976154636189,Industry
-Industrials,Machinery,85,0.4261746577636465,Industry
-Industrials,Industrial Services,96,0.6308920448116481,Industry
-Consumer Services,Retail,55,0.3964903578644262,Industry
-Consumer Services,Travel & Leisure,46,0.7508100385725633,Industry
-Consumer Services,Media,16,0.6433122937411876,Industry
-Transportation,Airlines,67,0.33349550127188365,Industry
-Transportation,Railroads,33,0.9752718849513364,Industry
-Transportation,Logistics,12,0.6779797017870771,Industry
+,Kimball,882,0.5174102163371069,Overall
+Kimball,HiTech,65,0.21705158087686482,Sector
+Kimball,Agriculture,72,0.9321103838378213,Sector
+Kimball,Transportation,76,0.6985929416636121,Sector
+Kimball,Consumer_Products,85,0.39967784661550343,Sector
+Kimball,Unassigned,87,0.8564771682849146,Sector
+Kimball,Communication,95,0.6373053388422985,Sector
+Kimball,Trade,48,0.4374486725882367,Sector
+Kimball,Business_Services,55,0.9755226038267505,Sector
+Kimball,Business_Products,27,0.22014947441235577,Sector
+Kimball,Construction,60,0.37127357165708974,Sector
+Kimball,Services,75,0.08944914854314723,Sector
+Kimball,Mining,34,0.1689366408270162,Sector
+Kimball,Health_Care,68,0.7919704331672027,Sector
+Kimball,EnergyExpL_Prod,1,0.13915544883338726,Sector
+Kimball,Utilities,34,0.8260319910804026,Sector

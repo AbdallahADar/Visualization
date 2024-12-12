@@ -16,10 +16,10 @@ narrative = '''This firm belongs in the high propensity for growth and medium pr
 ## Table styling
 # Cell styling rules for conditional coloring
 cell_styling_func = [
-    {"condition": "params.value === '1High'", "style": {"backgroundColor": "Green", 'color': 'Green'}},
-    {"condition": "params.value === '2Medium-High'", "style": {"backgroundColor": "Yellow", 'color': 'Yellow'}},
-    {"condition": "params.value === '3Medium-Low'", "style": {"backgroundColor": "Orange", 'color': 'Orange'}},
-    {"condition": "params.value === '4Low'", "style": {"backgroundColor": "Red", 'color': 'Red'}},
+    {"condition": "params.value === '1High'", "style": {"backgroundColor": "#0046BF", 'color': '#0046BF'}},
+    {"condition": "params.value === '2Medium-High'", "style": {"backgroundColor": "#669EFF", 'color': '#669EFF'}},
+    {"condition": "params.value === '3Medium-Low'", "style": {"backgroundColor": "#99BFFF", 'color': '#99BFFF'}},
+    {"condition": "params.value === '4Low'", "style": {"backgroundColor": "#CCDFFF", 'color': '#CCDFFF'}},
 ]
 
 ## Start page styling
@@ -161,25 +161,25 @@ custom_color_map_101 = [[i,j] for i,j in zip(np.linspace(0,1,len(color_hex_101))
 
 # Define category colors
 category_colors = {
-    'Green': 'Green',
-    'Yellow': 'Yellow',
-    'Red': 'Red',
-    'Orange': 'Orange',
+    'Green': '#0046BF',
+    'Yellow': '#669EFF',
+    'Red': '#CCDFFF',
+    'Orange': '#99BFFF',
     'Selected': '#000000'  # Black for selected state
 }
 
 category_colors_labels = {
-    'H': 'Green',
-    'MH': 'Yellow',
-    'L': 'Red',
-    'ML': 'Orange',
+    'H': '#0046BF',
+    'MH': '#669EFF',
+    'L': '#CCDFFF',
+    'ML': '#99BFFF',
 }
 
 category_colors_labels_full = {
-    'High': 'Green',
-    'Medium-High': 'Yellow',
-    'Low': 'Red',
-    'Medium-Low': 'Orange',
+    'High': '#0046BF',
+    'Medium-High': '#669EFF',
+    'Low': '#CCDFFF',
+    'Medium-Low': '#99BFFF',
 }
 
 # Ratio categories
@@ -578,10 +578,10 @@ BACKGROUND_COLOR = '#e8f4f8'
 
 # Define category colors
 category_colors = {
-    'Green': '#00FF00',
-    'Yellow': '#FFFF00',
-    'Red': '#FF0000',
-    'Orange': '#FFA500',
+    'Green': '#0046BF',
+    'Yellow': '#669EFF',
+    'Red': '#CCDFFF',
+    'Orange': '#99BFFF',
     'Selected': '#000000'  # Black for selected state
 }
 

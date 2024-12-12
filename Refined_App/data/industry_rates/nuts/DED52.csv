@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Leipzig,1543,0.9008760557145151,Overall
-Leipzig,Technology,165,0.42686707794976597,Sector
-Leipzig,Healthcare,127,0.23937360557311982,Sector
-Leipzig,Finance,101,0.32348763117410095,Sector
-Leipzig,Energy,60,0.6645812860640281,Sector
-Leipzig,Consumer Goods,50,0.6423128771735002,Sector
-Leipzig,Utilities,101,0.5838492097164225,Sector
-Leipzig,Real Estate,85,0.1995458535829603,Sector
-Leipzig,Telecommunications,122,0.22004972939042067,Sector
-Leipzig,Materials,101,0.7697822318980341,Sector
-Leipzig,Industrials,214,0.4433620444378583,Sector
-Leipzig,Consumer Services,262,0.8863298400522591,Sector
-Leipzig,Transportation,155,0.37632131491380083,Sector
-Technology,Software,90,0.09003733591733643,Industry
-Technology,Hardware,0,0.5474621098323362,Industry
-Technology,IT Services,75,0.7199904625368777,Industry
-Healthcare,Pharmaceuticals,4,0.33248734496353394,Industry
-Healthcare,Medical Devices,78,0.37233352822226584,Industry
-Healthcare,Healthcare Services,45,0.4720324928544557,Industry
-Finance,Banking,93,0.8129674477104742,Industry
-Finance,Insurance,3,0.1604024948496815,Industry
-Finance,Investment Services,5,0.1818347181387716,Industry
-Energy,Oil & Gas,9,0.34187025606035293,Industry
-Energy,Renewable Energy,24,0.18919660796872229,Industry
-Energy,Energy Exploration,27,0.9290599316336826,Industry
-Consumer Goods,Food & Beverage,6,0.1714584003150702,Industry
-Consumer Goods,Household Products,7,0.03696812581723019,Industry
-Consumer Goods,Apparel,37,0.4843400573554858,Industry
-Utilities,Electric,13,0.6365156754672717,Industry
-Utilities,Water,69,0.5612312765939139,Industry
-Utilities,Gas,19,0.5468999468758954,Industry
-Real Estate,Residential,24,0.37842470139994444,Industry
-Real Estate,Commercial,1,0.634599902919938,Industry
-Real Estate,Industrial,60,0.03315345047171714,Industry
-Telecommunications,Mobile,58,0.8156196775376507,Industry
-Telecommunications,Broadband,63,0.4968414726805753,Industry
-Telecommunications,Satellite,1,0.26028124130556063,Industry
-Materials,Chemicals,49,0.4438370762416163,Industry
-Materials,Metals & Mining,16,0.40985528322505227,Industry
-Materials,Construction Materials,36,0.5742079026027843,Industry
-Industrials,Aerospace & Defense,38,0.26779945874474664,Industry
-Industrials,Machinery,93,0.5566303243097197,Industry
-Industrials,Industrial Services,83,0.20795832396963831,Industry
-Consumer Services,Retail,93,0.7089496895555185,Industry
-Consumer Services,Travel & Leisure,86,0.9490629879807654,Industry
-Consumer Services,Media,83,0.4826268391272409,Industry
-Transportation,Airlines,89,0.19568496278347403,Industry
-Transportation,Railroads,16,0.39967044368296467,Industry
-Transportation,Logistics,50,0.16989951161902184,Industry
+,Leipzig,754,0.5220869923559296,Overall
+Leipzig,HiTech,59,0.5265518702163435,Sector
+Leipzig,Agriculture,12,0.8533795093648519,Sector
+Leipzig,Transportation,60,0.9279755577545873,Sector
+Leipzig,Consumer_Products,47,0.35915312035281566,Sector
+Leipzig,Unassigned,36,0.3465281249817018,Sector
+Leipzig,Communication,87,0.5928273056797169,Sector
+Leipzig,Trade,65,0.6147384132920909,Sector
+Leipzig,Business_Services,54,0.5050834374644811,Sector
+Leipzig,Business_Products,65,0.2703907043896425,Sector
+Leipzig,Construction,15,0.8136201042571467,Sector
+Leipzig,Services,3,0.20057960363697347,Sector
+Leipzig,Mining,64,0.01939991999225288,Sector
+Leipzig,Health_Care,74,0.44706472155243393,Sector
+Leipzig,EnergyExpL_Prod,88,0.7684255703511758,Sector
+Leipzig,Utilities,25,0.5855869220527287,Sector

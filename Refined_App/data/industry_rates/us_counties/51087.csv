@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Henrico,2119,0.8450741407432679,Overall
-Henrico,Technology,197,0.9685401771965849,Sector
-Henrico,Healthcare,248,0.2578011572703357,Sector
-Henrico,Finance,231,0.05466432569794377,Sector
-Henrico,Energy,120,0.08205897436797549,Sector
-Henrico,Consumer Goods,147,0.7529850551296746,Sector
-Henrico,Utilities,133,0.8016635322331056,Sector
-Henrico,Real Estate,166,0.2838973934141912,Sector
-Henrico,Telecommunications,199,0.6612532741859346,Sector
-Henrico,Materials,269,0.2752421772174585,Sector
-Henrico,Industrials,52,0.2946166878694585,Sector
-Henrico,Consumer Services,200,0.5184230796387692,Sector
-Henrico,Transportation,157,0.3845096649093709,Sector
-Technology,Software,68,0.7719766730189715,Industry
-Technology,Hardware,76,0.2600868365128485,Industry
-Technology,IT Services,53,0.5868313631346119,Industry
-Healthcare,Pharmaceuticals,96,0.5963375197977505,Industry
-Healthcare,Medical Devices,92,0.09846445566309381,Industry
-Healthcare,Healthcare Services,60,0.19583609713015593,Industry
-Finance,Banking,57,0.2577930476074839,Industry
-Finance,Insurance,86,0.6566154398148363,Industry
-Finance,Investment Services,88,0.5932927771752127,Industry
-Energy,Oil & Gas,63,0.9922522152342808,Industry
-Energy,Renewable Energy,0,0.8813159201086729,Industry
-Energy,Energy Exploration,57,0.06457591260881723,Industry
-Consumer Goods,Food & Beverage,44,0.23975471412700344,Industry
-Consumer Goods,Household Products,30,0.34460588456643604,Industry
-Consumer Goods,Apparel,73,0.6248802551410644,Industry
-Utilities,Electric,46,0.660788046424647,Industry
-Utilities,Water,80,0.4989638589349401,Industry
-Utilities,Gas,7,0.37053967325903736,Industry
-Real Estate,Residential,44,0.6855514158199039,Industry
-Real Estate,Commercial,53,0.37683515108890686,Industry
-Real Estate,Industrial,69,0.613091564142819,Industry
-Telecommunications,Mobile,51,0.6219955950340192,Industry
-Telecommunications,Broadband,52,0.766330543354693,Industry
-Telecommunications,Satellite,96,0.8334354759816174,Industry
-Materials,Chemicals,89,0.8585870497987661,Industry
-Materials,Metals & Mining,98,0.8652014916086799,Industry
-Materials,Construction Materials,82,0.5048366016973431,Industry
-Industrials,Aerospace & Defense,24,0.7797272071706144,Industry
-Industrials,Machinery,19,0.2866703329455368,Industry
-Industrials,Industrial Services,9,0.7043613669704836,Industry
-Consumer Services,Retail,40,0.6282837503956409,Industry
-Consumer Services,Travel & Leisure,73,0.4823384709225118,Industry
-Consumer Services,Media,87,0.2915457666075898,Industry
-Transportation,Airlines,66,0.7696838641396994,Industry
-Transportation,Railroads,86,0.7126155645365464,Industry
-Transportation,Logistics,5,0.9454950055844765,Industry
+,Henrico,707,0.4846290688070339,Overall
+Henrico,HiTech,12,0.2982813627568095,Sector
+Henrico,Agriculture,26,0.473877879044143,Sector
+Henrico,Transportation,24,0.8234165653364363,Sector
+Henrico,Consumer_Products,59,0.8982091346911457,Sector
+Henrico,Unassigned,52,0.1215162122309903,Sector
+Henrico,Communication,94,0.8569733492441778,Sector
+Henrico,Trade,65,0.24037620010176608,Sector
+Henrico,Business_Services,47,0.9411603290301331,Sector
+Henrico,Business_Products,7,0.6892203706311194,Sector
+Henrico,Construction,32,0.22673624493918165,Sector
+Henrico,Services,29,0.19269725993317444,Sector
+Henrico,Mining,93,0.08412328975424399,Sector
+Henrico,Health_Care,27,0.2526778219864848,Sector
+Henrico,EnergyExpL_Prod,46,0.6136137426216663,Sector
+Henrico,Utilities,94,0.5565562698040367,Sector

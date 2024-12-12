@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sullivan,1961,0.6532717180590919,Overall
-Sullivan,Technology,172,0.6584510760054849,Sector
-Sullivan,Healthcare,143,0.005849447124306684,Sector
-Sullivan,Finance,79,0.6290766259256538,Sector
-Sullivan,Energy,207,0.9199128144183122,Sector
-Sullivan,Consumer Goods,177,0.9337910624420904,Sector
-Sullivan,Utilities,130,0.8237279979038266,Sector
-Sullivan,Real Estate,162,0.9120161538247664,Sector
-Sullivan,Telecommunications,198,0.17679195166411366,Sector
-Sullivan,Materials,120,0.26324207198002736,Sector
-Sullivan,Industrials,143,0.5614900068671209,Sector
-Sullivan,Consumer Services,188,0.410584430387123,Sector
-Sullivan,Transportation,242,0.12406221577902299,Sector
-Technology,Software,92,0.43998880091568027,Industry
-Technology,Hardware,77,0.6943528606035237,Industry
-Technology,IT Services,3,0.029930643335505103,Industry
-Healthcare,Pharmaceuticals,49,0.713537685851573,Industry
-Healthcare,Medical Devices,2,0.2878895325437557,Industry
-Healthcare,Healthcare Services,92,0.2899433377806593,Industry
-Finance,Banking,70,0.7327955162923335,Industry
-Finance,Insurance,8,0.9527973770747858,Industry
-Finance,Investment Services,1,0.0818779813753504,Industry
-Energy,Oil & Gas,30,0.18030202638298998,Industry
-Energy,Renewable Energy,91,0.4906847554281446,Industry
-Energy,Energy Exploration,86,0.72478861543969,Industry
-Consumer Goods,Food & Beverage,74,0.6203441533789393,Industry
-Consumer Goods,Household Products,78,0.5506648166394131,Industry
-Consumer Goods,Apparel,25,0.12861300846834167,Industry
-Utilities,Electric,56,0.963823088953345,Industry
-Utilities,Water,26,0.9054886879648911,Industry
-Utilities,Gas,48,0.7681305769932815,Industry
-Real Estate,Residential,62,0.3561014263449015,Industry
-Real Estate,Commercial,41,0.6250723359204154,Industry
-Real Estate,Industrial,59,0.9194209389171464,Industry
-Telecommunications,Mobile,78,0.9544656561045256,Industry
-Telecommunications,Broadband,74,0.4045098001737407,Industry
-Telecommunications,Satellite,46,0.5642363716581941,Industry
-Materials,Chemicals,31,0.6566531861681756,Industry
-Materials,Metals & Mining,43,0.17570136391281166,Industry
-Materials,Construction Materials,46,0.29717764591925844,Industry
-Industrials,Aerospace & Defense,26,0.9476165783552011,Industry
-Industrials,Machinery,37,0.088871546500506,Industry
-Industrials,Industrial Services,80,0.4445140338899539,Industry
-Consumer Services,Retail,39,0.12600336455351102,Industry
-Consumer Services,Travel & Leisure,87,0.9977819699103301,Industry
-Consumer Services,Media,62,0.1304598889930213,Industry
-Transportation,Airlines,57,0.5558306346852441,Industry
-Transportation,Railroads,97,0.4521229482477248,Industry
-Transportation,Logistics,88,0.8709980594333548,Industry
+,Sullivan,622,0.5091949964733616,Overall
+Sullivan,HiTech,65,0.13858417702170556,Sector
+Sullivan,Agriculture,28,0.9850089763198722,Sector
+Sullivan,Transportation,31,0.47054718215663016,Sector
+Sullivan,Consumer_Products,3,0.5749077019108844,Sector
+Sullivan,Unassigned,81,0.8548603797727682,Sector
+Sullivan,Communication,69,0.7962641804510597,Sector
+Sullivan,Trade,38,0.04124496799833721,Sector
+Sullivan,Business_Services,10,0.9006996054392086,Sector
+Sullivan,Business_Products,76,0.0630464204655442,Sector
+Sullivan,Construction,17,0.8808545530597518,Sector
+Sullivan,Services,5,0.6350373803378597,Sector
+Sullivan,Mining,12,0.18865636846010847,Sector
+Sullivan,Health_Care,72,0.13267287109259918,Sector
+Sullivan,EnergyExpL_Prod,76,0.042744530411019555,Sector
+Sullivan,Utilities,39,0.9327956522030748,Sector

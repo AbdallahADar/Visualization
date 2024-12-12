@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chaffee,1810,0.5556201488908573,Overall
-Chaffee,Technology,113,0.4860177131766015,Sector
-Chaffee,Healthcare,119,0.43768310578203373,Sector
-Chaffee,Finance,68,0.09070847783544855,Sector
-Chaffee,Energy,84,0.6511408827813924,Sector
-Chaffee,Consumer Goods,128,0.760928320309796,Sector
-Chaffee,Utilities,178,0.25003736788807684,Sector
-Chaffee,Real Estate,190,0.6648600560698835,Sector
-Chaffee,Telecommunications,212,0.8382089667189523,Sector
-Chaffee,Materials,200,0.09948664065855617,Sector
-Chaffee,Industrials,173,0.48792777874331816,Sector
-Chaffee,Consumer Services,160,0.41935745665339796,Sector
-Chaffee,Transportation,185,0.2913015268610526,Sector
-Technology,Software,99,0.048122657339920494,Industry
-Technology,Hardware,5,0.5296230821609779,Industry
-Technology,IT Services,9,0.9115718603062292,Industry
-Healthcare,Pharmaceuticals,57,0.9239339941460049,Industry
-Healthcare,Medical Devices,23,0.9664917706265485,Industry
-Healthcare,Healthcare Services,39,0.2600786498069718,Industry
-Finance,Banking,21,0.3860054216004174,Industry
-Finance,Insurance,32,0.3816145077984121,Industry
-Finance,Investment Services,15,0.9453938965393918,Industry
-Energy,Oil & Gas,33,0.18423757776975147,Industry
-Energy,Renewable Energy,38,0.8058597400584747,Industry
-Energy,Energy Exploration,13,0.2131652675584671,Industry
-Consumer Goods,Food & Beverage,6,0.37912007357322197,Industry
-Consumer Goods,Household Products,61,0.5281684832793935,Industry
-Consumer Goods,Apparel,61,0.07346110351850155,Industry
-Utilities,Electric,23,0.9697319782977202,Industry
-Utilities,Water,92,0.593478179627683,Industry
-Utilities,Gas,63,0.17918467239099412,Industry
-Real Estate,Residential,67,0.5287568006299981,Industry
-Real Estate,Commercial,35,0.5370670650996152,Industry
-Real Estate,Industrial,88,0.7842296073965089,Industry
-Telecommunications,Mobile,64,0.6903876381031412,Industry
-Telecommunications,Broadband,87,0.7354255826440518,Industry
-Telecommunications,Satellite,61,0.9160156196080379,Industry
-Materials,Chemicals,71,0.21811174647197418,Industry
-Materials,Metals & Mining,32,0.2063824854033054,Industry
-Materials,Construction Materials,97,0.1444416975290823,Industry
-Industrials,Aerospace & Defense,47,0.9617194864298965,Industry
-Industrials,Machinery,29,0.7121878864484793,Industry
-Industrials,Industrial Services,97,0.3145557269130198,Industry
-Consumer Services,Retail,80,0.11873622114176186,Industry
-Consumer Services,Travel & Leisure,7,0.6292560610631878,Industry
-Consumer Services,Media,73,0.12481526409359955,Industry
-Transportation,Airlines,57,0.2618808997176455,Industry
-Transportation,Railroads,99,0.7601221740189171,Industry
-Transportation,Logistics,29,0.15543444587535937,Industry
+,Chaffee,853,0.4525059674697001,Overall
+Chaffee,HiTech,36,0.5619927027847912,Sector
+Chaffee,Agriculture,4,0.8278220526810287,Sector
+Chaffee,Transportation,84,0.11420789822273603,Sector
+Chaffee,Consumer_Products,88,0.018774780266744617,Sector
+Chaffee,Unassigned,78,0.9811397465979208,Sector
+Chaffee,Communication,61,0.7132646863405162,Sector
+Chaffee,Trade,89,0.20139364383339153,Sector
+Chaffee,Business_Services,61,0.01977059327865116,Sector
+Chaffee,Business_Products,55,0.8503561496384237,Sector
+Chaffee,Construction,39,0.146108743563651,Sector
+Chaffee,Services,75,0.35237588975007594,Sector
+Chaffee,Mining,86,0.3877964786154918,Sector
+Chaffee,Health_Care,4,0.036071698989651235,Sector
+Chaffee,EnergyExpL_Prod,68,0.6901007423953341,Sector
+Chaffee,Utilities,25,0.8864137050870942,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Coshocton,1758,0.18930296216496678,Overall
-Coshocton,Technology,85,0.025222204955580807,Sector
-Coshocton,Healthcare,157,0.12325400181414237,Sector
-Coshocton,Finance,96,0.33790587518281245,Sector
-Coshocton,Energy,172,0.4425242883698167,Sector
-Coshocton,Consumer Goods,179,0.7623316614253748,Sector
-Coshocton,Utilities,119,0.8523264173334878,Sector
-Coshocton,Real Estate,147,0.3748545078963047,Sector
-Coshocton,Telecommunications,119,0.4071106769867666,Sector
-Coshocton,Materials,102,0.2572855367947191,Sector
-Coshocton,Industrials,191,0.2645912265254263,Sector
-Coshocton,Consumer Services,162,0.4041327393051122,Sector
-Coshocton,Transportation,229,0.6041130225846119,Sector
-Technology,Software,24,0.21743190675822544,Industry
-Technology,Hardware,12,0.11968617907152868,Industry
-Technology,IT Services,49,0.1889701893230804,Industry
-Healthcare,Pharmaceuticals,28,0.8725416331115482,Industry
-Healthcare,Medical Devices,65,0.034361490634401415,Industry
-Healthcare,Healthcare Services,64,0.5543578437325881,Industry
-Finance,Banking,34,0.5245199388064764,Industry
-Finance,Insurance,60,0.6738425966891747,Industry
-Finance,Investment Services,2,0.6859660034392759,Industry
-Energy,Oil & Gas,7,0.131095410030182,Industry
-Energy,Renewable Energy,84,0.6800726408589696,Industry
-Energy,Energy Exploration,81,0.44269738736540165,Industry
-Consumer Goods,Food & Beverage,29,0.9506039212763774,Industry
-Consumer Goods,Household Products,77,0.9989618616933329,Industry
-Consumer Goods,Apparel,73,0.6174544475978587,Industry
-Utilities,Electric,5,0.3260525305706341,Industry
-Utilities,Water,50,0.7575799305494518,Industry
-Utilities,Gas,64,0.0731158824148197,Industry
-Real Estate,Residential,56,0.8038610595520508,Industry
-Real Estate,Commercial,41,0.823558801823619,Industry
-Real Estate,Industrial,50,0.40975116375710074,Industry
-Telecommunications,Mobile,25,0.8278019567605699,Industry
-Telecommunications,Broadband,45,0.6259599503206597,Industry
-Telecommunications,Satellite,49,0.5066296813289496,Industry
-Materials,Chemicals,56,0.48350783301630007,Industry
-Materials,Metals & Mining,10,0.548488903630609,Industry
-Materials,Construction Materials,36,0.3473662964579666,Industry
-Industrials,Aerospace & Defense,87,0.40553279825516064,Industry
-Industrials,Machinery,80,0.7183614147324484,Industry
-Industrials,Industrial Services,24,0.7856433966966849,Industry
-Consumer Services,Retail,27,0.35879672135834795,Industry
-Consumer Services,Travel & Leisure,49,0.999414409949713,Industry
-Consumer Services,Media,86,0.6663916208309436,Industry
-Transportation,Airlines,95,0.28395926224175594,Industry
-Transportation,Railroads,61,0.9301278205098458,Industry
-Transportation,Logistics,73,0.42152052245204574,Industry
+,Coshocton,585,0.5938857314848014,Overall
+Coshocton,HiTech,39,0.37287284989498093,Sector
+Coshocton,Agriculture,68,0.4053358358720054,Sector
+Coshocton,Transportation,9,0.5224160578880239,Sector
+Coshocton,Consumer_Products,83,0.4760751276975522,Sector
+Coshocton,Unassigned,1,0.6001151115464273,Sector
+Coshocton,Communication,77,0.7533651247449994,Sector
+Coshocton,Trade,5,0.9387031440123426,Sector
+Coshocton,Business_Services,42,0.4144711890891333,Sector
+Coshocton,Business_Products,58,0.32060132253878126,Sector
+Coshocton,Construction,32,0.9154154039707915,Sector
+Coshocton,Services,73,0.15307752945759423,Sector
+Coshocton,Mining,52,0.9567883532625077,Sector
+Coshocton,Health_Care,10,0.8900177474997683,Sector
+Coshocton,EnergyExpL_Prod,34,0.8441128097588354,Sector
+Coshocton,Utilities,2,0.344918365038277,Sector

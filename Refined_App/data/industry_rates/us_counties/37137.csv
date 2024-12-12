@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pamlico,1974,0.4506307973807776,Overall
-Pamlico,Technology,223,0.7652029354000676,Sector
-Pamlico,Healthcare,162,0.82021553410389,Sector
-Pamlico,Finance,213,0.8023191313382536,Sector
-Pamlico,Energy,169,0.23406756368477544,Sector
-Pamlico,Consumer Goods,108,0.6141961323300095,Sector
-Pamlico,Utilities,109,0.05246380617458313,Sector
-Pamlico,Real Estate,167,0.32346145275445515,Sector
-Pamlico,Telecommunications,138,0.45619659940107593,Sector
-Pamlico,Materials,210,0.3339720753396739,Sector
-Pamlico,Industrials,170,0.8826768888630457,Sector
-Pamlico,Consumer Services,185,0.5365681974015627,Sector
-Pamlico,Transportation,120,0.5827732897383413,Sector
-Technology,Software,32,0.22043593273659423,Industry
-Technology,Hardware,95,0.520776905113894,Industry
-Technology,IT Services,96,0.06843950866258997,Industry
-Healthcare,Pharmaceuticals,76,0.7308247505302135,Industry
-Healthcare,Medical Devices,53,0.17177165800364924,Industry
-Healthcare,Healthcare Services,33,0.09772557454178377,Industry
-Finance,Banking,81,0.5055930764062795,Industry
-Finance,Insurance,63,0.897098557877399,Industry
-Finance,Investment Services,69,0.24729360248079213,Industry
-Energy,Oil & Gas,39,0.10866590824749867,Industry
-Energy,Renewable Energy,54,0.919880292480493,Industry
-Energy,Energy Exploration,76,0.21466037116329606,Industry
-Consumer Goods,Food & Beverage,5,0.20789829026280715,Industry
-Consumer Goods,Household Products,4,0.5957241495467643,Industry
-Consumer Goods,Apparel,99,0.2097276773012946,Industry
-Utilities,Electric,18,0.8644444286568288,Industry
-Utilities,Water,72,0.6244337580090648,Industry
-Utilities,Gas,19,0.34228073507676493,Industry
-Real Estate,Residential,78,0.311778970781168,Industry
-Real Estate,Commercial,13,0.6864412857294198,Industry
-Real Estate,Industrial,76,0.25897210324010833,Industry
-Telecommunications,Mobile,69,0.8568942275111517,Industry
-Telecommunications,Broadband,31,0.39238348575563176,Industry
-Telecommunications,Satellite,38,0.14238874517962563,Industry
-Materials,Chemicals,97,0.7760549058957309,Industry
-Materials,Metals & Mining,71,0.45551313517192615,Industry
-Materials,Construction Materials,42,0.01887883350256314,Industry
-Industrials,Aerospace & Defense,99,0.3944279973490341,Industry
-Industrials,Machinery,57,0.41878052867133764,Industry
-Industrials,Industrial Services,14,0.7077190702452427,Industry
-Consumer Services,Retail,84,0.5399802283825437,Industry
-Consumer Services,Travel & Leisure,95,0.8755377925738129,Industry
-Consumer Services,Media,6,0.00035924461057390555,Industry
-Transportation,Airlines,22,0.8585756845645045,Industry
-Transportation,Railroads,69,0.1181252220038127,Industry
-Transportation,Logistics,29,0.5812497262228422,Industry
+,Pamlico,839,0.413732117254577,Overall
+Pamlico,HiTech,18,0.08939351558796793,Sector
+Pamlico,Agriculture,8,0.19104087710521733,Sector
+Pamlico,Transportation,79,0.1293848093743032,Sector
+Pamlico,Consumer_Products,25,0.9466592057823773,Sector
+Pamlico,Unassigned,71,0.3728286595456807,Sector
+Pamlico,Communication,66,0.8458485961390534,Sector
+Pamlico,Trade,89,0.21330050020776292,Sector
+Pamlico,Business_Services,90,0.006941633494015997,Sector
+Pamlico,Business_Products,98,0.5734722490725991,Sector
+Pamlico,Construction,47,0.1095040327462159,Sector
+Pamlico,Services,21,0.9426429771154136,Sector
+Pamlico,Mining,8,0.1083032819482237,Sector
+Pamlico,Health_Care,79,0.17703136192988544,Sector
+Pamlico,EnergyExpL_Prod,88,0.7527966391413855,Sector
+Pamlico,Utilities,52,0.7468334196285525,Sector

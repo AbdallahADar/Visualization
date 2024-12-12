@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Iberia,1673,0.9300143395042455,Overall
+Iberia,Technology,93,0.17185449675334363,Sector
+Iberia,Healthcare,155,0.6579189524798789,Sector
+Iberia,Finance,206,0.17938902944929036,Sector
+Iberia,Energy,72,0.7376383168683652,Sector
+Iberia,Consumer Goods,165,0.5641835012085947,Sector
+Iberia,Utilities,155,0.6494272993464807,Sector
+Iberia,Real Estate,64,0.696947765793984,Sector
+Iberia,Telecommunications,197,0.3215544707531116,Sector
+Iberia,Materials,127,0.6420209719659693,Sector
+Iberia,Industrials,182,0.6625840200982084,Sector
+Iberia,Consumer Services,105,0.24842503329668653,Sector
+Iberia,Transportation,152,0.6636877498285677,Sector
+Technology,Software,65,0.1361497224371111,Industry
+Technology,Hardware,0,0.24394066275898274,Industry
+Technology,IT Services,28,0.9221325212664185,Industry
+Healthcare,Pharmaceuticals,57,0.2742970927535545,Industry
+Healthcare,Medical Devices,39,0.333933485916064,Industry
+Healthcare,Healthcare Services,59,0.22744894680503847,Industry
+Finance,Banking,38,0.7564036715210735,Industry
+Finance,Insurance,86,0.714360795815603,Industry
+Finance,Investment Services,82,0.5695119908539151,Industry
+Energy,Oil & Gas,50,0.998457416838187,Industry
+Energy,Renewable Energy,2,0.5133244462500964,Industry
+Energy,Energy Exploration,20,0.6005270480096139,Industry
+Consumer Goods,Food & Beverage,47,0.9377681137091843,Industry
+Consumer Goods,Household Products,22,0.7266040255908202,Industry
+Consumer Goods,Apparel,96,0.1219127650146703,Industry
+Utilities,Electric,58,0.34647105308120085,Industry
+Utilities,Water,17,0.3356028995161576,Industry
+Utilities,Gas,80,0.8742208295416781,Industry
+Real Estate,Residential,3,0.8032367723557987,Industry
+Real Estate,Commercial,25,0.8001733555753806,Industry
+Real Estate,Industrial,36,0.5908822626201355,Industry
+Telecommunications,Mobile,87,0.26960486206086487,Industry
+Telecommunications,Broadband,40,0.6852061894747221,Industry
+Telecommunications,Satellite,70,0.8427201109279218,Industry
+Materials,Chemicals,14,0.027250974441951348,Industry
+Materials,Metals & Mining,64,0.4476096187293048,Industry
+Materials,Construction Materials,49,0.421614627363179,Industry
+Industrials,Aerospace & Defense,41,0.6224716528151106,Industry
+Industrials,Machinery,56,0.5196987868194942,Industry
+Industrials,Industrial Services,85,0.5330320470942217,Industry
+Consumer Services,Retail,9,0.21990129262819502,Industry
+Consumer Services,Travel & Leisure,15,0.6551474022495134,Industry
+Consumer Services,Media,81,0.7244172432326815,Industry
+Transportation,Airlines,16,0.7073223340811388,Industry
+Transportation,Railroads,61,0.816038537716968,Industry
+Transportation,Logistics,75,0.0430066218497126,Industry

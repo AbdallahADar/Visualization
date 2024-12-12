@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Berks,2087,0.432440103652003,Overall
+Berks,Technology,129,0.5282514392040613,Sector
+Berks,Healthcare,150,0.05951590375239013,Sector
+Berks,Finance,175,0.41321780174197,Sector
+Berks,Energy,136,0.31606566771497124,Sector
+Berks,Consumer Goods,197,0.24966668086958665,Sector
+Berks,Utilities,176,0.8389082473707625,Sector
+Berks,Real Estate,189,0.21436626440016493,Sector
+Berks,Telecommunications,253,0.9373572441814122,Sector
+Berks,Materials,193,0.7243103116851993,Sector
+Berks,Industrials,252,0.12387278055853601,Sector
+Berks,Consumer Services,124,0.4224334916151684,Sector
+Berks,Transportation,113,0.09429463587088993,Sector
+Technology,Software,36,0.05497873483700011,Industry
+Technology,Hardware,86,0.309887447581081,Industry
+Technology,IT Services,7,0.8869017864925907,Industry
+Healthcare,Pharmaceuticals,74,0.6940642138985088,Industry
+Healthcare,Medical Devices,72,0.4660985428846841,Industry
+Healthcare,Healthcare Services,4,0.7288798647030392,Industry
+Finance,Banking,12,0.017018616200679126,Industry
+Finance,Insurance,99,0.9771139918463374,Industry
+Finance,Investment Services,64,0.1010299278919522,Industry
+Energy,Oil & Gas,68,0.47746001158981755,Industry
+Energy,Renewable Energy,28,0.210301312664548,Industry
+Energy,Energy Exploration,40,0.7551971195158417,Industry
+Consumer Goods,Food & Beverage,82,0.5746319917670306,Industry
+Consumer Goods,Household Products,54,0.41575455103003833,Industry
+Consumer Goods,Apparel,61,0.18589140285347128,Industry
+Utilities,Electric,18,0.09129052147682837,Industry
+Utilities,Water,89,0.31801964634982915,Industry
+Utilities,Gas,69,0.3699750497834474,Industry
+Real Estate,Residential,65,0.9431194312026034,Industry
+Real Estate,Commercial,77,0.46988603249128535,Industry
+Real Estate,Industrial,47,0.1793399033409555,Industry
+Telecommunications,Mobile,97,0.49967677445259495,Industry
+Telecommunications,Broadband,69,0.8554417876385029,Industry
+Telecommunications,Satellite,87,0.25436599455503706,Industry
+Materials,Chemicals,65,0.23030007172525502,Industry
+Materials,Metals & Mining,64,0.6571352980896138,Industry
+Materials,Construction Materials,64,0.418476290281941,Industry
+Industrials,Aerospace & Defense,99,0.454241250813309,Industry
+Industrials,Machinery,59,0.5526588742487801,Industry
+Industrials,Industrial Services,94,0.6397891046694794,Industry
+Consumer Services,Retail,10,0.7563281267003568,Industry
+Consumer Services,Travel & Leisure,46,0.5142937052071596,Industry
+Consumer Services,Media,68,0.19973595983300696,Industry
+Transportation,Airlines,43,0.10306713716054006,Industry
+Transportation,Railroads,3,0.968926214843883,Industry
+Transportation,Logistics,67,0.6408836044915001,Industry

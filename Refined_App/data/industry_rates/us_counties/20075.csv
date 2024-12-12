@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hamilton,1587,0.20039231569717497,Overall
-Hamilton,Technology,183,0.08055422641855758,Sector
-Hamilton,Healthcare,121,0.746533109912403,Sector
-Hamilton,Finance,129,0.297167886167061,Sector
-Hamilton,Energy,112,0.12122839494436854,Sector
-Hamilton,Consumer Goods,119,0.4333444463189019,Sector
-Hamilton,Utilities,209,0.708880508598142,Sector
-Hamilton,Real Estate,96,0.1827173630309995,Sector
-Hamilton,Telecommunications,77,0.02306881290442342,Sector
-Hamilton,Materials,137,0.7159034266619075,Sector
-Hamilton,Industrials,93,0.3843176604788514,Sector
-Hamilton,Consumer Services,180,0.5158102007797628,Sector
-Hamilton,Transportation,131,0.6962611853348101,Sector
-Technology,Software,73,0.11064265669326556,Industry
-Technology,Hardware,99,0.9938401978058955,Industry
-Technology,IT Services,11,0.7538353433608713,Industry
-Healthcare,Pharmaceuticals,93,0.9239068148706467,Industry
-Healthcare,Medical Devices,12,0.8068101989338681,Industry
-Healthcare,Healthcare Services,16,0.07904222295743069,Industry
-Finance,Banking,58,0.26663852896716056,Industry
-Finance,Insurance,9,0.04613740829919111,Industry
-Finance,Investment Services,62,0.12470366634844376,Industry
-Energy,Oil & Gas,34,0.222675386776107,Industry
-Energy,Renewable Energy,53,0.31709237698096826,Industry
-Energy,Energy Exploration,25,0.6645287187830271,Industry
-Consumer Goods,Food & Beverage,89,0.10926348989993873,Industry
-Consumer Goods,Household Products,30,0.1525348750028087,Industry
-Consumer Goods,Apparel,0,0.4574427516153693,Industry
-Utilities,Electric,71,0.47671454877555597,Industry
-Utilities,Water,61,0.1931434742340672,Industry
-Utilities,Gas,77,0.9267718147376504,Industry
-Real Estate,Residential,0,0.31324610814515896,Industry
-Real Estate,Commercial,39,0.6954862734246445,Industry
-Real Estate,Industrial,57,0.5103308828297521,Industry
-Telecommunications,Mobile,24,0.14818710264231427,Industry
-Telecommunications,Broadband,20,0.19065377441270337,Industry
-Telecommunications,Satellite,33,0.8159817885760607,Industry
-Materials,Chemicals,18,0.6614161707672442,Industry
-Materials,Metals & Mining,46,0.13282368269326028,Industry
-Materials,Construction Materials,73,0.6807620268490481,Industry
-Industrials,Aerospace & Defense,14,0.5541114738964786,Industry
-Industrials,Machinery,35,0.7819740038746205,Industry
-Industrials,Industrial Services,44,0.2196318185967513,Industry
-Consumer Services,Retail,81,0.47250256525106527,Industry
-Consumer Services,Travel & Leisure,20,0.23080116036156217,Industry
-Consumer Services,Media,79,0.7524364232542113,Industry
-Transportation,Airlines,22,0.4479047252616273,Industry
-Transportation,Railroads,22,0.8307944251027081,Industry
-Transportation,Logistics,87,0.7720876397316537,Industry
+,Hamilton,763,0.5082940106048305,Overall
+Hamilton,HiTech,8,0.8294954706702673,Sector
+Hamilton,Agriculture,32,0.05361034033412271,Sector
+Hamilton,Transportation,38,0.22559688381389653,Sector
+Hamilton,Consumer_Products,85,0.8471788160878833,Sector
+Hamilton,Unassigned,15,0.06216805661830005,Sector
+Hamilton,Communication,48,0.40567164700599767,Sector
+Hamilton,Trade,56,0.5800868388368569,Sector
+Hamilton,Business_Services,69,0.5712791604196025,Sector
+Hamilton,Business_Products,62,0.4166128975872776,Sector
+Hamilton,Construction,40,0.4195093576691069,Sector
+Hamilton,Services,82,0.6315562872206008,Sector
+Hamilton,Mining,25,0.12270310867866085,Sector
+Hamilton,Health_Care,69,0.8968286023881735,Sector
+Hamilton,EnergyExpL_Prod,80,0.9964264681944998,Sector
+Hamilton,Utilities,54,0.5656862235472118,Sector

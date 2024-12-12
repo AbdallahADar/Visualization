@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Butler,1788,0.1541784274636121,Overall
-Butler,Technology,163,0.8732926088067555,Sector
-Butler,Healthcare,97,0.2379305448235719,Sector
-Butler,Finance,141,0.5001734881692769,Sector
-Butler,Energy,41,0.5000111409134098,Sector
-Butler,Consumer Goods,149,0.904667276770901,Sector
-Butler,Utilities,157,0.37464993015037373,Sector
-Butler,Real Estate,208,0.6226245641188926,Sector
-Butler,Telecommunications,198,0.047610036868219185,Sector
-Butler,Materials,175,0.9984959590233102,Sector
-Butler,Industrials,143,0.1441130783818595,Sector
-Butler,Consumer Services,106,0.45704045360903,Sector
-Butler,Transportation,210,0.08134396972409674,Sector
-Technology,Software,58,0.033963145732601174,Industry
-Technology,Hardware,71,0.9194700806469365,Industry
-Technology,IT Services,34,0.1914331200817908,Industry
-Healthcare,Pharmaceuticals,1,0.16787416315829629,Industry
-Healthcare,Medical Devices,48,0.5823887500266454,Industry
-Healthcare,Healthcare Services,48,0.8474049148235544,Industry
-Finance,Banking,76,0.03325147694128183,Industry
-Finance,Insurance,26,0.314424224560903,Industry
-Finance,Investment Services,39,0.05909218069160005,Industry
-Energy,Oil & Gas,3,0.6831377735586023,Industry
-Energy,Renewable Energy,27,0.8961129329206345,Industry
-Energy,Energy Exploration,11,0.5694353922421038,Industry
-Consumer Goods,Food & Beverage,69,0.23170784468443728,Industry
-Consumer Goods,Household Products,7,0.10904163511460851,Industry
-Consumer Goods,Apparel,73,0.5146289685029246,Industry
-Utilities,Electric,23,0.5046845470217421,Industry
-Utilities,Water,50,0.6306813600358102,Industry
-Utilities,Gas,84,0.6672938562353976,Industry
-Real Estate,Residential,22,0.7227958477714994,Industry
-Real Estate,Commercial,88,0.8968046748135468,Industry
-Real Estate,Industrial,98,0.7301368680531549,Industry
-Telecommunications,Mobile,98,0.45102435543581076,Industry
-Telecommunications,Broadband,98,0.7152990572387056,Industry
-Telecommunications,Satellite,2,0.8826705630499786,Industry
-Materials,Chemicals,80,0.20865389943162194,Industry
-Materials,Metals & Mining,64,0.18450683974822246,Industry
-Materials,Construction Materials,31,0.9418068764603197,Industry
-Industrials,Aerospace & Defense,46,0.3272035812425259,Industry
-Industrials,Machinery,3,0.8742849034384014,Industry
-Industrials,Industrial Services,94,0.9252560527486903,Industry
-Consumer Services,Retail,6,0.2581356402603454,Industry
-Consumer Services,Travel & Leisure,15,0.5247572508385906,Industry
-Consumer Services,Media,85,0.8493225512004309,Industry
-Transportation,Airlines,97,0.3756792938882868,Industry
-Transportation,Railroads,97,0.26115242705123487,Industry
-Transportation,Logistics,16,0.9022014268490949,Industry
+,Butler,591,0.41835555142785935,Overall
+Butler,HiTech,74,0.82534745229411,Sector
+Butler,Agriculture,45,0.329723957449932,Sector
+Butler,Transportation,4,0.9337229662389482,Sector
+Butler,Consumer_Products,33,0.3303393375316924,Sector
+Butler,Unassigned,56,0.1827529255294007,Sector
+Butler,Communication,5,0.8602228386329621,Sector
+Butler,Trade,6,0.23034418232835296,Sector
+Butler,Business_Services,72,0.10772459430796044,Sector
+Butler,Business_Products,91,0.9651892696871381,Sector
+Butler,Construction,19,0.44970891628884635,Sector
+Butler,Services,93,0.0728081748427658,Sector
+Butler,Mining,14,0.2548889292693658,Sector
+Butler,Health_Care,25,0.2091190512123443,Sector
+Butler,EnergyExpL_Prod,51,0.03309203066074806,Sector
+Butler,Utilities,3,0.49034864514332466,Sector

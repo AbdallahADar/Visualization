@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Livingston,1891,0.6058940558915048,Overall
-Livingston,Technology,194,0.9869878850679511,Sector
-Livingston,Healthcare,194,0.8386959604495383,Sector
-Livingston,Finance,79,0.5552430346179146,Sector
-Livingston,Energy,265,0.2486052509751273,Sector
-Livingston,Consumer Goods,126,0.4363602833492344,Sector
-Livingston,Utilities,141,0.06729422522532857,Sector
-Livingston,Real Estate,129,0.47422149167433725,Sector
-Livingston,Telecommunications,168,0.35296093917452853,Sector
-Livingston,Materials,85,0.8275373835150683,Sector
-Livingston,Industrials,175,0.5598588502452954,Sector
-Livingston,Consumer Services,151,0.7057568442615351,Sector
-Livingston,Transportation,184,0.245313374748378,Sector
-Technology,Software,16,0.47094306328810154,Industry
-Technology,Hardware,85,0.5376294846144665,Industry
-Technology,IT Services,93,0.40027396270569426,Industry
-Healthcare,Pharmaceuticals,62,0.6418208905101969,Industry
-Healthcare,Medical Devices,80,0.15481293987232936,Industry
-Healthcare,Healthcare Services,52,0.10529187429828335,Industry
-Finance,Banking,23,0.6728262937153,Industry
-Finance,Insurance,21,0.6634473984718363,Industry
-Finance,Investment Services,35,0.8597754143612185,Industry
-Energy,Oil & Gas,91,0.1722268045810066,Industry
-Energy,Renewable Energy,78,0.0017950383762779243,Industry
-Energy,Energy Exploration,96,0.1057692702759091,Industry
-Consumer Goods,Food & Beverage,3,0.33817773023316855,Industry
-Consumer Goods,Household Products,49,0.7430608309760577,Industry
-Consumer Goods,Apparel,74,0.44954712560530063,Industry
-Utilities,Electric,17,0.21776690584470593,Industry
-Utilities,Water,85,0.30835583161431235,Industry
-Utilities,Gas,39,0.45391030467131366,Industry
-Real Estate,Residential,57,0.756679116222513,Industry
-Real Estate,Commercial,31,0.7833717488722088,Industry
-Real Estate,Industrial,41,0.9952114659695832,Industry
-Telecommunications,Mobile,68,0.09552304255009392,Industry
-Telecommunications,Broadband,29,0.2070227669943535,Industry
-Telecommunications,Satellite,71,0.12644842238392562,Industry
-Materials,Chemicals,33,0.35964017440806983,Industry
-Materials,Metals & Mining,14,0.5968108289343736,Industry
-Materials,Construction Materials,38,0.3686612723035074,Industry
-Industrials,Aerospace & Defense,22,0.0723098030515662,Industry
-Industrials,Machinery,96,0.7633658546654484,Industry
-Industrials,Industrial Services,57,0.8095898496667763,Industry
-Consumer Services,Retail,49,0.06485975159137647,Industry
-Consumer Services,Travel & Leisure,3,0.483533471681053,Industry
-Consumer Services,Media,99,0.23322936887604517,Industry
-Transportation,Airlines,62,0.8856882126303952,Industry
-Transportation,Railroads,86,0.19911839002864795,Industry
-Transportation,Logistics,36,0.4856123418133247,Industry
+,Livingston,648,0.48072272764034985,Overall
+Livingston,HiTech,41,0.2634077076371175,Sector
+Livingston,Agriculture,48,0.23970043923747109,Sector
+Livingston,Transportation,52,0.3288970414039092,Sector
+Livingston,Consumer_Products,7,0.5008665979010009,Sector
+Livingston,Unassigned,94,0.3295412252716371,Sector
+Livingston,Communication,0,0.7067610886239141,Sector
+Livingston,Trade,45,0.7654382607607753,Sector
+Livingston,Business_Services,13,0.03458483149161784,Sector
+Livingston,Business_Products,53,0.7296603994143848,Sector
+Livingston,Construction,99,0.22148722586505187,Sector
+Livingston,Services,0,0.8368757993774619,Sector
+Livingston,Mining,28,0.5252525831089044,Sector
+Livingston,Health_Care,9,0.9456160124981556,Sector
+Livingston,EnergyExpL_Prod,60,0.6321517125998127,Sector
+Livingston,Utilities,99,0.15059998941403419,Sector

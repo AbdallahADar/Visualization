@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,New York,1860,0.16399394631871234,Overall
-New York,Technology,174,0.31489129361555757,Sector
-New York,Healthcare,104,0.5975292870245258,Sector
-New York,Finance,98,0.5455223511334456,Sector
-New York,Energy,219,0.14360273071877838,Sector
-New York,Consumer Goods,118,0.33611031598633745,Sector
-New York,Utilities,148,0.8869615392414617,Sector
-New York,Real Estate,232,0.5295515721560825,Sector
-New York,Telecommunications,120,0.22335228060383638,Sector
-New York,Materials,216,0.06337498313132595,Sector
-New York,Industrials,228,0.294015267584149,Sector
-New York,Consumer Services,115,0.021219609278245954,Sector
-New York,Transportation,88,0.81020504751516,Sector
-Technology,Software,55,0.6949837413020677,Industry
-Technology,Hardware,25,0.055064057746541994,Industry
-Technology,IT Services,94,0.9811348457992141,Industry
-Healthcare,Pharmaceuticals,36,0.6084097096563182,Industry
-Healthcare,Medical Devices,12,0.48413104487693404,Industry
-Healthcare,Healthcare Services,56,0.19489626767344892,Industry
-Finance,Banking,28,0.9808947045854134,Industry
-Finance,Insurance,55,0.12782562801627007,Industry
-Finance,Investment Services,15,0.16745453883537298,Industry
-Energy,Oil & Gas,24,0.2205379762069627,Industry
-Energy,Renewable Energy,98,0.4624692567228411,Industry
-Energy,Energy Exploration,97,0.2803777609846787,Industry
-Consumer Goods,Food & Beverage,50,0.9357457114555938,Industry
-Consumer Goods,Household Products,8,0.9417148966193463,Industry
-Consumer Goods,Apparel,60,0.2749926357348621,Industry
-Utilities,Electric,63,0.8281641708989288,Industry
-Utilities,Water,63,0.2050505551368964,Industry
-Utilities,Gas,22,0.07768631446738605,Industry
-Real Estate,Residential,78,0.3068136771996194,Industry
-Real Estate,Commercial,62,0.5074125933163498,Industry
-Real Estate,Industrial,92,0.7598240918001966,Industry
-Telecommunications,Mobile,8,0.7220261399474427,Industry
-Telecommunications,Broadband,50,0.07043856455904773,Industry
-Telecommunications,Satellite,62,0.6050331349694121,Industry
-Materials,Chemicals,97,0.7357431118643549,Industry
-Materials,Metals & Mining,20,0.4661856893628965,Industry
-Materials,Construction Materials,99,0.8546575106468256,Industry
-Industrials,Aerospace & Defense,93,0.8423145655273454,Industry
-Industrials,Machinery,89,0.04807199285523389,Industry
-Industrials,Industrial Services,46,0.7589533171959966,Industry
-Consumer Services,Retail,6,0.20661031537773,Industry
-Consumer Services,Travel & Leisure,83,0.3808158347371351,Industry
-Consumer Services,Media,26,0.07765182853136232,Industry
-Transportation,Airlines,9,0.7203302972290667,Industry
-Transportation,Railroads,39,0.23726622816162657,Industry
-Transportation,Logistics,40,0.2990296234975026,Industry
+,New York,643,0.5286736061682974,Overall
+New York,HiTech,33,0.09004681936682646,Sector
+New York,Agriculture,97,0.9413052868499474,Sector
+New York,Transportation,15,0.6558776115882258,Sector
+New York,Consumer_Products,26,0.45959130682516436,Sector
+New York,Unassigned,7,0.026601712839317115,Sector
+New York,Communication,62,0.24937383849924777,Sector
+New York,Trade,64,0.32629101171844777,Sector
+New York,Business_Services,27,0.9533708724041479,Sector
+New York,Business_Products,62,0.13631136474542704,Sector
+New York,Construction,35,0.5328515946355047,Sector
+New York,Services,70,0.6465061147733344,Sector
+New York,Mining,14,0.6318361836574031,Sector
+New York,Health_Care,26,0.8467392002569506,Sector
+New York,EnergyExpL_Prod,71,0.47389583591490514,Sector
+New York,Utilities,34,0.9595053384496125,Sector

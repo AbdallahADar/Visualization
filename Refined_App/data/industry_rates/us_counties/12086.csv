@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Miami-Dade,1862,0.41696144815081904,Overall
-Miami-Dade,Technology,172,0.6842005936316685,Sector
-Miami-Dade,Healthcare,144,0.6352660065758169,Sector
-Miami-Dade,Finance,182,0.30128640285956854,Sector
-Miami-Dade,Energy,116,0.6299944208953562,Sector
-Miami-Dade,Consumer Goods,183,0.30395596309529915,Sector
-Miami-Dade,Utilities,157,0.27206004720873334,Sector
-Miami-Dade,Real Estate,170,0.21438025450619413,Sector
-Miami-Dade,Telecommunications,190,0.11299987140882051,Sector
-Miami-Dade,Materials,163,0.14565482673972507,Sector
-Miami-Dade,Industrials,98,0.12492266584504785,Sector
-Miami-Dade,Consumer Services,168,0.6459079858126142,Sector
-Miami-Dade,Transportation,119,0.7774710177129827,Sector
-Technology,Software,90,0.8010008659272847,Industry
-Technology,Hardware,25,0.8326838639431917,Industry
-Technology,IT Services,57,0.29035959596998506,Industry
-Healthcare,Pharmaceuticals,42,0.7306813871919248,Industry
-Healthcare,Medical Devices,84,0.06038684105285186,Industry
-Healthcare,Healthcare Services,18,0.7624458133985336,Industry
-Finance,Banking,82,0.893221099757472,Industry
-Finance,Insurance,91,0.279899741855393,Industry
-Finance,Investment Services,9,0.5532769458288173,Industry
-Energy,Oil & Gas,12,0.55318525158966,Industry
-Energy,Renewable Energy,55,0.6737191239022381,Industry
-Energy,Energy Exploration,49,0.6719379050104466,Industry
-Consumer Goods,Food & Beverage,52,0.042334786040875816,Industry
-Consumer Goods,Household Products,56,0.1258413549188594,Industry
-Consumer Goods,Apparel,75,0.4232350238024519,Industry
-Utilities,Electric,60,0.2479676429246982,Industry
-Utilities,Water,22,0.3581801591662739,Industry
-Utilities,Gas,75,0.5006129055206844,Industry
-Real Estate,Residential,34,0.6561905150181637,Industry
-Real Estate,Commercial,81,0.8719142027740044,Industry
-Real Estate,Industrial,55,0.481673104247221,Industry
-Telecommunications,Mobile,47,0.4922159246286548,Industry
-Telecommunications,Broadband,74,0.5947080927902817,Industry
-Telecommunications,Satellite,69,0.6040985028566315,Industry
-Materials,Chemicals,59,0.49316485672569954,Industry
-Materials,Metals & Mining,78,0.42941114084191045,Industry
-Materials,Construction Materials,26,0.3749943843496366,Industry
-Industrials,Aerospace & Defense,4,0.20406094497546956,Industry
-Industrials,Machinery,84,0.5691962980334301,Industry
-Industrials,Industrial Services,10,0.760152153973435,Industry
-Consumer Services,Retail,69,0.9018868830067914,Industry
-Consumer Services,Travel & Leisure,76,0.12914262014172795,Industry
-Consumer Services,Media,23,0.778332033844881,Industry
-Transportation,Airlines,6,0.5558731274549322,Industry
-Transportation,Railroads,46,0.5875823957534779,Industry
-Transportation,Logistics,67,0.9388242295469009,Industry
+,Miami-Dade,543,0.5615630209748609,Overall
+Miami-Dade,HiTech,0,0.9723301446156201,Sector
+Miami-Dade,Agriculture,23,0.17405920374577588,Sector
+Miami-Dade,Transportation,29,0.6307130283337206,Sector
+Miami-Dade,Consumer_Products,48,0.8854481441122828,Sector
+Miami-Dade,Unassigned,9,0.8992045282332176,Sector
+Miami-Dade,Communication,0,0.6554501802992618,Sector
+Miami-Dade,Trade,91,0.9989886586031218,Sector
+Miami-Dade,Business_Services,87,0.4981162901074555,Sector
+Miami-Dade,Business_Products,3,0.023642876170654636,Sector
+Miami-Dade,Construction,19,0.7099157640969723,Sector
+Miami-Dade,Services,62,0.6873712580929087,Sector
+Miami-Dade,Mining,69,0.7113851696813883,Sector
+Miami-Dade,Health_Care,53,0.1655592692363569,Sector
+Miami-Dade,EnergyExpL_Prod,48,0.32676940725587456,Sector
+Miami-Dade,Utilities,2,0.08449139203830303,Sector

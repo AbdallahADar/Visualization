@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,San Jacinto,1503,0.6687662163898214,Overall
-San Jacinto,Technology,182,0.26971484519148625,Sector
-San Jacinto,Healthcare,88,0.8648219910324666,Sector
-San Jacinto,Finance,81,0.3928467524551731,Sector
-San Jacinto,Energy,123,0.26975548333585764,Sector
-San Jacinto,Consumer Goods,92,0.5375249740860235,Sector
-San Jacinto,Utilities,170,0.3015242069113687,Sector
-San Jacinto,Real Estate,109,0.9463845144054023,Sector
-San Jacinto,Telecommunications,137,0.2791346499477503,Sector
-San Jacinto,Materials,189,0.17748560436307514,Sector
-San Jacinto,Industrials,62,0.5740493676070405,Sector
-San Jacinto,Consumer Services,218,0.012751878657392135,Sector
-San Jacinto,Transportation,52,0.0902228295502654,Sector
-Technology,Software,46,0.19905191058535254,Industry
-Technology,Hardware,70,0.8741922275917604,Industry
-Technology,IT Services,66,0.8184097129794234,Industry
-Healthcare,Pharmaceuticals,43,0.8926740839418111,Industry
-Healthcare,Medical Devices,17,0.44089435262067966,Industry
-Healthcare,Healthcare Services,28,0.008465650122116197,Industry
-Finance,Banking,5,0.4405154861625765,Industry
-Finance,Insurance,62,0.6078496430549746,Industry
-Finance,Investment Services,14,0.47997907648566696,Industry
-Energy,Oil & Gas,41,0.39970419512041433,Industry
-Energy,Renewable Energy,11,0.621772667750281,Industry
-Energy,Energy Exploration,71,0.4558531484436298,Industry
-Consumer Goods,Food & Beverage,76,0.149832418884983,Industry
-Consumer Goods,Household Products,6,0.9113474307768763,Industry
-Consumer Goods,Apparel,10,0.38803340249124463,Industry
-Utilities,Electric,71,0.8844159686647777,Industry
-Utilities,Water,7,0.6602903815969767,Industry
-Utilities,Gas,92,0.08209602456244192,Industry
-Real Estate,Residential,10,0.6237510900542567,Industry
-Real Estate,Commercial,82,0.3019342056378477,Industry
-Real Estate,Industrial,17,0.657542267644013,Industry
-Telecommunications,Mobile,25,0.38410161948169474,Industry
-Telecommunications,Broadband,26,0.5629763503472163,Industry
-Telecommunications,Satellite,86,0.44480990031362966,Industry
-Materials,Chemicals,94,0.4523746004849457,Industry
-Materials,Metals & Mining,69,0.9958497909553579,Industry
-Materials,Construction Materials,26,0.6254726082504632,Industry
-Industrials,Aerospace & Defense,25,0.5487976842859427,Industry
-Industrials,Machinery,32,0.09775364277246501,Industry
-Industrials,Industrial Services,5,0.9916200480026965,Industry
-Consumer Services,Retail,70,0.07099194891597849,Industry
-Consumer Services,Travel & Leisure,68,0.6005786455250692,Industry
-Consumer Services,Media,80,0.8381245655996301,Industry
-Transportation,Airlines,32,0.5757819389890957,Industry
-Transportation,Railroads,19,0.8831465131778399,Industry
-Transportation,Logistics,1,0.33125664969555924,Industry
+,San Jacinto,658,0.5935154895962318,Overall
+San Jacinto,HiTech,63,0.757010714785743,Sector
+San Jacinto,Agriculture,67,0.7786848543152259,Sector
+San Jacinto,Transportation,34,0.7306919167864835,Sector
+San Jacinto,Consumer_Products,7,0.5456007867809581,Sector
+San Jacinto,Unassigned,66,0.47221947929827,Sector
+San Jacinto,Communication,0,0.0947543036834455,Sector
+San Jacinto,Trade,11,0.7487070241350396,Sector
+San Jacinto,Business_Services,44,0.05544667895258526,Sector
+San Jacinto,Business_Products,63,0.2466680358295743,Sector
+San Jacinto,Construction,48,0.5487695857993629,Sector
+San Jacinto,Services,65,0.8512853451807515,Sector
+San Jacinto,Mining,32,0.8724420826648276,Sector
+San Jacinto,Health_Care,81,0.7644253427940648,Sector
+San Jacinto,EnergyExpL_Prod,12,0.4914303040062241,Sector
+San Jacinto,Utilities,65,0.9445958889309215,Sector

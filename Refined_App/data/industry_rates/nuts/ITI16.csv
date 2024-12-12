@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Livorno,2035,0.7562571528894908,Overall
-Livorno,Technology,173,0.9098038654353335,Sector
-Livorno,Healthcare,240,0.09404427853507324,Sector
-Livorno,Finance,101,0.8009586064906347,Sector
-Livorno,Energy,128,0.5964698228769864,Sector
-Livorno,Consumer Goods,140,0.9449802186383977,Sector
-Livorno,Utilities,242,0.4309078254163192,Sector
-Livorno,Real Estate,143,0.2322531310820748,Sector
-Livorno,Telecommunications,216,0.13385066432285586,Sector
-Livorno,Materials,224,0.8380327419199576,Sector
-Livorno,Industrials,139,0.9250038104050935,Sector
-Livorno,Consumer Services,154,0.741887719201083,Sector
-Livorno,Transportation,135,0.2957626951400819,Sector
-Technology,Software,74,0.4033813131453323,Industry
-Technology,Hardware,3,0.6749958658503812,Industry
-Technology,IT Services,96,0.24879989544142322,Industry
-Healthcare,Pharmaceuticals,57,0.032520294167935115,Industry
-Healthcare,Medical Devices,89,0.4020720860997119,Industry
-Healthcare,Healthcare Services,94,0.624028343640751,Industry
-Finance,Banking,52,0.381754609713715,Industry
-Finance,Insurance,36,0.4080176505803995,Industry
-Finance,Investment Services,13,0.5580880759211837,Industry
-Energy,Oil & Gas,13,0.7740240065986707,Industry
-Energy,Renewable Energy,64,0.7463908397362434,Industry
-Energy,Energy Exploration,51,0.9861447385566945,Industry
-Consumer Goods,Food & Beverage,10,0.8621905628254872,Industry
-Consumer Goods,Household Products,65,0.32589254092521625,Industry
-Consumer Goods,Apparel,65,0.5229816580054857,Industry
-Utilities,Electric,90,0.30508925827334166,Industry
-Utilities,Water,97,0.727833115048662,Industry
-Utilities,Gas,55,0.38194000082939705,Industry
-Real Estate,Residential,37,0.8532559029240572,Industry
-Real Estate,Commercial,82,0.04640810209464952,Industry
-Real Estate,Industrial,24,0.005530977925760849,Industry
-Telecommunications,Mobile,46,0.6423174779337995,Industry
-Telecommunications,Broadband,87,0.43297584793763,Industry
-Telecommunications,Satellite,83,0.3580097527114079,Industry
-Materials,Chemicals,97,0.3792183905787927,Industry
-Materials,Metals & Mining,77,0.40589987095248603,Industry
-Materials,Construction Materials,50,0.6490791385406907,Industry
-Industrials,Aerospace & Defense,9,0.8543376018147386,Industry
-Industrials,Machinery,87,0.08199445710425879,Industry
-Industrials,Industrial Services,43,0.4296419936727509,Industry
-Consumer Services,Retail,95,0.06922631139274182,Industry
-Consumer Services,Travel & Leisure,16,0.7790067722909506,Industry
-Consumer Services,Media,43,0.5735474928744205,Industry
-Transportation,Airlines,36,0.1609717343219922,Industry
-Transportation,Railroads,17,0.6931667062333402,Industry
-Transportation,Logistics,82,0.9259169243158681,Industry
+,Livorno,743,0.4732843053027368,Overall
+Livorno,HiTech,0,0.4164482265837749,Sector
+Livorno,Agriculture,50,0.6701034171596463,Sector
+Livorno,Transportation,64,0.3555627306725416,Sector
+Livorno,Consumer_Products,42,0.3083791549910734,Sector
+Livorno,Unassigned,13,0.7503284506962633,Sector
+Livorno,Communication,30,0.3041008148512394,Sector
+Livorno,Trade,78,0.7570719072253151,Sector
+Livorno,Business_Services,52,0.06085412806986823,Sector
+Livorno,Business_Products,14,0.052202901540035596,Sector
+Livorno,Construction,83,0.2880667615931697,Sector
+Livorno,Services,80,0.7269708231090468,Sector
+Livorno,Mining,1,0.8568681850783401,Sector
+Livorno,Health_Care,95,0.9468204535324675,Sector
+Livorno,EnergyExpL_Prod,83,0.06655140628083,Sector
+Livorno,Utilities,58,0.5389352181574407,Sector

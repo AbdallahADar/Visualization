@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Giurgiu,1807,0.9119308620816245,Overall
-Giurgiu,Technology,155,0.4530141554998749,Sector
-Giurgiu,Healthcare,49,0.5909698159914968,Sector
-Giurgiu,Finance,217,0.9539360154492312,Sector
-Giurgiu,Energy,130,0.8768608809171095,Sector
-Giurgiu,Consumer Goods,123,0.8445899308180271,Sector
-Giurgiu,Utilities,133,0.9776442129783723,Sector
-Giurgiu,Real Estate,128,0.1463013623073126,Sector
-Giurgiu,Telecommunications,147,0.8817635005886169,Sector
-Giurgiu,Materials,167,0.16277176540212912,Sector
-Giurgiu,Industrials,174,0.38671931572348683,Sector
-Giurgiu,Consumer Services,187,0.7099430148357102,Sector
-Giurgiu,Transportation,197,0.2567496212536332,Sector
-Technology,Software,73,0.8401709618316764,Industry
-Technology,Hardware,12,0.3506124920284365,Industry
-Technology,IT Services,70,0.9059511942674298,Industry
-Healthcare,Pharmaceuticals,16,0.7243668770325489,Industry
-Healthcare,Medical Devices,6,0.790051159950741,Industry
-Healthcare,Healthcare Services,27,0.5941139068447305,Industry
-Finance,Banking,92,0.34388132690468076,Industry
-Finance,Insurance,57,0.8397037461263838,Industry
-Finance,Investment Services,68,0.4064689680381891,Industry
-Energy,Oil & Gas,25,0.9172389863784391,Industry
-Energy,Renewable Energy,99,0.20172981074605412,Industry
-Energy,Energy Exploration,6,0.7957848217552582,Industry
-Consumer Goods,Food & Beverage,70,0.454191379752345,Industry
-Consumer Goods,Household Products,14,0.769179234462912,Industry
-Consumer Goods,Apparel,39,0.3886476704811844,Industry
-Utilities,Electric,89,0.767112178322093,Industry
-Utilities,Water,7,0.5395713622231815,Industry
-Utilities,Gas,37,0.48809539943926583,Industry
-Real Estate,Residential,40,0.47399846912693866,Industry
-Real Estate,Commercial,53,0.010206758661871929,Industry
-Real Estate,Industrial,35,0.5328190231157336,Industry
-Telecommunications,Mobile,53,0.8954811936718801,Industry
-Telecommunications,Broadband,75,0.2681565985250227,Industry
-Telecommunications,Satellite,19,0.41336517534005357,Industry
-Materials,Chemicals,29,0.3121300220580131,Industry
-Materials,Metals & Mining,85,0.5925780458634143,Industry
-Materials,Construction Materials,53,0.31656706009728397,Industry
-Industrials,Aerospace & Defense,41,0.4389862427503112,Industry
-Industrials,Machinery,41,0.07666434708214154,Industry
-Industrials,Industrial Services,92,0.4572885731859082,Industry
-Consumer Services,Retail,81,0.8934378236740589,Industry
-Consumer Services,Travel & Leisure,30,0.2633911872820879,Industry
-Consumer Services,Media,76,0.7903161298916286,Industry
-Transportation,Airlines,49,0.9157196939670487,Industry
-Transportation,Railroads,70,0.3399848499936372,Industry
-Transportation,Logistics,78,0.924554933860754,Industry
+,Giurgiu,766,0.505488550011498,Overall
+Giurgiu,HiTech,93,0.25930197299777713,Sector
+Giurgiu,Agriculture,49,0.005890140446313197,Sector
+Giurgiu,Transportation,71,0.5976872537738653,Sector
+Giurgiu,Consumer_Products,49,0.42049745684321505,Sector
+Giurgiu,Unassigned,11,0.715081895684348,Sector
+Giurgiu,Communication,6,0.8727719090134615,Sector
+Giurgiu,Trade,94,0.8928135367811677,Sector
+Giurgiu,Business_Services,73,0.5676350285248853,Sector
+Giurgiu,Business_Products,37,0.22104270154458494,Sector
+Giurgiu,Construction,4,0.21887953920029013,Sector
+Giurgiu,Services,91,0.09696329862171282,Sector
+Giurgiu,Mining,40,0.7506605061709114,Sector
+Giurgiu,Health_Care,55,0.8344517069302058,Sector
+Giurgiu,EnergyExpL_Prod,44,0.8849962474373873,Sector
+Giurgiu,Utilities,49,0.24365505620234496,Sector

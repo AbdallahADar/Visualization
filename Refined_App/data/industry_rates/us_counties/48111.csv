@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dallam,1790,0.30857553522202574,Overall
-Dallam,Technology,133,0.7072142216922281,Sector
-Dallam,Healthcare,191,0.2563555512578314,Sector
-Dallam,Finance,118,0.42108749328504025,Sector
-Dallam,Energy,54,0.5448511459219251,Sector
-Dallam,Consumer Goods,170,0.9308572514942975,Sector
-Dallam,Utilities,172,0.8898553567355982,Sector
-Dallam,Real Estate,144,0.6576960176770432,Sector
-Dallam,Telecommunications,171,0.449460502593236,Sector
-Dallam,Materials,97,0.5385378476988087,Sector
-Dallam,Industrials,182,0.8994794129372092,Sector
-Dallam,Consumer Services,148,0.798489252774929,Sector
-Dallam,Transportation,210,0.8928321477860723,Sector
-Technology,Software,64,0.8897609213010643,Industry
-Technology,Hardware,44,0.04578628160989007,Industry
-Technology,IT Services,25,0.3702732176650678,Industry
-Healthcare,Pharmaceuticals,65,0.9617478153467663,Industry
-Healthcare,Medical Devices,27,0.06270512679848816,Industry
-Healthcare,Healthcare Services,99,0.8524871705240952,Industry
-Finance,Banking,78,0.7115587016061449,Industry
-Finance,Insurance,17,0.3286695368269673,Industry
-Finance,Investment Services,23,0.9151153695600699,Industry
-Energy,Oil & Gas,13,0.33305103013797777,Industry
-Energy,Renewable Energy,28,0.6579677533583095,Industry
-Energy,Energy Exploration,13,0.8019510168672077,Industry
-Consumer Goods,Food & Beverage,4,0.403902284163987,Industry
-Consumer Goods,Household Products,90,0.18219429887157246,Industry
-Consumer Goods,Apparel,76,0.8455801951278047,Industry
-Utilities,Electric,50,0.4040057250950888,Industry
-Utilities,Water,71,0.8482615477757949,Industry
-Utilities,Gas,51,0.5409791469865393,Industry
-Real Estate,Residential,38,0.3993865029888153,Industry
-Real Estate,Commercial,24,0.27292509306970203,Industry
-Real Estate,Industrial,82,0.9435021610471357,Industry
-Telecommunications,Mobile,80,0.24807576964530065,Industry
-Telecommunications,Broadband,46,0.6365992343562082,Industry
-Telecommunications,Satellite,45,0.5785788819008593,Industry
-Materials,Chemicals,19,0.1815145325914833,Industry
-Materials,Metals & Mining,32,0.0053492743311985835,Industry
-Materials,Construction Materials,46,0.10388676405871411,Industry
-Industrials,Aerospace & Defense,54,0.8898042293653566,Industry
-Industrials,Machinery,31,0.6094404789649145,Industry
-Industrials,Industrial Services,97,0.45950913772694935,Industry
-Consumer Services,Retail,48,0.1852345690349484,Industry
-Consumer Services,Travel & Leisure,87,0.6341849454848268,Industry
-Consumer Services,Media,13,0.22042306075965157,Industry
-Transportation,Airlines,83,0.8736129561659389,Industry
-Transportation,Railroads,73,0.03557686797323445,Industry
-Transportation,Logistics,54,0.20432369633314817,Industry
+,Dallam,790,0.566456923337482,Overall
+Dallam,HiTech,20,0.9051209950402027,Sector
+Dallam,Agriculture,52,0.522531089639013,Sector
+Dallam,Transportation,67,0.5447257787132469,Sector
+Dallam,Consumer_Products,49,0.3291817855902407,Sector
+Dallam,Unassigned,44,0.2926105467217519,Sector
+Dallam,Communication,42,0.7471860666670793,Sector
+Dallam,Trade,96,0.5995038612157039,Sector
+Dallam,Business_Services,77,0.76520438083129,Sector
+Dallam,Business_Products,15,0.13506708821261582,Sector
+Dallam,Construction,50,0.8761112316871572,Sector
+Dallam,Services,93,0.8906130537339401,Sector
+Dallam,Mining,46,0.17050981428473577,Sector
+Dallam,Health_Care,33,0.3854006845568062,Sector
+Dallam,EnergyExpL_Prod,57,0.344898106374368,Sector
+Dallam,Utilities,49,0.9881893667940798,Sector

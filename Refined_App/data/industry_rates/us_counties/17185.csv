@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wabash,1737,0.7107749223365568,Overall
-Wabash,Technology,142,0.765469080373328,Sector
-Wabash,Healthcare,150,0.42531450262259496,Sector
-Wabash,Finance,223,0.5793071085321226,Sector
-Wabash,Energy,147,0.32118914355490114,Sector
-Wabash,Consumer Goods,43,0.1322051765508666,Sector
-Wabash,Utilities,223,0.3869375915286001,Sector
-Wabash,Real Estate,117,0.14841436988985435,Sector
-Wabash,Telecommunications,186,0.7748462964172043,Sector
-Wabash,Materials,145,0.827542053843844,Sector
-Wabash,Industrials,127,0.2630005585721126,Sector
-Wabash,Consumer Services,67,0.5747439957954272,Sector
-Wabash,Transportation,167,0.4688940228987686,Sector
-Technology,Software,73,0.8479478958873101,Industry
-Technology,Hardware,58,0.7591323010507284,Industry
-Technology,IT Services,11,0.4746891533228057,Industry
-Healthcare,Pharmaceuticals,65,0.1710765728945728,Industry
-Healthcare,Medical Devices,2,0.0007047096923079588,Industry
-Healthcare,Healthcare Services,83,0.041992524108590445,Industry
-Finance,Banking,37,0.3320760581131935,Industry
-Finance,Insurance,87,0.8124867637352708,Industry
-Finance,Investment Services,99,0.2588938117031695,Industry
-Energy,Oil & Gas,35,0.6444475311402322,Industry
-Energy,Renewable Energy,20,0.7650452584643014,Industry
-Energy,Energy Exploration,92,0.4432587741411299,Industry
-Consumer Goods,Food & Beverage,6,0.15518304668723137,Industry
-Consumer Goods,Household Products,26,0.2908717909778388,Industry
-Consumer Goods,Apparel,11,0.34326380219621233,Industry
-Utilities,Electric,64,0.07073795885956657,Industry
-Utilities,Water,63,0.8393725562012516,Industry
-Utilities,Gas,96,0.5267723248013092,Industry
-Real Estate,Residential,18,0.6195030169238388,Industry
-Real Estate,Commercial,47,0.4098939869492594,Industry
-Real Estate,Industrial,52,0.012695796863239739,Industry
-Telecommunications,Mobile,51,0.21388195746893757,Industry
-Telecommunications,Broadband,80,0.12875966124550764,Industry
-Telecommunications,Satellite,55,0.21780467447734075,Industry
-Materials,Chemicals,61,0.8323108518833656,Industry
-Materials,Metals & Mining,72,0.3063279335466351,Industry
-Materials,Construction Materials,12,0.35136201710164927,Industry
-Industrials,Aerospace & Defense,28,0.6772860816335224,Industry
-Industrials,Machinery,98,0.5310969064952861,Industry
-Industrials,Industrial Services,1,0.25297362557324876,Industry
-Consumer Services,Retail,24,0.5975974218342319,Industry
-Consumer Services,Travel & Leisure,41,0.24689233799380195,Industry
-Consumer Services,Media,2,0.7541660583100956,Industry
-Transportation,Airlines,69,0.5487933031269103,Industry
-Transportation,Railroads,46,0.9007707054560857,Industry
-Transportation,Logistics,52,0.687026827000585,Industry
+,Wabash,765,0.5580519446362456,Overall
+Wabash,HiTech,52,0.6570338682050463,Sector
+Wabash,Agriculture,33,0.8075943379231696,Sector
+Wabash,Transportation,79,0.4790437920308859,Sector
+Wabash,Consumer_Products,62,0.46368505833828466,Sector
+Wabash,Unassigned,86,0.5309321363511779,Sector
+Wabash,Communication,23,0.6726424463671186,Sector
+Wabash,Trade,41,0.6182633156080602,Sector
+Wabash,Business_Services,92,0.09942862261705643,Sector
+Wabash,Business_Products,6,0.6245038421062792,Sector
+Wabash,Construction,30,0.9602448770273818,Sector
+Wabash,Services,77,0.9475197522015245,Sector
+Wabash,Mining,91,0.3149380735089179,Sector
+Wabash,Health_Care,36,0.2268654829632737,Sector
+Wabash,EnergyExpL_Prod,28,0.030823513341918796,Sector
+Wabash,Utilities,29,0.9372600509535884,Sector

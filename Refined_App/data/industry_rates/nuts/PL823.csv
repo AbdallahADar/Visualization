@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rzeszowski,1816,0.4144263119014957,Overall
-Rzeszowski,Technology,124,0.21793299549230294,Sector
-Rzeszowski,Healthcare,223,0.18013529479092116,Sector
-Rzeszowski,Finance,98,0.17674779085208037,Sector
-Rzeszowski,Energy,161,0.7294920143761149,Sector
-Rzeszowski,Consumer Goods,172,0.7827601449393962,Sector
-Rzeszowski,Utilities,148,0.4511411657691188,Sector
-Rzeszowski,Real Estate,107,0.46796772851607626,Sector
-Rzeszowski,Telecommunications,101,0.5719070236268273,Sector
-Rzeszowski,Materials,224,0.790290709525444,Sector
-Rzeszowski,Industrials,93,0.1207566605210093,Sector
-Rzeszowski,Consumer Services,89,0.30130799526624397,Sector
-Rzeszowski,Transportation,276,0.262617040549727,Sector
-Technology,Software,29,0.13462757925548907,Industry
-Technology,Hardware,93,0.820802225992601,Industry
-Technology,IT Services,2,0.2481428485269055,Industry
-Healthcare,Pharmaceuticals,90,0.495427219165001,Industry
-Healthcare,Medical Devices,91,0.7942710815137995,Industry
-Healthcare,Healthcare Services,42,0.9659176748668152,Industry
-Finance,Banking,20,0.8964939086687763,Industry
-Finance,Insurance,53,0.9444786301384057,Industry
-Finance,Investment Services,25,0.4713848364797133,Industry
-Energy,Oil & Gas,17,0.16692207852193586,Industry
-Energy,Renewable Energy,74,0.46039010104618683,Industry
-Energy,Energy Exploration,70,0.20084257078933165,Industry
-Consumer Goods,Food & Beverage,65,0.2047407219118571,Industry
-Consumer Goods,Household Products,18,0.7503532668362377,Industry
-Consumer Goods,Apparel,89,0.3341602331108404,Industry
-Utilities,Electric,26,0.13641557218516553,Industry
-Utilities,Water,48,0.3275902492494597,Industry
-Utilities,Gas,74,0.7078463971109439,Industry
-Real Estate,Residential,48,0.2851991569152965,Industry
-Real Estate,Commercial,51,0.37796796758381257,Industry
-Real Estate,Industrial,8,0.8317336542565622,Industry
-Telecommunications,Mobile,49,0.2080132353422306,Industry
-Telecommunications,Broadband,22,0.39596617839741766,Industry
-Telecommunications,Satellite,30,0.5797466887895423,Industry
-Materials,Chemicals,73,0.04139539870749531,Industry
-Materials,Metals & Mining,93,0.3984267043947831,Industry
-Materials,Construction Materials,58,0.834168810911871,Industry
-Industrials,Aerospace & Defense,8,0.08011827846548591,Industry
-Industrials,Machinery,9,0.2763722408760615,Industry
-Industrials,Industrial Services,76,0.781271582430405,Industry
-Consumer Services,Retail,28,0.17440688517567393,Industry
-Consumer Services,Travel & Leisure,50,0.5324523573334348,Industry
-Consumer Services,Media,11,0.5194744003547381,Industry
-Transportation,Airlines,80,0.8719770242351059,Industry
-Transportation,Railroads,99,0.6723157232733621,Industry
-Transportation,Logistics,97,0.3757390250050703,Industry
+,Rzeszowski,750,0.5449276898225037,Overall
+Rzeszowski,HiTech,71,0.6695479439889285,Sector
+Rzeszowski,Agriculture,83,0.685279206161046,Sector
+Rzeszowski,Transportation,69,0.626895279191879,Sector
+Rzeszowski,Consumer_Products,61,0.9230207329604087,Sector
+Rzeszowski,Unassigned,67,0.7757735686119575,Sector
+Rzeszowski,Communication,31,0.5161710430790888,Sector
+Rzeszowski,Trade,81,0.40873601046549,Sector
+Rzeszowski,Business_Services,58,0.9243573304934454,Sector
+Rzeszowski,Business_Products,47,0.5375293615300974,Sector
+Rzeszowski,Construction,4,0.28610399111314533,Sector
+Rzeszowski,Services,2,0.2724901459154352,Sector
+Rzeszowski,Mining,66,0.554925133282537,Sector
+Rzeszowski,Health_Care,14,0.22438682361814943,Sector
+Rzeszowski,EnergyExpL_Prod,8,0.6357183347325038,Sector
+Rzeszowski,Utilities,88,0.13298044219344352,Sector

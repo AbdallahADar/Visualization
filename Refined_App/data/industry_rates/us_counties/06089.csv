@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Shasta,1678,0.2561045578822285,Overall
-Shasta,Technology,204,0.13865832172211312,Sector
-Shasta,Healthcare,89,0.5008751742959001,Sector
-Shasta,Finance,148,0.867970136883557,Sector
-Shasta,Energy,97,0.9649418154128163,Sector
-Shasta,Consumer Goods,206,0.7000926090371248,Sector
-Shasta,Utilities,133,0.9720296984392247,Sector
-Shasta,Real Estate,75,0.19362589734976587,Sector
-Shasta,Telecommunications,125,0.33085188030351564,Sector
-Shasta,Materials,165,0.4774795958893464,Sector
-Shasta,Industrials,126,0.5001382544254963,Sector
-Shasta,Consumer Services,190,0.06967088778735897,Sector
-Shasta,Transportation,120,0.6754716013575531,Sector
-Technology,Software,92,0.7521011782344268,Industry
-Technology,Hardware,45,0.7661306925565381,Industry
-Technology,IT Services,67,0.4139933660161228,Industry
-Healthcare,Pharmaceuticals,16,0.7578950305454021,Industry
-Healthcare,Medical Devices,18,0.33582093333282914,Industry
-Healthcare,Healthcare Services,55,0.9563816706925065,Industry
-Finance,Banking,55,0.0038358067779593608,Industry
-Finance,Insurance,15,0.6496206026943915,Industry
-Finance,Investment Services,78,0.23594836104568973,Industry
-Energy,Oil & Gas,62,0.524053035888324,Industry
-Energy,Renewable Energy,13,0.7891142981159219,Industry
-Energy,Energy Exploration,22,0.012033322337173469,Industry
-Consumer Goods,Food & Beverage,37,0.9363359591280529,Industry
-Consumer Goods,Household Products,91,0.006582540252602742,Industry
-Consumer Goods,Apparel,78,0.34871874356602717,Industry
-Utilities,Electric,78,0.24372941032016704,Industry
-Utilities,Water,6,0.029274073309280224,Industry
-Utilities,Gas,49,0.7941888958125206,Industry
-Real Estate,Residential,33,0.5164748061084652,Industry
-Real Estate,Commercial,21,0.18546012231133246,Industry
-Real Estate,Industrial,21,0.07539164655643993,Industry
-Telecommunications,Mobile,55,0.13891133304117964,Industry
-Telecommunications,Broadband,24,0.370664698681905,Industry
-Telecommunications,Satellite,46,0.9208429371985051,Industry
-Materials,Chemicals,76,0.9240555006720862,Industry
-Materials,Metals & Mining,42,0.5757583874796416,Industry
-Materials,Construction Materials,47,0.39129627697988545,Industry
-Industrials,Aerospace & Defense,49,0.3352461536863989,Industry
-Industrials,Machinery,45,0.654239732585902,Industry
-Industrials,Industrial Services,32,0.8040788780786182,Industry
-Consumer Services,Retail,34,0.766278888064809,Industry
-Consumer Services,Travel & Leisure,82,0.5234829001443431,Industry
-Consumer Services,Media,74,0.08902020096916918,Industry
-Transportation,Airlines,47,0.5982535919106605,Industry
-Transportation,Railroads,71,0.9349629621693051,Industry
-Transportation,Logistics,2,0.4701717002209487,Industry
+,Shasta,721,0.3217440420894711,Overall
+Shasta,HiTech,21,0.07104931199059183,Sector
+Shasta,Agriculture,97,0.11096759834226788,Sector
+Shasta,Transportation,63,0.3704589510098174,Sector
+Shasta,Consumer_Products,27,0.02973379722439584,Sector
+Shasta,Unassigned,31,0.06690462797188801,Sector
+Shasta,Communication,72,0.6091753393311269,Sector
+Shasta,Trade,90,0.5719574743400899,Sector
+Shasta,Business_Services,71,0.14150275686567082,Sector
+Shasta,Business_Products,39,0.11770249718066839,Sector
+Shasta,Construction,28,0.16990164635770566,Sector
+Shasta,Services,59,0.5131203773527203,Sector
+Shasta,Mining,96,0.7854896521397339,Sector
+Shasta,Health_Care,26,0.07538660554811594,Sector
+Shasta,EnergyExpL_Prod,0,0.7816222471948494,Sector
+Shasta,Utilities,1,0.41118774849242457,Sector

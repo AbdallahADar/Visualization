@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Stafford,1675,0.834184871562426,Overall
-Stafford,Technology,93,0.722969387654181,Sector
-Stafford,Healthcare,177,0.3573967990759679,Sector
-Stafford,Finance,234,0.42236110162464446,Sector
-Stafford,Energy,120,0.31468332276229594,Sector
-Stafford,Consumer Goods,99,0.6882343525079836,Sector
-Stafford,Utilities,63,0.9732599292339765,Sector
-Stafford,Real Estate,226,0.06168570789590744,Sector
-Stafford,Telecommunications,83,0.9342734823694016,Sector
-Stafford,Materials,162,0.09535592300584816,Sector
-Stafford,Industrials,161,0.27548147229428266,Sector
-Stafford,Consumer Services,127,0.2854595062561883,Sector
-Stafford,Transportation,130,0.01699814869645877,Sector
-Technology,Software,52,0.7512695912248102,Industry
-Technology,Hardware,8,0.4865794422054164,Industry
-Technology,IT Services,33,0.5891009605824833,Industry
-Healthcare,Pharmaceuticals,25,0.8153129179496136,Industry
-Healthcare,Medical Devices,90,0.5625401894766249,Industry
-Healthcare,Healthcare Services,62,0.6985202160523087,Industry
-Finance,Banking,85,0.6426422967694225,Industry
-Finance,Insurance,85,0.752314949430194,Industry
-Finance,Investment Services,64,0.2657908093444258,Industry
-Energy,Oil & Gas,23,0.23710112350989343,Industry
-Energy,Renewable Energy,2,0.0073732234761243465,Industry
-Energy,Energy Exploration,95,0.2961084556537844,Industry
-Consumer Goods,Food & Beverage,27,0.8275848163490883,Industry
-Consumer Goods,Household Products,45,0.895395894462712,Industry
-Consumer Goods,Apparel,27,0.962664564778374,Industry
-Utilities,Electric,6,0.5105558644995848,Industry
-Utilities,Water,13,0.740528795002554,Industry
-Utilities,Gas,44,0.7199343118506948,Industry
-Real Estate,Residential,76,0.3721239242756399,Industry
-Real Estate,Commercial,54,0.6211323993089305,Industry
-Real Estate,Industrial,96,0.4061102192100553,Industry
-Telecommunications,Mobile,1,0.6185234760428759,Industry
-Telecommunications,Broadband,55,0.954313099485246,Industry
-Telecommunications,Satellite,27,0.8801791188819481,Industry
-Materials,Chemicals,99,0.36476642432032513,Industry
-Materials,Metals & Mining,41,0.3136851910101225,Industry
-Materials,Construction Materials,22,0.7512361443681537,Industry
-Industrials,Aerospace & Defense,86,0.9487634521487857,Industry
-Industrials,Machinery,56,0.19791417756124474,Industry
-Industrials,Industrial Services,19,0.28073206089415237,Industry
-Consumer Services,Retail,4,0.8631805295573544,Industry
-Consumer Services,Travel & Leisure,50,0.7588208532601285,Industry
-Consumer Services,Media,73,0.30157384498589823,Industry
-Transportation,Airlines,57,0.17474066566741764,Industry
-Transportation,Railroads,2,0.522849743363832,Industry
-Transportation,Logistics,71,0.8399437175270107,Industry
+,Stafford,788,0.5245412913346851,Overall
+Stafford,HiTech,56,0.732254526254325,Sector
+Stafford,Agriculture,91,0.9532858793649523,Sector
+Stafford,Transportation,0,0.33185305455979186,Sector
+Stafford,Consumer_Products,29,0.6736067938128226,Sector
+Stafford,Unassigned,86,0.7909641595128036,Sector
+Stafford,Communication,72,0.22463846306508184,Sector
+Stafford,Trade,73,0.48428726039090053,Sector
+Stafford,Business_Services,64,0.44895750323856365,Sector
+Stafford,Business_Products,69,0.9651224181497843,Sector
+Stafford,Construction,52,0.9526367658913655,Sector
+Stafford,Services,81,0.5601088502691263,Sector
+Stafford,Mining,7,0.30524801997729833,Sector
+Stafford,Health_Care,50,0.19279879904915265,Sector
+Stafford,EnergyExpL_Prod,3,0.1583105068366516,Sector
+Stafford,Utilities,55,0.09404636964765567,Sector

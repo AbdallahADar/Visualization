@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wicomico,1977,0.39080549064941605,Overall
-Wicomico,Technology,142,0.017316759871978227,Sector
-Wicomico,Healthcare,178,0.568027389964928,Sector
-Wicomico,Finance,221,0.0845630547580769,Sector
-Wicomico,Energy,165,0.744068489537636,Sector
-Wicomico,Consumer Goods,226,0.8581124090954931,Sector
-Wicomico,Utilities,132,0.15008841707590592,Sector
-Wicomico,Real Estate,192,0.8037299487812499,Sector
-Wicomico,Telecommunications,102,0.5996533441209891,Sector
-Wicomico,Materials,150,0.9248458214720103,Sector
-Wicomico,Industrials,224,0.09914842241365363,Sector
-Wicomico,Consumer Services,113,0.22002882577300376,Sector
-Wicomico,Transportation,132,0.09488477675903728,Sector
-Technology,Software,8,0.912490835490928,Industry
-Technology,Hardware,47,0.5920808978826608,Industry
-Technology,IT Services,87,0.9255784427251702,Industry
-Healthcare,Pharmaceuticals,24,0.38920245029109424,Industry
-Healthcare,Medical Devices,87,0.7457602476822496,Industry
-Healthcare,Healthcare Services,67,0.011059120844139736,Industry
-Finance,Banking,93,0.11802292434631045,Industry
-Finance,Insurance,51,0.27547833551317025,Industry
-Finance,Investment Services,77,0.007326183273944853,Industry
-Energy,Oil & Gas,48,0.47550105583330615,Industry
-Energy,Renewable Energy,66,0.38018347951433895,Industry
-Energy,Energy Exploration,51,0.8343260668344961,Industry
-Consumer Goods,Food & Beverage,65,0.7920355255033292,Industry
-Consumer Goods,Household Products,79,0.6080014203810616,Industry
-Consumer Goods,Apparel,82,0.7422779282227524,Industry
-Utilities,Electric,44,0.9389272459648286,Industry
-Utilities,Water,81,0.4371177168613758,Industry
-Utilities,Gas,7,0.6888870277689663,Industry
-Real Estate,Residential,88,0.5643906435613637,Industry
-Real Estate,Commercial,50,0.8046713154999448,Industry
-Real Estate,Industrial,54,0.40077471250453256,Industry
-Telecommunications,Mobile,66,0.5725861526009883,Industry
-Telecommunications,Broadband,30,0.6995490405498035,Industry
-Telecommunications,Satellite,6,0.3890500200270993,Industry
-Materials,Chemicals,91,0.6618009580756998,Industry
-Materials,Metals & Mining,33,0.3927210734521789,Industry
-Materials,Construction Materials,26,0.7106191024364986,Industry
-Industrials,Aerospace & Defense,99,0.27145413099581006,Industry
-Industrials,Machinery,49,0.20988625412729878,Industry
-Industrials,Industrial Services,76,0.22381880333703996,Industry
-Consumer Services,Retail,50,0.798931391503462,Industry
-Consumer Services,Travel & Leisure,50,0.5640035298827005,Industry
-Consumer Services,Media,13,0.5638345332325638,Industry
-Transportation,Airlines,69,0.2877020223425203,Industry
-Transportation,Railroads,11,0.6343483709161782,Industry
-Transportation,Logistics,52,0.7815210322298864,Industry
+,Wicomico,767,0.6547495469880898,Overall
+Wicomico,HiTech,72,0.912472160074286,Sector
+Wicomico,Agriculture,64,0.9392615916596734,Sector
+Wicomico,Transportation,10,0.14682241933585283,Sector
+Wicomico,Consumer_Products,89,0.9120982588461491,Sector
+Wicomico,Unassigned,31,0.3351720429789372,Sector
+Wicomico,Communication,36,0.6105009482963035,Sector
+Wicomico,Trade,22,0.5521041820749668,Sector
+Wicomico,Business_Services,99,0.6149595290792262,Sector
+Wicomico,Business_Products,31,0.30486330204784606,Sector
+Wicomico,Construction,84,0.9275924291347676,Sector
+Wicomico,Services,75,0.9762071285094398,Sector
+Wicomico,Mining,87,0.9986492668860164,Sector
+Wicomico,Health_Care,2,0.3308079429523365,Sector
+Wicomico,EnergyExpL_Prod,22,0.688335769830812,Sector
+Wicomico,Utilities,43,0.5713962331147324,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Washburn,1574,0.5105506635177645,Overall
-Washburn,Technology,104,0.018379055958926638,Sector
-Washburn,Healthcare,86,0.4183361437388501,Sector
-Washburn,Finance,106,0.8714803474168147,Sector
-Washburn,Energy,185,0.061757815649987835,Sector
-Washburn,Consumer Goods,144,0.03562818541730084,Sector
-Washburn,Utilities,208,0.2684840782968084,Sector
-Washburn,Real Estate,141,0.7718337744693177,Sector
-Washburn,Telecommunications,145,0.24297491638721713,Sector
-Washburn,Materials,182,0.6783582220102384,Sector
-Washburn,Industrials,76,0.43847649190642846,Sector
-Washburn,Consumer Services,143,0.8070166159827703,Sector
-Washburn,Transportation,54,0.776152981975007,Sector
-Technology,Software,45,0.7575939701896567,Industry
-Technology,Hardware,51,0.27668235355940873,Industry
-Technology,IT Services,8,0.43527530556111316,Industry
-Healthcare,Pharmaceuticals,6,0.2426688849526053,Industry
-Healthcare,Medical Devices,11,0.2454690194919893,Industry
-Healthcare,Healthcare Services,69,0.3961029737915992,Industry
-Finance,Banking,48,0.769230652075085,Industry
-Finance,Insurance,34,0.7822909597668879,Industry
-Finance,Investment Services,24,0.20937182173160507,Industry
-Energy,Oil & Gas,58,0.9425839656909422,Industry
-Energy,Renewable Energy,77,0.2673790133305356,Industry
-Energy,Energy Exploration,50,0.7025378749233749,Industry
-Consumer Goods,Food & Beverage,49,0.026400236451990744,Industry
-Consumer Goods,Household Products,55,0.6034008276530474,Industry
-Consumer Goods,Apparel,40,0.13388500776822987,Industry
-Utilities,Electric,61,0.15144536060876623,Industry
-Utilities,Water,53,0.4779707977274734,Industry
-Utilities,Gas,94,0.3065920966998129,Industry
-Real Estate,Residential,86,0.26443757107276833,Industry
-Real Estate,Commercial,15,0.25893903169420196,Industry
-Real Estate,Industrial,40,0.9288416584734368,Industry
-Telecommunications,Mobile,68,0.6326253238616427,Industry
-Telecommunications,Broadband,64,0.9921286901865083,Industry
-Telecommunications,Satellite,13,0.851825026196906,Industry
-Materials,Chemicals,8,0.9910599692043855,Industry
-Materials,Metals & Mining,78,0.1043173622274508,Industry
-Materials,Construction Materials,96,0.9381527373029774,Industry
-Industrials,Aerospace & Defense,46,0.3249349125406268,Industry
-Industrials,Machinery,20,0.5898476561051442,Industry
-Industrials,Industrial Services,10,0.1367931746250618,Industry
-Consumer Services,Retail,37,0.9135881395387734,Industry
-Consumer Services,Travel & Leisure,37,0.3362528434739036,Industry
-Consumer Services,Media,69,0.9192306530471114,Industry
-Transportation,Airlines,30,0.4975256421180222,Industry
-Transportation,Railroads,9,0.08866024601472444,Industry
-Transportation,Logistics,15,0.8105421289827182,Industry
+,Washburn,775,0.494293278696167,Overall
+Washburn,HiTech,13,0.3762720992316161,Sector
+Washburn,Agriculture,71,0.82211927584093,Sector
+Washburn,Transportation,35,0.4490046882853693,Sector
+Washburn,Consumer_Products,30,0.4089195443208751,Sector
+Washburn,Unassigned,98,0.36817901207766845,Sector
+Washburn,Communication,71,0.9645312680827591,Sector
+Washburn,Trade,25,0.9958173090574293,Sector
+Washburn,Business_Services,69,0.2546444159593241,Sector
+Washburn,Business_Products,56,0.722656655837045,Sector
+Washburn,Construction,35,0.8652477672926678,Sector
+Washburn,Services,62,0.7180981310365948,Sector
+Washburn,Mining,68,0.19305906377458348,Sector
+Washburn,Health_Care,37,0.043947781363099514,Sector
+Washburn,EnergyExpL_Prod,90,0.18857477297141756,Sector
+Washburn,Utilities,15,0.04332739531112606,Sector

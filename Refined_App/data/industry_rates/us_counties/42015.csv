@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bradford,1833,0.4676873109303582,Overall
-Bradford,Technology,190,0.4121775858372573,Sector
-Bradford,Healthcare,187,0.21482916563906906,Sector
-Bradford,Finance,109,0.21166327373200677,Sector
-Bradford,Energy,117,0.09806363271396412,Sector
-Bradford,Consumer Goods,98,0.12557812098657506,Sector
-Bradford,Utilities,246,0.15125967365809723,Sector
-Bradford,Real Estate,185,0.0009185971717488028,Sector
-Bradford,Telecommunications,149,0.6953740039259537,Sector
-Bradford,Materials,190,0.49446319949956463,Sector
-Bradford,Industrials,175,0.02029063613158999,Sector
-Bradford,Consumer Services,125,0.4284185086652714,Sector
-Bradford,Transportation,62,0.4598176322753439,Sector
-Technology,Software,71,0.5197531560951516,Industry
-Technology,Hardware,85,0.058466902807765786,Industry
-Technology,IT Services,34,0.016569159013757773,Industry
-Healthcare,Pharmaceuticals,98,0.5201436005887088,Industry
-Healthcare,Medical Devices,40,0.16988425201225166,Industry
-Healthcare,Healthcare Services,49,0.32886074370261653,Industry
-Finance,Banking,6,0.8094697504071985,Industry
-Finance,Insurance,55,0.5405863325499198,Industry
-Finance,Investment Services,48,0.15372014951037205,Industry
-Energy,Oil & Gas,88,0.19375203621474313,Industry
-Energy,Renewable Energy,28,0.6805858953584336,Industry
-Energy,Energy Exploration,1,0.20430027040945598,Industry
-Consumer Goods,Food & Beverage,2,0.4815242825831173,Industry
-Consumer Goods,Household Products,59,0.28106547604903986,Industry
-Consumer Goods,Apparel,37,0.03236991640919984,Industry
-Utilities,Electric,73,0.5166128145444396,Industry
-Utilities,Water,89,0.28915997090296164,Industry
-Utilities,Gas,84,0.9003346847972017,Industry
-Real Estate,Residential,89,0.8814418432242866,Industry
-Real Estate,Commercial,84,0.7370210690936898,Industry
-Real Estate,Industrial,12,0.010455097191042206,Industry
-Telecommunications,Mobile,41,0.5206908252075351,Industry
-Telecommunications,Broadband,65,0.615239475196631,Industry
-Telecommunications,Satellite,43,0.18775384754330127,Industry
-Materials,Chemicals,31,0.35244774924452815,Industry
-Materials,Metals & Mining,75,0.5432910359382772,Industry
-Materials,Construction Materials,84,0.32011569324164424,Industry
-Industrials,Aerospace & Defense,70,0.6862442459720514,Industry
-Industrials,Machinery,61,0.35545904659757543,Industry
-Industrials,Industrial Services,44,0.0635993033289578,Industry
-Consumer Services,Retail,91,0.30703534422384215,Industry
-Consumer Services,Travel & Leisure,28,0.0346374740286306,Industry
-Consumer Services,Media,6,0.9368490171428459,Industry
-Transportation,Airlines,2,0.22342074126076328,Industry
-Transportation,Railroads,18,0.43707630500544536,Industry
-Transportation,Logistics,42,0.3748304164630687,Industry
+,Bradford,846,0.4573261692451378,Overall
+Bradford,HiTech,68,0.9434122470747197,Sector
+Bradford,Agriculture,83,0.6293875322787928,Sector
+Bradford,Transportation,11,0.0599351893124177,Sector
+Bradford,Consumer_Products,15,0.7156183288094627,Sector
+Bradford,Unassigned,87,0.32100124509648764,Sector
+Bradford,Communication,20,0.3099580427905616,Sector
+Bradford,Trade,26,0.2696871204441327,Sector
+Bradford,Business_Services,98,0.620420776604736,Sector
+Bradford,Business_Products,27,0.03468470293431358,Sector
+Bradford,Construction,6,0.28795185583982874,Sector
+Bradford,Services,81,0.48230806502882806,Sector
+Bradford,Mining,99,0.6247949689577069,Sector
+Bradford,Health_Care,98,0.0643466867974557,Sector
+Bradford,EnergyExpL_Prod,60,0.6699403702768607,Sector
+Bradford,Utilities,67,0.8264454064307619,Sector

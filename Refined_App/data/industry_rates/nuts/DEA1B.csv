@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kleve,1909,0.3026969564602203,Overall
-Kleve,Technology,124,0.3145754595627944,Sector
-Kleve,Healthcare,196,0.8191208416779235,Sector
-Kleve,Finance,176,0.31406700172744517,Sector
-Kleve,Energy,122,0.12445504818846631,Sector
-Kleve,Consumer Goods,149,0.6201736341142011,Sector
-Kleve,Utilities,177,0.2725758923749714,Sector
-Kleve,Real Estate,108,0.34469255941691346,Sector
-Kleve,Telecommunications,86,0.7347336809496576,Sector
-Kleve,Materials,197,0.3136932547812675,Sector
-Kleve,Industrials,255,0.8816518391235203,Sector
-Kleve,Consumer Services,139,0.5292923409030013,Sector
-Kleve,Transportation,180,0.9475874558908591,Sector
-Technology,Software,55,0.7470477243347196,Industry
-Technology,Hardware,27,0.951976704361641,Industry
-Technology,IT Services,42,0.30047667318680316,Industry
-Healthcare,Pharmaceuticals,73,0.7758326627088236,Industry
-Healthcare,Medical Devices,70,0.7883603206610841,Industry
-Healthcare,Healthcare Services,53,0.014744054890794889,Industry
-Finance,Banking,80,0.30877662401229933,Industry
-Finance,Insurance,1,0.4815710409040267,Industry
-Finance,Investment Services,95,0.1605274372545905,Industry
-Energy,Oil & Gas,25,0.1977796315403908,Industry
-Energy,Renewable Energy,59,0.6220309745759346,Industry
-Energy,Energy Exploration,38,0.4679122211909109,Industry
-Consumer Goods,Food & Beverage,65,0.5133259380335168,Industry
-Consumer Goods,Household Products,70,0.014706380040820699,Industry
-Consumer Goods,Apparel,14,0.8790384065000477,Industry
-Utilities,Electric,25,0.9376297438342471,Industry
-Utilities,Water,75,0.5016891994614451,Industry
-Utilities,Gas,77,0.29626136137517645,Industry
-Real Estate,Residential,55,0.8728596250385586,Industry
-Real Estate,Commercial,20,0.042666482956156826,Industry
-Real Estate,Industrial,33,0.5385192370623932,Industry
-Telecommunications,Mobile,12,0.38982547566999104,Industry
-Telecommunications,Broadband,31,0.5016116772393073,Industry
-Telecommunications,Satellite,43,0.9140622656109472,Industry
-Materials,Chemicals,45,0.6580335551430735,Industry
-Materials,Metals & Mining,62,0.4321520512196583,Industry
-Materials,Construction Materials,90,0.7030286587010417,Industry
-Industrials,Aerospace & Defense,97,0.40790210453585707,Industry
-Industrials,Machinery,67,0.7639576878495534,Industry
-Industrials,Industrial Services,91,0.7843820831453486,Industry
-Consumer Services,Retail,64,0.8160106585231774,Industry
-Consumer Services,Travel & Leisure,42,0.5830339592817809,Industry
-Consumer Services,Media,33,0.3612107636623738,Industry
-Transportation,Airlines,54,0.310624522069059,Industry
-Transportation,Railroads,31,0.9137694622465464,Industry
-Transportation,Logistics,95,0.7527521525621466,Industry
+,Kleve,831,0.5920576634915994,Overall
+Kleve,HiTech,61,0.45941111986520056,Sector
+Kleve,Agriculture,87,0.19801694618508614,Sector
+Kleve,Transportation,46,0.35108797660721325,Sector
+Kleve,Consumer_Products,3,0.3143448653227603,Sector
+Kleve,Unassigned,68,0.33042671563983117,Sector
+Kleve,Communication,35,0.7436781460390096,Sector
+Kleve,Trade,67,0.7207480456672247,Sector
+Kleve,Business_Services,98,0.862729518870566,Sector
+Kleve,Business_Products,15,0.6999569367779463,Sector
+Kleve,Construction,93,0.9734538454533649,Sector
+Kleve,Services,47,0.9492128081598143,Sector
+Kleve,Mining,66,0.9387083521100174,Sector
+Kleve,Health_Care,76,0.12699964878862502,Sector
+Kleve,EnergyExpL_Prod,47,0.6435234994883949,Sector
+Kleve,Utilities,22,0.5685665273989351,Sector

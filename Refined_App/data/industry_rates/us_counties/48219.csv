@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hockley,1563,0.9718720945588204,Overall
-Hockley,Technology,167,0.9637927512590966,Sector
-Hockley,Healthcare,119,0.11982382313302153,Sector
-Hockley,Finance,115,0.5869569204803659,Sector
-Hockley,Energy,13,0.8953597319456237,Sector
-Hockley,Consumer Goods,134,0.40780375317499473,Sector
-Hockley,Utilities,112,0.297527268746112,Sector
-Hockley,Real Estate,129,0.21667547992694047,Sector
-Hockley,Telecommunications,238,0.817176099533229,Sector
-Hockley,Materials,82,0.20833905727110802,Sector
-Hockley,Industrials,106,0.5479428890350748,Sector
-Hockley,Consumer Services,216,0.6936493154298834,Sector
-Hockley,Transportation,132,0.7307246996683402,Sector
-Technology,Software,70,0.1207033208706183,Industry
-Technology,Hardware,34,0.008542876571008828,Industry
-Technology,IT Services,63,0.1535851442310736,Industry
-Healthcare,Pharmaceuticals,93,0.506383842062975,Industry
-Healthcare,Medical Devices,21,0.1916372893601883,Industry
-Healthcare,Healthcare Services,5,0.5330000299530924,Industry
-Finance,Banking,31,0.9666677804387915,Industry
-Finance,Insurance,9,0.18408771813112768,Industry
-Finance,Investment Services,75,0.5237766129569367,Industry
-Energy,Oil & Gas,3,0.2095896927560319,Industry
-Energy,Renewable Energy,10,0.053224037866568485,Industry
-Energy,Energy Exploration,0,0.6985424639169248,Industry
-Consumer Goods,Food & Beverage,0,0.22721351981449334,Industry
-Consumer Goods,Household Products,58,0.6398339467241725,Industry
-Consumer Goods,Apparel,76,0.3348757819388879,Industry
-Utilities,Electric,18,0.9767501004308694,Industry
-Utilities,Water,74,0.5940295274333737,Industry
-Utilities,Gas,20,0.1813105688880512,Industry
-Real Estate,Residential,88,0.11515543273221873,Industry
-Real Estate,Commercial,22,0.6847878307480061,Industry
-Real Estate,Industrial,19,0.37283229637555926,Industry
-Telecommunications,Mobile,83,0.3329552827917015,Industry
-Telecommunications,Broadband,96,0.5217454877689349,Industry
-Telecommunications,Satellite,59,0.14278031105464417,Industry
-Materials,Chemicals,37,0.35174680570036754,Industry
-Materials,Metals & Mining,21,0.43123187355696524,Industry
-Materials,Construction Materials,24,0.9914022997976527,Industry
-Industrials,Aerospace & Defense,11,0.892475854312869,Industry
-Industrials,Machinery,64,0.10380608323136886,Industry
-Industrials,Industrial Services,31,0.49219334231523537,Industry
-Consumer Services,Retail,83,0.3069034987304563,Industry
-Consumer Services,Travel & Leisure,45,0.8611505398079695,Industry
-Consumer Services,Media,88,0.8812229059285118,Industry
-Transportation,Airlines,88,0.0723321352415085,Industry
-Transportation,Railroads,19,0.5635887181447112,Industry
-Transportation,Logistics,25,0.37727045759555167,Industry
+,Hockley,833,0.4419040010457726,Overall
+Hockley,HiTech,48,0.14158356045058085,Sector
+Hockley,Agriculture,8,0.8641934119127496,Sector
+Hockley,Transportation,45,0.8516388216624996,Sector
+Hockley,Consumer_Products,14,0.2267558044050343,Sector
+Hockley,Unassigned,38,0.17060004567235787,Sector
+Hockley,Communication,95,0.4751817724874724,Sector
+Hockley,Trade,52,0.127732241507728,Sector
+Hockley,Business_Services,65,0.5205908233505456,Sector
+Hockley,Business_Products,45,0.5560450121184703,Sector
+Hockley,Construction,74,0.4366564694185924,Sector
+Hockley,Services,75,0.35591957610459746,Sector
+Hockley,Mining,84,0.8778589702269016,Sector
+Hockley,Health_Care,61,0.30424620701517047,Sector
+Hockley,EnergyExpL_Prod,99,0.3665368630456747,Sector
+Hockley,Utilities,30,0.3530204363082138,Sector

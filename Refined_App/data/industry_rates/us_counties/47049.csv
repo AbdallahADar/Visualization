@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fentress,1889,0.9068687969854476,Overall
-Fentress,Technology,86,0.3178097923515061,Sector
-Fentress,Healthcare,155,0.25356502905481504,Sector
-Fentress,Finance,186,0.8334572379144964,Sector
-Fentress,Energy,194,0.33136719491909794,Sector
-Fentress,Consumer Goods,211,0.5095419542268874,Sector
-Fentress,Utilities,148,0.040868698014195126,Sector
-Fentress,Real Estate,160,0.8485898598407332,Sector
-Fentress,Telecommunications,186,0.5970576468194135,Sector
-Fentress,Materials,81,0.5210406022378437,Sector
-Fentress,Industrials,193,0.34972100952395013,Sector
-Fentress,Consumer Services,205,0.6528427918253465,Sector
-Fentress,Transportation,84,0.04196584512576451,Sector
-Technology,Software,12,0.766713499273137,Industry
-Technology,Hardware,57,0.28759714047073137,Industry
-Technology,IT Services,17,0.5833076849598519,Industry
-Healthcare,Pharmaceuticals,84,0.6671215834326342,Industry
-Healthcare,Medical Devices,3,0.26215168620021434,Industry
-Healthcare,Healthcare Services,68,0.9756877895260644,Industry
-Finance,Banking,78,0.6911571986894727,Industry
-Finance,Insurance,54,0.1483451911823871,Industry
-Finance,Investment Services,54,0.48537080008830413,Industry
-Energy,Oil & Gas,55,0.28170993872434846,Industry
-Energy,Renewable Energy,62,0.9103720265861895,Industry
-Energy,Energy Exploration,77,0.8940536492650821,Industry
-Consumer Goods,Food & Beverage,84,0.2017382407639855,Industry
-Consumer Goods,Household Products,77,0.5837206195463246,Industry
-Consumer Goods,Apparel,50,0.45106270139513815,Industry
-Utilities,Electric,87,0.3884028863099609,Industry
-Utilities,Water,37,0.1514340600814167,Industry
-Utilities,Gas,24,0.2766119613775201,Industry
-Real Estate,Residential,32,0.5386336658486581,Industry
-Real Estate,Commercial,42,0.5567937508511752,Industry
-Real Estate,Industrial,86,0.046341828627749826,Industry
-Telecommunications,Mobile,2,0.6561317358778732,Industry
-Telecommunications,Broadband,91,0.41615264998356394,Industry
-Telecommunications,Satellite,93,0.31508364932661537,Industry
-Materials,Chemicals,37,0.8918758113582523,Industry
-Materials,Metals & Mining,32,0.39934190339205555,Industry
-Materials,Construction Materials,12,0.1538425971084254,Industry
-Industrials,Aerospace & Defense,76,0.9309804357857936,Industry
-Industrials,Machinery,73,0.931551414665958,Industry
-Industrials,Industrial Services,44,0.9189958474882809,Industry
-Consumer Services,Retail,38,0.3910510836785249,Industry
-Consumer Services,Travel & Leisure,94,0.5045263386259191,Industry
-Consumer Services,Media,73,0.612289755732246,Industry
-Transportation,Airlines,34,0.40247331916372553,Industry
-Transportation,Railroads,33,0.8192394118423117,Industry
-Transportation,Logistics,17,0.08304952241274555,Industry
+,Fentress,867,0.23263367133431687,Overall
+Fentress,HiTech,67,0.6345636475919963,Sector
+Fentress,Agriculture,2,0.565322630041787,Sector
+Fentress,Transportation,91,0.24024222815467977,Sector
+Fentress,Consumer_Products,75,0.15068387692517526,Sector
+Fentress,Unassigned,63,0.040306846190522494,Sector
+Fentress,Communication,25,0.019613147690351607,Sector
+Fentress,Trade,64,0.08981994699162876,Sector
+Fentress,Business_Services,37,0.0065084950573818245,Sector
+Fentress,Business_Products,17,0.032838453224166786,Sector
+Fentress,Construction,55,0.22569675702268133,Sector
+Fentress,Services,98,0.005849317523258901,Sector
+Fentress,Mining,82,0.10285690029694661,Sector
+Fentress,Health_Care,35,0.001850658802420746,Sector
+Fentress,EnergyExpL_Prod,62,0.4431474659198935,Sector
+Fentress,Utilities,94,0.9302046985818618,Sector

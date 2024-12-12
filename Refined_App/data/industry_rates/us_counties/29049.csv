@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Clinton,1604,0.9643685929082827,Overall
-Clinton,Technology,107,0.4865839264708325,Sector
-Clinton,Healthcare,245,0.568815669193405,Sector
-Clinton,Finance,149,0.8054959760912034,Sector
-Clinton,Energy,87,0.5763009615707678,Sector
-Clinton,Consumer Goods,70,0.3615374041570505,Sector
-Clinton,Utilities,124,0.5151221381914534,Sector
-Clinton,Real Estate,78,0.7388225759051407,Sector
-Clinton,Telecommunications,205,0.32581509831457556,Sector
-Clinton,Materials,163,0.7321998716738758,Sector
-Clinton,Industrials,150,0.7244437528590087,Sector
-Clinton,Consumer Services,79,0.9319320014141558,Sector
-Clinton,Transportation,147,0.16701886634693652,Sector
-Technology,Software,23,0.1831311510311755,Industry
-Technology,Hardware,41,0.004501208696167769,Industry
-Technology,IT Services,43,0.5632564919758999,Industry
-Healthcare,Pharmaceuticals,71,0.6242492545446445,Industry
-Healthcare,Medical Devices,86,0.5774041811751974,Industry
-Healthcare,Healthcare Services,88,0.5134497500666532,Industry
-Finance,Banking,41,0.7843379643455017,Industry
-Finance,Insurance,70,0.9136489714332086,Industry
-Finance,Investment Services,38,0.8581297802001719,Industry
-Energy,Oil & Gas,20,0.7299617929511658,Industry
-Energy,Renewable Energy,53,0.1426994195880824,Industry
-Energy,Energy Exploration,14,0.01575400929384574,Industry
-Consumer Goods,Food & Beverage,13,0.8260931743767431,Industry
-Consumer Goods,Household Products,26,0.16773901804868985,Industry
-Consumer Goods,Apparel,31,0.4210231515686974,Industry
-Utilities,Electric,73,0.7251582505630795,Industry
-Utilities,Water,5,0.9943868235605985,Industry
-Utilities,Gas,46,0.7170325382258032,Industry
-Real Estate,Residential,1,0.48826594945180957,Industry
-Real Estate,Commercial,59,0.6769578502801396,Industry
-Real Estate,Industrial,18,0.6198916936942458,Industry
-Telecommunications,Mobile,93,0.8009463526317308,Industry
-Telecommunications,Broadband,15,0.45388651961516824,Industry
-Telecommunications,Satellite,97,0.1713578539391325,Industry
-Materials,Chemicals,73,0.06758547461246156,Industry
-Materials,Metals & Mining,37,0.9560646455736017,Industry
-Materials,Construction Materials,53,0.3932321117647297,Industry
-Industrials,Aerospace & Defense,72,0.4210936159761106,Industry
-Industrials,Machinery,5,0.9323248651763588,Industry
-Industrials,Industrial Services,73,0.325795402758263,Industry
-Consumer Services,Retail,3,0.10181074515919764,Industry
-Consumer Services,Travel & Leisure,68,0.7273006510482756,Industry
-Consumer Services,Media,8,0.9918227252699461,Industry
-Transportation,Airlines,64,0.18153985580026688,Industry
-Transportation,Railroads,0,0.07531103374098536,Industry
-Transportation,Logistics,83,0.9841789407307038,Industry
+,Clinton,685,0.5345772051426715,Overall
+Clinton,HiTech,12,0.8353078957555815,Sector
+Clinton,Agriculture,96,0.046443055171301206,Sector
+Clinton,Transportation,35,0.14517494244796092,Sector
+Clinton,Consumer_Products,53,0.5944474919669147,Sector
+Clinton,Unassigned,98,0.9571884490503211,Sector
+Clinton,Communication,50,0.8114022126153231,Sector
+Clinton,Trade,65,0.7426516062907261,Sector
+Clinton,Business_Services,10,0.4609486406808294,Sector
+Clinton,Business_Products,32,0.7524883573818678,Sector
+Clinton,Construction,56,0.6612624702678083,Sector
+Clinton,Services,22,0.5715997406958228,Sector
+Clinton,Mining,30,0.5816086420486415,Sector
+Clinton,Health_Care,42,0.32003464078278865,Sector
+Clinton,EnergyExpL_Prod,32,0.43477569055771115,Sector
+Clinton,Utilities,52,0.10332424142647567,Sector

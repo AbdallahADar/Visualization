@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sanpete,1845,0.24373426467178583,Overall
-Sanpete,Technology,170,0.2116898532951902,Sector
-Sanpete,Healthcare,181,0.3054901150374103,Sector
-Sanpete,Finance,215,0.6170610155391139,Sector
-Sanpete,Energy,40,0.790326910694024,Sector
-Sanpete,Consumer Goods,189,0.8950735189874619,Sector
-Sanpete,Utilities,257,0.9359463080360698,Sector
-Sanpete,Real Estate,131,0.5793394034733585,Sector
-Sanpete,Telecommunications,138,0.18047824179234928,Sector
-Sanpete,Materials,143,0.3419858315292761,Sector
-Sanpete,Industrials,94,0.6632307163862207,Sector
-Sanpete,Consumer Services,151,0.3812374396698812,Sector
-Sanpete,Transportation,136,0.9454522164934794,Sector
-Technology,Software,47,0.07250810443566025,Industry
-Technology,Hardware,33,0.6958857422833069,Industry
-Technology,IT Services,90,0.5223999289887283,Industry
-Healthcare,Pharmaceuticals,79,0.21205948397732743,Industry
-Healthcare,Medical Devices,26,0.8041043299760091,Industry
-Healthcare,Healthcare Services,76,0.7217913314761877,Industry
-Finance,Banking,67,0.6925838239126803,Industry
-Finance,Insurance,86,0.7968855577311104,Industry
-Finance,Investment Services,62,0.1387173294158318,Industry
-Energy,Oil & Gas,27,0.3912376914186032,Industry
-Energy,Renewable Energy,9,0.2119117719512671,Industry
-Energy,Energy Exploration,4,0.4980959626968593,Industry
-Consumer Goods,Food & Beverage,73,0.7866857439738358,Industry
-Consumer Goods,Household Products,88,0.0024236178967379507,Industry
-Consumer Goods,Apparel,28,0.7375926739284719,Industry
-Utilities,Electric,84,0.21706828897899832,Industry
-Utilities,Water,90,0.8589606711630505,Industry
-Utilities,Gas,83,0.6994119911324255,Industry
-Real Estate,Residential,28,0.7990940314825957,Industry
-Real Estate,Commercial,47,0.5975267054498882,Industry
-Real Estate,Industrial,56,0.4506801673470682,Industry
-Telecommunications,Mobile,61,0.40536176453121764,Industry
-Telecommunications,Broadband,21,0.30592132047738385,Industry
-Telecommunications,Satellite,56,0.09969745666980623,Industry
-Materials,Chemicals,36,0.8098213058196924,Industry
-Materials,Metals & Mining,84,0.28583419250441666,Industry
-Materials,Construction Materials,23,0.08894131640525282,Industry
-Industrials,Aerospace & Defense,16,0.02305598803085407,Industry
-Industrials,Machinery,43,0.8263264290688402,Industry
-Industrials,Industrial Services,35,0.5186027696141389,Industry
-Consumer Services,Retail,68,0.9975696377601102,Industry
-Consumer Services,Travel & Leisure,49,0.9674797870415586,Industry
-Consumer Services,Media,34,0.48217393497756733,Industry
-Transportation,Airlines,76,0.6294776262728414,Industry
-Transportation,Railroads,22,0.7043702549549035,Industry
-Transportation,Logistics,38,0.5145670971624915,Industry
+,Sanpete,640,0.5368041580833366,Overall
+Sanpete,HiTech,16,0.6811406255261245,Sector
+Sanpete,Agriculture,54,0.7409075042389407,Sector
+Sanpete,Transportation,77,0.17442334932885706,Sector
+Sanpete,Consumer_Products,60,0.9663018854841067,Sector
+Sanpete,Unassigned,20,0.6798541686564922,Sector
+Sanpete,Communication,56,0.8445365873937866,Sector
+Sanpete,Trade,12,0.11304439830024327,Sector
+Sanpete,Business_Services,29,0.6841164882748966,Sector
+Sanpete,Business_Products,14,0.6299531017851003,Sector
+Sanpete,Construction,60,0.893176702153376,Sector
+Sanpete,Services,30,0.4521184340282304,Sector
+Sanpete,Mining,41,0.05797430736393727,Sector
+Sanpete,Health_Care,95,0.05375131993705762,Sector
+Sanpete,EnergyExpL_Prod,7,0.4331618471928018,Sector
+Sanpete,Utilities,69,0.6476016515860983,Sector

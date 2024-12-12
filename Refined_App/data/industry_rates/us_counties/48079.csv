@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cochran,1570,0.1766316095861975,Overall
-Cochran,Technology,164,0.6841365785439485,Sector
-Cochran,Healthcare,149,0.6297856762596544,Sector
-Cochran,Finance,158,0.5415102154409749,Sector
-Cochran,Energy,186,0.47507387384579725,Sector
-Cochran,Consumer Goods,116,0.641132079675749,Sector
-Cochran,Utilities,134,0.6611536670502387,Sector
-Cochran,Real Estate,71,0.3930136622649977,Sector
-Cochran,Telecommunications,94,0.23995212904226337,Sector
-Cochran,Materials,107,0.8087100717385123,Sector
-Cochran,Industrials,132,0.30955275233182566,Sector
-Cochran,Consumer Services,129,0.43173201552182383,Sector
-Cochran,Transportation,130,0.8767359970247641,Sector
-Technology,Software,36,0.30222201768039025,Industry
-Technology,Hardware,86,0.9336879183596851,Industry
-Technology,IT Services,42,0.07262499471063366,Industry
-Healthcare,Pharmaceuticals,92,0.34411287916849764,Industry
-Healthcare,Medical Devices,19,0.6200972330130914,Industry
-Healthcare,Healthcare Services,38,0.34278595015856794,Industry
-Finance,Banking,23,0.9650731515160064,Industry
-Finance,Insurance,67,0.9765515391045508,Industry
-Finance,Investment Services,68,0.40003499120254005,Industry
-Energy,Oil & Gas,21,0.4304178093633848,Industry
-Energy,Renewable Energy,71,0.691856896094232,Industry
-Energy,Energy Exploration,94,0.6220816340751152,Industry
-Consumer Goods,Food & Beverage,77,0.6797786031679356,Industry
-Consumer Goods,Household Products,14,0.35173014862804686,Industry
-Consumer Goods,Apparel,25,0.033028805142456874,Industry
-Utilities,Electric,54,0.8039517970554159,Industry
-Utilities,Water,2,0.8993649450815666,Industry
-Utilities,Gas,78,0.09240774874380342,Industry
-Real Estate,Residential,0,0.43457201087501074,Industry
-Real Estate,Commercial,17,0.4910883748724759,Industry
-Real Estate,Industrial,54,0.06389292255174517,Industry
-Telecommunications,Mobile,7,0.28534535949570705,Industry
-Telecommunications,Broadband,11,0.9741307011603345,Industry
-Telecommunications,Satellite,76,0.8059677740845819,Industry
-Materials,Chemicals,12,0.9882226038250822,Industry
-Materials,Metals & Mining,71,0.20803322703287586,Industry
-Materials,Construction Materials,24,0.047131742458136894,Industry
-Industrials,Aerospace & Defense,62,0.9002461628891076,Industry
-Industrials,Machinery,34,0.6331117089266627,Industry
-Industrials,Industrial Services,36,0.8695084678555786,Industry
-Consumer Services,Retail,77,0.8216053465252104,Industry
-Consumer Services,Travel & Leisure,31,0.7720858336494295,Industry
-Consumer Services,Media,21,0.8837895589269398,Industry
-Transportation,Airlines,7,0.9240934789588989,Industry
-Transportation,Railroads,97,0.043220301067144584,Industry
-Transportation,Logistics,26,0.6198952074513223,Industry
+,Cochran,855,0.3962036266962874,Overall
+Cochran,HiTech,2,0.11837668191706152,Sector
+Cochran,Agriculture,50,0.5451677352284593,Sector
+Cochran,Transportation,83,0.12061704013779884,Sector
+Cochran,Consumer_Products,92,0.05734361004959754,Sector
+Cochran,Unassigned,30,0.5381314308108676,Sector
+Cochran,Communication,14,0.5666760895171201,Sector
+Cochran,Trade,79,0.6228876221634577,Sector
+Cochran,Business_Services,36,0.41666191566356847,Sector
+Cochran,Business_Products,5,0.5821718992168894,Sector
+Cochran,Construction,83,0.6338892207486889,Sector
+Cochran,Services,83,0.12028017555051951,Sector
+Cochran,Mining,98,0.7916853917642214,Sector
+Cochran,Health_Care,93,0.4821929377384063,Sector
+Cochran,EnergyExpL_Prod,43,0.023739650503673992,Sector
+Cochran,Utilities,64,0.32323299943398054,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Phelps,1701,0.33597741418942473,Overall
-Phelps,Technology,146,0.3703775027348428,Sector
-Phelps,Healthcare,254,0.1935394083986628,Sector
-Phelps,Finance,62,0.14368587804278488,Sector
-Phelps,Energy,133,0.9337522222075926,Sector
-Phelps,Consumer Goods,175,0.07340343818060302,Sector
-Phelps,Utilities,174,0.5489037228741668,Sector
-Phelps,Real Estate,174,0.42793111513316684,Sector
-Phelps,Telecommunications,27,0.1759495255860435,Sector
-Phelps,Materials,267,0.9938939014528115,Sector
-Phelps,Industrials,95,0.5627983222619324,Sector
-Phelps,Consumer Services,93,0.729025697783539,Sector
-Phelps,Transportation,101,0.6906798614157308,Sector
-Technology,Software,80,0.28476403803687933,Industry
-Technology,Hardware,59,0.7657064881332123,Industry
-Technology,IT Services,7,0.2412925508694722,Industry
-Healthcare,Pharmaceuticals,89,0.3000039703673423,Industry
-Healthcare,Medical Devices,96,0.20781275068936178,Industry
-Healthcare,Healthcare Services,69,0.18913145979120183,Industry
-Finance,Banking,17,0.04847594131677535,Industry
-Finance,Insurance,11,0.4481077539976054,Industry
-Finance,Investment Services,34,0.9847409641321285,Industry
-Energy,Oil & Gas,10,0.21232479910767033,Industry
-Energy,Renewable Energy,70,0.8907285208449174,Industry
-Energy,Energy Exploration,53,0.9514909703053113,Industry
-Consumer Goods,Food & Beverage,23,0.8039659802299803,Industry
-Consumer Goods,Household Products,99,0.46228820857046693,Industry
-Consumer Goods,Apparel,53,0.9712634338765018,Industry
-Utilities,Electric,48,0.8657469070412052,Industry
-Utilities,Water,44,0.397638126303973,Industry
-Utilities,Gas,82,0.16454240273037535,Industry
-Real Estate,Residential,79,0.023730968976902966,Industry
-Real Estate,Commercial,20,0.9173406068842153,Industry
-Real Estate,Industrial,75,0.4581145311032946,Industry
-Telecommunications,Mobile,20,0.5127492582070935,Industry
-Telecommunications,Broadband,0,0.5938193406081131,Industry
-Telecommunications,Satellite,7,0.06733852469522339,Industry
-Materials,Chemicals,86,0.9120506949306424,Industry
-Materials,Metals & Mining,99,0.33321890252966413,Industry
-Materials,Construction Materials,82,0.6586179328066055,Industry
-Industrials,Aerospace & Defense,46,0.34061843296999195,Industry
-Industrials,Machinery,7,0.3808932586079724,Industry
-Industrials,Industrial Services,42,0.08789943595164562,Industry
-Consumer Services,Retail,83,0.7723140977290075,Industry
-Consumer Services,Travel & Leisure,4,0.867218450110254,Industry
-Consumer Services,Media,6,0.2727126571570816,Industry
-Transportation,Airlines,43,0.4296841969671169,Industry
-Transportation,Railroads,48,0.9613483246329411,Industry
-Transportation,Logistics,10,0.2601367196297075,Industry
+,Phelps,663,0.500405189415338,Overall
+Phelps,HiTech,66,0.6841687254273443,Sector
+Phelps,Agriculture,80,0.9983387695301575,Sector
+Phelps,Transportation,74,0.8829986057659479,Sector
+Phelps,Consumer_Products,9,0.3176907143684635,Sector
+Phelps,Unassigned,8,0.08560455051344562,Sector
+Phelps,Communication,61,0.9776592459071463,Sector
+Phelps,Trade,40,0.031346139387219085,Sector
+Phelps,Business_Services,59,0.4854884475005775,Sector
+Phelps,Business_Products,4,0.1300450502233177,Sector
+Phelps,Construction,68,0.8392454133552225,Sector
+Phelps,Services,36,0.37126236073065366,Sector
+Phelps,Mining,20,0.15983267238061993,Sector
+Phelps,Health_Care,41,0.38313836925486944,Sector
+Phelps,EnergyExpL_Prod,43,0.8691535115512379,Sector
+Phelps,Utilities,54,0.29010526533384584,Sector

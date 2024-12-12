@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Achterhoek,1692,0.8665370521018803,Overall
+Achterhoek,Technology,152,0.9726573778766415,Sector
+Achterhoek,Healthcare,170,0.06198619971952446,Sector
+Achterhoek,Finance,190,0.28863888689312567,Sector
+Achterhoek,Energy,141,0.5589913842575628,Sector
+Achterhoek,Consumer Goods,163,0.8177816992952333,Sector
+Achterhoek,Utilities,99,0.576839394270951,Sector
+Achterhoek,Real Estate,136,0.8888329208539925,Sector
+Achterhoek,Telecommunications,92,0.7948649054629452,Sector
+Achterhoek,Materials,207,0.7031079543011178,Sector
+Achterhoek,Industrials,147,0.027574881174466603,Sector
+Achterhoek,Consumer Services,92,0.15197848498638922,Sector
+Achterhoek,Transportation,103,0.5001997236443227,Sector
+Technology,Software,81,0.638959944236735,Industry
+Technology,Hardware,30,0.6169470877119614,Industry
+Technology,IT Services,41,0.8618039263947112,Industry
+Healthcare,Pharmaceuticals,49,0.5460393726633264,Industry
+Healthcare,Medical Devices,40,0.35227806571538545,Industry
+Healthcare,Healthcare Services,81,0.5177722642933981,Industry
+Finance,Banking,52,0.447547874376407,Industry
+Finance,Insurance,79,0.1226641859395694,Industry
+Finance,Investment Services,59,0.3122975863278866,Industry
+Energy,Oil & Gas,48,0.056297224996290085,Industry
+Energy,Renewable Energy,91,0.5743436177509472,Industry
+Energy,Energy Exploration,2,0.42523863405549267,Industry
+Consumer Goods,Food & Beverage,38,0.10235273367226161,Industry
+Consumer Goods,Household Products,27,0.08065893231905796,Industry
+Consumer Goods,Apparel,98,0.056927936493746834,Industry
+Utilities,Electric,9,0.839606429878173,Industry
+Utilities,Water,83,0.08259666745684846,Industry
+Utilities,Gas,7,0.35152356708008337,Industry
+Real Estate,Residential,97,0.7922776910773726,Industry
+Real Estate,Commercial,20,0.21648901583449587,Industry
+Real Estate,Industrial,19,0.6822845351779104,Industry
+Telecommunications,Mobile,50,0.9427999239994633,Industry
+Telecommunications,Broadband,19,0.5656717977696935,Industry
+Telecommunications,Satellite,23,0.33977618419373257,Industry
+Materials,Chemicals,46,0.06003004608972262,Industry
+Materials,Metals & Mining,75,0.7711232324154175,Industry
+Materials,Construction Materials,86,0.6631738345436451,Industry
+Industrials,Aerospace & Defense,3,0.16755960634212985,Industry
+Industrials,Machinery,62,0.7636414609559208,Industry
+Industrials,Industrial Services,82,0.41574871959517024,Industry
+Consumer Services,Retail,20,0.9140063685380484,Industry
+Consumer Services,Travel & Leisure,18,0.5584954564340281,Industry
+Consumer Services,Media,54,0.8836076523323743,Industry
+Transportation,Airlines,24,0.9548492540718909,Industry
+Transportation,Railroads,69,0.9018196754109394,Industry
+Transportation,Logistics,10,0.029633294180481773,Industry

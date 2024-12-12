@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Calcasieu,1753,0.7056283278293127,Overall
-Calcasieu,Technology,231,0.7377152561433262,Sector
-Calcasieu,Healthcare,156,0.5895856128357957,Sector
-Calcasieu,Finance,90,0.221996038240855,Sector
-Calcasieu,Energy,140,0.9230306570349958,Sector
-Calcasieu,Consumer Goods,105,0.09753827434500528,Sector
-Calcasieu,Utilities,197,0.537411850893278,Sector
-Calcasieu,Real Estate,106,0.5537979105045268,Sector
-Calcasieu,Telecommunications,123,0.8864960758408773,Sector
-Calcasieu,Materials,158,0.07259695059875726,Sector
-Calcasieu,Industrials,220,0.16480924296043764,Sector
-Calcasieu,Consumer Services,108,0.6000204592322343,Sector
-Calcasieu,Transportation,119,0.8762319606382866,Sector
-Technology,Software,74,0.1259682882840618,Industry
-Technology,Hardware,91,0.0859715859520388,Industry
-Technology,IT Services,66,0.49928128666251637,Industry
-Healthcare,Pharmaceuticals,21,0.5119364923616311,Industry
-Healthcare,Medical Devices,98,0.6578102366676671,Industry
-Healthcare,Healthcare Services,37,0.015327595707437136,Industry
-Finance,Banking,37,0.46942213763867113,Industry
-Finance,Insurance,7,0.05050989361138902,Industry
-Finance,Investment Services,46,0.8144945539689037,Industry
-Energy,Oil & Gas,45,0.3928420308632765,Industry
-Energy,Renewable Energy,37,0.9624114852917337,Industry
-Energy,Energy Exploration,58,0.3684792389978645,Industry
-Consumer Goods,Food & Beverage,66,0.9679318470164405,Industry
-Consumer Goods,Household Products,4,0.9341748064558876,Industry
-Consumer Goods,Apparel,35,0.26013915429296175,Industry
-Utilities,Electric,96,0.9770931590414079,Industry
-Utilities,Water,10,0.32980428923232563,Industry
-Utilities,Gas,91,0.8172234846615795,Industry
-Real Estate,Residential,51,0.6016476980369536,Industry
-Real Estate,Commercial,33,0.15514794368783125,Industry
-Real Estate,Industrial,22,0.8787970437980136,Industry
-Telecommunications,Mobile,11,0.7417095228574825,Industry
-Telecommunications,Broadband,85,0.9674266530859638,Industry
-Telecommunications,Satellite,27,0.5615004558237134,Industry
-Materials,Chemicals,58,0.8719746641607524,Industry
-Materials,Metals & Mining,91,0.9387496023437203,Industry
-Materials,Construction Materials,9,0.9863423712733769,Industry
-Industrials,Aerospace & Defense,87,0.5264720163743297,Industry
-Industrials,Machinery,34,0.8395027839435594,Industry
-Industrials,Industrial Services,99,0.6147507305109098,Industry
-Consumer Services,Retail,70,0.07284727410526981,Industry
-Consumer Services,Travel & Leisure,18,0.3163909199940833,Industry
-Consumer Services,Media,20,0.45881322609556174,Industry
-Transportation,Airlines,52,0.22602878766996803,Industry
-Transportation,Railroads,11,0.7279832881934958,Industry
-Transportation,Logistics,56,0.7919418621800257,Industry
+,Calcasieu,688,0.6016473877971412,Overall
+Calcasieu,HiTech,15,0.1691668757653788,Sector
+Calcasieu,Agriculture,93,0.9383664216209046,Sector
+Calcasieu,Transportation,23,0.5852119962622444,Sector
+Calcasieu,Consumer_Products,9,0.10440365077705194,Sector
+Calcasieu,Unassigned,40,0.5214964692499251,Sector
+Calcasieu,Communication,4,0.7538666132378652,Sector
+Calcasieu,Trade,62,0.48826619888838585,Sector
+Calcasieu,Business_Services,75,0.8396700629074044,Sector
+Calcasieu,Business_Products,88,0.8840765851644135,Sector
+Calcasieu,Construction,60,0.6977800867500644,Sector
+Calcasieu,Services,4,0.7851981250956304,Sector
+Calcasieu,Mining,49,0.9484688251160996,Sector
+Calcasieu,Health_Care,72,0.1763047786564521,Sector
+Calcasieu,EnergyExpL_Prod,70,0.8808936883228934,Sector
+Calcasieu,Utilities,24,0.25154043914240254,Sector

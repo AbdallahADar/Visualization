@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gallatin,1964,0.28756929373500795,Overall
-Gallatin,Technology,224,0.01206286681814861,Sector
-Gallatin,Healthcare,136,0.4186516399618091,Sector
-Gallatin,Finance,178,0.8458569446389312,Sector
-Gallatin,Energy,246,0.4893962404370651,Sector
-Gallatin,Consumer Goods,122,0.2837012862280409,Sector
-Gallatin,Utilities,115,0.9229772041559436,Sector
-Gallatin,Real Estate,174,0.3529770701945879,Sector
-Gallatin,Telecommunications,159,0.00345243332336187,Sector
-Gallatin,Materials,187,0.845588530604215,Sector
-Gallatin,Industrials,203,0.4752064271294332,Sector
-Gallatin,Consumer Services,155,0.08141230214276374,Sector
-Gallatin,Transportation,65,0.9176096461821899,Sector
-Technology,Software,44,0.9249590782094523,Industry
-Technology,Hardware,92,0.7177421333807303,Industry
-Technology,IT Services,88,0.22947504759197612,Industry
-Healthcare,Pharmaceuticals,44,0.18971557040686893,Industry
-Healthcare,Medical Devices,40,0.9722923032704415,Industry
-Healthcare,Healthcare Services,52,0.594503729717671,Industry
-Finance,Banking,70,0.9026878411775822,Industry
-Finance,Insurance,34,0.25488921422283506,Industry
-Finance,Investment Services,74,0.579165530932008,Industry
-Energy,Oil & Gas,98,0.6144380317726987,Industry
-Energy,Renewable Energy,90,0.7365453335340638,Industry
-Energy,Energy Exploration,58,0.36508648748919037,Industry
-Consumer Goods,Food & Beverage,41,0.8147199404854482,Industry
-Consumer Goods,Household Products,31,0.6332958398611469,Industry
-Consumer Goods,Apparel,50,0.37486625891307623,Industry
-Utilities,Electric,4,0.8995306387278609,Industry
-Utilities,Water,62,0.6728118032709917,Industry
-Utilities,Gas,49,0.769233955125464,Industry
-Real Estate,Residential,37,0.5633740807559907,Industry
-Real Estate,Commercial,87,0.8190388813442091,Industry
-Real Estate,Industrial,50,0.3470083794392802,Industry
-Telecommunications,Mobile,89,0.1271144647701249,Industry
-Telecommunications,Broadband,34,0.1706455650712071,Industry
-Telecommunications,Satellite,36,0.7285693044875335,Industry
-Materials,Chemicals,51,0.12137082002731536,Industry
-Materials,Metals & Mining,76,0.6792015808484688,Industry
-Materials,Construction Materials,60,0.9025211142566384,Industry
-Industrials,Aerospace & Defense,73,0.10729923250164652,Industry
-Industrials,Machinery,65,0.22158273134681927,Industry
-Industrials,Industrial Services,65,0.506334440933655,Industry
-Consumer Services,Retail,26,0.5858159415495223,Industry
-Consumer Services,Travel & Leisure,98,0.6469349515831073,Industry
-Consumer Services,Media,31,0.8270516654219849,Industry
-Transportation,Airlines,36,0.14700449346142674,Industry
-Transportation,Railroads,19,0.7484925863272018,Industry
-Transportation,Logistics,10,0.9815219870591676,Industry
+,Gallatin,759,0.4922432387937146,Overall
+Gallatin,HiTech,78,0.35883078888381703,Sector
+Gallatin,Agriculture,17,0.20655732001990434,Sector
+Gallatin,Transportation,46,0.9906090680116477,Sector
+Gallatin,Consumer_Products,1,0.0034445018181394893,Sector
+Gallatin,Unassigned,13,0.008427883299138572,Sector
+Gallatin,Communication,54,0.968749284627515,Sector
+Gallatin,Trade,59,0.650398701563382,Sector
+Gallatin,Business_Services,63,0.6500270516753013,Sector
+Gallatin,Business_Products,91,0.8444531711696797,Sector
+Gallatin,Construction,83,0.2056824028019184,Sector
+Gallatin,Services,88,0.26295749430048654,Sector
+Gallatin,Mining,83,0.17684193299988182,Sector
+Gallatin,Health_Care,44,0.4687784535846372,Sector
+Gallatin,EnergyExpL_Prod,29,0.9140615239166991,Sector
+Gallatin,Utilities,10,0.6738290032335713,Sector

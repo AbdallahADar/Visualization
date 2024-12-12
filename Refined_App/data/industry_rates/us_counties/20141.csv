@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Osborne,1726,0.8047349776503872,Overall
-Osborne,Technology,179,0.6350702205879262,Sector
-Osborne,Healthcare,125,0.5576685591211161,Sector
-Osborne,Finance,97,0.892496130795832,Sector
-Osborne,Energy,37,0.22335848808639946,Sector
-Osborne,Consumer Goods,209,0.05683086366699186,Sector
-Osborne,Utilities,190,0.4416920094828145,Sector
-Osborne,Real Estate,226,0.5497722362461737,Sector
-Osborne,Telecommunications,163,0.6119498808199321,Sector
-Osborne,Materials,175,0.1080118480357316,Sector
-Osborne,Industrials,96,0.6148963013820958,Sector
-Osborne,Consumer Services,214,0.2858317036372212,Sector
-Osborne,Transportation,15,0.39518344162565955,Sector
-Technology,Software,21,0.9595614135225546,Industry
-Technology,Hardware,86,0.7398878895640515,Industry
-Technology,IT Services,72,0.3293181793626029,Industry
-Healthcare,Pharmaceuticals,7,0.9767804890447843,Industry
-Healthcare,Medical Devices,98,0.3499177936086828,Industry
-Healthcare,Healthcare Services,20,0.36488483606365485,Industry
-Finance,Banking,23,0.9618843338166069,Industry
-Finance,Insurance,1,0.6809697590159318,Industry
-Finance,Investment Services,73,0.2100644508411632,Industry
-Energy,Oil & Gas,7,0.43359931497458626,Industry
-Energy,Renewable Energy,25,0.49117703332808293,Industry
-Energy,Energy Exploration,5,0.35111326102510954,Industry
-Consumer Goods,Food & Beverage,57,0.4560386863965522,Industry
-Consumer Goods,Household Products,89,0.3913486114947421,Industry
-Consumer Goods,Apparel,63,0.2601494358873119,Industry
-Utilities,Electric,40,0.40521877353869207,Industry
-Utilities,Water,95,0.3194873144928606,Industry
-Utilities,Gas,55,0.9066295481935494,Industry
-Real Estate,Residential,79,0.8972678916412006,Industry
-Real Estate,Commercial,76,0.644148168717736,Industry
-Real Estate,Industrial,71,0.08812688886462883,Industry
-Telecommunications,Mobile,86,0.31028578369155213,Industry
-Telecommunications,Broadband,61,0.39755470476618215,Industry
-Telecommunications,Satellite,16,0.8875852126526248,Industry
-Materials,Chemicals,72,0.1062193744067842,Industry
-Materials,Metals & Mining,21,0.6466884420935657,Industry
-Materials,Construction Materials,82,0.7467759664496336,Industry
-Industrials,Aerospace & Defense,72,0.8063907689722274,Industry
-Industrials,Machinery,24,0.8613744714972073,Industry
-Industrials,Industrial Services,0,0.1546118159093931,Industry
-Consumer Services,Retail,85,0.35002853045434057,Industry
-Consumer Services,Travel & Leisure,70,0.34684639946659146,Industry
-Consumer Services,Media,59,0.28493037046099623,Industry
-Transportation,Airlines,9,0.7652486942709448,Industry
-Transportation,Railroads,4,0.14057778434696822,Industry
-Transportation,Logistics,2,0.5041171259385756,Industry
+,Osborne,698,0.6159916363049983,Overall
+Osborne,HiTech,4,0.018326837972302057,Sector
+Osborne,Agriculture,26,0.07673343698373825,Sector
+Osborne,Transportation,37,0.9236207028395194,Sector
+Osborne,Consumer_Products,73,0.3536234136622446,Sector
+Osborne,Unassigned,5,0.8461681972247743,Sector
+Osborne,Communication,39,0.8442141999260506,Sector
+Osborne,Trade,36,0.8105070504439438,Sector
+Osborne,Business_Services,99,0.9944378758097163,Sector
+Osborne,Business_Products,52,0.5445184231158974,Sector
+Osborne,Construction,70,0.47531255567392827,Sector
+Osborne,Services,76,0.7035451695887315,Sector
+Osborne,Mining,29,0.6043001725151312,Sector
+Osborne,Health_Care,63,0.4201827985720702,Sector
+Osborne,EnergyExpL_Prod,52,0.6375985803865182,Sector
+Osborne,Utilities,37,0.9867851298604079,Sector

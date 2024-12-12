@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gaziantep,2159,0.48194976210136464,Overall
-Gaziantep,Technology,173,0.05164084768270383,Sector
-Gaziantep,Healthcare,188,0.7157283419099573,Sector
-Gaziantep,Finance,212,0.7192109573173648,Sector
-Gaziantep,Energy,241,0.7749116179703966,Sector
-Gaziantep,Consumer Goods,194,0.9245080569173493,Sector
-Gaziantep,Utilities,169,0.8273586142676744,Sector
-Gaziantep,Real Estate,172,0.4543758088568469,Sector
-Gaziantep,Telecommunications,184,0.4655733465348926,Sector
-Gaziantep,Materials,155,0.959775947681088,Sector
-Gaziantep,Industrials,112,0.3822288633631372,Sector
-Gaziantep,Consumer Services,178,0.5652830225288589,Sector
-Gaziantep,Transportation,181,0.6777076016438585,Sector
-Technology,Software,46,0.20386460528218964,Industry
-Technology,Hardware,38,0.452674381049051,Industry
-Technology,IT Services,89,0.6458241600126663,Industry
-Healthcare,Pharmaceuticals,58,0.7810683151376739,Industry
-Healthcare,Medical Devices,91,0.6994434008975617,Industry
-Healthcare,Healthcare Services,39,0.6273849006854838,Industry
-Finance,Banking,52,0.09346866707283075,Industry
-Finance,Insurance,89,0.7219136277630384,Industry
-Finance,Investment Services,71,0.5511822669253044,Industry
-Energy,Oil & Gas,87,0.29155817129965367,Industry
-Energy,Renewable Energy,87,0.037593093032167624,Industry
-Energy,Energy Exploration,67,0.0872730920583018,Industry
-Consumer Goods,Food & Beverage,93,0.1725935535509876,Industry
-Consumer Goods,Household Products,25,0.7438004192303521,Industry
-Consumer Goods,Apparel,76,0.6609776300137692,Industry
-Utilities,Electric,80,0.2769478324067506,Industry
-Utilities,Water,19,0.8652176995633503,Industry
-Utilities,Gas,70,0.1757549939767996,Industry
-Real Estate,Residential,42,0.910648055684836,Industry
-Real Estate,Commercial,51,0.4273711018631565,Industry
-Real Estate,Industrial,79,0.28116084315328416,Industry
-Telecommunications,Mobile,15,0.3603937762346615,Industry
-Telecommunications,Broadband,91,0.74323097462803,Industry
-Telecommunications,Satellite,78,0.0132067135016265,Industry
-Materials,Chemicals,54,0.3242429884829714,Industry
-Materials,Metals & Mining,70,0.05797084537046482,Industry
-Materials,Construction Materials,31,0.46446874454198617,Industry
-Industrials,Aerospace & Defense,7,0.3880324045460516,Industry
-Industrials,Machinery,61,0.304315297992521,Industry
-Industrials,Industrial Services,44,0.3245982274053504,Industry
-Consumer Services,Retail,77,0.35959544695924006,Industry
-Consumer Services,Travel & Leisure,80,0.735185408011082,Industry
-Consumer Services,Media,21,0.28559123436092215,Industry
-Transportation,Airlines,47,0.5612605866985775,Industry
-Transportation,Railroads,86,0.8403893081714282,Industry
-Transportation,Logistics,48,0.7413145427387434,Industry
+,Gaziantep,708,0.6795512440054804,Overall
+Gaziantep,HiTech,88,0.8639684404348118,Sector
+Gaziantep,Agriculture,30,0.07450497358261321,Sector
+Gaziantep,Transportation,80,0.6710855070246504,Sector
+Gaziantep,Consumer_Products,82,0.3013289322360516,Sector
+Gaziantep,Unassigned,38,0.2604539775168694,Sector
+Gaziantep,Communication,78,0.9407833915467526,Sector
+Gaziantep,Trade,53,0.9584311675166797,Sector
+Gaziantep,Business_Services,12,0.9558101175025697,Sector
+Gaziantep,Business_Products,3,0.9758610601122288,Sector
+Gaziantep,Construction,54,0.7756508743218419,Sector
+Gaziantep,Services,16,0.8785313962841621,Sector
+Gaziantep,Mining,10,0.7146961353187955,Sector
+Gaziantep,Health_Care,40,0.825880743986694,Sector
+Gaziantep,EnergyExpL_Prod,39,0.37374344679016414,Sector
+Gaziantep,Utilities,85,0.6225384959073196,Sector

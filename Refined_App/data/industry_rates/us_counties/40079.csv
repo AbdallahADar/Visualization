@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Le Flore,1899,0.40955944717265125,Overall
-Le Flore,Technology,170,0.7251743294015782,Sector
-Le Flore,Healthcare,137,0.9981703062074272,Sector
-Le Flore,Finance,162,0.8418833744128171,Sector
-Le Flore,Energy,215,0.6909017909416414,Sector
-Le Flore,Consumer Goods,213,0.2052507432508055,Sector
-Le Flore,Utilities,199,0.7601456010128524,Sector
-Le Flore,Real Estate,138,0.37641866152700076,Sector
-Le Flore,Telecommunications,126,0.6381589135861037,Sector
-Le Flore,Materials,128,0.5860632221963441,Sector
-Le Flore,Industrials,163,0.6684172169144084,Sector
-Le Flore,Consumer Services,70,0.3678685378350528,Sector
-Le Flore,Transportation,178,0.8784352530476356,Sector
-Technology,Software,74,0.9339248930941317,Industry
-Technology,Hardware,19,0.6093707741777722,Industry
-Technology,IT Services,77,0.2185436897148606,Industry
-Healthcare,Pharmaceuticals,80,0.41167330211784503,Industry
-Healthcare,Medical Devices,30,0.899497006514296,Industry
-Healthcare,Healthcare Services,27,0.6182730114638944,Industry
-Finance,Banking,7,0.8151450462821731,Industry
-Finance,Insurance,73,0.5569812313424806,Industry
-Finance,Investment Services,82,0.2405892305969527,Industry
-Energy,Oil & Gas,84,0.19103141033266646,Industry
-Energy,Renewable Energy,52,0.008005585564630602,Industry
-Energy,Energy Exploration,79,0.31235289124545307,Industry
-Consumer Goods,Food & Beverage,40,0.748753614485318,Industry
-Consumer Goods,Household Products,90,0.20443037173568968,Industry
-Consumer Goods,Apparel,83,0.10204592408223279,Industry
-Utilities,Electric,96,0.16664902709821894,Industry
-Utilities,Water,5,0.6262119955105226,Industry
-Utilities,Gas,98,0.36377235929832263,Industry
-Real Estate,Residential,49,0.3479740965295268,Industry
-Real Estate,Commercial,16,0.4684193446280731,Industry
-Real Estate,Industrial,73,0.8817099083643449,Industry
-Telecommunications,Mobile,7,0.027375913361737392,Industry
-Telecommunications,Broadband,53,0.4732157067173173,Industry
-Telecommunications,Satellite,66,0.09331217010225668,Industry
-Materials,Chemicals,9,0.27120055657693243,Industry
-Materials,Metals & Mining,54,0.5053566775225086,Industry
-Materials,Construction Materials,65,0.14884004528636408,Industry
-Industrials,Aerospace & Defense,60,0.28444153204179234,Industry
-Industrials,Machinery,49,0.08021895045675131,Industry
-Industrials,Industrial Services,54,0.44983538774504206,Industry
-Consumer Services,Retail,2,0.9743385625511924,Industry
-Consumer Services,Travel & Leisure,66,0.9562335553123741,Industry
-Consumer Services,Media,2,0.34665731286296675,Industry
-Transportation,Airlines,68,0.9395246513110969,Industry
-Transportation,Railroads,22,0.4634935177610596,Industry
-Transportation,Logistics,88,0.2774243080493287,Industry
+,Le Flore,678,0.5448079875899037,Overall
+Le Flore,HiTech,67,0.3801288851169955,Sector
+Le Flore,Agriculture,5,0.678133925925805,Sector
+Le Flore,Transportation,40,0.5846105700360934,Sector
+Le Flore,Consumer_Products,43,0.5442869112957591,Sector
+Le Flore,Unassigned,21,0.05361885255025722,Sector
+Le Flore,Communication,78,0.9223297907937883,Sector
+Le Flore,Trade,43,0.6081662159697317,Sector
+Le Flore,Business_Services,3,0.36850074523727805,Sector
+Le Flore,Business_Products,93,0.8278122555353007,Sector
+Le Flore,Construction,61,0.3364250786018046,Sector
+Le Flore,Services,72,0.04462935265767265,Sector
+Le Flore,Mining,68,0.9394082714214712,Sector
+Le Flore,Health_Care,60,0.9102958569735525,Sector
+Le Flore,EnergyExpL_Prod,9,0.8885294718841102,Sector
+Le Flore,Utilities,15,0.08524362984893519,Sector

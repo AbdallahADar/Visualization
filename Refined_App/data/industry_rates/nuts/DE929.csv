@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Region Hannover,1598,0.37071380722245284,Overall
-Region Hannover,Technology,244,0.4669536165507603,Sector
-Region Hannover,Healthcare,125,0.027193445304698916,Sector
-Region Hannover,Finance,63,0.9028795697918065,Sector
-Region Hannover,Energy,150,0.19660236159789202,Sector
-Region Hannover,Consumer Goods,112,0.07830081468041061,Sector
-Region Hannover,Utilities,100,0.6163069299526315,Sector
-Region Hannover,Real Estate,53,0.42755918423967354,Sector
-Region Hannover,Telecommunications,207,0.6504341653087036,Sector
-Region Hannover,Materials,144,0.7593752009587812,Sector
-Region Hannover,Industrials,108,0.6569943776995985,Sector
-Region Hannover,Consumer Services,74,0.19571711115315615,Sector
-Region Hannover,Transportation,218,0.06244449803602592,Sector
-Technology,Software,71,0.3602426336798693,Industry
-Technology,Hardware,77,0.9938362157980625,Industry
-Technology,IT Services,96,0.45429687352228476,Industry
-Healthcare,Pharmaceuticals,91,0.2974461641882189,Industry
-Healthcare,Medical Devices,20,0.45954871974042066,Industry
-Healthcare,Healthcare Services,14,0.8521335757530143,Industry
-Finance,Banking,32,0.225119029796798,Industry
-Finance,Insurance,7,0.2826051615055303,Industry
-Finance,Investment Services,24,0.10645284113069087,Industry
-Energy,Oil & Gas,81,0.08464376132204476,Industry
-Energy,Renewable Energy,57,0.9991522901199005,Industry
-Energy,Energy Exploration,12,0.740898775089606,Industry
-Consumer Goods,Food & Beverage,30,0.1131296735917986,Industry
-Consumer Goods,Household Products,75,0.7824082269488787,Industry
-Consumer Goods,Apparel,7,0.8224470902697526,Industry
-Utilities,Electric,29,0.9818474861515863,Industry
-Utilities,Water,36,0.8836888738220762,Industry
-Utilities,Gas,35,0.39103801134219074,Industry
-Real Estate,Residential,19,0.3155196288190134,Industry
-Real Estate,Commercial,10,0.8679890238618319,Industry
-Real Estate,Industrial,24,0.568763918149982,Industry
-Telecommunications,Mobile,69,0.6304643995406983,Industry
-Telecommunications,Broadband,39,0.10381493945984566,Industry
-Telecommunications,Satellite,99,0.8272585121436278,Industry
-Materials,Chemicals,28,0.617570894687166,Industry
-Materials,Metals & Mining,23,0.8564626612124291,Industry
-Materials,Construction Materials,93,0.23328474680314304,Industry
-Industrials,Aerospace & Defense,20,0.46184617532846595,Industry
-Industrials,Machinery,45,0.3642298803977996,Industry
-Industrials,Industrial Services,43,0.0461818070898532,Industry
-Consumer Services,Retail,24,0.6994041967377764,Industry
-Consumer Services,Travel & Leisure,8,0.28390393210779097,Industry
-Consumer Services,Media,42,0.16452588108266364,Industry
-Transportation,Airlines,78,0.08685882608577478,Industry
-Transportation,Railroads,78,0.6012340703436291,Industry
-Transportation,Logistics,62,0.2627959371727956,Industry
+,Region Hannover,638,0.37473648104642365,Overall
+Region Hannover,HiTech,63,0.009593029821682642,Sector
+Region Hannover,Agriculture,80,0.08421931787607906,Sector
+Region Hannover,Transportation,51,0.7493677013801282,Sector
+Region Hannover,Consumer_Products,1,0.43004390775270696,Sector
+Region Hannover,Unassigned,9,0.4072689560212134,Sector
+Region Hannover,Communication,17,0.1550484613825921,Sector
+Region Hannover,Trade,22,0.7780487833208788,Sector
+Region Hannover,Business_Services,54,0.1594424732551456,Sector
+Region Hannover,Business_Products,16,0.2948246566630065,Sector
+Region Hannover,Construction,17,0.7383011592950501,Sector
+Region Hannover,Services,94,0.1450828134784593,Sector
+Region Hannover,Mining,86,0.4022886004180224,Sector
+Region Hannover,Health_Care,38,0.1818878159085896,Sector
+Region Hannover,EnergyExpL_Prod,17,0.3827425541213304,Sector
+Region Hannover,Utilities,73,0.7028869850014704,Sector

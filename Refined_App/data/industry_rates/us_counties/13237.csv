@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Putnam,1992,0.9504652573141112,Overall
-Putnam,Technology,153,0.13594139636044988,Sector
-Putnam,Healthcare,170,0.6037914870831457,Sector
-Putnam,Finance,142,0.09801212809545334,Sector
-Putnam,Energy,209,0.0795486195475621,Sector
-Putnam,Consumer Goods,192,0.05153368845810913,Sector
-Putnam,Utilities,218,0.04742680636132024,Sector
-Putnam,Real Estate,93,0.18671920014506438,Sector
-Putnam,Telecommunications,171,0.14164045599342945,Sector
-Putnam,Materials,160,0.9737126679192158,Sector
-Putnam,Industrials,155,0.32568997685937173,Sector
-Putnam,Consumer Services,99,0.10739866538621479,Sector
-Putnam,Transportation,230,0.4516338744890326,Sector
-Technology,Software,14,0.5179724419116551,Industry
-Technology,Hardware,70,0.08190998912083969,Industry
-Technology,IT Services,69,0.5407091971240977,Industry
-Healthcare,Pharmaceuticals,99,0.4514668851253223,Industry
-Healthcare,Medical Devices,25,0.3948839440257269,Industry
-Healthcare,Healthcare Services,46,0.12955353758295785,Industry
-Finance,Banking,47,0.06204994526247343,Industry
-Finance,Insurance,52,0.6294052982496887,Industry
-Finance,Investment Services,43,0.5977701649311307,Industry
-Energy,Oil & Gas,42,0.7258573585389786,Industry
-Energy,Renewable Energy,86,0.10916042866813791,Industry
-Energy,Energy Exploration,81,0.3817682520613759,Industry
-Consumer Goods,Food & Beverage,87,0.1017672154743251,Industry
-Consumer Goods,Household Products,79,0.293913406846838,Industry
-Consumer Goods,Apparel,26,0.3896483858986669,Industry
-Utilities,Electric,34,0.46196109684350395,Industry
-Utilities,Water,95,0.8501763374529777,Industry
-Utilities,Gas,89,0.6816241440939395,Industry
-Real Estate,Residential,42,0.5440963668084823,Industry
-Real Estate,Commercial,38,0.41004512893433864,Industry
-Real Estate,Industrial,13,0.6227725768618103,Industry
-Telecommunications,Mobile,74,0.8683264490957076,Industry
-Telecommunications,Broadband,51,0.37924032534908503,Industry
-Telecommunications,Satellite,46,0.5067425647758292,Industry
-Materials,Chemicals,88,0.7711317793618446,Industry
-Materials,Metals & Mining,41,0.4362522298149242,Industry
-Materials,Construction Materials,31,0.34044691904087576,Industry
-Industrials,Aerospace & Defense,49,0.7653449586235045,Industry
-Industrials,Machinery,54,0.022568979032716263,Industry
-Industrials,Industrial Services,52,0.47308352669836085,Industry
-Consumer Services,Retail,35,0.5143496607387144,Industry
-Consumer Services,Travel & Leisure,54,0.5022494937435873,Industry
-Consumer Services,Media,10,0.03677458441807879,Industry
-Transportation,Airlines,84,0.8138621902609355,Industry
-Transportation,Railroads,85,0.9467664124153421,Industry
-Transportation,Logistics,61,0.49142814206054397,Industry
+,Putnam,565,0.46263903503169246,Overall
+Putnam,HiTech,72,0.16371816158791463,Sector
+Putnam,Agriculture,82,0.7929648145549826,Sector
+Putnam,Transportation,3,0.11906756180838185,Sector
+Putnam,Consumer_Products,9,0.39487196790603196,Sector
+Putnam,Unassigned,60,0.48698638056187527,Sector
+Putnam,Communication,67,0.873361260770646,Sector
+Putnam,Trade,66,0.773889965228294,Sector
+Putnam,Business_Services,32,0.3188898457283218,Sector
+Putnam,Business_Products,28,0.0680416187985814,Sector
+Putnam,Construction,26,0.07456465939652135,Sector
+Putnam,Services,25,0.5805360585074907,Sector
+Putnam,Mining,22,0.603234726675674,Sector
+Putnam,Health_Care,45,0.3527487527344787,Sector
+Putnam,EnergyExpL_Prod,2,0.7891889883990637,Sector
+Putnam,Utilities,26,0.547520762817129,Sector

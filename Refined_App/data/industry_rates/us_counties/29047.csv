@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Clay,1982,0.16815054539826835,Overall
-Clay,Technology,190,0.15011390131555413,Sector
-Clay,Healthcare,160,0.18871814287824928,Sector
-Clay,Finance,197,0.2952837115860757,Sector
-Clay,Energy,132,0.47015956198366604,Sector
-Clay,Consumer Goods,95,0.09448837573744262,Sector
-Clay,Utilities,194,0.4610930060235813,Sector
-Clay,Real Estate,219,0.9154336161978902,Sector
-Clay,Telecommunications,201,0.3159583095636086,Sector
-Clay,Materials,111,0.9177259047542089,Sector
-Clay,Industrials,139,0.5365096225555581,Sector
-Clay,Consumer Services,122,0.350996667354311,Sector
-Clay,Transportation,222,0.2764320643499225,Sector
-Technology,Software,64,0.9973929955373603,Industry
-Technology,Hardware,93,0.4615979601926665,Industry
-Technology,IT Services,33,0.677538494885821,Industry
-Healthcare,Pharmaceuticals,66,0.9163666732878712,Industry
-Healthcare,Medical Devices,53,0.2821720761360731,Industry
-Healthcare,Healthcare Services,41,0.5808404614558746,Industry
-Finance,Banking,94,0.2527610380513591,Industry
-Finance,Insurance,9,0.01762374445013115,Industry
-Finance,Investment Services,94,0.7589059652867481,Industry
-Energy,Oil & Gas,55,0.9307898375681694,Industry
-Energy,Renewable Energy,5,0.8425926208190779,Industry
-Energy,Energy Exploration,72,0.8228244342866278,Industry
-Consumer Goods,Food & Beverage,3,0.40013156101576197,Industry
-Consumer Goods,Household Products,53,0.31997570304046297,Industry
-Consumer Goods,Apparel,39,0.4179352246102709,Industry
-Utilities,Electric,77,0.6879414835203992,Industry
-Utilities,Water,60,0.5509291978919085,Industry
-Utilities,Gas,57,0.030913163381145026,Industry
-Real Estate,Residential,67,0.11575508303971416,Industry
-Real Estate,Commercial,79,0.44317649554533634,Industry
-Real Estate,Industrial,73,0.7616248733752403,Industry
-Telecommunications,Mobile,53,0.25039171548422134,Industry
-Telecommunications,Broadband,85,0.6289073434720692,Industry
-Telecommunications,Satellite,63,0.5183513171907392,Industry
-Materials,Chemicals,64,0.4909419813843974,Industry
-Materials,Metals & Mining,36,0.179250749827764,Industry
-Materials,Construction Materials,11,0.2622354680994775,Industry
-Industrials,Aerospace & Defense,49,0.5926656283682442,Industry
-Industrials,Machinery,73,0.8292085821292914,Industry
-Industrials,Industrial Services,17,0.33492815302370327,Industry
-Consumer Services,Retail,34,0.8146154297666854,Industry
-Consumer Services,Travel & Leisure,11,0.10012971345907384,Industry
-Consumer Services,Media,77,0.30153831587221924,Industry
-Transportation,Airlines,77,0.0982508628986245,Industry
-Transportation,Railroads,82,0.563821201708096,Industry
-Transportation,Logistics,63,0.0026174779976595453,Industry
+,Clay,921,0.40094188203412423,Overall
+Clay,HiTech,66,0.02467399486646049,Sector
+Clay,Agriculture,28,0.05620606168844133,Sector
+Clay,Transportation,41,0.7622282524379803,Sector
+Clay,Consumer_Products,80,0.10648235902890046,Sector
+Clay,Unassigned,91,0.30583477593854813,Sector
+Clay,Communication,0,0.3702739076360143,Sector
+Clay,Trade,74,0.28409947144322756,Sector
+Clay,Business_Services,88,0.5584994787798088,Sector
+Clay,Business_Products,55,0.7691358417823492,Sector
+Clay,Construction,96,0.45563975644403576,Sector
+Clay,Services,69,0.7377936764270697,Sector
+Clay,Mining,28,0.612750486760246,Sector
+Clay,Health_Care,67,0.13289687353795498,Sector
+Clay,EnergyExpL_Prod,59,0.11821612630619172,Sector
+Clay,Utilities,79,0.7193971674346352,Sector

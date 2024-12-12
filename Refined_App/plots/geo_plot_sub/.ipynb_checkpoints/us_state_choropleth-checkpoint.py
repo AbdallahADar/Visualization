@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
-from utils.constants import METADATA_COLUMNS
+from utils.constants import METADATA_COLUMNS, HEATMAP_GEO
 
 def US_STATE_CHOROPLETH(file_name, bg_color = "white"):
 
@@ -21,7 +21,7 @@ def US_STATE_CHOROPLETH(file_name, bg_color = "white"):
             locations = df[STATE_COLUMN],  # Spatial coordinates
             locationmode = 'USA-states',  # Set of locations match entries in `locations`
             z = df[GROWTH_RATE_COLUMN],  # The numerical data to map to the colorscale
-            colorscale = "Thermal", 
+            colorscale = HEATMAP_GEO["hot-zones"], 
             colorbar=dict(
                 title="Median<br>Growth Rate",  # Title for the color bar
                 ticks='',  # Disable tick marks

@@ -6,6 +6,7 @@ from utils.styles import TREE_FIGURE
 from plots.geo_plot import geo_plot
 from plots.tree_plot import tree_plot
 from data.StateManager import StateManager
+import plotly.graph_objects as go
 
 def register_callbacks(app):
     """
@@ -15,22 +16,26 @@ def register_callbacks(app):
         [
             Output(GEO_FIGURE_IDS["overall-container"], "style", allow_duplicate=True),
             Output(GEO_FIGURE_IDS["geo-figure"], "figure", allow_duplicate=True),
+            Output(GEO_FIGURE_IDS["growth-container"], "style", allow_duplicate=True),
+            Output(GEO_FIGURE_IDS["geo-figure-risk"], "figure", allow_duplicate=True),
+            Output(GEO_FIGURE_IDS["risk-container"], "style", allow_duplicate=True),
             Output(SECTOR_NDY_FIGURE_IDS["overall-container"], "style", allow_duplicate=True),
             Output(SECTOR_NDY_FIGURE_IDS["tree-figure"], "figure", allow_duplicate=True),            
             Output(STATE_DATA_ID, 'data', allow_duplicate=True)
         ],
         [
             Input(GEO_FIGURE_IDS["geo-figure"], 'clickData'), # If the plot has been clicked
+            Input(GEO_FIGURE_IDS["geo-figure-risk"], 'clickData'), # If the plot has been clicked
             State(STATE_DATA_ID, 'data')
         ],
         prevent_initial_call = True
     )
-    def update(clicked, state):
+    def update(clicked, clicked_risk, state):
 
         SM = StateManager.from_dict(state)
 
         # Will only be triggered if the map is clicked
-        if clicked:
+        if clicked or clicked_risk:
 
             ## We have different outcomes based on different steps and selections
 
@@ -44,6 +49,7 @@ def register_callbacks(app):
                 SM.step = "nuts3"
 
             elif SM.step == "nuts1":
+                print(SM.geo_fig, "********")
                 SM.nuts1 = clicked["points"][0]["location"]
                 SM.step = "nuts2"
 
@@ -58,8 +64,12 @@ def register_callbacks(app):
             
             # At country stage
             elif SM.step == "countries":
+                
+                # Empty the risk plot once country is selected
+                SM.geo_fig_risk = {}
+                
                 # Save country
-                SM.country = clicked["points"][0]["location"]
+                SM.country = clicked["points"][0]["location"] if clicked else clicked_risk["points"][0]["location"]
                 
                 if SM.country == "USA": # Move to states
                     SM.step = "us_state"
@@ -69,15 +79,20 @@ def register_callbacks(app):
 
                 else:
                     SM.step = "tree"
+                    SM.tree_fig = tree_plot(SM.nuts3, "nuts", False, APP_BACKGROUND_COLOR)
 
             
             ## Update geo figure
             SM.geo_fig = geo_plot(SM.map_sector, SM, APP_BACKGROUND_COLOR)
+            
 
             print(SM.country, SM.us_state, SM.us_county, SM.nuts1, SM.nuts2, SM.nuts3)
             
             return [dash.no_update if SM.step != "tree" else {'display':'none'}, 
                     SM.geo_fig,
+                    {'display': 'flex', 'flex-direction': 'column', 'align-items': 'center'} if SM.step == "us_state" or SM.step == "nuts1" else dash.no_update,
+                    SM.geo_fig_risk,
+                    {'display':'none'},
                     TREE_FIGURE if SM.step == "tree" else dash.no_update, 
                     SM.tree_fig,
                     SM.to_dict()]

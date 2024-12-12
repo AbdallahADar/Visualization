@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rogers,2038,0.9642146718744867,Overall
-Rogers,Technology,262,0.5656649253446272,Sector
-Rogers,Healthcare,224,0.0892344577145685,Sector
-Rogers,Finance,77,0.03984812627714429,Sector
-Rogers,Energy,187,0.2799154342572071,Sector
-Rogers,Consumer Goods,66,0.6660843093966465,Sector
-Rogers,Utilities,171,0.26642534126128237,Sector
-Rogers,Real Estate,236,0.9156494692364004,Sector
-Rogers,Telecommunications,192,0.9770092873221984,Sector
-Rogers,Materials,92,0.8160515145892102,Sector
-Rogers,Industrials,217,0.029211587462672828,Sector
-Rogers,Consumer Services,215,0.8342271727692229,Sector
-Rogers,Transportation,99,0.9129362614907119,Sector
-Technology,Software,82,0.03352532408934661,Industry
-Technology,Hardware,97,0.044322789347480906,Industry
-Technology,IT Services,83,0.2340508873109296,Industry
-Healthcare,Pharmaceuticals,42,0.37267247700624273,Industry
-Healthcare,Medical Devices,95,0.0093202538177668,Industry
-Healthcare,Healthcare Services,87,0.34373509937712143,Industry
-Finance,Banking,13,0.809242775785317,Industry
-Finance,Insurance,31,0.6118241496315947,Industry
-Finance,Investment Services,33,0.724429451949334,Industry
-Energy,Oil & Gas,95,0.7303239745815877,Industry
-Energy,Renewable Energy,75,0.7204495773548003,Industry
-Energy,Energy Exploration,17,0.6776587098099416,Industry
-Consumer Goods,Food & Beverage,49,0.060514965077999694,Industry
-Consumer Goods,Household Products,6,0.1780053478962399,Industry
-Consumer Goods,Apparel,11,0.8058576284779978,Industry
-Utilities,Electric,64,0.5889999384297577,Industry
-Utilities,Water,80,0.06162148511248744,Industry
-Utilities,Gas,27,0.5171177788540343,Industry
-Real Estate,Residential,97,0.2839490169738389,Industry
-Real Estate,Commercial,71,0.5298315825217853,Industry
-Real Estate,Industrial,68,0.7583683536755317,Industry
-Telecommunications,Mobile,9,0.9474565539520454,Industry
-Telecommunications,Broadband,94,0.6247108129490835,Industry
-Telecommunications,Satellite,89,0.7051888057997298,Industry
-Materials,Chemicals,46,0.5800666838886269,Industry
-Materials,Metals & Mining,46,0.3052146129248384,Industry
-Materials,Construction Materials,0,0.035682010086109495,Industry
-Industrials,Aerospace & Defense,80,0.3456242705736269,Industry
-Industrials,Machinery,79,0.2740317055757684,Industry
-Industrials,Industrial Services,58,0.56980420846665,Industry
-Consumer Services,Retail,97,0.36897530627459074,Industry
-Consumer Services,Travel & Leisure,69,0.42840428953938947,Industry
-Consumer Services,Media,49,0.5605514256192162,Industry
-Transportation,Airlines,48,0.44627012947534683,Industry
-Transportation,Railroads,19,0.3247765094104412,Industry
-Transportation,Logistics,32,0.12879399821092197,Industry
+,Rogers,785,0.4846768972500846,Overall
+Rogers,HiTech,66,0.7310141590199836,Sector
+Rogers,Agriculture,93,0.2657510761926748,Sector
+Rogers,Transportation,24,0.044551676376170746,Sector
+Rogers,Consumer_Products,36,0.7847587187224403,Sector
+Rogers,Unassigned,71,0.49367547676390444,Sector
+Rogers,Communication,2,0.32898842950538765,Sector
+Rogers,Trade,61,0.2671974080632492,Sector
+Rogers,Business_Services,5,0.35028212129382863,Sector
+Rogers,Business_Products,21,0.8995793808107849,Sector
+Rogers,Construction,41,0.6883577785493478,Sector
+Rogers,Services,54,0.5780485879432161,Sector
+Rogers,Mining,91,0.3975523117465465,Sector
+Rogers,Health_Care,85,0.7713435033152048,Sector
+Rogers,EnergyExpL_Prod,95,0.16693407613286482,Sector
+Rogers,Utilities,40,0.5021187543156659,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gallia,1956,0.8557528698921769,Overall
-Gallia,Technology,218,0.3758210616452099,Sector
-Gallia,Healthcare,181,0.793205067123708,Sector
-Gallia,Finance,190,0.5629374875903385,Sector
-Gallia,Energy,183,0.03988928815296755,Sector
-Gallia,Consumer Goods,147,0.7030370958950865,Sector
-Gallia,Utilities,90,0.4185779097521717,Sector
-Gallia,Real Estate,134,0.2978569773143689,Sector
-Gallia,Telecommunications,196,0.027024472584016634,Sector
-Gallia,Materials,221,0.5221282032581828,Sector
-Gallia,Industrials,134,0.3783327810630982,Sector
-Gallia,Consumer Services,133,0.030082079244763915,Sector
-Gallia,Transportation,129,0.5077661304668407,Sector
-Technology,Software,96,0.18511944212839304,Industry
-Technology,Hardware,65,0.5649178756466775,Industry
-Technology,IT Services,57,0.5298067806614074,Industry
-Healthcare,Pharmaceuticals,65,0.699644989776096,Industry
-Healthcare,Medical Devices,70,0.6309154522524038,Industry
-Healthcare,Healthcare Services,46,0.009682109775687398,Industry
-Finance,Banking,95,0.4689986665679102,Industry
-Finance,Insurance,69,0.8185603096637188,Industry
-Finance,Investment Services,26,0.41667501211697466,Industry
-Energy,Oil & Gas,71,0.5789564297753665,Industry
-Energy,Renewable Energy,35,0.7446139227199792,Industry
-Energy,Energy Exploration,77,0.7854344412494814,Industry
-Consumer Goods,Food & Beverage,70,0.6998384381413493,Industry
-Consumer Goods,Household Products,34,0.31970028186691946,Industry
-Consumer Goods,Apparel,43,0.8671010828807664,Industry
-Utilities,Electric,26,0.4711171344455437,Industry
-Utilities,Water,39,0.5363648503917023,Industry
-Utilities,Gas,25,0.5339094845950543,Industry
-Real Estate,Residential,75,0.24405993324820574,Industry
-Real Estate,Commercial,46,0.7430644565484009,Industry
-Real Estate,Industrial,13,0.19714411592312886,Industry
-Telecommunications,Mobile,76,0.4847534083576842,Industry
-Telecommunications,Broadband,25,0.9224580110808488,Industry
-Telecommunications,Satellite,95,0.11027271721371423,Industry
-Materials,Chemicals,68,0.2618274301764042,Industry
-Materials,Metals & Mining,64,0.7910315538397373,Industry
-Materials,Construction Materials,89,0.6528922928575546,Industry
-Industrials,Aerospace & Defense,23,0.7664433898757623,Industry
-Industrials,Machinery,50,0.5655844543578625,Industry
-Industrials,Industrial Services,61,0.3828934443981101,Industry
-Consumer Services,Retail,89,0.35431797285324806,Industry
-Consumer Services,Travel & Leisure,18,0.3593709960909389,Industry
-Consumer Services,Media,26,0.23972271686905455,Industry
-Transportation,Airlines,53,0.4783129580912745,Industry
-Transportation,Railroads,10,0.5189822210972564,Industry
-Transportation,Logistics,66,0.382782657957785,Industry
+,Gallia,1070,0.5544839280135013,Overall
+Gallia,HiTech,66,0.9088703187638829,Sector
+Gallia,Agriculture,76,0.5009088630100377,Sector
+Gallia,Transportation,44,0.08689477026856418,Sector
+Gallia,Consumer_Products,55,0.41315873629078603,Sector
+Gallia,Unassigned,28,0.2625060701583196,Sector
+Gallia,Communication,82,0.6625719088198134,Sector
+Gallia,Trade,98,0.3715205738771272,Sector
+Gallia,Business_Services,91,0.705515405312699,Sector
+Gallia,Business_Products,67,0.5581523001277939,Sector
+Gallia,Construction,77,0.9479761319537319,Sector
+Gallia,Services,71,0.7597184729259442,Sector
+Gallia,Mining,91,0.5703832087765405,Sector
+Gallia,Health_Care,92,0.945442485658562,Sector
+Gallia,EnergyExpL_Prod,81,0.42509009662148567,Sector
+Gallia,Utilities,51,0.19854957763723025,Sector

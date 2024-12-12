@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Warendorf,1789,0.15743913362726125,Overall
-Warendorf,Technology,149,0.17456651451576122,Sector
-Warendorf,Healthcare,190,0.6262557558331371,Sector
-Warendorf,Finance,171,0.8850671799687342,Sector
-Warendorf,Energy,121,0.23434904716504423,Sector
-Warendorf,Consumer Goods,77,0.8841068011859067,Sector
-Warendorf,Utilities,197,0.25603725547832457,Sector
-Warendorf,Real Estate,89,0.4289204845964928,Sector
-Warendorf,Telecommunications,106,0.27984599233056306,Sector
-Warendorf,Materials,227,0.43736871091143625,Sector
-Warendorf,Industrials,82,0.5427957577701863,Sector
-Warendorf,Consumer Services,183,0.9584326178405171,Sector
-Warendorf,Transportation,197,0.5971272025035207,Sector
-Technology,Software,86,0.731661540393876,Industry
-Technology,Hardware,18,0.3056462441624431,Industry
-Technology,IT Services,45,0.8070918704205102,Industry
-Healthcare,Pharmaceuticals,72,0.5115610352250851,Industry
-Healthcare,Medical Devices,46,0.6793539623023317,Industry
-Healthcare,Healthcare Services,72,0.9157740717783988,Industry
-Finance,Banking,4,0.8106146144514716,Industry
-Finance,Insurance,99,0.4419770192337843,Industry
-Finance,Investment Services,68,0.8837187663478354,Industry
-Energy,Oil & Gas,41,0.8880866453482982,Industry
-Energy,Renewable Energy,47,0.2912790133795816,Industry
-Energy,Energy Exploration,33,0.0897309272131337,Industry
-Consumer Goods,Food & Beverage,9,0.5507644527086367,Industry
-Consumer Goods,Household Products,18,0.1457910935504102,Industry
-Consumer Goods,Apparel,50,0.20155545578514644,Industry
-Utilities,Electric,64,0.1794899154571602,Industry
-Utilities,Water,51,0.6139195305633225,Industry
-Utilities,Gas,82,0.9758825206884436,Industry
-Real Estate,Residential,60,0.6542203277422881,Industry
-Real Estate,Commercial,4,0.5917910271778304,Industry
-Real Estate,Industrial,25,0.593705180799744,Industry
-Telecommunications,Mobile,10,0.37980621291119365,Industry
-Telecommunications,Broadband,1,0.3999701304715285,Industry
-Telecommunications,Satellite,95,0.059113226769467175,Industry
-Materials,Chemicals,96,0.8981818558853764,Industry
-Materials,Metals & Mining,37,0.8478333151873316,Industry
-Materials,Construction Materials,94,0.585120530109597,Industry
-Industrials,Aerospace & Defense,44,0.13078066103337116,Industry
-Industrials,Machinery,10,0.7457692962863958,Industry
-Industrials,Industrial Services,28,0.5695337489532493,Industry
-Consumer Services,Retail,56,0.6540630727425079,Industry
-Consumer Services,Travel & Leisure,95,0.5683936878137983,Industry
-Consumer Services,Media,32,0.6184245302762219,Industry
-Transportation,Airlines,63,0.6930892179115836,Industry
-Transportation,Railroads,48,0.042621451181548364,Industry
-Transportation,Logistics,86,0.13350216322268427,Industry
+,Warendorf,696,0.4924746807817477,Overall
+Warendorf,HiTech,5,0.894521485219827,Sector
+Warendorf,Agriculture,10,0.41250591385240776,Sector
+Warendorf,Transportation,53,0.36304956026360413,Sector
+Warendorf,Consumer_Products,68,0.9427236281713508,Sector
+Warendorf,Unassigned,12,0.5458537851902259,Sector
+Warendorf,Communication,82,0.3442528422398522,Sector
+Warendorf,Trade,51,0.2939926712258162,Sector
+Warendorf,Business_Services,66,0.6007383629124208,Sector
+Warendorf,Business_Products,38,0.23434872836920662,Sector
+Warendorf,Construction,60,0.15163008359877517,Sector
+Warendorf,Services,1,0.36772667064454856,Sector
+Warendorf,Mining,75,0.5030308474065672,Sector
+Warendorf,Health_Care,27,0.5286019914966411,Sector
+Warendorf,EnergyExpL_Prod,93,0.6222908373104796,Sector
+Warendorf,Utilities,55,0.581852803824492,Sector

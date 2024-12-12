@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Guayama,2020,0.0836713990840865,Overall
-Guayama,Technology,191,0.5500887648116474,Sector
-Guayama,Healthcare,218,0.560856531826656,Sector
-Guayama,Finance,51,0.04891981978884352,Sector
-Guayama,Energy,192,0.8895678770677182,Sector
-Guayama,Consumer Goods,285,0.33968321895723563,Sector
-Guayama,Utilities,118,0.15666930794382683,Sector
-Guayama,Real Estate,170,0.026228561623728885,Sector
-Guayama,Telecommunications,193,0.3097687509164966,Sector
-Guayama,Materials,164,0.024381304772303047,Sector
-Guayama,Industrials,162,0.5769674821227365,Sector
-Guayama,Consumer Services,169,0.8875194855253342,Sector
-Guayama,Transportation,107,0.14591917272487687,Sector
-Technology,Software,61,0.19360307714255587,Industry
-Technology,Hardware,69,0.9192476507156043,Industry
-Technology,IT Services,61,0.9265654878371304,Industry
-Healthcare,Pharmaceuticals,96,0.2042656996553187,Industry
-Healthcare,Medical Devices,41,0.12995190288208525,Industry
-Healthcare,Healthcare Services,81,0.20713702181118931,Industry
-Finance,Banking,0,0.42371096101571515,Industry
-Finance,Insurance,31,0.584030946943228,Industry
-Finance,Investment Services,20,0.6396319195352286,Industry
-Energy,Oil & Gas,49,0.14441039207445627,Industry
-Energy,Renewable Energy,50,0.580044855405989,Industry
-Energy,Energy Exploration,93,0.3551458398048355,Industry
-Consumer Goods,Food & Beverage,96,0.6944263139316221,Industry
-Consumer Goods,Household Products,96,0.27952843043557585,Industry
-Consumer Goods,Apparel,93,0.3124237027538692,Industry
-Utilities,Electric,44,0.859061460225205,Industry
-Utilities,Water,20,0.9746964398767899,Industry
-Utilities,Gas,54,0.9335600598948887,Industry
-Real Estate,Residential,98,0.4108765485543493,Industry
-Real Estate,Commercial,56,0.3253962353110086,Industry
-Real Estate,Industrial,16,0.6447250150161905,Industry
-Telecommunications,Mobile,39,0.9554414092832296,Industry
-Telecommunications,Broadband,88,0.9673654976531809,Industry
-Telecommunications,Satellite,66,0.6757329879213284,Industry
-Materials,Chemicals,98,0.6890463868616893,Industry
-Materials,Metals & Mining,28,0.8424009170379565,Industry
-Materials,Construction Materials,38,0.21816177964470385,Industry
-Industrials,Aerospace & Defense,56,0.7929820240986487,Industry
-Industrials,Machinery,57,0.4054521480066614,Industry
-Industrials,Industrial Services,49,0.4080889319760197,Industry
-Consumer Services,Retail,62,0.5685939731180237,Industry
-Consumer Services,Travel & Leisure,79,0.7818808283322127,Industry
-Consumer Services,Media,28,0.7120169326469644,Industry
-Transportation,Airlines,40,0.5891790457899234,Industry
-Transportation,Railroads,49,0.7196039405212121,Industry
-Transportation,Logistics,18,0.05676493705362762,Industry
+,Guayama,478,0.4496104481801936,Overall
+Guayama,HiTech,79,0.2740313849337771,Sector
+Guayama,Agriculture,36,0.2628573433750747,Sector
+Guayama,Transportation,17,0.45887971761922686,Sector
+Guayama,Consumer_Products,76,0.13722715809304287,Sector
+Guayama,Unassigned,3,0.45614759361453583,Sector
+Guayama,Communication,52,0.6872748935796156,Sector
+Guayama,Trade,17,0.3851001319767019,Sector
+Guayama,Business_Services,14,0.6292900784391153,Sector
+Guayama,Business_Products,18,0.12012694084751663,Sector
+Guayama,Construction,33,0.3003657981653731,Sector
+Guayama,Services,32,0.8569993958609874,Sector
+Guayama,Mining,2,0.9672367484000647,Sector
+Guayama,Health_Care,41,0.13036110529308687,Sector
+Guayama,EnergyExpL_Prod,33,0.39289438483937444,Sector
+Guayama,Utilities,25,0.6853640476654113,Sector

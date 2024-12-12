@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Satakunta,1681,0.3578799681649546,Overall
-Satakunta,Technology,90,0.21989012475690017,Sector
-Satakunta,Healthcare,135,0.9170513516492568,Sector
-Satakunta,Finance,136,0.43503833730758146,Sector
-Satakunta,Energy,118,0.5431343072123884,Sector
-Satakunta,Consumer Goods,135,0.2897035135907021,Sector
-Satakunta,Utilities,267,0.3067029346726027,Sector
-Satakunta,Real Estate,155,0.3388713543594507,Sector
-Satakunta,Telecommunications,249,0.19242094348343086,Sector
-Satakunta,Materials,144,0.04380079484197752,Sector
-Satakunta,Industrials,56,0.6511391861614546,Sector
-Satakunta,Consumer Services,47,0.6425133857947277,Sector
-Satakunta,Transportation,149,0.5193516363449538,Sector
-Technology,Software,47,0.1779436132031066,Industry
-Technology,Hardware,13,0.5022370439140433,Industry
-Technology,IT Services,30,0.44961035847480835,Industry
-Healthcare,Pharmaceuticals,8,0.03808618776860717,Industry
-Healthcare,Medical Devices,93,0.20769760901813605,Industry
-Healthcare,Healthcare Services,34,0.5097275285787554,Industry
-Finance,Banking,24,0.21647319255356057,Industry
-Finance,Insurance,95,0.8647114537657613,Industry
-Finance,Investment Services,17,0.3827765936600118,Industry
-Energy,Oil & Gas,23,0.2666805399620208,Industry
-Energy,Renewable Energy,2,0.09120597896098082,Industry
-Energy,Energy Exploration,93,0.6920708128508899,Industry
-Consumer Goods,Food & Beverage,74,0.6829157020644262,Industry
-Consumer Goods,Household Products,40,0.22631317011155727,Industry
-Consumer Goods,Apparel,21,0.300524617603641,Industry
-Utilities,Electric,94,0.20559212748879074,Industry
-Utilities,Water,88,0.9078418478243184,Industry
-Utilities,Gas,85,0.6419954666619788,Industry
-Real Estate,Residential,20,0.05407230383589012,Industry
-Real Estate,Commercial,62,0.6057802494611576,Industry
-Real Estate,Industrial,73,0.3794128157731854,Industry
-Telecommunications,Mobile,89,0.5437957467735309,Industry
-Telecommunications,Broadband,77,0.6443923192591466,Industry
-Telecommunications,Satellite,83,0.7099071770586041,Industry
-Materials,Chemicals,51,0.47014479671871745,Industry
-Materials,Metals & Mining,34,0.3068501172739021,Industry
-Materials,Construction Materials,59,0.8100124265860594,Industry
-Industrials,Aerospace & Defense,20,0.24167233007094846,Industry
-Industrials,Machinery,35,0.745891019209765,Industry
-Industrials,Industrial Services,1,0.21893897031673437,Industry
-Consumer Services,Retail,41,0.5358263702955749,Industry
-Consumer Services,Travel & Leisure,0,0.8906327363613447,Industry
-Consumer Services,Media,6,0.7739497037360464,Industry
-Transportation,Airlines,15,0.9984738046102134,Industry
-Transportation,Railroads,88,0.4327879922902502,Industry
-Transportation,Logistics,46,0.9945084234941111,Industry
+,Satakunta,814,0.4545207443942079,Overall
+Satakunta,HiTech,87,0.6940474245983285,Sector
+Satakunta,Agriculture,20,0.43875329611697933,Sector
+Satakunta,Transportation,1,0.490511417981772,Sector
+Satakunta,Consumer_Products,8,0.8790992520890573,Sector
+Satakunta,Unassigned,99,0.0727962231334992,Sector
+Satakunta,Communication,87,0.31893465646874763,Sector
+Satakunta,Trade,82,0.25261315822754304,Sector
+Satakunta,Business_Services,87,0.7872703013804233,Sector
+Satakunta,Business_Products,47,0.27696648835267457,Sector
+Satakunta,Construction,56,0.5233705684941002,Sector
+Satakunta,Services,1,0.7613573034073928,Sector
+Satakunta,Mining,50,0.08021932942057242,Sector
+Satakunta,Health_Care,34,0.9120434178502302,Sector
+Satakunta,EnergyExpL_Prod,82,0.16594304635628865,Sector
+Satakunta,Utilities,73,0.163885282035508,Sector

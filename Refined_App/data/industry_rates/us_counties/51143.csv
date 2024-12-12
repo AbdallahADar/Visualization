@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pittsylvania,1423,0.057686448886880126,Overall
-Pittsylvania,Technology,93,0.12195811835292536,Sector
-Pittsylvania,Healthcare,142,0.8203917445242596,Sector
-Pittsylvania,Finance,142,0.49434351389074505,Sector
-Pittsylvania,Energy,115,0.45439289277354955,Sector
-Pittsylvania,Consumer Goods,168,0.7785299596435928,Sector
-Pittsylvania,Utilities,38,0.30743992506858553,Sector
-Pittsylvania,Real Estate,62,0.6843868189909232,Sector
-Pittsylvania,Telecommunications,125,0.43214668053573446,Sector
-Pittsylvania,Materials,139,0.918838331102191,Sector
-Pittsylvania,Industrials,152,0.23291665736181755,Sector
-Pittsylvania,Consumer Services,77,0.43515737595059967,Sector
-Pittsylvania,Transportation,170,0.9201109806271772,Sector
-Technology,Software,51,0.006717623953322871,Industry
-Technology,Hardware,11,0.7660347870722383,Industry
-Technology,IT Services,31,0.4868242888882668,Industry
-Healthcare,Pharmaceuticals,81,0.7096716551639498,Industry
-Healthcare,Medical Devices,37,0.9525001506740234,Industry
-Healthcare,Healthcare Services,24,0.600658741096043,Industry
-Finance,Banking,74,0.9222528025752237,Industry
-Finance,Insurance,61,0.06020942859582645,Industry
-Finance,Investment Services,7,0.4306096080825611,Industry
-Energy,Oil & Gas,71,0.8987464810711918,Industry
-Energy,Renewable Energy,35,0.8915236348416955,Industry
-Energy,Energy Exploration,9,0.6175916648777557,Industry
-Consumer Goods,Food & Beverage,53,0.6891259987389003,Industry
-Consumer Goods,Household Products,72,0.5655573906102439,Industry
-Consumer Goods,Apparel,43,0.09261500908647202,Industry
-Utilities,Electric,22,0.7588987263420327,Industry
-Utilities,Water,3,0.7797539723505728,Industry
-Utilities,Gas,13,0.28162269382507565,Industry
-Real Estate,Residential,12,0.4408705884814398,Industry
-Real Estate,Commercial,40,0.6127949711998676,Industry
-Real Estate,Industrial,10,0.380630404613832,Industry
-Telecommunications,Mobile,91,0.44003744320795524,Industry
-Telecommunications,Broadband,5,0.6123136331593141,Industry
-Telecommunications,Satellite,29,0.09442004484533195,Industry
-Materials,Chemicals,31,0.3650004637897426,Industry
-Materials,Metals & Mining,91,0.25698205554289977,Industry
-Materials,Construction Materials,17,0.03971224321187983,Industry
-Industrials,Aerospace & Defense,31,0.8319224887851678,Industry
-Industrials,Machinery,95,0.4411721962460394,Industry
-Industrials,Industrial Services,26,0.9428853965472324,Industry
-Consumer Services,Retail,3,0.4190566045182528,Industry
-Consumer Services,Travel & Leisure,38,0.9830117219737736,Industry
-Consumer Services,Media,36,0.9931860952557033,Industry
-Transportation,Airlines,91,0.12534709668876876,Industry
-Transportation,Railroads,51,0.7236019979354951,Industry
-Transportation,Logistics,28,0.051755280886818356,Industry
+,Pittsylvania,625,0.46005262246734974,Overall
+Pittsylvania,HiTech,12,0.15666685896383536,Sector
+Pittsylvania,Agriculture,8,0.2820083022924669,Sector
+Pittsylvania,Transportation,63,0.04973650536959917,Sector
+Pittsylvania,Consumer_Products,18,0.7434769816515024,Sector
+Pittsylvania,Unassigned,80,0.8301204266660599,Sector
+Pittsylvania,Communication,60,0.6114644444313189,Sector
+Pittsylvania,Trade,66,0.9133912589265692,Sector
+Pittsylvania,Business_Services,64,0.8613478295308832,Sector
+Pittsylvania,Business_Products,41,0.08442945911871058,Sector
+Pittsylvania,Construction,61,0.4428367442194875,Sector
+Pittsylvania,Services,22,0.08684296894343912,Sector
+Pittsylvania,Mining,12,0.10144756371875685,Sector
+Pittsylvania,Health_Care,18,0.7841820697515935,Sector
+Pittsylvania,EnergyExpL_Prod,85,0.20732227439448636,Sector
+Pittsylvania,Utilities,15,0.7455156490315377,Sector

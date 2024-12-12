@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cotton,1873,0.6185705788389727,Overall
-Cotton,Technology,124,0.9860980188727669,Sector
-Cotton,Healthcare,175,0.32889326499386273,Sector
-Cotton,Finance,144,0.43282969883446587,Sector
-Cotton,Energy,21,0.7435446273827874,Sector
-Cotton,Consumer Goods,183,0.5036690064030627,Sector
-Cotton,Utilities,182,0.9503425581067848,Sector
-Cotton,Real Estate,177,0.41444061394524767,Sector
-Cotton,Telecommunications,184,0.8077373634897866,Sector
-Cotton,Materials,187,0.4977651639149855,Sector
-Cotton,Industrials,236,0.4485255816149719,Sector
-Cotton,Consumer Services,162,0.7652317526061712,Sector
-Cotton,Transportation,98,0.7703254211517563,Sector
-Technology,Software,31,0.05885092246308132,Industry
-Technology,Hardware,85,0.24431794530342688,Industry
-Technology,IT Services,8,0.1916234458771059,Industry
-Healthcare,Pharmaceuticals,42,0.563156932647033,Industry
-Healthcare,Medical Devices,93,0.11260212993285634,Industry
-Healthcare,Healthcare Services,40,0.7386089583698734,Industry
-Finance,Banking,2,0.900445434274625,Industry
-Finance,Insurance,79,0.7963493526310849,Industry
-Finance,Investment Services,63,0.4408234239026452,Industry
-Energy,Oil & Gas,11,0.14780301164787757,Industry
-Energy,Renewable Energy,6,0.4101013769604984,Industry
-Energy,Energy Exploration,4,0.66472745693656,Industry
-Consumer Goods,Food & Beverage,83,0.36740598017737724,Industry
-Consumer Goods,Household Products,57,0.4344983010774611,Industry
-Consumer Goods,Apparel,43,0.27914975592612845,Industry
-Utilities,Electric,54,0.5802766554229446,Industry
-Utilities,Water,68,0.22838395145998303,Industry
-Utilities,Gas,60,0.91992500593986,Industry
-Real Estate,Residential,59,0.6396011460862521,Industry
-Real Estate,Commercial,58,0.8319191815269992,Industry
-Real Estate,Industrial,60,0.2716649043299959,Industry
-Telecommunications,Mobile,45,0.41535643008510603,Industry
-Telecommunications,Broadband,81,0.2785047225391002,Industry
-Telecommunications,Satellite,58,0.6869774978131489,Industry
-Materials,Chemicals,77,0.8377693409784589,Industry
-Materials,Metals & Mining,39,0.717357560394458,Industry
-Materials,Construction Materials,71,0.9046434051323236,Industry
-Industrials,Aerospace & Defense,58,0.48625767647622287,Industry
-Industrials,Machinery,81,0.16702643243436743,Industry
-Industrials,Industrial Services,97,0.7752710187153911,Industry
-Consumer Services,Retail,45,0.46175093213780516,Industry
-Consumer Services,Travel & Leisure,96,0.9962956807199558,Industry
-Consumer Services,Media,21,0.3955976504183756,Industry
-Transportation,Airlines,2,0.3450048661343865,Industry
-Transportation,Railroads,91,0.7029951393575586,Industry
-Transportation,Logistics,5,0.6812460533967577,Industry
+,Cotton,777,0.5398945921635598,Overall
+Cotton,HiTech,55,0.6791227876822767,Sector
+Cotton,Agriculture,48,0.9048901055024371,Sector
+Cotton,Transportation,53,0.6922660003014717,Sector
+Cotton,Consumer_Products,49,0.7570096784630312,Sector
+Cotton,Unassigned,79,0.655010942243759,Sector
+Cotton,Communication,58,0.17408027257136138,Sector
+Cotton,Trade,9,0.7655282171186102,Sector
+Cotton,Business_Services,76,0.22492781557176122,Sector
+Cotton,Business_Products,40,0.24671464630368523,Sector
+Cotton,Construction,39,0.14379137778872797,Sector
+Cotton,Services,14,0.7416272990871811,Sector
+Cotton,Mining,38,0.747944402743635,Sector
+Cotton,Health_Care,71,0.18219997657214304,Sector
+Cotton,EnergyExpL_Prod,82,0.5538555192924794,Sector
+Cotton,Utilities,66,0.6294498412108389,Sector

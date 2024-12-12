@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Solothurn,1701,0.6574102100272179,Overall
-Solothurn,Technology,102,0.9366121005883818,Sector
-Solothurn,Healthcare,81,0.9702442839638162,Sector
-Solothurn,Finance,92,0.11648167429710088,Sector
-Solothurn,Energy,154,0.45556970843934286,Sector
-Solothurn,Consumer Goods,142,0.9510749128549737,Sector
-Solothurn,Utilities,89,0.9288028549472036,Sector
-Solothurn,Real Estate,270,0.4228730128684073,Sector
-Solothurn,Telecommunications,80,0.5733016013019684,Sector
-Solothurn,Materials,256,0.08958664002065586,Sector
-Solothurn,Industrials,135,0.7209833937709529,Sector
-Solothurn,Consumer Services,164,0.6941061759954547,Sector
-Solothurn,Transportation,136,0.6008384268626907,Sector
-Technology,Software,3,0.3912481272836763,Industry
-Technology,Hardware,65,0.63367252673355,Industry
-Technology,IT Services,34,0.2229217202890872,Industry
-Healthcare,Pharmaceuticals,63,0.26544191139957163,Industry
-Healthcare,Medical Devices,16,0.003915661958074246,Industry
-Healthcare,Healthcare Services,2,0.14886625822367305,Industry
-Finance,Banking,9,0.9494825560808493,Industry
-Finance,Insurance,40,0.22066308598185058,Industry
-Finance,Investment Services,43,0.6800365464142681,Industry
-Energy,Oil & Gas,27,0.33609352337827825,Industry
-Energy,Renewable Energy,83,0.5117565803839804,Industry
-Energy,Energy Exploration,44,0.0447686712943447,Industry
-Consumer Goods,Food & Beverage,45,0.8593137159583566,Industry
-Consumer Goods,Household Products,85,0.15289277071362606,Industry
-Consumer Goods,Apparel,12,0.5449622288006551,Industry
-Utilities,Electric,36,0.6316790506590676,Industry
-Utilities,Water,19,0.1839369351902459,Industry
-Utilities,Gas,34,0.9846257737047581,Industry
-Real Estate,Residential,76,0.6900108532678187,Industry
-Real Estate,Commercial,99,0.408730227030372,Industry
-Real Estate,Industrial,95,0.6085494779807835,Industry
-Telecommunications,Mobile,29,0.7903057997767644,Industry
-Telecommunications,Broadband,15,0.9263224070014293,Industry
-Telecommunications,Satellite,36,0.5540564022046301,Industry
-Materials,Chemicals,87,0.573707364923549,Industry
-Materials,Metals & Mining,79,0.7825509042670139,Industry
-Materials,Construction Materials,90,0.02473680861600369,Industry
-Industrials,Aerospace & Defense,71,0.787531465666508,Industry
-Industrials,Machinery,15,0.981007746330309,Industry
-Industrials,Industrial Services,49,0.9967972645459234,Industry
-Consumer Services,Retail,48,0.9390208089221656,Industry
-Consumer Services,Travel & Leisure,52,0.15908176270943108,Industry
-Consumer Services,Media,64,0.7261882336652592,Industry
-Transportation,Airlines,84,0.10781203833462327,Industry
-Transportation,Railroads,3,0.8559974503205161,Industry
-Transportation,Logistics,49,0.21969896147561263,Industry
+,Solothurn,702,0.5052061825580929,Overall
+Solothurn,HiTech,15,0.7981026081702418,Sector
+Solothurn,Agriculture,7,0.28075969808734014,Sector
+Solothurn,Transportation,41,0.02935646271004677,Sector
+Solothurn,Consumer_Products,99,0.6410783474162082,Sector
+Solothurn,Unassigned,91,0.6731066140502485,Sector
+Solothurn,Communication,92,0.5934052997955515,Sector
+Solothurn,Trade,9,0.06885638814104322,Sector
+Solothurn,Business_Services,24,0.09174596195447016,Sector
+Solothurn,Business_Products,66,0.9775822362646024,Sector
+Solothurn,Construction,6,0.7297513609476688,Sector
+Solothurn,Services,77,0.9509978013409212,Sector
+Solothurn,Mining,32,0.5177392763611967,Sector
+Solothurn,Health_Care,60,0.32039973774828845,Sector
+Solothurn,EnergyExpL_Prod,25,0.24923103510864375,Sector
+Solothurn,Utilities,58,0.6559799102749221,Sector

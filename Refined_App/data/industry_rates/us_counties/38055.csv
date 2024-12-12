@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McLean,1758,0.7938505016769999,Overall
-McLean,Technology,104,0.02679652691906531,Sector
-McLean,Healthcare,121,0.30458136071527375,Sector
-McLean,Finance,166,0.790339033691318,Sector
-McLean,Energy,78,0.6630919630741188,Sector
-McLean,Consumer Goods,116,0.14571459203946713,Sector
-McLean,Utilities,199,0.8956342861320649,Sector
-McLean,Real Estate,212,0.45442736921486504,Sector
-McLean,Telecommunications,142,0.5691781596056625,Sector
-McLean,Materials,47,0.11705179583461744,Sector
-McLean,Industrials,203,0.09402200140370143,Sector
-McLean,Consumer Services,184,0.6233010286208504,Sector
-McLean,Transportation,186,0.7143442411227037,Sector
-Technology,Software,63,0.421868241592264,Industry
-Technology,Hardware,5,0.786586138262021,Industry
-Technology,IT Services,36,0.8025236588603158,Industry
-Healthcare,Pharmaceuticals,17,0.07521830370395699,Industry
-Healthcare,Medical Devices,93,0.325604045880296,Industry
-Healthcare,Healthcare Services,11,0.4277358653182035,Industry
-Finance,Banking,29,0.8234568363577878,Industry
-Finance,Insurance,88,0.023268947056067968,Industry
-Finance,Investment Services,49,0.4846017337513494,Industry
-Energy,Oil & Gas,16,0.7560255240073818,Industry
-Energy,Renewable Energy,20,0.15974581056589687,Industry
-Energy,Energy Exploration,42,0.09216960934013796,Industry
-Consumer Goods,Food & Beverage,57,0.640093409130291,Industry
-Consumer Goods,Household Products,19,0.10894980064454873,Industry
-Consumer Goods,Apparel,40,0.5208498286769311,Industry
-Utilities,Electric,91,0.6195294075099809,Industry
-Utilities,Water,19,0.13595257389799886,Industry
-Utilities,Gas,89,0.7260184357054552,Industry
-Real Estate,Residential,93,0.3954217058602375,Industry
-Real Estate,Commercial,62,0.21630209752543483,Industry
-Real Estate,Industrial,57,0.7287948521940661,Industry
-Telecommunications,Mobile,30,0.24538633854920844,Industry
-Telecommunications,Broadband,15,0.40378988239629254,Industry
-Telecommunications,Satellite,97,0.5251797855278211,Industry
-Materials,Chemicals,18,0.45833930499524766,Industry
-Materials,Metals & Mining,1,0.7784195379288649,Industry
-Materials,Construction Materials,28,0.258850086469817,Industry
-Industrials,Aerospace & Defense,68,0.4136480434768445,Industry
-Industrials,Machinery,80,0.7569000592663332,Industry
-Industrials,Industrial Services,55,0.7934496864876992,Industry
-Consumer Services,Retail,94,0.10637893627809336,Industry
-Consumer Services,Travel & Leisure,9,0.7647413693506036,Industry
-Consumer Services,Media,81,0.2912006492022998,Industry
-Transportation,Airlines,90,0.5275654935799894,Industry
-Transportation,Railroads,51,0.6460003941610005,Industry
-Transportation,Logistics,45,0.06998846547803395,Industry
+,McLean,710,0.4463293645798494,Overall
+McLean,HiTech,41,0.2483143023187886,Sector
+McLean,Agriculture,66,0.21905193031280468,Sector
+McLean,Transportation,75,0.5117657047616985,Sector
+McLean,Consumer_Products,57,0.7547561773625432,Sector
+McLean,Unassigned,97,0.2132109118011022,Sector
+McLean,Communication,54,0.6980374521302536,Sector
+McLean,Trade,3,0.5899319711468547,Sector
+McLean,Business_Services,33,0.3976883200798259,Sector
+McLean,Business_Products,30,0.9252192945807347,Sector
+McLean,Construction,65,0.3922309103513495,Sector
+McLean,Services,2,0.8810238975561882,Sector
+McLean,Mining,65,0.06582373684411635,Sector
+McLean,Health_Care,14,0.028007934194878903,Sector
+McLean,EnergyExpL_Prod,38,0.15789784479168356,Sector
+McLean,Utilities,70,0.6119800804649173,Sector

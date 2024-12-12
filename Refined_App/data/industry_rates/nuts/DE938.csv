@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Heidekreis,1903,0.30206594202003,Overall
-Heidekreis,Technology,138,0.3163910612623132,Sector
-Heidekreis,Healthcare,100,0.1366188417585964,Sector
-Heidekreis,Finance,149,0.8441279240704299,Sector
-Heidekreis,Energy,189,0.35612716209685225,Sector
-Heidekreis,Consumer Goods,140,0.2828538811743454,Sector
-Heidekreis,Utilities,102,0.638810895374555,Sector
-Heidekreis,Real Estate,213,0.836228326407037,Sector
-Heidekreis,Telecommunications,199,0.868327441495145,Sector
-Heidekreis,Materials,153,0.3988156341720436,Sector
-Heidekreis,Industrials,173,0.179667771961164,Sector
-Heidekreis,Consumer Services,217,0.9261584755303032,Sector
-Heidekreis,Transportation,130,0.42810385295902176,Sector
-Technology,Software,56,0.345932156216084,Industry
-Technology,Hardware,70,0.26926834277347267,Industry
-Technology,IT Services,12,0.005331018233456164,Industry
-Healthcare,Pharmaceuticals,15,0.006395020397384044,Industry
-Healthcare,Medical Devices,76,0.6025965001628607,Industry
-Healthcare,Healthcare Services,9,0.1782528094623338,Industry
-Finance,Banking,29,0.9128034351875604,Industry
-Finance,Insurance,93,0.15595540027427257,Industry
-Finance,Investment Services,27,0.712797020230735,Industry
-Energy,Oil & Gas,28,0.08030301715509869,Industry
-Energy,Renewable Energy,69,0.7970439386979725,Industry
-Energy,Energy Exploration,92,0.23037673034560335,Industry
-Consumer Goods,Food & Beverage,65,0.7907038310143678,Industry
-Consumer Goods,Household Products,59,0.5619071114167727,Industry
-Consumer Goods,Apparel,16,0.025539231840103094,Industry
-Utilities,Electric,71,0.15802747172805542,Industry
-Utilities,Water,18,0.45193639583653245,Industry
-Utilities,Gas,13,0.2482427109072326,Industry
-Real Estate,Residential,74,0.7595684063479937,Industry
-Real Estate,Commercial,48,0.61133991865751,Industry
-Real Estate,Industrial,91,0.9383105217584086,Industry
-Telecommunications,Mobile,63,0.3513634344012866,Industry
-Telecommunications,Broadband,53,0.6246768470553821,Industry
-Telecommunications,Satellite,83,0.39010561576779,Industry
-Materials,Chemicals,90,0.13057051842588763,Industry
-Materials,Metals & Mining,4,0.06597982762071586,Industry
-Materials,Construction Materials,59,0.9352376608445815,Industry
-Industrials,Aerospace & Defense,70,0.18265794737796615,Industry
-Industrials,Machinery,34,0.3306365775671585,Industry
-Industrials,Industrial Services,69,0.6805932510494018,Industry
-Consumer Services,Retail,86,0.9314609757350276,Industry
-Consumer Services,Travel & Leisure,99,0.9370742004625473,Industry
-Consumer Services,Media,32,0.4777008401703393,Industry
-Transportation,Airlines,10,0.02428586165946789,Industry
-Transportation,Railroads,21,0.2717304505705348,Industry
-Transportation,Logistics,99,0.8753541900092306,Industry
+,Heidekreis,829,0.6245536730928075,Overall
+Heidekreis,HiTech,25,0.7532143259796009,Sector
+Heidekreis,Agriculture,48,0.11849000946080002,Sector
+Heidekreis,Transportation,49,0.7497878341661417,Sector
+Heidekreis,Consumer_Products,24,0.8303587571483966,Sector
+Heidekreis,Unassigned,98,0.611836786067057,Sector
+Heidekreis,Communication,25,0.9745372354942657,Sector
+Heidekreis,Trade,17,0.2825493993910858,Sector
+Heidekreis,Business_Services,96,0.8547460703399524,Sector
+Heidekreis,Business_Products,46,0.2277723330607827,Sector
+Heidekreis,Construction,84,0.21194631746394543,Sector
+Heidekreis,Services,92,0.7434122711890372,Sector
+Heidekreis,Mining,41,0.5757740302594221,Sector
+Heidekreis,Health_Care,90,0.6858144197646251,Sector
+Heidekreis,EnergyExpL_Prod,82,0.7950401589542637,Sector
+Heidekreis,Utilities,12,0.953025147652737,Sector

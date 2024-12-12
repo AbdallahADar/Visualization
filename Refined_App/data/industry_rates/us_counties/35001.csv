@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bernalillo,1733,0.8310282025476589,Overall
-Bernalillo,Technology,176,0.7831539946738968,Sector
-Bernalillo,Healthcare,176,0.1480888505839646,Sector
-Bernalillo,Finance,99,0.877411138422764,Sector
-Bernalillo,Energy,96,0.1039830618219415,Sector
-Bernalillo,Consumer Goods,92,0.9183689288756093,Sector
-Bernalillo,Utilities,162,0.5220601987845216,Sector
-Bernalillo,Real Estate,183,0.6619764873718869,Sector
-Bernalillo,Telecommunications,127,0.8650922952237265,Sector
-Bernalillo,Materials,51,0.36088024566954424,Sector
-Bernalillo,Industrials,162,0.7847935212142941,Sector
-Bernalillo,Consumer Services,188,0.2023147337459701,Sector
-Bernalillo,Transportation,221,0.2820265178887378,Sector
-Technology,Software,73,0.7293471363480709,Industry
-Technology,Hardware,82,0.32448782517617425,Industry
-Technology,IT Services,21,0.562136042466242,Industry
-Healthcare,Pharmaceuticals,78,0.5438355324938857,Industry
-Healthcare,Medical Devices,45,0.05473922854512592,Industry
-Healthcare,Healthcare Services,53,0.728452585597327,Industry
-Finance,Banking,32,0.6780202117185814,Industry
-Finance,Insurance,57,0.5868497595083209,Industry
-Finance,Investment Services,10,0.8728785731846863,Industry
-Energy,Oil & Gas,29,0.696262109236125,Industry
-Energy,Renewable Energy,5,0.6075325698215077,Industry
-Energy,Energy Exploration,62,0.13943636918268887,Industry
-Consumer Goods,Food & Beverage,47,0.675092644895074,Industry
-Consumer Goods,Household Products,12,0.8590155066674506,Industry
-Consumer Goods,Apparel,33,0.22599757715472357,Industry
-Utilities,Electric,51,0.7535201559186067,Industry
-Utilities,Water,93,0.23428316576767527,Industry
-Utilities,Gas,18,0.3045294825280309,Industry
-Real Estate,Residential,57,0.29811689249013984,Industry
-Real Estate,Commercial,35,0.44509965388767303,Industry
-Real Estate,Industrial,91,0.3366325601521103,Industry
-Telecommunications,Mobile,66,0.19425632633151835,Industry
-Telecommunications,Broadband,58,0.15826661794295027,Industry
-Telecommunications,Satellite,3,0.4211315964234047,Industry
-Materials,Chemicals,5,0.4410985274545022,Industry
-Materials,Metals & Mining,15,0.1180116833765209,Industry
-Materials,Construction Materials,31,0.5043345619910893,Industry
-Industrials,Aerospace & Defense,71,0.05410698600580299,Industry
-Industrials,Machinery,62,0.6379654938677545,Industry
-Industrials,Industrial Services,29,0.26595818251332715,Industry
-Consumer Services,Retail,53,0.1889923839517349,Industry
-Consumer Services,Travel & Leisure,51,0.591348313774116,Industry
-Consumer Services,Media,84,0.03956142624026271,Industry
-Transportation,Airlines,56,0.6540809700190843,Industry
-Transportation,Railroads,85,0.6013424074890843,Industry
-Transportation,Logistics,80,0.6015512992719129,Industry
+,Bernalillo,899,0.6054409096657101,Overall
+Bernalillo,HiTech,85,0.9234484308099057,Sector
+Bernalillo,Agriculture,79,0.44777713976459266,Sector
+Bernalillo,Transportation,78,0.4606775967526978,Sector
+Bernalillo,Consumer_Products,98,0.1932686178570424,Sector
+Bernalillo,Unassigned,47,0.9296527319994441,Sector
+Bernalillo,Communication,17,0.7599465118797257,Sector
+Bernalillo,Trade,44,0.7768582180129839,Sector
+Bernalillo,Business_Services,84,0.8283794057355821,Sector
+Bernalillo,Business_Products,3,0.13914056767328742,Sector
+Bernalillo,Construction,52,0.8454420560802457,Sector
+Bernalillo,Services,90,0.4064925222176583,Sector
+Bernalillo,Mining,70,0.31462786384396524,Sector
+Bernalillo,Health_Care,32,0.9346125096839938,Sector
+Bernalillo,EnergyExpL_Prod,39,0.9525972864657783,Sector
+Bernalillo,Utilities,81,0.16869218620874737,Sector

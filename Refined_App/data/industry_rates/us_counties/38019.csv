@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cavalier,1995,0.9023096497762353,Overall
-Cavalier,Technology,151,0.6927705162909508,Sector
-Cavalier,Healthcare,157,0.32510068201303133,Sector
-Cavalier,Finance,147,0.21432353470488885,Sector
-Cavalier,Energy,170,0.13515918940762484,Sector
-Cavalier,Consumer Goods,190,0.90463817516817,Sector
-Cavalier,Utilities,266,0.4611537028309076,Sector
-Cavalier,Real Estate,152,0.6608764835894301,Sector
-Cavalier,Telecommunications,141,0.545788423245009,Sector
-Cavalier,Materials,156,0.05151499694646067,Sector
-Cavalier,Industrials,162,0.2538591062337412,Sector
-Cavalier,Consumer Services,123,0.6062153541977168,Sector
-Cavalier,Transportation,180,0.018565198621773193,Sector
-Technology,Software,92,0.5418667909012682,Industry
-Technology,Hardware,45,0.6021641836570943,Industry
-Technology,IT Services,14,0.2478426273627553,Industry
-Healthcare,Pharmaceuticals,67,0.7070348608502109,Industry
-Healthcare,Medical Devices,73,0.32959515713118115,Industry
-Healthcare,Healthcare Services,17,0.18711793158826417,Industry
-Finance,Banking,24,0.8517525522198981,Industry
-Finance,Insurance,84,0.1385825173441575,Industry
-Finance,Investment Services,39,0.6552465847340053,Industry
-Energy,Oil & Gas,78,0.1478391878272931,Industry
-Energy,Renewable Energy,28,0.1880318538167709,Industry
-Energy,Energy Exploration,64,0.04337666337853707,Industry
-Consumer Goods,Food & Beverage,79,0.19505523894406185,Industry
-Consumer Goods,Household Products,82,0.08928540623416736,Industry
-Consumer Goods,Apparel,29,0.005401469902751033,Industry
-Utilities,Electric,89,0.31305273994538063,Industry
-Utilities,Water,78,0.4938095634318008,Industry
-Utilities,Gas,99,0.7708313280450089,Industry
-Real Estate,Residential,14,0.2740408037700788,Industry
-Real Estate,Commercial,77,0.576150755666107,Industry
-Real Estate,Industrial,61,0.463874076927309,Industry
-Telecommunications,Mobile,18,0.1883084137173172,Industry
-Telecommunications,Broadband,73,0.08855112965075351,Industry
-Telecommunications,Satellite,50,0.6982502203632688,Industry
-Materials,Chemicals,86,0.4001097291517852,Industry
-Materials,Metals & Mining,19,0.42805757588703663,Industry
-Materials,Construction Materials,51,0.000669179248840468,Industry
-Industrials,Aerospace & Defense,81,0.1794564810895447,Industry
-Industrials,Machinery,22,0.8914121759162612,Industry
-Industrials,Industrial Services,59,0.6917088123757681,Industry
-Consumer Services,Retail,23,0.5444257526936487,Industry
-Consumer Services,Travel & Leisure,10,0.5575003226300441,Industry
-Consumer Services,Media,90,0.48199702283888857,Industry
-Transportation,Airlines,38,0.005382342904839965,Industry
-Transportation,Railroads,57,0.26968647870331275,Industry
-Transportation,Logistics,85,0.2487944527224205,Industry
+,Cavalier,845,0.5058188620263439,Overall
+Cavalier,HiTech,63,0.6150093845281167,Sector
+Cavalier,Agriculture,46,0.4211123698951126,Sector
+Cavalier,Transportation,70,0.6045969075115978,Sector
+Cavalier,Consumer_Products,80,0.9886044768263309,Sector
+Cavalier,Unassigned,60,0.992663871295998,Sector
+Cavalier,Communication,24,0.5461186357444708,Sector
+Cavalier,Trade,52,0.1234811760126786,Sector
+Cavalier,Business_Services,85,0.5291247772906402,Sector
+Cavalier,Business_Products,79,0.07863429550081924,Sector
+Cavalier,Construction,86,0.46712759892518885,Sector
+Cavalier,Services,51,0.9949575745634961,Sector
+Cavalier,Mining,48,0.11314766811320398,Sector
+Cavalier,Health_Care,38,0.2980485136274912,Sector
+Cavalier,EnergyExpL_Prod,38,0.019037066169833028,Sector
+Cavalier,Utilities,25,0.7956186143901798,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Doddridge,2125,0.9950125261211846,Overall
-Doddridge,Technology,156,0.03486108655697162,Sector
-Doddridge,Healthcare,120,0.7580588964675976,Sector
-Doddridge,Finance,175,0.04563099954019012,Sector
-Doddridge,Energy,169,0.9656328688020056,Sector
-Doddridge,Consumer Goods,165,0.05500781291575774,Sector
-Doddridge,Utilities,149,0.13500142105495427,Sector
-Doddridge,Real Estate,262,0.511964247067958,Sector
-Doddridge,Telecommunications,179,0.12251172148517597,Sector
-Doddridge,Materials,127,0.1971853850531201,Sector
-Doddridge,Industrials,250,0.2735065419058831,Sector
-Doddridge,Consumer Services,133,0.544587500013648,Sector
-Doddridge,Transportation,240,0.6275291230106212,Sector
-Technology,Software,44,0.331641061376013,Industry
-Technology,Hardware,68,0.47363681936635893,Industry
-Technology,IT Services,44,0.823883024653112,Industry
-Healthcare,Pharmaceuticals,55,0.9166874726960192,Industry
-Healthcare,Medical Devices,63,0.22274287514931113,Industry
-Healthcare,Healthcare Services,2,0.9178697831030886,Industry
-Finance,Banking,40,0.30418610604687046,Industry
-Finance,Insurance,77,0.45136480415321756,Industry
-Finance,Investment Services,58,0.5420503561565886,Industry
-Energy,Oil & Gas,49,0.5143094119473631,Industry
-Energy,Renewable Energy,96,0.7557072503713106,Industry
-Energy,Energy Exploration,24,0.02622309248043131,Industry
-Consumer Goods,Food & Beverage,71,0.3652772186308417,Industry
-Consumer Goods,Household Products,18,0.7404838621076361,Industry
-Consumer Goods,Apparel,76,0.32990212127680263,Industry
-Utilities,Electric,67,0.6649625202520729,Industry
-Utilities,Water,43,0.5257450158173917,Industry
-Utilities,Gas,39,0.5323107210583877,Industry
-Real Estate,Residential,90,0.6446745865638294,Industry
-Real Estate,Commercial,95,0.6251985579859533,Industry
-Real Estate,Industrial,77,0.5011113376331904,Industry
-Telecommunications,Mobile,65,0.4341461960854881,Industry
-Telecommunications,Broadband,87,0.6023420118550346,Industry
-Telecommunications,Satellite,27,0.25526524133541795,Industry
-Materials,Chemicals,3,0.8359484880069924,Industry
-Materials,Metals & Mining,26,0.5506991989571192,Industry
-Materials,Construction Materials,98,0.5781396458082206,Industry
-Industrials,Aerospace & Defense,65,0.25892624048497626,Industry
-Industrials,Machinery,99,0.8145242995987523,Industry
-Industrials,Industrial Services,86,0.7065234414533319,Industry
-Consumer Services,Retail,85,0.3953872436174448,Industry
-Consumer Services,Travel & Leisure,16,0.894666235393765,Industry
-Consumer Services,Media,32,0.2399991051416468,Industry
-Transportation,Airlines,88,0.557336126975419,Industry
-Transportation,Railroads,67,0.3255840803957487,Industry
-Transportation,Logistics,85,0.3811912801784847,Industry
+,Doddridge,776,0.5552830557217621,Overall
+Doddridge,HiTech,86,0.9764607711780269,Sector
+Doddridge,Agriculture,6,0.8870479488331882,Sector
+Doddridge,Transportation,97,0.715292435597783,Sector
+Doddridge,Consumer_Products,3,0.49384504816988106,Sector
+Doddridge,Unassigned,77,0.9118493498960087,Sector
+Doddridge,Communication,20,0.37750237390696595,Sector
+Doddridge,Trade,95,0.6679657992864236,Sector
+Doddridge,Business_Services,93,0.6518767689656176,Sector
+Doddridge,Business_Products,66,0.51744217009513,Sector
+Doddridge,Construction,17,0.7389199233541781,Sector
+Doddridge,Services,58,0.22554720328230105,Sector
+Doddridge,Mining,6,0.3329530348444869,Sector
+Doddridge,Health_Care,69,0.5381356037775242,Sector
+Doddridge,EnergyExpL_Prod,25,0.12095201697917557,Sector
+Doddridge,Utilities,58,0.17345538765973934,Sector

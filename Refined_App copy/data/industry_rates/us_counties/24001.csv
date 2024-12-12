@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Allegany,1561,0.5018102599721377,Overall
+Allegany,Technology,183,0.28130974282521437,Sector
+Allegany,Healthcare,130,0.16549221503426736,Sector
+Allegany,Finance,156,0.16292514278588854,Sector
+Allegany,Energy,75,0.0254607968568632,Sector
+Allegany,Consumer Goods,128,0.20924001865813868,Sector
+Allegany,Utilities,74,0.01661019510245554,Sector
+Allegany,Real Estate,207,0.570147977190655,Sector
+Allegany,Telecommunications,86,0.7163290801729878,Sector
+Allegany,Materials,128,0.8911339029975218,Sector
+Allegany,Industrials,127,0.05024240535110425,Sector
+Allegany,Consumer Services,121,0.6899250422510586,Sector
+Allegany,Transportation,146,0.628080032299246,Sector
+Technology,Software,94,0.7406137191660945,Industry
+Technology,Hardware,85,0.557961807991358,Industry
+Technology,IT Services,4,0.36537622692412275,Industry
+Healthcare,Pharmaceuticals,29,0.6812682594755614,Industry
+Healthcare,Medical Devices,8,0.2311697947753123,Industry
+Healthcare,Healthcare Services,93,0.0627555169227153,Industry
+Finance,Banking,95,0.5811177755604612,Industry
+Finance,Insurance,47,0.5009773055112489,Industry
+Finance,Investment Services,14,0.8533395761966336,Industry
+Energy,Oil & Gas,4,0.5647367164259545,Industry
+Energy,Renewable Energy,49,0.6062058709716353,Industry
+Energy,Energy Exploration,22,0.4948246772016651,Industry
+Consumer Goods,Food & Beverage,1,0.062006108028948126,Industry
+Consumer Goods,Household Products,88,0.6359211672967112,Industry
+Consumer Goods,Apparel,39,0.8575817605749545,Industry
+Utilities,Electric,31,0.7295494602684535,Industry
+Utilities,Water,35,0.48309293680461574,Industry
+Utilities,Gas,8,0.38752882285788914,Industry
+Real Estate,Residential,56,0.7212647518188092,Industry
+Real Estate,Commercial,83,0.7163460732952038,Industry
+Real Estate,Industrial,68,0.6302628143076177,Industry
+Telecommunications,Mobile,3,0.14220050424062314,Industry
+Telecommunications,Broadband,83,0.5113960166252193,Industry
+Telecommunications,Satellite,0,0.009839739478729626,Industry
+Materials,Chemicals,7,0.5390686257188185,Industry
+Materials,Metals & Mining,71,0.5074024601870358,Industry
+Materials,Construction Materials,50,0.12759918634092515,Industry
+Industrials,Aerospace & Defense,12,0.5158125085127528,Industry
+Industrials,Machinery,32,0.4736420303585285,Industry
+Industrials,Industrial Services,83,0.8112101735161469,Industry
+Consumer Services,Retail,37,0.26117592073960627,Industry
+Consumer Services,Travel & Leisure,75,0.03169592759269635,Industry
+Consumer Services,Media,9,0.24604972300434402,Industry
+Transportation,Airlines,28,0.8830224271843123,Industry
+Transportation,Railroads,59,0.0026512720825577762,Industry
+Transportation,Logistics,59,0.5112857905352792,Industry

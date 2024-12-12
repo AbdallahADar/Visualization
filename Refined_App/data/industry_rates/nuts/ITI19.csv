@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Siena,1778,0.785678812509523,Overall
-Siena,Technology,102,0.35645223988283903,Sector
-Siena,Healthcare,175,0.15978839423392732,Sector
-Siena,Finance,250,0.3261155324694702,Sector
-Siena,Energy,160,0.3710760070435526,Sector
-Siena,Consumer Goods,222,0.33071603645088965,Sector
-Siena,Utilities,127,0.5603136817886161,Sector
-Siena,Real Estate,94,0.07027663368285952,Sector
-Siena,Telecommunications,65,0.712603781394308,Sector
-Siena,Materials,150,0.49200646386057556,Sector
-Siena,Industrials,98,0.8228411087519609,Sector
-Siena,Consumer Services,202,0.6553705252481434,Sector
-Siena,Transportation,133,0.3769762161124819,Sector
-Technology,Software,8,0.6689193883980298,Industry
-Technology,Hardware,54,0.42359746490730477,Industry
-Technology,IT Services,40,0.769634832216019,Industry
-Healthcare,Pharmaceuticals,22,0.38424131112398785,Industry
-Healthcare,Medical Devices,69,0.13129157543685444,Industry
-Healthcare,Healthcare Services,84,0.13433476598974214,Industry
-Finance,Banking,61,0.18506445751098433,Industry
-Finance,Insurance,96,0.9270272379850067,Industry
-Finance,Investment Services,93,0.9097627244752439,Industry
-Energy,Oil & Gas,58,0.36253682155127775,Industry
-Energy,Renewable Energy,36,0.7080383464494192,Industry
-Energy,Energy Exploration,66,0.7937240480454967,Industry
-Consumer Goods,Food & Beverage,68,0.9844352629047755,Industry
-Consumer Goods,Household Products,95,0.9458376503075991,Industry
-Consumer Goods,Apparel,59,0.5164721564130446,Industry
-Utilities,Electric,86,0.08751122865487615,Industry
-Utilities,Water,8,0.40052027116990285,Industry
-Utilities,Gas,33,0.262012071737461,Industry
-Real Estate,Residential,4,0.18102455113908333,Industry
-Real Estate,Commercial,87,0.7174899427466641,Industry
-Real Estate,Industrial,3,0.7790185847547243,Industry
-Telecommunications,Mobile,32,0.7967669342608407,Industry
-Telecommunications,Broadband,19,0.7826831215045138,Industry
-Telecommunications,Satellite,14,0.8150858467543175,Industry
-Materials,Chemicals,22,0.027677408690185645,Industry
-Materials,Metals & Mining,76,0.23608897474179658,Industry
-Materials,Construction Materials,52,0.11616602304578505,Industry
-Industrials,Aerospace & Defense,61,0.3578417513685034,Industry
-Industrials,Machinery,15,0.7400062449870599,Industry
-Industrials,Industrial Services,22,0.5655300163437325,Industry
-Consumer Services,Retail,90,0.6154012284588385,Industry
-Consumer Services,Travel & Leisure,87,0.39806758975646284,Industry
-Consumer Services,Media,25,0.09837971021340552,Industry
-Transportation,Airlines,8,0.4047327789273494,Industry
-Transportation,Railroads,42,0.08763924262243639,Industry
-Transportation,Logistics,83,0.7774033231742653,Industry
+,Siena,655,0.5402848017009273,Overall
+Siena,HiTech,2,0.8911318221928528,Sector
+Siena,Agriculture,3,0.22317578199419863,Sector
+Siena,Transportation,30,0.46373111118501475,Sector
+Siena,Consumer_Products,75,0.7825625898691744,Sector
+Siena,Unassigned,56,0.23085209251906602,Sector
+Siena,Communication,31,0.20912776598903982,Sector
+Siena,Trade,56,0.8101206007813373,Sector
+Siena,Business_Services,63,0.9874242206599596,Sector
+Siena,Business_Products,6,0.7176126341517621,Sector
+Siena,Construction,18,0.8048672725457862,Sector
+Siena,Services,83,0.5761550362029574,Sector
+Siena,Mining,62,0.6708326075047504,Sector
+Siena,Health_Care,94,0.21671407443961577,Sector
+Siena,EnergyExpL_Prod,65,0.4765197133096918,Sector
+Siena,Utilities,11,0.043444702168702554,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Niagara,1750,0.8795246593490824,Overall
-Niagara,Technology,255,0.88656261524392,Sector
-Niagara,Healthcare,150,0.17999498121143842,Sector
-Niagara,Finance,149,0.629569643753622,Sector
-Niagara,Energy,233,0.6268698804241651,Sector
-Niagara,Consumer Goods,140,0.03368268647628314,Sector
-Niagara,Utilities,126,0.05118381543638906,Sector
-Niagara,Real Estate,120,0.08365727874713058,Sector
-Niagara,Telecommunications,80,0.459521180702374,Sector
-Niagara,Materials,116,0.8681968772539734,Sector
-Niagara,Industrials,155,0.8673450926654668,Sector
-Niagara,Consumer Services,93,0.7716634207076867,Sector
-Niagara,Transportation,133,0.9415284878541008,Sector
-Technology,Software,73,0.03545181434061895,Industry
-Technology,Hardware,94,0.6518775760804885,Industry
-Technology,IT Services,88,0.4459010004335555,Industry
-Healthcare,Pharmaceuticals,27,0.2612954260193977,Industry
-Healthcare,Medical Devices,41,0.7725006056595922,Industry
-Healthcare,Healthcare Services,82,0.22327672113197872,Industry
-Finance,Banking,50,0.17281186484942734,Industry
-Finance,Insurance,13,0.2597136510729049,Industry
-Finance,Investment Services,86,0.22210729465710044,Industry
-Energy,Oil & Gas,93,0.9653717230629306,Industry
-Energy,Renewable Energy,83,0.8078286371945553,Industry
-Energy,Energy Exploration,57,0.14043364910487444,Industry
-Consumer Goods,Food & Beverage,45,0.47249284713870965,Industry
-Consumer Goods,Household Products,55,0.9810110550725549,Industry
-Consumer Goods,Apparel,40,0.5085254132084086,Industry
-Utilities,Electric,45,0.07152412086096105,Industry
-Utilities,Water,41,0.9755392412959824,Industry
-Utilities,Gas,40,0.5875208822745206,Industry
-Real Estate,Residential,49,0.5807158883808503,Industry
-Real Estate,Commercial,24,0.7155772397781347,Industry
-Real Estate,Industrial,47,0.19044700341628218,Industry
-Telecommunications,Mobile,54,0.3732417274587472,Industry
-Telecommunications,Broadband,0,0.283990751958175,Industry
-Telecommunications,Satellite,26,0.3956761264791683,Industry
-Materials,Chemicals,46,0.24181499146466512,Industry
-Materials,Metals & Mining,66,0.8848954036042341,Industry
-Materials,Construction Materials,4,0.355701814396158,Industry
-Industrials,Aerospace & Defense,86,0.9816743991447071,Industry
-Industrials,Machinery,59,0.7423567604650783,Industry
-Industrials,Industrial Services,10,0.5857905381169709,Industry
-Consumer Services,Retail,9,0.46780984523297986,Industry
-Consumer Services,Travel & Leisure,37,0.72523821643811,Industry
-Consumer Services,Media,47,0.3765608450099339,Industry
-Transportation,Airlines,86,0.03253046013783456,Industry
-Transportation,Railroads,9,0.39853312382069284,Industry
-Transportation,Logistics,38,0.8133630128429294,Industry
+,Niagara,820,0.503720314210827,Overall
+Niagara,HiTech,44,0.6846838148223943,Sector
+Niagara,Agriculture,90,0.33636378179216897,Sector
+Niagara,Transportation,60,0.08355837852505099,Sector
+Niagara,Consumer_Products,4,0.6444724901533753,Sector
+Niagara,Unassigned,7,0.14385022737927777,Sector
+Niagara,Communication,67,0.6569309858810449,Sector
+Niagara,Trade,74,0.5766151633795686,Sector
+Niagara,Business_Services,33,0.7961305387473728,Sector
+Niagara,Business_Products,93,0.4579017317747208,Sector
+Niagara,Construction,6,0.628215452358954,Sector
+Niagara,Services,94,0.6701915303327847,Sector
+Niagara,Mining,65,0.36856167329864875,Sector
+Niagara,Health_Care,41,0.5355179253615941,Sector
+Niagara,EnergyExpL_Prod,44,0.49736785793541627,Sector
+Niagara,Utilities,98,0.4754431614200315,Sector

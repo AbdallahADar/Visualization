@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lancaster,1372,0.8883392763510721,Overall
-Lancaster,Technology,162,0.61394583320601,Sector
-Lancaster,Healthcare,178,0.6486665306245626,Sector
-Lancaster,Finance,133,0.4222680180441717,Sector
-Lancaster,Energy,41,0.9176201368905512,Sector
-Lancaster,Consumer Goods,69,0.5815568419553112,Sector
-Lancaster,Utilities,138,0.48785202233227754,Sector
-Lancaster,Real Estate,143,0.3346541304152665,Sector
-Lancaster,Telecommunications,133,0.21742224109029717,Sector
-Lancaster,Materials,68,0.7808539817870969,Sector
-Lancaster,Industrials,104,0.3204122856220202,Sector
-Lancaster,Consumer Services,55,0.05674909215280255,Sector
-Lancaster,Transportation,148,0.6903181735895043,Sector
-Technology,Software,64,0.29410011744946785,Industry
-Technology,Hardware,54,0.7579847150379783,Industry
-Technology,IT Services,44,0.7150689403079336,Industry
-Healthcare,Pharmaceuticals,68,0.671589513525366,Industry
-Healthcare,Medical Devices,43,0.7151059295082878,Industry
-Healthcare,Healthcare Services,67,0.5326915619917889,Industry
-Finance,Banking,81,0.8531691463648526,Industry
-Finance,Insurance,52,0.5192844917430792,Industry
-Finance,Investment Services,0,0.32204741605871046,Industry
-Energy,Oil & Gas,0,0.14626186935702457,Industry
-Energy,Renewable Energy,38,0.851726909799611,Industry
-Energy,Energy Exploration,3,0.5880773494820353,Industry
-Consumer Goods,Food & Beverage,61,0.14330824635393113,Industry
-Consumer Goods,Household Products,0,0.9903296215795345,Industry
-Consumer Goods,Apparel,8,0.4641814563488751,Industry
-Utilities,Electric,30,0.24570375149925783,Industry
-Utilities,Water,95,0.9743202647256273,Industry
-Utilities,Gas,13,0.7514463637093343,Industry
-Real Estate,Residential,17,0.033489191334044266,Industry
-Real Estate,Commercial,60,0.12264865255824908,Industry
-Real Estate,Industrial,66,0.5359202047635031,Industry
-Telecommunications,Mobile,66,0.5490414439364941,Industry
-Telecommunications,Broadband,62,0.5616131770957832,Industry
-Telecommunications,Satellite,5,0.7417577451579965,Industry
-Materials,Chemicals,19,0.7536998268751797,Industry
-Materials,Metals & Mining,25,0.8090223076029001,Industry
-Materials,Construction Materials,24,0.755344923042503,Industry
-Industrials,Aerospace & Defense,38,0.3664487451021582,Industry
-Industrials,Machinery,11,0.34223481456321647,Industry
-Industrials,Industrial Services,55,0.6197270667912528,Industry
-Consumer Services,Retail,3,0.9332767516084978,Industry
-Consumer Services,Travel & Leisure,52,0.5707142098892126,Industry
-Consumer Services,Media,0,0.12274414549802892,Industry
-Transportation,Airlines,83,0.8356808680135456,Industry
-Transportation,Railroads,60,0.7392458427685695,Industry
-Transportation,Logistics,5,0.10449911282497681,Industry
+,Lancaster,786,0.4514558474542724,Overall
+Lancaster,HiTech,57,0.40413899337717474,Sector
+Lancaster,Agriculture,40,0.9184197668807397,Sector
+Lancaster,Transportation,52,0.2513635200241995,Sector
+Lancaster,Consumer_Products,25,0.4650141508537764,Sector
+Lancaster,Unassigned,30,0.3136793369074239,Sector
+Lancaster,Communication,17,0.660652695385555,Sector
+Lancaster,Trade,93,0.5220617099665085,Sector
+Lancaster,Business_Services,43,0.8039305932106183,Sector
+Lancaster,Business_Products,82,0.1492370287602518,Sector
+Lancaster,Construction,48,0.46090327957849453,Sector
+Lancaster,Services,95,0.16444140127294393,Sector
+Lancaster,Mining,91,0.5817044962050754,Sector
+Lancaster,Health_Care,41,0.045794726732251934,Sector
+Lancaster,EnergyExpL_Prod,32,0.14659197293234494,Sector
+Lancaster,Utilities,40,0.8839040397267266,Sector

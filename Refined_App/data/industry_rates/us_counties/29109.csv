@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lawrence,1601,0.8058614214382419,Overall
-Lawrence,Technology,93,0.6949742388675112,Sector
-Lawrence,Healthcare,154,0.7731732967669954,Sector
-Lawrence,Finance,130,0.5563623136746851,Sector
-Lawrence,Energy,154,0.34335416502760685,Sector
-Lawrence,Consumer Goods,138,0.520763080841613,Sector
-Lawrence,Utilities,74,0.43232768676846567,Sector
-Lawrence,Real Estate,174,0.3309620456803235,Sector
-Lawrence,Telecommunications,174,0.622702614851194,Sector
-Lawrence,Materials,151,0.43119067405104594,Sector
-Lawrence,Industrials,109,0.6334499253796394,Sector
-Lawrence,Consumer Services,79,0.04361561000087455,Sector
-Lawrence,Transportation,171,0.49279742907602075,Sector
-Technology,Software,11,0.9277111915813709,Industry
-Technology,Hardware,73,0.8466197393138097,Industry
-Technology,IT Services,9,0.0951515044265111,Industry
-Healthcare,Pharmaceuticals,24,0.5216416700839064,Industry
-Healthcare,Medical Devices,80,0.12910018674041301,Industry
-Healthcare,Healthcare Services,50,0.4965180147362841,Industry
-Finance,Banking,45,0.5563692144135756,Industry
-Finance,Insurance,26,0.8307350085957588,Industry
-Finance,Investment Services,59,0.32972953671636107,Industry
-Energy,Oil & Gas,20,0.08739387780900754,Industry
-Energy,Renewable Energy,60,0.4429780941306608,Industry
-Energy,Energy Exploration,74,0.4437780043013698,Industry
-Consumer Goods,Food & Beverage,25,0.05288975568755638,Industry
-Consumer Goods,Household Products,61,0.7906964790902207,Industry
-Consumer Goods,Apparel,52,0.3305782557299942,Industry
-Utilities,Electric,18,0.40904712600919935,Industry
-Utilities,Water,5,0.4060125788247835,Industry
-Utilities,Gas,51,0.15408401236274294,Industry
-Real Estate,Residential,53,0.9281364952571023,Industry
-Real Estate,Commercial,66,0.7871394295257378,Industry
-Real Estate,Industrial,55,0.632005533560097,Industry
-Telecommunications,Mobile,61,0.31410167595776983,Industry
-Telecommunications,Broadband,15,0.36661361551371996,Industry
-Telecommunications,Satellite,98,0.5569130385844923,Industry
-Materials,Chemicals,58,0.7472299144205283,Industry
-Materials,Metals & Mining,92,0.89836280174197,Industry
-Materials,Construction Materials,1,0.2618281917693315,Industry
-Industrials,Aerospace & Defense,43,0.2242485454500237,Industry
-Industrials,Machinery,46,0.8128165374891854,Industry
-Industrials,Industrial Services,20,0.7749491560870295,Industry
-Consumer Services,Retail,20,0.04018976627257975,Industry
-Consumer Services,Travel & Leisure,50,0.6459883011918665,Industry
-Consumer Services,Media,9,0.5598603967645314,Industry
-Transportation,Airlines,95,0.49870249663935273,Industry
-Transportation,Railroads,49,0.45275946905894715,Industry
-Transportation,Logistics,27,0.2735723446923749,Industry
+,Lawrence,541,0.574606016978165,Overall
+Lawrence,HiTech,62,0.8755527695453169,Sector
+Lawrence,Agriculture,42,0.5767666317465244,Sector
+Lawrence,Transportation,8,0.43582549843790264,Sector
+Lawrence,Consumer_Products,3,0.15901227438478993,Sector
+Lawrence,Unassigned,74,0.5609624214877749,Sector
+Lawrence,Communication,35,0.5574392273960018,Sector
+Lawrence,Trade,64,0.8720382648364666,Sector
+Lawrence,Business_Services,73,0.7788845136165888,Sector
+Lawrence,Business_Products,87,0.5180695814731799,Sector
+Lawrence,Construction,12,0.7834514529656523,Sector
+Lawrence,Services,12,0.32502779990153596,Sector
+Lawrence,Mining,19,0.5411544238145294,Sector
+Lawrence,Health_Care,30,0.8556129755385845,Sector
+Lawrence,EnergyExpL_Prod,9,0.16627782447328054,Sector
+Lawrence,Utilities,11,0.6130145950543471,Sector

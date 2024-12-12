@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Otsego,1999,0.4276058729983129,Overall
-Otsego,Technology,211,0.2653150354556115,Sector
-Otsego,Healthcare,234,0.8688741334395395,Sector
-Otsego,Finance,164,0.9929156109212351,Sector
-Otsego,Energy,95,0.4957914395678471,Sector
-Otsego,Consumer Goods,152,0.5822725293964434,Sector
-Otsego,Utilities,108,0.8578174992798223,Sector
-Otsego,Real Estate,160,0.22617363806727464,Sector
-Otsego,Telecommunications,202,0.632167471280635,Sector
-Otsego,Materials,137,0.2383077439172998,Sector
-Otsego,Industrials,159,0.6222352528582815,Sector
-Otsego,Consumer Services,223,0.7945886309674146,Sector
-Otsego,Transportation,154,0.17257168985815508,Sector
-Technology,Software,61,0.02456308282503561,Industry
-Technology,Hardware,58,0.8250292605632507,Industry
-Technology,IT Services,92,0.5182982959410457,Industry
-Healthcare,Pharmaceuticals,47,0.11412424456534398,Industry
-Healthcare,Medical Devices,88,0.7094628935679758,Industry
-Healthcare,Healthcare Services,99,0.17395869388560437,Industry
-Finance,Banking,39,0.7070578768307797,Industry
-Finance,Insurance,84,0.8510341288178448,Industry
-Finance,Investment Services,41,0.07435078180723875,Industry
-Energy,Oil & Gas,28,0.2832099591819023,Industry
-Energy,Renewable Energy,36,0.7973330371449384,Industry
-Energy,Energy Exploration,31,0.3315960512093796,Industry
-Consumer Goods,Food & Beverage,44,0.838001856450456,Industry
-Consumer Goods,Household Products,65,0.5539034249165481,Industry
-Consumer Goods,Apparel,43,0.38282192025390027,Industry
-Utilities,Electric,80,0.44756005691994327,Industry
-Utilities,Water,25,0.228690027539597,Industry
-Utilities,Gas,3,0.30185676025370334,Industry
-Real Estate,Residential,52,0.5261155206230854,Industry
-Real Estate,Commercial,54,0.9282090194426831,Industry
-Real Estate,Industrial,54,0.8122486535801993,Industry
-Telecommunications,Mobile,65,0.3887236652637758,Industry
-Telecommunications,Broadband,45,0.5712420719926927,Industry
-Telecommunications,Satellite,92,0.5879721394256141,Industry
-Materials,Chemicals,31,0.9010393795814511,Industry
-Materials,Metals & Mining,54,0.6586502362251345,Industry
-Materials,Construction Materials,52,0.4037693799173868,Industry
-Industrials,Aerospace & Defense,47,0.04962295435283626,Industry
-Industrials,Machinery,78,0.29383959282796424,Industry
-Industrials,Industrial Services,34,0.8549478623208793,Industry
-Consumer Services,Retail,75,0.9489584790300724,Industry
-Consumer Services,Travel & Leisure,77,0.986979637511551,Industry
-Consumer Services,Media,71,0.7231235267967071,Industry
-Transportation,Airlines,66,0.8143543950459737,Industry
-Transportation,Railroads,8,0.2737854238518552,Industry
-Transportation,Logistics,80,0.6801822636773914,Industry
+,Otsego,898,0.4953824946427257,Overall
+Otsego,HiTech,94,0.7451215981571949,Sector
+Otsego,Agriculture,13,0.9302296913374225,Sector
+Otsego,Transportation,99,0.8164721643066729,Sector
+Otsego,Consumer_Products,48,0.47410010868525077,Sector
+Otsego,Unassigned,46,0.2853327351510224,Sector
+Otsego,Communication,93,0.09549191850517191,Sector
+Otsego,Trade,83,0.9861167411315728,Sector
+Otsego,Business_Services,34,0.06499331250800566,Sector
+Otsego,Business_Products,54,0.37798884113965237,Sector
+Otsego,Construction,52,0.8850431802164748,Sector
+Otsego,Services,44,0.40246341437787103,Sector
+Otsego,Mining,8,0.33338201898578224,Sector
+Otsego,Health_Care,92,0.0005975206379280618,Sector
+Otsego,EnergyExpL_Prod,46,0.061078717775451485,Sector
+Otsego,Utilities,92,0.9723254567254108,Sector

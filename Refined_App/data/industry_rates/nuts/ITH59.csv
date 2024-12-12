@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rimini,2081,0.33218419773825314,Overall
-Rimini,Technology,181,0.21171164343432713,Sector
-Rimini,Healthcare,65,0.5223417468506816,Sector
-Rimini,Finance,182,0.2973410511675102,Sector
-Rimini,Energy,110,0.7272007301044746,Sector
-Rimini,Consumer Goods,123,0.40908909882585,Sector
-Rimini,Utilities,204,0.03946771161156226,Sector
-Rimini,Real Estate,222,0.38567152887478207,Sector
-Rimini,Telecommunications,235,0.6958073000777949,Sector
-Rimini,Materials,139,0.5331700704307161,Sector
-Rimini,Industrials,177,0.3541405532643218,Sector
-Rimini,Consumer Services,221,0.507058138059614,Sector
-Rimini,Transportation,222,0.4689729007302814,Sector
-Technology,Software,10,0.9840518284191367,Industry
-Technology,Hardware,96,0.2640127615363633,Industry
-Technology,IT Services,75,0.7647334880285839,Industry
-Healthcare,Pharmaceuticals,11,0.07290287927238825,Industry
-Healthcare,Medical Devices,46,0.8758625355377848,Industry
-Healthcare,Healthcare Services,8,0.030744678995443975,Industry
-Finance,Banking,96,0.30875012782814115,Industry
-Finance,Insurance,26,0.5596928830270058,Industry
-Finance,Investment Services,60,0.10159679066000549,Industry
-Energy,Oil & Gas,62,0.10096726003614587,Industry
-Energy,Renewable Energy,18,0.36691034850723603,Industry
-Energy,Energy Exploration,30,0.039875452834367664,Industry
-Consumer Goods,Food & Beverage,61,0.3012129251495268,Industry
-Consumer Goods,Household Products,20,0.6999079955646751,Industry
-Consumer Goods,Apparel,42,0.8327641499395544,Industry
-Utilities,Electric,27,0.9780222081840667,Industry
-Utilities,Water,80,0.08570783520696834,Industry
-Utilities,Gas,97,0.9688197231689188,Industry
-Real Estate,Residential,65,0.9790643268391751,Industry
-Real Estate,Commercial,59,0.9412450400492235,Industry
-Real Estate,Industrial,98,0.4160119130710589,Industry
-Telecommunications,Mobile,73,0.8211931718722286,Industry
-Telecommunications,Broadband,77,0.6129904820113474,Industry
-Telecommunications,Satellite,85,0.5433516970890352,Industry
-Materials,Chemicals,99,0.6512041152531951,Industry
-Materials,Metals & Mining,14,0.46316401111739214,Industry
-Materials,Construction Materials,26,0.30806790722043864,Industry
-Industrials,Aerospace & Defense,39,0.2735572681354014,Industry
-Industrials,Machinery,62,0.8438532742817169,Industry
-Industrials,Industrial Services,76,0.8330138710828358,Industry
-Consumer Services,Retail,26,0.8494302248606372,Industry
-Consumer Services,Travel & Leisure,97,0.8344501481949438,Industry
-Consumer Services,Media,98,0.4567252134699801,Industry
-Transportation,Airlines,77,0.8663579806455933,Industry
-Transportation,Railroads,55,0.4552121893857187,Industry
-Transportation,Logistics,90,0.9566298567698837,Industry
+,Rimini,854,0.5945508557889665,Overall
+Rimini,HiTech,17,0.5072623835033828,Sector
+Rimini,Agriculture,1,0.7453626208393361,Sector
+Rimini,Transportation,97,0.8364554493842979,Sector
+Rimini,Consumer_Products,92,0.9221388905978875,Sector
+Rimini,Unassigned,42,0.7093323704183626,Sector
+Rimini,Communication,94,0.6570655805208693,Sector
+Rimini,Trade,44,0.724107668332977,Sector
+Rimini,Business_Services,67,0.058690721178318195,Sector
+Rimini,Business_Products,78,0.047178453599955095,Sector
+Rimini,Construction,94,0.7017614549645271,Sector
+Rimini,Services,47,0.893933475056292,Sector
+Rimini,Mining,79,0.06731374695728676,Sector
+Rimini,Health_Care,43,0.964596943851806,Sector
+Rimini,EnergyExpL_Prod,29,0.6379094062001385,Sector
+Rimini,Utilities,30,0.4451536714290606,Sector

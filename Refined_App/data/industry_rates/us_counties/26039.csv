@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Crawford,1680,0.03835359446140629,Overall
-Crawford,Technology,36,0.43310493838669295,Sector
-Crawford,Healthcare,214,0.6839230597484561,Sector
-Crawford,Finance,97,0.015722313580554648,Sector
-Crawford,Energy,167,0.09573246730212337,Sector
-Crawford,Consumer Goods,178,0.8625681355252457,Sector
-Crawford,Utilities,178,0.6077729205571072,Sector
-Crawford,Real Estate,137,0.2988656489291154,Sector
-Crawford,Telecommunications,148,0.1720576559242566,Sector
-Crawford,Materials,148,0.7804075524969836,Sector
-Crawford,Industrials,37,0.2393158990195503,Sector
-Crawford,Consumer Services,227,0.2343778496780673,Sector
-Crawford,Transportation,113,0.10096228689014708,Sector
-Technology,Software,4,0.6554834923411056,Industry
-Technology,Hardware,8,0.6752763579931566,Industry
-Technology,IT Services,24,0.7930727275062108,Industry
-Healthcare,Pharmaceuticals,85,0.6058066106609178,Industry
-Healthcare,Medical Devices,54,0.5859602537429096,Industry
-Healthcare,Healthcare Services,75,0.48202687233940744,Industry
-Finance,Banking,7,0.8298824511707527,Industry
-Finance,Insurance,24,0.12389873277671215,Industry
-Finance,Investment Services,66,0.2999589392940629,Industry
-Energy,Oil & Gas,92,0.8276129075192897,Industry
-Energy,Renewable Energy,40,0.47245619201380895,Industry
-Energy,Energy Exploration,35,0.9476833297181033,Industry
-Consumer Goods,Food & Beverage,49,0.4401679119909926,Industry
-Consumer Goods,Household Products,41,0.7065585471220128,Industry
-Consumer Goods,Apparel,88,0.24700970244726217,Industry
-Utilities,Electric,24,0.7400411510619924,Industry
-Utilities,Water,71,0.36538703622054813,Industry
-Utilities,Gas,83,0.17493001143887377,Industry
-Real Estate,Residential,56,0.04125788679071096,Industry
-Real Estate,Commercial,78,0.2929889005355123,Industry
-Real Estate,Industrial,3,0.0584686373794886,Industry
-Telecommunications,Mobile,79,0.19912723314930447,Industry
-Telecommunications,Broadband,17,0.12175568629586953,Industry
-Telecommunications,Satellite,52,0.9294853993267203,Industry
-Materials,Chemicals,41,0.08649288438279168,Industry
-Materials,Metals & Mining,21,0.5391745435271815,Industry
-Materials,Construction Materials,86,0.1387231921183899,Industry
-Industrials,Aerospace & Defense,13,0.8814181076377997,Industry
-Industrials,Machinery,8,0.5400958532562438,Industry
-Industrials,Industrial Services,16,0.8557867995714019,Industry
-Consumer Services,Retail,93,0.09963632213925533,Industry
-Consumer Services,Travel & Leisure,84,0.8708504077879412,Industry
-Consumer Services,Media,50,0.8343137975646215,Industry
-Transportation,Airlines,58,0.8130401188098033,Industry
-Transportation,Railroads,28,0.8113475657050835,Industry
-Transportation,Logistics,27,0.2839102467444057,Industry
+,Crawford,596,0.3527287839622794,Overall
+Crawford,HiTech,33,0.08043016328414221,Sector
+Crawford,Agriculture,33,0.5325682064621918,Sector
+Crawford,Transportation,11,0.09227757243126244,Sector
+Crawford,Consumer_Products,93,0.23661481349557156,Sector
+Crawford,Unassigned,80,0.48503946557750666,Sector
+Crawford,Communication,68,0.1310577913373061,Sector
+Crawford,Trade,1,0.3854956727134381,Sector
+Crawford,Business_Services,68,0.23377351705260663,Sector
+Crawford,Business_Products,8,0.28584245529796726,Sector
+Crawford,Construction,13,0.0757320387271685,Sector
+Crawford,Services,1,0.43329943316024533,Sector
+Crawford,Mining,74,0.4254990949224309,Sector
+Crawford,Health_Care,0,0.9842300170372014,Sector
+Crawford,EnergyExpL_Prod,84,0.33067290984408604,Sector
+Crawford,Utilities,29,0.578398608091066,Sector

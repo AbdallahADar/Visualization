@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Waseca,2107,0.12089839027567284,Overall
-Waseca,Technology,196,0.18380357853816887,Sector
-Waseca,Healthcare,138,0.82286957057149,Sector
-Waseca,Finance,260,0.04355558856803654,Sector
-Waseca,Energy,165,0.3728496153405546,Sector
-Waseca,Consumer Goods,143,0.5862188368961413,Sector
-Waseca,Utilities,243,0.27713356232562847,Sector
-Waseca,Real Estate,180,0.30889014061967757,Sector
-Waseca,Telecommunications,198,0.9410434286216993,Sector
-Waseca,Materials,135,0.6095683522565014,Sector
-Waseca,Industrials,141,0.16394219158456536,Sector
-Waseca,Consumer Services,193,0.1864004649860318,Sector
-Waseca,Transportation,115,0.04999688673906577,Sector
-Technology,Software,17,0.4103118767444497,Industry
-Technology,Hardware,92,0.1316281685363242,Industry
-Technology,IT Services,87,0.2743492712204454,Industry
-Healthcare,Pharmaceuticals,67,0.4601561258348501,Industry
-Healthcare,Medical Devices,31,0.5546527747719199,Industry
-Healthcare,Healthcare Services,40,0.8462962920452748,Industry
-Finance,Banking,68,0.20474745795145688,Industry
-Finance,Insurance,97,0.8211491786136471,Industry
-Finance,Investment Services,95,0.7186766992613254,Industry
-Energy,Oil & Gas,84,0.23070116720870593,Industry
-Energy,Renewable Energy,36,0.052997735122024325,Industry
-Energy,Energy Exploration,45,0.8447126201489618,Industry
-Consumer Goods,Food & Beverage,78,0.9272922668072155,Industry
-Consumer Goods,Household Products,26,0.8478661689525671,Industry
-Consumer Goods,Apparel,39,0.8725603856111748,Industry
-Utilities,Electric,96,0.3800972330068396,Industry
-Utilities,Water,84,0.5994118337754545,Industry
-Utilities,Gas,63,0.14874816393081947,Industry
-Real Estate,Residential,71,0.878572877737189,Industry
-Real Estate,Commercial,44,0.4298568420736233,Industry
-Real Estate,Industrial,65,0.42875244263226064,Industry
-Telecommunications,Mobile,67,0.17347306643818694,Industry
-Telecommunications,Broadband,40,0.1738016231486711,Industry
-Telecommunications,Satellite,91,0.5839136356825538,Industry
-Materials,Chemicals,2,0.7081138425725423,Industry
-Materials,Metals & Mining,92,0.8788979442598707,Industry
-Materials,Construction Materials,41,0.6497505102684404,Industry
-Industrials,Aerospace & Defense,29,0.703889841059203,Industry
-Industrials,Machinery,85,0.23851476197680066,Industry
-Industrials,Industrial Services,27,0.05493217143561879,Industry
-Consumer Services,Retail,4,0.3630312959006988,Industry
-Consumer Services,Travel & Leisure,91,0.47577110206909623,Industry
-Consumer Services,Media,98,0.5479375395877386,Industry
-Transportation,Airlines,48,0.9686043242358031,Industry
-Transportation,Railroads,14,0.048932794610028196,Industry
-Transportation,Logistics,53,0.43615059935721123,Industry
+,Waseca,726,0.4890202600968507,Overall
+Waseca,HiTech,6,0.4992674450786522,Sector
+Waseca,Agriculture,28,0.9504108623628138,Sector
+Waseca,Transportation,35,0.14577875223606174,Sector
+Waseca,Consumer_Products,98,0.031014461540630145,Sector
+Waseca,Unassigned,71,0.624628343462631,Sector
+Waseca,Communication,2,0.2891390094834023,Sector
+Waseca,Trade,55,0.8886360316828716,Sector
+Waseca,Business_Services,38,0.022041034379256308,Sector
+Waseca,Business_Products,3,0.9082119258816447,Sector
+Waseca,Construction,99,0.7603712773693742,Sector
+Waseca,Services,0,0.48195857906589523,Sector
+Waseca,Mining,47,0.29399075967429467,Sector
+Waseca,Health_Care,65,0.7346269542970401,Sector
+Waseca,EnergyExpL_Prod,96,0.5916539553551858,Sector
+Waseca,Utilities,83,0.11357450958300574,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hutchinson,1912,0.1630376419186339,Overall
-Hutchinson,Technology,155,0.6903880301823089,Sector
-Hutchinson,Healthcare,167,0.6933267129302901,Sector
-Hutchinson,Finance,79,0.6963505622008156,Sector
-Hutchinson,Energy,150,0.19942710091162885,Sector
-Hutchinson,Consumer Goods,171,0.927785321665766,Sector
-Hutchinson,Utilities,118,0.20678515723397328,Sector
-Hutchinson,Real Estate,196,0.4603812228933779,Sector
-Hutchinson,Telecommunications,147,0.5558533699456225,Sector
-Hutchinson,Materials,205,0.6161809843758682,Sector
-Hutchinson,Industrials,129,0.4271168800750861,Sector
-Hutchinson,Consumer Services,218,0.4298984023460368,Sector
-Hutchinson,Transportation,177,0.9136569543608719,Sector
-Technology,Software,77,0.8675487974363978,Industry
-Technology,Hardware,11,0.08434452872955889,Industry
-Technology,IT Services,67,0.7542857951315087,Industry
-Healthcare,Pharmaceuticals,92,0.9065018842362955,Industry
-Healthcare,Medical Devices,27,0.20410675585521165,Industry
-Healthcare,Healthcare Services,48,0.810047921300637,Industry
-Finance,Banking,0,0.007988068736475173,Industry
-Finance,Insurance,72,0.2674156761072276,Industry
-Finance,Investment Services,7,0.12296019343640485,Industry
-Energy,Oil & Gas,32,0.801962419465775,Industry
-Energy,Renewable Energy,66,0.42622372959217125,Industry
-Energy,Energy Exploration,52,0.6198876551690913,Industry
-Consumer Goods,Food & Beverage,14,0.6891097908931315,Industry
-Consumer Goods,Household Products,72,0.5270534565202545,Industry
-Consumer Goods,Apparel,85,0.2885650841720827,Industry
-Utilities,Electric,6,0.7341631593452663,Industry
-Utilities,Water,19,0.7655247778679259,Industry
-Utilities,Gas,93,0.8179452709443225,Industry
-Real Estate,Residential,15,0.24017180750817202,Industry
-Real Estate,Commercial,93,0.7500257341905145,Industry
-Real Estate,Industrial,88,0.12398843047276764,Industry
-Telecommunications,Mobile,86,0.10902620956338738,Industry
-Telecommunications,Broadband,61,0.4144272443101714,Industry
-Telecommunications,Satellite,0,0.6801617843463522,Industry
-Materials,Chemicals,39,0.4799815254217422,Industry
-Materials,Metals & Mining,91,0.603866482984315,Industry
-Materials,Construction Materials,75,0.40215592393518096,Industry
-Industrials,Aerospace & Defense,20,0.9367265922647287,Industry
-Industrials,Machinery,50,0.753058440263487,Industry
-Industrials,Industrial Services,59,0.5501065251985114,Industry
-Consumer Services,Retail,82,0.14035597499344066,Industry
-Consumer Services,Travel & Leisure,88,0.42997353953559947,Industry
-Consumer Services,Media,48,0.955311577726321,Industry
-Transportation,Airlines,84,0.21249891465575443,Industry
-Transportation,Railroads,87,0.6994228800214359,Industry
-Transportation,Logistics,6,0.6353862072804332,Industry
+,Hutchinson,588,0.5463879682353755,Overall
+Hutchinson,HiTech,37,0.7693363774918439,Sector
+Hutchinson,Agriculture,54,0.9149078803796729,Sector
+Hutchinson,Transportation,96,0.34503390206655105,Sector
+Hutchinson,Consumer_Products,42,0.48512074647805625,Sector
+Hutchinson,Unassigned,19,0.6685151493937401,Sector
+Hutchinson,Communication,79,0.5600535686538106,Sector
+Hutchinson,Trade,38,0.4682792892351325,Sector
+Hutchinson,Business_Services,65,0.8336172803723149,Sector
+Hutchinson,Business_Products,20,0.20141517351648552,Sector
+Hutchinson,Construction,21,0.26337475154913126,Sector
+Hutchinson,Services,9,0.5426755722709914,Sector
+Hutchinson,Mining,87,0.9082159179807731,Sector
+Hutchinson,Health_Care,12,0.4247039238387431,Sector
+Hutchinson,EnergyExpL_Prod,7,0.2063254582769688,Sector
+Hutchinson,Utilities,2,0.6042445320264159,Sector

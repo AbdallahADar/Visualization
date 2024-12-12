@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bartholomew,1910,0.8041584725433443,Overall
-Bartholomew,Technology,41,0.31170637870952833,Sector
-Bartholomew,Healthcare,224,0.6481754766796126,Sector
-Bartholomew,Finance,148,0.3887358379321152,Sector
-Bartholomew,Energy,171,0.7515395247428971,Sector
-Bartholomew,Consumer Goods,224,0.8554835667505797,Sector
-Bartholomew,Utilities,161,0.8739498623002395,Sector
-Bartholomew,Real Estate,152,0.05148868363371095,Sector
-Bartholomew,Telecommunications,141,0.8660927116764523,Sector
-Bartholomew,Materials,120,0.0344950489750524,Sector
-Bartholomew,Industrials,173,0.09177586299767349,Sector
-Bartholomew,Consumer Services,168,0.7210962662025938,Sector
-Bartholomew,Transportation,187,0.1659124598793792,Sector
-Technology,Software,22,0.7747462715953103,Industry
-Technology,Hardware,11,0.5421660152931594,Industry
-Technology,IT Services,8,0.5413356450044045,Industry
-Healthcare,Pharmaceuticals,73,0.07772194736292659,Industry
-Healthcare,Medical Devices,70,0.08287890419086508,Industry
-Healthcare,Healthcare Services,81,0.06421900112163925,Industry
-Finance,Banking,14,0.07954636806583981,Industry
-Finance,Insurance,49,0.86759145256573,Industry
-Finance,Investment Services,85,0.6441272817858176,Industry
-Energy,Oil & Gas,94,0.4301253177591694,Industry
-Energy,Renewable Energy,63,0.7626379700717753,Industry
-Energy,Energy Exploration,14,0.6624927239786291,Industry
-Consumer Goods,Food & Beverage,91,0.7294390772872443,Industry
-Consumer Goods,Household Products,42,0.8037541293027844,Industry
-Consumer Goods,Apparel,91,0.8472327964695222,Industry
-Utilities,Electric,84,0.2043584440966384,Industry
-Utilities,Water,71,0.6319404235526088,Industry
-Utilities,Gas,6,0.76389288360415,Industry
-Real Estate,Residential,49,0.27543136090584097,Industry
-Real Estate,Commercial,62,0.09058165202962443,Industry
-Real Estate,Industrial,41,0.31184476101274616,Industry
-Telecommunications,Mobile,23,0.01591487135962899,Industry
-Telecommunications,Broadband,85,0.060737925310515584,Industry
-Telecommunications,Satellite,33,0.19111771875533845,Industry
-Materials,Chemicals,23,0.6208322021017463,Industry
-Materials,Metals & Mining,74,0.867423397101432,Industry
-Materials,Construction Materials,23,0.08895488947241015,Industry
-Industrials,Aerospace & Defense,82,0.7776028022467514,Industry
-Industrials,Machinery,35,0.08412495407494058,Industry
-Industrials,Industrial Services,56,0.9788197037722289,Industry
-Consumer Services,Retail,76,0.9075961368359798,Industry
-Consumer Services,Travel & Leisure,63,0.629351926858414,Industry
-Consumer Services,Media,29,0.3231847558946519,Industry
-Transportation,Airlines,94,0.4048667829781596,Industry
-Transportation,Railroads,69,0.13734115192735719,Industry
-Transportation,Logistics,24,0.10518043927779308,Industry
+,Bartholomew,792,0.49364530536420137,Overall
+Bartholomew,HiTech,4,0.9985811975599223,Sector
+Bartholomew,Agriculture,82,0.7355328502338352,Sector
+Bartholomew,Transportation,93,0.5403366667648744,Sector
+Bartholomew,Consumer_Products,64,0.3979554238289361,Sector
+Bartholomew,Unassigned,43,0.5555938351515174,Sector
+Bartholomew,Communication,34,0.0023064839522405345,Sector
+Bartholomew,Trade,28,0.18193695411438693,Sector
+Bartholomew,Business_Services,99,0.3487943964343787,Sector
+Bartholomew,Business_Products,95,0.14608779690129137,Sector
+Bartholomew,Construction,16,0.5897526210227603,Sector
+Bartholomew,Services,62,0.41684976235853877,Sector
+Bartholomew,Mining,40,0.26645565550055383,Sector
+Bartholomew,Health_Care,79,0.45577642114567496,Sector
+Bartholomew,EnergyExpL_Prod,39,0.780064116268251,Sector
+Bartholomew,Utilities,14,0.9886553992258585,Sector

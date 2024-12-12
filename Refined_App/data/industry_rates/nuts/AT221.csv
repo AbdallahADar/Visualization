@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Graz,1865,0.8290557228239094,Overall
-Graz,Technology,172,0.06031394196949902,Sector
-Graz,Healthcare,227,0.15294017696743023,Sector
-Graz,Finance,140,0.9268785120120125,Sector
-Graz,Energy,130,0.44401370805820684,Sector
-Graz,Consumer Goods,142,0.40522335473860205,Sector
-Graz,Utilities,134,0.02893769531349022,Sector
-Graz,Real Estate,133,0.8854607800124847,Sector
-Graz,Telecommunications,211,0.7070363478929683,Sector
-Graz,Materials,42,0.06508973085646907,Sector
-Graz,Industrials,151,0.42462331695364897,Sector
-Graz,Consumer Services,185,0.40896020580477077,Sector
-Graz,Transportation,198,0.8533816664568769,Sector
-Technology,Software,34,0.25453263902081136,Industry
-Technology,Hardware,63,0.9923841283343753,Industry
-Technology,IT Services,75,0.4108019592189446,Industry
-Healthcare,Pharmaceuticals,80,0.6567113587622491,Industry
-Healthcare,Medical Devices,99,0.02108449874726681,Industry
-Healthcare,Healthcare Services,48,0.021951369141511856,Industry
-Finance,Banking,79,0.01939380806206148,Industry
-Finance,Insurance,48,0.2484912205139932,Industry
-Finance,Investment Services,13,0.7046933874130527,Industry
-Energy,Oil & Gas,86,0.4654020594477901,Industry
-Energy,Renewable Energy,40,0.910592597319187,Industry
-Energy,Energy Exploration,4,0.8035570879488645,Industry
-Consumer Goods,Food & Beverage,53,0.2553531164264152,Industry
-Consumer Goods,Household Products,47,0.27174010496410805,Industry
-Consumer Goods,Apparel,42,0.8120916929326348,Industry
-Utilities,Electric,78,0.6851616970645756,Industry
-Utilities,Water,15,0.7297136157209949,Industry
-Utilities,Gas,41,0.12242308208278962,Industry
-Real Estate,Residential,59,0.3732642826896543,Industry
-Real Estate,Commercial,39,0.027280330888150073,Industry
-Real Estate,Industrial,35,0.7770516536493101,Industry
-Telecommunications,Mobile,32,0.27690458338525625,Industry
-Telecommunications,Broadband,82,0.5600485690732198,Industry
-Telecommunications,Satellite,97,0.3480348695734602,Industry
-Materials,Chemicals,9,0.9400497922921606,Industry
-Materials,Metals & Mining,31,0.8939035285644876,Industry
-Materials,Construction Materials,2,0.24453861080905792,Industry
-Industrials,Aerospace & Defense,0,0.8933511380045193,Industry
-Industrials,Machinery,63,0.5066553138449612,Industry
-Industrials,Industrial Services,88,0.2444460662184803,Industry
-Consumer Services,Retail,67,0.82634870836815,Industry
-Consumer Services,Travel & Leisure,59,0.40199682628368594,Industry
-Consumer Services,Media,59,0.026869820919312892,Industry
-Transportation,Airlines,40,0.18734545012457793,Industry
-Transportation,Railroads,76,0.10828863039838554,Industry
-Transportation,Logistics,82,0.1216662804145685,Industry
+,Graz,588,0.5374392440505706,Overall
+Graz,HiTech,41,0.14450984211984375,Sector
+Graz,Agriculture,20,0.8688607012266407,Sector
+Graz,Transportation,5,0.8468901486562302,Sector
+Graz,Consumer_Products,23,0.12036748772020467,Sector
+Graz,Unassigned,2,0.8041499273932093,Sector
+Graz,Communication,15,0.8453211006915543,Sector
+Graz,Trade,51,0.9388177300846245,Sector
+Graz,Business_Services,8,0.8640478628942275,Sector
+Graz,Business_Products,34,0.3599499175001992,Sector
+Graz,Construction,78,0.5518979608541953,Sector
+Graz,Services,68,0.1494484127608654,Sector
+Graz,Mining,65,0.6153404870527853,Sector
+Graz,Health_Care,88,0.5366142623086618,Sector
+Graz,EnergyExpL_Prod,14,0.18171350014416832,Sector
+Graz,Utilities,76,0.2336593193511487,Sector

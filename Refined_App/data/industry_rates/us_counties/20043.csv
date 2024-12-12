@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Doniphan,1727,0.16088627399487976,Overall
-Doniphan,Technology,177,0.19066048472999209,Sector
-Doniphan,Healthcare,128,0.3839834464291405,Sector
-Doniphan,Finance,272,0.009617203372654592,Sector
-Doniphan,Energy,195,0.7118719478554638,Sector
-Doniphan,Consumer Goods,56,0.35753066682037893,Sector
-Doniphan,Utilities,155,0.2815174336389463,Sector
-Doniphan,Real Estate,133,0.40918299234146593,Sector
-Doniphan,Telecommunications,123,0.804321795729621,Sector
-Doniphan,Materials,118,0.26156615232932756,Sector
-Doniphan,Industrials,159,0.1439729638933146,Sector
-Doniphan,Consumer Services,117,0.13457900129677003,Sector
-Doniphan,Transportation,94,0.5178384340656373,Sector
-Technology,Software,77,0.1410739632517627,Industry
-Technology,Hardware,3,0.19882757971854081,Industry
-Technology,IT Services,97,0.669245124813129,Industry
-Healthcare,Pharmaceuticals,7,0.9448289972699858,Industry
-Healthcare,Medical Devices,77,0.7147679422295659,Industry
-Healthcare,Healthcare Services,44,0.780044362078996,Industry
-Finance,Banking,90,0.10140123027018111,Industry
-Finance,Insurance,97,0.7055579815036827,Industry
-Finance,Investment Services,85,0.804198296390741,Industry
-Energy,Oil & Gas,91,0.30605214969841177,Industry
-Energy,Renewable Energy,7,0.6439748843446954,Industry
-Energy,Energy Exploration,97,0.9847535278674906,Industry
-Consumer Goods,Food & Beverage,35,0.6178357428448875,Industry
-Consumer Goods,Household Products,20,0.8067878146426327,Industry
-Consumer Goods,Apparel,1,0.7837554562105592,Industry
-Utilities,Electric,24,0.6930981087305819,Industry
-Utilities,Water,39,0.2753335217856675,Industry
-Utilities,Gas,92,0.11985163455847425,Industry
-Real Estate,Residential,81,0.08652139349684218,Industry
-Real Estate,Commercial,11,0.03634214414133585,Industry
-Real Estate,Industrial,41,0.11535618505473566,Industry
-Telecommunications,Mobile,23,0.6114854800891051,Industry
-Telecommunications,Broadband,34,0.8671237855811319,Industry
-Telecommunications,Satellite,66,0.5253019502150648,Industry
-Materials,Chemicals,6,0.8707340005154439,Industry
-Materials,Metals & Mining,64,0.5149575213469246,Industry
-Materials,Construction Materials,48,0.5080049125844938,Industry
-Industrials,Aerospace & Defense,97,0.9593765441305672,Industry
-Industrials,Machinery,38,0.37626574624273745,Industry
-Industrials,Industrial Services,24,0.20357894553131073,Industry
-Consumer Services,Retail,0,0.7620615692187627,Industry
-Consumer Services,Travel & Leisure,70,0.46379982338786874,Industry
-Consumer Services,Media,47,0.27811243567156907,Industry
-Transportation,Airlines,14,0.5531363769223709,Industry
-Transportation,Railroads,21,0.2877212448165044,Industry
-Transportation,Logistics,59,0.47734679787884293,Industry
+,Doniphan,841,0.4991860897588169,Overall
+Doniphan,HiTech,95,0.7331568825584044,Sector
+Doniphan,Agriculture,79,0.24474406114240943,Sector
+Doniphan,Transportation,64,0.7874533870524378,Sector
+Doniphan,Consumer_Products,68,0.2213552730347068,Sector
+Doniphan,Unassigned,71,0.7005120256034496,Sector
+Doniphan,Communication,75,0.589491848161492,Sector
+Doniphan,Trade,41,0.47431601460509953,Sector
+Doniphan,Business_Services,30,0.5540331124479864,Sector
+Doniphan,Business_Products,22,0.6276822251090026,Sector
+Doniphan,Construction,58,0.6888710075191867,Sector
+Doniphan,Services,98,0.14965317583662474,Sector
+Doniphan,Mining,6,0.8432547580316538,Sector
+Doniphan,Health_Care,5,0.42260362003051,Sector
+Doniphan,EnergyExpL_Prod,72,0.41167743723940964,Sector
+Doniphan,Utilities,57,0.038986518009878846,Sector

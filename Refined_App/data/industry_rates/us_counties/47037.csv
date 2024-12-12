@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Davidson,1421,0.30568095380206906,Overall
-Davidson,Technology,106,0.6422784451743454,Sector
-Davidson,Healthcare,195,0.5570329685541213,Sector
-Davidson,Finance,136,0.16034581038363105,Sector
-Davidson,Energy,101,0.8207218620709777,Sector
-Davidson,Consumer Goods,111,0.8220595010458265,Sector
-Davidson,Utilities,62,0.4341184132635536,Sector
-Davidson,Real Estate,91,0.9652438491475998,Sector
-Davidson,Telecommunications,144,0.24691022321410672,Sector
-Davidson,Materials,96,0.6258908862792842,Sector
-Davidson,Industrials,188,0.6070535583242237,Sector
-Davidson,Consumer Services,61,0.37047316590517665,Sector
-Davidson,Transportation,130,0.5579157075606318,Sector
-Technology,Software,61,0.4045517735964763,Industry
-Technology,Hardware,16,0.34802036796489644,Industry
-Technology,IT Services,29,0.7263462259734175,Industry
-Healthcare,Pharmaceuticals,55,0.4538434160329117,Industry
-Healthcare,Medical Devices,52,0.3528463159678721,Industry
-Healthcare,Healthcare Services,88,0.7913468364633574,Industry
-Finance,Banking,37,0.06151532752069033,Industry
-Finance,Insurance,77,0.7818718512424957,Industry
-Finance,Investment Services,22,0.39061293812096076,Industry
-Energy,Oil & Gas,4,0.6198209141503702,Industry
-Energy,Renewable Energy,92,0.8831790964581175,Industry
-Energy,Energy Exploration,5,0.5864884149166226,Industry
-Consumer Goods,Food & Beverage,56,0.3494059576012096,Industry
-Consumer Goods,Household Products,26,0.8679561465937328,Industry
-Consumer Goods,Apparel,29,0.6094722037784144,Industry
-Utilities,Electric,14,0.15294588553473232,Industry
-Utilities,Water,38,0.5857687306339167,Industry
-Utilities,Gas,10,0.3037248389172037,Industry
-Real Estate,Residential,22,0.7873176607973446,Industry
-Real Estate,Commercial,65,0.12872688499471407,Industry
-Real Estate,Industrial,4,0.7287006052727985,Industry
-Telecommunications,Mobile,38,0.2545695223625444,Industry
-Telecommunications,Broadband,40,0.7642804748641887,Industry
-Telecommunications,Satellite,66,0.16164145190757695,Industry
-Materials,Chemicals,48,0.7531123195544077,Industry
-Materials,Metals & Mining,26,0.5306293366515692,Industry
-Materials,Construction Materials,22,0.48298927414785886,Industry
-Industrials,Aerospace & Defense,58,0.1754584127506965,Industry
-Industrials,Machinery,66,0.9427999930307258,Industry
-Industrials,Industrial Services,64,0.24537442151696254,Industry
-Consumer Services,Retail,0,0.6550703190157826,Industry
-Consumer Services,Travel & Leisure,12,0.9378220848507842,Industry
-Consumer Services,Media,49,0.8310282292170321,Industry
-Transportation,Airlines,43,0.2689593770917653,Industry
-Transportation,Railroads,59,0.17448947569600448,Industry
-Transportation,Logistics,28,0.1033651116760479,Industry
+,Davidson,712,0.5061358204415151,Overall
+Davidson,HiTech,79,0.7144929923824578,Sector
+Davidson,Agriculture,74,0.5698937157279355,Sector
+Davidson,Transportation,25,0.6893006251243663,Sector
+Davidson,Consumer_Products,27,0.17683422083703815,Sector
+Davidson,Unassigned,22,0.47388621359885796,Sector
+Davidson,Communication,18,0.1529915585216558,Sector
+Davidson,Trade,11,0.1133284094032937,Sector
+Davidson,Business_Services,9,0.8515562955444662,Sector
+Davidson,Business_Products,75,0.8080341058436196,Sector
+Davidson,Construction,87,0.22083409564724032,Sector
+Davidson,Services,87,0.44723977370952794,Sector
+Davidson,Mining,18,0.5694572176238574,Sector
+Davidson,Health_Care,14,0.832314033621588,Sector
+Davidson,EnergyExpL_Prod,92,0.32883884175786193,Sector
+Davidson,Utilities,74,0.6430352072789598,Sector

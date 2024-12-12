@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Vernon,1581,0.9338509241732325,Overall
-Vernon,Technology,90,0.8835176597380406,Sector
-Vernon,Healthcare,51,0.8793642529917519,Sector
-Vernon,Finance,124,0.05845003690523676,Sector
-Vernon,Energy,172,0.5429956102163271,Sector
-Vernon,Consumer Goods,110,0.1426758863606341,Sector
-Vernon,Utilities,194,0.10177643811186665,Sector
-Vernon,Real Estate,200,0.8784521078862791,Sector
-Vernon,Telecommunications,47,0.04986983890433205,Sector
-Vernon,Materials,156,0.35581039730224884,Sector
-Vernon,Industrials,235,0.8690917235360957,Sector
-Vernon,Consumer Services,132,0.15246012138705867,Sector
-Vernon,Transportation,70,0.2686860089610401,Sector
-Technology,Software,35,0.8135749540394605,Industry
-Technology,Hardware,11,0.7721448429467875,Industry
-Technology,IT Services,44,0.17745614400113985,Industry
-Healthcare,Pharmaceuticals,0,0.0030314120370386055,Industry
-Healthcare,Medical Devices,30,0.6055001279249068,Industry
-Healthcare,Healthcare Services,21,0.2298088379634372,Industry
-Finance,Banking,39,0.14142731620775495,Industry
-Finance,Insurance,76,0.31715788634036124,Industry
-Finance,Investment Services,9,0.6177407150431667,Industry
-Energy,Oil & Gas,96,0.18265248525355138,Industry
-Energy,Renewable Energy,65,0.31954733779723477,Industry
-Energy,Energy Exploration,11,0.9737388605748167,Industry
-Consumer Goods,Food & Beverage,42,0.36403240286878535,Industry
-Consumer Goods,Household Products,4,0.1730276747192746,Industry
-Consumer Goods,Apparel,64,0.9889207616239045,Industry
-Utilities,Electric,34,0.031142456079264247,Industry
-Utilities,Water,92,0.4819421276622652,Industry
-Utilities,Gas,68,0.32329694470325787,Industry
-Real Estate,Residential,29,0.10244546481088967,Industry
-Real Estate,Commercial,79,0.37321988255689154,Industry
-Real Estate,Industrial,92,0.8491249104706127,Industry
-Telecommunications,Mobile,7,0.5556555367820655,Industry
-Telecommunications,Broadband,5,0.16301185426772524,Industry
-Telecommunications,Satellite,35,0.4980004398589356,Industry
-Materials,Chemicals,32,0.7432997594263177,Industry
-Materials,Metals & Mining,43,0.5420013851680472,Industry
-Materials,Construction Materials,81,0.04380781099502484,Industry
-Industrials,Aerospace & Defense,93,0.8419897963546065,Industry
-Industrials,Machinery,67,0.5787147545874215,Industry
-Industrials,Industrial Services,75,0.7477894750752533,Industry
-Consumer Services,Retail,86,0.7067528823565219,Industry
-Consumer Services,Travel & Leisure,20,0.7452167846505586,Industry
-Consumer Services,Media,26,0.9053810651612891,Industry
-Transportation,Airlines,0,0.3467787939780268,Industry
-Transportation,Railroads,45,0.013837524874849239,Industry
-Transportation,Logistics,25,0.16564589350500725,Industry
+,Vernon,807,0.5289176616181753,Overall
+Vernon,HiTech,45,0.3732594318789838,Sector
+Vernon,Agriculture,85,0.6937142808403991,Sector
+Vernon,Transportation,43,0.877324571428058,Sector
+Vernon,Consumer_Products,16,0.08874847971256938,Sector
+Vernon,Unassigned,70,0.1743249992580057,Sector
+Vernon,Communication,85,0.9098513716167986,Sector
+Vernon,Trade,96,0.6852349628258444,Sector
+Vernon,Business_Services,60,0.5992786425686135,Sector
+Vernon,Business_Products,20,0.11739103054429734,Sector
+Vernon,Construction,85,0.15550854625736765,Sector
+Vernon,Services,15,0.3027910046871588,Sector
+Vernon,Mining,62,0.20276294890146085,Sector
+Vernon,Health_Care,49,0.8616228275469943,Sector
+Vernon,EnergyExpL_Prod,35,0.9001379959100441,Sector
+Vernon,Utilities,41,0.991813830296033,Sector

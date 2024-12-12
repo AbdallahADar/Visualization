@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Stewart,2059,0.15068935796224592,Overall
-Stewart,Technology,126,0.49409167345713734,Sector
-Stewart,Healthcare,135,0.6415184522396101,Sector
-Stewart,Finance,223,0.6457649980419032,Sector
-Stewart,Energy,195,0.09377811806516811,Sector
-Stewart,Consumer Goods,177,0.8106078982869832,Sector
-Stewart,Utilities,163,0.3063499107205203,Sector
-Stewart,Real Estate,74,0.12435383133145328,Sector
-Stewart,Telecommunications,116,0.5941549187023698,Sector
-Stewart,Materials,203,0.5886333380115265,Sector
-Stewart,Industrials,213,0.11534405732963282,Sector
-Stewart,Consumer Services,221,0.4645100871007387,Sector
-Stewart,Transportation,213,0.17758573983094394,Sector
-Technology,Software,66,0.14826243773747094,Industry
-Technology,Hardware,25,0.06480494099894873,Industry
-Technology,IT Services,35,0.4070350347564491,Industry
-Healthcare,Pharmaceuticals,88,0.6413547741567746,Industry
-Healthcare,Medical Devices,22,0.018308673310768908,Industry
-Healthcare,Healthcare Services,25,0.8804432714566093,Industry
-Finance,Banking,61,0.6387704498111256,Industry
-Finance,Insurance,71,0.8715182754542251,Industry
-Finance,Investment Services,91,0.9536125993894096,Industry
-Energy,Oil & Gas,52,0.8997307090062865,Industry
-Energy,Renewable Energy,65,0.015931492176758155,Industry
-Energy,Energy Exploration,78,0.06326204767014387,Industry
-Consumer Goods,Food & Beverage,60,0.13116027274327402,Industry
-Consumer Goods,Household Products,68,0.8162378873460155,Industry
-Consumer Goods,Apparel,49,0.42806904748960595,Industry
-Utilities,Electric,75,0.5857841711124917,Industry
-Utilities,Water,30,0.07261082256567175,Industry
-Utilities,Gas,58,0.023040921461785935,Industry
-Real Estate,Residential,31,0.7274125642085597,Industry
-Real Estate,Commercial,0,0.6577435866303771,Industry
-Real Estate,Industrial,43,0.7988549218367101,Industry
-Telecommunications,Mobile,10,0.8753656976318012,Industry
-Telecommunications,Broadband,74,0.3118826285873658,Industry
-Telecommunications,Satellite,32,0.5617836268148375,Industry
-Materials,Chemicals,83,0.7511314260443509,Industry
-Materials,Metals & Mining,91,0.2360173745260844,Industry
-Materials,Construction Materials,29,0.1848295261197812,Industry
-Industrials,Aerospace & Defense,93,0.29335400180026006,Industry
-Industrials,Machinery,66,0.010871716711334134,Industry
-Industrials,Industrial Services,54,0.4167105396344152,Industry
-Consumer Services,Retail,63,0.27666578299772415,Industry
-Consumer Services,Travel & Leisure,83,0.8162101945334231,Industry
-Consumer Services,Media,75,0.41434151133997665,Industry
-Transportation,Airlines,47,0.920589372193472,Industry
-Transportation,Railroads,74,0.23550097250571722,Industry
-Transportation,Logistics,92,0.34777289868188466,Industry
+,Stewart,783,0.4427331218112955,Overall
+Stewart,HiTech,79,0.24486250862426284,Sector
+Stewart,Agriculture,75,0.7751191737134793,Sector
+Stewart,Transportation,32,0.1349996994395367,Sector
+Stewart,Consumer_Products,23,0.5802766841543905,Sector
+Stewart,Unassigned,83,0.9872416802935954,Sector
+Stewart,Communication,71,0.3224478226512212,Sector
+Stewart,Trade,80,0.42294222061498143,Sector
+Stewart,Business_Services,85,0.019985427813351886,Sector
+Stewart,Business_Products,15,0.8347271733713789,Sector
+Stewart,Construction,22,0.13282546713626764,Sector
+Stewart,Services,35,0.5162470966528183,Sector
+Stewart,Mining,3,0.816434906379784,Sector
+Stewart,Health_Care,66,0.19397347858594682,Sector
+Stewart,EnergyExpL_Prod,81,0.30603398778744073,Sector
+Stewart,Utilities,33,0.35287949995097756,Sector

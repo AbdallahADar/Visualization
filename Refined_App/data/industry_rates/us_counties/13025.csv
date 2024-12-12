@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Brantley,1877,0.7712492335851086,Overall
-Brantley,Technology,167,0.6443344216522854,Sector
-Brantley,Healthcare,115,0.8158712874711126,Sector
-Brantley,Finance,160,0.17454907132115394,Sector
-Brantley,Energy,234,0.3164624476851061,Sector
-Brantley,Consumer Goods,184,0.22069283884333335,Sector
-Brantley,Utilities,144,0.8167517691936208,Sector
-Brantley,Real Estate,93,0.3501205941638077,Sector
-Brantley,Telecommunications,126,0.47706861837264947,Sector
-Brantley,Materials,201,0.20622266785951593,Sector
-Brantley,Industrials,208,0.8380612905933185,Sector
-Brantley,Consumer Services,138,0.5504683596408192,Sector
-Brantley,Transportation,107,0.3335406362058466,Sector
-Technology,Software,76,0.7923301931561113,Industry
-Technology,Hardware,52,0.19308506295966388,Industry
-Technology,IT Services,39,0.25312665267036505,Industry
-Healthcare,Pharmaceuticals,0,0.06469895635041123,Industry
-Healthcare,Medical Devices,74,0.8502330870660277,Industry
-Healthcare,Healthcare Services,41,0.2850939855499296,Industry
-Finance,Banking,34,0.1323090140045341,Industry
-Finance,Insurance,35,0.6313453245197076,Industry
-Finance,Investment Services,91,0.36810178984210973,Industry
-Energy,Oil & Gas,78,0.689647537388337,Industry
-Energy,Renewable Energy,87,0.7633382724681422,Industry
-Energy,Energy Exploration,69,0.9185349545981758,Industry
-Consumer Goods,Food & Beverage,62,0.35992737255305085,Industry
-Consumer Goods,Household Products,58,0.823197412505186,Industry
-Consumer Goods,Apparel,64,0.13367305034050259,Industry
-Utilities,Electric,71,0.07916196319035462,Industry
-Utilities,Water,15,0.17928646101022672,Industry
-Utilities,Gas,58,0.15151782336473152,Industry
-Real Estate,Residential,69,0.4170926869752366,Industry
-Real Estate,Commercial,16,0.3990423647112994,Industry
-Real Estate,Industrial,8,0.7553289055774782,Industry
-Telecommunications,Mobile,64,0.7910685644905916,Industry
-Telecommunications,Broadband,22,0.7800326288445456,Industry
-Telecommunications,Satellite,40,0.10588550526233975,Industry
-Materials,Chemicals,85,0.6009809155089832,Industry
-Materials,Metals & Mining,69,0.2792136275244592,Industry
-Materials,Construction Materials,47,0.8110043912312177,Industry
-Industrials,Aerospace & Defense,85,0.5124721241628365,Industry
-Industrials,Machinery,59,0.13694877170539177,Industry
-Industrials,Industrial Services,64,0.6304080487134727,Industry
-Consumer Services,Retail,59,0.2216892700212486,Industry
-Consumer Services,Travel & Leisure,73,0.47109819690393306,Industry
-Consumer Services,Media,6,0.9428458609744842,Industry
-Transportation,Airlines,20,0.8830695319497152,Industry
-Transportation,Railroads,32,0.6536627042902667,Industry
-Transportation,Logistics,55,0.6412120548157939,Industry
+,Brantley,568,0.4718679853632134,Overall
+Brantley,HiTech,64,0.010495043582902985,Sector
+Brantley,Agriculture,87,0.680893317249766,Sector
+Brantley,Transportation,86,0.5903951598569483,Sector
+Brantley,Consumer_Products,18,0.8055427261977081,Sector
+Brantley,Unassigned,8,0.711962571022596,Sector
+Brantley,Communication,32,0.12570790223572237,Sector
+Brantley,Trade,28,0.13985109168107812,Sector
+Brantley,Business_Services,25,0.2488579567802719,Sector
+Brantley,Business_Products,30,0.6865455582825919,Sector
+Brantley,Construction,30,0.9555268150207945,Sector
+Brantley,Services,61,0.5524526228522113,Sector
+Brantley,Mining,49,0.3148280330487703,Sector
+Brantley,Health_Care,18,0.6352097793470164,Sector
+Brantley,EnergyExpL_Prod,19,0.24970245724000772,Sector
+Brantley,Utilities,13,0.3700487460498143,Sector

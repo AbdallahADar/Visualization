@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hamburg,1493,0.8345775264779495,Overall
-Hamburg,Technology,41,0.47886883623830856,Sector
-Hamburg,Healthcare,41,0.36565943690223746,Sector
-Hamburg,Finance,164,0.4859791487242412,Sector
-Hamburg,Energy,126,0.8190506773021957,Sector
-Hamburg,Consumer Goods,108,0.6257373437492849,Sector
-Hamburg,Utilities,142,0.13642217814562396,Sector
-Hamburg,Real Estate,110,0.41336037892101163,Sector
-Hamburg,Telecommunications,69,0.6512037358624769,Sector
-Hamburg,Materials,160,0.4381710841675186,Sector
-Hamburg,Industrials,182,0.8729053941124971,Sector
-Hamburg,Consumer Services,155,0.7663466534966922,Sector
-Hamburg,Transportation,195,0.24070545281040334,Sector
-Technology,Software,11,0.737230078243782,Industry
-Technology,Hardware,28,0.1426660224577324,Industry
-Technology,IT Services,2,0.24505958019061447,Industry
-Healthcare,Pharmaceuticals,20,0.6184440022120525,Industry
-Healthcare,Medical Devices,7,0.6831961906599557,Industry
-Healthcare,Healthcare Services,14,0.4609748303581659,Industry
-Finance,Banking,29,0.9601613842327233,Industry
-Finance,Insurance,38,0.12412249913627038,Industry
-Finance,Investment Services,97,0.6730653433704253,Industry
-Energy,Oil & Gas,39,0.2065712425070685,Industry
-Energy,Renewable Energy,55,0.0018316549738772725,Industry
-Energy,Energy Exploration,32,0.16926407324431214,Industry
-Consumer Goods,Food & Beverage,30,0.08081784302373607,Industry
-Consumer Goods,Household Products,27,0.47319051019846603,Industry
-Consumer Goods,Apparel,51,0.45145471829636974,Industry
-Utilities,Electric,68,0.9331937631774104,Industry
-Utilities,Water,70,0.5769692678747201,Industry
-Utilities,Gas,4,0.30374974457613924,Industry
-Real Estate,Residential,22,0.2633745771663587,Industry
-Real Estate,Commercial,80,0.40212782839194283,Industry
-Real Estate,Industrial,8,0.5099951286443455,Industry
-Telecommunications,Mobile,17,0.8217590585778045,Industry
-Telecommunications,Broadband,12,0.9101801556843261,Industry
-Telecommunications,Satellite,40,0.36236160646198046,Industry
-Materials,Chemicals,32,0.2756575079385807,Industry
-Materials,Metals & Mining,44,0.32307988330248694,Industry
-Materials,Construction Materials,84,0.09823172756745924,Industry
-Industrials,Aerospace & Defense,85,0.710702413490832,Industry
-Industrials,Machinery,94,0.9723461910708413,Industry
-Industrials,Industrial Services,3,0.28138550868030643,Industry
-Consumer Services,Retail,48,0.9487746667518546,Industry
-Consumer Services,Travel & Leisure,9,0.5376976955396261,Industry
-Consumer Services,Media,98,0.34528749847982654,Industry
-Transportation,Airlines,31,0.20715167377801946,Industry
-Transportation,Railroads,66,0.18193719096579564,Industry
-Transportation,Logistics,98,0.6480999196446564,Industry
+,Hamburg,692,0.4730896658573937,Overall
+Hamburg,HiTech,19,0.924036429894689,Sector
+Hamburg,Agriculture,68,0.9942844077152553,Sector
+Hamburg,Transportation,56,0.07788579227588766,Sector
+Hamburg,Consumer_Products,19,0.4808203476793682,Sector
+Hamburg,Unassigned,38,0.21754564141266886,Sector
+Hamburg,Communication,95,0.08769817416789993,Sector
+Hamburg,Trade,96,0.5505581403776731,Sector
+Hamburg,Business_Services,56,0.7194863271231586,Sector
+Hamburg,Business_Products,8,0.1699487856112848,Sector
+Hamburg,Construction,19,0.5409340797298325,Sector
+Hamburg,Services,87,0.5617346007853926,Sector
+Hamburg,Mining,0,0.19483334703702404,Sector
+Hamburg,Health_Care,17,0.3394680319600569,Sector
+Hamburg,EnergyExpL_Prod,43,0.4138461775785196,Sector
+Hamburg,Utilities,71,0.8232647045121938,Sector

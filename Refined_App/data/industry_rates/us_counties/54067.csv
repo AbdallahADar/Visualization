@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Nicholas,1975,0.15713378967118175,Overall
-Nicholas,Technology,260,0.15422013840336235,Sector
-Nicholas,Healthcare,216,0.22391201304942832,Sector
-Nicholas,Finance,212,0.3670089092603189,Sector
-Nicholas,Energy,182,0.8583355903005231,Sector
-Nicholas,Consumer Goods,150,0.7549322582711622,Sector
-Nicholas,Utilities,192,0.04263671090650012,Sector
-Nicholas,Real Estate,157,0.8459217926615817,Sector
-Nicholas,Telecommunications,116,0.6174971166994616,Sector
-Nicholas,Materials,55,0.0883444886623922,Sector
-Nicholas,Industrials,123,0.21197131344456355,Sector
-Nicholas,Consumer Services,158,0.9384968185410246,Sector
-Nicholas,Transportation,154,0.2188459114459308,Sector
-Technology,Software,82,0.43723990686182335,Industry
-Technology,Hardware,97,0.35299493389066405,Industry
-Technology,IT Services,81,0.8372260499999298,Industry
-Healthcare,Pharmaceuticals,28,0.0004651261622413694,Industry
-Healthcare,Medical Devices,92,0.09857340120881752,Industry
-Healthcare,Healthcare Services,96,0.08585995965776827,Industry
-Finance,Banking,82,0.3522478235580708,Industry
-Finance,Insurance,86,0.6556638344423039,Industry
-Finance,Investment Services,44,0.34451464828928346,Industry
-Energy,Oil & Gas,83,0.8569476856545137,Industry
-Energy,Renewable Energy,2,0.4367380281710347,Industry
-Energy,Energy Exploration,97,0.3912572073758571,Industry
-Consumer Goods,Food & Beverage,19,0.8772411634947981,Industry
-Consumer Goods,Household Products,78,0.8580772324891027,Industry
-Consumer Goods,Apparel,53,0.013838875912867588,Industry
-Utilities,Electric,73,0.6857314657049691,Industry
-Utilities,Water,62,0.19062410470592128,Industry
-Utilities,Gas,57,0.4652641500865883,Industry
-Real Estate,Residential,43,0.8833709516101337,Industry
-Real Estate,Commercial,44,0.654652724949794,Industry
-Real Estate,Industrial,70,0.8559281074980997,Industry
-Telecommunications,Mobile,29,0.4385797972655857,Industry
-Telecommunications,Broadband,16,0.7595176757360469,Industry
-Telecommunications,Satellite,71,0.6703989686818409,Industry
-Materials,Chemicals,12,0.26296639333754845,Industry
-Materials,Metals & Mining,6,0.16842575202066412,Industry
-Materials,Construction Materials,37,0.7947667540827146,Industry
-Industrials,Aerospace & Defense,20,0.22453598751545,Industry
-Industrials,Machinery,82,0.8532015145761753,Industry
-Industrials,Industrial Services,21,0.24697593987737765,Industry
-Consumer Services,Retail,43,0.5660607915984837,Industry
-Consumer Services,Travel & Leisure,60,0.14262238015050466,Industry
-Consumer Services,Media,55,0.3641667563616652,Industry
-Transportation,Airlines,25,0.5958828823102533,Industry
-Transportation,Railroads,30,0.8969497619794328,Industry
-Transportation,Logistics,99,0.22976732421530288,Industry
+,Nicholas,643,0.44990972709381416,Overall
+Nicholas,HiTech,53,0.4117753817384967,Sector
+Nicholas,Agriculture,81,0.5883882534001131,Sector
+Nicholas,Transportation,26,0.9090401597244182,Sector
+Nicholas,Consumer_Products,28,0.5341371551122498,Sector
+Nicholas,Unassigned,94,0.406123082840508,Sector
+Nicholas,Communication,3,0.9797711205129119,Sector
+Nicholas,Trade,46,0.2343120354607039,Sector
+Nicholas,Business_Services,5,0.21260564460816922,Sector
+Nicholas,Business_Products,48,0.12239387786866507,Sector
+Nicholas,Construction,81,0.3131788635307544,Sector
+Nicholas,Services,8,0.644543153287751,Sector
+Nicholas,Mining,44,0.276618181585937,Sector
+Nicholas,Health_Care,29,0.6349196208276002,Sector
+Nicholas,EnergyExpL_Prod,17,0.37423346972655835,Sector
+Nicholas,Utilities,80,0.10660590618237409,Sector

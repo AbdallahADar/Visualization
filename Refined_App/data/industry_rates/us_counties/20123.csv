@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mitchell,1970,0.29168243417244666,Overall
-Mitchell,Technology,89,0.3344866877322318,Sector
-Mitchell,Healthcare,204,0.6865790619398054,Sector
-Mitchell,Finance,204,0.2891539822191198,Sector
-Mitchell,Energy,207,0.23609546993296981,Sector
-Mitchell,Consumer Goods,132,0.7456181125073423,Sector
-Mitchell,Utilities,216,0.9581597201014983,Sector
-Mitchell,Real Estate,157,0.4623813679671611,Sector
-Mitchell,Telecommunications,213,0.6953606158496979,Sector
-Mitchell,Materials,200,0.02674025834080085,Sector
-Mitchell,Industrials,144,0.8556881821540819,Sector
-Mitchell,Consumer Services,149,0.4139720589006832,Sector
-Mitchell,Transportation,55,0.7221105575534665,Sector
-Technology,Software,9,0.894777292789164,Industry
-Technology,Hardware,35,0.4619072274180016,Industry
-Technology,IT Services,45,0.05604158511435264,Industry
-Healthcare,Pharmaceuticals,68,0.15219852203012518,Industry
-Healthcare,Medical Devices,44,0.057693969498779474,Industry
-Healthcare,Healthcare Services,92,0.13755305604610446,Industry
-Finance,Banking,93,0.6553765849100746,Industry
-Finance,Insurance,14,0.15683220513974527,Industry
-Finance,Investment Services,97,0.6384792501865459,Industry
-Energy,Oil & Gas,81,0.5102807024687386,Industry
-Energy,Renewable Energy,50,0.4224952679648746,Industry
-Energy,Energy Exploration,76,0.28750189494790945,Industry
-Consumer Goods,Food & Beverage,83,0.35434967374978776,Industry
-Consumer Goods,Household Products,17,0.30073072421176106,Industry
-Consumer Goods,Apparel,32,0.5793389935208488,Industry
-Utilities,Electric,30,0.6350134709729479,Industry
-Utilities,Water,90,0.1768327495664762,Industry
-Utilities,Gas,96,0.36435729031148356,Industry
-Real Estate,Residential,88,0.10925861208562548,Industry
-Real Estate,Commercial,22,0.6502290515487553,Industry
-Real Estate,Industrial,47,0.4899845128592384,Industry
-Telecommunications,Mobile,86,0.9671794218926717,Industry
-Telecommunications,Broadband,77,0.5332132045679232,Industry
-Telecommunications,Satellite,50,0.31670182491074106,Industry
-Materials,Chemicals,72,0.10558414323809195,Industry
-Materials,Metals & Mining,61,0.24062026518407864,Industry
-Materials,Construction Materials,67,0.52276947171113,Industry
-Industrials,Aerospace & Defense,85,0.14292419551733926,Industry
-Industrials,Machinery,8,0.054229291880240615,Industry
-Industrials,Industrial Services,51,0.8376082478577233,Industry
-Consumer Services,Retail,82,0.9995952147392986,Industry
-Consumer Services,Travel & Leisure,48,0.4198630318810147,Industry
-Consumer Services,Media,19,0.9913936625473312,Industry
-Transportation,Airlines,7,0.2814070834348893,Industry
-Transportation,Railroads,31,0.36658511412168815,Industry
-Transportation,Logistics,17,0.5123282187379088,Industry
+,Mitchell,836,0.580172125344897,Overall
+Mitchell,HiTech,45,0.5284631725259044,Sector
+Mitchell,Agriculture,52,0.3985595216344353,Sector
+Mitchell,Transportation,41,0.487404800092917,Sector
+Mitchell,Consumer_Products,87,0.553970613578351,Sector
+Mitchell,Unassigned,75,0.8294070525574089,Sector
+Mitchell,Communication,27,0.13684352499060948,Sector
+Mitchell,Trade,15,0.6321981071990482,Sector
+Mitchell,Business_Services,57,0.8604010880923215,Sector
+Mitchell,Business_Products,33,0.7106478532957111,Sector
+Mitchell,Construction,51,0.8173206038310619,Sector
+Mitchell,Services,74,0.3782554142631822,Sector
+Mitchell,Mining,44,0.49135043852407967,Sector
+Mitchell,Health_Care,65,0.2616607568263749,Sector
+Mitchell,EnergyExpL_Prod,93,0.8277503520668983,Sector
+Mitchell,Utilities,77,0.7883485806951522,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Medina,2059,0.5086349757611599,Overall
-Medina,Technology,169,0.8649637750637915,Sector
-Medina,Healthcare,161,0.09310001266942702,Sector
-Medina,Finance,176,0.3430219150050138,Sector
-Medina,Energy,184,0.5519826603808053,Sector
-Medina,Consumer Goods,221,0.07718617066338729,Sector
-Medina,Utilities,186,0.5555156333854403,Sector
-Medina,Real Estate,96,0.2603846030172663,Sector
-Medina,Telecommunications,192,0.17740368199675638,Sector
-Medina,Materials,195,0.07238349311043624,Sector
-Medina,Industrials,184,0.930714478982611,Sector
-Medina,Consumer Services,201,0.9233866720142773,Sector
-Medina,Transportation,94,0.7632617262935125,Sector
-Technology,Software,32,0.6251115410287975,Industry
-Technology,Hardware,68,0.9896787119804287,Industry
-Technology,IT Services,69,0.3639376235892615,Industry
-Healthcare,Pharmaceuticals,12,0.4864402071274122,Industry
-Healthcare,Medical Devices,67,0.6287085731096672,Industry
-Healthcare,Healthcare Services,82,0.9808075048248718,Industry
-Finance,Banking,31,0.3256434048399839,Industry
-Finance,Insurance,91,0.8823604758001656,Industry
-Finance,Investment Services,54,0.4141228237105513,Industry
-Energy,Oil & Gas,90,0.8841755504854818,Industry
-Energy,Renewable Energy,41,0.8335516821251623,Industry
-Energy,Energy Exploration,53,0.20914754532575042,Industry
-Consumer Goods,Food & Beverage,58,0.7679434766003785,Industry
-Consumer Goods,Household Products,90,0.9440763716773973,Industry
-Consumer Goods,Apparel,73,0.3962258673154626,Industry
-Utilities,Electric,82,0.554586814770271,Industry
-Utilities,Water,28,0.41691296574239156,Industry
-Utilities,Gas,76,0.5940852907325661,Industry
-Real Estate,Residential,40,0.0019261249295539074,Industry
-Real Estate,Commercial,18,0.07373290484997674,Industry
-Real Estate,Industrial,38,0.9259183216401148,Industry
-Telecommunications,Mobile,29,0.660502650444483,Industry
-Telecommunications,Broadband,70,0.40561948775218437,Industry
-Telecommunications,Satellite,93,0.43226977457743454,Industry
-Materials,Chemicals,39,0.7377320134871291,Industry
-Materials,Metals & Mining,86,0.7735145699204407,Industry
-Materials,Construction Materials,70,0.7006784941211457,Industry
-Industrials,Aerospace & Defense,6,0.696775855987214,Industry
-Industrials,Machinery,99,0.09649906281196463,Industry
-Industrials,Industrial Services,79,0.5884648510397953,Industry
-Consumer Services,Retail,46,0.9281237572792844,Industry
-Consumer Services,Travel & Leisure,93,0.9356596913790743,Industry
-Consumer Services,Media,62,0.33657528968015693,Industry
-Transportation,Airlines,54,0.37466037038942646,Industry
-Transportation,Railroads,2,0.8843131462488362,Industry
-Transportation,Logistics,38,0.8667812251405026,Industry
+,Medina,566,0.5018852671946281,Overall
+Medina,HiTech,44,0.23038761387524687,Sector
+Medina,Agriculture,14,0.9076210650120821,Sector
+Medina,Transportation,37,0.26869442353278605,Sector
+Medina,Consumer_Products,29,0.5605486275700663,Sector
+Medina,Unassigned,62,0.8036115361083819,Sector
+Medina,Communication,49,0.3385882536753362,Sector
+Medina,Trade,48,0.9372206651187817,Sector
+Medina,Business_Services,45,0.7483900789418936,Sector
+Medina,Business_Products,84,0.1872035029065009,Sector
+Medina,Construction,61,0.047429903172761634,Sector
+Medina,Services,13,0.5085036159853266,Sector
+Medina,Mining,63,0.1439002204289046,Sector
+Medina,Health_Care,15,0.4440581362392707,Sector
+Medina,EnergyExpL_Prod,0,0.8443112231269552,Sector
+Medina,Utilities,2,0.5578101422251266,Sector

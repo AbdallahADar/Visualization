@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Coffee,1805,0.25919028975405345,Overall
-Coffee,Technology,117,0.11544894402552519,Sector
-Coffee,Healthcare,133,0.6851070894431261,Sector
-Coffee,Finance,213,0.12753312408370188,Sector
-Coffee,Energy,167,0.1615959013382091,Sector
-Coffee,Consumer Goods,252,0.24082791813055904,Sector
-Coffee,Utilities,200,0.3126515613635472,Sector
-Coffee,Real Estate,128,0.28383930590209805,Sector
-Coffee,Telecommunications,64,0.4952269280916919,Sector
-Coffee,Materials,137,0.4129529699512754,Sector
-Coffee,Industrials,124,0.49452685194163837,Sector
-Coffee,Consumer Services,153,0.3351765865735119,Sector
-Coffee,Transportation,117,0.5199281770110682,Sector
-Technology,Software,2,0.30015143729647875,Industry
-Technology,Hardware,82,0.1952506040911356,Industry
-Technology,IT Services,33,0.16142478644946845,Industry
-Healthcare,Pharmaceuticals,29,0.7461531877841834,Industry
-Healthcare,Medical Devices,28,0.28547707373955167,Industry
-Healthcare,Healthcare Services,76,0.053520551987680576,Industry
-Finance,Banking,70,0.302852072171664,Industry
-Finance,Insurance,53,0.14694658951107098,Industry
-Finance,Investment Services,90,0.6345227179375298,Industry
-Energy,Oil & Gas,93,0.13105717809733752,Industry
-Energy,Renewable Energy,46,0.5054493869637134,Industry
-Energy,Energy Exploration,28,0.08238614884338735,Industry
-Consumer Goods,Food & Beverage,92,0.6628925506056085,Industry
-Consumer Goods,Household Products,89,0.994606415630763,Industry
-Consumer Goods,Apparel,71,0.10958729226145258,Industry
-Utilities,Electric,97,0.8624832693995481,Industry
-Utilities,Water,20,0.8388400954648191,Industry
-Utilities,Gas,83,0.3357002745022424,Industry
-Real Estate,Residential,11,0.36428171827516087,Industry
-Real Estate,Commercial,99,0.33782550602005335,Industry
-Real Estate,Industrial,18,0.955185585717572,Industry
-Telecommunications,Mobile,6,0.9818608500075772,Industry
-Telecommunications,Broadband,6,0.5415583039603219,Industry
-Telecommunications,Satellite,52,0.07307202322509332,Industry
-Materials,Chemicals,28,0.6180550161022704,Industry
-Materials,Metals & Mining,76,0.9568302565792611,Industry
-Materials,Construction Materials,33,0.09479268120416806,Industry
-Industrials,Aerospace & Defense,31,0.6231457726149685,Industry
-Industrials,Machinery,55,0.9079744582809052,Industry
-Industrials,Industrial Services,38,0.15861827472577827,Industry
-Consumer Services,Retail,8,0.7737989909746988,Industry
-Consumer Services,Travel & Leisure,65,0.42361353586081407,Industry
-Consumer Services,Media,80,0.9503427019118252,Industry
-Transportation,Airlines,53,0.03774757947092244,Industry
-Transportation,Railroads,26,0.7560043838049809,Industry
-Transportation,Logistics,38,0.15648374243649565,Industry
+,Coffee,632,0.4512844788192253,Overall
+Coffee,HiTech,30,0.18046100553458133,Sector
+Coffee,Agriculture,78,0.40361323081262723,Sector
+Coffee,Transportation,8,0.12762309961072416,Sector
+Coffee,Consumer_Products,75,0.8492597965286794,Sector
+Coffee,Unassigned,31,0.4532484019449514,Sector
+Coffee,Communication,49,0.42482258976190146,Sector
+Coffee,Trade,31,0.5739198489684313,Sector
+Coffee,Business_Services,38,0.3495699144642205,Sector
+Coffee,Business_Products,39,0.12134145407606212,Sector
+Coffee,Construction,46,0.5245403295006569,Sector
+Coffee,Services,6,0.6048269317959583,Sector
+Coffee,Mining,17,0.7941402126592545,Sector
+Coffee,Health_Care,90,0.2652089435552957,Sector
+Coffee,EnergyExpL_Prod,29,0.4780396744697043,Sector
+Coffee,Utilities,65,0.6186517486053321,Sector

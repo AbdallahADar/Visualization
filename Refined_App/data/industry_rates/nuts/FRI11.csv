@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dordogne,1735,0.04615728885819559,Overall
-Dordogne,Technology,199,0.8081637286204282,Sector
-Dordogne,Healthcare,162,0.7140468743446642,Sector
-Dordogne,Finance,111,0.8497534708887632,Sector
-Dordogne,Energy,165,0.9445261219453407,Sector
-Dordogne,Consumer Goods,115,0.35573229210632884,Sector
-Dordogne,Utilities,113,0.6836098710270164,Sector
-Dordogne,Real Estate,142,0.34289991269980713,Sector
-Dordogne,Telecommunications,218,0.5189014795786897,Sector
-Dordogne,Materials,82,0.5468598588019407,Sector
-Dordogne,Industrials,208,0.08502002799149477,Sector
-Dordogne,Consumer Services,95,0.4856232887243406,Sector
-Dordogne,Transportation,125,0.3392212685380577,Sector
-Technology,Software,59,0.8713646161854147,Industry
-Technology,Hardware,58,0.4749111115370851,Industry
-Technology,IT Services,82,0.2740303113704403,Industry
-Healthcare,Pharmaceuticals,43,0.4657428526754942,Industry
-Healthcare,Medical Devices,63,0.535882548626187,Industry
-Healthcare,Healthcare Services,56,0.7426010512934124,Industry
-Finance,Banking,5,0.8803896795080517,Industry
-Finance,Insurance,54,0.23768740779178932,Industry
-Finance,Investment Services,52,0.5169348926028114,Industry
-Energy,Oil & Gas,17,0.5148448965997765,Industry
-Energy,Renewable Energy,93,0.49455912735100727,Industry
-Energy,Energy Exploration,55,0.02545877256844742,Industry
-Consumer Goods,Food & Beverage,66,0.5900571036057116,Industry
-Consumer Goods,Household Products,37,0.3311276493875104,Industry
-Consumer Goods,Apparel,12,0.47451425078644816,Industry
-Utilities,Electric,4,0.7238702655923599,Industry
-Utilities,Water,96,0.586468849595398,Industry
-Utilities,Gas,13,0.9467884964509587,Industry
-Real Estate,Residential,56,0.3495432117199406,Industry
-Real Estate,Commercial,52,0.857328035937445,Industry
-Real Estate,Industrial,34,0.6787394480689354,Industry
-Telecommunications,Mobile,53,0.21763703030075576,Industry
-Telecommunications,Broadband,74,0.7714393074374644,Industry
-Telecommunications,Satellite,91,0.17580567099494182,Industry
-Materials,Chemicals,65,0.49087801774768425,Industry
-Materials,Metals & Mining,3,0.08421441552546782,Industry
-Materials,Construction Materials,14,0.3098289634071386,Industry
-Industrials,Aerospace & Defense,81,0.36617359130440097,Industry
-Industrials,Machinery,69,0.3871100333534049,Industry
-Industrials,Industrial Services,58,0.2498262821539574,Industry
-Consumer Services,Retail,35,0.3512256382531418,Industry
-Consumer Services,Travel & Leisure,44,0.9083581914955362,Industry
-Consumer Services,Media,16,0.34957200482576445,Industry
-Transportation,Airlines,13,0.09317638015918395,Industry
-Transportation,Railroads,34,0.11060413624997967,Industry
-Transportation,Logistics,78,0.7368536973391943,Industry
+,Dordogne,566,0.5001062943476641,Overall
+Dordogne,HiTech,13,0.057750124443457174,Sector
+Dordogne,Agriculture,41,0.6530606835272005,Sector
+Dordogne,Transportation,12,0.017125196821802025,Sector
+Dordogne,Consumer_Products,43,0.5613022028304452,Sector
+Dordogne,Unassigned,73,0.647125967552155,Sector
+Dordogne,Communication,38,0.9907101162555075,Sector
+Dordogne,Trade,12,0.7669516712825235,Sector
+Dordogne,Business_Services,19,0.4041901674975503,Sector
+Dordogne,Business_Products,5,0.4669296935023505,Sector
+Dordogne,Construction,71,0.7268088349189422,Sector
+Dordogne,Services,50,0.24334994630717588,Sector
+Dordogne,Mining,32,0.052437173071231746,Sector
+Dordogne,Health_Care,65,0.8094450906098478,Sector
+Dordogne,EnergyExpL_Prod,69,0.46635337922331577,Sector
+Dordogne,Utilities,23,0.6380541673714575,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cowlitz,1458,0.5105165647707036,Overall
-Cowlitz,Technology,96,0.8647896637333794,Sector
-Cowlitz,Healthcare,68,0.5695550563314002,Sector
-Cowlitz,Finance,116,0.18582916818690864,Sector
-Cowlitz,Energy,139,0.8872654471648129,Sector
-Cowlitz,Consumer Goods,113,0.1542676855601698,Sector
-Cowlitz,Utilities,173,0.7279875030036006,Sector
-Cowlitz,Real Estate,148,0.9388192217497138,Sector
-Cowlitz,Telecommunications,82,0.375109392399671,Sector
-Cowlitz,Materials,113,0.6270397618448271,Sector
-Cowlitz,Industrials,99,0.9487611597909467,Sector
-Cowlitz,Consumer Services,187,0.9844590082504442,Sector
-Cowlitz,Transportation,124,0.6560243858114685,Sector
-Technology,Software,87,0.6931951860885497,Industry
-Technology,Hardware,8,0.48472715420062995,Industry
-Technology,IT Services,1,0.3362446530759823,Industry
-Healthcare,Pharmaceuticals,17,0.58761407061847,Industry
-Healthcare,Medical Devices,13,0.17777930525530816,Industry
-Healthcare,Healthcare Services,38,0.4371343283748522,Industry
-Finance,Banking,2,0.6099034007885685,Industry
-Finance,Insurance,54,0.9677959676351516,Industry
-Finance,Investment Services,60,0.5947992493333187,Industry
-Energy,Oil & Gas,71,0.3719128234133765,Industry
-Energy,Renewable Energy,4,0.21480322155184184,Industry
-Energy,Energy Exploration,64,0.4655152451483644,Industry
-Consumer Goods,Food & Beverage,62,0.4257782363839866,Industry
-Consumer Goods,Household Products,51,0.9755769650044771,Industry
-Consumer Goods,Apparel,0,0.30523108601390214,Industry
-Utilities,Electric,99,0.01944293909699013,Industry
-Utilities,Water,33,0.41424616701115924,Industry
-Utilities,Gas,41,0.01593299503754031,Industry
-Real Estate,Residential,22,0.37165622086399697,Industry
-Real Estate,Commercial,46,0.2247817496756619,Industry
-Real Estate,Industrial,80,0.2008209959311773,Industry
-Telecommunications,Mobile,15,0.9238120285035123,Industry
-Telecommunications,Broadband,5,0.7725623301093989,Industry
-Telecommunications,Satellite,62,0.53661145723764,Industry
-Materials,Chemicals,85,0.0692691679839812,Industry
-Materials,Metals & Mining,19,0.45068063125775704,Industry
-Materials,Construction Materials,9,0.47191823314629644,Industry
-Industrials,Aerospace & Defense,36,0.5698316521170451,Industry
-Industrials,Machinery,38,0.19060985460392565,Industry
-Industrials,Industrial Services,25,0.6221352275145298,Industry
-Consumer Services,Retail,66,0.2267631081374849,Industry
-Consumer Services,Travel & Leisure,36,0.5236368008629378,Industry
-Consumer Services,Media,85,0.7000337674693934,Industry
-Transportation,Airlines,26,0.6537100353042624,Industry
-Transportation,Railroads,37,0.49626417651402466,Industry
-Transportation,Logistics,61,0.7627441682407956,Industry
+,Cowlitz,530,0.46334934795331695,Overall
+Cowlitz,HiTech,6,0.4648206116668898,Sector
+Cowlitz,Agriculture,75,0.16528377137343164,Sector
+Cowlitz,Transportation,49,0.6214355576547868,Sector
+Cowlitz,Consumer_Products,35,0.06607545145021876,Sector
+Cowlitz,Unassigned,11,0.010640318894337697,Sector
+Cowlitz,Communication,81,0.9499187538540427,Sector
+Cowlitz,Trade,56,0.21054326614896768,Sector
+Cowlitz,Business_Services,35,0.3073474046424999,Sector
+Cowlitz,Business_Products,52,0.414644756546503,Sector
+Cowlitz,Construction,28,0.9308965112155759,Sector
+Cowlitz,Services,1,0.857263128011626,Sector
+Cowlitz,Mining,57,0.6278829759024125,Sector
+Cowlitz,Health_Care,15,0.6994324928538753,Sector
+Cowlitz,EnergyExpL_Prod,2,0.31355971662525883,Sector
+Cowlitz,Utilities,27,0.3104955024593291,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Santa Fe,1875,0.9084435318572504,Overall
-Santa Fe,Technology,126,0.017575527361006538,Sector
-Santa Fe,Healthcare,103,0.2571172650145419,Sector
-Santa Fe,Finance,196,0.1662869721387975,Sector
-Santa Fe,Energy,138,0.4836096718234366,Sector
-Santa Fe,Consumer Goods,227,0.27303239322755923,Sector
-Santa Fe,Utilities,124,0.5134036326479371,Sector
-Santa Fe,Real Estate,180,0.3560283211874333,Sector
-Santa Fe,Telecommunications,118,0.1880602934690212,Sector
-Santa Fe,Materials,206,0.26058511553551544,Sector
-Santa Fe,Industrials,194,0.6348476883598219,Sector
-Santa Fe,Consumer Services,85,0.6656938670186361,Sector
-Santa Fe,Transportation,178,0.41128998372586467,Sector
-Technology,Software,51,0.007408357093779738,Industry
-Technology,Hardware,16,0.9980654080519796,Industry
-Technology,IT Services,59,0.2286215211595627,Industry
-Healthcare,Pharmaceuticals,9,0.14953756757738101,Industry
-Healthcare,Medical Devices,30,0.07089979814534364,Industry
-Healthcare,Healthcare Services,64,0.5490370517592422,Industry
-Finance,Banking,77,0.4549559348789698,Industry
-Finance,Insurance,28,0.7784089779317274,Industry
-Finance,Investment Services,91,0.7411454028136453,Industry
-Energy,Oil & Gas,22,0.7164159001927078,Industry
-Energy,Renewable Energy,34,0.9068247578365223,Industry
-Energy,Energy Exploration,82,0.9753922785435044,Industry
-Consumer Goods,Food & Beverage,50,0.41494570166830136,Industry
-Consumer Goods,Household Products,83,0.8874768778908952,Industry
-Consumer Goods,Apparel,94,0.3901774683757536,Industry
-Utilities,Electric,28,0.9659253037303773,Industry
-Utilities,Water,53,0.7091689235927527,Industry
-Utilities,Gas,43,0.9259858191064986,Industry
-Real Estate,Residential,97,0.49573881284423316,Industry
-Real Estate,Commercial,0,0.49452663625696414,Industry
-Real Estate,Industrial,83,0.13083837365510853,Industry
-Telecommunications,Mobile,81,0.8291781938033265,Industry
-Telecommunications,Broadband,6,0.9580214932001947,Industry
-Telecommunications,Satellite,31,0.32392839433396603,Industry
-Materials,Chemicals,48,0.14769917906717545,Industry
-Materials,Metals & Mining,89,0.6113677267937812,Industry
-Materials,Construction Materials,69,0.14683013711540216,Industry
-Industrials,Aerospace & Defense,78,0.6973918715624399,Industry
-Industrials,Machinery,98,0.917607911412786,Industry
-Industrials,Industrial Services,18,0.3920439257412124,Industry
-Consumer Services,Retail,3,0.06355098438132634,Industry
-Consumer Services,Travel & Leisure,3,0.6828541636204714,Industry
-Consumer Services,Media,79,0.5431345036912777,Industry
-Transportation,Airlines,55,0.03745052618631617,Industry
-Transportation,Railroads,99,0.5536694511381535,Industry
-Transportation,Logistics,24,0.0973634444589796,Industry
+,Santa Fe,775,0.4492738353427782,Overall
+Santa Fe,HiTech,94,0.16491054238777947,Sector
+Santa Fe,Agriculture,30,0.6578106366327062,Sector
+Santa Fe,Transportation,22,0.15984423926317037,Sector
+Santa Fe,Consumer_Products,64,0.18865730839135242,Sector
+Santa Fe,Unassigned,75,0.6375634527026793,Sector
+Santa Fe,Communication,96,0.9489512096985179,Sector
+Santa Fe,Trade,16,0.14802931779038508,Sector
+Santa Fe,Business_Services,61,0.7852977462252861,Sector
+Santa Fe,Business_Products,48,0.828520804293551,Sector
+Santa Fe,Construction,35,0.3079644563089057,Sector
+Santa Fe,Services,40,0.07776081474290764,Sector
+Santa Fe,Mining,74,0.4297288757929748,Sector
+Santa Fe,Health_Care,37,0.2310119115652437,Sector
+Santa Fe,EnergyExpL_Prod,25,0.3918672966889062,Sector
+Santa Fe,Utilities,58,0.7811889176573085,Sector

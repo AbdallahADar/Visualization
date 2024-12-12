@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Thurgau,1579,0.38515331343558823,Overall
-Thurgau,Technology,81,0.20833665064385054,Sector
-Thurgau,Healthcare,162,0.307799001093534,Sector
-Thurgau,Finance,169,0.7862103787445522,Sector
-Thurgau,Energy,79,0.600621327168602,Sector
-Thurgau,Consumer Goods,220,0.8090741722123852,Sector
-Thurgau,Utilities,104,0.467465092345164,Sector
-Thurgau,Real Estate,74,0.13855608954238163,Sector
-Thurgau,Telecommunications,166,0.8682586492281804,Sector
-Thurgau,Materials,137,0.8473304032148988,Sector
-Thurgau,Industrials,118,0.36106341546625864,Sector
-Thurgau,Consumer Services,120,0.2783286733096637,Sector
-Thurgau,Transportation,149,0.9856470609491036,Sector
-Technology,Software,45,0.3710441504163966,Industry
-Technology,Hardware,3,0.17416955410013624,Industry
-Technology,IT Services,33,0.5758142859760856,Industry
-Healthcare,Pharmaceuticals,65,0.9847097681171508,Industry
-Healthcare,Medical Devices,92,0.38323205339939637,Industry
-Healthcare,Healthcare Services,5,0.2248563770693759,Industry
-Finance,Banking,20,0.8610536436207117,Industry
-Finance,Insurance,79,0.015612270658596827,Industry
-Finance,Investment Services,70,0.25549251185262845,Industry
-Energy,Oil & Gas,47,0.4840110900159693,Industry
-Energy,Renewable Energy,1,0.3201311366334332,Industry
-Energy,Energy Exploration,31,0.1682145348639562,Industry
-Consumer Goods,Food & Beverage,76,0.2995849411767971,Industry
-Consumer Goods,Household Products,65,0.641791003241774,Industry
-Consumer Goods,Apparel,79,0.9946906149678066,Industry
-Utilities,Electric,49,0.7961360902846402,Industry
-Utilities,Water,52,0.6660321998631656,Industry
-Utilities,Gas,3,0.9374734340885001,Industry
-Real Estate,Residential,31,0.2367537447066307,Industry
-Real Estate,Commercial,23,0.9505798035969474,Industry
-Real Estate,Industrial,20,0.05535584189721676,Industry
-Telecommunications,Mobile,66,0.9730338020579808,Industry
-Telecommunications,Broadband,46,0.30036132495996903,Industry
-Telecommunications,Satellite,54,0.6099155441704358,Industry
-Materials,Chemicals,95,0.7515122102272274,Industry
-Materials,Metals & Mining,26,0.5065345259481189,Industry
-Materials,Construction Materials,16,0.7475566838338656,Industry
-Industrials,Aerospace & Defense,21,0.13562660732339982,Industry
-Industrials,Machinery,90,0.8560579413860182,Industry
-Industrials,Industrial Services,7,0.35473483277149653,Industry
-Consumer Services,Retail,27,0.45139092870289,Industry
-Consumer Services,Travel & Leisure,80,0.35226703861873876,Industry
-Consumer Services,Media,13,0.8684974498910812,Industry
-Transportation,Airlines,93,0.6227720828671197,Industry
-Transportation,Railroads,48,0.3156760674615102,Industry
-Transportation,Logistics,8,0.12471066886222049,Industry
+,Thurgau,738,0.45576294479474694,Overall
+Thurgau,HiTech,42,0.03575024185308029,Sector
+Thurgau,Agriculture,23,0.350835753150187,Sector
+Thurgau,Transportation,38,0.11307329709121294,Sector
+Thurgau,Consumer_Products,39,0.2832125700406446,Sector
+Thurgau,Unassigned,35,0.48723903586322836,Sector
+Thurgau,Communication,62,0.40184236263538775,Sector
+Thurgau,Trade,59,0.6203408475991982,Sector
+Thurgau,Business_Services,5,0.9458653540482769,Sector
+Thurgau,Business_Products,31,0.5547900161685997,Sector
+Thurgau,Construction,61,0.48799840985849274,Sector
+Thurgau,Services,99,0.15178337427024413,Sector
+Thurgau,Mining,98,0.9092477429176793,Sector
+Thurgau,Health_Care,36,0.5054791958551191,Sector
+Thurgau,EnergyExpL_Prod,51,0.812112649118239,Sector
+Thurgau,Utilities,59,0.1768733214516136,Sector

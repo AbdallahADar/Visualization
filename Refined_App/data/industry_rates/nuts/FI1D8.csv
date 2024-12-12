@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kainuu,2017,0.10014997242512769,Overall
-Kainuu,Technology,182,0.11818065761438012,Sector
-Kainuu,Healthcare,177,0.8050867486008568,Sector
-Kainuu,Finance,123,0.17803621480305076,Sector
-Kainuu,Energy,55,0.3736983168656879,Sector
-Kainuu,Consumer Goods,239,0.6391532578555846,Sector
-Kainuu,Utilities,42,0.369629738043477,Sector
-Kainuu,Real Estate,238,0.9392524703105043,Sector
-Kainuu,Telecommunications,142,0.012492761857779144,Sector
-Kainuu,Materials,199,0.5410589569569377,Sector
-Kainuu,Industrials,180,0.5053776576997863,Sector
-Kainuu,Consumer Services,184,0.4463532180675067,Sector
-Kainuu,Transportation,256,0.021214088944951914,Sector
-Technology,Software,88,0.8604571579484145,Industry
-Technology,Hardware,26,0.7717623386927689,Industry
-Technology,IT Services,68,0.8170305624825724,Industry
-Healthcare,Pharmaceuticals,38,0.7237885619672726,Industry
-Healthcare,Medical Devices,84,0.36859716316189584,Industry
-Healthcare,Healthcare Services,55,0.7076417706265921,Industry
-Finance,Banking,2,0.5837568629292896,Industry
-Finance,Insurance,41,0.021969950619915468,Industry
-Finance,Investment Services,80,0.8734979746456863,Industry
-Energy,Oil & Gas,32,0.4960558736662243,Industry
-Energy,Renewable Energy,21,0.9825443603723466,Industry
-Energy,Energy Exploration,2,0.21762356190175458,Industry
-Consumer Goods,Food & Beverage,74,0.2943864952558741,Industry
-Consumer Goods,Household Products,70,0.1334371817826283,Industry
-Consumer Goods,Apparel,95,0.31018252118058875,Industry
-Utilities,Electric,21,0.2538612753502638,Industry
-Utilities,Water,8,0.8519143584425969,Industry
-Utilities,Gas,13,0.3975972604772203,Industry
-Real Estate,Residential,93,0.7895427643936764,Industry
-Real Estate,Commercial,67,0.16153275577388326,Industry
-Real Estate,Industrial,78,0.3258942568837443,Industry
-Telecommunications,Mobile,40,0.5472166965934103,Industry
-Telecommunications,Broadband,50,0.7600194529505504,Industry
-Telecommunications,Satellite,52,0.9182227168252189,Industry
-Materials,Chemicals,72,0.4084310356233052,Industry
-Materials,Metals & Mining,82,0.7948868354445106,Industry
-Materials,Construction Materials,45,0.3559607914934768,Industry
-Industrials,Aerospace & Defense,83,0.4498710318444832,Industry
-Industrials,Machinery,34,0.9002709132373111,Industry
-Industrials,Industrial Services,63,0.5422700043402802,Industry
-Consumer Services,Retail,93,0.8026280141041977,Industry
-Consumer Services,Travel & Leisure,28,0.18605697085668038,Industry
-Consumer Services,Media,63,0.17564046837170544,Industry
-Transportation,Airlines,69,0.02565990366103188,Industry
-Transportation,Railroads,89,0.18688628372105576,Industry
-Transportation,Logistics,98,0.8038433918332903,Industry
+,Kainuu,793,0.636489796597503,Overall
+Kainuu,HiTech,41,0.6678164662368913,Sector
+Kainuu,Agriculture,62,0.7645738077748309,Sector
+Kainuu,Transportation,58,0.31243982748985655,Sector
+Kainuu,Consumer_Products,25,0.21538656403214262,Sector
+Kainuu,Unassigned,46,0.736463503081216,Sector
+Kainuu,Communication,33,0.5906740971504304,Sector
+Kainuu,Trade,9,0.8607059531141901,Sector
+Kainuu,Business_Services,25,0.4612741117215068,Sector
+Kainuu,Business_Products,63,0.9094428072365195,Sector
+Kainuu,Construction,82,0.8071321182754249,Sector
+Kainuu,Services,80,0.9275428566407874,Sector
+Kainuu,Mining,99,0.3262163174243896,Sector
+Kainuu,Health_Care,15,0.979072391010852,Sector
+Kainuu,EnergyExpL_Prod,93,0.12020905853989527,Sector
+Kainuu,Utilities,62,0.8683970692336105,Sector

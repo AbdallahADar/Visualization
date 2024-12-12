@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Doña Ana,1759,0.14263441655498266,Overall
-Doña Ana,Technology,90,0.04382465599337104,Sector
-Doña Ana,Healthcare,112,0.171087448675313,Sector
-Doña Ana,Finance,122,0.5699488875540649,Sector
-Doña Ana,Energy,122,0.7303960600366884,Sector
-Doña Ana,Consumer Goods,251,0.013037541672320296,Sector
-Doña Ana,Utilities,228,0.4858540032384918,Sector
-Doña Ana,Real Estate,42,0.4934167253937485,Sector
-Doña Ana,Telecommunications,128,0.5569295728306518,Sector
-Doña Ana,Materials,230,0.856464666978509,Sector
-Doña Ana,Industrials,148,0.7732965408236094,Sector
-Doña Ana,Consumer Services,189,0.08334157819212662,Sector
-Doña Ana,Transportation,97,0.4626585134454374,Sector
-Technology,Software,36,0.9574208296662764,Industry
-Technology,Hardware,19,0.43338407527055844,Industry
-Technology,IT Services,35,0.5285479297614821,Industry
-Healthcare,Pharmaceuticals,15,0.3408605459447738,Industry
-Healthcare,Medical Devices,70,0.917872692622415,Industry
-Healthcare,Healthcare Services,27,0.011616845059371661,Industry
-Finance,Banking,47,0.17535357419952669,Industry
-Finance,Insurance,2,0.7153657312378299,Industry
-Finance,Investment Services,73,0.8253675435803152,Industry
-Energy,Oil & Gas,79,0.010395186663715195,Industry
-Energy,Renewable Energy,17,0.8450946885246008,Industry
-Energy,Energy Exploration,26,0.06739944867734637,Industry
-Consumer Goods,Food & Beverage,88,0.8319566211263159,Industry
-Consumer Goods,Household Products,92,0.3431540044666458,Industry
-Consumer Goods,Apparel,71,0.36399153045539967,Industry
-Utilities,Electric,94,0.28810188420759986,Industry
-Utilities,Water,57,0.3905215145089853,Industry
-Utilities,Gas,77,0.07580477634656613,Industry
-Real Estate,Residential,5,0.00104296462444875,Industry
-Real Estate,Commercial,21,0.702467320417754,Industry
-Real Estate,Industrial,16,0.9218601804223351,Industry
-Telecommunications,Mobile,42,0.21161194025764118,Industry
-Telecommunications,Broadband,59,0.5087256443782433,Industry
-Telecommunications,Satellite,27,0.9732795990561924,Industry
-Materials,Chemicals,61,0.13483255745403921,Industry
-Materials,Metals & Mining,72,0.49621803714430557,Industry
-Materials,Construction Materials,97,0.6189973357676894,Industry
-Industrials,Aerospace & Defense,65,0.9513063098798105,Industry
-Industrials,Machinery,82,0.9463140521571898,Industry
-Industrials,Industrial Services,1,0.44456025236667396,Industry
-Consumer Services,Retail,56,0.2905586239677692,Industry
-Consumer Services,Travel & Leisure,38,0.7513010983282793,Industry
-Consumer Services,Media,95,0.40217355086366435,Industry
-Transportation,Airlines,15,0.6932640109785432,Industry
-Transportation,Railroads,20,0.867078442790061,Industry
-Transportation,Logistics,62,0.7269513358451836,Industry
+,Doña Ana,763,0.4342231469309242,Overall
+Doña Ana,HiTech,70,0.5832120826035984,Sector
+Doña Ana,Agriculture,13,0.4073792998698462,Sector
+Doña Ana,Transportation,58,0.26548405764196414,Sector
+Doña Ana,Consumer_Products,87,0.5905310034402894,Sector
+Doña Ana,Unassigned,50,0.07430903796044364,Sector
+Doña Ana,Communication,96,0.23521509768640947,Sector
+Doña Ana,Trade,23,0.2822876900274718,Sector
+Doña Ana,Business_Services,56,0.07390678926028971,Sector
+Doña Ana,Business_Products,37,0.6751919933342033,Sector
+Doña Ana,Construction,62,0.5774054437811995,Sector
+Doña Ana,Services,15,0.07861361648059195,Sector
+Doña Ana,Mining,68,0.8973785785618179,Sector
+Doña Ana,Health_Care,32,0.7377372026460002,Sector
+Doña Ana,EnergyExpL_Prod,5,0.7421069411019232,Sector
+Doña Ana,Utilities,91,0.29258836956781287,Sector

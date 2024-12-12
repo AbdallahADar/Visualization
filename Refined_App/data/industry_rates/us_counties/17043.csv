@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,DuPage,1987,0.06850136107164306,Overall
-DuPage,Technology,174,0.1580293301684832,Sector
-DuPage,Healthcare,213,0.6876440395358128,Sector
-DuPage,Finance,176,0.6101630773989086,Sector
-DuPage,Energy,152,0.049845010668067125,Sector
-DuPage,Consumer Goods,139,0.9830801393256279,Sector
-DuPage,Utilities,164,0.5736327491907588,Sector
-DuPage,Real Estate,190,0.998267084119887,Sector
-DuPage,Telecommunications,133,0.8127055685948396,Sector
-DuPage,Materials,93,0.1757989462235231,Sector
-DuPage,Industrials,123,0.9041136292711025,Sector
-DuPage,Consumer Services,212,0.6741629252218927,Sector
-DuPage,Transportation,218,0.5060370300017576,Sector
-Technology,Software,31,0.9201090616091407,Industry
-Technology,Hardware,86,0.7223643004455217,Industry
-Technology,IT Services,57,0.6653666410152271,Industry
-Healthcare,Pharmaceuticals,90,0.8914302761525308,Industry
-Healthcare,Medical Devices,34,0.2211354739024789,Industry
-Healthcare,Healthcare Services,89,0.6077125088522155,Industry
-Finance,Banking,27,0.4975759561687344,Industry
-Finance,Insurance,88,0.036375986012924355,Industry
-Finance,Investment Services,61,0.6999023133484003,Industry
-Energy,Oil & Gas,26,0.06697525669646398,Industry
-Energy,Renewable Energy,36,0.37291834252327183,Industry
-Energy,Energy Exploration,90,0.3762630888443891,Industry
-Consumer Goods,Food & Beverage,18,0.41273353231072196,Industry
-Consumer Goods,Household Products,53,0.3744544133607963,Industry
-Consumer Goods,Apparel,68,0.1799045209103256,Industry
-Utilities,Electric,94,0.9717283597292006,Industry
-Utilities,Water,11,0.45979990735220766,Industry
-Utilities,Gas,59,0.9207828949819674,Industry
-Real Estate,Residential,92,0.18416617411870884,Industry
-Real Estate,Commercial,71,0.7974115481420498,Industry
-Real Estate,Industrial,27,0.09099668965217633,Industry
-Telecommunications,Mobile,9,0.07476608961319042,Industry
-Telecommunications,Broadband,97,0.6497246957218028,Industry
-Telecommunications,Satellite,27,0.4698068494412876,Industry
-Materials,Chemicals,26,0.49258298514762855,Industry
-Materials,Metals & Mining,51,0.08663375703573739,Industry
-Materials,Construction Materials,16,0.8657131137424036,Industry
-Industrials,Aerospace & Defense,69,0.7073130305389519,Industry
-Industrials,Machinery,2,0.23952652773437588,Industry
-Industrials,Industrial Services,52,0.8083058037399274,Industry
-Consumer Services,Retail,59,0.8327183247387951,Industry
-Consumer Services,Travel & Leisure,68,0.25701976120889536,Industry
-Consumer Services,Media,85,0.7208522244607278,Industry
-Transportation,Airlines,61,0.1256181734743368,Industry
-Transportation,Railroads,69,0.5596710942714784,Industry
-Transportation,Logistics,88,0.5474558658770946,Industry
+,DuPage,621,0.4635103556025642,Overall
+DuPage,HiTech,93,0.2630867985610901,Sector
+DuPage,Agriculture,6,0.8670021659174784,Sector
+DuPage,Transportation,71,0.5958273547346457,Sector
+DuPage,Consumer_Products,17,0.1393292960330922,Sector
+DuPage,Unassigned,47,0.5442200635813523,Sector
+DuPage,Communication,36,0.40303618760196014,Sector
+DuPage,Trade,20,0.5721906982637068,Sector
+DuPage,Business_Services,56,0.02320365668409685,Sector
+DuPage,Business_Products,14,0.6332488344506683,Sector
+DuPage,Construction,91,0.06181618611108852,Sector
+DuPage,Services,43,0.4751030841387729,Sector
+DuPage,Mining,4,0.6858290482497404,Sector
+DuPage,Health_Care,21,0.502776184441042,Sector
+DuPage,EnergyExpL_Prod,81,0.8740620917097431,Sector
+DuPage,Utilities,21,0.3119236835599847,Sector

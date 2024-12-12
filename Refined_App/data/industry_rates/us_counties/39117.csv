@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Morrow,2058,0.915055513316862,Overall
-Morrow,Technology,225,0.0395862837009503,Sector
-Morrow,Healthcare,204,0.6264253585037838,Sector
-Morrow,Finance,151,0.48941954945326893,Sector
-Morrow,Energy,142,0.3731740578324584,Sector
-Morrow,Consumer Goods,174,0.32499268286216587,Sector
-Morrow,Utilities,238,0.13032846212091742,Sector
-Morrow,Real Estate,246,0.11452415709902619,Sector
-Morrow,Telecommunications,122,0.8262957703030187,Sector
-Morrow,Materials,134,0.5494273516705503,Sector
-Morrow,Industrials,137,0.9057045964492776,Sector
-Morrow,Consumer Services,126,0.38090675971011434,Sector
-Morrow,Transportation,159,0.4360628696006379,Sector
-Technology,Software,95,0.5239904247497164,Industry
-Technology,Hardware,90,0.6538162960294039,Industry
-Technology,IT Services,40,0.5449827403771198,Industry
-Healthcare,Pharmaceuticals,24,0.7111121303531939,Industry
-Healthcare,Medical Devices,86,0.027497692167531174,Industry
-Healthcare,Healthcare Services,94,0.9047622595367719,Industry
-Finance,Banking,8,0.19276692418876806,Industry
-Finance,Insurance,69,0.5424227093533895,Industry
-Finance,Investment Services,74,0.28070274874861145,Industry
-Energy,Oil & Gas,20,0.33000497356689584,Industry
-Energy,Renewable Energy,69,0.32056177874144764,Industry
-Energy,Energy Exploration,53,0.10787883373690221,Industry
-Consumer Goods,Food & Beverage,58,0.4365325182595583,Industry
-Consumer Goods,Household Products,27,0.1961525295330131,Industry
-Consumer Goods,Apparel,89,0.933735793978378,Industry
-Utilities,Electric,68,0.5076433758739158,Industry
-Utilities,Water,96,0.6654204346369923,Industry
-Utilities,Gas,74,0.08032239835629329,Industry
-Real Estate,Residential,93,0.30245231194708244,Industry
-Real Estate,Commercial,96,0.19090422374325844,Industry
-Real Estate,Industrial,57,0.028968529618305094,Industry
-Telecommunications,Mobile,10,0.1623321184135207,Industry
-Telecommunications,Broadband,16,0.548462420897135,Industry
-Telecommunications,Satellite,96,0.7921592563574321,Industry
-Materials,Chemicals,38,0.24271406123489214,Industry
-Materials,Metals & Mining,26,0.6743987719334229,Industry
-Materials,Construction Materials,70,0.3367759501218094,Industry
-Industrials,Aerospace & Defense,15,0.8184130370101231,Industry
-Industrials,Machinery,61,0.3134107903858968,Industry
-Industrials,Industrial Services,61,0.009280722752923798,Industry
-Consumer Services,Retail,45,0.9018752137014874,Industry
-Consumer Services,Travel & Leisure,23,0.8934063415827042,Industry
-Consumer Services,Media,58,0.565351679300118,Industry
-Transportation,Airlines,64,0.4711761027124486,Industry
-Transportation,Railroads,32,0.2987079927615893,Industry
-Transportation,Logistics,63,0.4969916362467267,Industry
+,Morrow,731,0.5164983542798782,Overall
+Morrow,HiTech,2,0.6436335764042305,Sector
+Morrow,Agriculture,89,0.12350230896574155,Sector
+Morrow,Transportation,66,0.8856317525125296,Sector
+Morrow,Consumer_Products,83,0.8004139206387975,Sector
+Morrow,Unassigned,47,0.29797948103711625,Sector
+Morrow,Communication,10,0.07372397493775218,Sector
+Morrow,Trade,37,0.21602109866691277,Sector
+Morrow,Business_Services,82,0.8396492517375069,Sector
+Morrow,Business_Products,92,0.8603581390617983,Sector
+Morrow,Construction,44,0.18247102901044632,Sector
+Morrow,Services,20,0.8621798864416185,Sector
+Morrow,Mining,57,0.2855190749282095,Sector
+Morrow,Health_Care,19,0.3180882600574625,Sector
+Morrow,EnergyExpL_Prod,25,0.8087889141115788,Sector
+Morrow,Utilities,58,0.5495146456864737,Sector

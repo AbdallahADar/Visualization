@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ardèche,1667,0.8197378397175727,Overall
-Ardèche,Technology,173,0.02298991107816828,Sector
-Ardèche,Healthcare,219,0.03229741897320926,Sector
-Ardèche,Finance,104,0.17146857863509934,Sector
-Ardèche,Energy,118,0.22150911193781975,Sector
-Ardèche,Consumer Goods,106,0.18202779459325902,Sector
-Ardèche,Utilities,167,0.9714904124022985,Sector
-Ardèche,Real Estate,120,0.5689322180169244,Sector
-Ardèche,Telecommunications,215,0.8968671084717071,Sector
-Ardèche,Materials,132,0.19626913580189786,Sector
-Ardèche,Industrials,122,0.43911822677128476,Sector
-Ardèche,Consumer Services,73,0.5021111799649807,Sector
-Ardèche,Transportation,118,0.7858410131149186,Sector
-Technology,Software,92,0.22795521562252563,Industry
-Technology,Hardware,19,0.06627856543043842,Industry
-Technology,IT Services,62,0.5007429639648439,Industry
-Healthcare,Pharmaceuticals,65,0.983284562042913,Industry
-Healthcare,Medical Devices,63,0.6412506734955996,Industry
-Healthcare,Healthcare Services,91,0.4343320571242786,Industry
-Finance,Banking,37,0.8803041229331925,Industry
-Finance,Insurance,66,0.036455251677364076,Industry
-Finance,Investment Services,1,0.8320552714475729,Industry
-Energy,Oil & Gas,19,0.6100541946560503,Industry
-Energy,Renewable Energy,7,0.7072294370114549,Industry
-Energy,Energy Exploration,92,0.6232207380700905,Industry
-Consumer Goods,Food & Beverage,47,0.06648896353085165,Industry
-Consumer Goods,Household Products,11,0.6127599992516115,Industry
-Consumer Goods,Apparel,48,0.932623555297379,Industry
-Utilities,Electric,49,0.13970503227480724,Industry
-Utilities,Water,87,0.8845430384411569,Industry
-Utilities,Gas,31,0.3076947565639835,Industry
-Real Estate,Residential,64,0.5807845230032412,Industry
-Real Estate,Commercial,55,0.6484052597301068,Industry
-Real Estate,Industrial,1,0.7782200721273481,Industry
-Telecommunications,Mobile,50,0.10913721982396174,Industry
-Telecommunications,Broadband,86,0.09545165215590834,Industry
-Telecommunications,Satellite,79,0.3227433360686729,Industry
-Materials,Chemicals,61,0.19687888237431006,Industry
-Materials,Metals & Mining,39,0.17767034924296643,Industry
-Materials,Construction Materials,32,0.6494785489080201,Industry
-Industrials,Aerospace & Defense,43,0.21241313149554308,Industry
-Industrials,Machinery,5,0.29640694528195044,Industry
-Industrials,Industrial Services,74,0.22866258430970088,Industry
-Consumer Services,Retail,31,0.19490542275349965,Industry
-Consumer Services,Travel & Leisure,17,0.2162940250617723,Industry
-Consumer Services,Media,25,0.010675326240151661,Industry
-Transportation,Airlines,74,0.5668696442389279,Industry
-Transportation,Railroads,27,0.12605271308740507,Industry
-Transportation,Logistics,17,0.2519610609034587,Industry
+,Ardèche,731,0.6290053469821119,Overall
+Ardèche,HiTech,71,0.9412765756435844,Sector
+Ardèche,Agriculture,50,0.6819894252457596,Sector
+Ardèche,Transportation,14,0.795591757173946,Sector
+Ardèche,Consumer_Products,74,0.027456062898907674,Sector
+Ardèche,Unassigned,3,0.03657765842251692,Sector
+Ardèche,Communication,59,0.6296825005918999,Sector
+Ardèche,Trade,80,0.9446875382617521,Sector
+Ardèche,Business_Services,90,0.8139348934720095,Sector
+Ardèche,Business_Products,37,0.5601804439212344,Sector
+Ardèche,Construction,57,0.7815211142793933,Sector
+Ardèche,Services,10,0.39137470178647116,Sector
+Ardèche,Mining,86,0.02502483870466332,Sector
+Ardèche,Health_Care,72,0.919270356324782,Sector
+Ardèche,EnergyExpL_Prod,9,0.9326313058207343,Sector
+Ardèche,Utilities,19,0.9538810321840219,Sector

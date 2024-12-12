@@ -8,8 +8,12 @@ SEARCH_SELECTION_IDS = {
 
 GEO_FIGURE_IDS = {
     'overall-container' : 'geo-page',
+    'risk-container' : 'risk-container',
+    'growth-container' : 'growth-container',
     'geo-figure' : 'geo-plot',
     'sector-dropdown' : 'sector-dropdown',
+    'geo-figure-risk' : 'geo-plot-risk',
+    'risk-dropdown' : 'risk-dropdown',
 }
 
 SECTOR_NDY_FIGURE_IDS = {
@@ -29,11 +33,12 @@ TABLE_COLUMNS = {
     "name": "Name",
     "location":"Location",
     "sector":"Sector",
-    "ndy":"Industry",
+    # "ndy":"Industry",
     "size":"Size",
     "growth-propensity":"Growth",
-    "borrowing-propensity":"Borrow",
-    "shrinkage-propensity":"Shrink",
+    # "borrowing-propensity":"Borrow",
+    # "shrinkage-propensity":"Shrink",
+    "ir":"IR",
     "ews":"EWS",
     "nuts":"NUTS3_ID",
     "us_county":"COUNTY_ID",

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Alachua,1747,0.5269523479719487,Overall
-Alachua,Technology,237,0.1249387221379703,Sector
-Alachua,Healthcare,96,0.5605908954993051,Sector
-Alachua,Finance,114,0.5652438849460525,Sector
-Alachua,Energy,144,0.19178139259984384,Sector
-Alachua,Consumer Goods,119,0.17743272929000908,Sector
-Alachua,Utilities,156,0.32289271671234654,Sector
-Alachua,Real Estate,163,0.6864915299747382,Sector
-Alachua,Telecommunications,119,0.5346839409569802,Sector
-Alachua,Materials,125,0.9367725936111515,Sector
-Alachua,Industrials,170,0.2581517400690031,Sector
-Alachua,Consumer Services,96,0.9112001164883574,Sector
-Alachua,Transportation,208,0.05916421770100189,Sector
-Technology,Software,93,0.36738018024250263,Industry
-Technology,Hardware,91,0.6456161864846864,Industry
-Technology,IT Services,53,0.2522899167165087,Industry
-Healthcare,Pharmaceuticals,20,0.05072634056058978,Industry
-Healthcare,Medical Devices,16,0.5387324219259776,Industry
-Healthcare,Healthcare Services,60,0.1801465358705383,Industry
-Finance,Banking,46,0.5172817553349152,Industry
-Finance,Insurance,13,0.07961778661807761,Industry
-Finance,Investment Services,55,0.9617545426174151,Industry
-Energy,Oil & Gas,1,0.7625474400028714,Industry
-Energy,Renewable Energy,88,0.9843716474218887,Industry
-Energy,Energy Exploration,55,0.39656321602421396,Industry
-Consumer Goods,Food & Beverage,18,0.8060010598298487,Industry
-Consumer Goods,Household Products,72,0.513500912514049,Industry
-Consumer Goods,Apparel,29,0.14345694815600663,Industry
-Utilities,Electric,21,0.07113555676924699,Industry
-Utilities,Water,75,0.6808105236666958,Industry
-Utilities,Gas,60,0.7330714605112102,Industry
-Real Estate,Residential,94,0.7823334494858561,Industry
-Real Estate,Commercial,32,0.31167328020406904,Industry
-Real Estate,Industrial,37,0.4229351385329354,Industry
-Telecommunications,Mobile,80,0.7366097199659574,Industry
-Telecommunications,Broadband,20,0.08090467615337904,Industry
-Telecommunications,Satellite,19,0.5262083329994399,Industry
-Materials,Chemicals,17,0.7353153495955131,Industry
-Materials,Metals & Mining,23,0.6399853536552411,Industry
-Materials,Construction Materials,85,0.9689879355759132,Industry
-Industrials,Aerospace & Defense,47,0.7965480036616356,Industry
-Industrials,Machinery,82,0.45168316828715915,Industry
-Industrials,Industrial Services,41,0.6040021988224111,Industry
-Consumer Services,Retail,23,0.3154414758793763,Industry
-Consumer Services,Travel & Leisure,43,0.6384330577560884,Industry
-Consumer Services,Media,30,0.14033736204192504,Industry
-Transportation,Airlines,64,0.07577300931009145,Industry
-Transportation,Railroads,47,0.12106509939297716,Industry
-Transportation,Logistics,97,0.7994453681394541,Industry
+,Alachua,904,0.6255682697139814,Overall
+Alachua,HiTech,52,0.3091264784132691,Sector
+Alachua,Agriculture,53,0.3052614219673644,Sector
+Alachua,Transportation,86,0.9757429940476523,Sector
+Alachua,Consumer_Products,88,0.8167187886032677,Sector
+Alachua,Unassigned,17,0.9869542897139159,Sector
+Alachua,Communication,75,0.9564820172813218,Sector
+Alachua,Trade,71,0.20370725456202143,Sector
+Alachua,Business_Services,89,0.2836188982073169,Sector
+Alachua,Business_Products,35,0.10644125134729199,Sector
+Alachua,Construction,60,0.9608585802852042,Sector
+Alachua,Services,51,0.5493126737817445,Sector
+Alachua,Mining,72,0.8382370791657959,Sector
+Alachua,Health_Care,66,0.4692247560245253,Sector
+Alachua,EnergyExpL_Prod,67,0.9250111266755577,Sector
+Alachua,Utilities,22,0.6968264356334724,Sector

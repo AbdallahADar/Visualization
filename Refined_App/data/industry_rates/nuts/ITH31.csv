@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Verona,2099,0.5658604761493102,Overall
-Verona,Technology,159,0.2892968058634042,Sector
-Verona,Healthcare,270,0.4861811203698809,Sector
-Verona,Finance,194,0.6403009013751245,Sector
-Verona,Energy,221,0.4682615684474869,Sector
-Verona,Consumer Goods,181,0.14491239906627096,Sector
-Verona,Utilities,170,0.775694846866114,Sector
-Verona,Real Estate,154,0.8891377139911069,Sector
-Verona,Telecommunications,167,0.9383278219339075,Sector
-Verona,Materials,186,0.3590936985477091,Sector
-Verona,Industrials,77,0.14646617540896956,Sector
-Verona,Consumer Services,196,0.2527316067154811,Sector
-Verona,Transportation,124,0.004091915818112635,Sector
-Technology,Software,97,0.15763824581702046,Industry
-Technology,Hardware,20,0.522158594640559,Industry
-Technology,IT Services,42,0.29712915301071563,Industry
-Healthcare,Pharmaceuticals,98,0.9702924962928922,Industry
-Healthcare,Medical Devices,89,0.03125341897317324,Industry
-Healthcare,Healthcare Services,83,0.5922570955071312,Industry
-Finance,Banking,73,0.8186125814127644,Industry
-Finance,Insurance,38,0.2585744244021182,Industry
-Finance,Investment Services,83,0.6775566895574603,Industry
-Energy,Oil & Gas,56,0.16171653840327582,Industry
-Energy,Renewable Energy,83,0.28475800709231314,Industry
-Energy,Energy Exploration,82,0.062399671433810755,Industry
-Consumer Goods,Food & Beverage,37,0.44251301480485394,Industry
-Consumer Goods,Household Products,47,0.6350275292175797,Industry
-Consumer Goods,Apparel,97,0.9496106225596382,Industry
-Utilities,Electric,54,0.8208576758250301,Industry
-Utilities,Water,48,0.601135187155788,Industry
-Utilities,Gas,68,0.2351556752561199,Industry
-Real Estate,Residential,52,0.27454679668973525,Industry
-Real Estate,Commercial,70,0.28392249120596513,Industry
-Real Estate,Industrial,32,0.4994469597813417,Industry
-Telecommunications,Mobile,89,0.8738485412052991,Industry
-Telecommunications,Broadband,78,0.06156110088015532,Industry
-Telecommunications,Satellite,0,0.3726336642370258,Industry
-Materials,Chemicals,78,0.7600160144290901,Industry
-Materials,Metals & Mining,82,0.14412919955690717,Industry
-Materials,Construction Materials,26,0.40181555141148095,Industry
-Industrials,Aerospace & Defense,9,0.18196790246447392,Industry
-Industrials,Machinery,37,0.7090286012932014,Industry
-Industrials,Industrial Services,31,0.10650212132824188,Industry
-Consumer Services,Retail,31,0.7268497686765757,Industry
-Consumer Services,Travel & Leisure,66,0.2280558423123874,Industry
-Consumer Services,Media,99,0.6433031953913431,Industry
-Transportation,Airlines,17,0.9171825398190387,Industry
-Transportation,Railroads,95,0.48030513850072476,Industry
-Transportation,Logistics,12,0.866244619818638,Industry
+,Verona,764,0.6004663354502167,Overall
+Verona,HiTech,82,0.35930860808674836,Sector
+Verona,Agriculture,7,0.6595425706626767,Sector
+Verona,Transportation,41,0.11685330127722471,Sector
+Verona,Consumer_Products,72,0.9961215612067845,Sector
+Verona,Unassigned,18,0.7004938416969303,Sector
+Verona,Communication,97,0.9021047401849019,Sector
+Verona,Trade,50,0.6672582717246592,Sector
+Verona,Business_Services,64,0.4135754196987802,Sector
+Verona,Business_Products,14,0.7598398112404599,Sector
+Verona,Construction,33,0.4094370480980408,Sector
+Verona,Services,53,0.8270517620532614,Sector
+Verona,Mining,30,0.5354028117596247,Sector
+Verona,Health_Care,83,0.5772195758277553,Sector
+Verona,EnergyExpL_Prod,55,0.9855953030813207,Sector
+Verona,Utilities,65,0.09719040515408162,Sector

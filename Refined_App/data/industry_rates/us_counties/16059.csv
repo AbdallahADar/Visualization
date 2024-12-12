@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lemhi,2049,0.4335835475057134,Overall
-Lemhi,Technology,213,0.32933836609908873,Sector
-Lemhi,Healthcare,151,0.9399978014630315,Sector
-Lemhi,Finance,208,0.06661376554393716,Sector
-Lemhi,Energy,56,0.4560304660337655,Sector
-Lemhi,Consumer Goods,160,0.4713033278215629,Sector
-Lemhi,Utilities,130,0.7412870518408065,Sector
-Lemhi,Real Estate,227,0.8982451608894528,Sector
-Lemhi,Telecommunications,216,0.5943871342111617,Sector
-Lemhi,Materials,86,0.6640584410398739,Sector
-Lemhi,Industrials,156,0.3177730791124097,Sector
-Lemhi,Consumer Services,226,0.6004014026997894,Sector
-Lemhi,Transportation,220,0.8342217542454686,Sector
-Technology,Software,81,0.07184066027277147,Industry
-Technology,Hardware,41,0.34630150384057434,Industry
-Technology,IT Services,91,0.18322686682428857,Industry
-Healthcare,Pharmaceuticals,80,0.3988168193122624,Industry
-Healthcare,Medical Devices,36,0.2405741905592378,Industry
-Healthcare,Healthcare Services,35,0.6024924981747458,Industry
-Finance,Banking,73,0.7334124373147175,Industry
-Finance,Insurance,41,0.4647472525676398,Industry
-Finance,Investment Services,94,0.9848559219622246,Industry
-Energy,Oil & Gas,46,0.7872156091397783,Industry
-Energy,Renewable Energy,3,0.528417016739992,Industry
-Energy,Energy Exploration,7,0.9199779270863789,Industry
-Consumer Goods,Food & Beverage,46,0.7155129847605407,Industry
-Consumer Goods,Household Products,92,0.39100008309803613,Industry
-Consumer Goods,Apparel,22,0.8120896424511159,Industry
-Utilities,Electric,5,0.29400272002630956,Industry
-Utilities,Water,29,0.8756810347929753,Industry
-Utilities,Gas,96,0.15596932860462331,Industry
-Real Estate,Residential,85,0.808153423321318,Industry
-Real Estate,Commercial,92,0.1964280378901051,Industry
-Real Estate,Industrial,50,0.9669472732325919,Industry
-Telecommunications,Mobile,40,0.6637122790127835,Industry
-Telecommunications,Broadband,91,0.9459650913680313,Industry
-Telecommunications,Satellite,85,0.0982934280406842,Industry
-Materials,Chemicals,26,0.4708980451246588,Industry
-Materials,Metals & Mining,17,0.06040833729984407,Industry
-Materials,Construction Materials,43,0.952725248628736,Industry
-Industrials,Aerospace & Defense,32,0.6383726714845623,Industry
-Industrials,Machinery,35,0.8394136697885375,Industry
-Industrials,Industrial Services,89,0.46292137036271175,Industry
-Consumer Services,Retail,42,0.7269900055395383,Industry
-Consumer Services,Travel & Leisure,93,0.6547019518398106,Industry
-Consumer Services,Media,91,0.7081543824917172,Industry
-Transportation,Airlines,80,0.6413303558182549,Industry
-Transportation,Railroads,72,0.8394367636304852,Industry
-Transportation,Logistics,68,0.38224864554085747,Industry
+,Lemhi,671,0.44596422517027284,Overall
+Lemhi,HiTech,2,0.2541797127858435,Sector
+Lemhi,Agriculture,87,0.5299275017816931,Sector
+Lemhi,Transportation,36,0.5356507266391648,Sector
+Lemhi,Consumer_Products,85,0.28985157202374046,Sector
+Lemhi,Unassigned,35,0.21876553295301981,Sector
+Lemhi,Communication,57,0.5713808172195942,Sector
+Lemhi,Trade,97,0.10542780318034328,Sector
+Lemhi,Business_Services,35,0.9261273979706183,Sector
+Lemhi,Business_Products,37,0.3807181159864307,Sector
+Lemhi,Construction,73,0.349143833829873,Sector
+Lemhi,Services,0,0.6310525670989748,Sector
+Lemhi,Mining,5,0.39804467054673087,Sector
+Lemhi,Health_Care,85,0.24522437241940276,Sector
+Lemhi,EnergyExpL_Prod,3,0.5411233769053511,Sector
+Lemhi,Utilities,34,0.7128453762133118,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Broward,1778,0.4648158446361843,Overall
+Broward,Technology,199,0.6455684326127716,Sector
+Broward,Healthcare,160,0.27199268292014334,Sector
+Broward,Finance,130,0.9719725303955126,Sector
+Broward,Energy,197,0.975660970108206,Sector
+Broward,Consumer Goods,231,0.4721952518432275,Sector
+Broward,Utilities,131,0.7271899908593948,Sector
+Broward,Real Estate,176,0.5915124630043546,Sector
+Broward,Telecommunications,84,0.7739358444755096,Sector
+Broward,Materials,138,0.6143756397913069,Sector
+Broward,Industrials,80,0.02484562156753578,Sector
+Broward,Consumer Services,99,0.7500694824356201,Sector
+Broward,Transportation,153,0.17761766976554072,Sector
+Technology,Software,72,0.9410762042322541,Industry
+Technology,Hardware,78,0.9914002775963183,Industry
+Technology,IT Services,49,0.4848361868976041,Industry
+Healthcare,Pharmaceuticals,91,0.04301465997888165,Industry
+Healthcare,Medical Devices,39,0.4021149409352368,Industry
+Healthcare,Healthcare Services,30,0.21580876375092084,Industry
+Finance,Banking,92,0.6310742824866908,Industry
+Finance,Insurance,14,0.859843179304939,Industry
+Finance,Investment Services,24,0.16526157956809484,Industry
+Energy,Oil & Gas,53,0.5251125760364012,Industry
+Energy,Renewable Energy,56,0.03151916732057547,Industry
+Energy,Energy Exploration,88,0.2363440585034413,Industry
+Consumer Goods,Food & Beverage,95,0.652688377054048,Industry
+Consumer Goods,Household Products,93,0.4860525055646412,Industry
+Consumer Goods,Apparel,43,0.8752922061572183,Industry
+Utilities,Electric,95,0.47069200775344266,Industry
+Utilities,Water,23,0.8662074108071832,Industry
+Utilities,Gas,13,0.6531795103030718,Industry
+Real Estate,Residential,73,0.4163535596625336,Industry
+Real Estate,Commercial,93,0.08021038030893168,Industry
+Real Estate,Industrial,10,0.3626156162984727,Industry
+Telecommunications,Mobile,9,0.8257428071193529,Industry
+Telecommunications,Broadband,65,0.23019911456976194,Industry
+Telecommunications,Satellite,10,0.008171387984059586,Industry
+Materials,Chemicals,86,0.2032010633280137,Industry
+Materials,Metals & Mining,51,0.15094218652015,Industry
+Materials,Construction Materials,1,0.0836387180713738,Industry
+Industrials,Aerospace & Defense,7,0.5751463763842424,Industry
+Industrials,Machinery,31,0.5374644448007856,Industry
+Industrials,Industrial Services,42,0.9575341509679881,Industry
+Consumer Services,Retail,30,0.8541967333889932,Industry
+Consumer Services,Travel & Leisure,31,0.5978117257778467,Industry
+Consumer Services,Media,38,0.630411435548233,Industry
+Transportation,Airlines,3,0.9466039234927299,Industry
+Transportation,Railroads,86,0.9466767516607388,Industry
+Transportation,Logistics,64,0.4597528441992418,Industry

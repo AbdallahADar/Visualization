@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Custer,1709,0.8672953169877249,Overall
-Custer,Technology,180,0.5789919247448757,Sector
-Custer,Healthcare,103,0.45518717484525306,Sector
-Custer,Finance,134,0.38172411630601066,Sector
-Custer,Energy,99,0.0074427836707403605,Sector
-Custer,Consumer Goods,82,0.24029411713624682,Sector
-Custer,Utilities,140,0.49300943640890116,Sector
-Custer,Real Estate,151,0.06017937361354242,Sector
-Custer,Telecommunications,121,0.26875534055646344,Sector
-Custer,Materials,187,0.17360505093688539,Sector
-Custer,Industrials,165,0.09658354835221561,Sector
-Custer,Consumer Services,187,0.5219392493368941,Sector
-Custer,Transportation,160,0.12882808122287592,Sector
-Technology,Software,61,0.5379447602385339,Industry
-Technology,Hardware,28,0.9999039356758462,Industry
-Technology,IT Services,91,0.6912441353981512,Industry
-Healthcare,Pharmaceuticals,20,0.8249538367917112,Industry
-Healthcare,Medical Devices,14,0.9063151955651535,Industry
-Healthcare,Healthcare Services,69,0.14200863775594175,Industry
-Finance,Banking,29,0.30541341928385124,Industry
-Finance,Insurance,49,0.017066285783221113,Industry
-Finance,Investment Services,56,0.6990407515760912,Industry
-Energy,Oil & Gas,63,0.9131971248982552,Industry
-Energy,Renewable Energy,8,0.9215391844205123,Industry
-Energy,Energy Exploration,28,0.7925160219703156,Industry
-Consumer Goods,Food & Beverage,15,0.4364845468208002,Industry
-Consumer Goods,Household Products,15,0.8215961600133314,Industry
-Consumer Goods,Apparel,52,0.6701111052363394,Industry
-Utilities,Electric,29,0.3580224977073432,Industry
-Utilities,Water,86,0.12302447741319866,Industry
-Utilities,Gas,25,0.6308812738282684,Industry
-Real Estate,Residential,15,0.7986649857418981,Industry
-Real Estate,Commercial,75,0.5444637051857962,Industry
-Real Estate,Industrial,61,0.0215578893190278,Industry
-Telecommunications,Mobile,57,0.16992935813785137,Industry
-Telecommunications,Broadband,52,0.2528418017781945,Industry
-Telecommunications,Satellite,12,0.8286907333081273,Industry
-Materials,Chemicals,44,0.7988845017360012,Industry
-Materials,Metals & Mining,49,0.7355732535880489,Industry
-Materials,Construction Materials,94,0.7674150974557774,Industry
-Industrials,Aerospace & Defense,70,0.8010621795198407,Industry
-Industrials,Machinery,79,0.6340297599318323,Industry
-Industrials,Industrial Services,16,0.19331799258997062,Industry
-Consumer Services,Retail,13,0.15169972103023832,Industry
-Consumer Services,Travel & Leisure,95,0.466261332268438,Industry
-Consumer Services,Media,79,0.13108660700755603,Industry
-Transportation,Airlines,92,0.5763763741156424,Industry
-Transportation,Railroads,14,0.18459114573476054,Industry
-Transportation,Logistics,54,0.5671054989094058,Industry
+,Custer,591,0.42856400813389006,Overall
+Custer,HiTech,87,0.20213997216725754,Sector
+Custer,Agriculture,54,0.5147672348345738,Sector
+Custer,Transportation,5,0.695119588735754,Sector
+Custer,Consumer_Products,24,0.28039526074057985,Sector
+Custer,Unassigned,1,0.5506771195005725,Sector
+Custer,Communication,99,0.27615166014456827,Sector
+Custer,Trade,37,0.5123337322575767,Sector
+Custer,Business_Services,55,0.033366331463673626,Sector
+Custer,Business_Products,52,0.8723150331241049,Sector
+Custer,Construction,54,0.06969859595522221,Sector
+Custer,Services,68,0.4620665592163977,Sector
+Custer,Mining,1,0.9406987161710848,Sector
+Custer,Health_Care,41,0.3173229592575928,Sector
+Custer,EnergyExpL_Prod,5,0.3578737869880766,Sector
+Custer,Utilities,8,0.3435335714513169,Sector

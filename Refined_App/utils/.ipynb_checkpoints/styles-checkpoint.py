@@ -86,7 +86,7 @@ GEO_FIGURE = {
     'justifyContent': 'center',  # Horizontally center the graph
     'alignItems': 'center', # Vertically center the graph
     'margin-bottom':'5px',
-    'flex-direction': 'column',
+    'flex-direction': 'row',
     # 'marginLeft': 'auto', 'marginRight': 'auto'
 }
 
@@ -110,7 +110,7 @@ CELL_STYLING_FUNC_PROPENSITY = [
 
 CELL_STYLING_EWS = [
     {"condition": "params.value === 'Low'", 
-     "style": {"backgroundColor": EWS_COLOR["H"], 'color': EWS_COLOR["H"]}},
+     "style": {"backgroundColor": EWS_COLOR["L"], 'color': EWS_COLOR["L"]}},
     {"condition": "params.value === 'Medium'", 
      "style": {"backgroundColor": EWS_COLOR["M"], 'color': EWS_COLOR["M"]}},
     {"condition": "params.value === 'High'", 

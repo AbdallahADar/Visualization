@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Garrard,1815,0.6712142057762016,Overall
-Garrard,Technology,193,0.6852322966608252,Sector
-Garrard,Healthcare,181,0.27982752332616956,Sector
-Garrard,Finance,163,0.9050209036011018,Sector
-Garrard,Energy,166,0.7938517712379091,Sector
-Garrard,Consumer Goods,137,0.7216975120245583,Sector
-Garrard,Utilities,146,0.26617253349891556,Sector
-Garrard,Real Estate,146,0.1025887057950079,Sector
-Garrard,Telecommunications,180,0.28146471737189893,Sector
-Garrard,Materials,136,0.39090191631132853,Sector
-Garrard,Industrials,213,0.7322431496786033,Sector
-Garrard,Consumer Services,40,0.431585830030512,Sector
-Garrard,Transportation,114,0.1039112084462227,Sector
-Technology,Software,57,0.1866878477293311,Industry
-Technology,Hardware,73,0.43250316538194944,Industry
-Technology,IT Services,63,0.8294633035102528,Industry
-Healthcare,Pharmaceuticals,12,0.22733664351043414,Industry
-Healthcare,Medical Devices,94,0.021001126707958617,Industry
-Healthcare,Healthcare Services,75,0.4223931676125334,Industry
-Finance,Banking,48,0.8898076004173973,Industry
-Finance,Insurance,89,0.3457999428068348,Industry
-Finance,Investment Services,26,0.393610965181142,Industry
-Energy,Oil & Gas,42,0.8934620197135804,Industry
-Energy,Renewable Energy,77,0.7564729756705779,Industry
-Energy,Energy Exploration,47,0.47549786847252196,Industry
-Consumer Goods,Food & Beverage,61,0.46727909931275,Industry
-Consumer Goods,Household Products,26,0.5035846442210417,Industry
-Consumer Goods,Apparel,50,0.430335012769666,Industry
-Utilities,Electric,99,0.9155969163473054,Industry
-Utilities,Water,7,0.7223715831996899,Industry
-Utilities,Gas,40,0.07259724885245178,Industry
-Real Estate,Residential,29,0.7678068046508886,Industry
-Real Estate,Commercial,83,0.7926300408900969,Industry
-Real Estate,Industrial,34,0.35830947800436286,Industry
-Telecommunications,Mobile,85,0.21662398225632762,Industry
-Telecommunications,Broadband,46,0.7614254931459299,Industry
-Telecommunications,Satellite,49,0.09444619924752895,Industry
-Materials,Chemicals,11,0.1551251354408938,Industry
-Materials,Metals & Mining,52,0.8725983347282892,Industry
-Materials,Construction Materials,73,0.10367278042142103,Industry
-Industrials,Aerospace & Defense,24,0.8862776930104148,Industry
-Industrials,Machinery,97,0.8260546762249453,Industry
-Industrials,Industrial Services,92,0.06824113545014521,Industry
-Consumer Services,Retail,17,0.29418624516072933,Industry
-Consumer Services,Travel & Leisure,22,0.19262216499022766,Industry
-Consumer Services,Media,1,0.7760182789929668,Industry
-Transportation,Airlines,10,0.7533993751699325,Industry
-Transportation,Railroads,52,0.3438466788172244,Industry
-Transportation,Logistics,52,0.6923057519285156,Industry
+,Garrard,859,0.5864509094680906,Overall
+Garrard,HiTech,43,0.39948660898395627,Sector
+Garrard,Agriculture,11,0.8819033348672917,Sector
+Garrard,Transportation,53,0.9272953334933329,Sector
+Garrard,Consumer_Products,50,0.8495545413908236,Sector
+Garrard,Unassigned,12,0.7567070156870116,Sector
+Garrard,Communication,95,0.9181214664880518,Sector
+Garrard,Trade,69,0.04228228526227318,Sector
+Garrard,Business_Services,94,0.4322379090442863,Sector
+Garrard,Business_Products,93,0.4173692353271312,Sector
+Garrard,Construction,88,0.9680695881237346,Sector
+Garrard,Services,29,0.8860103279965886,Sector
+Garrard,Mining,34,0.5186601052152671,Sector
+Garrard,Health_Care,68,0.17707628752954863,Sector
+Garrard,EnergyExpL_Prod,99,0.11544418680617796,Sector
+Garrard,Utilities,21,0.5065454158058825,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,San Juan,1720,0.8498615070187447,Overall
-San Juan,Technology,144,0.21726610052588635,Sector
-San Juan,Healthcare,105,0.8203464700072944,Sector
-San Juan,Finance,161,0.3919978208628442,Sector
-San Juan,Energy,116,0.10167109824952536,Sector
-San Juan,Consumer Goods,157,0.7300765062673071,Sector
-San Juan,Utilities,114,0.24443989259833387,Sector
-San Juan,Real Estate,198,0.22730231462660633,Sector
-San Juan,Telecommunications,158,0.1966107217936265,Sector
-San Juan,Materials,173,0.22686722446117946,Sector
-San Juan,Industrials,137,0.4886322085921718,Sector
-San Juan,Consumer Services,51,0.5395129189249537,Sector
-San Juan,Transportation,206,0.902344427344896,Sector
-Technology,Software,62,0.15838156228601508,Industry
-Technology,Hardware,74,0.5144863145450265,Industry
-Technology,IT Services,8,0.6687117438662324,Industry
-Healthcare,Pharmaceuticals,74,0.5143944220972028,Industry
-Healthcare,Medical Devices,30,0.7980895939384639,Industry
-Healthcare,Healthcare Services,1,0.008222532608740951,Industry
-Finance,Banking,60,0.7776544981289975,Industry
-Finance,Insurance,94,0.05465872291587426,Industry
-Finance,Investment Services,7,0.4328140039433278,Industry
-Energy,Oil & Gas,67,0.09953296458519556,Industry
-Energy,Renewable Energy,10,0.12099281713786847,Industry
-Energy,Energy Exploration,39,0.6208294684338921,Industry
-Consumer Goods,Food & Beverage,64,0.6358589679356321,Industry
-Consumer Goods,Household Products,89,0.67258514681963,Industry
-Consumer Goods,Apparel,4,0.7867583263562824,Industry
-Utilities,Electric,23,0.49010741641513555,Industry
-Utilities,Water,36,0.5403129197723977,Industry
-Utilities,Gas,55,0.7670051500246773,Industry
-Real Estate,Residential,79,0.14009702109830302,Industry
-Real Estate,Commercial,60,0.14367268346162299,Industry
-Real Estate,Industrial,59,0.7339263721042579,Industry
-Telecommunications,Mobile,29,0.324961982560651,Industry
-Telecommunications,Broadband,56,0.797236413206518,Industry
-Telecommunications,Satellite,73,0.5834679362217012,Industry
-Materials,Chemicals,40,0.501278058615316,Industry
-Materials,Metals & Mining,44,0.19538438761037513,Industry
-Materials,Construction Materials,89,0.06232306250870767,Industry
-Industrials,Aerospace & Defense,16,0.9174724073196452,Industry
-Industrials,Machinery,71,0.8131560378149031,Industry
-Industrials,Industrial Services,50,0.5922333079414457,Industry
-Consumer Services,Retail,9,0.599968250603324,Industry
-Consumer Services,Travel & Leisure,22,0.5245411075432755,Industry
-Consumer Services,Media,20,0.2117962517270101,Industry
-Transportation,Airlines,49,0.17963828743312305,Industry
-Transportation,Railroads,60,0.39306414918770816,Industry
-Transportation,Logistics,97,0.7462738984541348,Industry
+,San Juan,785,0.5431956442018229,Overall
+San Juan,HiTech,61,0.9328212640794672,Sector
+San Juan,Agriculture,85,0.18137975236522796,Sector
+San Juan,Transportation,98,0.12733653226609454,Sector
+San Juan,Consumer_Products,52,0.7058278325454468,Sector
+San Juan,Unassigned,13,0.2573920693155438,Sector
+San Juan,Communication,82,0.3841672955549693,Sector
+San Juan,Trade,52,0.43175980286474835,Sector
+San Juan,Business_Services,32,0.5721207175757196,Sector
+San Juan,Business_Products,67,0.9772412318554811,Sector
+San Juan,Construction,0,0.0028451381499342565,Sector
+San Juan,Services,69,0.8448029276970289,Sector
+San Juan,Mining,96,0.11667703786007233,Sector
+San Juan,Health_Care,27,0.6440294564459963,Sector
+San Juan,EnergyExpL_Prod,47,0.9847961962616846,Sector
+San Juan,Utilities,4,0.984737408189928,Sector

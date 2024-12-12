@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dutchess,1833,0.7607687587831674,Overall
-Dutchess,Technology,143,0.8769549589750952,Sector
-Dutchess,Healthcare,194,0.9410892107581247,Sector
-Dutchess,Finance,164,0.638157485490161,Sector
-Dutchess,Energy,153,0.23659162319185578,Sector
-Dutchess,Consumer Goods,131,0.24285601019958936,Sector
-Dutchess,Utilities,133,0.4545907035310741,Sector
-Dutchess,Real Estate,154,0.29665346051967445,Sector
-Dutchess,Telecommunications,198,0.7388618162442186,Sector
-Dutchess,Materials,71,0.8101813622716265,Sector
-Dutchess,Industrials,186,0.3232816585735858,Sector
-Dutchess,Consumer Services,160,0.1631419443027291,Sector
-Dutchess,Transportation,146,0.34925111110899665,Sector
-Technology,Software,56,0.9570821864668151,Industry
-Technology,Hardware,29,0.3864721616393725,Industry
-Technology,IT Services,58,0.02270494596456596,Industry
-Healthcare,Pharmaceuticals,90,0.7281654720718028,Industry
-Healthcare,Medical Devices,20,0.831641562934407,Industry
-Healthcare,Healthcare Services,84,0.36916654312373165,Industry
-Finance,Banking,52,0.9313077704767142,Industry
-Finance,Insurance,52,0.4996357846020464,Industry
-Finance,Investment Services,60,0.0015257648519381162,Industry
-Energy,Oil & Gas,59,0.24542220791525682,Industry
-Energy,Renewable Energy,39,0.9187198754948366,Industry
-Energy,Energy Exploration,55,0.13296038772934216,Industry
-Consumer Goods,Food & Beverage,98,0.09330176610707375,Industry
-Consumer Goods,Household Products,22,0.0031189186482398767,Industry
-Consumer Goods,Apparel,11,0.0134375481384309,Industry
-Utilities,Electric,18,0.4889605727518912,Industry
-Utilities,Water,21,0.32994319193552046,Industry
-Utilities,Gas,94,0.49332508809673303,Industry
-Real Estate,Residential,98,0.8127974316487077,Industry
-Real Estate,Commercial,18,0.4832133928417973,Industry
-Real Estate,Industrial,38,0.2934451197041227,Industry
-Telecommunications,Mobile,34,0.41513870030903555,Industry
-Telecommunications,Broadband,67,0.7128857784447425,Industry
-Telecommunications,Satellite,97,0.7568282801651448,Industry
-Materials,Chemicals,10,0.7091112247045381,Industry
-Materials,Metals & Mining,15,0.3012322218243725,Industry
-Materials,Construction Materials,46,0.5877520602750935,Industry
-Industrials,Aerospace & Defense,59,0.8466827232041579,Industry
-Industrials,Machinery,94,0.7620031355452185,Industry
-Industrials,Industrial Services,33,0.05326152160456876,Industry
-Consumer Services,Retail,49,0.01631170592718756,Industry
-Consumer Services,Travel & Leisure,90,0.2900089754455297,Industry
-Consumer Services,Media,21,0.6227018614730124,Industry
-Transportation,Airlines,22,0.5254862487983638,Industry
-Transportation,Railroads,78,0.7275294013544813,Industry
-Transportation,Logistics,46,0.523977629585911,Industry
+,Dutchess,835,0.54527632764294,Overall
+Dutchess,HiTech,69,0.7438896796880495,Sector
+Dutchess,Agriculture,3,0.9988596874311666,Sector
+Dutchess,Transportation,7,0.361495401305549,Sector
+Dutchess,Consumer_Products,78,0.0027542876090793644,Sector
+Dutchess,Unassigned,63,0.5317281063600237,Sector
+Dutchess,Communication,94,0.15917140873204372,Sector
+Dutchess,Trade,22,0.8106868884239273,Sector
+Dutchess,Business_Services,59,0.3840235767087221,Sector
+Dutchess,Business_Products,34,0.24993426005012753,Sector
+Dutchess,Construction,41,0.5708663560230919,Sector
+Dutchess,Services,67,0.6174109671628167,Sector
+Dutchess,Mining,67,0.762066864130566,Sector
+Dutchess,Health_Care,62,0.48809350996517586,Sector
+Dutchess,EnergyExpL_Prod,96,0.5311120309005195,Sector
+Dutchess,Utilities,73,0.96705189015324,Sector

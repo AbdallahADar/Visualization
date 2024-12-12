@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Calhoun,1637,0.17135723122071267,Overall
-Calhoun,Technology,166,0.9439960822907185,Sector
-Calhoun,Healthcare,240,0.768523551041951,Sector
-Calhoun,Finance,147,0.8892702308960552,Sector
-Calhoun,Energy,97,0.6903777352531478,Sector
-Calhoun,Consumer Goods,87,0.3382217364447998,Sector
-Calhoun,Utilities,90,0.2646982439804809,Sector
-Calhoun,Real Estate,215,0.8020060425052973,Sector
-Calhoun,Telecommunications,137,0.11672379730475646,Sector
-Calhoun,Materials,73,0.12116812577304226,Sector
-Calhoun,Industrials,117,0.7556714534678995,Sector
-Calhoun,Consumer Services,63,0.40058872376138044,Sector
-Calhoun,Transportation,205,0.45233975578489083,Sector
-Technology,Software,98,0.9016225226793613,Industry
-Technology,Hardware,6,0.01870419332958928,Industry
-Technology,IT Services,62,0.37139358167492786,Industry
-Healthcare,Pharmaceuticals,80,0.8176075310460351,Industry
-Healthcare,Medical Devices,98,0.4006796724134659,Industry
-Healthcare,Healthcare Services,62,0.02875969928769717,Industry
-Finance,Banking,55,0.4016328121753101,Industry
-Finance,Insurance,23,0.5452878944577844,Industry
-Finance,Investment Services,69,0.10902280483988913,Industry
-Energy,Oil & Gas,80,0.8243682501903797,Industry
-Energy,Renewable Energy,10,0.3133986833929898,Industry
-Energy,Energy Exploration,7,0.7775712111546031,Industry
-Consumer Goods,Food & Beverage,65,0.4871024607010983,Industry
-Consumer Goods,Household Products,14,0.2471481843823613,Industry
-Consumer Goods,Apparel,8,0.734239806748289,Industry
-Utilities,Electric,49,0.6824195001363726,Industry
-Utilities,Water,41,0.18035044119712984,Industry
-Utilities,Gas,0,0.42052428674839504,Industry
-Real Estate,Residential,91,0.03708616244429741,Industry
-Real Estate,Commercial,69,0.41698252145904446,Industry
-Real Estate,Industrial,55,0.5018278687731018,Industry
-Telecommunications,Mobile,33,0.32643540325381804,Industry
-Telecommunications,Broadband,31,0.6937332329173762,Industry
-Telecommunications,Satellite,73,0.06328415216220162,Industry
-Materials,Chemicals,10,0.03927369159964622,Industry
-Materials,Metals & Mining,51,0.17188934559812086,Industry
-Materials,Construction Materials,12,0.7067261673470029,Industry
-Industrials,Aerospace & Defense,63,0.6296381000925404,Industry
-Industrials,Machinery,36,0.966303977992562,Industry
-Industrials,Industrial Services,18,0.06522476247811804,Industry
-Consumer Services,Retail,24,0.8117265899762205,Industry
-Consumer Services,Travel & Leisure,16,0.46925600500847653,Industry
-Consumer Services,Media,23,0.36033675731214954,Industry
-Transportation,Airlines,60,0.4677043390521185,Industry
-Transportation,Railroads,92,0.09319515025131475,Industry
-Transportation,Logistics,53,0.1075959898277884,Industry
+,Calhoun,820,0.4667494412904764,Overall
+Calhoun,HiTech,46,0.29589208318500704,Sector
+Calhoun,Agriculture,88,0.9525258253215405,Sector
+Calhoun,Transportation,9,0.8661378076048906,Sector
+Calhoun,Consumer_Products,88,0.21595060261572518,Sector
+Calhoun,Unassigned,50,0.3600064137975292,Sector
+Calhoun,Communication,58,0.6639710395636418,Sector
+Calhoun,Trade,94,0.5046697949279886,Sector
+Calhoun,Business_Services,68,0.8092819148655626,Sector
+Calhoun,Business_Products,96,0.554759059493032,Sector
+Calhoun,Construction,52,0.3921676909700843,Sector
+Calhoun,Services,12,0.12346185464108095,Sector
+Calhoun,Mining,14,0.01625316489234152,Sector
+Calhoun,Health_Care,85,0.7815251088092816,Sector
+Calhoun,EnergyExpL_Prod,46,0.2636776689547454,Sector
+Calhoun,Utilities,14,0.20096158971469458,Sector

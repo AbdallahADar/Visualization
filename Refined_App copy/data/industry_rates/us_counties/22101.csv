@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,St. Mary,1514,0.9358733309817496,Overall
+St. Mary,Technology,71,0.9664464676737295,Sector
+St. Mary,Healthcare,153,0.9333763796451087,Sector
+St. Mary,Finance,146,0.7056958919618623,Sector
+St. Mary,Energy,96,0.3106224436917707,Sector
+St. Mary,Consumer Goods,167,0.16812082889167002,Sector
+St. Mary,Utilities,141,0.3497937167470443,Sector
+St. Mary,Real Estate,134,0.6444155090451518,Sector
+St. Mary,Telecommunications,85,0.46934297841251593,Sector
+St. Mary,Materials,153,0.22042538111946064,Sector
+St. Mary,Industrials,89,0.5348746659182384,Sector
+St. Mary,Consumer Services,157,0.15005122044334118,Sector
+St. Mary,Transportation,122,0.2805713407967396,Sector
+Technology,Software,37,0.34538863421954635,Industry
+Technology,Hardware,3,0.6825202693379828,Industry
+Technology,IT Services,31,0.7185248200140223,Industry
+Healthcare,Pharmaceuticals,56,0.022781074626588182,Industry
+Healthcare,Medical Devices,68,0.6459849188021606,Industry
+Healthcare,Healthcare Services,29,0.9728320967147537,Industry
+Finance,Banking,56,0.029656945358051745,Industry
+Finance,Insurance,3,0.5127216599721965,Industry
+Finance,Investment Services,87,0.007290709736473722,Industry
+Energy,Oil & Gas,46,0.5545134233070829,Industry
+Energy,Renewable Energy,26,0.5840402882765446,Industry
+Energy,Energy Exploration,24,0.9408594604055841,Industry
+Consumer Goods,Food & Beverage,52,0.19286210630246436,Industry
+Consumer Goods,Household Products,85,0.7284269822365993,Industry
+Consumer Goods,Apparel,30,0.7261303346032161,Industry
+Utilities,Electric,64,0.7652557302527336,Industry
+Utilities,Water,70,0.9974361377282468,Industry
+Utilities,Gas,7,0.4247887844901945,Industry
+Real Estate,Residential,76,0.9266582691400888,Industry
+Real Estate,Commercial,16,0.26770067567247935,Industry
+Real Estate,Industrial,42,0.26912347840319095,Industry
+Telecommunications,Mobile,56,0.9957907862466071,Industry
+Telecommunications,Broadband,13,0.991707245693493,Industry
+Telecommunications,Satellite,16,0.838021140047188,Industry
+Materials,Chemicals,23,0.17583418500529413,Industry
+Materials,Metals & Mining,97,0.23010915681549926,Industry
+Materials,Construction Materials,33,0.5029756366574997,Industry
+Industrials,Aerospace & Defense,44,0.9856556798172341,Industry
+Industrials,Machinery,28,0.8164183240977236,Industry
+Industrials,Industrial Services,17,0.632962328931395,Industry
+Consumer Services,Retail,21,0.5834389602643123,Industry
+Consumer Services,Travel & Leisure,97,0.644671625504148,Industry
+Consumer Services,Media,39,0.3999747444550191,Industry
+Transportation,Airlines,93,0.6026971082298007,Industry
+Transportation,Railroads,17,0.5401841390374387,Industry
+Transportation,Logistics,12,0.44978270387359665,Industry

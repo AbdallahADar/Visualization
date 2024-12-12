@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Macon,1887,0.17241235314211678,Overall
-Macon,Technology,149,0.9778033885242519,Sector
-Macon,Healthcare,102,0.48534119999221437,Sector
-Macon,Finance,122,0.5099582449993333,Sector
-Macon,Energy,164,0.7305130172612773,Sector
-Macon,Consumer Goods,168,0.8597675308944136,Sector
-Macon,Utilities,271,0.2529471081472212,Sector
-Macon,Real Estate,119,0.35148895911323863,Sector
-Macon,Telecommunications,220,0.20973135325881487,Sector
-Macon,Materials,135,0.13431772054243818,Sector
-Macon,Industrials,183,0.3540066378565724,Sector
-Macon,Consumer Services,141,0.5033062544580091,Sector
-Macon,Transportation,113,0.4115470234065932,Sector
-Technology,Software,48,0.2091841276154589,Industry
-Technology,Hardware,21,0.5730127034651475,Industry
-Technology,IT Services,80,0.6588612102715109,Industry
-Healthcare,Pharmaceuticals,62,0.3450553888902892,Industry
-Healthcare,Medical Devices,2,0.997238989220268,Industry
-Healthcare,Healthcare Services,38,0.18070913481084427,Industry
-Finance,Banking,60,0.27604322309892493,Industry
-Finance,Insurance,28,0.5505941000759432,Industry
-Finance,Investment Services,34,0.7649274765813818,Industry
-Energy,Oil & Gas,46,0.9362880716342379,Industry
-Energy,Renewable Energy,72,0.7617031149776662,Industry
-Energy,Energy Exploration,46,0.07052967554204725,Industry
-Consumer Goods,Food & Beverage,51,0.6120814207132419,Industry
-Consumer Goods,Household Products,74,0.0030824126631548987,Industry
-Consumer Goods,Apparel,43,0.6748296021730775,Industry
-Utilities,Electric,95,0.8398984887172151,Industry
-Utilities,Water,87,0.3158512674253595,Industry
-Utilities,Gas,89,0.3852132901354507,Industry
-Real Estate,Residential,17,0.3840458531460703,Industry
-Real Estate,Commercial,26,0.2168581202989407,Industry
-Real Estate,Industrial,76,0.01393883996336609,Industry
-Telecommunications,Mobile,99,0.7753270356318982,Industry
-Telecommunications,Broadband,87,0.28424023835658874,Industry
-Telecommunications,Satellite,34,0.2707019389763242,Industry
-Materials,Chemicals,42,0.8860146925787619,Industry
-Materials,Metals & Mining,11,0.18014542073088213,Industry
-Materials,Construction Materials,82,0.41486642346630576,Industry
-Industrials,Aerospace & Defense,98,0.3825231354629274,Industry
-Industrials,Machinery,49,0.1011582002194581,Industry
-Industrials,Industrial Services,36,0.5125247918101798,Industry
-Consumer Services,Retail,4,0.6805305652778056,Industry
-Consumer Services,Travel & Leisure,43,0.11033573534723118,Industry
-Consumer Services,Media,94,0.5705498078095954,Industry
-Transportation,Airlines,16,0.12332957180284354,Industry
-Transportation,Railroads,29,0.11550710646127804,Industry
-Transportation,Logistics,68,0.8915217821237137,Industry
+,Macon,799,0.40071478059873766,Overall
+Macon,HiTech,15,0.9718080776733892,Sector
+Macon,Agriculture,99,0.22304076838440767,Sector
+Macon,Transportation,38,0.3297102635414616,Sector
+Macon,Consumer_Products,27,0.7775819537970926,Sector
+Macon,Unassigned,93,0.6591111475194511,Sector
+Macon,Communication,1,0.7565388782519707,Sector
+Macon,Trade,46,0.01980666224523664,Sector
+Macon,Business_Services,68,0.24847180307376782,Sector
+Macon,Business_Products,67,0.3323056245526934,Sector
+Macon,Construction,66,0.3414330524678899,Sector
+Macon,Services,5,0.4490288299392865,Sector
+Macon,Mining,77,0.055058174840074026,Sector
+Macon,Health_Care,83,0.2502961559782946,Sector
+Macon,EnergyExpL_Prod,38,0.41450205155722575,Sector
+Macon,Utilities,76,0.18202826515882398,Sector

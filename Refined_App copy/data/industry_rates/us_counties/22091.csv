@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,St. Helena,1667,0.2397799198547207,Overall
+St. Helena,Technology,40,0.5822131376436954,Sector
+St. Helena,Healthcare,223,0.08957516427446299,Sector
+St. Helena,Finance,57,0.6860664552684271,Sector
+St. Helena,Energy,214,0.03980813795672855,Sector
+St. Helena,Consumer Goods,132,0.07942006418189729,Sector
+St. Helena,Utilities,133,0.6189659579549913,Sector
+St. Helena,Real Estate,158,0.3455157107979394,Sector
+St. Helena,Telecommunications,96,0.4256654375123762,Sector
+St. Helena,Materials,90,0.5748133778210168,Sector
+St. Helena,Industrials,178,0.47711000915506097,Sector
+St. Helena,Consumer Services,132,0.4843838738950471,Sector
+St. Helena,Transportation,214,0.8350534206478563,Sector
+Technology,Software,10,0.048966027263862455,Industry
+Technology,Hardware,6,0.6849450523715782,Industry
+Technology,IT Services,24,0.3596172754847883,Industry
+Healthcare,Pharmaceuticals,98,0.6712120383571405,Industry
+Healthcare,Medical Devices,31,0.9944048735075183,Industry
+Healthcare,Healthcare Services,94,0.6824651795922658,Industry
+Finance,Banking,28,0.13746358234465017,Industry
+Finance,Insurance,9,0.7437873665307819,Industry
+Finance,Investment Services,20,0.11306972175101404,Industry
+Energy,Oil & Gas,37,0.6646656092181469,Industry
+Energy,Renewable Energy,90,0.32072805882726063,Industry
+Energy,Energy Exploration,87,0.9973802252533148,Industry
+Consumer Goods,Food & Beverage,23,0.2787080331896067,Industry
+Consumer Goods,Household Products,32,0.27955395890910295,Industry
+Consumer Goods,Apparel,77,0.023305608736463812,Industry
+Utilities,Electric,7,0.5648242931262643,Industry
+Utilities,Water,69,0.6976862994333397,Industry
+Utilities,Gas,57,0.3437845663035892,Industry
+Real Estate,Residential,28,0.4218464924349322,Industry
+Real Estate,Commercial,49,0.6801905331974478,Industry
+Real Estate,Industrial,81,0.8709128130260694,Industry
+Telecommunications,Mobile,27,0.271092950971512,Industry
+Telecommunications,Broadband,66,0.591343612506845,Industry
+Telecommunications,Satellite,3,0.3868210250073153,Industry
+Materials,Chemicals,21,0.05307055161340524,Industry
+Materials,Metals & Mining,38,0.28354842185854445,Industry
+Materials,Construction Materials,31,0.47334158970715456,Industry
+Industrials,Aerospace & Defense,22,0.16419420074548874,Industry
+Industrials,Machinery,82,0.45005794117567854,Industry
+Industrials,Industrial Services,74,0.1879539227113094,Industry
+Consumer Services,Retail,67,0.12654395380529893,Industry
+Consumer Services,Travel & Leisure,5,0.4649123354421181,Industry
+Consumer Services,Media,60,0.15286204456496288,Industry
+Transportation,Airlines,66,0.5485966730003047,Industry
+Transportation,Railroads,92,0.23114060511810464,Industry
+Transportation,Logistics,56,0.6040615484114892,Industry

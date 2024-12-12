@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Van Wert,1663,0.23497298684271783,Overall
-Van Wert,Technology,97,0.9167295685432122,Sector
-Van Wert,Healthcare,119,0.8527269634530938,Sector
-Van Wert,Finance,135,0.8624591659102347,Sector
-Van Wert,Energy,195,0.17379172396916331,Sector
-Van Wert,Consumer Goods,90,0.7630727060710369,Sector
-Van Wert,Utilities,164,0.393316861035621,Sector
-Van Wert,Real Estate,127,0.8832962287209929,Sector
-Van Wert,Telecommunications,116,0.11724882812862969,Sector
-Van Wert,Materials,154,0.6995987488564854,Sector
-Van Wert,Industrials,203,0.08278658102232028,Sector
-Van Wert,Consumer Services,187,0.5005066029577205,Sector
-Van Wert,Transportation,76,0.8299207214050791,Sector
-Technology,Software,40,0.920614649835975,Industry
-Technology,Hardware,11,0.826433790044014,Industry
-Technology,IT Services,46,0.3499058420776263,Industry
-Healthcare,Pharmaceuticals,15,0.2400330555703707,Industry
-Healthcare,Medical Devices,81,0.34620383957719714,Industry
-Healthcare,Healthcare Services,23,0.6591519113792578,Industry
-Finance,Banking,25,0.6336795693808739,Industry
-Finance,Insurance,13,0.17896199357680853,Industry
-Finance,Investment Services,97,0.5377071191786156,Industry
-Energy,Oil & Gas,92,0.19373841046917428,Industry
-Energy,Renewable Energy,52,0.30585990221983606,Industry
-Energy,Energy Exploration,51,0.48976013014013464,Industry
-Consumer Goods,Food & Beverage,12,0.5098834615555806,Industry
-Consumer Goods,Household Products,8,0.7324665079785027,Industry
-Consumer Goods,Apparel,70,0.29398666016217745,Industry
-Utilities,Electric,10,0.652594796930262,Industry
-Utilities,Water,70,0.9803226508163585,Industry
-Utilities,Gas,84,0.746890766492995,Industry
-Real Estate,Residential,8,0.07354753363443078,Industry
-Real Estate,Commercial,61,0.2542701176744887,Industry
-Real Estate,Industrial,58,0.4692046375631802,Industry
-Telecommunications,Mobile,17,0.04798222901419735,Industry
-Telecommunications,Broadband,68,0.409075878613115,Industry
-Telecommunications,Satellite,31,0.9224867129038611,Industry
-Materials,Chemicals,45,0.8407558698392025,Industry
-Materials,Metals & Mining,23,0.02320787549786618,Industry
-Materials,Construction Materials,86,0.4042915575535634,Industry
-Industrials,Aerospace & Defense,61,0.13374060543712318,Industry
-Industrials,Machinery,48,0.4634086176809137,Industry
-Industrials,Industrial Services,94,0.3730764908494687,Industry
-Consumer Services,Retail,75,0.09328859558694036,Industry
-Consumer Services,Travel & Leisure,82,0.6036554243865282,Industry
-Consumer Services,Media,30,0.08754962303958691,Industry
-Transportation,Airlines,2,0.25553742565379745,Industry
-Transportation,Railroads,35,0.7042792553729009,Industry
-Transportation,Logistics,39,0.2450328948250351,Industry
+,Van Wert,725,0.5192543484900534,Overall
+Van Wert,HiTech,35,0.8554557263900937,Sector
+Van Wert,Agriculture,26,0.8207149290502294,Sector
+Van Wert,Transportation,72,0.356801161413866,Sector
+Van Wert,Consumer_Products,1,0.2715843642694764,Sector
+Van Wert,Unassigned,78,0.6972708908713532,Sector
+Van Wert,Communication,84,0.48911584215991566,Sector
+Van Wert,Trade,57,0.2401935106836014,Sector
+Van Wert,Business_Services,47,0.19393301422274345,Sector
+Van Wert,Business_Products,60,0.10795488707589984,Sector
+Van Wert,Construction,58,0.7186445154842888,Sector
+Van Wert,Services,45,0.9130516759994014,Sector
+Van Wert,Mining,5,0.8427998393727192,Sector
+Van Wert,Health_Care,50,0.23529709095531437,Sector
+Van Wert,EnergyExpL_Prod,38,0.8946140582466275,Sector
+Van Wert,Utilities,69,0.15138372115526955,Sector

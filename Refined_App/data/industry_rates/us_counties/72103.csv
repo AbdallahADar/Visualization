@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Naguabo,1869,0.6710440912363729,Overall
-Naguabo,Technology,106,0.4735176510898783,Sector
-Naguabo,Healthcare,62,0.33292830117373484,Sector
-Naguabo,Finance,153,0.6260958187581411,Sector
-Naguabo,Energy,160,0.2534837695800243,Sector
-Naguabo,Consumer Goods,163,0.7688800909582569,Sector
-Naguabo,Utilities,184,0.28551383340905456,Sector
-Naguabo,Real Estate,242,0.8465932646230511,Sector
-Naguabo,Telecommunications,114,0.07321444896340445,Sector
-Naguabo,Materials,217,0.819879634159414,Sector
-Naguabo,Industrials,156,0.3539831411447326,Sector
-Naguabo,Consumer Services,106,0.037885148143981584,Sector
-Naguabo,Transportation,206,0.9912690204811028,Sector
-Technology,Software,16,0.512625366096067,Industry
-Technology,Hardware,63,0.11351749381482079,Industry
-Technology,IT Services,27,0.976853837713003,Industry
-Healthcare,Pharmaceuticals,46,0.0450614900704559,Industry
-Healthcare,Medical Devices,6,0.07890193426259162,Industry
-Healthcare,Healthcare Services,10,0.15716750822154735,Industry
-Finance,Banking,91,0.4418371602858864,Industry
-Finance,Insurance,26,0.9571864807297311,Industry
-Finance,Investment Services,36,0.3439566409395779,Industry
-Energy,Oil & Gas,27,0.005089688507369239,Industry
-Energy,Renewable Energy,44,0.7280011050566361,Industry
-Energy,Energy Exploration,89,0.7585800103525758,Industry
-Consumer Goods,Food & Beverage,65,0.12377074227753149,Industry
-Consumer Goods,Household Products,4,0.6056004826725699,Industry
-Consumer Goods,Apparel,94,0.3513001519353379,Industry
-Utilities,Electric,55,0.21808491959978193,Industry
-Utilities,Water,65,0.11617746919086125,Industry
-Utilities,Gas,64,0.2096658829542254,Industry
-Real Estate,Residential,47,0.9139544087623863,Industry
-Real Estate,Commercial,96,0.5300272231192847,Industry
-Real Estate,Industrial,99,0.1295026127517125,Industry
-Telecommunications,Mobile,49,0.3612505882849104,Industry
-Telecommunications,Broadband,60,0.3588326443945242,Industry
-Telecommunications,Satellite,5,0.4532792134702498,Industry
-Materials,Chemicals,82,0.24293840569395908,Industry
-Materials,Metals & Mining,71,0.12701712854405067,Industry
-Materials,Construction Materials,64,0.30506676034410185,Industry
-Industrials,Aerospace & Defense,78,0.33852743297078647,Industry
-Industrials,Machinery,27,0.36884756298833177,Industry
-Industrials,Industrial Services,51,0.5330396149552564,Industry
-Consumer Services,Retail,24,0.7937341190736807,Industry
-Consumer Services,Travel & Leisure,28,0.8095858979708194,Industry
-Consumer Services,Media,54,0.6702519815888105,Industry
-Transportation,Airlines,82,0.363235331401331,Industry
-Transportation,Railroads,48,0.15550170517471973,Industry
-Transportation,Logistics,76,0.2418049268943907,Industry
+,Naguabo,786,0.47299241381083007,Overall
+Naguabo,HiTech,76,0.7609174034503993,Sector
+Naguabo,Agriculture,3,0.22399488925350897,Sector
+Naguabo,Transportation,24,0.45093466283864503,Sector
+Naguabo,Consumer_Products,89,0.01790309366014997,Sector
+Naguabo,Unassigned,37,0.9474935353030335,Sector
+Naguabo,Communication,93,0.5703917454997065,Sector
+Naguabo,Trade,22,0.036555459033873805,Sector
+Naguabo,Business_Services,36,0.8763064423698287,Sector
+Naguabo,Business_Products,69,0.0832091560443321,Sector
+Naguabo,Construction,72,0.02407401797073061,Sector
+Naguabo,Services,58,0.32103468675035196,Sector
+Naguabo,Mining,8,0.645356137387248,Sector
+Naguabo,Health_Care,69,0.6749079072572681,Sector
+Naguabo,EnergyExpL_Prod,70,0.9123140986091149,Sector
+Naguabo,Utilities,60,0.5494929717342607,Sector

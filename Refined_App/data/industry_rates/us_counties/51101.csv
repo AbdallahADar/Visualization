@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,King William,1892,0.31108090399684096,Overall
-King William,Technology,146,0.4247132679335047,Sector
-King William,Healthcare,220,0.8365645007414854,Sector
-King William,Finance,118,0.1505193067709958,Sector
-King William,Energy,240,0.1365537185743726,Sector
-King William,Consumer Goods,122,0.7040949125902373,Sector
-King William,Utilities,158,0.7525361964930265,Sector
-King William,Real Estate,154,0.6123152257585419,Sector
-King William,Telecommunications,129,0.04633938444887875,Sector
-King William,Materials,251,0.5332778558260113,Sector
-King William,Industrials,58,0.22709834902058068,Sector
-King William,Consumer Services,119,0.5223597968872317,Sector
-King William,Transportation,177,0.1489176748948401,Sector
-Technology,Software,33,0.8391060817620133,Industry
-Technology,Hardware,40,0.5989679005228583,Industry
-Technology,IT Services,73,0.9916697002974293,Industry
-Healthcare,Pharmaceuticals,74,0.6648540017702356,Industry
-Healthcare,Medical Devices,79,0.9956521569348273,Industry
-Healthcare,Healthcare Services,67,0.2891751139613279,Industry
-Finance,Banking,59,0.2809358631574316,Industry
-Finance,Insurance,53,0.42717818939452123,Industry
-Finance,Investment Services,6,0.08296771579060191,Industry
-Energy,Oil & Gas,60,0.2353647162245317,Industry
-Energy,Renewable Energy,99,0.8801448813143392,Industry
-Energy,Energy Exploration,81,0.6546848892186035,Industry
-Consumer Goods,Food & Beverage,31,0.14417755279998845,Industry
-Consumer Goods,Household Products,10,0.6320774413814012,Industry
-Consumer Goods,Apparel,81,0.845172990067763,Industry
-Utilities,Electric,35,0.1802837613361602,Industry
-Utilities,Water,97,0.7129937806984474,Industry
-Utilities,Gas,26,0.11207135016201786,Industry
-Real Estate,Residential,96,0.19484222937207663,Industry
-Real Estate,Commercial,44,0.30993006136607637,Industry
-Real Estate,Industrial,14,0.9725028444287842,Industry
-Telecommunications,Mobile,42,0.7555193628091501,Industry
-Telecommunications,Broadband,67,0.619549508605805,Industry
-Telecommunications,Satellite,20,0.4383575007182571,Industry
-Materials,Chemicals,88,0.04994969519424286,Industry
-Materials,Metals & Mining,69,0.6738322411520034,Industry
-Materials,Construction Materials,94,0.5181249397561146,Industry
-Industrials,Aerospace & Defense,7,0.9366837300901256,Industry
-Industrials,Machinery,41,0.675203187233673,Industry
-Industrials,Industrial Services,10,0.6354362082953421,Industry
-Consumer Services,Retail,15,0.8239086306330786,Industry
-Consumer Services,Travel & Leisure,66,0.6502560492512979,Industry
-Consumer Services,Media,38,0.8782160342576784,Industry
-Transportation,Airlines,32,0.6851941597750958,Industry
-Transportation,Railroads,88,0.4046519276308773,Industry
-Transportation,Logistics,57,0.653144135647645,Industry
+,King William,703,0.4713616539311706,Overall
+King William,HiTech,42,0.0521441501287514,Sector
+King William,Agriculture,42,0.7204479755879042,Sector
+King William,Transportation,26,0.9344085407756912,Sector
+King William,Consumer_Products,59,0.6895751682481922,Sector
+King William,Unassigned,84,0.11389313192261774,Sector
+King William,Communication,19,0.10143287161962311,Sector
+King William,Trade,25,0.9646536563993464,Sector
+King William,Business_Services,36,0.2930765292232267,Sector
+King William,Business_Products,36,0.39317396143720706,Sector
+King William,Construction,64,0.7404406587715854,Sector
+King William,Services,81,0.8010718050995713,Sector
+King William,Mining,50,0.3341182777747994,Sector
+King William,Health_Care,25,0.8158987943224699,Sector
+King William,EnergyExpL_Prod,34,0.09846446708653744,Sector
+King William,Utilities,80,0.017624820570034894,Sector

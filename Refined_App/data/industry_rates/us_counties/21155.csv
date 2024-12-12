@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Marion,1533,0.030027820749377265,Overall
-Marion,Technology,113,0.86957294669924,Sector
-Marion,Healthcare,102,0.08921803048509425,Sector
-Marion,Finance,97,0.6070387898117905,Sector
-Marion,Energy,101,0.3986086827152656,Sector
-Marion,Consumer Goods,167,0.016793297133683716,Sector
-Marion,Utilities,121,0.002427574733151916,Sector
-Marion,Real Estate,124,0.8907483974855878,Sector
-Marion,Telecommunications,79,0.92930153031168,Sector
-Marion,Materials,152,0.9250325093162851,Sector
-Marion,Industrials,184,0.4618784934609963,Sector
-Marion,Consumer Services,119,0.17112723693149523,Sector
-Marion,Transportation,174,0.8290964475529917,Sector
-Technology,Software,64,0.2879471772720662,Industry
-Technology,Hardware,46,0.7764583381243659,Industry
-Technology,IT Services,3,0.1740744022055316,Industry
-Healthcare,Pharmaceuticals,13,0.935679619630709,Industry
-Healthcare,Medical Devices,48,0.6273262595065363,Industry
-Healthcare,Healthcare Services,41,0.11476458260803557,Industry
-Finance,Banking,34,0.5553503320121366,Industry
-Finance,Insurance,62,0.20165443361237168,Industry
-Finance,Investment Services,1,0.7116494108907765,Industry
-Energy,Oil & Gas,58,0.6268719462774577,Industry
-Energy,Renewable Energy,1,0.1506899023993984,Industry
-Energy,Energy Exploration,42,0.6862086157797747,Industry
-Consumer Goods,Food & Beverage,54,0.8512440919568224,Industry
-Consumer Goods,Household Products,49,0.2651536013892404,Industry
-Consumer Goods,Apparel,64,0.5604101782916747,Industry
-Utilities,Electric,55,0.006246085806135393,Industry
-Utilities,Water,25,0.08933940736286716,Industry
-Utilities,Gas,41,0.2617461880986741,Industry
-Real Estate,Residential,84,0.7783834986669571,Industry
-Real Estate,Commercial,31,0.22836225516912445,Industry
-Real Estate,Industrial,9,0.9404454495042207,Industry
-Telecommunications,Mobile,1,0.8791178276079669,Industry
-Telecommunications,Broadband,77,0.19558885711330676,Industry
-Telecommunications,Satellite,1,0.8225357325577642,Industry
-Materials,Chemicals,7,0.48735744034631656,Industry
-Materials,Metals & Mining,70,0.7074964923435139,Industry
-Materials,Construction Materials,75,0.5438576401440203,Industry
-Industrials,Aerospace & Defense,68,0.668360223842531,Industry
-Industrials,Machinery,19,0.8261968473252541,Industry
-Industrials,Industrial Services,97,0.9988480017290421,Industry
-Consumer Services,Retail,75,0.6089361334906744,Industry
-Consumer Services,Travel & Leisure,33,0.42511646648125045,Industry
-Consumer Services,Media,11,0.6789203322561467,Industry
-Transportation,Airlines,57,0.7008154926442534,Industry
-Transportation,Railroads,77,0.10688225331732704,Industry
-Transportation,Logistics,40,0.6303683909758546,Industry
+,Marion,965,0.2986351743904501,Overall
+Marion,HiTech,0,0.14078926964192984,Sector
+Marion,Agriculture,59,0.3282596305296418,Sector
+Marion,Transportation,64,0.03019608604673618,Sector
+Marion,Consumer_Products,57,0.5080471539301947,Sector
+Marion,Unassigned,80,0.13073219925054202,Sector
+Marion,Communication,5,0.09768156657940119,Sector
+Marion,Trade,99,0.24736810379887686,Sector
+Marion,Business_Services,87,0.2179367523644804,Sector
+Marion,Business_Products,82,0.48990424645520736,Sector
+Marion,Construction,68,0.02017423803211038,Sector
+Marion,Services,59,0.23273288776736123,Sector
+Marion,Mining,99,0.9980460284590389,Sector
+Marion,Health_Care,67,0.838826243256843,Sector
+Marion,EnergyExpL_Prod,70,0.1002644079995606,Sector
+Marion,Utilities,69,0.09856880174482607,Sector

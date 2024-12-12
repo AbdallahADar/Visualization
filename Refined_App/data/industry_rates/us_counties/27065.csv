@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kanabec,1809,0.7748393576549545,Overall
-Kanabec,Technology,109,0.6661576610568298,Sector
-Kanabec,Healthcare,212,0.969264343873363,Sector
-Kanabec,Finance,110,0.3096657680689636,Sector
-Kanabec,Energy,122,0.9444607747943823,Sector
-Kanabec,Consumer Goods,170,0.5008792876583904,Sector
-Kanabec,Utilities,217,0.09126490690570288,Sector
-Kanabec,Real Estate,31,0.38054235437115413,Sector
-Kanabec,Telecommunications,153,0.19612184590409032,Sector
-Kanabec,Materials,190,0.9057846018682159,Sector
-Kanabec,Industrials,150,0.3745659499196654,Sector
-Kanabec,Consumer Services,190,0.6560661461908209,Sector
-Kanabec,Transportation,155,0.2729518789413907,Sector
-Technology,Software,75,0.2731612530818248,Industry
-Technology,Hardware,2,0.34822649213339474,Industry
-Technology,IT Services,32,0.7330089220560586,Industry
-Healthcare,Pharmaceuticals,51,0.8681689891864395,Industry
-Healthcare,Medical Devices,73,0.210671486507242,Industry
-Healthcare,Healthcare Services,88,0.5159197678794524,Industry
-Finance,Banking,75,0.20836802815718403,Industry
-Finance,Insurance,1,0.5330654286036787,Industry
-Finance,Investment Services,34,0.13859450930231154,Industry
-Energy,Oil & Gas,57,0.20328117413710656,Industry
-Energy,Renewable Energy,28,0.7788232938671968,Industry
-Energy,Energy Exploration,37,0.4175907373593064,Industry
-Consumer Goods,Food & Beverage,67,0.706085501789754,Industry
-Consumer Goods,Household Products,86,0.7117410683764019,Industry
-Consumer Goods,Apparel,17,0.22999453921867752,Industry
-Utilities,Electric,98,0.9933391241851847,Industry
-Utilities,Water,99,0.03606471609030104,Industry
-Utilities,Gas,20,0.7062074691148045,Industry
-Real Estate,Residential,17,0.3384127142559863,Industry
-Real Estate,Commercial,4,0.013327030431619091,Industry
-Real Estate,Industrial,10,0.1340870452265326,Industry
-Telecommunications,Mobile,12,0.8121445907933416,Industry
-Telecommunications,Broadband,72,0.9618476578263015,Industry
-Telecommunications,Satellite,69,0.24839731404410015,Industry
-Materials,Chemicals,5,0.8400973668129155,Industry
-Materials,Metals & Mining,98,0.4662616142445861,Industry
-Materials,Construction Materials,87,0.3950416462454299,Industry
-Industrials,Aerospace & Defense,7,0.3730791144128982,Industry
-Industrials,Machinery,61,0.04115639964343176,Industry
-Industrials,Industrial Services,82,0.45609082252706723,Industry
-Consumer Services,Retail,34,0.8070486315269183,Industry
-Consumer Services,Travel & Leisure,66,0.12902747084655153,Industry
-Consumer Services,Media,90,0.6942078148933251,Industry
-Transportation,Airlines,65,0.28576556188917734,Industry
-Transportation,Railroads,44,0.17550931923290425,Industry
-Transportation,Logistics,46,0.8023114021004268,Industry
+,Kanabec,715,0.4945739864006511,Overall
+Kanabec,HiTech,24,0.684978439540357,Sector
+Kanabec,Agriculture,14,0.08562656983317485,Sector
+Kanabec,Transportation,23,0.503801118671441,Sector
+Kanabec,Consumer_Products,90,0.29058260754186604,Sector
+Kanabec,Unassigned,2,0.13049258666528896,Sector
+Kanabec,Communication,69,0.35590420973954195,Sector
+Kanabec,Trade,68,0.6772032108475322,Sector
+Kanabec,Business_Services,81,0.6534257084448734,Sector
+Kanabec,Business_Products,64,0.6500664868373668,Sector
+Kanabec,Construction,21,0.6599046622578855,Sector
+Kanabec,Services,26,0.5504740978998611,Sector
+Kanabec,Mining,72,0.09352032566620472,Sector
+Kanabec,Health_Care,31,0.9831412218119113,Sector
+Kanabec,EnergyExpL_Prod,84,0.5686874176016354,Sector
+Kanabec,Utilities,46,0.5308011326508258,Sector

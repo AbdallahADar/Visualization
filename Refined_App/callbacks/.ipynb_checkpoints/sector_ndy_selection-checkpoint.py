@@ -41,9 +41,15 @@ def register_callbacks(app):
                 data_path = f"data/sample_data/Country={SM.country}/data.csv"
 
             df = pd.read_csv(data_path)
+            
+            df['Growth'] = df['Growth'].astype(str)
+            df['Borrow'] = df['Borrow'].astype(str)
+            df['Shrink'] = df['Shrink'].astype(str)
 
             # Update step
             SM.step = "table"
+            
+            print(clicked["points"][0])
 
             ## Get full path of selection
             path = clicked["points"][0]["currentPath"] + clicked["points"][0]["label"]

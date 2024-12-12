@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Houghton,1645,0.4443490351348415,Overall
+Houghton,Technology,195,0.6586914533906116,Sector
+Houghton,Healthcare,98,0.45072685830990167,Sector
+Houghton,Finance,127,0.09555191414265651,Sector
+Houghton,Energy,97,0.6622558967020183,Sector
+Houghton,Consumer Goods,151,0.26611216917497793,Sector
+Houghton,Utilities,109,0.1705809277841035,Sector
+Houghton,Real Estate,111,0.7583248203868611,Sector
+Houghton,Telecommunications,172,0.8340610125552713,Sector
+Houghton,Materials,164,0.003084444569651734,Sector
+Houghton,Industrials,85,0.16579558662402194,Sector
+Houghton,Consumer Services,152,0.8959118222454808,Sector
+Houghton,Transportation,184,0.15978201728917563,Sector
+Technology,Software,19,0.5037040750235128,Industry
+Technology,Hardware,78,0.22885695291628727,Industry
+Technology,IT Services,98,0.864136730505611,Industry
+Healthcare,Pharmaceuticals,11,0.12947184921032306,Industry
+Healthcare,Medical Devices,0,0.9627875018577426,Industry
+Healthcare,Healthcare Services,87,0.1891942662923216,Industry
+Finance,Banking,33,0.7478698926326687,Industry
+Finance,Insurance,46,0.39820052992937927,Industry
+Finance,Investment Services,48,0.2703573800808624,Industry
+Energy,Oil & Gas,7,0.9072069027912462,Industry
+Energy,Renewable Energy,20,0.019649437003431025,Industry
+Energy,Energy Exploration,70,0.8058703599540888,Industry
+Consumer Goods,Food & Beverage,50,0.44397837364136405,Industry
+Consumer Goods,Household Products,27,0.9272514780334776,Industry
+Consumer Goods,Apparel,74,0.7158117764600002,Industry
+Utilities,Electric,0,0.2854602824587259,Industry
+Utilities,Water,98,0.1794417501332506,Industry
+Utilities,Gas,11,0.14757906915718733,Industry
+Real Estate,Residential,15,0.7535897136323466,Industry
+Real Estate,Commercial,56,0.6977748651849703,Industry
+Real Estate,Industrial,40,0.291040313567381,Industry
+Telecommunications,Mobile,70,0.09420726704499183,Industry
+Telecommunications,Broadband,32,0.897519392125739,Industry
+Telecommunications,Satellite,70,0.5416073045905656,Industry
+Materials,Chemicals,63,0.11705024958979637,Industry
+Materials,Metals & Mining,14,0.9313611554755907,Industry
+Materials,Construction Materials,87,0.025686261398430776,Industry
+Industrials,Aerospace & Defense,8,0.7699883940997128,Industry
+Industrials,Machinery,73,0.4848379478057746,Industry
+Industrials,Industrial Services,4,0.26540586427037594,Industry
+Consumer Services,Retail,15,0.501118927226404,Industry
+Consumer Services,Travel & Leisure,75,0.5256708617441472,Industry
+Consumer Services,Media,62,0.14342009951362455,Industry
+Transportation,Airlines,77,0.42522605794645707,Industry
+Transportation,Railroads,28,0.8581262290605499,Industry
+Transportation,Logistics,79,0.2473649437219373,Industry

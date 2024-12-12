@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Worcester,1510,0.27597536882191753,Overall
-Worcester,Technology,162,0.05548381513945211,Sector
-Worcester,Healthcare,164,0.7910631003370245,Sector
-Worcester,Finance,105,0.39109270622952175,Sector
-Worcester,Energy,114,0.07497043949879878,Sector
-Worcester,Consumer Goods,183,0.2796225489208677,Sector
-Worcester,Utilities,139,0.41985299830168044,Sector
-Worcester,Real Estate,179,0.28644729236412647,Sector
-Worcester,Telecommunications,94,0.8299962514589977,Sector
-Worcester,Materials,84,0.1427529148365585,Sector
-Worcester,Industrials,176,0.6873417735614671,Sector
-Worcester,Consumer Services,50,0.6229999841612297,Sector
-Worcester,Transportation,60,0.553604482956931,Sector
-Technology,Software,18,0.7297735243592012,Industry
-Technology,Hardware,76,0.19593328481399097,Industry
-Technology,IT Services,68,0.7032302575725884,Industry
-Healthcare,Pharmaceuticals,37,0.5689160957781404,Industry
-Healthcare,Medical Devices,75,0.1767810506802614,Industry
-Healthcare,Healthcare Services,52,0.34056134833431173,Industry
-Finance,Banking,46,0.3614893979070454,Industry
-Finance,Insurance,43,0.4312123766288386,Industry
-Finance,Investment Services,16,0.19129519421128616,Industry
-Energy,Oil & Gas,67,0.5118449034649929,Industry
-Energy,Renewable Energy,30,0.40120423618505974,Industry
-Energy,Energy Exploration,17,0.7187282171634872,Industry
-Consumer Goods,Food & Beverage,5,0.34188567812512316,Industry
-Consumer Goods,Household Products,79,0.4293948389831661,Industry
-Consumer Goods,Apparel,99,0.5840140700435218,Industry
-Utilities,Electric,53,0.5354357497593731,Industry
-Utilities,Water,69,0.2633380559264127,Industry
-Utilities,Gas,17,0.5684612582942496,Industry
-Real Estate,Residential,40,0.7207097770862103,Industry
-Real Estate,Commercial,57,0.5891914497606765,Industry
-Real Estate,Industrial,82,0.7186700775661261,Industry
-Telecommunications,Mobile,27,0.678641153043883,Industry
-Telecommunications,Broadband,63,0.3123718604321669,Industry
-Telecommunications,Satellite,4,0.5672066087892897,Industry
-Materials,Chemicals,24,0.828289175416978,Industry
-Materials,Metals & Mining,36,0.5145078915251784,Industry
-Materials,Construction Materials,24,0.050474434789895994,Industry
-Industrials,Aerospace & Defense,62,0.3514237667367297,Industry
-Industrials,Machinery,43,0.42123806640455264,Industry
-Industrials,Industrial Services,71,0.6266711150822667,Industry
-Consumer Services,Retail,3,0.2334121930422851,Industry
-Consumer Services,Travel & Leisure,15,0.02228373538200623,Industry
-Consumer Services,Media,32,0.011194675993202785,Industry
-Transportation,Airlines,1,0.5290924543902686,Industry
-Transportation,Railroads,29,0.08233444323601624,Industry
-Transportation,Logistics,30,0.09604366191269365,Industry
+,Worcester,717,0.3481840201116048,Overall
+Worcester,HiTech,67,0.622678473534676,Sector
+Worcester,Agriculture,7,0.5532613348422464,Sector
+Worcester,Transportation,65,0.0576741240670402,Sector
+Worcester,Consumer_Products,45,0.8337860347953738,Sector
+Worcester,Unassigned,78,0.2169055631439435,Sector
+Worcester,Communication,57,0.6354022843550844,Sector
+Worcester,Trade,50,0.29840322890339577,Sector
+Worcester,Business_Services,53,0.33613061289754087,Sector
+Worcester,Business_Products,40,0.5888692217117577,Sector
+Worcester,Construction,5,0.22157943824213555,Sector
+Worcester,Services,89,0.22101532954569736,Sector
+Worcester,Mining,39,0.012474384218671641,Sector
+Worcester,Health_Care,7,0.06519826759996639,Sector
+Worcester,EnergyExpL_Prod,99,0.5336843617073821,Sector
+Worcester,Utilities,16,0.02569764210915848,Sector

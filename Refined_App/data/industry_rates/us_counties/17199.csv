@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Williamson,1943,0.2548101654094971,Overall
-Williamson,Technology,183,0.3342926041151103,Sector
-Williamson,Healthcare,116,0.6188670794277583,Sector
-Williamson,Finance,211,0.6701798813755191,Sector
-Williamson,Energy,183,0.465487806974097,Sector
-Williamson,Consumer Goods,184,0.15421265788236038,Sector
-Williamson,Utilities,167,0.8797319527439678,Sector
-Williamson,Real Estate,177,0.7546004631047146,Sector
-Williamson,Telecommunications,190,0.9322712182780541,Sector
-Williamson,Materials,127,0.43400772251019293,Sector
-Williamson,Industrials,169,0.15931224526316334,Sector
-Williamson,Consumer Services,80,0.4191722298706282,Sector
-Williamson,Transportation,156,0.5974705358217585,Sector
-Technology,Software,20,0.11024945665766694,Industry
-Technology,Hardware,90,0.2955965085691086,Industry
-Technology,IT Services,73,0.8156059258220598,Industry
-Healthcare,Pharmaceuticals,60,0.1204292061930885,Industry
-Healthcare,Medical Devices,39,0.5739717114023462,Industry
-Healthcare,Healthcare Services,17,0.6247086954637039,Industry
-Finance,Banking,53,0.8531673466835411,Industry
-Finance,Insurance,88,0.7068606661629974,Industry
-Finance,Investment Services,70,0.07204422528852816,Industry
-Energy,Oil & Gas,78,0.041732606135272965,Industry
-Energy,Renewable Energy,21,0.3471248480564463,Industry
-Energy,Energy Exploration,84,0.7754835897162796,Industry
-Consumer Goods,Food & Beverage,71,0.13638662708426774,Industry
-Consumer Goods,Household Products,85,0.32133987191655033,Industry
-Consumer Goods,Apparel,28,0.6907239930797543,Industry
-Utilities,Electric,24,0.26648748812334144,Industry
-Utilities,Water,78,0.1151287469105785,Industry
-Utilities,Gas,65,0.6644298245906918,Industry
-Real Estate,Residential,21,0.5787092924695147,Industry
-Real Estate,Commercial,81,0.14211731648201098,Industry
-Real Estate,Industrial,75,0.8607469375207204,Industry
-Telecommunications,Mobile,43,0.8898945473197895,Industry
-Telecommunications,Broadband,63,0.8347457589949007,Industry
-Telecommunications,Satellite,84,0.2785322081666698,Industry
-Materials,Chemicals,8,0.8494200576771868,Industry
-Materials,Metals & Mining,51,0.5733404993826906,Industry
-Materials,Construction Materials,68,0.13073414006466055,Industry
-Industrials,Aerospace & Defense,33,0.8478135188470804,Industry
-Industrials,Machinery,94,0.2695224489266055,Industry
-Industrials,Industrial Services,42,0.8439519023059343,Industry
-Consumer Services,Retail,20,0.5114877291174581,Industry
-Consumer Services,Travel & Leisure,57,0.5850951221838955,Industry
-Consumer Services,Media,3,0.24235011294080389,Industry
-Transportation,Airlines,40,0.612420533872576,Industry
-Transportation,Railroads,58,0.1553124853050123,Industry
-Transportation,Logistics,58,0.1975867617412319,Industry
+,Williamson,720,0.49832539580554447,Overall
+Williamson,HiTech,3,0.8851697361366938,Sector
+Williamson,Agriculture,10,0.7321919025588878,Sector
+Williamson,Transportation,31,0.3413673544706971,Sector
+Williamson,Consumer_Products,13,0.15208172045045898,Sector
+Williamson,Unassigned,95,0.8247189858999836,Sector
+Williamson,Communication,86,0.06936450343962985,Sector
+Williamson,Trade,78,0.8288672695580667,Sector
+Williamson,Business_Services,61,0.9318376888429619,Sector
+Williamson,Business_Products,48,0.2676016940780588,Sector
+Williamson,Construction,88,0.11937563914192606,Sector
+Williamson,Services,52,0.4622030476862339,Sector
+Williamson,Mining,21,0.4940813339378366,Sector
+Williamson,Health_Care,29,0.7490886455591305,Sector
+Williamson,EnergyExpL_Prod,8,0.36099113260530835,Sector
+Williamson,Utilities,97,0.2559402827172942,Sector

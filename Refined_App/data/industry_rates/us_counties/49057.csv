@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Weber,1678,0.30531660665789073,Overall
-Weber,Technology,179,0.98925050420209,Sector
-Weber,Healthcare,207,0.29752303955195947,Sector
-Weber,Finance,79,0.9907028937769544,Sector
-Weber,Energy,135,0.8836541519250504,Sector
-Weber,Consumer Goods,240,0.9323831325196383,Sector
-Weber,Utilities,114,0.560920592054813,Sector
-Weber,Real Estate,106,0.2859018876410466,Sector
-Weber,Telecommunications,96,0.12156400933539657,Sector
-Weber,Materials,185,0.7441263049332181,Sector
-Weber,Industrials,153,0.5875920179236206,Sector
-Weber,Consumer Services,109,0.2961381082893152,Sector
-Weber,Transportation,75,0.33229777436697994,Sector
-Technology,Software,59,0.2967652426818166,Industry
-Technology,Hardware,87,0.3039409283714892,Industry
-Technology,IT Services,33,0.5951939660668559,Industry
-Healthcare,Pharmaceuticals,26,0.6649014401748353,Industry
-Healthcare,Medical Devices,97,0.46175361194658826,Industry
-Healthcare,Healthcare Services,84,0.6093949677966879,Industry
-Finance,Banking,20,0.8049202766997886,Industry
-Finance,Insurance,24,0.12418808168991247,Industry
-Finance,Investment Services,35,0.7085868523426505,Industry
-Energy,Oil & Gas,87,0.622182530950732,Industry
-Energy,Renewable Energy,10,0.053570724700598316,Industry
-Energy,Energy Exploration,38,0.33886337870685146,Industry
-Consumer Goods,Food & Beverage,90,0.6727591483648326,Industry
-Consumer Goods,Household Products,70,0.539170249377425,Industry
-Consumer Goods,Apparel,80,0.984764037526916,Industry
-Utilities,Electric,34,0.7281133259643754,Industry
-Utilities,Water,75,0.8210836368928691,Industry
-Utilities,Gas,5,0.13426268020670817,Industry
-Real Estate,Residential,21,0.7145098327636719,Industry
-Real Estate,Commercial,9,0.4415778080536039,Industry
-Real Estate,Industrial,76,0.5318325952227728,Industry
-Telecommunications,Mobile,23,0.8106937815853251,Industry
-Telecommunications,Broadband,13,0.5567319247054724,Industry
-Telecommunications,Satellite,60,0.3264417267155746,Industry
-Materials,Chemicals,86,0.7658170089979578,Industry
-Materials,Metals & Mining,50,0.8929759747005569,Industry
-Materials,Construction Materials,49,0.9109199573892233,Industry
-Industrials,Aerospace & Defense,25,0.9537778045502315,Industry
-Industrials,Machinery,97,0.6485817394999052,Industry
-Industrials,Industrial Services,31,0.20292958396543515,Industry
-Consumer Services,Retail,55,0.9889296647562991,Industry
-Consumer Services,Travel & Leisure,28,0.6174599055026233,Industry
-Consumer Services,Media,26,0.8931127610285032,Industry
-Transportation,Airlines,27,0.26509432844922076,Industry
-Transportation,Railroads,41,0.2562592750967225,Industry
-Transportation,Logistics,7,0.7240989873058177,Industry
+,Weber,687,0.40407590817552747,Overall
+Weber,HiTech,47,0.6106114254167717,Sector
+Weber,Agriculture,61,0.07280827067062967,Sector
+Weber,Transportation,41,0.2736520106459014,Sector
+Weber,Consumer_Products,84,0.6287864646851472,Sector
+Weber,Unassigned,86,0.18482026141603436,Sector
+Weber,Communication,17,0.20080113942895383,Sector
+Weber,Trade,13,0.1636885520521134,Sector
+Weber,Business_Services,29,0.703002407063118,Sector
+Weber,Business_Products,77,0.2873059532935336,Sector
+Weber,Construction,77,0.4027866963963781,Sector
+Weber,Services,92,0.8586011067307256,Sector
+Weber,Mining,26,0.6987157799158237,Sector
+Weber,Health_Care,15,0.3276776022801272,Sector
+Weber,EnergyExpL_Prod,1,0.10965544770058921,Sector
+Weber,Utilities,21,0.5382255049370642,Sector

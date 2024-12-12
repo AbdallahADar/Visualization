@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pierce,1810,0.8343556409292651,Overall
-Pierce,Technology,129,0.507129762854743,Sector
-Pierce,Healthcare,229,0.47512313839672315,Sector
-Pierce,Finance,182,0.29033996192626343,Sector
-Pierce,Energy,171,0.4318045818720012,Sector
-Pierce,Consumer Goods,224,0.6792367135026274,Sector
-Pierce,Utilities,145,0.23287662441919654,Sector
-Pierce,Real Estate,121,0.06095960057911798,Sector
-Pierce,Telecommunications,138,0.987824110248819,Sector
-Pierce,Materials,77,0.4863493155157158,Sector
-Pierce,Industrials,119,0.7717468956805508,Sector
-Pierce,Consumer Services,135,0.9779853333122652,Sector
-Pierce,Transportation,140,0.5526296949215431,Sector
-Technology,Software,66,0.4348826392592716,Industry
-Technology,Hardware,28,0.730134830180078,Industry
-Technology,IT Services,35,0.022484174306732774,Industry
-Healthcare,Pharmaceuticals,88,0.5083820007547504,Industry
-Healthcare,Medical Devices,71,0.09652027247429884,Industry
-Healthcare,Healthcare Services,70,0.3142929508140534,Industry
-Finance,Banking,62,0.4832672022760035,Industry
-Finance,Insurance,48,0.17536187630908517,Industry
-Finance,Investment Services,72,0.04222639290834895,Industry
-Energy,Oil & Gas,84,0.667889318498627,Industry
-Energy,Renewable Energy,12,0.5598232234087801,Industry
-Energy,Energy Exploration,75,0.9607973029669385,Industry
-Consumer Goods,Food & Beverage,85,0.13164055497025073,Industry
-Consumer Goods,Household Products,96,0.05841085394842327,Industry
-Consumer Goods,Apparel,43,0.057101427726680476,Industry
-Utilities,Electric,74,0.05165488181937716,Industry
-Utilities,Water,18,0.34674426262758495,Industry
-Utilities,Gas,53,0.3789536709340502,Industry
-Real Estate,Residential,50,0.6875294170820508,Industry
-Real Estate,Commercial,13,0.5902533934216214,Industry
-Real Estate,Industrial,58,0.21180610728242533,Industry
-Telecommunications,Mobile,81,0.7267245255514548,Industry
-Telecommunications,Broadband,50,0.5716126472481496,Industry
-Telecommunications,Satellite,7,0.28041524628307624,Industry
-Materials,Chemicals,26,0.7714047335574229,Industry
-Materials,Metals & Mining,20,0.32241012923943835,Industry
-Materials,Construction Materials,31,0.08479507056118218,Industry
-Industrials,Aerospace & Defense,75,0.473542737697597,Industry
-Industrials,Machinery,26,0.3349885823774369,Industry
-Industrials,Industrial Services,18,0.06800697866693006,Industry
-Consumer Services,Retail,35,0.8312287684707521,Industry
-Consumer Services,Travel & Leisure,80,0.32067924103208945,Industry
-Consumer Services,Media,20,0.6382623781101754,Industry
-Transportation,Airlines,59,0.6834834941271452,Industry
-Transportation,Railroads,80,0.9357360817856544,Industry
-Transportation,Logistics,1,0.7458879284901289,Industry
+,Pierce,718,0.6011425629627174,Overall
+Pierce,HiTech,1,0.5128668077605142,Sector
+Pierce,Agriculture,85,0.1238006150630776,Sector
+Pierce,Transportation,89,0.2758324275362112,Sector
+Pierce,Consumer_Products,4,0.38475058206869117,Sector
+Pierce,Unassigned,66,0.621852342792002,Sector
+Pierce,Communication,95,0.8545167760714916,Sector
+Pierce,Trade,52,0.6765402395073168,Sector
+Pierce,Business_Services,60,0.3972939504641311,Sector
+Pierce,Business_Products,2,0.6882347454776547,Sector
+Pierce,Construction,0,0.9058593763460964,Sector
+Pierce,Services,85,0.8300494622936022,Sector
+Pierce,Mining,40,0.20984886672624636,Sector
+Pierce,Health_Care,53,0.780211401502741,Sector
+Pierce,EnergyExpL_Prod,49,0.7736833110938924,Sector
+Pierce,Utilities,37,0.9817975397370918,Sector

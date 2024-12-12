@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fauquier,1418,0.9959278163959654,Overall
-Fauquier,Technology,171,0.749505356708958,Sector
-Fauquier,Healthcare,168,0.25867634288507624,Sector
-Fauquier,Finance,163,0.3634594259978935,Sector
-Fauquier,Energy,111,0.2865039432957289,Sector
-Fauquier,Consumer Goods,63,0.8161858591357466,Sector
-Fauquier,Utilities,117,0.9177736683543273,Sector
-Fauquier,Real Estate,71,0.7142310637561772,Sector
-Fauquier,Telecommunications,106,0.6180341004586805,Sector
-Fauquier,Materials,110,0.7338990545631755,Sector
-Fauquier,Industrials,95,0.23151279771520117,Sector
-Fauquier,Consumer Services,115,0.18025300305412173,Sector
-Fauquier,Transportation,128,0.8061598008731998,Sector
-Technology,Software,25,0.886885630879507,Industry
-Technology,Hardware,91,0.2563037400414695,Industry
-Technology,IT Services,55,0.03504504218490745,Industry
-Healthcare,Pharmaceuticals,22,0.31452008879715143,Industry
-Healthcare,Medical Devices,51,0.304468783500634,Industry
-Healthcare,Healthcare Services,95,0.43074259552093963,Industry
-Finance,Banking,18,0.039928306220626486,Industry
-Finance,Insurance,99,0.9886288237985055,Industry
-Finance,Investment Services,46,0.6614910454636094,Industry
-Energy,Oil & Gas,60,0.6202612637060424,Industry
-Energy,Renewable Energy,27,0.2217637682413005,Industry
-Energy,Energy Exploration,24,0.8304725191912417,Industry
-Consumer Goods,Food & Beverage,37,0.13577011050840837,Industry
-Consumer Goods,Household Products,10,0.13820580767649326,Industry
-Consumer Goods,Apparel,16,0.2621301970381301,Industry
-Utilities,Electric,37,0.14103675686039707,Industry
-Utilities,Water,80,0.3782420014416903,Industry
-Utilities,Gas,0,0.8785475193199977,Industry
-Real Estate,Residential,23,0.07277594179068592,Industry
-Real Estate,Commercial,7,0.5835069372216025,Industry
-Real Estate,Industrial,41,0.86967133444933,Industry
-Telecommunications,Mobile,29,0.7138039602514918,Industry
-Telecommunications,Broadband,10,0.04623428235358096,Industry
-Telecommunications,Satellite,67,0.7496490650037012,Industry
-Materials,Chemicals,17,0.23088343004932532,Industry
-Materials,Metals & Mining,40,0.1918822529655848,Industry
-Materials,Construction Materials,53,0.07827980985737248,Industry
-Industrials,Aerospace & Defense,8,0.2294621405596482,Industry
-Industrials,Machinery,16,0.6592753224856681,Industry
-Industrials,Industrial Services,71,0.038634629160461564,Industry
-Consumer Services,Retail,97,0.44225670220313507,Industry
-Consumer Services,Travel & Leisure,13,0.12944257556738825,Industry
-Consumer Services,Media,5,0.18722108621591171,Industry
-Transportation,Airlines,17,0.1813741894835318,Industry
-Transportation,Railroads,61,0.91665991297452,Industry
-Transportation,Logistics,50,0.33953757591339295,Industry
+,Fauquier,823,0.5231856609716715,Overall
+Fauquier,HiTech,84,0.45201046777650244,Sector
+Fauquier,Agriculture,57,0.8790815575607682,Sector
+Fauquier,Transportation,78,0.34808586559747823,Sector
+Fauquier,Consumer_Products,40,0.34290669678243024,Sector
+Fauquier,Unassigned,68,0.357226155500733,Sector
+Fauquier,Communication,23,0.8509931234871755,Sector
+Fauquier,Trade,24,0.4430681937877453,Sector
+Fauquier,Business_Services,47,0.04286968597227325,Sector
+Fauquier,Business_Products,86,0.865618825694875,Sector
+Fauquier,Construction,70,0.4007668339341337,Sector
+Fauquier,Services,18,0.41983281003177075,Sector
+Fauquier,Mining,99,0.6284262393051309,Sector
+Fauquier,Health_Care,32,0.7858302156325638,Sector
+Fauquier,EnergyExpL_Prod,36,0.4880174359917785,Sector
+Fauquier,Utilities,61,0.5430508075197131,Sector

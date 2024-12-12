@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sanborn,1446,0.8115509314071512,Overall
-Sanborn,Technology,72,0.9696054567926283,Sector
-Sanborn,Healthcare,189,0.573444835518591,Sector
-Sanborn,Finance,110,0.7625927205322643,Sector
-Sanborn,Energy,124,0.3569242149445222,Sector
-Sanborn,Consumer Goods,174,0.8553044242757262,Sector
-Sanborn,Utilities,152,0.5939641579542683,Sector
-Sanborn,Real Estate,67,0.20448952120911523,Sector
-Sanborn,Telecommunications,130,0.1484896309167163,Sector
-Sanborn,Materials,92,0.17958884673827735,Sector
-Sanborn,Industrials,102,0.6163792032450466,Sector
-Sanborn,Consumer Services,206,0.22263887091818357,Sector
-Sanborn,Transportation,28,0.24035670914749085,Sector
-Technology,Software,47,0.8972953872588701,Industry
-Technology,Hardware,0,0.6790352068954733,Industry
-Technology,IT Services,25,0.3344926779093579,Industry
-Healthcare,Pharmaceuticals,70,0.9899745033504154,Industry
-Healthcare,Medical Devices,68,0.8415218443526319,Industry
-Healthcare,Healthcare Services,51,0.7655553654096642,Industry
-Finance,Banking,68,0.5612653939938621,Industry
-Finance,Insurance,19,0.19357846541480495,Industry
-Finance,Investment Services,23,0.9045520114768364,Industry
-Energy,Oil & Gas,39,0.5434865304620424,Industry
-Energy,Renewable Energy,2,0.36818061116699063,Industry
-Energy,Energy Exploration,83,0.9689978400185439,Industry
-Consumer Goods,Food & Beverage,84,0.327871576507591,Industry
-Consumer Goods,Household Products,89,0.21955099410942747,Industry
-Consumer Goods,Apparel,1,0.5057965982444442,Industry
-Utilities,Electric,50,0.48972732796041507,Industry
-Utilities,Water,77,0.7108828410855041,Industry
-Utilities,Gas,25,0.7721269785197508,Industry
-Real Estate,Residential,34,0.03445902312393012,Industry
-Real Estate,Commercial,13,0.30336607624550815,Industry
-Real Estate,Industrial,20,0.546755449416397,Industry
-Telecommunications,Mobile,92,0.24055671620167807,Industry
-Telecommunications,Broadband,0,0.6807062974499755,Industry
-Telecommunications,Satellite,38,0.5984907365523248,Industry
-Materials,Chemicals,3,0.28075319672173216,Industry
-Materials,Metals & Mining,73,0.8821872034429729,Industry
-Materials,Construction Materials,16,0.4808865108535533,Industry
-Industrials,Aerospace & Defense,7,0.9434928416284794,Industry
-Industrials,Machinery,19,0.8559592008897907,Industry
-Industrials,Industrial Services,76,0.359075978817174,Industry
-Consumer Services,Retail,91,0.26299256229990253,Industry
-Consumer Services,Travel & Leisure,64,0.6081202864135703,Industry
-Consumer Services,Media,51,0.5240614453909878,Industry
-Transportation,Airlines,7,0.9461465380869937,Industry
-Transportation,Railroads,1,0.899412049078582,Industry
-Transportation,Logistics,20,0.13456410819750775,Industry
+,Sanborn,717,0.41043150322092453,Overall
+Sanborn,HiTech,23,0.8244374730388716,Sector
+Sanborn,Agriculture,63,0.06426713021197827,Sector
+Sanborn,Transportation,1,0.038248485915947206,Sector
+Sanborn,Consumer_Products,20,0.11860801860464443,Sector
+Sanborn,Unassigned,91,0.7426676377376762,Sector
+Sanborn,Communication,51,0.3079553517613838,Sector
+Sanborn,Trade,3,0.6590066609600812,Sector
+Sanborn,Business_Services,76,0.12124938198603841,Sector
+Sanborn,Business_Products,97,0.4464113453304629,Sector
+Sanborn,Construction,55,0.9900737391597498,Sector
+Sanborn,Services,81,0.3571846336610487,Sector
+Sanborn,Mining,21,0.037346623718014005,Sector
+Sanborn,Health_Care,29,0.576360387374812,Sector
+Sanborn,EnergyExpL_Prod,48,0.639384236020984,Sector
+Sanborn,Utilities,58,0.23327144283217638,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Petroleum,1741,0.25524501038161973,Overall
-Petroleum,Technology,120,0.15205097451467275,Sector
-Petroleum,Healthcare,113,0.9559760133739781,Sector
-Petroleum,Finance,95,0.38935863973617946,Sector
-Petroleum,Energy,158,0.3428472581296764,Sector
-Petroleum,Consumer Goods,218,0.8001597620294733,Sector
-Petroleum,Utilities,168,0.773561286671268,Sector
-Petroleum,Real Estate,174,0.16120035506770036,Sector
-Petroleum,Telecommunications,130,0.42549572539971003,Sector
-Petroleum,Materials,152,0.5734947562582404,Sector
-Petroleum,Industrials,97,0.4227803821481124,Sector
-Petroleum,Consumer Services,124,0.9301024417359584,Sector
-Petroleum,Transportation,192,0.41631695660597257,Sector
-Technology,Software,13,0.6670980461995535,Industry
-Technology,Hardware,28,0.018828381062424016,Industry
-Technology,IT Services,79,0.39280134121122334,Industry
-Healthcare,Pharmaceuticals,76,0.873576679778889,Industry
-Healthcare,Medical Devices,28,0.2633269025534938,Industry
-Healthcare,Healthcare Services,9,0.5134624457771555,Industry
-Finance,Banking,23,0.1670832210379396,Industry
-Finance,Insurance,7,0.9712546120730038,Industry
-Finance,Investment Services,65,0.8127778573325647,Industry
-Energy,Oil & Gas,94,0.1697616338647716,Industry
-Energy,Renewable Energy,35,0.49092687425836046,Industry
-Energy,Energy Exploration,29,0.5904709891808789,Industry
-Consumer Goods,Food & Beverage,41,0.5592823359742769,Industry
-Consumer Goods,Household Products,95,0.8442534484973508,Industry
-Consumer Goods,Apparel,82,0.42857760431700453,Industry
-Utilities,Electric,85,0.9112480677792328,Industry
-Utilities,Water,18,0.06359102508977343,Industry
-Utilities,Gas,65,0.5834872489189221,Industry
-Real Estate,Residential,32,0.5180265254896569,Industry
-Real Estate,Commercial,69,0.29907911398468245,Industry
-Real Estate,Industrial,73,0.011621106126385006,Industry
-Telecommunications,Mobile,55,0.8675874752033331,Industry
-Telecommunications,Broadband,45,0.4694690226316983,Industry
-Telecommunications,Satellite,30,0.7465581167742593,Industry
-Materials,Chemicals,48,0.08587605150135469,Industry
-Materials,Metals & Mining,7,0.9003377947514928,Industry
-Materials,Construction Materials,97,0.6160817410341664,Industry
-Industrials,Aerospace & Defense,7,0.28127225121209354,Industry
-Industrials,Machinery,31,0.6713322270731152,Industry
-Industrials,Industrial Services,59,0.4304356988324721,Industry
-Consumer Services,Retail,47,0.5552470961177451,Industry
-Consumer Services,Travel & Leisure,10,0.7093225741957746,Industry
-Consumer Services,Media,67,0.9728868259409758,Industry
-Transportation,Airlines,55,0.5171157097179707,Industry
-Transportation,Railroads,66,0.6328645001249265,Industry
-Transportation,Logistics,71,0.5223762310138975,Industry
+,Petroleum,739,0.45988537545756075,Overall
+Petroleum,HiTech,69,0.32956639064354076,Sector
+Petroleum,Agriculture,54,0.18383361030639578,Sector
+Petroleum,Transportation,69,0.7004284777062266,Sector
+Petroleum,Consumer_Products,33,0.5746768123764203,Sector
+Petroleum,Unassigned,91,0.27056506184443274,Sector
+Petroleum,Communication,32,0.19814410272245575,Sector
+Petroleum,Trade,33,0.5869591415519697,Sector
+Petroleum,Business_Services,74,0.6609322993963832,Sector
+Petroleum,Business_Products,11,0.5150112850106421,Sector
+Petroleum,Construction,20,0.4502676898474862,Sector
+Petroleum,Services,96,0.9095044968086035,Sector
+Petroleum,Mining,46,0.6665553352275301,Sector
+Petroleum,Health_Care,10,0.3482084227423623,Sector
+Petroleum,EnergyExpL_Prod,78,0.16150287192891655,Sector
+Petroleum,Utilities,23,0.34212463375004676,Sector

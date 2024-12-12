@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Jackson,1608,0.08964072277581892,Overall
-Jackson,Technology,171,0.8810851114883319,Sector
-Jackson,Healthcare,168,0.2554452149647616,Sector
-Jackson,Finance,125,0.6993431063116652,Sector
-Jackson,Energy,47,0.6681387238595097,Sector
-Jackson,Consumer Goods,143,0.23968577937967883,Sector
-Jackson,Utilities,89,0.6322336740292587,Sector
-Jackson,Real Estate,186,0.3335805525998581,Sector
-Jackson,Telecommunications,153,0.5441646971058653,Sector
-Jackson,Materials,74,0.7477165040085457,Sector
-Jackson,Industrials,159,0.412874845056594,Sector
-Jackson,Consumer Services,143,0.49201220434437265,Sector
-Jackson,Transportation,150,0.8445827402419859,Sector
-Technology,Software,56,0.005130811620547515,Industry
-Technology,Hardware,19,0.8302511483844939,Industry
-Technology,IT Services,96,0.8184208382220459,Industry
-Healthcare,Pharmaceuticals,42,0.034253372593989195,Industry
-Healthcare,Medical Devices,27,0.3108298563306192,Industry
-Healthcare,Healthcare Services,99,0.13877042139422557,Industry
-Finance,Banking,91,0.033488356202393654,Industry
-Finance,Insurance,28,0.03687577732406366,Industry
-Finance,Investment Services,6,0.9728175592481325,Industry
-Energy,Oil & Gas,21,0.31444316340551326,Industry
-Energy,Renewable Energy,15,0.09378284517649815,Industry
-Energy,Energy Exploration,11,0.0015572554554400542,Industry
-Consumer Goods,Food & Beverage,39,0.010405460078472761,Industry
-Consumer Goods,Household Products,70,0.5835333709303392,Industry
-Consumer Goods,Apparel,34,0.8219540491241067,Industry
-Utilities,Electric,1,0.499823388255219,Industry
-Utilities,Water,31,0.4680378641650882,Industry
-Utilities,Gas,57,0.0911819503466672,Industry
-Real Estate,Residential,38,0.5156122357342221,Industry
-Real Estate,Commercial,63,0.9099083421793481,Industry
-Real Estate,Industrial,85,0.8007529040291059,Industry
-Telecommunications,Mobile,76,0.30604417400599826,Industry
-Telecommunications,Broadband,14,0.26352187756873524,Industry
-Telecommunications,Satellite,63,0.2905851507352455,Industry
-Materials,Chemicals,35,0.06494826055537506,Industry
-Materials,Metals & Mining,16,0.5565608000620286,Industry
-Materials,Construction Materials,23,0.6988523897356665,Industry
-Industrials,Aerospace & Defense,13,0.18452609909116469,Industry
-Industrials,Machinery,96,0.02539243574991934,Industry
-Industrials,Industrial Services,50,0.7186499355501099,Industry
-Consumer Services,Retail,51,0.13024824763428855,Industry
-Consumer Services,Travel & Leisure,57,0.019611514821904374,Industry
-Consumer Services,Media,35,0.10424636027060152,Industry
-Transportation,Airlines,97,0.7989736568314643,Industry
-Transportation,Railroads,8,0.9454012147659321,Industry
-Transportation,Logistics,45,0.5290152910151172,Industry
+,Jackson,454,0.4415173198191587,Overall
+Jackson,HiTech,60,0.14779703279726486,Sector
+Jackson,Agriculture,2,0.8229418372407223,Sector
+Jackson,Transportation,75,0.26888251496866555,Sector
+Jackson,Consumer_Products,28,0.6847476655533332,Sector
+Jackson,Unassigned,32,0.7590233716368345,Sector
+Jackson,Communication,2,0.08735648223632686,Sector
+Jackson,Trade,26,0.9537381431453434,Sector
+Jackson,Business_Services,91,0.5376945198591238,Sector
+Jackson,Business_Products,12,0.01973096993465684,Sector
+Jackson,Construction,27,0.7790594218559366,Sector
+Jackson,Services,5,0.1615586273414381,Sector
+Jackson,Mining,38,0.42046123335096863,Sector
+Jackson,Health_Care,29,0.07786974995994012,Sector
+Jackson,EnergyExpL_Prod,22,0.31720365185678967,Sector
+Jackson,Utilities,5,0.5846945755500356,Sector

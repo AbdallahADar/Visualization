@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from utils.file_names import FILE_NAMES
-from plots.geo_plot_sub import COUNTRY_CHOROPLETH, US_STATE_CHOROPLETH, US_COUNTY_CHOROPLETH, NUTS_CHOROPLETH
+from plots.geo_plot_sub import COUNTRY_CHOROPLETH, COUNTRY_CHOROPLETH_RISK, US_STATE_CHOROPLETH, US_COUNTY_CHOROPLETH, NUTS_CHOROPLETH
 
 ## Consolidated function for plots
 
@@ -28,5 +28,14 @@ def geo_plot(sector, state, bg_color):
 
     else:
         fig = {}
+
+    return fig
+
+def geo_plot_risk(risk_type, bg_color):
+
+    # Convert step to file name
+    file_name = FILE_NAMES.get("countries", "")
+
+    fig = COUNTRY_CHOROPLETH_RISK(f"data/risk_scores/{risk_type}/{file_name}", risk_type, bg_color)
 
     return fig

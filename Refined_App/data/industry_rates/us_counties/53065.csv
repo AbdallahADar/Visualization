@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Stevens,1535,0.46468329488563276,Overall
-Stevens,Technology,113,0.7848902177967366,Sector
-Stevens,Healthcare,181,0.2326203005357389,Sector
-Stevens,Finance,58,0.6034844954636162,Sector
-Stevens,Energy,79,0.4483802783399975,Sector
-Stevens,Consumer Goods,84,0.23171731979822174,Sector
-Stevens,Utilities,247,0.4119740704262964,Sector
-Stevens,Real Estate,124,0.5561315318813096,Sector
-Stevens,Telecommunications,119,0.9246825930374734,Sector
-Stevens,Materials,166,0.14422587604372072,Sector
-Stevens,Industrials,136,0.9693390482198481,Sector
-Stevens,Consumer Services,100,0.5272445413125162,Sector
-Stevens,Transportation,128,0.3546537196577163,Sector
-Technology,Software,65,0.9788822319681927,Industry
-Technology,Hardware,43,0.8197608861708664,Industry
-Technology,IT Services,5,0.9483814277079754,Industry
-Healthcare,Pharmaceuticals,57,0.025000440035180316,Industry
-Healthcare,Medical Devices,48,0.12105354834506643,Industry
-Healthcare,Healthcare Services,76,0.7358771388172558,Industry
-Finance,Banking,10,0.3667825074366866,Industry
-Finance,Insurance,37,0.4304880161869489,Industry
-Finance,Investment Services,11,0.09365414873777589,Industry
-Energy,Oil & Gas,27,0.15369650531998713,Industry
-Energy,Renewable Energy,23,0.8742036225245582,Industry
-Energy,Energy Exploration,29,0.9852650505394552,Industry
-Consumer Goods,Food & Beverage,2,0.3268333874777748,Industry
-Consumer Goods,Household Products,65,0.7196373646111729,Industry
-Consumer Goods,Apparel,17,0.5901091154669609,Industry
-Utilities,Electric,96,0.5473374433092877,Industry
-Utilities,Water,57,0.19120758627476508,Industry
-Utilities,Gas,94,0.8969202037498,Industry
-Real Estate,Residential,1,0.073056764368289,Industry
-Real Estate,Commercial,43,0.9190949180450171,Industry
-Real Estate,Industrial,80,0.3243353375847301,Industry
-Telecommunications,Mobile,8,0.09118761646936913,Industry
-Telecommunications,Broadband,27,0.9051350202894289,Industry
-Telecommunications,Satellite,84,0.33100469985778225,Industry
-Materials,Chemicals,47,0.08801116229636785,Industry
-Materials,Metals & Mining,68,0.5076888726454866,Industry
-Materials,Construction Materials,51,0.17452744886407856,Industry
-Industrials,Aerospace & Defense,66,0.5866159239473838,Industry
-Industrials,Machinery,32,0.3635823897833549,Industry
-Industrials,Industrial Services,38,0.16887707783026107,Industry
-Consumer Services,Retail,66,0.28313822315143966,Industry
-Consumer Services,Travel & Leisure,21,0.8046466079653878,Industry
-Consumer Services,Media,13,0.6814698723269529,Industry
-Transportation,Airlines,10,0.4220948227848821,Industry
-Transportation,Railroads,50,0.6998068126001382,Industry
-Transportation,Logistics,68,0.6515945286281054,Industry
+,Stevens,610,0.49606709825885525,Overall
+Stevens,HiTech,6,0.5387039206442678,Sector
+Stevens,Agriculture,59,0.9592866130134287,Sector
+Stevens,Transportation,12,0.7552112584626258,Sector
+Stevens,Consumer_Products,16,0.09870890381737107,Sector
+Stevens,Unassigned,99,0.6475876586274391,Sector
+Stevens,Communication,42,0.06831571611110199,Sector
+Stevens,Trade,45,0.9081295235899088,Sector
+Stevens,Business_Services,72,0.08536016683280567,Sector
+Stevens,Business_Products,11,0.8113810151544355,Sector
+Stevens,Construction,12,0.3462982588788672,Sector
+Stevens,Services,33,0.537554776981794,Sector
+Stevens,Mining,71,0.9512292569819286,Sector
+Stevens,Health_Care,10,0.5524835197394485,Sector
+Stevens,EnergyExpL_Prod,61,0.027361918354849135,Sector
+Stevens,Utilities,61,0.15339396669255623,Sector

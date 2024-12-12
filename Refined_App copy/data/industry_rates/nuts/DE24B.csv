@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Kulmbach,1790,0.309181466530958,Overall
+Kulmbach,Technology,172,0.8432936917541212,Sector
+Kulmbach,Healthcare,51,0.5689945606337427,Sector
+Kulmbach,Finance,123,0.3024010641080419,Sector
+Kulmbach,Energy,210,0.6025648608398568,Sector
+Kulmbach,Consumer Goods,172,0.9411606874673137,Sector
+Kulmbach,Utilities,71,0.9764920471209501,Sector
+Kulmbach,Real Estate,180,0.9848314297442113,Sector
+Kulmbach,Telecommunications,108,0.15707729468002496,Sector
+Kulmbach,Materials,128,0.6628674587135976,Sector
+Kulmbach,Industrials,167,0.5559917135581163,Sector
+Kulmbach,Consumer Services,222,0.23994590868438637,Sector
+Kulmbach,Transportation,186,0.3282125063215289,Sector
+Technology,Software,58,0.667273051415245,Industry
+Technology,Hardware,41,0.42910954882725816,Industry
+Technology,IT Services,73,0.024437445272438296,Industry
+Healthcare,Pharmaceuticals,9,0.1343327194135312,Industry
+Healthcare,Medical Devices,36,0.3675860661823367,Industry
+Healthcare,Healthcare Services,6,0.745450566239789,Industry
+Finance,Banking,38,0.8154682513463136,Industry
+Finance,Insurance,1,0.4334226533822354,Industry
+Finance,Investment Services,84,0.6313352529578453,Industry
+Energy,Oil & Gas,96,0.34485502983164074,Industry
+Energy,Renewable Energy,95,0.8773631540603248,Industry
+Energy,Energy Exploration,19,0.04404965692097951,Industry
+Consumer Goods,Food & Beverage,59,0.6764741455655032,Industry
+Consumer Goods,Household Products,39,0.04161122088118896,Industry
+Consumer Goods,Apparel,74,0.15502368830785007,Industry
+Utilities,Electric,24,0.6034639316822633,Industry
+Utilities,Water,19,0.08724734056153394,Industry
+Utilities,Gas,28,0.37481000012246013,Industry
+Real Estate,Residential,72,0.6401974954057247,Industry
+Real Estate,Commercial,17,0.9300463380974475,Industry
+Real Estate,Industrial,91,0.5834289317456118,Industry
+Telecommunications,Mobile,66,0.5839583920278583,Industry
+Telecommunications,Broadband,28,0.23603805279044654,Industry
+Telecommunications,Satellite,14,0.6627829179670106,Industry
+Materials,Chemicals,89,0.5074304865084893,Industry
+Materials,Metals & Mining,25,0.3740559892458786,Industry
+Materials,Construction Materials,14,0.46065161288474343,Industry
+Industrials,Aerospace & Defense,52,0.15770810305867355,Industry
+Industrials,Machinery,27,0.4101576681201784,Industry
+Industrials,Industrial Services,88,0.41251324107393084,Industry
+Consumer Services,Retail,48,0.43415198907096175,Industry
+Consumer Services,Travel & Leisure,77,0.05877744611040392,Industry
+Consumer Services,Media,97,0.8080050233587572,Industry
+Transportation,Airlines,90,0.3635173789535484,Industry
+Transportation,Railroads,38,0.8283326597517146,Industry
+Transportation,Logistics,58,0.8028139214729367,Industry

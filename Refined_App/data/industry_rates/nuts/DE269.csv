@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Miltenberg,1984,0.1392264412864409,Overall
-Miltenberg,Technology,143,0.720147212813118,Sector
-Miltenberg,Healthcare,165,0.3443697677802241,Sector
-Miltenberg,Finance,123,0.7002585702830076,Sector
-Miltenberg,Energy,161,0.11886399429894956,Sector
-Miltenberg,Consumer Goods,120,0.37414179815165205,Sector
-Miltenberg,Utilities,152,0.6531462057529189,Sector
-Miltenberg,Real Estate,179,0.47506823317471136,Sector
-Miltenberg,Telecommunications,182,0.1529046845934685,Sector
-Miltenberg,Materials,153,0.03185528982523522,Sector
-Miltenberg,Industrials,193,0.2381843544156541,Sector
-Miltenberg,Consumer Services,190,0.043995718811576934,Sector
-Miltenberg,Transportation,223,0.8780436691317122,Sector
-Technology,Software,51,0.4991690772530948,Industry
-Technology,Hardware,11,0.4560905027693253,Industry
-Technology,IT Services,81,0.3569843082785361,Industry
-Healthcare,Pharmaceuticals,27,0.08532642499215148,Industry
-Healthcare,Medical Devices,80,0.658772768570678,Industry
-Healthcare,Healthcare Services,58,0.9793731970231307,Industry
-Finance,Banking,27,0.41144816265912076,Industry
-Finance,Insurance,22,0.5798017274235284,Industry
-Finance,Investment Services,74,0.7002759376681347,Industry
-Energy,Oil & Gas,55,0.42695984505871853,Industry
-Energy,Renewable Energy,82,0.8523543101123389,Industry
-Energy,Energy Exploration,24,0.3486257555357949,Industry
-Consumer Goods,Food & Beverage,1,0.9991071822262797,Industry
-Consumer Goods,Household Products,20,0.5860179647352747,Industry
-Consumer Goods,Apparel,99,0.21076066044612596,Industry
-Utilities,Electric,98,0.8506580575841346,Industry
-Utilities,Water,26,0.8281605909613229,Industry
-Utilities,Gas,28,0.14263278599627272,Industry
-Real Estate,Residential,38,0.19376881734230267,Industry
-Real Estate,Commercial,88,0.8637458275844151,Industry
-Real Estate,Industrial,53,0.3033845760063608,Industry
-Telecommunications,Mobile,76,0.4315358814521929,Industry
-Telecommunications,Broadband,68,0.7822843992850133,Industry
-Telecommunications,Satellite,38,0.8634429296219344,Industry
-Materials,Chemicals,94,0.5479382885577956,Industry
-Materials,Metals & Mining,1,0.22298157841513633,Industry
-Materials,Construction Materials,58,0.26430657757521536,Industry
-Industrials,Aerospace & Defense,73,0.5491635614644411,Industry
-Industrials,Machinery,70,0.3863931139095067,Industry
-Industrials,Industrial Services,50,0.16983611533464138,Industry
-Consumer Services,Retail,36,0.6029371246887377,Industry
-Consumer Services,Travel & Leisure,60,0.031732044700908846,Industry
-Consumer Services,Media,94,0.9917514360549927,Industry
-Transportation,Airlines,46,0.8339825756299949,Industry
-Transportation,Railroads,98,0.08128693337396853,Industry
-Transportation,Logistics,79,0.13820357659506,Industry
+,Miltenberg,771,0.49061056477704784,Overall
+Miltenberg,HiTech,56,0.20675752854357743,Sector
+Miltenberg,Agriculture,51,0.036922104451628246,Sector
+Miltenberg,Transportation,6,0.049512189445979904,Sector
+Miltenberg,Consumer_Products,1,0.6035746669840164,Sector
+Miltenberg,Unassigned,68,0.35179774936074526,Sector
+Miltenberg,Communication,58,0.363226597475251,Sector
+Miltenberg,Trade,85,0.7758126330141619,Sector
+Miltenberg,Business_Services,91,0.7157828904688646,Sector
+Miltenberg,Business_Products,11,0.5443638026399414,Sector
+Miltenberg,Construction,75,0.625967081524488,Sector
+Miltenberg,Services,61,0.7901109949225316,Sector
+Miltenberg,Mining,57,0.9428388112971501,Sector
+Miltenberg,Health_Care,43,0.11953580136298758,Sector
+Miltenberg,EnergyExpL_Prod,35,0.4256901052388866,Sector
+Miltenberg,Utilities,73,0.8072655149255077,Sector

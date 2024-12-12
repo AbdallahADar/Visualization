@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Duval,1909,0.4924612240071672,Overall
-Duval,Technology,130,0.00402862552600225,Sector
-Duval,Healthcare,161,0.7682931126881944,Sector
-Duval,Finance,120,0.14420578041673593,Sector
-Duval,Energy,152,0.17110387376868108,Sector
-Duval,Consumer Goods,118,0.49455093754707813,Sector
-Duval,Utilities,283,0.13487660993455342,Sector
-Duval,Real Estate,198,0.7692108980431475,Sector
-Duval,Telecommunications,110,0.7696443225880069,Sector
-Duval,Materials,142,0.6925632487716495,Sector
-Duval,Industrials,120,0.3699340584500068,Sector
-Duval,Consumer Services,140,0.9372840437159361,Sector
-Duval,Transportation,235,0.6097069161699037,Sector
-Technology,Software,65,0.640100287399566,Industry
-Technology,Hardware,63,0.584090876289444,Industry
-Technology,IT Services,2,0.13291712724477045,Industry
-Healthcare,Pharmaceuticals,44,0.6362274353793635,Industry
-Healthcare,Medical Devices,69,0.8157633753431873,Industry
-Healthcare,Healthcare Services,48,0.649466345894619,Industry
-Finance,Banking,66,0.6002822689381005,Industry
-Finance,Insurance,27,0.1020270607449335,Industry
-Finance,Investment Services,27,0.29017657511556283,Industry
-Energy,Oil & Gas,64,0.2158465104730274,Industry
-Energy,Renewable Energy,25,0.26537270960726134,Industry
-Energy,Energy Exploration,63,0.6778420138011187,Industry
-Consumer Goods,Food & Beverage,33,0.6301184996285873,Industry
-Consumer Goods,Household Products,30,0.7798387285381951,Industry
-Consumer Goods,Apparel,55,0.6100605691493055,Industry
-Utilities,Electric,91,0.6047459088674328,Industry
-Utilities,Water,99,0.32604835759495987,Industry
-Utilities,Gas,93,0.42814278303071907,Industry
-Real Estate,Residential,95,0.6295746647887974,Industry
-Real Estate,Commercial,39,0.974686017361461,Industry
-Real Estate,Industrial,64,0.45551186133860866,Industry
-Telecommunications,Mobile,1,0.8547561948107368,Industry
-Telecommunications,Broadband,37,0.3512228452987889,Industry
-Telecommunications,Satellite,72,0.7769366927787543,Industry
-Materials,Chemicals,79,0.4316266541320287,Industry
-Materials,Metals & Mining,26,0.27074999778774544,Industry
-Materials,Construction Materials,37,0.3588747353611025,Industry
-Industrials,Aerospace & Defense,17,0.6243289806036675,Industry
-Industrials,Machinery,24,0.07015598766417253,Industry
-Industrials,Industrial Services,79,0.7212257561473137,Industry
-Consumer Services,Retail,9,0.9110570062522134,Industry
-Consumer Services,Travel & Leisure,92,0.05440477785488773,Industry
-Consumer Services,Media,39,0.6429012304583894,Industry
-Transportation,Airlines,98,0.2852946292565748,Industry
-Transportation,Railroads,90,0.1871201207208314,Industry
-Transportation,Logistics,47,0.13230587827824136,Industry
+,Duval,614,0.43329982177727844,Overall
+Duval,HiTech,12,0.8277443742010145,Sector
+Duval,Agriculture,12,0.851743157227816,Sector
+Duval,Transportation,37,0.5542086967951904,Sector
+Duval,Consumer_Products,9,0.14003901207214253,Sector
+Duval,Unassigned,46,0.15575416944904186,Sector
+Duval,Communication,1,0.29536893960972865,Sector
+Duval,Trade,23,0.05688239982871013,Sector
+Duval,Business_Services,78,0.24664772587086892,Sector
+Duval,Business_Products,76,0.6204724330703301,Sector
+Duval,Construction,89,0.17297453968376364,Sector
+Duval,Services,74,0.33913996920110634,Sector
+Duval,Mining,57,0.768281316886715,Sector
+Duval,Health_Care,3,0.0701127397017266,Sector
+Duval,EnergyExpL_Prod,27,0.5343349208325711,Sector
+Duval,Utilities,70,0.8657929322284506,Sector

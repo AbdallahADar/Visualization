@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Renville,1684,0.3665114231027754,Overall
-Renville,Technology,89,0.4940165139408411,Sector
-Renville,Healthcare,166,0.6810432420231435,Sector
-Renville,Finance,119,0.40831815686019945,Sector
-Renville,Energy,194,0.25098201415889676,Sector
-Renville,Consumer Goods,116,0.0038471969761311176,Sector
-Renville,Utilities,204,0.9616704471588517,Sector
-Renville,Real Estate,164,0.5252501172096361,Sector
-Renville,Telecommunications,37,0.1127427949172799,Sector
-Renville,Materials,108,0.13030908520314144,Sector
-Renville,Industrials,122,0.5227096435533306,Sector
-Renville,Consumer Services,204,0.37020809332403737,Sector
-Renville,Transportation,161,0.2121054917688826,Sector
-Technology,Software,52,0.3458021887874093,Industry
-Technology,Hardware,28,0.3542507092467192,Industry
-Technology,IT Services,9,0.5205980242211053,Industry
-Healthcare,Pharmaceuticals,61,0.6284996274178679,Industry
-Healthcare,Medical Devices,71,0.45634193243391297,Industry
-Healthcare,Healthcare Services,34,0.3798362866322418,Industry
-Finance,Banking,89,0.35500972148756715,Industry
-Finance,Insurance,6,0.5398157165417593,Industry
-Finance,Investment Services,24,0.6692835567199255,Industry
-Energy,Oil & Gas,11,0.1293689396915363,Industry
-Energy,Renewable Energy,90,0.9642898754451554,Industry
-Energy,Energy Exploration,93,0.6315071421113277,Industry
-Consumer Goods,Food & Beverage,1,0.4704622676021226,Industry
-Consumer Goods,Household Products,43,0.8655628813806918,Industry
-Consumer Goods,Apparel,72,0.7036753885489633,Industry
-Utilities,Electric,96,0.390696517746147,Industry
-Utilities,Water,41,0.26386888793718366,Industry
-Utilities,Gas,67,0.3846793957400414,Industry
-Real Estate,Residential,98,0.6506025047709498,Industry
-Real Estate,Commercial,4,0.05035422144107948,Industry
-Real Estate,Industrial,62,0.7550001857109996,Industry
-Telecommunications,Mobile,8,0.869507050003369,Industry
-Telecommunications,Broadband,10,0.5343464912869691,Industry
-Telecommunications,Satellite,19,0.07977981061800832,Industry
-Materials,Chemicals,29,0.361489497929947,Industry
-Materials,Metals & Mining,79,0.43599085538384574,Industry
-Materials,Construction Materials,0,0.46537499605358634,Industry
-Industrials,Aerospace & Defense,6,0.2284879472494341,Industry
-Industrials,Machinery,32,0.6353503707556049,Industry
-Industrials,Industrial Services,84,0.4128400993926634,Industry
-Consumer Services,Retail,97,0.7778577696094227,Industry
-Consumer Services,Travel & Leisure,43,0.31677810743154133,Industry
-Consumer Services,Media,64,0.014170344689736325,Industry
-Transportation,Airlines,88,0.4115297188925594,Industry
-Transportation,Railroads,40,0.49946192743992635,Industry
-Transportation,Logistics,33,0.6453641637097496,Industry
+,Renville,687,0.49310373013716097,Overall
+Renville,HiTech,80,0.32684667410398616,Sector
+Renville,Agriculture,17,0.5221722607514904,Sector
+Renville,Transportation,75,0.031953032037530416,Sector
+Renville,Consumer_Products,60,0.9939989294690491,Sector
+Renville,Unassigned,1,0.5489030694465664,Sector
+Renville,Communication,47,0.23408349667970085,Sector
+Renville,Trade,62,0.39244391903798104,Sector
+Renville,Business_Services,61,0.8864751563231787,Sector
+Renville,Business_Products,51,0.7072100439160709,Sector
+Renville,Construction,80,0.04882186840151603,Sector
+Renville,Services,92,0.8547075335356161,Sector
+Renville,Mining,8,0.5328285217220667,Sector
+Renville,Health_Care,8,0.8701201546441356,Sector
+Renville,EnergyExpL_Prod,19,0.027168957102247426,Sector
+Renville,Utilities,26,0.4188223348862785,Sector

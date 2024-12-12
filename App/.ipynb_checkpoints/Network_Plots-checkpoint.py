@@ -169,7 +169,7 @@ def create_network_graph2(df, main_company, radius=0.1, wrap_width=10, backgroun
     G = nx.Graph()
 
     # Add the main company as a node
-    G.add_node(main_company)
+    G.add_node(main_company, color='red')
 
     # Add competitors as nodes and connect them to the main company
     competitors = df[df['Names'] != main_company]['Names'].tolist()
@@ -257,7 +257,7 @@ def create_network_graph2(df, main_company, radius=0.1, wrap_width=10, backgroun
 def network_data_prep(df, model_types):
 
     for i in model_types:
-        df[i + "P_C"] = df[i + "P"].apply(lambda x: "Green" if x >= 75 else "Yellow" if x >= 50 else "Orange" if x >= 25 else "Red")
+        df[i + "P_C"] = df[i + "P"].apply(lambda x: "#0046BF" if x >= 75 else "#669EFF" if x >= 50 else "#99BFFF" if x >= 25 else "#CCDFFF")
 
     return df
 

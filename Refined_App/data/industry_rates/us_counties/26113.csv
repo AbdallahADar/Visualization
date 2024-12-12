@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Missaukee,1687,0.7364311335236348,Overall
-Missaukee,Technology,123,0.2932256239305048,Sector
-Missaukee,Healthcare,115,0.38021379235376596,Sector
-Missaukee,Finance,129,0.3137316013176489,Sector
-Missaukee,Energy,129,0.17362842222301778,Sector
-Missaukee,Consumer Goods,158,0.1495489299296905,Sector
-Missaukee,Utilities,212,0.8751678470415918,Sector
-Missaukee,Real Estate,130,0.7549185401288935,Sector
-Missaukee,Telecommunications,214,0.7326565763311005,Sector
-Missaukee,Materials,117,0.17337431783827428,Sector
-Missaukee,Industrials,212,0.7004982605933132,Sector
-Missaukee,Consumer Services,72,0.25190145172172995,Sector
-Missaukee,Transportation,76,0.7580773496035024,Sector
-Technology,Software,24,0.2894898036677932,Industry
-Technology,Hardware,24,0.7993638246989796,Industry
-Technology,IT Services,75,0.775598535648564,Industry
-Healthcare,Pharmaceuticals,24,0.03886635838913488,Industry
-Healthcare,Medical Devices,41,0.6736730166789405,Industry
-Healthcare,Healthcare Services,50,0.7989013921854901,Industry
-Finance,Banking,30,0.4392378949559911,Industry
-Finance,Insurance,35,0.22123726997899995,Industry
-Finance,Investment Services,64,0.5951238263089682,Industry
-Energy,Oil & Gas,56,0.14914092322326433,Industry
-Energy,Renewable Energy,51,0.7533017698125327,Industry
-Energy,Energy Exploration,22,0.008862968917579872,Industry
-Consumer Goods,Food & Beverage,55,0.03656015870783991,Industry
-Consumer Goods,Household Products,86,0.7685737270398042,Industry
-Consumer Goods,Apparel,17,0.9078290491635864,Industry
-Utilities,Electric,89,0.16188736030831674,Industry
-Utilities,Water,62,0.22967249373231113,Industry
-Utilities,Gas,61,0.3543532096684062,Industry
-Real Estate,Residential,14,0.2539346409886627,Industry
-Real Estate,Commercial,65,0.13070837287394366,Industry
-Real Estate,Industrial,51,0.30361128686100614,Industry
-Telecommunications,Mobile,72,0.6603614523242736,Industry
-Telecommunications,Broadband,67,0.1503019927513548,Industry
-Telecommunications,Satellite,75,0.9677648190057813,Industry
-Materials,Chemicals,49,0.5582602309172583,Industry
-Materials,Metals & Mining,35,0.052712378803060234,Industry
-Materials,Construction Materials,33,0.8375248385987488,Industry
-Industrials,Aerospace & Defense,90,0.10472585086105501,Industry
-Industrials,Machinery,69,0.25631198918427556,Industry
-Industrials,Industrial Services,53,0.37090895143886615,Industry
-Consumer Services,Retail,66,0.524529506524884,Industry
-Consumer Services,Travel & Leisure,2,0.4669055908395219,Industry
-Consumer Services,Media,4,0.6631907537620546,Industry
-Transportation,Airlines,13,0.7816241343920081,Industry
-Transportation,Railroads,8,0.271548241917398,Industry
-Transportation,Logistics,55,0.6637079437842549,Industry
+,Missaukee,795,0.4126292054617352,Overall
+Missaukee,HiTech,0,0.20994516988298617,Sector
+Missaukee,Agriculture,16,0.9758729857236469,Sector
+Missaukee,Transportation,79,0.8808870545025169,Sector
+Missaukee,Consumer_Products,43,0.6327044890516628,Sector
+Missaukee,Unassigned,65,0.6320023022418593,Sector
+Missaukee,Communication,61,0.2583657423928736,Sector
+Missaukee,Trade,90,0.14385181249973833,Sector
+Missaukee,Business_Services,78,0.44468717342085884,Sector
+Missaukee,Business_Products,52,0.3839021931618467,Sector
+Missaukee,Construction,23,0.9977722597575192,Sector
+Missaukee,Services,88,0.0324077168303466,Sector
+Missaukee,Mining,77,0.32955142260539594,Sector
+Missaukee,Health_Care,1,0.1583812766266981,Sector
+Missaukee,EnergyExpL_Prod,41,0.08837840389123841,Sector
+Missaukee,Utilities,81,0.020728079336840954,Sector

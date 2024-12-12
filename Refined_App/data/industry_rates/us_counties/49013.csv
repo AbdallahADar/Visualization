@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Duchesne,1833,0.6941111001640747,Overall
-Duchesne,Technology,175,0.5963323695652956,Sector
-Duchesne,Healthcare,136,0.01380123044327597,Sector
-Duchesne,Finance,8,0.9206448612143379,Sector
-Duchesne,Energy,200,0.5404754627964845,Sector
-Duchesne,Consumer Goods,127,0.8314593165761375,Sector
-Duchesne,Utilities,148,0.5594407052081491,Sector
-Duchesne,Real Estate,181,0.6681365327941428,Sector
-Duchesne,Telecommunications,273,0.5026174781162237,Sector
-Duchesne,Materials,135,0.3423741123133488,Sector
-Duchesne,Industrials,148,0.8542388707038415,Sector
-Duchesne,Consumer Services,160,0.6402402268755372,Sector
-Duchesne,Transportation,142,0.14990792354568594,Sector
-Technology,Software,36,0.261803056230801,Industry
-Technology,Hardware,80,0.02384751480486691,Industry
-Technology,IT Services,59,0.6666711288308967,Industry
-Healthcare,Pharmaceuticals,24,0.8593801933644769,Industry
-Healthcare,Medical Devices,71,0.6657172453176102,Industry
-Healthcare,Healthcare Services,41,0.5689731161075813,Industry
-Finance,Banking,2,0.32230143670757505,Industry
-Finance,Insurance,1,0.6423569150476037,Industry
-Finance,Investment Services,5,0.11630145554900773,Industry
-Energy,Oil & Gas,91,0.6047744969489194,Industry
-Energy,Renewable Energy,98,0.975898416452037,Industry
-Energy,Energy Exploration,11,0.012716337456533,Industry
-Consumer Goods,Food & Beverage,17,0.8609216542973533,Industry
-Consumer Goods,Household Products,17,0.570750151156455,Industry
-Consumer Goods,Apparel,93,0.6211602111885763,Industry
-Utilities,Electric,35,0.7524062535611242,Industry
-Utilities,Water,80,0.9935135811666976,Industry
-Utilities,Gas,33,0.04470585132580196,Industry
-Real Estate,Residential,74,0.3108911454993065,Industry
-Real Estate,Commercial,52,0.9215562618058031,Industry
-Real Estate,Industrial,55,0.7151426922853336,Industry
-Telecommunications,Mobile,95,0.6196496382783719,Industry
-Telecommunications,Broadband,99,0.8035659686697492,Industry
-Telecommunications,Satellite,79,0.83846725310334,Industry
-Materials,Chemicals,58,0.15150763349148355,Industry
-Materials,Metals & Mining,1,0.6141338344672933,Industry
-Materials,Construction Materials,76,0.02158759233358598,Industry
-Industrials,Aerospace & Defense,88,0.9798440808365437,Industry
-Industrials,Machinery,58,0.7152817024253147,Industry
-Industrials,Industrial Services,2,0.11312760929692844,Industry
-Consumer Services,Retail,35,0.6824537268636308,Industry
-Consumer Services,Travel & Leisure,39,0.13474752596904704,Industry
-Consumer Services,Media,86,0.9770677850964609,Industry
-Transportation,Airlines,27,0.4753077184037564,Industry
-Transportation,Railroads,20,0.6657863220766193,Industry
-Transportation,Logistics,95,0.6868685454241605,Industry
+,Duchesne,831,0.4652309745107514,Overall
+Duchesne,HiTech,31,0.33617435232741133,Sector
+Duchesne,Agriculture,86,0.8661356163474258,Sector
+Duchesne,Transportation,31,0.9226713048384473,Sector
+Duchesne,Consumer_Products,49,0.5848042656286325,Sector
+Duchesne,Unassigned,86,0.2766589725728422,Sector
+Duchesne,Communication,87,0.41706000035584145,Sector
+Duchesne,Trade,89,0.3984147986188795,Sector
+Duchesne,Business_Services,71,0.6419837517174499,Sector
+Duchesne,Business_Products,30,0.8206741499940201,Sector
+Duchesne,Construction,62,0.2059994236230408,Sector
+Duchesne,Services,3,0.030252022358956965,Sector
+Duchesne,Mining,12,0.29735309487804973,Sector
+Duchesne,Health_Care,56,0.6529918973319461,Sector
+Duchesne,EnergyExpL_Prod,87,0.45406773360493946,Sector
+Duchesne,Utilities,51,0.07322323346338755,Sector

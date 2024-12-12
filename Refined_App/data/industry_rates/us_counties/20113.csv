@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McPherson,2078,0.44433175602435293,Overall
-McPherson,Technology,132,0.8040689062005953,Sector
-McPherson,Healthcare,189,0.9940032160395962,Sector
-McPherson,Finance,175,0.13566377803815144,Sector
-McPherson,Energy,203,0.19638624430997953,Sector
-McPherson,Consumer Goods,213,0.5102094691613037,Sector
-McPherson,Utilities,166,0.6556310403849147,Sector
-McPherson,Real Estate,194,0.49902707727828965,Sector
-McPherson,Telecommunications,187,0.9011561644493041,Sector
-McPherson,Materials,177,0.14960334797108132,Sector
-McPherson,Industrials,159,0.5230634765907132,Sector
-McPherson,Consumer Services,61,0.27933952640665516,Sector
-McPherson,Transportation,222,0.2686076440553663,Sector
-Technology,Software,53,0.6304684524124011,Industry
-Technology,Hardware,18,0.06501020509327493,Industry
-Technology,IT Services,61,0.883869247099332,Industry
-Healthcare,Pharmaceuticals,88,0.27745483711237806,Industry
-Healthcare,Medical Devices,22,0.9071022146748922,Industry
-Healthcare,Healthcare Services,79,0.6643257249593996,Industry
-Finance,Banking,67,0.7929297355602724,Industry
-Finance,Insurance,80,0.3275060650797281,Industry
-Finance,Investment Services,28,0.37342133305268177,Industry
-Energy,Oil & Gas,84,0.6082809012231506,Industry
-Energy,Renewable Energy,71,0.013688956720692591,Industry
-Energy,Energy Exploration,48,0.7074562527863112,Industry
-Consumer Goods,Food & Beverage,99,0.043210919213633625,Industry
-Consumer Goods,Household Products,72,0.5256364747463104,Industry
-Consumer Goods,Apparel,42,0.8929065400883587,Industry
-Utilities,Electric,73,0.5551105469451426,Industry
-Utilities,Water,50,0.00893065404805149,Industry
-Utilities,Gas,43,0.8237388666785127,Industry
-Real Estate,Residential,78,0.6323747263932062,Industry
-Real Estate,Commercial,45,0.7540901812118329,Industry
-Real Estate,Industrial,71,0.6482977480705461,Industry
-Telecommunications,Mobile,50,0.5426604868411554,Industry
-Telecommunications,Broadband,46,0.8051931777144573,Industry
-Telecommunications,Satellite,91,0.3335749381042148,Industry
-Materials,Chemicals,95,0.09811323968222685,Industry
-Materials,Metals & Mining,71,0.4842104782932948,Industry
-Materials,Construction Materials,11,0.9560273456325057,Industry
-Industrials,Aerospace & Defense,77,0.5149163159827954,Industry
-Industrials,Machinery,70,0.356815672250429,Industry
-Industrials,Industrial Services,12,0.7477794966435288,Industry
-Consumer Services,Retail,1,0.18713214736959227,Industry
-Consumer Services,Travel & Leisure,9,0.7398396084270654,Industry
-Consumer Services,Media,51,0.4713603168676841,Industry
-Transportation,Airlines,78,0.04463384632013134,Industry
-Transportation,Railroads,86,0.6068786612405506,Industry
-Transportation,Logistics,58,0.15025915137870083,Industry
+,McPherson,764,0.43992435835898713,Overall
+McPherson,HiTech,40,0.9208758723970558,Sector
+McPherson,Agriculture,69,0.3708066633223793,Sector
+McPherson,Transportation,33,0.1438673848778842,Sector
+McPherson,Consumer_Products,60,0.0832320180928775,Sector
+McPherson,Unassigned,65,0.45886914737682905,Sector
+McPherson,Communication,32,0.41429072553238766,Sector
+McPherson,Trade,45,0.014676321339672116,Sector
+McPherson,Business_Services,38,0.5084221141975238,Sector
+McPherson,Business_Products,80,0.12424128319334249,Sector
+McPherson,Construction,29,0.8734556644356412,Sector
+McPherson,Services,43,0.3603652010213503,Sector
+McPherson,Mining,85,0.3258668189044811,Sector
+McPherson,Health_Care,23,0.9870839245930884,Sector
+McPherson,EnergyExpL_Prod,82,0.35303117566617226,Sector
+McPherson,Utilities,40,0.6597810604341227,Sector

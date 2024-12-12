@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Charlottesville,1981,0.37024733348095595,Overall
-Charlottesville,Technology,153,0.7441902340123098,Sector
-Charlottesville,Healthcare,151,0.5426633241369891,Sector
-Charlottesville,Finance,138,0.6002828265267901,Sector
-Charlottesville,Energy,169,0.20917206765446883,Sector
-Charlottesville,Consumer Goods,238,0.4163923588856493,Sector
-Charlottesville,Utilities,228,0.3456026746650015,Sector
-Charlottesville,Real Estate,103,0.13688608834305072,Sector
-Charlottesville,Telecommunications,185,0.3332189519399462,Sector
-Charlottesville,Materials,138,0.9352714592354813,Sector
-Charlottesville,Industrials,159,0.8079610694610746,Sector
-Charlottesville,Consumer Services,211,0.4912897458940769,Sector
-Charlottesville,Transportation,108,0.9361503145397144,Sector
-Technology,Software,75,0.9805477402694568,Industry
-Technology,Hardware,9,0.12893398770716769,Industry
-Technology,IT Services,69,0.13559321249966627,Industry
-Healthcare,Pharmaceuticals,34,0.9038362474955733,Industry
-Healthcare,Medical Devices,54,0.7809857137584701,Industry
-Healthcare,Healthcare Services,63,0.8152960329390208,Industry
-Finance,Banking,31,0.6439613394548529,Industry
-Finance,Insurance,78,0.04082921790613103,Industry
-Finance,Investment Services,29,0.20926106167578584,Industry
-Energy,Oil & Gas,15,0.781201958953362,Industry
-Energy,Renewable Energy,94,0.9138307436164389,Industry
-Energy,Energy Exploration,60,0.49210001267324965,Industry
-Consumer Goods,Food & Beverage,66,0.9861794897619011,Industry
-Consumer Goods,Household Products,96,0.9951711036501133,Industry
-Consumer Goods,Apparel,76,0.08440899373683242,Industry
-Utilities,Electric,70,0.38631749846520647,Industry
-Utilities,Water,72,0.8971323566325412,Industry
-Utilities,Gas,86,0.6821526298397476,Industry
-Real Estate,Residential,57,0.25019840939986193,Industry
-Real Estate,Commercial,12,0.6326341828584601,Industry
-Real Estate,Industrial,34,0.5877212465114396,Industry
-Telecommunications,Mobile,93,0.07424601012395049,Industry
-Telecommunications,Broadband,73,0.5888890987990638,Industry
-Telecommunications,Satellite,19,0.023425687023022612,Industry
-Materials,Chemicals,1,0.9576377253154212,Industry
-Materials,Metals & Mining,90,0.6802871550902757,Industry
-Materials,Construction Materials,47,0.04779755147732989,Industry
-Industrials,Aerospace & Defense,51,0.1365789910594981,Industry
-Industrials,Machinery,91,0.3030403852866037,Industry
-Industrials,Industrial Services,17,0.3892631514555338,Industry
-Consumer Services,Retail,83,0.7967954051174969,Industry
-Consumer Services,Travel & Leisure,34,0.46481768428411907,Industry
-Consumer Services,Media,94,0.43372546613221297,Industry
-Transportation,Airlines,60,0.7981783483119462,Industry
-Transportation,Railroads,48,0.6772987294930161,Industry
-Transportation,Logistics,0,0.16257593631873113,Industry
+,Charlottesville,837,0.6632938187428667,Overall
+Charlottesville,HiTech,81,0.5758469994722067,Sector
+Charlottesville,Agriculture,98,0.9036174026789776,Sector
+Charlottesville,Transportation,36,0.6282956270961638,Sector
+Charlottesville,Consumer_Products,75,0.626950846473965,Sector
+Charlottesville,Unassigned,67,0.7132725561553873,Sector
+Charlottesville,Communication,21,0.9604997837658052,Sector
+Charlottesville,Trade,79,0.9769547555533525,Sector
+Charlottesville,Business_Services,0,0.46297594005069287,Sector
+Charlottesville,Business_Products,51,0.2408623131474681,Sector
+Charlottesville,Construction,91,0.48689181874611953,Sector
+Charlottesville,Services,23,0.8054348357129546,Sector
+Charlottesville,Mining,13,0.4332684822482663,Sector
+Charlottesville,Health_Care,84,0.6017348002787105,Sector
+Charlottesville,EnergyExpL_Prod,49,0.7763811931358131,Sector
+Charlottesville,Utilities,69,0.7564199266271167,Sector

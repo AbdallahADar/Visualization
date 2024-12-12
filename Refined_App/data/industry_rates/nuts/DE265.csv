@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bad Kissingen,1614,0.18101164570872563,Overall
-Bad Kissingen,Technology,154,0.5805872761274449,Sector
-Bad Kissingen,Healthcare,193,0.3890123547432517,Sector
-Bad Kissingen,Finance,98,0.43121670838551784,Sector
-Bad Kissingen,Energy,114,0.25069226213761664,Sector
-Bad Kissingen,Consumer Goods,165,0.5949668669224014,Sector
-Bad Kissingen,Utilities,124,0.6730405798679207,Sector
-Bad Kissingen,Real Estate,151,0.7202361418911061,Sector
-Bad Kissingen,Telecommunications,72,0.37497193906503234,Sector
-Bad Kissingen,Materials,157,0.83829529039757,Sector
-Bad Kissingen,Industrials,98,0.1526926983946303,Sector
-Bad Kissingen,Consumer Services,165,0.38879904429291956,Sector
-Bad Kissingen,Transportation,123,0.31161751054890074,Sector
-Technology,Software,18,0.40970829175819234,Industry
-Technology,Hardware,64,0.5636972517056212,Industry
-Technology,IT Services,72,0.06425973054594192,Industry
-Healthcare,Pharmaceuticals,97,0.1973896585879954,Industry
-Healthcare,Medical Devices,6,0.9355478044058002,Industry
-Healthcare,Healthcare Services,90,0.658449106836949,Industry
-Finance,Banking,13,0.15402703372650017,Industry
-Finance,Insurance,16,0.9101440459661886,Industry
-Finance,Investment Services,69,0.8809216188158839,Industry
-Energy,Oil & Gas,30,0.07933422553549097,Industry
-Energy,Renewable Energy,10,0.5685435019540874,Industry
-Energy,Energy Exploration,74,0.42106003488509547,Industry
-Consumer Goods,Food & Beverage,59,0.8273888562843085,Industry
-Consumer Goods,Household Products,17,0.0463920279930321,Industry
-Consumer Goods,Apparel,89,0.20421790451574517,Industry
-Utilities,Electric,15,0.7821387370361865,Industry
-Utilities,Water,19,0.7998028443379557,Industry
-Utilities,Gas,90,0.8020956881828297,Industry
-Real Estate,Residential,36,0.7782701836222518,Industry
-Real Estate,Commercial,28,0.8528826310816028,Industry
-Real Estate,Industrial,87,0.15490290812163066,Industry
-Telecommunications,Mobile,20,0.9916868321382005,Industry
-Telecommunications,Broadband,45,0.4750538651468842,Industry
-Telecommunications,Satellite,7,0.11250300982427908,Industry
-Materials,Chemicals,97,0.041314965469745335,Industry
-Materials,Metals & Mining,22,0.1610237665766947,Industry
-Materials,Construction Materials,38,0.3446166820430576,Industry
-Industrials,Aerospace & Defense,27,0.16632739784448114,Industry
-Industrials,Machinery,58,0.25572352775419505,Industry
-Industrials,Industrial Services,13,0.9888715591903307,Industry
-Consumer Services,Retail,17,0.24724326579284994,Industry
-Consumer Services,Travel & Leisure,53,0.01823574440193676,Industry
-Consumer Services,Media,95,0.09388696024905974,Industry
-Transportation,Airlines,46,0.8053164954150251,Industry
-Transportation,Railroads,1,0.5687443416169361,Industry
-Transportation,Logistics,76,0.728278338945231,Industry
+,Bad Kissingen,524,0.4622204974766289,Overall
+Bad Kissingen,HiTech,45,0.5019573264981256,Sector
+Bad Kissingen,Agriculture,52,0.8634515275016568,Sector
+Bad Kissingen,Transportation,24,0.5298287481952345,Sector
+Bad Kissingen,Consumer_Products,38,0.1535833816472052,Sector
+Bad Kissingen,Unassigned,0,0.5576288690851339,Sector
+Bad Kissingen,Communication,8,0.46063721348413755,Sector
+Bad Kissingen,Trade,11,0.25721469017019916,Sector
+Bad Kissingen,Business_Services,55,0.6312078848442095,Sector
+Bad Kissingen,Business_Products,48,0.9714230632765121,Sector
+Bad Kissingen,Construction,57,0.14546906452756447,Sector
+Bad Kissingen,Services,45,0.40978137314750307,Sector
+Bad Kissingen,Mining,31,0.873780159197576,Sector
+Bad Kissingen,Health_Care,42,0.06772799893785808,Sector
+Bad Kissingen,EnergyExpL_Prod,68,0.28539505705323964,Sector
+Bad Kissingen,Utilities,0,0.22422110458327837,Sector

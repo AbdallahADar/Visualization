@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Grayson,1894,0.774991069547146,Overall
-Grayson,Technology,212,0.9326412454802951,Sector
-Grayson,Healthcare,144,0.5318772383947706,Sector
-Grayson,Finance,230,0.9655482559676509,Sector
-Grayson,Energy,95,0.6746384876301638,Sector
-Grayson,Consumer Goods,95,0.8524908543111125,Sector
-Grayson,Utilities,220,0.9873327156401907,Sector
-Grayson,Real Estate,160,0.40687426891231593,Sector
-Grayson,Telecommunications,116,0.23753508318001493,Sector
-Grayson,Materials,138,0.19285557767668116,Sector
-Grayson,Industrials,118,0.15194517879070457,Sector
-Grayson,Consumer Services,164,0.9382729659068123,Sector
-Grayson,Transportation,202,0.9347149287067213,Sector
-Technology,Software,32,0.6661003563860468,Industry
-Technology,Hardware,87,0.36754222163104144,Industry
-Technology,IT Services,93,0.3934183250024874,Industry
-Healthcare,Pharmaceuticals,33,0.4036655969947911,Industry
-Healthcare,Medical Devices,59,0.2742023854316402,Industry
-Healthcare,Healthcare Services,52,0.1730718009265515,Industry
-Finance,Banking,88,0.8438618438559828,Industry
-Finance,Insurance,74,0.30370183814512186,Industry
-Finance,Investment Services,68,0.7457949543294964,Industry
-Energy,Oil & Gas,34,0.8097967055148039,Industry
-Energy,Renewable Energy,20,0.45002803647338097,Industry
-Energy,Energy Exploration,41,0.3764822565063759,Industry
-Consumer Goods,Food & Beverage,13,0.08807962529773938,Industry
-Consumer Goods,Household Products,41,0.22262373097565058,Industry
-Consumer Goods,Apparel,41,0.42802540778139275,Industry
-Utilities,Electric,78,0.41710033993869156,Industry
-Utilities,Water,88,0.3850680690889332,Industry
-Utilities,Gas,54,0.35278744961966135,Industry
-Real Estate,Residential,22,0.7260087417658043,Industry
-Real Estate,Commercial,95,0.39015715133328976,Industry
-Real Estate,Industrial,43,0.7249870151005245,Industry
-Telecommunications,Mobile,62,0.34261590341699866,Industry
-Telecommunications,Broadband,13,0.35599620612617144,Industry
-Telecommunications,Satellite,41,0.6895536408882571,Industry
-Materials,Chemicals,70,0.9973004225293985,Industry
-Materials,Metals & Mining,33,0.8710278233451818,Industry
-Materials,Construction Materials,35,0.05111440482541185,Industry
-Industrials,Aerospace & Defense,18,0.026816137174968446,Industry
-Industrials,Machinery,19,0.3068735632760228,Industry
-Industrials,Industrial Services,81,0.2940652800815631,Industry
-Consumer Services,Retail,39,0.39357572477571157,Industry
-Consumer Services,Travel & Leisure,33,0.4799011639675749,Industry
-Consumer Services,Media,92,0.0588033157924277,Industry
-Transportation,Airlines,46,0.18521791570559742,Industry
-Transportation,Railroads,83,0.8950918650950103,Industry
-Transportation,Logistics,73,0.9135378129149371,Industry
+,Grayson,792,0.5220195989257261,Overall
+Grayson,HiTech,63,0.8218970007823436,Sector
+Grayson,Agriculture,59,0.6039515041224158,Sector
+Grayson,Transportation,47,0.3515740007151419,Sector
+Grayson,Consumer_Products,71,0.06872883188936019,Sector
+Grayson,Unassigned,52,0.6539384943979578,Sector
+Grayson,Communication,52,0.7183541685739614,Sector
+Grayson,Trade,88,0.9235351287389391,Sector
+Grayson,Business_Services,56,0.5150152165330038,Sector
+Grayson,Business_Products,55,0.21869369275822026,Sector
+Grayson,Construction,37,0.11674391330704303,Sector
+Grayson,Services,46,0.8199921361092651,Sector
+Grayson,Mining,74,0.7724231684664388,Sector
+Grayson,Health_Care,24,0.8167985183900361,Sector
+Grayson,EnergyExpL_Prod,40,0.37421925853987603,Sector
+Grayson,Utilities,28,0.054428950561889455,Sector

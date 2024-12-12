@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Caddo,1825,0.5162690002350863,Overall
-Caddo,Technology,131,0.6879905124831028,Sector
-Caddo,Healthcare,176,0.19642407495033887,Sector
-Caddo,Finance,148,0.021290688679702074,Sector
-Caddo,Energy,131,0.8699716310829234,Sector
-Caddo,Consumer Goods,144,0.8494173287956868,Sector
-Caddo,Utilities,209,0.03259306439762999,Sector
-Caddo,Real Estate,103,0.3024359122764092,Sector
-Caddo,Telecommunications,244,0.5966492601906646,Sector
-Caddo,Materials,150,0.6463326775644296,Sector
-Caddo,Industrials,119,0.7609781490450227,Sector
-Caddo,Consumer Services,153,0.3225572113031867,Sector
-Caddo,Transportation,117,0.27886993511449065,Sector
-Technology,Software,13,0.6126095872372759,Industry
-Technology,Hardware,21,0.6625747082872444,Industry
-Technology,IT Services,97,0.7909213424667114,Industry
-Healthcare,Pharmaceuticals,30,0.8997458945021114,Industry
-Healthcare,Medical Devices,66,0.043845672885067466,Industry
-Healthcare,Healthcare Services,80,0.7528373564630445,Industry
-Finance,Banking,93,0.5784278883098369,Industry
-Finance,Insurance,0,0.6848332822547354,Industry
-Finance,Investment Services,55,0.3072520092194193,Industry
-Energy,Oil & Gas,13,0.19704716570398395,Industry
-Energy,Renewable Energy,22,0.7138902491030666,Industry
-Energy,Energy Exploration,96,0.5216927914915915,Industry
-Consumer Goods,Food & Beverage,21,0.20763358289197098,Industry
-Consumer Goods,Household Products,70,0.6820062478031951,Industry
-Consumer Goods,Apparel,53,0.9447075056835591,Industry
-Utilities,Electric,63,0.8753588718231032,Industry
-Utilities,Water,51,0.42395071651161786,Industry
-Utilities,Gas,95,0.09363084638929653,Industry
-Real Estate,Residential,60,0.416988966526617,Industry
-Real Estate,Commercial,29,0.9152082781950942,Industry
-Real Estate,Industrial,14,0.6445963418046293,Industry
-Telecommunications,Mobile,92,0.7412492856274571,Industry
-Telecommunications,Broadband,72,0.5271641739404607,Industry
-Telecommunications,Satellite,80,0.668969361602402,Industry
-Materials,Chemicals,61,0.8359526544108352,Industry
-Materials,Metals & Mining,48,0.5335230068269544,Industry
-Materials,Construction Materials,41,0.2540471568644228,Industry
-Industrials,Aerospace & Defense,42,0.9186937968621447,Industry
-Industrials,Machinery,11,0.648630312492351,Industry
-Industrials,Industrial Services,66,0.3190027052485723,Industry
-Consumer Services,Retail,39,0.29297860995671365,Industry
-Consumer Services,Travel & Leisure,51,0.8681718850485731,Industry
-Consumer Services,Media,63,0.48136005034598983,Industry
-Transportation,Airlines,85,0.24757198344318843,Industry
-Transportation,Railroads,30,0.21909065228164348,Industry
-Transportation,Logistics,2,0.3421552496697463,Industry
+,Caddo,738,0.5323134746800681,Overall
+Caddo,HiTech,74,0.17417350420763844,Sector
+Caddo,Agriculture,71,0.2920630022021583,Sector
+Caddo,Transportation,6,0.5905280664001288,Sector
+Caddo,Consumer_Products,67,0.5498469592008435,Sector
+Caddo,Unassigned,58,0.606440237606767,Sector
+Caddo,Communication,98,0.843913069877516,Sector
+Caddo,Trade,55,0.7281500883570605,Sector
+Caddo,Business_Services,9,0.7117706584305419,Sector
+Caddo,Business_Products,1,0.07529302564635199,Sector
+Caddo,Construction,3,0.7867671947842475,Sector
+Caddo,Services,74,0.4725856862409321,Sector
+Caddo,Mining,93,0.6585138933382106,Sector
+Caddo,Health_Care,47,0.4134621418081281,Sector
+Caddo,EnergyExpL_Prod,32,0.1045452838178158,Sector
+Caddo,Utilities,50,0.9766493082826815,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Budapest,1693,0.9865807576653668,Overall
-Budapest,Technology,94,0.9834836506823239,Sector
-Budapest,Healthcare,95,0.3716619243216851,Sector
-Budapest,Finance,117,0.9595054295096639,Sector
-Budapest,Energy,130,0.36421138460407876,Sector
-Budapest,Consumer Goods,48,0.2661154301106581,Sector
-Budapest,Utilities,146,0.31944548540867923,Sector
-Budapest,Real Estate,194,0.6858963549921244,Sector
-Budapest,Telecommunications,171,0.14202776714603105,Sector
-Budapest,Materials,165,0.31393470531429546,Sector
-Budapest,Industrials,150,0.957607697692606,Sector
-Budapest,Consumer Services,182,0.5004881261892457,Sector
-Budapest,Transportation,201,0.11507964075513144,Sector
-Technology,Software,78,0.22268320410216313,Industry
-Technology,Hardware,13,0.0908202832305457,Industry
-Technology,IT Services,3,0.9621034982400888,Industry
-Healthcare,Pharmaceuticals,5,0.7765518731758355,Industry
-Healthcare,Medical Devices,0,0.544220582719211,Industry
-Healthcare,Healthcare Services,90,0.3110416630809538,Industry
-Finance,Banking,6,0.705727193374877,Industry
-Finance,Insurance,38,0.48345970955375694,Industry
-Finance,Investment Services,73,0.5362044360991782,Industry
-Energy,Oil & Gas,35,0.7199502465888202,Industry
-Energy,Renewable Energy,84,0.8701661201937854,Industry
-Energy,Energy Exploration,11,0.7690604717736521,Industry
-Consumer Goods,Food & Beverage,3,0.38775617994972966,Industry
-Consumer Goods,Household Products,17,0.439367697070165,Industry
-Consumer Goods,Apparel,28,0.9371542498076149,Industry
-Utilities,Electric,12,0.19765265902423512,Industry
-Utilities,Water,63,0.7911128626724581,Industry
-Utilities,Gas,71,0.49293356857282944,Industry
-Real Estate,Residential,42,0.2433304558323467,Industry
-Real Estate,Commercial,84,0.3604815431122922,Industry
-Real Estate,Industrial,68,0.3954124122155632,Industry
-Telecommunications,Mobile,99,0.5878968612245236,Industry
-Telecommunications,Broadband,60,0.9492880088546888,Industry
-Telecommunications,Satellite,12,0.015062689561878506,Industry
-Materials,Chemicals,78,0.39273662964880574,Industry
-Materials,Metals & Mining,46,0.4136885750542626,Industry
-Materials,Construction Materials,41,0.961222343093014,Industry
-Industrials,Aerospace & Defense,51,0.4338539746370752,Industry
-Industrials,Machinery,68,0.13827464180089633,Industry
-Industrials,Industrial Services,31,0.916735415092928,Industry
-Consumer Services,Retail,23,0.7828220545697756,Industry
-Consumer Services,Travel & Leisure,63,0.2274045160738053,Industry
-Consumer Services,Media,96,0.8404277038467144,Industry
-Transportation,Airlines,94,0.8217397860891982,Industry
-Transportation,Railroads,22,0.34400390796113767,Industry
-Transportation,Logistics,85,0.16785452683247537,Industry
+,Budapest,781,0.36476865379224643,Overall
+Budapest,HiTech,41,0.44846083736832854,Sector
+Budapest,Agriculture,40,0.3020220606028249,Sector
+Budapest,Transportation,75,0.09946690149206727,Sector
+Budapest,Consumer_Products,4,0.12191096761105091,Sector
+Budapest,Unassigned,3,0.44254252532865657,Sector
+Budapest,Communication,88,0.2962885680909476,Sector
+Budapest,Trade,13,0.013649286422265705,Sector
+Budapest,Business_Services,64,0.22004933490307588,Sector
+Budapest,Business_Products,61,0.2897084225365145,Sector
+Budapest,Construction,43,0.817127043631056,Sector
+Budapest,Services,84,0.3712793628986768,Sector
+Budapest,Mining,25,0.8657685270524506,Sector
+Budapest,Health_Care,75,0.019906840424210093,Sector
+Budapest,EnergyExpL_Prod,78,0.8106360121739072,Sector
+Budapest,Utilities,87,0.35271311634766367,Sector

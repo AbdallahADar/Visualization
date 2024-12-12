@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mecklenburg,1793,0.2378470758784148,Overall
-Mecklenburg,Technology,101,0.8830463885362411,Sector
-Mecklenburg,Healthcare,195,0.2620011379841902,Sector
-Mecklenburg,Finance,182,0.4517106194272932,Sector
-Mecklenburg,Energy,123,0.7946677669956246,Sector
-Mecklenburg,Consumer Goods,132,0.9968953560361349,Sector
-Mecklenburg,Utilities,164,0.33504657780058167,Sector
-Mecklenburg,Real Estate,193,0.05754511330084111,Sector
-Mecklenburg,Telecommunications,169,0.9124483305758331,Sector
-Mecklenburg,Materials,68,0.7648504715278877,Sector
-Mecklenburg,Industrials,153,0.9005089096317976,Sector
-Mecklenburg,Consumer Services,182,0.268796103454509,Sector
-Mecklenburg,Transportation,131,0.680073339486844,Sector
-Technology,Software,2,0.5837758966067479,Industry
-Technology,Hardware,42,0.9772756346063179,Industry
-Technology,IT Services,57,0.8232165472029276,Industry
-Healthcare,Pharmaceuticals,70,0.5753366391843466,Industry
-Healthcare,Medical Devices,26,0.9582658553013395,Industry
-Healthcare,Healthcare Services,99,0.4002301175472588,Industry
-Finance,Banking,58,0.4443752660722883,Industry
-Finance,Insurance,75,0.7388299581280282,Industry
-Finance,Investment Services,49,0.6238180720646697,Industry
-Energy,Oil & Gas,41,0.8377762973348865,Industry
-Energy,Renewable Energy,51,0.9031245812400455,Industry
-Energy,Energy Exploration,31,0.05575101713516051,Industry
-Consumer Goods,Food & Beverage,12,0.4651764880197723,Industry
-Consumer Goods,Household Products,72,0.02758394290853483,Industry
-Consumer Goods,Apparel,48,0.5537311365529235,Industry
-Utilities,Electric,14,0.13846091010319306,Industry
-Utilities,Water,80,0.7736852730204441,Industry
-Utilities,Gas,70,0.488788894458557,Industry
-Real Estate,Residential,96,0.919918096779994,Industry
-Real Estate,Commercial,59,0.5067461801386274,Industry
-Real Estate,Industrial,38,0.0016730612677129386,Industry
-Telecommunications,Mobile,29,0.9922856041371045,Industry
-Telecommunications,Broadband,94,0.9901899100671061,Industry
-Telecommunications,Satellite,46,0.28764067459863496,Industry
-Materials,Chemicals,17,0.1639178079495034,Industry
-Materials,Metals & Mining,45,0.32611024082121687,Industry
-Materials,Construction Materials,6,0.4462555461880162,Industry
-Industrials,Aerospace & Defense,91,0.4547775205338831,Industry
-Industrials,Machinery,28,0.3102388670296248,Industry
-Industrials,Industrial Services,34,0.9788885266994114,Industry
-Consumer Services,Retail,29,0.1858028378513069,Industry
-Consumer Services,Travel & Leisure,59,0.8983514327455603,Industry
-Consumer Services,Media,94,0.7752114740287098,Industry
-Transportation,Airlines,24,0.3239315304220356,Industry
-Transportation,Railroads,22,0.4527896524378493,Industry
-Transportation,Logistics,85,0.5866321457599575,Industry
+,Mecklenburg,862,0.40714077652459607,Overall
+Mecklenburg,HiTech,74,0.20612866074096814,Sector
+Mecklenburg,Agriculture,26,0.17308138569095033,Sector
+Mecklenburg,Transportation,47,0.13307912145617395,Sector
+Mecklenburg,Consumer_Products,89,0.9754405395646946,Sector
+Mecklenburg,Unassigned,37,0.47223845450876945,Sector
+Mecklenburg,Communication,58,0.1654280891317359,Sector
+Mecklenburg,Trade,71,0.9316135943377069,Sector
+Mecklenburg,Business_Services,93,0.638788556758398,Sector
+Mecklenburg,Business_Products,62,0.8337573965137245,Sector
+Mecklenburg,Construction,75,0.11999307290161387,Sector
+Mecklenburg,Services,10,0.6205735021925807,Sector
+Mecklenburg,Mining,67,0.22364050191222606,Sector
+Mecklenburg,Health_Care,81,0.5117769761601011,Sector
+Mecklenburg,EnergyExpL_Prod,29,0.00921193733230441,Sector
+Mecklenburg,Utilities,43,0.09235985866699359,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Halifax,1351,0.5912332914702637,Overall
-Halifax,Technology,92,0.8260431156257837,Sector
-Halifax,Healthcare,192,0.8588993060200895,Sector
-Halifax,Finance,151,0.7643427739164953,Sector
-Halifax,Energy,63,0.647041102708105,Sector
-Halifax,Consumer Goods,111,0.5644653209135952,Sector
-Halifax,Utilities,58,0.8190638285804471,Sector
-Halifax,Real Estate,44,0.8580206811575138,Sector
-Halifax,Telecommunications,126,0.7622695357366085,Sector
-Halifax,Materials,160,0.4657953308463505,Sector
-Halifax,Industrials,194,0.8241637883171321,Sector
-Halifax,Consumer Services,85,0.01632261541697988,Sector
-Halifax,Transportation,75,0.8920438122277519,Sector
-Technology,Software,31,0.10654749693583787,Industry
-Technology,Hardware,59,0.9959989711721122,Industry
-Technology,IT Services,2,0.41092878481505457,Industry
-Healthcare,Pharmaceuticals,15,0.6494489250047004,Industry
-Healthcare,Medical Devices,99,0.6404730509302841,Industry
-Healthcare,Healthcare Services,78,0.7766873354687938,Industry
-Finance,Banking,27,0.848723616525753,Industry
-Finance,Insurance,89,0.023163194105382368,Industry
-Finance,Investment Services,35,0.04623736819343183,Industry
-Energy,Oil & Gas,3,0.585470818715671,Industry
-Energy,Renewable Energy,43,0.7297237762048734,Industry
-Energy,Energy Exploration,17,0.6249247536457841,Industry
-Consumer Goods,Food & Beverage,31,0.3709972998913563,Industry
-Consumer Goods,Household Products,43,0.015413800823366741,Industry
-Consumer Goods,Apparel,37,0.9007122661944501,Industry
-Utilities,Electric,15,0.2268161407425403,Industry
-Utilities,Water,6,0.07111874304821597,Industry
-Utilities,Gas,37,0.7423530136523298,Industry
-Real Estate,Residential,12,0.9257625755762547,Industry
-Real Estate,Commercial,13,0.04945571391286152,Industry
-Real Estate,Industrial,19,0.48033165068361383,Industry
-Telecommunications,Mobile,16,0.05628292654701894,Industry
-Telecommunications,Broadband,80,0.9898204936561333,Industry
-Telecommunications,Satellite,30,0.11251310821479632,Industry
-Materials,Chemicals,18,0.72766478892985,Industry
-Materials,Metals & Mining,72,0.6632229179782343,Industry
-Materials,Construction Materials,70,0.4598116834507986,Industry
-Industrials,Aerospace & Defense,77,0.3102402999534478,Industry
-Industrials,Machinery,67,0.8749582890394234,Industry
-Industrials,Industrial Services,50,0.6666778335326581,Industry
-Consumer Services,Retail,39,0.18666011452223152,Industry
-Consumer Services,Travel & Leisure,16,0.3003861837202667,Industry
-Consumer Services,Media,30,0.41481980328724555,Industry
-Transportation,Airlines,38,0.38387849857066425,Industry
-Transportation,Railroads,21,0.27864059888072323,Industry
-Transportation,Logistics,16,0.5822479356586522,Industry
+,Halifax,747,0.33368602635259564,Overall
+Halifax,HiTech,80,0.043550438016823345,Sector
+Halifax,Agriculture,67,0.1504157466035544,Sector
+Halifax,Transportation,59,0.22511469428269415,Sector
+Halifax,Consumer_Products,89,0.62315565164772,Sector
+Halifax,Unassigned,25,0.38711074435800674,Sector
+Halifax,Communication,23,0.4345953501682742,Sector
+Halifax,Trade,43,0.6411807169278971,Sector
+Halifax,Business_Services,10,0.1787139203667667,Sector
+Halifax,Business_Products,21,0.7389367034523842,Sector
+Halifax,Construction,85,0.24953016331687994,Sector
+Halifax,Services,14,0.40215595357084266,Sector
+Halifax,Mining,75,0.12441343516142711,Sector
+Halifax,Health_Care,82,0.26299684238229426,Sector
+Halifax,EnergyExpL_Prod,20,0.35325397296707217,Sector
+Halifax,Utilities,54,0.19016606206629816,Sector

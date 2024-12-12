@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Maunabo,1746,0.0800701572657102,Overall
-Maunabo,Technology,209,0.25143400592590304,Sector
-Maunabo,Healthcare,105,0.5307942022246959,Sector
-Maunabo,Finance,89,0.16012889608985115,Sector
-Maunabo,Energy,149,0.7960564819488524,Sector
-Maunabo,Consumer Goods,133,0.3763040980911858,Sector
-Maunabo,Utilities,200,0.5809715224582424,Sector
-Maunabo,Real Estate,110,0.7204312256246449,Sector
-Maunabo,Telecommunications,91,0.8108792457552848,Sector
-Maunabo,Materials,209,0.23007558489529556,Sector
-Maunabo,Industrials,157,0.757777783165243,Sector
-Maunabo,Consumer Services,140,0.765394825130892,Sector
-Maunabo,Transportation,154,0.8005809370128748,Sector
-Technology,Software,61,0.09723294303294194,Industry
-Technology,Hardware,73,0.2847426210446641,Industry
-Technology,IT Services,75,0.785861912206859,Industry
-Healthcare,Pharmaceuticals,1,0.25501772242834386,Industry
-Healthcare,Medical Devices,57,0.12400462111889288,Industry
-Healthcare,Healthcare Services,47,0.05050925635037462,Industry
-Finance,Banking,43,0.1180351140572774,Industry
-Finance,Insurance,45,0.7515099984941406,Industry
-Finance,Investment Services,1,0.8841226557376687,Industry
-Energy,Oil & Gas,5,0.28440157057827276,Industry
-Energy,Renewable Energy,75,0.5680187739105456,Industry
-Energy,Energy Exploration,69,0.03912830275445178,Industry
-Consumer Goods,Food & Beverage,44,0.6308430355375949,Industry
-Consumer Goods,Household Products,32,0.44099988646884625,Industry
-Consumer Goods,Apparel,57,0.8293947929788567,Industry
-Utilities,Electric,50,0.035056311812286745,Industry
-Utilities,Water,96,0.27361952069622586,Industry
-Utilities,Gas,54,0.08738788110999962,Industry
-Real Estate,Residential,28,0.40338591088461706,Industry
-Real Estate,Commercial,66,0.8206816375709551,Industry
-Real Estate,Industrial,16,0.2573081071431169,Industry
-Telecommunications,Mobile,20,0.11518537635838899,Industry
-Telecommunications,Broadband,42,0.02758894123297817,Industry
-Telecommunications,Satellite,29,0.3922356561540704,Industry
-Materials,Chemicals,79,0.8583325585444069,Industry
-Materials,Metals & Mining,47,0.05735823249056238,Industry
-Materials,Construction Materials,83,0.13979862738828108,Industry
-Industrials,Aerospace & Defense,13,0.45794465713162835,Industry
-Industrials,Machinery,79,0.6212107957466938,Industry
-Industrials,Industrial Services,65,0.9264337844391689,Industry
-Consumer Services,Retail,54,0.9931100870694151,Industry
-Consumer Services,Travel & Leisure,35,0.9666416115116677,Industry
-Consumer Services,Media,51,0.21825263112527515,Industry
-Transportation,Airlines,93,0.9432107104207527,Industry
-Transportation,Railroads,28,0.8944271883201097,Industry
-Transportation,Logistics,33,0.5140328011341657,Industry
+,Maunabo,680,0.6127677665399768,Overall
+Maunabo,HiTech,2,0.23944475702728485,Sector
+Maunabo,Agriculture,86,0.9765211727681145,Sector
+Maunabo,Transportation,59,0.12902188703236905,Sector
+Maunabo,Consumer_Products,34,0.6945964627870803,Sector
+Maunabo,Unassigned,18,0.9885301174463258,Sector
+Maunabo,Communication,20,0.008025454576889635,Sector
+Maunabo,Trade,88,0.40341934334523344,Sector
+Maunabo,Business_Services,96,0.40723273126584525,Sector
+Maunabo,Business_Products,40,0.9697483700617834,Sector
+Maunabo,Construction,11,0.5220100899972021,Sector
+Maunabo,Services,72,0.9839909312257933,Sector
+Maunabo,Mining,98,0.4126734406670888,Sector
+Maunabo,Health_Care,4,0.9713165895391962,Sector
+Maunabo,EnergyExpL_Prod,18,0.6818082825504641,Sector
+Maunabo,Utilities,34,0.8031768678089818,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lincoln,1742,0.8189898159019301,Overall
-Lincoln,Technology,163,0.8860094280943204,Sector
-Lincoln,Healthcare,168,0.3809462153806812,Sector
-Lincoln,Finance,93,0.33615266160019686,Sector
-Lincoln,Energy,122,0.24568865533166595,Sector
-Lincoln,Consumer Goods,95,0.6053356470398463,Sector
-Lincoln,Utilities,147,0.9955698726820323,Sector
-Lincoln,Real Estate,123,0.7529726298689068,Sector
-Lincoln,Telecommunications,222,0.6708809635875681,Sector
-Lincoln,Materials,115,0.8901553158478164,Sector
-Lincoln,Industrials,186,0.03891236852033564,Sector
-Lincoln,Consumer Services,93,0.2660982125885051,Sector
-Lincoln,Transportation,215,0.674165056887884,Sector
-Technology,Software,37,0.05214912439372943,Industry
-Technology,Hardware,52,0.6761447819084407,Industry
-Technology,IT Services,74,0.77074407421581,Industry
-Healthcare,Pharmaceuticals,66,0.9405084044981347,Industry
-Healthcare,Medical Devices,59,0.7198160748858279,Industry
-Healthcare,Healthcare Services,43,0.25606848535089943,Industry
-Finance,Banking,8,0.5896926515387506,Industry
-Finance,Insurance,48,0.060992717942977115,Industry
-Finance,Investment Services,37,0.838735486690761,Industry
-Energy,Oil & Gas,12,0.49799450683731106,Industry
-Energy,Renewable Energy,83,0.07672904265633973,Industry
-Energy,Energy Exploration,27,0.7624479459698288,Industry
-Consumer Goods,Food & Beverage,31,0.40342789241683663,Industry
-Consumer Goods,Household Products,28,0.23511722013575198,Industry
-Consumer Goods,Apparel,36,0.7294475709523903,Industry
-Utilities,Electric,17,0.613027119433104,Industry
-Utilities,Water,56,0.7650319894523498,Industry
-Utilities,Gas,74,0.9529976477718697,Industry
-Real Estate,Residential,23,0.44032940325016967,Industry
-Real Estate,Commercial,31,0.82210469995083,Industry
-Real Estate,Industrial,69,0.010661258377559824,Industry
-Telecommunications,Mobile,49,0.9387734551707272,Industry
-Telecommunications,Broadband,97,0.6852557415113685,Industry
-Telecommunications,Satellite,76,0.29583176297599456,Industry
-Materials,Chemicals,72,0.7205112009483073,Industry
-Materials,Metals & Mining,4,0.14825635160986794,Industry
-Materials,Construction Materials,39,0.3692017349059027,Industry
-Industrials,Aerospace & Defense,18,0.13837646591566533,Industry
-Industrials,Machinery,70,0.7951192241678765,Industry
-Industrials,Industrial Services,98,0.28474743325602825,Industry
-Consumer Services,Retail,40,0.8734713163105182,Industry
-Consumer Services,Travel & Leisure,16,0.43319431755949867,Industry
-Consumer Services,Media,37,0.7176644288221015,Industry
-Transportation,Airlines,61,0.7425497050101875,Industry
-Transportation,Railroads,58,0.1905198237682364,Industry
-Transportation,Logistics,96,0.9870402101010591,Industry
+,Lincoln,747,0.447342026595976,Overall
+Lincoln,HiTech,96,0.24344374029957416,Sector
+Lincoln,Agriculture,46,0.5477450196128513,Sector
+Lincoln,Transportation,12,0.38485741938578566,Sector
+Lincoln,Consumer_Products,33,0.43837291016834856,Sector
+Lincoln,Unassigned,45,0.15574654408892985,Sector
+Lincoln,Communication,67,0.9888976637425753,Sector
+Lincoln,Trade,63,0.5199227295760999,Sector
+Lincoln,Business_Services,29,0.1902002673170743,Sector
+Lincoln,Business_Products,26,0.44454130711395734,Sector
+Lincoln,Construction,78,0.8100356219655783,Sector
+Lincoln,Services,76,0.7060428770665755,Sector
+Lincoln,Mining,17,0.17570373289447738,Sector
+Lincoln,Health_Care,25,0.5756282228762085,Sector
+Lincoln,EnergyExpL_Prod,60,0.15134467089774373,Sector
+Lincoln,Utilities,74,0.3776476719338606,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Oristano,1958,0.5034634324742956,Overall
-Oristano,Technology,135,0.9364014702091107,Sector
-Oristano,Healthcare,154,0.09904760909746124,Sector
-Oristano,Finance,196,0.8788434490363732,Sector
-Oristano,Energy,177,0.4074354375055983,Sector
-Oristano,Consumer Goods,100,0.7920361237767025,Sector
-Oristano,Utilities,177,0.9790184085322788,Sector
-Oristano,Real Estate,223,0.48400902441011007,Sector
-Oristano,Telecommunications,144,0.9007451213283366,Sector
-Oristano,Materials,116,0.38614604211139514,Sector
-Oristano,Industrials,159,0.9119201435713767,Sector
-Oristano,Consumer Services,238,0.40685455491562483,Sector
-Oristano,Transportation,139,0.133613987130891,Sector
-Technology,Software,91,0.5751534896727905,Industry
-Technology,Hardware,13,0.4983923379333143,Industry
-Technology,IT Services,31,0.20565085791337656,Industry
-Healthcare,Pharmaceuticals,89,0.9753809390674704,Industry
-Healthcare,Medical Devices,64,0.3984829434781165,Industry
-Healthcare,Healthcare Services,1,0.2166755828747705,Industry
-Finance,Banking,47,0.9688758148060703,Industry
-Finance,Insurance,71,0.04883160781069695,Industry
-Finance,Investment Services,78,0.5564414564377081,Industry
-Energy,Oil & Gas,45,0.10893671655293558,Industry
-Energy,Renewable Energy,68,0.5499186948858977,Industry
-Energy,Energy Exploration,64,0.9249297254526864,Industry
-Consumer Goods,Food & Beverage,50,0.8527222968912077,Industry
-Consumer Goods,Household Products,25,0.4624871768515819,Industry
-Consumer Goods,Apparel,25,0.7149534526654863,Industry
-Utilities,Electric,72,0.36467920349731975,Industry
-Utilities,Water,91,0.05710981642946045,Industry
-Utilities,Gas,14,0.37111259161084387,Industry
-Real Estate,Residential,43,0.6898432485689767,Industry
-Real Estate,Commercial,90,0.15714894901322374,Industry
-Real Estate,Industrial,90,0.3667782273458785,Industry
-Telecommunications,Mobile,47,0.6564770764161765,Industry
-Telecommunications,Broadband,34,0.6573215896769323,Industry
-Telecommunications,Satellite,63,0.831986955841725,Industry
-Materials,Chemicals,58,0.7835755499602969,Industry
-Materials,Metals & Mining,31,0.5327580860180038,Industry
-Materials,Construction Materials,27,0.14879180592444918,Industry
-Industrials,Aerospace & Defense,30,0.29268775275750014,Industry
-Industrials,Machinery,71,0.2759915439687537,Industry
-Industrials,Industrial Services,58,0.1935637107419027,Industry
-Consumer Services,Retail,88,0.7953044577189343,Industry
-Consumer Services,Travel & Leisure,57,0.2883006567504639,Industry
-Consumer Services,Media,93,0.5690615179565924,Industry
-Transportation,Airlines,2,0.14178407267651583,Industry
-Transportation,Railroads,93,0.25687587117893795,Industry
-Transportation,Logistics,44,0.41087354615099325,Industry
+,Oristano,819,0.48841492706070283,Overall
+Oristano,HiTech,21,0.583309854502594,Sector
+Oristano,Agriculture,26,0.5727362087290961,Sector
+Oristano,Transportation,58,0.16650247518147487,Sector
+Oristano,Consumer_Products,82,0.5551892020887339,Sector
+Oristano,Unassigned,85,0.3587386775027761,Sector
+Oristano,Communication,87,0.57598328269971,Sector
+Oristano,Trade,77,0.3070598884391432,Sector
+Oristano,Business_Services,8,0.46991863752388185,Sector
+Oristano,Business_Products,80,0.6494303540232271,Sector
+Oristano,Construction,80,0.07532035831437633,Sector
+Oristano,Services,81,0.9075515220682494,Sector
+Oristano,Mining,31,0.7869125288445095,Sector
+Oristano,Health_Care,84,0.6883944501591673,Sector
+Oristano,EnergyExpL_Prod,2,0.3597992649158749,Sector
+Oristano,Utilities,17,0.26937720091772854,Sector

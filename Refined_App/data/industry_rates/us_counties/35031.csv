@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,McKinley,2036,0.7699901323127499,Overall
-McKinley,Technology,184,0.49245597291813503,Sector
-McKinley,Healthcare,217,0.654205644625612,Sector
-McKinley,Finance,54,0.1689655345507055,Sector
-McKinley,Energy,227,0.13757491549902046,Sector
-McKinley,Consumer Goods,82,0.7992859066149804,Sector
-McKinley,Utilities,150,0.6369481221850862,Sector
-McKinley,Real Estate,191,0.2769193699614082,Sector
-McKinley,Telecommunications,204,0.870038392790739,Sector
-McKinley,Materials,168,0.578816931714318,Sector
-McKinley,Industrials,171,0.5586240713409936,Sector
-McKinley,Consumer Services,201,0.31542516819450384,Sector
-McKinley,Transportation,187,0.5933314841535559,Sector
-Technology,Software,39,0.2706854479309576,Industry
-Technology,Hardware,92,0.7913287230601884,Industry
-Technology,IT Services,53,0.04861211097589402,Industry
-Healthcare,Pharmaceuticals,76,0.08538302163069478,Industry
-Healthcare,Medical Devices,71,0.8377760000099485,Industry
-Healthcare,Healthcare Services,70,0.5669990026471184,Industry
-Finance,Banking,5,0.2557447612084165,Industry
-Finance,Insurance,22,0.6394723882928713,Industry
-Finance,Investment Services,27,0.09236791813944556,Industry
-Energy,Oil & Gas,85,0.36964524162435053,Industry
-Energy,Renewable Energy,71,0.7057909228183765,Industry
-Energy,Energy Exploration,71,0.0180347846595732,Industry
-Consumer Goods,Food & Beverage,39,0.05134937603090384,Industry
-Consumer Goods,Household Products,42,0.6253180087271566,Industry
-Consumer Goods,Apparel,1,0.32855266927340654,Industry
-Utilities,Electric,71,0.8852721732805098,Industry
-Utilities,Water,30,0.7593554130979906,Industry
-Utilities,Gas,49,0.31469923248498755,Industry
-Real Estate,Residential,11,0.3128240467489808,Industry
-Real Estate,Commercial,98,0.6360132235935675,Industry
-Real Estate,Industrial,82,0.6217018841598407,Industry
-Telecommunications,Mobile,85,0.23622078405262625,Industry
-Telecommunications,Broadband,77,0.2076392890623675,Industry
-Telecommunications,Satellite,42,1.5489502972587665e-05,Industry
-Materials,Chemicals,65,0.8503424008834217,Industry
-Materials,Metals & Mining,74,0.6022020756658236,Industry
-Materials,Construction Materials,29,0.8527791267438045,Industry
-Industrials,Aerospace & Defense,78,0.02798546981911143,Industry
-Industrials,Machinery,67,0.42671783865181045,Industry
-Industrials,Industrial Services,26,0.7597732983928613,Industry
-Consumer Services,Retail,73,0.8528330650652697,Industry
-Consumer Services,Travel & Leisure,63,0.6830205093482583,Industry
-Consumer Services,Media,65,0.10504539518078593,Industry
-Transportation,Airlines,26,0.9754785448288945,Industry
-Transportation,Railroads,69,0.2804460924231281,Industry
-Transportation,Logistics,92,0.05936955086466955,Industry
+,McKinley,707,0.45765704983772204,Overall
+McKinley,HiTech,76,0.9221239008998872,Sector
+McKinley,Agriculture,31,0.8428798749241272,Sector
+McKinley,Transportation,90,0.3215733795256638,Sector
+McKinley,Consumer_Products,39,0.8076797738728785,Sector
+McKinley,Unassigned,1,0.4371787874740065,Sector
+McKinley,Communication,37,0.37258763554806096,Sector
+McKinley,Trade,75,0.1805366135095089,Sector
+McKinley,Business_Services,83,0.6340115469594121,Sector
+McKinley,Business_Products,92,0.9845936575656924,Sector
+McKinley,Construction,40,0.47412230239708353,Sector
+McKinley,Services,27,0.23175581216206853,Sector
+McKinley,Mining,9,0.13479437848790876,Sector
+McKinley,Health_Care,59,0.47822643958420175,Sector
+McKinley,EnergyExpL_Prod,48,0.00019400049367113148,Sector
+McKinley,Utilities,0,0.042597644161658565,Sector

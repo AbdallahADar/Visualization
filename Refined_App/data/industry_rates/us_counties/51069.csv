@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Frederick,1420,0.9477032093836616,Overall
-Frederick,Technology,76,0.00652440518472297,Sector
-Frederick,Healthcare,167,0.8925086385997414,Sector
-Frederick,Finance,197,0.5757546571624296,Sector
-Frederick,Energy,112,0.8963071128883986,Sector
-Frederick,Consumer Goods,123,0.2640150811736508,Sector
-Frederick,Utilities,82,0.4907380327847285,Sector
-Frederick,Real Estate,42,0.7658182287765634,Sector
-Frederick,Telecommunications,90,0.8577588999278015,Sector
-Frederick,Materials,154,0.3872895443299861,Sector
-Frederick,Industrials,153,0.1925637969281364,Sector
-Frederick,Consumer Services,178,0.31676772246380636,Sector
-Frederick,Transportation,46,0.14552628780636645,Sector
-Technology,Software,0,0.4971310898440643,Industry
-Technology,Hardware,61,0.6607576625763473,Industry
-Technology,IT Services,15,0.06862889321093602,Industry
-Healthcare,Pharmaceuticals,84,0.9234674175467792,Industry
-Healthcare,Medical Devices,81,0.23801654899924118,Industry
-Healthcare,Healthcare Services,2,0.5214570866458911,Industry
-Finance,Banking,94,0.6239766408064761,Industry
-Finance,Insurance,86,0.16917784452861506,Industry
-Finance,Investment Services,17,0.4838972084838127,Industry
-Energy,Oil & Gas,40,0.031142388216353067,Industry
-Energy,Renewable Energy,20,0.37940622132736335,Industry
-Energy,Energy Exploration,52,0.1787461913856374,Industry
-Consumer Goods,Food & Beverage,18,0.6479841727416422,Industry
-Consumer Goods,Household Products,64,0.8392298263185296,Industry
-Consumer Goods,Apparel,41,0.9904338378433363,Industry
-Utilities,Electric,42,0.6649892354632119,Industry
-Utilities,Water,18,0.2683585389094859,Industry
-Utilities,Gas,22,0.8001471871165282,Industry
-Real Estate,Residential,8,0.7167523590226361,Industry
-Real Estate,Commercial,12,0.7962080081404133,Industry
-Real Estate,Industrial,22,0.5025308171002415,Industry
-Telecommunications,Mobile,3,0.4202873421159725,Industry
-Telecommunications,Broadband,68,0.9575040599610393,Industry
-Telecommunications,Satellite,19,0.6088513813950448,Industry
-Materials,Chemicals,43,0.048300908736710335,Industry
-Materials,Metals & Mining,75,0.5112437473536249,Industry
-Materials,Construction Materials,36,0.5493182576639609,Industry
-Industrials,Aerospace & Defense,85,0.9608500096797736,Industry
-Industrials,Machinery,37,0.7108479279533101,Industry
-Industrials,Industrial Services,31,0.7707573578550355,Industry
-Consumer Services,Retail,21,0.2588058375261787,Industry
-Consumer Services,Travel & Leisure,95,0.7581866835499612,Industry
-Consumer Services,Media,62,0.7481217834023453,Industry
-Transportation,Airlines,34,0.8358722050051114,Industry
-Transportation,Railroads,10,0.3190363233431691,Industry
-Transportation,Logistics,2,0.8947797807667341,Industry
+,Frederick,892,0.524737034754541,Overall
+Frederick,HiTech,34,0.0808240257685362,Sector
+Frederick,Agriculture,28,0.7584309856538927,Sector
+Frederick,Transportation,81,0.604801897539346,Sector
+Frederick,Consumer_Products,94,0.6008367107753014,Sector
+Frederick,Unassigned,98,0.8691224770681917,Sector
+Frederick,Communication,38,0.4789945418900523,Sector
+Frederick,Trade,7,0.639202193171348,Sector
+Frederick,Business_Services,90,0.8777748628024143,Sector
+Frederick,Business_Products,45,0.4429914612386472,Sector
+Frederick,Construction,49,0.2566032715580481,Sector
+Frederick,Services,71,0.5818512646991458,Sector
+Frederick,Mining,65,0.41065282634873657,Sector
+Frederick,Health_Care,60,0.84127853366538,Sector
+Frederick,EnergyExpL_Prod,57,0.23669348839800697,Sector
+Frederick,Utilities,75,0.19099698074106852,Sector

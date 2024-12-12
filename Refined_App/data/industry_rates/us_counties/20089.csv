@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Jewell,1985,0.1452766302946642,Overall
-Jewell,Technology,127,0.9814093479550724,Sector
-Jewell,Healthcare,209,0.8044937729057151,Sector
-Jewell,Finance,244,0.6520627423331017,Sector
-Jewell,Energy,157,0.24839932195391012,Sector
-Jewell,Consumer Goods,217,0.429914995954206,Sector
-Jewell,Utilities,156,0.9156563743622463,Sector
-Jewell,Real Estate,37,0.39925296486322426,Sector
-Jewell,Telecommunications,67,0.5194595357666654,Sector
-Jewell,Materials,203,0.31226386247719784,Sector
-Jewell,Industrials,200,0.5952589856447504,Sector
-Jewell,Consumer Services,209,0.49619930131901313,Sector
-Jewell,Transportation,159,0.6408783557806408,Sector
-Technology,Software,13,0.11909175953286122,Industry
-Technology,Hardware,70,0.655579084866414,Industry
-Technology,IT Services,44,0.06494722123842911,Industry
-Healthcare,Pharmaceuticals,79,0.722303011463084,Industry
-Healthcare,Medical Devices,55,0.5469630367141113,Industry
-Healthcare,Healthcare Services,75,0.30629756476070436,Industry
-Finance,Banking,96,0.17147204566819396,Industry
-Finance,Insurance,59,0.4889576933753955,Industry
-Finance,Investment Services,89,0.36283534389383043,Industry
-Energy,Oil & Gas,70,0.5661448579373676,Industry
-Energy,Renewable Energy,76,0.25726969141607614,Industry
-Energy,Energy Exploration,11,0.13218476689250014,Industry
-Consumer Goods,Food & Beverage,90,0.44186716857791797,Industry
-Consumer Goods,Household Products,81,0.08024943428910547,Industry
-Consumer Goods,Apparel,46,0.9897542743167278,Industry
-Utilities,Electric,9,0.11050988978305476,Industry
-Utilities,Water,65,0.7315151802218018,Industry
-Utilities,Gas,82,0.8229490096695994,Industry
-Real Estate,Residential,3,0.8505806226508692,Industry
-Real Estate,Commercial,22,0.7970795549818664,Industry
-Real Estate,Industrial,12,0.8548556704603172,Industry
-Telecommunications,Mobile,43,0.6295771072512514,Industry
-Telecommunications,Broadband,11,0.9629571444460951,Industry
-Telecommunications,Satellite,13,0.6432317288126279,Industry
-Materials,Chemicals,50,0.09957560442181879,Industry
-Materials,Metals & Mining,67,0.6377161758659181,Industry
-Materials,Construction Materials,86,0.5736816968836521,Industry
-Industrials,Aerospace & Defense,95,0.9699240203016133,Industry
-Industrials,Machinery,49,0.5774756817998482,Industry
-Industrials,Industrial Services,56,0.45703232162414986,Industry
-Consumer Services,Retail,91,0.34059302610955744,Industry
-Consumer Services,Travel & Leisure,84,0.7171447718127402,Industry
-Consumer Services,Media,34,0.13648812580703484,Industry
-Transportation,Airlines,34,0.31948752242639555,Industry
-Transportation,Railroads,88,0.42749102272803485,Industry
-Transportation,Logistics,37,0.28938761998073015,Industry
+,Jewell,864,0.448150983568856,Overall
+Jewell,HiTech,47,0.024200016676776626,Sector
+Jewell,Agriculture,63,0.7292691288781786,Sector
+Jewell,Transportation,48,0.1708883255938859,Sector
+Jewell,Consumer_Products,2,0.7033070758384281,Sector
+Jewell,Unassigned,91,0.2275606012775251,Sector
+Jewell,Communication,34,0.8126334938562465,Sector
+Jewell,Trade,71,0.914833579335481,Sector
+Jewell,Business_Services,42,0.06341648734985894,Sector
+Jewell,Business_Products,88,0.047688067683227864,Sector
+Jewell,Construction,84,0.09882777732587134,Sector
+Jewell,Services,36,0.6737910491759405,Sector
+Jewell,Mining,44,0.8425715737951055,Sector
+Jewell,Health_Care,85,0.11370124682343608,Sector
+Jewell,EnergyExpL_Prod,76,0.7918698198338531,Sector
+Jewell,Utilities,53,0.5077065100890256,Sector

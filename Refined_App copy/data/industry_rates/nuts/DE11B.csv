@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Main-Tauber-Kreis,1944,0.005213665680686708,Overall
+Main-Tauber-Kreis,Technology,236,0.03859094077631031,Sector
+Main-Tauber-Kreis,Healthcare,168,0.6346620450440107,Sector
+Main-Tauber-Kreis,Finance,156,0.333403963849613,Sector
+Main-Tauber-Kreis,Energy,157,0.16316272369627027,Sector
+Main-Tauber-Kreis,Consumer Goods,161,0.08927263975623445,Sector
+Main-Tauber-Kreis,Utilities,187,0.8723841718881938,Sector
+Main-Tauber-Kreis,Real Estate,150,0.0325142598764131,Sector
+Main-Tauber-Kreis,Telecommunications,109,0.04445811906825248,Sector
+Main-Tauber-Kreis,Materials,126,0.6691216127668692,Sector
+Main-Tauber-Kreis,Industrials,116,0.9529894427659069,Sector
+Main-Tauber-Kreis,Consumer Services,157,0.40894500386954835,Sector
+Main-Tauber-Kreis,Transportation,221,0.0745251392559485,Sector
+Technology,Software,99,0.23851777633865612,Industry
+Technology,Hardware,47,0.41863609965144966,Industry
+Technology,IT Services,90,0.33735308614764403,Industry
+Healthcare,Pharmaceuticals,95,0.022065143230299733,Industry
+Healthcare,Medical Devices,61,0.4880657562915526,Industry
+Healthcare,Healthcare Services,12,0.412948797794891,Industry
+Finance,Banking,58,0.39203058960911796,Industry
+Finance,Insurance,40,0.8817866702603904,Industry
+Finance,Investment Services,58,0.7497197554513194,Industry
+Energy,Oil & Gas,38,0.825330650584053,Industry
+Energy,Renewable Energy,70,0.4954831064976549,Industry
+Energy,Energy Exploration,49,0.24365396735431655,Industry
+Consumer Goods,Food & Beverage,61,0.20656432907230837,Industry
+Consumer Goods,Household Products,79,0.6410129201412369,Industry
+Consumer Goods,Apparel,21,0.18599767936089007,Industry
+Utilities,Electric,74,0.07486512319334149,Industry
+Utilities,Water,74,0.3685512032512114,Industry
+Utilities,Gas,39,0.836372638415442,Industry
+Real Estate,Residential,18,0.9484889587678099,Industry
+Real Estate,Commercial,61,0.11965046617433983,Industry
+Real Estate,Industrial,71,0.3228120016180781,Industry
+Telecommunications,Mobile,16,0.16230123796425688,Industry
+Telecommunications,Broadband,72,0.015784315041479702,Industry
+Telecommunications,Satellite,21,0.943509316446901,Industry
+Materials,Chemicals,56,0.2766794263625546,Industry
+Materials,Metals & Mining,7,0.4660981812547521,Industry
+Materials,Construction Materials,63,0.887581524954943,Industry
+Industrials,Aerospace & Defense,22,0.9193328946114987,Industry
+Industrials,Machinery,53,0.9485624944098842,Industry
+Industrials,Industrial Services,41,0.6243805086900266,Industry
+Consumer Services,Retail,57,0.7531974537482131,Industry
+Consumer Services,Travel & Leisure,4,0.3156132376819967,Industry
+Consumer Services,Media,96,0.13988222910957993,Industry
+Transportation,Airlines,27,0.41824122537214814,Industry
+Transportation,Railroads,99,0.19204388054476218,Industry
+Transportation,Logistics,95,0.27559026683055243,Industry

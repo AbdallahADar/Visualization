@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chester,1534,0.8849393420135675,Overall
-Chester,Technology,53,0.7548684746854726,Sector
-Chester,Healthcare,42,0.31467099887114425,Sector
-Chester,Finance,136,0.6247770166733774,Sector
-Chester,Energy,106,0.06516443231777058,Sector
-Chester,Consumer Goods,111,0.44801379303318223,Sector
-Chester,Utilities,197,0.0513265300075999,Sector
-Chester,Real Estate,178,0.7164476632608439,Sector
-Chester,Telecommunications,154,0.7166973230315126,Sector
-Chester,Materials,120,0.19219421583688945,Sector
-Chester,Industrials,104,0.48585158622940605,Sector
-Chester,Consumer Services,196,0.8776503216163364,Sector
-Chester,Transportation,137,0.35099630990103803,Sector
-Technology,Software,4,0.3225719658873437,Industry
-Technology,Hardware,35,0.6967403655602676,Industry
-Technology,IT Services,14,0.5557328433045614,Industry
-Healthcare,Pharmaceuticals,1,0.5944158546996319,Industry
-Healthcare,Medical Devices,25,0.9321199607532146,Industry
-Healthcare,Healthcare Services,16,0.2576414519465665,Industry
-Finance,Banking,87,0.795590089795048,Industry
-Finance,Insurance,9,0.4889593655642912,Industry
-Finance,Investment Services,40,0.9288140516715432,Industry
-Energy,Oil & Gas,11,0.25233407666368735,Industry
-Energy,Renewable Energy,21,0.5142733993078596,Industry
-Energy,Energy Exploration,74,0.330020755635137,Industry
-Consumer Goods,Food & Beverage,39,0.42668968529962836,Industry
-Consumer Goods,Household Products,9,0.8265297263689978,Industry
-Consumer Goods,Apparel,63,0.9891385533643285,Industry
-Utilities,Electric,77,0.212070621453063,Industry
-Utilities,Water,57,0.7669476187584026,Industry
-Utilities,Gas,63,0.7069076932372326,Industry
-Real Estate,Residential,53,0.9942188002777749,Industry
-Real Estate,Commercial,75,0.6175404017383761,Industry
-Real Estate,Industrial,50,0.1784293228089474,Industry
-Telecommunications,Mobile,71,0.7808360196868436,Industry
-Telecommunications,Broadband,40,0.601425806957704,Industry
-Telecommunications,Satellite,43,0.4852758486440497,Industry
-Materials,Chemicals,13,0.5607539588613842,Industry
-Materials,Metals & Mining,68,0.3034518671301367,Industry
-Materials,Construction Materials,39,0.4811894555732136,Industry
-Industrials,Aerospace & Defense,31,0.4910708812917022,Industry
-Industrials,Machinery,21,0.6650116593462408,Industry
-Industrials,Industrial Services,52,0.41610164959578544,Industry
-Consumer Services,Retail,41,0.8511484228911458,Industry
-Consumer Services,Travel & Leisure,82,0.8632299709847003,Industry
-Consumer Services,Media,73,0.5769436875511733,Industry
-Transportation,Airlines,81,0.16795558947371148,Industry
-Transportation,Railroads,22,0.4831957066012048,Industry
-Transportation,Logistics,34,0.2654507349338644,Industry
+,Chester,724,0.5508629182311056,Overall
+Chester,HiTech,52,0.8261113920408555,Sector
+Chester,Agriculture,23,0.15806752240299082,Sector
+Chester,Transportation,86,0.5019427066023519,Sector
+Chester,Consumer_Products,26,0.6712581492174148,Sector
+Chester,Unassigned,49,0.2124676521809704,Sector
+Chester,Communication,34,0.8257698656503888,Sector
+Chester,Trade,91,0.43119303790584795,Sector
+Chester,Business_Services,18,0.7587355022815079,Sector
+Chester,Business_Products,5,0.20296262577944002,Sector
+Chester,Construction,56,0.7883002512707463,Sector
+Chester,Services,30,0.9118646810743816,Sector
+Chester,Mining,64,0.011127005274846002,Sector
+Chester,Health_Care,63,0.6777728840003927,Sector
+Chester,EnergyExpL_Prod,60,0.7910703331748203,Sector
+Chester,Utilities,67,0.4943001646096278,Sector

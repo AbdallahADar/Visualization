@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Seminole,1855,0.8005407735760475,Overall
-Seminole,Technology,128,0.7207020283406351,Sector
-Seminole,Healthcare,225,0.9897126676145432,Sector
-Seminole,Finance,103,0.8306498954123935,Sector
-Seminole,Energy,201,0.01316831558792475,Sector
-Seminole,Consumer Goods,168,0.9446634241572647,Sector
-Seminole,Utilities,202,0.7679211353192517,Sector
-Seminole,Real Estate,89,0.5739681697757428,Sector
-Seminole,Telecommunications,148,0.4459645066372616,Sector
-Seminole,Materials,73,0.00030407264577658744,Sector
-Seminole,Industrials,124,0.29629914076320163,Sector
-Seminole,Consumer Services,151,0.46769155940506235,Sector
-Seminole,Transportation,243,0.6155950008567198,Sector
-Technology,Software,41,0.9965034485596845,Industry
-Technology,Hardware,44,0.8288563971844716,Industry
-Technology,IT Services,43,0.6920816660494108,Industry
-Healthcare,Pharmaceuticals,61,0.8073281350906713,Industry
-Healthcare,Medical Devices,75,0.45611317700240317,Industry
-Healthcare,Healthcare Services,89,0.046746456423678695,Industry
-Finance,Banking,30,0.29080722786990687,Industry
-Finance,Insurance,6,0.9123874668722115,Industry
-Finance,Investment Services,67,0.4315622759728347,Industry
-Energy,Oil & Gas,69,0.7939907214498182,Industry
-Energy,Renewable Energy,73,0.39378045100901815,Industry
-Energy,Energy Exploration,59,0.1265440357477826,Industry
-Consumer Goods,Food & Beverage,87,0.04889439210138413,Industry
-Consumer Goods,Household Products,16,0.1621401559486334,Industry
-Consumer Goods,Apparel,65,0.3205299394193126,Industry
-Utilities,Electric,91,0.5961405774720295,Industry
-Utilities,Water,13,0.6425588259248821,Industry
-Utilities,Gas,98,0.2911596741750325,Industry
-Real Estate,Residential,15,0.35834733053059975,Industry
-Real Estate,Commercial,18,0.765943359735124,Industry
-Real Estate,Industrial,56,0.9683443521499842,Industry
-Telecommunications,Mobile,0,0.3735851493111175,Industry
-Telecommunications,Broadband,54,0.0074398553668624245,Industry
-Telecommunications,Satellite,94,0.671917602753235,Industry
-Materials,Chemicals,28,0.45841245609949066,Industry
-Materials,Metals & Mining,16,0.2558579650319688,Industry
-Materials,Construction Materials,29,0.8264472299904486,Industry
-Industrials,Aerospace & Defense,84,0.03209344194295449,Industry
-Industrials,Machinery,6,0.5444734377273646,Industry
-Industrials,Industrial Services,34,0.854280752274277,Industry
-Consumer Services,Retail,37,0.8131473008316341,Industry
-Consumer Services,Travel & Leisure,43,0.09009887719042287,Industry
-Consumer Services,Media,71,0.7282249657473708,Industry
-Transportation,Airlines,86,0.9671899418617187,Industry
-Transportation,Railroads,89,0.32589925557452915,Industry
-Transportation,Logistics,68,0.842959203791573,Industry
+,Seminole,719,0.4501222933488733,Overall
+Seminole,HiTech,55,0.07700112804531178,Sector
+Seminole,Agriculture,83,0.5627079977944673,Sector
+Seminole,Transportation,51,0.5659222038760469,Sector
+Seminole,Consumer_Products,16,0.947588208056928,Sector
+Seminole,Unassigned,12,0.040425370791209114,Sector
+Seminole,Communication,74,0.7043680094369055,Sector
+Seminole,Trade,28,0.3752746164575099,Sector
+Seminole,Business_Services,64,0.9598424314725044,Sector
+Seminole,Business_Products,46,0.07108870448209614,Sector
+Seminole,Construction,53,0.06261072113805644,Sector
+Seminole,Services,45,0.06025131355878366,Sector
+Seminole,Mining,80,0.5610599003218565,Sector
+Seminole,Health_Care,29,0.8520487902274737,Sector
+Seminole,EnergyExpL_Prod,77,0.08881502864437196,Sector
+Seminole,Utilities,6,0.8228299759295784,Sector

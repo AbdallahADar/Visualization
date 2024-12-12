@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Schoharie,1986,0.8159512581122713,Overall
-Schoharie,Technology,197,0.9006894078492191,Sector
-Schoharie,Healthcare,221,0.32690242523999224,Sector
-Schoharie,Finance,213,0.2161357152125084,Sector
-Schoharie,Energy,95,0.8163890015069898,Sector
-Schoharie,Consumer Goods,178,0.6038077235249334,Sector
-Schoharie,Utilities,81,0.7813040057149195,Sector
-Schoharie,Real Estate,163,0.7219593473175878,Sector
-Schoharie,Telecommunications,269,0.4078537051886659,Sector
-Schoharie,Materials,127,0.11202026700041778,Sector
-Schoharie,Industrials,151,0.9731545995452554,Sector
-Schoharie,Consumer Services,159,0.12116008628117392,Sector
-Schoharie,Transportation,132,0.7453160348786179,Sector
-Technology,Software,87,0.78030491553903,Industry
-Technology,Hardware,65,0.7190845824882877,Industry
-Technology,IT Services,45,0.6790239764911074,Industry
-Healthcare,Pharmaceuticals,84,0.7634910091980965,Industry
-Healthcare,Medical Devices,41,0.9620407588802663,Industry
-Healthcare,Healthcare Services,96,0.7135756544532023,Industry
-Finance,Banking,21,0.5668527385363582,Industry
-Finance,Insurance,97,0.10793038652842324,Industry
-Finance,Investment Services,95,0.5027671233864098,Industry
-Energy,Oil & Gas,19,0.4169833612509489,Industry
-Energy,Renewable Energy,5,0.6169225789920298,Industry
-Energy,Energy Exploration,71,0.2753706150784099,Industry
-Consumer Goods,Food & Beverage,23,0.49949740831596257,Industry
-Consumer Goods,Household Products,67,0.28446520274114895,Industry
-Consumer Goods,Apparel,88,0.48201336312134524,Industry
-Utilities,Electric,10,0.4759616287187828,Industry
-Utilities,Water,12,0.9357343900829419,Industry
-Utilities,Gas,59,0.6836849731805875,Industry
-Real Estate,Residential,49,0.15155823503062615,Industry
-Real Estate,Commercial,74,0.4230309999657458,Industry
-Real Estate,Industrial,40,0.646788709535946,Industry
-Telecommunications,Mobile,83,0.31348319163258254,Industry
-Telecommunications,Broadband,89,0.6366574261194305,Industry
-Telecommunications,Satellite,97,0.13690977036592789,Industry
-Materials,Chemicals,44,0.4727010203559654,Industry
-Materials,Metals & Mining,15,0.9412743725040225,Industry
-Materials,Construction Materials,68,0.4632952525693841,Industry
-Industrials,Aerospace & Defense,30,0.27521266548535284,Industry
-Industrials,Machinery,74,0.03744726897897688,Industry
-Industrials,Industrial Services,47,0.43543690326046236,Industry
-Consumer Services,Retail,57,0.33659681712158496,Industry
-Consumer Services,Travel & Leisure,92,0.9546647874250865,Industry
-Consumer Services,Media,10,0.08029088935975548,Industry
-Transportation,Airlines,33,0.35286000728971423,Industry
-Transportation,Railroads,97,0.6586822737532982,Industry
-Transportation,Logistics,2,0.8057040320585047,Industry
+,Schoharie,783,0.41259320074906286,Overall
+Schoharie,HiTech,9,0.724021957310634,Sector
+Schoharie,Agriculture,72,0.00021872299389003036,Sector
+Schoharie,Transportation,51,0.46542441886054386,Sector
+Schoharie,Consumer_Products,99,0.4007966713200425,Sector
+Schoharie,Unassigned,47,0.7540060135235536,Sector
+Schoharie,Communication,65,0.34521384670709343,Sector
+Schoharie,Trade,42,0.04666265628494015,Sector
+Schoharie,Business_Services,60,0.07493663449237864,Sector
+Schoharie,Business_Products,81,0.44706635828636354,Sector
+Schoharie,Construction,94,0.2472069384117398,Sector
+Schoharie,Services,26,0.25732401727836807,Sector
+Schoharie,Mining,33,0.6298733215507959,Sector
+Schoharie,Health_Care,27,0.757586516650308,Sector
+Schoharie,EnergyExpL_Prod,37,0.42090926603176504,Sector
+Schoharie,Utilities,40,0.6176506715335262,Sector

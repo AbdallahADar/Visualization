@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Waupaca,1429,0.6235198419767788,Overall
-Waupaca,Technology,104,0.5902865586381109,Sector
-Waupaca,Healthcare,187,0.15258760373436409,Sector
-Waupaca,Finance,181,0.7113283999796158,Sector
-Waupaca,Energy,158,0.42975326762203114,Sector
-Waupaca,Consumer Goods,53,0.729932931104306,Sector
-Waupaca,Utilities,77,0.8463082441723809,Sector
-Waupaca,Real Estate,151,0.03877287794003459,Sector
-Waupaca,Telecommunications,43,0.2648554966132707,Sector
-Waupaca,Materials,86,0.9962792559478495,Sector
-Waupaca,Industrials,105,0.4858291987607398,Sector
-Waupaca,Consumer Services,253,0.29621985875408363,Sector
-Waupaca,Transportation,31,0.8079994706644822,Sector
-Technology,Software,34,0.7035587153630606,Industry
-Technology,Hardware,5,0.8344027681435183,Industry
-Technology,IT Services,65,0.48179722121979596,Industry
-Healthcare,Pharmaceuticals,84,0.4356152192622107,Industry
-Healthcare,Medical Devices,15,0.2236831911109699,Industry
-Healthcare,Healthcare Services,88,0.5433347417135048,Industry
-Finance,Banking,85,0.41491575268129155,Industry
-Finance,Insurance,49,0.9961086168838398,Industry
-Finance,Investment Services,47,0.006024808093080591,Industry
-Energy,Oil & Gas,42,0.18991918937472974,Industry
-Energy,Renewable Energy,87,0.4029966089786218,Industry
-Energy,Energy Exploration,29,0.058169237552121555,Industry
-Consumer Goods,Food & Beverage,24,0.4611635870912707,Industry
-Consumer Goods,Household Products,9,0.8317626355128044,Industry
-Consumer Goods,Apparel,20,0.9546423625466802,Industry
-Utilities,Electric,48,0.4260822068136032,Industry
-Utilities,Water,17,0.16524257269041853,Industry
-Utilities,Gas,12,0.8954598385529424,Industry
-Real Estate,Residential,87,0.4529511324583444,Industry
-Real Estate,Commercial,56,0.22842223006354023,Industry
-Real Estate,Industrial,8,0.6866667698481825,Industry
-Telecommunications,Mobile,15,0.06430357742037796,Industry
-Telecommunications,Broadband,17,0.9633176521245385,Industry
-Telecommunications,Satellite,11,0.7966680198035981,Industry
-Materials,Chemicals,36,0.6052730501388611,Industry
-Materials,Metals & Mining,26,0.844299714146653,Industry
-Materials,Construction Materials,24,0.7741971373932547,Industry
-Industrials,Aerospace & Defense,19,0.6276961784921218,Industry
-Industrials,Machinery,10,0.2613962188660187,Industry
-Industrials,Industrial Services,76,0.325892056926925,Industry
-Consumer Services,Retail,81,0.4413203998313264,Industry
-Consumer Services,Travel & Leisure,92,0.40136016223047166,Industry
-Consumer Services,Media,80,0.3322043359974294,Industry
-Transportation,Airlines,23,0.564545064048968,Industry
-Transportation,Railroads,6,0.7653897812712868,Industry
-Transportation,Logistics,2,0.42093514726586223,Industry
+,Waupaca,635,0.5698661929701656,Overall
+Waupaca,HiTech,41,0.580554632006467,Sector
+Waupaca,Agriculture,2,0.9393718600078431,Sector
+Waupaca,Transportation,72,0.7810371758960367,Sector
+Waupaca,Consumer_Products,25,0.7989736491023269,Sector
+Waupaca,Unassigned,92,0.9384392022048417,Sector
+Waupaca,Communication,43,0.9102008761345269,Sector
+Waupaca,Trade,24,0.49741186495568934,Sector
+Waupaca,Business_Services,4,0.03348701388903941,Sector
+Waupaca,Business_Products,93,0.3303769823560814,Sector
+Waupaca,Construction,43,0.2385354191438781,Sector
+Waupaca,Services,63,0.2725317740365184,Sector
+Waupaca,Mining,59,0.45590010925135793,Sector
+Waupaca,Health_Care,3,0.27389074854125073,Sector
+Waupaca,EnergyExpL_Prod,48,0.7387120192338125,Sector
+Waupaca,Utilities,23,0.7585695677928148,Sector

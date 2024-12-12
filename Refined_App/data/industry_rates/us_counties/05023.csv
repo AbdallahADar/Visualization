@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cleburne,1967,0.87683804264734,Overall
-Cleburne,Technology,190,0.05567313433453269,Sector
-Cleburne,Healthcare,148,0.05868167985075001,Sector
-Cleburne,Finance,118,0.2851846148809979,Sector
-Cleburne,Energy,282,0.252876420226237,Sector
-Cleburne,Consumer Goods,166,0.1653298560344223,Sector
-Cleburne,Utilities,124,0.28670457953932826,Sector
-Cleburne,Real Estate,122,0.2575103117802594,Sector
-Cleburne,Telecommunications,193,0.16654039008152044,Sector
-Cleburne,Materials,125,0.3917635243830264,Sector
-Cleburne,Industrials,242,0.7110547503786973,Sector
-Cleburne,Consumer Services,177,0.8985401765518806,Sector
-Cleburne,Transportation,80,0.3316015919705745,Sector
-Technology,Software,95,0.29767152221812754,Industry
-Technology,Hardware,23,0.9747651596365531,Industry
-Technology,IT Services,72,0.19510107419317235,Industry
-Healthcare,Pharmaceuticals,19,0.5200430205425433,Industry
-Healthcare,Medical Devices,74,0.7952058748078916,Industry
-Healthcare,Healthcare Services,55,0.7025204057670031,Industry
-Finance,Banking,18,0.867700543712886,Industry
-Finance,Insurance,88,0.7001032692896674,Industry
-Finance,Investment Services,12,0.3581196009926674,Industry
-Energy,Oil & Gas,90,0.1025636023487625,Industry
-Energy,Renewable Energy,97,0.530776921626122,Industry
-Energy,Energy Exploration,95,0.6165585660598165,Industry
-Consumer Goods,Food & Beverage,30,0.6237974138212417,Industry
-Consumer Goods,Household Products,97,0.8491046978525446,Industry
-Consumer Goods,Apparel,39,0.5047782542090653,Industry
-Utilities,Electric,99,0.44113972932610046,Industry
-Utilities,Water,11,0.3197199239655345,Industry
-Utilities,Gas,14,0.6495847252823638,Industry
-Real Estate,Residential,4,0.9234265198394397,Industry
-Real Estate,Commercial,42,0.6103443044826872,Industry
-Real Estate,Industrial,76,0.36418550891608126,Industry
-Telecommunications,Mobile,47,0.11295558947495499,Industry
-Telecommunications,Broadband,68,0.7709135694544005,Industry
-Telecommunications,Satellite,78,0.027922939316462836,Industry
-Materials,Chemicals,91,0.8957707403549965,Industry
-Materials,Metals & Mining,32,0.5298926455651678,Industry
-Materials,Construction Materials,2,0.7857128180963452,Industry
-Industrials,Aerospace & Defense,66,0.40755085301689187,Industry
-Industrials,Machinery,85,0.0033564186730000722,Industry
-Industrials,Industrial Services,91,0.6455721559177797,Industry
-Consumer Services,Retail,65,0.8488488572818215,Industry
-Consumer Services,Travel & Leisure,38,0.23286588394568208,Industry
-Consumer Services,Media,74,0.3318659651467387,Industry
-Transportation,Airlines,42,0.8169726086925291,Industry
-Transportation,Railroads,23,0.6074831290123451,Industry
-Transportation,Logistics,15,0.627552619722904,Industry
+,Cleburne,588,0.5143775612228725,Overall
+Cleburne,HiTech,1,0.5468577842696233,Sector
+Cleburne,Agriculture,46,0.7963385566565918,Sector
+Cleburne,Transportation,21,0.23486070883076426,Sector
+Cleburne,Consumer_Products,98,0.5594175207299711,Sector
+Cleburne,Unassigned,74,0.22470178525381945,Sector
+Cleburne,Communication,11,0.9540676163812285,Sector
+Cleburne,Trade,51,0.8203047374695498,Sector
+Cleburne,Business_Services,45,0.3799199701948125,Sector
+Cleburne,Business_Products,41,0.5989124161835466,Sector
+Cleburne,Construction,65,0.05154900199320023,Sector
+Cleburne,Services,14,0.0217748999698828,Sector
+Cleburne,Mining,14,0.9820534472898456,Sector
+Cleburne,Health_Care,19,0.9447666266135673,Sector
+Cleburne,EnergyExpL_Prod,31,0.3273990372460802,Sector
+Cleburne,Utilities,57,0.27273930926060586,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Rockingham,1664,0.9321197709179526,Overall
+Rockingham,Technology,157,0.26886838844468053,Sector
+Rockingham,Healthcare,141,0.9157531840664652,Sector
+Rockingham,Finance,81,0.6112936477889828,Sector
+Rockingham,Energy,243,0.6628656875965617,Sector
+Rockingham,Consumer Goods,148,0.8388243867340804,Sector
+Rockingham,Utilities,177,0.2395451243566935,Sector
+Rockingham,Real Estate,122,0.34430810396051836,Sector
+Rockingham,Telecommunications,112,0.9031955053316323,Sector
+Rockingham,Materials,182,0.07648732406512371,Sector
+Rockingham,Industrials,153,0.9783236996190413,Sector
+Rockingham,Consumer Services,91,0.012206795742421117,Sector
+Rockingham,Transportation,57,0.3458733724610652,Sector
+Technology,Software,87,0.77706673407447,Industry
+Technology,Hardware,70,0.9290187994371497,Industry
+Technology,IT Services,0,0.054796844129650135,Industry
+Healthcare,Pharmaceuticals,70,0.2053898393269371,Industry
+Healthcare,Medical Devices,46,0.6272596548409831,Industry
+Healthcare,Healthcare Services,25,0.6783116570725671,Industry
+Finance,Banking,33,0.236466033426584,Industry
+Finance,Insurance,22,0.05804976127304251,Industry
+Finance,Investment Services,26,0.9505654754578144,Industry
+Energy,Oil & Gas,60,0.3810002673837234,Industry
+Energy,Renewable Energy,89,0.04242872709161882,Industry
+Energy,Energy Exploration,94,0.08533209713198342,Industry
+Consumer Goods,Food & Beverage,34,0.4562472330020275,Industry
+Consumer Goods,Household Products,43,0.8089339419863578,Industry
+Consumer Goods,Apparel,71,0.82796993751585,Industry
+Utilities,Electric,78,0.3904700528363615,Industry
+Utilities,Water,39,0.7712491557930645,Industry
+Utilities,Gas,60,0.782681156194286,Industry
+Real Estate,Residential,81,0.6368652671694387,Industry
+Real Estate,Commercial,40,0.19929375623485002,Industry
+Real Estate,Industrial,1,0.6832053867643999,Industry
+Telecommunications,Mobile,21,0.4210819850006803,Industry
+Telecommunications,Broadband,28,0.312225303959205,Industry
+Telecommunications,Satellite,63,0.9393325045719381,Industry
+Materials,Chemicals,32,0.752935425415383,Industry
+Materials,Metals & Mining,62,0.8261598290137511,Industry
+Materials,Construction Materials,88,0.12395271646067318,Industry
+Industrials,Aerospace & Defense,51,0.8253086533966033,Industry
+Industrials,Machinery,98,0.9434034652209343,Industry
+Industrials,Industrial Services,4,0.7876217470329717,Industry
+Consumer Services,Retail,87,0.017871654516791624,Industry
+Consumer Services,Travel & Leisure,4,0.8032017243953731,Industry
+Consumer Services,Media,0,0.03924621316788801,Industry
+Transportation,Airlines,19,0.22603556246688028,Industry
+Transportation,Railroads,25,0.6864123081302423,Industry
+Transportation,Logistics,13,0.8356437758272018,Industry

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Garza,1860,0.1275810647683202,Overall
-Garza,Technology,142,0.46782166024151095,Sector
-Garza,Healthcare,169,0.1404046371290366,Sector
-Garza,Finance,131,0.41240636721934043,Sector
-Garza,Energy,169,0.7543226328584325,Sector
-Garza,Consumer Goods,122,0.19470698464988034,Sector
-Garza,Utilities,142,0.7774042944517964,Sector
-Garza,Real Estate,69,0.2831460801984268,Sector
-Garza,Telecommunications,87,0.9207779863593228,Sector
-Garza,Materials,229,0.13189270424222221,Sector
-Garza,Industrials,139,0.7604878980909546,Sector
-Garza,Consumer Services,262,0.10249614951388175,Sector
-Garza,Transportation,199,0.8054306678927093,Sector
-Technology,Software,99,0.3198192726238782,Industry
-Technology,Hardware,20,0.8628317873387716,Industry
-Technology,IT Services,23,0.8205030802385466,Industry
-Healthcare,Pharmaceuticals,30,0.8499690601659198,Industry
-Healthcare,Medical Devices,53,0.31047208377571156,Industry
-Healthcare,Healthcare Services,86,0.9343916874471042,Industry
-Finance,Banking,5,0.33817873195253123,Industry
-Finance,Insurance,40,0.08175424497855421,Industry
-Finance,Investment Services,86,0.3996990073632328,Industry
-Energy,Oil & Gas,61,0.5254097051113147,Industry
-Energy,Renewable Energy,67,0.8105283836880558,Industry
-Energy,Energy Exploration,41,0.02122732681779782,Industry
-Consumer Goods,Food & Beverage,39,0.22462478545335096,Industry
-Consumer Goods,Household Products,20,0.024522305081429274,Industry
-Consumer Goods,Apparel,63,0.31185732226914953,Industry
-Utilities,Electric,41,0.25006492459335505,Industry
-Utilities,Water,44,0.7966336781151728,Industry
-Utilities,Gas,57,0.7136320970875639,Industry
-Real Estate,Residential,0,0.9984652422146396,Industry
-Real Estate,Commercial,35,0.7857887134130684,Industry
-Real Estate,Industrial,34,0.5794027199610959,Industry
-Telecommunications,Mobile,34,0.7826495642051319,Industry
-Telecommunications,Broadband,2,0.868836365531811,Industry
-Telecommunications,Satellite,51,0.5941372982042907,Industry
-Materials,Chemicals,89,0.4428556708757544,Industry
-Materials,Metals & Mining,54,0.7806207534638027,Industry
-Materials,Construction Materials,86,0.15646759750604633,Industry
-Industrials,Aerospace & Defense,44,0.7730432941526041,Industry
-Industrials,Machinery,47,0.046371416237700025,Industry
-Industrials,Industrial Services,48,0.30845060682343095,Industry
-Consumer Services,Retail,78,0.46998366996141294,Industry
-Consumer Services,Travel & Leisure,86,0.5570718972912321,Industry
-Consumer Services,Media,98,0.2651117128324908,Industry
-Transportation,Airlines,93,0.21439564363612906,Industry
-Transportation,Railroads,52,0.15066222950696762,Industry
-Transportation,Logistics,54,0.6178960209873223,Industry
+,Garza,812,0.5762098533940775,Overall
+Garza,HiTech,55,0.2969094071890944,Sector
+Garza,Agriculture,30,0.9660833100129826,Sector
+Garza,Transportation,54,0.6682644904551961,Sector
+Garza,Consumer_Products,73,0.13145285287755015,Sector
+Garza,Unassigned,15,0.6498047074025485,Sector
+Garza,Communication,53,0.9705528095666882,Sector
+Garza,Trade,30,0.41485732721876634,Sector
+Garza,Business_Services,94,0.4000454287576082,Sector
+Garza,Business_Products,12,0.8832509255021048,Sector
+Garza,Construction,63,0.5682246990193343,Sector
+Garza,Services,17,0.6576612330811842,Sector
+Garza,Mining,80,0.21689280285119317,Sector
+Garza,Health_Care,84,0.02849259111412017,Sector
+Garza,EnergyExpL_Prod,95,0.9582457060613889,Sector
+Garza,Utilities,57,0.8324095098014017,Sector

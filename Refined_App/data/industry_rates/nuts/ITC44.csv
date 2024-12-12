@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sondrio,2017,0.3651590884314735,Overall
-Sondrio,Technology,133,0.2751200361392683,Sector
-Sondrio,Healthcare,176,0.62006398102309,Sector
-Sondrio,Finance,84,0.7097073059157777,Sector
-Sondrio,Energy,251,0.32441446418811704,Sector
-Sondrio,Consumer Goods,169,0.6466286489210573,Sector
-Sondrio,Utilities,154,0.08573407816153145,Sector
-Sondrio,Real Estate,177,0.10551071886355368,Sector
-Sondrio,Telecommunications,157,0.9654809492336998,Sector
-Sondrio,Materials,168,0.7628234131705027,Sector
-Sondrio,Industrials,254,0.5839708367765425,Sector
-Sondrio,Consumer Services,198,0.6559115213435194,Sector
-Sondrio,Transportation,96,0.7047889047698378,Sector
-Technology,Software,25,0.921317681299643,Industry
-Technology,Hardware,21,0.3617066292730561,Industry
-Technology,IT Services,87,0.3575627628272682,Industry
-Healthcare,Pharmaceuticals,33,0.4256964977598692,Industry
-Healthcare,Medical Devices,65,0.12453543485430063,Industry
-Healthcare,Healthcare Services,78,0.46519412885439315,Industry
-Finance,Banking,1,0.5918712514519033,Industry
-Finance,Insurance,48,0.8284037323803934,Industry
-Finance,Investment Services,35,0.5983698176942637,Industry
-Energy,Oil & Gas,76,0.43407396950058386,Industry
-Energy,Renewable Energy,94,0.8560368371890985,Industry
-Energy,Energy Exploration,81,0.8158964278922267,Industry
-Consumer Goods,Food & Beverage,34,0.39574967526609206,Industry
-Consumer Goods,Household Products,83,0.4626966736264919,Industry
-Consumer Goods,Apparel,52,0.5816244893038393,Industry
-Utilities,Electric,57,0.8524502832291092,Industry
-Utilities,Water,29,0.877450655967753,Industry
-Utilities,Gas,68,0.0596823159190375,Industry
-Real Estate,Residential,39,0.3357987834815306,Industry
-Real Estate,Commercial,44,0.1573328937618016,Industry
-Real Estate,Industrial,94,0.30539457741032017,Industry
-Telecommunications,Mobile,53,0.6133729836988919,Industry
-Telecommunications,Broadband,57,0.1289297669210262,Industry
-Telecommunications,Satellite,47,0.20178880492833273,Industry
-Materials,Chemicals,94,0.9587940677136351,Industry
-Materials,Metals & Mining,51,0.1417215430322606,Industry
-Materials,Construction Materials,23,0.31317969133230283,Industry
-Industrials,Aerospace & Defense,77,0.04879834035964181,Industry
-Industrials,Machinery,92,0.47648559493112097,Industry
-Industrials,Industrial Services,85,0.6825324335930057,Industry
-Consumer Services,Retail,11,0.6385828368104137,Industry
-Consumer Services,Travel & Leisure,95,0.48587251059423453,Industry
-Consumer Services,Media,92,0.971355034534135,Industry
-Transportation,Airlines,44,0.11983352336143605,Industry
-Transportation,Railroads,26,0.4471848169437642,Industry
-Transportation,Logistics,26,0.8903904417644609,Industry
+,Sondrio,766,0.5178396234230397,Overall
+Sondrio,HiTech,17,0.1523785975526547,Sector
+Sondrio,Agriculture,25,0.4484124004264115,Sector
+Sondrio,Transportation,40,0.7731121457088962,Sector
+Sondrio,Consumer_Products,94,0.7995109185900997,Sector
+Sondrio,Unassigned,18,0.5005377488308651,Sector
+Sondrio,Communication,31,0.9386180754285666,Sector
+Sondrio,Trade,74,0.5449586569009487,Sector
+Sondrio,Business_Services,67,0.5534533974382007,Sector
+Sondrio,Business_Products,73,0.6669816788291855,Sector
+Sondrio,Construction,69,0.6483758427492239,Sector
+Sondrio,Services,13,0.16171915157500505,Sector
+Sondrio,Mining,77,0.22049880768386654,Sector
+Sondrio,Health_Care,71,0.5080547068755621,Sector
+Sondrio,EnergyExpL_Prod,77,0.8061460010216426,Sector
+Sondrio,Utilities,20,0.04483622173446733,Sector

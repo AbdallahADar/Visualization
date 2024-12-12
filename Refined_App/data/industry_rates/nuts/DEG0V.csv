@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sonneberg,1722,0.016251073732890586,Overall
-Sonneberg,Technology,123,0.6971425462024838,Sector
-Sonneberg,Healthcare,152,0.19114490515884064,Sector
-Sonneberg,Finance,173,0.3712782877412172,Sector
-Sonneberg,Energy,169,0.005228119785097518,Sector
-Sonneberg,Consumer Goods,181,0.5076844148503737,Sector
-Sonneberg,Utilities,139,0.2709387909174076,Sector
-Sonneberg,Real Estate,139,0.9870366559334316,Sector
-Sonneberg,Telecommunications,141,0.8391375848888727,Sector
-Sonneberg,Materials,125,0.542179569158298,Sector
-Sonneberg,Industrials,74,0.07689864293565563,Sector
-Sonneberg,Consumer Services,190,0.7606485971026558,Sector
-Sonneberg,Transportation,116,0.3149875676731123,Sector
-Technology,Software,56,0.9064807075632046,Industry
-Technology,Hardware,2,0.3067144062454018,Industry
-Technology,IT Services,65,0.36213320027972973,Industry
-Healthcare,Pharmaceuticals,38,0.0888380395135836,Industry
-Healthcare,Medical Devices,70,0.32995506776329675,Industry
-Healthcare,Healthcare Services,44,0.39669886175435,Industry
-Finance,Banking,26,0.011784006730538144,Industry
-Finance,Insurance,86,0.8516064173045534,Industry
-Finance,Investment Services,61,0.4770486903629205,Industry
-Energy,Oil & Gas,50,0.42732933650215177,Industry
-Energy,Renewable Energy,87,0.36152865900889575,Industry
-Energy,Energy Exploration,32,0.08138378882414021,Industry
-Consumer Goods,Food & Beverage,52,0.3958438669056473,Industry
-Consumer Goods,Household Products,91,0.5706670350057069,Industry
-Consumer Goods,Apparel,38,0.7518823974389587,Industry
-Utilities,Electric,61,0.8728376629078446,Industry
-Utilities,Water,25,0.6804563950511178,Industry
-Utilities,Gas,53,0.14150441618727017,Industry
-Real Estate,Residential,62,0.10245056744386194,Industry
-Real Estate,Commercial,53,0.6853009048446629,Industry
-Real Estate,Industrial,24,0.9576304324604158,Industry
-Telecommunications,Mobile,80,0.41222015214017105,Industry
-Telecommunications,Broadband,15,0.9516414139680083,Industry
-Telecommunications,Satellite,46,0.42112340346849153,Industry
-Materials,Chemicals,26,0.7119463753380351,Industry
-Materials,Metals & Mining,85,0.7791619664620902,Industry
-Materials,Construction Materials,14,0.9329843358814208,Industry
-Industrials,Aerospace & Defense,3,0.15157464528258968,Industry
-Industrials,Machinery,5,0.8920848821045142,Industry
-Industrials,Industrial Services,66,0.8961446608528494,Industry
-Consumer Services,Retail,20,0.9406727542463728,Industry
-Consumer Services,Travel & Leisure,96,0.4366791340572985,Industry
-Consumer Services,Media,74,0.9282557262049327,Industry
-Transportation,Airlines,40,0.1334103748498654,Industry
-Transportation,Railroads,48,0.5831976253765218,Industry
-Transportation,Logistics,28,0.4641777004913724,Industry
+,Sonneberg,640,0.5124412213417925,Overall
+Sonneberg,HiTech,49,0.9951423891029962,Sector
+Sonneberg,Agriculture,24,0.6283889721992185,Sector
+Sonneberg,Transportation,33,0.05450372264295322,Sector
+Sonneberg,Consumer_Products,3,0.69762911639799,Sector
+Sonneberg,Unassigned,88,0.31515226055363577,Sector
+Sonneberg,Communication,72,0.7442863866012075,Sector
+Sonneberg,Trade,17,0.7029657913984827,Sector
+Sonneberg,Business_Services,60,0.502740952456112,Sector
+Sonneberg,Business_Products,24,0.26807996699751846,Sector
+Sonneberg,Construction,66,0.789472667497671,Sector
+Sonneberg,Services,11,0.4256706769631994,Sector
+Sonneberg,Mining,37,0.43340104109032074,Sector
+Sonneberg,Health_Care,46,0.02122143474126159,Sector
+Sonneberg,EnergyExpL_Prod,34,0.5346405899778016,Sector
+Sonneberg,Utilities,76,0.5733223515065203,Sector

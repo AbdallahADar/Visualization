@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bielski,1687,0.06297356034703194,Overall
-Bielski,Technology,186,0.06209795003244023,Sector
-Bielski,Healthcare,85,0.7598385933242066,Sector
-Bielski,Finance,134,0.11428745652073624,Sector
-Bielski,Energy,131,0.7805774320343266,Sector
-Bielski,Consumer Goods,154,0.2754793104735336,Sector
-Bielski,Utilities,73,0.8530332131482469,Sector
-Bielski,Real Estate,116,0.1919474804517387,Sector
-Bielski,Telecommunications,150,0.5463099711448326,Sector
-Bielski,Materials,207,0.14474971836227413,Sector
-Bielski,Industrials,171,0.055198174481944196,Sector
-Bielski,Consumer Services,104,0.009803745593549906,Sector
-Bielski,Transportation,176,0.4743825342344742,Sector
-Technology,Software,98,0.715723862930652,Industry
-Technology,Hardware,66,0.30783117412573335,Industry
-Technology,IT Services,22,0.11955667568099737,Industry
-Healthcare,Pharmaceuticals,25,0.13126523380248856,Industry
-Healthcare,Medical Devices,27,0.376295610263769,Industry
-Healthcare,Healthcare Services,33,0.0888643908382214,Industry
-Finance,Banking,79,0.808087810295934,Industry
-Finance,Insurance,29,0.3124970995671259,Industry
-Finance,Investment Services,26,0.3624005149315548,Industry
-Energy,Oil & Gas,16,0.3500221098736579,Industry
-Energy,Renewable Energy,63,0.4024178401597852,Industry
-Energy,Energy Exploration,52,0.2040055657838531,Industry
-Consumer Goods,Food & Beverage,1,0.6694943249430447,Industry
-Consumer Goods,Household Products,83,0.9314262151343013,Industry
-Consumer Goods,Apparel,70,0.9814167530355412,Industry
-Utilities,Electric,25,0.9375455313185889,Industry
-Utilities,Water,39,0.8090034799827052,Industry
-Utilities,Gas,9,0.08984145470559657,Industry
-Real Estate,Residential,48,0.8918321329329117,Industry
-Real Estate,Commercial,46,0.2165930917490072,Industry
-Real Estate,Industrial,22,0.9538462047718902,Industry
-Telecommunications,Mobile,8,0.09042575165733902,Industry
-Telecommunications,Broadband,81,0.17407442737883339,Industry
-Telecommunications,Satellite,61,0.842075645830047,Industry
-Materials,Chemicals,85,0.20328338563619086,Industry
-Materials,Metals & Mining,84,0.33831859010908194,Industry
-Materials,Construction Materials,38,0.06926234935767794,Industry
-Industrials,Aerospace & Defense,90,0.7813759478504996,Industry
-Industrials,Machinery,46,0.6997744468237349,Industry
-Industrials,Industrial Services,35,0.7678119017280112,Industry
-Consumer Services,Retail,23,0.2150761477252291,Industry
-Consumer Services,Travel & Leisure,56,0.7265336228343705,Industry
-Consumer Services,Media,25,0.2337745016585655,Industry
-Transportation,Airlines,33,0.6185398858503124,Industry
-Transportation,Railroads,85,0.46032318719817444,Industry
-Transportation,Logistics,58,0.34900502181639237,Industry
+,Bielski,596,0.45055503352845405,Overall
+Bielski,HiTech,99,0.8873109111146646,Sector
+Bielski,Agriculture,48,0.1951065783267757,Sector
+Bielski,Transportation,52,0.5943597945743195,Sector
+Bielski,Consumer_Products,27,0.3575106940534004,Sector
+Bielski,Unassigned,47,0.18971769360928037,Sector
+Bielski,Communication,32,0.8017917854049431,Sector
+Bielski,Trade,71,0.5522194973557639,Sector
+Bielski,Business_Services,27,0.41803811405677704,Sector
+Bielski,Business_Products,19,0.4284041977633364,Sector
+Bielski,Construction,69,0.5702925518100345,Sector
+Bielski,Services,28,0.23065111640989067,Sector
+Bielski,Mining,17,0.40008843830802554,Sector
+Bielski,Health_Care,10,0.7621484731356357,Sector
+Bielski,EnergyExpL_Prod,21,0.09717548445890323,Sector
+Bielski,Utilities,29,0.27351017254506105,Sector

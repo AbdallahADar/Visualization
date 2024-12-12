@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Oldham,1767,0.27788990881105835,Overall
-Oldham,Technology,159,0.11006764286725956,Sector
-Oldham,Healthcare,191,0.9972060573254942,Sector
-Oldham,Finance,111,0.33800174315898157,Sector
-Oldham,Energy,46,0.2271323700308795,Sector
-Oldham,Consumer Goods,114,0.31493700126919,Sector
-Oldham,Utilities,139,0.9534031144332638,Sector
-Oldham,Real Estate,215,0.43410891146805664,Sector
-Oldham,Telecommunications,165,0.6677947489115802,Sector
-Oldham,Materials,143,0.9262028787517914,Sector
-Oldham,Industrials,132,0.4903067026960336,Sector
-Oldham,Consumer Services,191,0.26509839449053196,Sector
-Oldham,Transportation,161,0.8798483126678569,Sector
-Technology,Software,89,0.7317038669408764,Industry
-Technology,Hardware,11,0.10358491224296384,Industry
-Technology,IT Services,59,0.6569447673487038,Industry
-Healthcare,Pharmaceuticals,33,0.5523549319184166,Industry
-Healthcare,Medical Devices,93,0.9436841123130725,Industry
-Healthcare,Healthcare Services,65,0.026434012877250557,Industry
-Finance,Banking,37,0.04331483151493565,Industry
-Finance,Insurance,30,0.24169773431506336,Industry
-Finance,Investment Services,44,0.42082491402416244,Industry
-Energy,Oil & Gas,22,0.9278992172629155,Industry
-Energy,Renewable Energy,22,0.24207747643132294,Industry
-Energy,Energy Exploration,2,0.8883254511881943,Industry
-Consumer Goods,Food & Beverage,40,0.8436112187187824,Industry
-Consumer Goods,Household Products,26,0.015700653890386662,Industry
-Consumer Goods,Apparel,48,0.0822872538956898,Industry
-Utilities,Electric,97,0.05132675025673872,Industry
-Utilities,Water,39,0.19392942744113428,Industry
-Utilities,Gas,3,0.07820184243856754,Industry
-Real Estate,Residential,71,0.1811332689726156,Industry
-Real Estate,Commercial,58,0.8580696823925134,Industry
-Real Estate,Industrial,86,0.21348380274131873,Industry
-Telecommunications,Mobile,73,0.5206365122050096,Industry
-Telecommunications,Broadband,82,0.9416569400033645,Industry
-Telecommunications,Satellite,10,0.9690945363910729,Industry
-Materials,Chemicals,32,0.46392513386344014,Industry
-Materials,Metals & Mining,56,0.3705265394731485,Industry
-Materials,Construction Materials,55,0.5634802842597791,Industry
-Industrials,Aerospace & Defense,28,0.06918275746766489,Industry
-Industrials,Machinery,30,0.2207292466414813,Industry
-Industrials,Industrial Services,74,0.128000110198494,Industry
-Consumer Services,Retail,71,0.6617071644872763,Industry
-Consumer Services,Travel & Leisure,36,0.7835005343762879,Industry
-Consumer Services,Media,84,0.7560273362919346,Industry
-Transportation,Airlines,89,0.9122567913547492,Industry
-Transportation,Railroads,23,0.052995819096117724,Industry
-Transportation,Logistics,49,0.008023862507303137,Industry
+,Oldham,743,0.4430917186114773,Overall
+Oldham,HiTech,55,0.7454331866681225,Sector
+Oldham,Agriculture,67,0.9966968548471561,Sector
+Oldham,Transportation,76,0.42720865984112644,Sector
+Oldham,Consumer_Products,21,0.13800250396150815,Sector
+Oldham,Unassigned,17,0.09074548332205479,Sector
+Oldham,Communication,44,0.34708630760387005,Sector
+Oldham,Trade,21,0.6953885190837695,Sector
+Oldham,Business_Services,59,0.19089380026420433,Sector
+Oldham,Business_Products,26,0.7266624761281196,Sector
+Oldham,Construction,97,0.8348952392247336,Sector
+Oldham,Services,49,0.09401793103333356,Sector
+Oldham,Mining,78,0.2788541565015502,Sector
+Oldham,Health_Care,67,0.6006888702427081,Sector
+Oldham,EnergyExpL_Prod,23,0.4325771999962017,Sector
+Oldham,Utilities,43,0.04722459045370042,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lucca,1839,0.5053176136176137,Overall
-Lucca,Technology,149,0.6901392326727969,Sector
-Lucca,Healthcare,66,0.7170843524445706,Sector
-Lucca,Finance,180,0.5194465577266594,Sector
-Lucca,Energy,246,0.34796613190065584,Sector
-Lucca,Consumer Goods,208,0.6173055143054081,Sector
-Lucca,Utilities,108,0.03252332540864111,Sector
-Lucca,Real Estate,202,0.930956399938205,Sector
-Lucca,Telecommunications,116,0.1875738005701002,Sector
-Lucca,Materials,130,0.7943514556047377,Sector
-Lucca,Industrials,185,0.40664860386198665,Sector
-Lucca,Consumer Services,162,0.6915040796469206,Sector
-Lucca,Transportation,87,0.3941634505210271,Sector
-Technology,Software,46,0.8290832997792551,Industry
-Technology,Hardware,82,0.46855463711174616,Industry
-Technology,IT Services,21,0.935546092734489,Industry
-Healthcare,Pharmaceuticals,8,0.8828864711722556,Industry
-Healthcare,Medical Devices,11,0.9162569715976231,Industry
-Healthcare,Healthcare Services,47,0.06112256945662553,Industry
-Finance,Banking,25,0.11584485103730269,Industry
-Finance,Insurance,61,0.626497542133882,Industry
-Finance,Investment Services,94,0.150195435725488,Industry
-Energy,Oil & Gas,80,0.8936486668181515,Industry
-Energy,Renewable Energy,80,0.7436927923006145,Industry
-Energy,Energy Exploration,86,0.5736019414070664,Industry
-Consumer Goods,Food & Beverage,42,0.17450349922894415,Industry
-Consumer Goods,Household Products,91,0.04819077853018716,Industry
-Consumer Goods,Apparel,75,0.29680604846065706,Industry
-Utilities,Electric,42,0.20295574676902373,Industry
-Utilities,Water,53,0.8281720190559997,Industry
-Utilities,Gas,13,0.7288437371662261,Industry
-Real Estate,Residential,32,0.39849539167960346,Industry
-Real Estate,Commercial,98,0.0006436626125855271,Industry
-Real Estate,Industrial,72,0.6187168913457622,Industry
-Telecommunications,Mobile,64,0.980506049500156,Industry
-Telecommunications,Broadband,46,0.7838474511963155,Industry
-Telecommunications,Satellite,6,0.08302111779799981,Industry
-Materials,Chemicals,31,0.06587531865284513,Industry
-Materials,Metals & Mining,21,0.11203048309784647,Industry
-Materials,Construction Materials,78,0.916932223230792,Industry
-Industrials,Aerospace & Defense,86,0.5852108661607064,Industry
-Industrials,Machinery,26,0.7330918068301953,Industry
-Industrials,Industrial Services,73,0.880645494012758,Industry
-Consumer Services,Retail,78,0.6207778677697782,Industry
-Consumer Services,Travel & Leisure,46,0.8046437118521812,Industry
-Consumer Services,Media,38,0.58432741602948,Industry
-Transportation,Airlines,51,0.8600356349041645,Industry
-Transportation,Railroads,0,0.2012743329659915,Industry
-Transportation,Logistics,36,0.6215207228772118,Industry
+,Lucca,589,0.45150418411636023,Overall
+Lucca,HiTech,0,0.05795110197866926,Sector
+Lucca,Agriculture,38,0.42012045419887845,Sector
+Lucca,Transportation,67,0.9831832455916698,Sector
+Lucca,Consumer_Products,41,0.5289749801770917,Sector
+Lucca,Unassigned,75,0.4464725737666526,Sector
+Lucca,Communication,34,0.011852796767391927,Sector
+Lucca,Trade,12,0.04847573424314722,Sector
+Lucca,Business_Services,19,0.03001038612863771,Sector
+Lucca,Business_Products,75,0.38154216928842477,Sector
+Lucca,Construction,76,0.2311256721833722,Sector
+Lucca,Services,66,0.7807645764983075,Sector
+Lucca,Mining,23,0.8731183336813255,Sector
+Lucca,Health_Care,8,0.9454951815825849,Sector
+Lucca,EnergyExpL_Prod,4,0.08202915353735385,Sector
+Lucca,Utilities,51,0.9514464021218954,Sector

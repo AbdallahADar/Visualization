@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Somogy,2275,0.3918304833988595,Overall
-Somogy,Technology,215,0.09562045205083347,Sector
-Somogy,Healthcare,201,0.12435169190660478,Sector
-Somogy,Finance,256,0.44611932260856446,Sector
-Somogy,Energy,171,0.8117207048903646,Sector
-Somogy,Consumer Goods,169,0.9594576930807633,Sector
-Somogy,Utilities,225,0.2512820857414746,Sector
-Somogy,Real Estate,143,0.7549455787171229,Sector
-Somogy,Telecommunications,160,0.8712138948710256,Sector
-Somogy,Materials,217,0.6533765878850832,Sector
-Somogy,Industrials,178,0.20795213293155546,Sector
-Somogy,Consumer Services,175,0.26644681131691617,Sector
-Somogy,Transportation,165,0.37746261093282507,Sector
-Technology,Software,66,0.7568538038255951,Industry
-Technology,Hardware,96,0.793936355798895,Industry
-Technology,IT Services,53,0.6573399270648823,Industry
-Healthcare,Pharmaceuticals,84,0.24415349236573236,Industry
-Healthcare,Medical Devices,56,0.27044476830799435,Industry
-Healthcare,Healthcare Services,61,0.641452262401823,Industry
-Finance,Banking,96,0.7143400774149803,Industry
-Finance,Insurance,64,0.8727777779522181,Industry
-Finance,Investment Services,96,0.6176198270371043,Industry
-Energy,Oil & Gas,23,0.7068528398435779,Industry
-Energy,Renewable Energy,68,0.6983792204483646,Industry
-Energy,Energy Exploration,80,0.23121127280907472,Industry
-Consumer Goods,Food & Beverage,4,0.6391668483290172,Industry
-Consumer Goods,Household Products,90,0.9741767894932656,Industry
-Consumer Goods,Apparel,75,0.8566079202518274,Industry
-Utilities,Electric,66,0.691415483067106,Industry
-Utilities,Water,65,0.5607568317407964,Industry
-Utilities,Gas,94,0.9861220904033744,Industry
-Real Estate,Residential,46,0.8801677547737959,Industry
-Real Estate,Commercial,61,0.866102314618604,Industry
-Real Estate,Industrial,36,0.4957323695679584,Industry
-Telecommunications,Mobile,63,0.043453322021026586,Industry
-Telecommunications,Broadband,20,0.7038337988488959,Industry
-Telecommunications,Satellite,77,0.05947734837906782,Industry
-Materials,Chemicals,33,0.38264462369844043,Industry
-Materials,Metals & Mining,85,0.37195958632654724,Industry
-Materials,Construction Materials,99,0.9265002017616185,Industry
-Industrials,Aerospace & Defense,63,0.43717792151422197,Industry
-Industrials,Machinery,63,0.1361182304334767,Industry
-Industrials,Industrial Services,52,0.0961745262186855,Industry
-Consumer Services,Retail,49,0.3294095219429589,Industry
-Consumer Services,Travel & Leisure,27,0.1992005040097159,Industry
-Consumer Services,Media,99,0.8525986443079642,Industry
-Transportation,Airlines,78,0.9344338873994696,Industry
-Transportation,Railroads,21,0.9083839552763618,Industry
-Transportation,Logistics,66,0.18293538347538518,Industry
+,Somogy,753,0.35405824697637556,Overall
+Somogy,HiTech,47,0.27090125607995974,Sector
+Somogy,Agriculture,8,0.7151861702857362,Sector
+Somogy,Transportation,75,0.21393985238681956,Sector
+Somogy,Consumer_Products,43,0.7703005163143178,Sector
+Somogy,Unassigned,85,0.4703857841353817,Sector
+Somogy,Communication,3,0.17441781133076795,Sector
+Somogy,Trade,16,0.09756250612070205,Sector
+Somogy,Business_Services,79,0.12150374120179597,Sector
+Somogy,Business_Products,66,0.11757928309085641,Sector
+Somogy,Construction,51,0.008821861511461138,Sector
+Somogy,Services,94,0.4399132975261837,Sector
+Somogy,Mining,34,0.14199209593356554,Sector
+Somogy,Health_Care,88,0.9997450599651813,Sector
+Somogy,EnergyExpL_Prod,29,0.10964774575742264,Sector
+Somogy,Utilities,35,0.6589767230054808,Sector

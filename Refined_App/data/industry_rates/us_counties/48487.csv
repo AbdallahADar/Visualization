@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wilbarger,2044,0.798566917468789,Overall
-Wilbarger,Technology,114,0.8336764829818123,Sector
-Wilbarger,Healthcare,104,0.29422757808139055,Sector
-Wilbarger,Finance,121,0.17402592473038103,Sector
-Wilbarger,Energy,199,0.028970405874024996,Sector
-Wilbarger,Consumer Goods,223,0.7658983207740623,Sector
-Wilbarger,Utilities,198,0.7052234182502213,Sector
-Wilbarger,Real Estate,207,0.651929249077747,Sector
-Wilbarger,Telecommunications,193,0.4912749544896633,Sector
-Wilbarger,Materials,246,0.8522577753373327,Sector
-Wilbarger,Industrials,76,0.5475841888078172,Sector
-Wilbarger,Consumer Services,165,0.7717835837479946,Sector
-Wilbarger,Transportation,198,0.9047671347589763,Sector
-Technology,Software,47,0.16828235599581487,Industry
-Technology,Hardware,12,0.18652666964359166,Industry
-Technology,IT Services,55,0.6883774036673134,Industry
-Healthcare,Pharmaceuticals,10,0.6060917797524783,Industry
-Healthcare,Medical Devices,71,0.14739932763287522,Industry
-Healthcare,Healthcare Services,23,0.23762198422988035,Industry
-Finance,Banking,48,0.21994653776572282,Industry
-Finance,Insurance,32,0.527757572094188,Industry
-Finance,Investment Services,41,0.06944316290496122,Industry
-Energy,Oil & Gas,99,0.9136339239149966,Industry
-Energy,Renewable Energy,53,0.37508027998081683,Industry
-Energy,Energy Exploration,47,0.7139961178459615,Industry
-Consumer Goods,Food & Beverage,91,0.09388724047616881,Industry
-Consumer Goods,Household Products,52,0.19316283874569784,Industry
-Consumer Goods,Apparel,80,0.8151382888832701,Industry
-Utilities,Electric,84,0.01972412079133512,Industry
-Utilities,Water,30,0.9221006847173027,Industry
-Utilities,Gas,84,0.9820609018046397,Industry
-Real Estate,Residential,21,0.5874462412929721,Industry
-Real Estate,Commercial,98,0.9349567368051932,Industry
-Real Estate,Industrial,88,0.4054712645626035,Industry
-Telecommunications,Mobile,99,0.04076144890475086,Industry
-Telecommunications,Broadband,58,0.9797031893298683,Industry
-Telecommunications,Satellite,36,0.3131718968579389,Industry
-Materials,Chemicals,92,0.927835462167122,Industry
-Materials,Metals & Mining,93,0.07222568961610798,Industry
-Materials,Construction Materials,61,0.7633157386086684,Industry
-Industrials,Aerospace & Defense,33,0.622837219362812,Industry
-Industrials,Machinery,6,0.7092302447520245,Industry
-Industrials,Industrial Services,37,0.3239096060297424,Industry
-Consumer Services,Retail,33,0.1423149315066512,Industry
-Consumer Services,Travel & Leisure,58,0.4283768925236894,Industry
-Consumer Services,Media,74,0.2924035667575392,Industry
-Transportation,Airlines,99,0.8609384281897187,Industry
-Transportation,Railroads,90,0.9645990902790115,Industry
-Transportation,Logistics,9,0.5617971332688044,Industry
+,Wilbarger,625,0.4482637598373867,Overall
+Wilbarger,HiTech,74,0.7583118365776518,Sector
+Wilbarger,Agriculture,48,0.17907363327131165,Sector
+Wilbarger,Transportation,3,0.36834231598824574,Sector
+Wilbarger,Consumer_Products,14,0.6839857534831573,Sector
+Wilbarger,Unassigned,54,0.252595063715918,Sector
+Wilbarger,Communication,26,0.048709316572738914,Sector
+Wilbarger,Trade,83,0.5023459764503532,Sector
+Wilbarger,Business_Services,13,0.8998744603983343,Sector
+Wilbarger,Business_Products,81,0.0454096231268476,Sector
+Wilbarger,Construction,3,0.9224148498521181,Sector
+Wilbarger,Services,47,0.42427655551778176,Sector
+Wilbarger,Mining,22,0.11758254932952161,Sector
+Wilbarger,Health_Care,20,0.2576552925035872,Sector
+Wilbarger,EnergyExpL_Prod,51,0.26593278212424387,Sector
+Wilbarger,Utilities,86,0.9974463886489895,Sector

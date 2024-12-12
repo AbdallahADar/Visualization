@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Leavenworth,1703,0.34030609186621297,Overall
+Leavenworth,Technology,123,0.01991873246737408,Sector
+Leavenworth,Healthcare,195,0.01355004929865189,Sector
+Leavenworth,Finance,138,0.4354369859419739,Sector
+Leavenworth,Energy,67,0.0434196439495651,Sector
+Leavenworth,Consumer Goods,148,0.39870340258860193,Sector
+Leavenworth,Utilities,130,0.5586068259950395,Sector
+Leavenworth,Real Estate,141,0.291641214898135,Sector
+Leavenworth,Telecommunications,137,0.8995302652351553,Sector
+Leavenworth,Materials,161,0.563508085371927,Sector
+Leavenworth,Industrials,179,0.11617565003081498,Sector
+Leavenworth,Consumer Services,191,0.958718758100433,Sector
+Leavenworth,Transportation,93,0.8613696571422895,Sector
+Technology,Software,42,0.3060974119798322,Industry
+Technology,Hardware,11,0.6284588972882408,Industry
+Technology,IT Services,70,0.35361961059168856,Industry
+Healthcare,Pharmaceuticals,93,0.3265220475785582,Industry
+Healthcare,Medical Devices,73,0.2582690291579216,Industry
+Healthcare,Healthcare Services,29,0.37450709354728384,Industry
+Finance,Banking,64,0.16776954371982633,Industry
+Finance,Insurance,59,0.37755531797707165,Industry
+Finance,Investment Services,15,0.29179408848014277,Industry
+Energy,Oil & Gas,42,0.4934871470424329,Industry
+Energy,Renewable Energy,5,0.5972723955356881,Industry
+Energy,Energy Exploration,20,0.9642265887511898,Industry
+Consumer Goods,Food & Beverage,48,0.1897480299130676,Industry
+Consumer Goods,Household Products,89,0.5290851349780675,Industry
+Consumer Goods,Apparel,11,0.881689668555853,Industry
+Utilities,Electric,94,0.07584962167130149,Industry
+Utilities,Water,12,0.9882216859818632,Industry
+Utilities,Gas,24,0.9967238762035758,Industry
+Real Estate,Residential,86,0.2163420704310438,Industry
+Real Estate,Commercial,29,0.5518381338825641,Industry
+Real Estate,Industrial,26,0.34854967730906383,Industry
+Telecommunications,Mobile,53,0.11694066462368624,Industry
+Telecommunications,Broadband,72,0.9616851595373561,Industry
+Telecommunications,Satellite,12,0.8005490860059126,Industry
+Materials,Chemicals,60,0.8131967716867103,Industry
+Materials,Metals & Mining,70,0.3297330972248621,Industry
+Materials,Construction Materials,31,0.6452961293018162,Industry
+Industrials,Aerospace & Defense,67,0.4877265883338334,Industry
+Industrials,Machinery,94,0.5270522373226988,Industry
+Industrials,Industrial Services,18,0.10780330622759526,Industry
+Consumer Services,Retail,65,0.5239823548305237,Industry
+Consumer Services,Travel & Leisure,92,0.7848513388996644,Industry
+Consumer Services,Media,34,0.7418317025644893,Industry
+Transportation,Airlines,8,0.04595777300206494,Industry
+Transportation,Railroads,42,0.31474788536821385,Industry
+Transportation,Logistics,43,0.9749358555057038,Industry

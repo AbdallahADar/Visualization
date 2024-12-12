@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Collingsworth,1596,0.9533696408111696,Overall
-Collingsworth,Technology,151,0.21641489368659472,Sector
-Collingsworth,Healthcare,117,0.33939578996819186,Sector
-Collingsworth,Finance,106,0.2750011394365983,Sector
-Collingsworth,Energy,196,0.16715106909956634,Sector
-Collingsworth,Consumer Goods,127,0.8681100135288107,Sector
-Collingsworth,Utilities,151,0.09065557925622891,Sector
-Collingsworth,Real Estate,116,0.9953732111339195,Sector
-Collingsworth,Telecommunications,78,0.9566049801082277,Sector
-Collingsworth,Materials,127,0.4283613053789689,Sector
-Collingsworth,Industrials,109,0.09001510223579767,Sector
-Collingsworth,Consumer Services,131,0.8212435005445801,Sector
-Collingsworth,Transportation,187,0.2266346512962295,Sector
-Technology,Software,91,0.5605966556108044,Industry
-Technology,Hardware,50,0.7083934900499427,Industry
-Technology,IT Services,10,0.6597324914116234,Industry
-Healthcare,Pharmaceuticals,5,0.5677870206323223,Industry
-Healthcare,Medical Devices,95,0.5915311897197733,Industry
-Healthcare,Healthcare Services,17,0.3578493684331664,Industry
-Finance,Banking,1,0.34809335884490133,Industry
-Finance,Insurance,89,0.8679617580318341,Industry
-Finance,Investment Services,16,0.7038224641621207,Industry
-Energy,Oil & Gas,3,0.19472868819364186,Industry
-Energy,Renewable Energy,99,0.9615424763622408,Industry
-Energy,Energy Exploration,94,0.24222295479502476,Industry
-Consumer Goods,Food & Beverage,82,0.33743416719686026,Industry
-Consumer Goods,Household Products,19,0.9110176947711139,Industry
-Consumer Goods,Apparel,26,0.96056983282356,Industry
-Utilities,Electric,83,0.4315196067021637,Industry
-Utilities,Water,39,0.5009711039936071,Industry
-Utilities,Gas,29,0.12264175447820225,Industry
-Real Estate,Residential,43,0.5520235487991598,Industry
-Real Estate,Commercial,50,0.5823574122804935,Industry
-Real Estate,Industrial,23,0.3827959157750369,Industry
-Telecommunications,Mobile,23,0.6248806661460147,Industry
-Telecommunications,Broadband,20,0.9135916348233907,Industry
-Telecommunications,Satellite,35,0.9372019242449177,Industry
-Materials,Chemicals,52,0.5324582629426498,Industry
-Materials,Metals & Mining,26,0.010203389820669484,Industry
-Materials,Construction Materials,49,0.7568484155815423,Industry
-Industrials,Aerospace & Defense,42,0.696369822038512,Industry
-Industrials,Machinery,21,0.5377141995769992,Industry
-Industrials,Industrial Services,46,0.515046931655368,Industry
-Consumer Services,Retail,99,0.5711638598460792,Industry
-Consumer Services,Travel & Leisure,32,0.972734064583498,Industry
-Consumer Services,Media,0,0.14710938541597762,Industry
-Transportation,Airlines,86,0.09109724257805096,Industry
-Transportation,Railroads,28,0.8071978464338759,Industry
-Transportation,Logistics,73,0.05223274924200494,Industry
+,Collingsworth,728,0.5964480801222477,Overall
+Collingsworth,HiTech,29,0.1943640174971113,Sector
+Collingsworth,Agriculture,76,0.6726186497633097,Sector
+Collingsworth,Transportation,18,0.446289361643731,Sector
+Collingsworth,Consumer_Products,55,0.8769498589219296,Sector
+Collingsworth,Unassigned,89,0.8667421831799786,Sector
+Collingsworth,Communication,23,0.28396805205712317,Sector
+Collingsworth,Trade,9,0.9179855384967809,Sector
+Collingsworth,Business_Services,5,0.23707699882743705,Sector
+Collingsworth,Business_Products,29,0.4458093340591063,Sector
+Collingsworth,Construction,93,0.612887338041192,Sector
+Collingsworth,Services,45,0.7488489684933224,Sector
+Collingsworth,Mining,29,0.2820862082114347,Sector
+Collingsworth,Health_Care,91,0.6321399939941568,Sector
+Collingsworth,EnergyExpL_Prod,71,0.8157930466175012,Sector
+Collingsworth,Utilities,66,0.9131616520296032,Sector

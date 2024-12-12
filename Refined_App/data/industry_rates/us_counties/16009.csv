@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Benewah,1792,0.3532723662232683,Overall
-Benewah,Technology,76,0.7708734079804956,Sector
-Benewah,Healthcare,150,0.2680847046689151,Sector
-Benewah,Finance,68,0.8149726884912508,Sector
-Benewah,Energy,165,0.5510454955021038,Sector
-Benewah,Consumer Goods,48,0.35867351360627764,Sector
-Benewah,Utilities,153,0.009732569095159738,Sector
-Benewah,Real Estate,225,0.37562522295338074,Sector
-Benewah,Telecommunications,176,0.7663280469895528,Sector
-Benewah,Materials,133,0.4063444092644932,Sector
-Benewah,Industrials,224,0.2743484946131177,Sector
-Benewah,Consumer Services,164,0.3685402253125968,Sector
-Benewah,Transportation,210,0.7510446821285501,Sector
-Technology,Software,49,0.50916995455128,Industry
-Technology,Hardware,6,0.04945312883799036,Industry
-Technology,IT Services,21,0.8777020242392052,Industry
-Healthcare,Pharmaceuticals,84,0.7709420953959419,Industry
-Healthcare,Medical Devices,11,0.06515826617214615,Industry
-Healthcare,Healthcare Services,55,0.5068063607897441,Industry
-Finance,Banking,63,0.052489419515454494,Industry
-Finance,Insurance,5,0.11549733002401197,Industry
-Finance,Investment Services,0,0.37520624494028476,Industry
-Energy,Oil & Gas,73,0.3767990858322148,Industry
-Energy,Renewable Energy,10,0.38559823822247974,Industry
-Energy,Energy Exploration,82,0.2690049658182829,Industry
-Consumer Goods,Food & Beverage,22,0.21439062030062928,Industry
-Consumer Goods,Household Products,19,0.28147477989358227,Industry
-Consumer Goods,Apparel,7,0.4966867550090531,Industry
-Utilities,Electric,69,0.9005960091565502,Industry
-Utilities,Water,22,0.3017307171284762,Industry
-Utilities,Gas,62,0.16048107809627388,Industry
-Real Estate,Residential,86,0.2756766785678222,Industry
-Real Estate,Commercial,45,0.5741978337973417,Industry
-Real Estate,Industrial,94,0.10250776067548628,Industry
-Telecommunications,Mobile,92,0.9650446879560592,Industry
-Telecommunications,Broadband,44,0.3780810590862571,Industry
-Telecommunications,Satellite,40,0.7301353454507304,Industry
-Materials,Chemicals,41,0.39488935760185884,Industry
-Materials,Metals & Mining,83,0.3287069794626215,Industry
-Materials,Construction Materials,9,0.4057206219915991,Industry
-Industrials,Aerospace & Defense,92,0.7102345764992155,Industry
-Industrials,Machinery,69,0.23591167439121452,Industry
-Industrials,Industrial Services,63,0.03216330840174586,Industry
-Consumer Services,Retail,58,0.1902614225063658,Industry
-Consumer Services,Travel & Leisure,64,0.583431655839096,Industry
-Consumer Services,Media,42,0.9892166447576874,Industry
-Transportation,Airlines,41,0.3311039657937308,Industry
-Transportation,Railroads,85,0.6255233842548743,Industry
-Transportation,Logistics,84,0.002694174946029748,Industry
+,Benewah,599,0.43936451775382535,Overall
+Benewah,HiTech,7,0.16988504614338307,Sector
+Benewah,Agriculture,69,0.6910969336044773,Sector
+Benewah,Transportation,84,0.7496146303245151,Sector
+Benewah,Consumer_Products,4,0.1592080759989466,Sector
+Benewah,Unassigned,4,0.4846459348578569,Sector
+Benewah,Communication,74,0.05141597123402619,Sector
+Benewah,Trade,24,0.8334853485146271,Sector
+Benewah,Business_Services,16,0.24101234332782173,Sector
+Benewah,Business_Products,81,0.39607343604464285,Sector
+Benewah,Construction,76,0.4374177942078791,Sector
+Benewah,Services,52,0.40003589186326904,Sector
+Benewah,Mining,37,0.89449366805666,Sector
+Benewah,Health_Care,40,0.4855889399275337,Sector
+Benewah,EnergyExpL_Prod,11,0.25302727826392846,Sector
+Benewah,Utilities,20,0.34346647393781204,Sector

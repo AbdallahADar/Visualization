@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Meade,1771,0.0942256217601748,Overall
-Meade,Technology,162,0.12477335110790155,Sector
-Meade,Healthcare,182,0.6222740659861054,Sector
-Meade,Finance,219,0.7205792612551083,Sector
-Meade,Energy,97,0.8122348629893091,Sector
-Meade,Consumer Goods,151,0.17568708149078704,Sector
-Meade,Utilities,162,0.024469063793225,Sector
-Meade,Real Estate,55,0.0539676623272648,Sector
-Meade,Telecommunications,184,0.46256580153621574,Sector
-Meade,Materials,143,0.28982863147869464,Sector
-Meade,Industrials,141,0.21806606705246412,Sector
-Meade,Consumer Services,153,0.24942288754332353,Sector
-Meade,Transportation,122,0.6540748843775445,Sector
-Technology,Software,75,0.945924826765814,Industry
-Technology,Hardware,48,0.19233681597658625,Industry
-Technology,IT Services,39,0.9734483374860842,Industry
-Healthcare,Pharmaceuticals,60,0.7393165181468283,Industry
-Healthcare,Medical Devices,76,0.4693529161782243,Industry
-Healthcare,Healthcare Services,46,0.1231340590655513,Industry
-Finance,Banking,99,0.25982460765546955,Industry
-Finance,Insurance,36,0.7225939969384084,Industry
-Finance,Investment Services,84,0.6025037316277984,Industry
-Energy,Oil & Gas,89,0.6476330761665677,Industry
-Energy,Renewable Energy,7,0.8715997899767507,Industry
-Energy,Energy Exploration,1,0.07375547196778431,Industry
-Consumer Goods,Food & Beverage,77,0.14711292896122496,Industry
-Consumer Goods,Household Products,1,0.5079780415248243,Industry
-Consumer Goods,Apparel,73,0.18900779968494996,Industry
-Utilities,Electric,49,0.7021344148211737,Industry
-Utilities,Water,65,0.1804838417555883,Industry
-Utilities,Gas,48,0.9910310139260288,Industry
-Real Estate,Residential,20,0.8230796438756482,Industry
-Real Estate,Commercial,10,0.4737492294230333,Industry
-Real Estate,Industrial,25,0.014534561559690906,Industry
-Telecommunications,Mobile,1,0.44021281740873397,Industry
-Telecommunications,Broadband,84,0.11454425775156973,Industry
-Telecommunications,Satellite,99,0.2418426270595836,Industry
-Materials,Chemicals,90,0.4166944669269377,Industry
-Materials,Metals & Mining,10,0.33272891556229667,Industry
-Materials,Construction Materials,43,0.882480374738989,Industry
-Industrials,Aerospace & Defense,11,0.24758609581954694,Industry
-Industrials,Machinery,64,0.30023753456884983,Industry
-Industrials,Industrial Services,66,0.24578832224846603,Industry
-Consumer Services,Retail,30,0.029808594595630455,Industry
-Consumer Services,Travel & Leisure,34,0.6098763734141952,Industry
-Consumer Services,Media,89,0.9506531851803538,Industry
-Transportation,Airlines,39,0.1706620523317215,Industry
-Transportation,Railroads,3,0.7655157469008578,Industry
-Transportation,Logistics,80,0.6691077893542846,Industry
+,Meade,795,0.5322026117611091,Overall
+Meade,HiTech,45,0.09198348503303877,Sector
+Meade,Agriculture,64,0.5401547452611791,Sector
+Meade,Transportation,8,0.9243380340779483,Sector
+Meade,Consumer_Products,65,0.24711340900271583,Sector
+Meade,Unassigned,11,0.2885406791742918,Sector
+Meade,Communication,96,0.3846906466491058,Sector
+Meade,Trade,98,0.4944954394432465,Sector
+Meade,Business_Services,27,0.7762186716667637,Sector
+Meade,Business_Products,94,0.8491059904544183,Sector
+Meade,Construction,9,0.6537619810936024,Sector
+Meade,Services,47,0.41939530504459843,Sector
+Meade,Mining,55,0.5342357440476264,Sector
+Meade,Health_Care,55,0.4742457283789827,Sector
+Meade,EnergyExpL_Prod,83,0.3239213210815328,Sector
+Meade,Utilities,38,0.9808379960075853,Sector

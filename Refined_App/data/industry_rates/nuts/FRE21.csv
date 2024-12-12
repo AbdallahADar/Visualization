@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Aisne,1825,0.956722310116605,Overall
-Aisne,Technology,189,0.9401554985670966,Sector
-Aisne,Healthcare,136,0.9685894039104579,Sector
-Aisne,Finance,80,0.36098899858306566,Sector
-Aisne,Energy,59,0.2114509491486668,Sector
-Aisne,Consumer Goods,106,0.04205688363717319,Sector
-Aisne,Utilities,193,0.5549968557569555,Sector
-Aisne,Real Estate,156,0.9708484236219582,Sector
-Aisne,Telecommunications,171,0.9449155061043523,Sector
-Aisne,Materials,106,0.38695194219348406,Sector
-Aisne,Industrials,193,0.5160667434502906,Sector
-Aisne,Consumer Services,220,0.36620797575657316,Sector
-Aisne,Transportation,216,0.19572190570637427,Sector
-Technology,Software,89,0.9922535984528345,Industry
-Technology,Hardware,72,0.7765501381270038,Industry
-Technology,IT Services,28,0.5889911814205936,Industry
-Healthcare,Pharmaceuticals,56,0.7192268351552978,Industry
-Healthcare,Medical Devices,30,0.35708786394714787,Industry
-Healthcare,Healthcare Services,50,0.9281848087851169,Industry
-Finance,Banking,9,0.030263748837772386,Industry
-Finance,Insurance,54,0.2962928052199104,Industry
-Finance,Investment Services,17,0.3684895470511117,Industry
-Energy,Oil & Gas,34,0.9064578359369871,Industry
-Energy,Renewable Energy,16,0.14165401793148957,Industry
-Energy,Energy Exploration,9,0.4120893415710317,Industry
-Consumer Goods,Food & Beverage,70,0.3709102294296107,Industry
-Consumer Goods,Household Products,29,0.5736719074537541,Industry
-Consumer Goods,Apparel,7,0.9859231048885635,Industry
-Utilities,Electric,92,0.9511990399499202,Industry
-Utilities,Water,31,0.3294573515158796,Industry
-Utilities,Gas,70,0.6397004543737731,Industry
-Real Estate,Residential,14,0.07473883031451278,Industry
-Real Estate,Commercial,83,0.4385063138758878,Industry
-Real Estate,Industrial,59,0.08550219630389688,Industry
-Telecommunications,Mobile,41,0.5222647358506485,Industry
-Telecommunications,Broadband,85,0.20381722816667025,Industry
-Telecommunications,Satellite,45,0.9847411133322108,Industry
-Materials,Chemicals,93,0.41752108182166936,Industry
-Materials,Metals & Mining,8,0.250916790303085,Industry
-Materials,Construction Materials,5,0.75752592622903,Industry
-Industrials,Aerospace & Defense,75,0.0022234880255279643,Industry
-Industrials,Machinery,41,0.56442740490265,Industry
-Industrials,Industrial Services,77,0.9649705596780905,Industry
-Consumer Services,Retail,53,0.9220180782561984,Industry
-Consumer Services,Travel & Leisure,82,0.1987981812539037,Industry
-Consumer Services,Media,85,0.6734853998489543,Industry
-Transportation,Airlines,83,0.5387143108405468,Industry
-Transportation,Railroads,72,0.29371482524725967,Industry
-Transportation,Logistics,61,0.9574710301501507,Industry
+,Aisne,752,0.4959271676030626,Overall
+Aisne,HiTech,13,0.6230668731242056,Sector
+Aisne,Agriculture,3,0.8749132428154154,Sector
+Aisne,Transportation,94,0.2556681810753362,Sector
+Aisne,Consumer_Products,70,0.0008341078675921931,Sector
+Aisne,Unassigned,47,0.716463669407575,Sector
+Aisne,Communication,21,0.6642323311723641,Sector
+Aisne,Trade,49,0.7559157044026973,Sector
+Aisne,Business_Services,90,0.23443389245761026,Sector
+Aisne,Business_Products,38,0.4956298946942578,Sector
+Aisne,Construction,47,0.02922283181277252,Sector
+Aisne,Services,63,0.7318365377375939,Sector
+Aisne,Mining,48,0.19013974941956502,Sector
+Aisne,Health_Care,73,0.4891018725422783,Sector
+Aisne,EnergyExpL_Prod,35,0.5111017263766936,Sector
+Aisne,Utilities,61,0.8663468991399823,Sector

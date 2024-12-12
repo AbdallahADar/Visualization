@@ -28,6 +28,12 @@ FONT_SIZES = {
 ## Define Background color
 APP_BACKGROUND_COLOR = "white"
 
+## Heatmap colors
+HEATMAP_GEO = {
+    "hot-zones" : "Thermal",
+    "risk-segments" : "RdYlGn_r"
+}
+
 ## Define metadata column names
 METADATA_COLUMNS = {
     "GROWTH_RATE_COLUMN" : "Growth_Rate",
@@ -50,20 +56,20 @@ METADATA_COLUMNS = {
 }
 
 ## Sector Names
-SECTORS = [
-    "All",
-    "Technology",
-    "Healthcare",
-    "Finance",
-    "Energy",
-    "Utilities",
-    "Real Estate",
-    "Consumer Goods",
-    "Telecommunications",
-    "Materials",
-    "Industrials",
-    "Consumer Services",
-    "Transportation"
+SECTORS = ["HiTech", "Agriculture", "Transportation", "Consumer_Products", "Unassigned", "Communication", "Trade", "Business_Services", "Business_Products", "Construction", "Services", "Mining", "Health_Care", "EnergyExpL_Prod", "Utilities"]
+
+SECTORS_ALL = ["All", "HiTech", "Agriculture", "Transportation", "Consumer_Products", "Unassigned", "Communication", "Trade", "Business_Services", "Business_Products", "Construction", "Services", "Mining", "Health_Care", "EnergyExpL_Prod", "Utilities"]
+
+## Covered countries
+COVERED_COUNTRIES = [
+    "ALB", "AUS", "AUT", "BEL", "BGR", "COL", "ESP", "FIN", "FRA", "HUN", "ITA", "KOR", "MDA", "NZL", "POL", "PRT", "ROU", "RUS", "SRB", "SVK", "SWE", "THA", "UKR", "USA", "VNM", "DEU", "DNK", "GBR", "IDN", "ISL", "JPN", "LVA", "MEX", "MYS", "PHL", "SVN", "ZAF", "CAN", "CHE", "CZE", "DZA", "EST", "HRV", "ISR", "LTU", "SGP", "TWN", "MKD", "NOR", "BIH", "LUX", "NLD", "PAK", "GRC", "KAZ", "MNE", "BRA", "IND", "TUR", "IRN", "MAR", "HKG", "MLT"
+]
+
+## Risk Score Type
+RISK_SCORES = [
+    "Overall Risk",
+    "Macro Risk", "Business Risk", "Financial Risk",
+    "Social Risk", "Political Risk", "Security Risk"
 ]
 
 ## NUTS Countries
@@ -109,16 +115,16 @@ SELECTED_TABLE_HEADER = "Selected Portfolio"
 
 ## Propensity Colors
 PROPENSITY_COLOR = {
-    "T" : "0B1164",
-    "F" : "white"
+    "T" : "#0B1164",
+    "F" : "White"
 }
 
 ## Early Warning Colors
 EWS_COLOR = {
-    "L":"9ADD84",
-    "M":"F8DA6E",
-    "H":"EE833A",
-    "S":"E2556A"
+    "L":"#9ADD84",
+    "M":"#F8DA6E",
+    "H":"#EE833A",
+    "S":"#E2556A"
 }
 
 

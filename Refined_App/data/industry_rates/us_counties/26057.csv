@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gratiot,1978,0.9360588318736803,Overall
-Gratiot,Technology,62,0.35406630521752736,Sector
-Gratiot,Healthcare,199,0.12044778464176109,Sector
-Gratiot,Finance,79,0.7703538536084656,Sector
-Gratiot,Energy,179,0.20430297035307154,Sector
-Gratiot,Consumer Goods,152,0.7625326576293662,Sector
-Gratiot,Utilities,248,0.49893386659391337,Sector
-Gratiot,Real Estate,183,0.7795756479878336,Sector
-Gratiot,Telecommunications,159,0.9600802829245372,Sector
-Gratiot,Materials,189,0.7315095823579745,Sector
-Gratiot,Industrials,175,0.1415316423170503,Sector
-Gratiot,Consumer Services,182,0.48792179817249137,Sector
-Gratiot,Transportation,171,0.0739780940606305,Sector
-Technology,Software,57,0.6227304997795539,Industry
-Technology,Hardware,3,0.9279673310499519,Industry
-Technology,IT Services,2,0.8829558885471103,Industry
-Healthcare,Pharmaceuticals,81,0.21415070219517907,Industry
-Healthcare,Medical Devices,81,0.4121206271075323,Industry
-Healthcare,Healthcare Services,37,0.994907989616645,Industry
-Finance,Banking,14,0.6250179931454021,Industry
-Finance,Insurance,46,0.40728286182144124,Industry
-Finance,Investment Services,19,0.5871735984003822,Industry
-Energy,Oil & Gas,40,0.672857612974157,Industry
-Energy,Renewable Energy,57,0.6277402394660568,Industry
-Energy,Energy Exploration,82,0.33269322815012903,Industry
-Consumer Goods,Food & Beverage,9,0.6365766546682428,Industry
-Consumer Goods,Household Products,81,0.5685502411975754,Industry
-Consumer Goods,Apparel,62,0.6520093143882352,Industry
-Utilities,Electric,76,0.12688717838753727,Industry
-Utilities,Water,76,0.11740760233898107,Industry
-Utilities,Gas,96,0.21588114674643422,Industry
-Real Estate,Residential,63,0.9332146628493682,Industry
-Real Estate,Commercial,35,0.5950130459930466,Industry
-Real Estate,Industrial,85,0.40825585234041883,Industry
-Telecommunications,Mobile,57,0.9139499067358116,Industry
-Telecommunications,Broadband,40,0.3734047095846915,Industry
-Telecommunications,Satellite,62,0.8154930935661303,Industry
-Materials,Chemicals,58,0.6772376886056874,Industry
-Materials,Metals & Mining,66,0.6249880378366115,Industry
-Materials,Construction Materials,65,0.4825361030933013,Industry
-Industrials,Aerospace & Defense,67,0.9570683219873924,Industry
-Industrials,Machinery,95,0.9131980247359585,Industry
-Industrials,Industrial Services,13,0.2712738904211144,Industry
-Consumer Services,Retail,99,0.1097556664370053,Industry
-Consumer Services,Travel & Leisure,30,0.44427274298615316,Industry
-Consumer Services,Media,53,0.8566729792909099,Industry
-Transportation,Airlines,28,0.8251715664563023,Industry
-Transportation,Railroads,57,0.8085316918010352,Industry
-Transportation,Logistics,86,0.770732801293148,Industry
+,Gratiot,641,0.3410943184918363,Overall
+Gratiot,HiTech,79,0.3451707484871622,Sector
+Gratiot,Agriculture,89,0.45082284730029787,Sector
+Gratiot,Transportation,98,0.12488581932095089,Sector
+Gratiot,Consumer_Products,5,0.18218457207003413,Sector
+Gratiot,Unassigned,41,0.006176459219553676,Sector
+Gratiot,Communication,30,0.27787590871338963,Sector
+Gratiot,Trade,80,0.7113297904951528,Sector
+Gratiot,Business_Services,77,0.3258030110373251,Sector
+Gratiot,Business_Products,69,0.6350178051038576,Sector
+Gratiot,Construction,2,0.5824469601485903,Sector
+Gratiot,Services,7,0.15060529056359007,Sector
+Gratiot,Mining,4,0.11475747364152289,Sector
+Gratiot,Health_Care,26,0.16944151882628555,Sector
+Gratiot,EnergyExpL_Prod,23,0.4839636327116419,Sector
+Gratiot,Utilities,11,0.5559329397381897,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Newton,1616,0.6743235984479572,Overall
-Newton,Technology,139,0.10432426154409757,Sector
-Newton,Healthcare,112,0.8878120455236921,Sector
-Newton,Finance,146,0.707947242896057,Sector
-Newton,Energy,120,0.4407928931412838,Sector
-Newton,Consumer Goods,161,0.8645412320749397,Sector
-Newton,Utilities,92,0.37112658396581755,Sector
-Newton,Real Estate,162,0.9702788920710793,Sector
-Newton,Telecommunications,180,0.137743739327307,Sector
-Newton,Materials,52,0.6857930359542567,Sector
-Newton,Industrials,102,0.10956267845765755,Sector
-Newton,Consumer Services,141,0.3553098701993702,Sector
-Newton,Transportation,209,0.6676957741736128,Sector
-Technology,Software,43,0.387056672958517,Industry
-Technology,Hardware,86,0.9699392441505098,Industry
-Technology,IT Services,10,0.6427377148262835,Industry
-Healthcare,Pharmaceuticals,78,0.20145367444018958,Industry
-Healthcare,Medical Devices,24,0.3088308149094192,Industry
-Healthcare,Healthcare Services,10,0.7486138516116114,Industry
-Finance,Banking,83,0.6124319553835973,Industry
-Finance,Insurance,0,0.16097822689047192,Industry
-Finance,Investment Services,63,0.5786891750479103,Industry
-Energy,Oil & Gas,67,0.904082645341812,Industry
-Energy,Renewable Energy,51,0.8493492536779028,Industry
-Energy,Energy Exploration,2,0.9333824198291629,Industry
-Consumer Goods,Food & Beverage,52,0.4018840729296618,Industry
-Consumer Goods,Household Products,44,0.7893054086914355,Industry
-Consumer Goods,Apparel,65,0.13251366591881353,Industry
-Utilities,Electric,37,0.34056864170486334,Industry
-Utilities,Water,1,0.8665009141100947,Industry
-Utilities,Gas,54,0.7358039732684347,Industry
-Real Estate,Residential,17,0.8311789101441331,Industry
-Real Estate,Commercial,72,0.3422591208276491,Industry
-Real Estate,Industrial,73,0.4350610646448597,Industry
-Telecommunications,Mobile,74,0.5692416240057173,Industry
-Telecommunications,Broadband,73,0.22818981152756035,Industry
-Telecommunications,Satellite,33,0.10975467132447236,Industry
-Materials,Chemicals,33,0.8981729372315896,Industry
-Materials,Metals & Mining,15,0.001872057146309114,Industry
-Materials,Construction Materials,4,0.9217197959028781,Industry
-Industrials,Aerospace & Defense,57,0.03237117539080536,Industry
-Industrials,Machinery,2,0.7716888771878799,Industry
-Industrials,Industrial Services,43,0.0860855498013211,Industry
-Consumer Services,Retail,0,0.9701091079267972,Industry
-Consumer Services,Travel & Leisure,67,0.9881413870496785,Industry
-Consumer Services,Media,74,0.7133460372671728,Industry
-Transportation,Airlines,33,0.15952203302649348,Industry
-Transportation,Railroads,83,0.17587463191328712,Industry
-Transportation,Logistics,93,0.9501468907881937,Industry
+,Newton,691,0.6839134305310246,Overall
+Newton,HiTech,81,0.6544256389991525,Sector
+Newton,Agriculture,88,0.9373351510435066,Sector
+Newton,Transportation,86,0.44507731602383194,Sector
+Newton,Consumer_Products,23,0.8159234042995325,Sector
+Newton,Unassigned,11,0.8275988254606945,Sector
+Newton,Communication,14,0.8509443805110952,Sector
+Newton,Trade,16,0.3553082637176965,Sector
+Newton,Business_Services,91,0.765119916577481,Sector
+Newton,Business_Products,26,0.2329955720676089,Sector
+Newton,Construction,39,0.6238256619584359,Sector
+Newton,Services,68,0.2988374534863365,Sector
+Newton,Mining,96,0.9275910298733455,Sector
+Newton,Health_Care,23,0.9814007151111358,Sector
+Newton,EnergyExpL_Prod,19,0.8382679135746827,Sector
+Newton,Utilities,10,0.7040502152608331,Sector

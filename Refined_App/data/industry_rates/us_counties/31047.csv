@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dawson,1839,0.5473555139790447,Overall
-Dawson,Technology,93,0.44086383839213916,Sector
-Dawson,Healthcare,158,0.3136303966391122,Sector
-Dawson,Finance,200,0.4947759646823633,Sector
-Dawson,Energy,190,0.9760045963358788,Sector
-Dawson,Consumer Goods,234,0.004901698160772461,Sector
-Dawson,Utilities,166,0.5242337667046396,Sector
-Dawson,Real Estate,176,0.036015027590878934,Sector
-Dawson,Telecommunications,112,0.18299986829450465,Sector
-Dawson,Materials,119,0.41743598774500545,Sector
-Dawson,Industrials,157,0.9572712445210577,Sector
-Dawson,Consumer Services,81,0.033554536767609555,Sector
-Dawson,Transportation,153,0.5958150509193988,Sector
-Technology,Software,87,0.2249043887613792,Industry
-Technology,Hardware,0,0.11921143051250926,Industry
-Technology,IT Services,6,0.5659015119651581,Industry
-Healthcare,Pharmaceuticals,33,0.13144420440113036,Industry
-Healthcare,Medical Devices,64,0.007609243199531823,Industry
-Healthcare,Healthcare Services,61,0.5625388375960616,Industry
-Finance,Banking,58,0.07976908621211465,Industry
-Finance,Insurance,75,0.35928894413593615,Industry
-Finance,Investment Services,67,0.21041338146654642,Industry
-Energy,Oil & Gas,96,0.46851321157029946,Industry
-Energy,Renewable Energy,70,0.4692865181208423,Industry
-Energy,Energy Exploration,24,0.9852555855637317,Industry
-Consumer Goods,Food & Beverage,74,0.8478416552115048,Industry
-Consumer Goods,Household Products,72,0.19465239964847147,Industry
-Consumer Goods,Apparel,88,0.35341104676309776,Industry
-Utilities,Electric,33,0.9671536894253849,Industry
-Utilities,Water,73,0.9743517654472121,Industry
-Utilities,Gas,60,0.6834122984201092,Industry
-Real Estate,Residential,48,0.7494608641974221,Industry
-Real Estate,Commercial,79,0.7864824921518666,Industry
-Real Estate,Industrial,49,0.027731185949015358,Industry
-Telecommunications,Mobile,29,0.13901260013361283,Industry
-Telecommunications,Broadband,49,0.13324227521018805,Industry
-Telecommunications,Satellite,34,0.25453548185836117,Industry
-Materials,Chemicals,67,0.29214794666916233,Industry
-Materials,Metals & Mining,31,0.41373046559118065,Industry
-Materials,Construction Materials,21,0.1285139558502656,Industry
-Industrials,Aerospace & Defense,68,0.06221663802976962,Industry
-Industrials,Machinery,61,0.7172404807029616,Industry
-Industrials,Industrial Services,28,0.8931272566921635,Industry
-Consumer Services,Retail,41,0.9856457624121359,Industry
-Consumer Services,Travel & Leisure,20,0.49069329188301647,Industry
-Consumer Services,Media,20,0.5044706266751723,Industry
-Transportation,Airlines,40,0.8779628316300361,Industry
-Transportation,Railroads,61,0.3972348714869779,Industry
-Transportation,Logistics,52,0.9559537145276832,Industry
+,Dawson,840,0.5354045816661367,Overall
+Dawson,HiTech,94,0.09391842989321841,Sector
+Dawson,Agriculture,82,0.12901827922284492,Sector
+Dawson,Transportation,56,0.72953637352068,Sector
+Dawson,Consumer_Products,42,0.8793135304741853,Sector
+Dawson,Unassigned,32,0.7518554527985668,Sector
+Dawson,Communication,32,0.6451646260420048,Sector
+Dawson,Trade,67,0.6543214855500706,Sector
+Dawson,Business_Services,31,0.3599183589725521,Sector
+Dawson,Business_Products,7,0.7302519915566256,Sector
+Dawson,Construction,75,0.34097279846978923,Sector
+Dawson,Services,78,0.024748079221873276,Sector
+Dawson,Mining,74,0.31818152794977084,Sector
+Dawson,Health_Care,59,0.9314810676818311,Sector
+Dawson,EnergyExpL_Prod,87,0.9923896130123402,Sector
+Dawson,Utilities,24,0.4499971106256958,Sector

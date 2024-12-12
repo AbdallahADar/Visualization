@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Recklinghausen,1955,0.5786925029835578,Overall
-Recklinghausen,Technology,125,0.026674143598697464,Sector
-Recklinghausen,Healthcare,118,0.8299231557190643,Sector
-Recklinghausen,Finance,236,0.8584309838359201,Sector
-Recklinghausen,Energy,165,0.6795679210700045,Sector
-Recklinghausen,Consumer Goods,180,0.3074028152177227,Sector
-Recklinghausen,Utilities,247,0.9869114768114691,Sector
-Recklinghausen,Real Estate,153,0.4986191497322384,Sector
-Recklinghausen,Telecommunications,156,0.9180337970968612,Sector
-Recklinghausen,Materials,156,0.20687288488126065,Sector
-Recklinghausen,Industrials,221,0.4057703098006745,Sector
-Recklinghausen,Consumer Services,47,0.1449671712233377,Sector
-Recklinghausen,Transportation,151,0.8999954404171562,Sector
-Technology,Software,10,0.10567054690867661,Industry
-Technology,Hardware,79,0.23393801016412974,Industry
-Technology,IT Services,36,0.4219146761614746,Industry
-Healthcare,Pharmaceuticals,25,0.18192307711067635,Industry
-Healthcare,Medical Devices,60,0.9932110024620046,Industry
-Healthcare,Healthcare Services,33,0.5776672494924096,Industry
-Finance,Banking,75,0.6102397202908838,Industry
-Finance,Insurance,80,0.8825044030832614,Industry
-Finance,Investment Services,81,0.5500979994129416,Industry
-Energy,Oil & Gas,31,0.9190837932598994,Industry
-Energy,Renewable Energy,42,0.5587864783918308,Industry
-Energy,Energy Exploration,92,0.834402621340081,Industry
-Consumer Goods,Food & Beverage,52,0.7938279437861903,Industry
-Consumer Goods,Household Products,56,0.6315693858064994,Industry
-Consumer Goods,Apparel,72,0.3534860088097054,Industry
-Utilities,Electric,97,0.8913235725888908,Industry
-Utilities,Water,70,0.10220720165911212,Industry
-Utilities,Gas,80,0.7523452842500576,Industry
-Real Estate,Residential,89,0.6447177681629244,Industry
-Real Estate,Commercial,52,0.6144540534521712,Industry
-Real Estate,Industrial,12,0.09955065084110248,Industry
-Telecommunications,Mobile,68,0.8296506967179857,Industry
-Telecommunications,Broadband,58,0.9034844326060824,Industry
-Telecommunications,Satellite,30,0.8417588260514105,Industry
-Materials,Chemicals,50,0.2056802101000621,Industry
-Materials,Metals & Mining,78,0.8125811687892182,Industry
-Materials,Construction Materials,28,0.7987254870381896,Industry
-Industrials,Aerospace & Defense,39,0.4040111602177253,Industry
-Industrials,Machinery,89,0.8402263077089771,Industry
-Industrials,Industrial Services,93,0.5244716494190411,Industry
-Consumer Services,Retail,2,0.9710631183963253,Industry
-Consumer Services,Travel & Leisure,34,0.16041240003013224,Industry
-Consumer Services,Media,11,0.5469822267948281,Industry
-Transportation,Airlines,21,0.6285213928490347,Industry
-Transportation,Railroads,55,0.4246267449342249,Industry
-Transportation,Logistics,75,0.5662672603112796,Industry
+,Recklinghausen,521,0.5227414449738262,Overall
+Recklinghausen,HiTech,9,0.48511850736138273,Sector
+Recklinghausen,Agriculture,59,0.6787873937713557,Sector
+Recklinghausen,Transportation,25,0.7401771561377057,Sector
+Recklinghausen,Consumer_Products,26,0.17706691702271615,Sector
+Recklinghausen,Unassigned,14,0.900493007949479,Sector
+Recklinghausen,Communication,22,0.33360393005821465,Sector
+Recklinghausen,Trade,17,0.15382917267708784,Sector
+Recklinghausen,Business_Services,17,0.4564574921863489,Sector
+Recklinghausen,Business_Products,71,0.9068833482907542,Sector
+Recklinghausen,Construction,87,0.6379435341659764,Sector
+Recklinghausen,Services,16,0.08083397085758093,Sector
+Recklinghausen,Mining,62,0.5469564661730285,Sector
+Recklinghausen,Health_Care,22,0.9308267858467074,Sector
+Recklinghausen,EnergyExpL_Prod,11,0.6724693906988153,Sector
+Recklinghausen,Utilities,63,0.1396746014102388,Sector

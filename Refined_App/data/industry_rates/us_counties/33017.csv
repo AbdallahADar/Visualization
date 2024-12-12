@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Strafford,1702,0.6996025953176281,Overall
-Strafford,Technology,233,0.6714525432069689,Sector
-Strafford,Healthcare,62,0.19677423097436653,Sector
-Strafford,Finance,121,0.9199285711181897,Sector
-Strafford,Energy,109,0.07618901000753409,Sector
-Strafford,Consumer Goods,157,0.08137093574429699,Sector
-Strafford,Utilities,52,0.26520903421088227,Sector
-Strafford,Real Estate,174,0.5685826637078856,Sector
-Strafford,Telecommunications,217,0.32166352242614304,Sector
-Strafford,Materials,160,0.8616269443989912,Sector
-Strafford,Industrials,93,0.24694788456046446,Sector
-Strafford,Consumer Services,142,0.1326288603728275,Sector
-Strafford,Transportation,182,0.3459997587006799,Sector
-Technology,Software,91,0.5350326511174192,Industry
-Technology,Hardware,82,0.11676932619249036,Industry
-Technology,IT Services,60,0.17022478902568117,Industry
-Healthcare,Pharmaceuticals,16,0.3834482232592502,Industry
-Healthcare,Medical Devices,18,0.08553351265988696,Industry
-Healthcare,Healthcare Services,28,0.31454432225259576,Industry
-Finance,Banking,67,0.16528028099552206,Industry
-Finance,Insurance,27,0.2793635965744141,Industry
-Finance,Investment Services,27,0.5845362821511092,Industry
-Energy,Oil & Gas,2,0.7770507999843952,Industry
-Energy,Renewable Energy,29,0.13087403444315082,Industry
-Energy,Energy Exploration,78,0.5081942676407473,Industry
-Consumer Goods,Food & Beverage,96,0.6716328683967107,Industry
-Consumer Goods,Household Products,26,0.18484624701108476,Industry
-Consumer Goods,Apparel,35,0.5959987507542605,Industry
-Utilities,Electric,21,0.7463027042729065,Industry
-Utilities,Water,25,0.8242749287493819,Industry
-Utilities,Gas,6,0.4890276246157037,Industry
-Real Estate,Residential,23,0.5060043745397633,Industry
-Real Estate,Commercial,92,0.7083670425632453,Industry
-Real Estate,Industrial,59,0.787534408016405,Industry
-Telecommunications,Mobile,99,0.7184179273624748,Industry
-Telecommunications,Broadband,54,0.25668574596011917,Industry
-Telecommunications,Satellite,64,0.6332891229398723,Industry
-Materials,Chemicals,19,0.3543454204015555,Industry
-Materials,Metals & Mining,60,0.30765931094725774,Industry
-Materials,Construction Materials,81,0.9751655434485923,Industry
-Industrials,Aerospace & Defense,76,0.6786339961592109,Industry
-Industrials,Machinery,0,0.6047693853923024,Industry
-Industrials,Industrial Services,17,0.8120884652779177,Industry
-Consumer Services,Retail,73,0.18571784178461892,Industry
-Consumer Services,Travel & Leisure,2,0.7964787827345612,Industry
-Consumer Services,Media,67,0.08341734171146586,Industry
-Transportation,Airlines,6,0.46151295406158943,Industry
-Transportation,Railroads,93,0.046530162147997545,Industry
-Transportation,Logistics,83,0.8901074437934768,Industry
+,Strafford,685,0.5039297418741597,Overall
+Strafford,HiTech,39,0.9009806822452081,Sector
+Strafford,Agriculture,90,0.8681220794093768,Sector
+Strafford,Transportation,70,0.03260285135281238,Sector
+Strafford,Consumer_Products,21,0.9705652457798054,Sector
+Strafford,Unassigned,45,0.35769746672083536,Sector
+Strafford,Communication,45,0.4645169831844991,Sector
+Strafford,Trade,21,0.047261395494985314,Sector
+Strafford,Business_Services,24,0.9798974121590304,Sector
+Strafford,Business_Products,14,0.20200747339062386,Sector
+Strafford,Construction,23,0.8397991338265502,Sector
+Strafford,Services,40,0.17465057035649967,Sector
+Strafford,Mining,87,0.9582981327851947,Sector
+Strafford,Health_Care,12,0.2958548689370476,Sector
+Strafford,EnergyExpL_Prod,76,0.10628156478242534,Sector
+Strafford,Utilities,78,0.3604102676875013,Sector

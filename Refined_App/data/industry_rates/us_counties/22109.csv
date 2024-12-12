@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Terrebonne,1830,0.8700520983887114,Overall
-Terrebonne,Technology,167,0.08676396525372265,Sector
-Terrebonne,Healthcare,82,0.5446968342192822,Sector
-Terrebonne,Finance,136,0.5164759946672002,Sector
-Terrebonne,Energy,135,0.9726672150520571,Sector
-Terrebonne,Consumer Goods,221,0.5821002987321364,Sector
-Terrebonne,Utilities,150,0.8829890917147788,Sector
-Terrebonne,Real Estate,175,0.18419788349013577,Sector
-Terrebonne,Telecommunications,135,0.10097865566358355,Sector
-Terrebonne,Materials,158,0.3568268875399735,Sector
-Terrebonne,Industrials,201,0.7680366772118954,Sector
-Terrebonne,Consumer Services,187,0.5121928822328895,Sector
-Terrebonne,Transportation,83,0.7788245538189439,Sector
-Technology,Software,23,0.14035139361344695,Industry
-Technology,Hardware,79,0.6500217661953164,Industry
-Technology,IT Services,65,0.4685949420112593,Industry
-Healthcare,Pharmaceuticals,21,0.7554643186424275,Industry
-Healthcare,Medical Devices,61,0.3503612272329738,Industry
-Healthcare,Healthcare Services,0,0.7006633410465956,Industry
-Finance,Banking,17,0.1729713627409467,Industry
-Finance,Insurance,80,0.8120071095815655,Industry
-Finance,Investment Services,39,0.30705635062674363,Industry
-Energy,Oil & Gas,21,0.10769372555237011,Industry
-Energy,Renewable Energy,68,0.21265016625690436,Industry
-Energy,Energy Exploration,46,0.4977907722823677,Industry
-Consumer Goods,Food & Beverage,80,0.44735341815898755,Industry
-Consumer Goods,Household Products,45,0.6657587865220782,Industry
-Consumer Goods,Apparel,96,0.9299349590414764,Industry
-Utilities,Electric,22,0.7378725748596782,Industry
-Utilities,Water,58,0.04432777885862493,Industry
-Utilities,Gas,70,0.456364714502961,Industry
-Real Estate,Residential,26,0.7617303431538025,Industry
-Real Estate,Commercial,65,0.404978136273633,Industry
-Real Estate,Industrial,84,0.04901677136693816,Industry
-Telecommunications,Mobile,31,0.5110395812720335,Industry
-Telecommunications,Broadband,40,0.647910528804754,Industry
-Telecommunications,Satellite,64,0.21850283863742037,Industry
-Materials,Chemicals,46,0.032786368519935216,Industry
-Materials,Metals & Mining,23,0.2668929990469596,Industry
-Materials,Construction Materials,89,0.2730920589357908,Industry
-Industrials,Aerospace & Defense,69,0.5165900205532623,Industry
-Industrials,Machinery,51,0.26868764091032826,Industry
-Industrials,Industrial Services,81,0.3504695606591499,Industry
-Consumer Services,Retail,65,0.7622476583214495,Industry
-Consumer Services,Travel & Leisure,49,0.6037901585530676,Industry
-Consumer Services,Media,73,0.6769671033575045,Industry
-Transportation,Airlines,52,0.5627305494695162,Industry
-Transportation,Railroads,16,0.11527412571914908,Industry
-Transportation,Logistics,15,0.8720986020030863,Industry
+,Terrebonne,811,0.5743247669979715,Overall
+Terrebonne,HiTech,10,0.2839219635239282,Sector
+Terrebonne,Agriculture,82,0.9511681861406053,Sector
+Terrebonne,Transportation,26,0.34279901199805296,Sector
+Terrebonne,Consumer_Products,37,0.6257690560674098,Sector
+Terrebonne,Unassigned,64,0.7467803871762343,Sector
+Terrebonne,Communication,64,0.9021255278175025,Sector
+Terrebonne,Trade,57,0.9397916041715435,Sector
+Terrebonne,Business_Services,81,0.08140008849495106,Sector
+Terrebonne,Business_Products,96,0.4481271997293603,Sector
+Terrebonne,Construction,84,0.5378004467520994,Sector
+Terrebonne,Services,54,0.483798688594839,Sector
+Terrebonne,Mining,88,0.23980782225498354,Sector
+Terrebonne,Health_Care,4,0.6465726785362871,Sector
+Terrebonne,EnergyExpL_Prod,58,0.9011671564859784,Sector
+Terrebonne,Utilities,6,0.48384168722579624,Sector

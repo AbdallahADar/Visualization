@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Berat,1839,0.9922551543874762,Overall
-Berat,Technology,112,0.4594584165577381,Sector
-Berat,Healthcare,184,0.04201860540775304,Sector
-Berat,Finance,212,0.5696500211022002,Sector
-Berat,Energy,110,0.8934345281072833,Sector
-Berat,Consumer Goods,177,0.06847934894345875,Sector
-Berat,Utilities,132,0.512861944577812,Sector
-Berat,Real Estate,207,0.7195163524284908,Sector
-Berat,Telecommunications,118,0.8701923730509896,Sector
-Berat,Materials,106,0.9533209533354122,Sector
-Berat,Industrials,198,0.30968704385859813,Sector
-Berat,Consumer Services,169,0.7631012686097435,Sector
-Berat,Transportation,114,0.56080543454159,Sector
-Technology,Software,33,0.7264876542445281,Industry
-Technology,Hardware,74,0.709729256750689,Industry
-Technology,IT Services,5,0.5455687264735142,Industry
-Healthcare,Pharmaceuticals,85,0.21058110706139688,Industry
-Healthcare,Medical Devices,83,0.8173587691613379,Industry
-Healthcare,Healthcare Services,16,0.9975256106800421,Industry
-Finance,Banking,67,0.0329323328592066,Industry
-Finance,Insurance,86,0.2632825384999238,Industry
-Finance,Investment Services,59,0.29401954780958006,Industry
-Energy,Oil & Gas,25,0.35473151785351,Industry
-Energy,Renewable Energy,52,0.2551816832312229,Industry
-Energy,Energy Exploration,33,0.8007451585722053,Industry
-Consumer Goods,Food & Beverage,57,0.0017236211101228083,Industry
-Consumer Goods,Household Products,47,0.9516782476785594,Industry
-Consumer Goods,Apparel,73,0.7556765347236589,Industry
-Utilities,Electric,6,0.25777622182301085,Industry
-Utilities,Water,86,0.0678220870982883,Industry
-Utilities,Gas,40,0.12168369982181926,Industry
-Real Estate,Residential,93,0.057355767662955914,Industry
-Real Estate,Commercial,48,0.7097118984467109,Industry
-Real Estate,Industrial,66,0.6354145320965701,Industry
-Telecommunications,Mobile,2,0.4334595235138641,Industry
-Telecommunications,Broadband,36,0.020409151249704216,Industry
-Telecommunications,Satellite,80,0.9529906602865206,Industry
-Materials,Chemicals,60,0.21435400672030425,Industry
-Materials,Metals & Mining,44,0.20438812902250936,Industry
-Materials,Construction Materials,2,0.1648788958094457,Industry
-Industrials,Aerospace & Defense,97,0.08196299723215161,Industry
-Industrials,Machinery,71,0.9586835633349932,Industry
-Industrials,Industrial Services,30,0.9900241351986319,Industry
-Consumer Services,Retail,41,0.3851720692309636,Industry
-Consumer Services,Travel & Leisure,58,0.09508378260271244,Industry
-Consumer Services,Media,70,0.1414900023247363,Industry
-Transportation,Airlines,51,0.7363179761731518,Industry
-Transportation,Railroads,51,0.23565517360648025,Industry
-Transportation,Logistics,12,0.013215430490047031,Industry
+,Berat,714,0.46641444408290805,Overall
+Berat,HiTech,4,0.30503086329607954,Sector
+Berat,Agriculture,85,0.5245369181306362,Sector
+Berat,Transportation,13,0.22071597921162722,Sector
+Berat,Consumer_Products,62,0.13758404590589313,Sector
+Berat,Unassigned,54,0.9009916411078928,Sector
+Berat,Communication,93,0.16306058565977,Sector
+Berat,Trade,33,0.6306512865751882,Sector
+Berat,Business_Services,85,0.36041499498683405,Sector
+Berat,Business_Products,18,0.03098257938542348,Sector
+Berat,Construction,38,0.6558327307347295,Sector
+Berat,Services,65,0.8575490067159078,Sector
+Berat,Mining,21,0.2161554545264669,Sector
+Berat,Health_Care,76,0.7302334531968754,Sector
+Berat,EnergyExpL_Prod,26,0.7804148899916283,Sector
+Berat,Utilities,41,0.48206223181866914,Sector

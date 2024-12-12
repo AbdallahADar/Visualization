@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kitzingen,1712,0.08739492556938633,Overall
-Kitzingen,Technology,166,0.5049468790027211,Sector
-Kitzingen,Healthcare,188,0.6677901199297586,Sector
-Kitzingen,Finance,89,0.5334890233586133,Sector
-Kitzingen,Energy,127,0.3110192092488143,Sector
-Kitzingen,Consumer Goods,86,0.7695384387197917,Sector
-Kitzingen,Utilities,156,0.5372651708997381,Sector
-Kitzingen,Real Estate,255,0.5581592273237617,Sector
-Kitzingen,Telecommunications,99,0.10105078298789993,Sector
-Kitzingen,Materials,191,0.7172931207183251,Sector
-Kitzingen,Industrials,94,0.8797956220032828,Sector
-Kitzingen,Consumer Services,110,0.7912926733610631,Sector
-Kitzingen,Transportation,151,0.1544236052065855,Sector
-Technology,Software,9,0.1784909068781404,Industry
-Technology,Hardware,90,0.39691994996874314,Industry
-Technology,IT Services,67,0.5690335847925514,Industry
-Healthcare,Pharmaceuticals,86,0.20707913965010194,Industry
-Healthcare,Medical Devices,32,0.48612099239391693,Industry
-Healthcare,Healthcare Services,70,0.9624412644916673,Industry
-Finance,Banking,25,0.18005571218584415,Industry
-Finance,Insurance,32,0.5072383982719938,Industry
-Finance,Investment Services,32,0.7602055164550077,Industry
-Energy,Oil & Gas,45,0.4736085059223808,Industry
-Energy,Renewable Energy,6,0.2805682799117969,Industry
-Energy,Energy Exploration,76,0.7663232492666279,Industry
-Consumer Goods,Food & Beverage,51,0.773961798573353,Industry
-Consumer Goods,Household Products,14,0.25997314819925776,Industry
-Consumer Goods,Apparel,21,0.606074292383064,Industry
-Utilities,Electric,36,0.5380913650925664,Industry
-Utilities,Water,77,0.43520793187287343,Industry
-Utilities,Gas,43,0.6652787839933682,Industry
-Real Estate,Residential,99,0.3843320389112511,Industry
-Real Estate,Commercial,82,0.9286808452818662,Industry
-Real Estate,Industrial,74,0.6155413844487841,Industry
-Telecommunications,Mobile,34,0.5458510278754636,Industry
-Telecommunications,Broadband,40,0.3663907489648842,Industry
-Telecommunications,Satellite,25,0.045923744642916486,Industry
-Materials,Chemicals,94,0.07762093260932279,Industry
-Materials,Metals & Mining,47,0.3148524553164431,Industry
-Materials,Construction Materials,50,0.18538212998378267,Industry
-Industrials,Aerospace & Defense,13,0.12054191642472922,Industry
-Industrials,Machinery,5,0.5048150711825824,Industry
-Industrials,Industrial Services,76,0.21147143263361134,Industry
-Consumer Services,Retail,30,0.556371544079345,Industry
-Consumer Services,Travel & Leisure,1,0.7322895289482837,Industry
-Consumer Services,Media,79,0.6450760135466971,Industry
-Transportation,Airlines,95,0.0063070429170802855,Industry
-Transportation,Railroads,28,0.25734671782938723,Industry
-Transportation,Logistics,28,0.6149556979943311,Industry
+,Kitzingen,511,0.5511587860200419,Overall
+Kitzingen,HiTech,72,0.7969251404938249,Sector
+Kitzingen,Agriculture,37,0.6652146012288053,Sector
+Kitzingen,Transportation,8,0.4932504601541351,Sector
+Kitzingen,Consumer_Products,43,0.7446720358005965,Sector
+Kitzingen,Unassigned,26,0.18891934771716845,Sector
+Kitzingen,Communication,84,0.9695195976402358,Sector
+Kitzingen,Trade,45,0.8195227370193212,Sector
+Kitzingen,Business_Services,10,0.10082790267180408,Sector
+Kitzingen,Business_Products,3,0.03758723830602595,Sector
+Kitzingen,Construction,14,0.06340585458363868,Sector
+Kitzingen,Services,3,0.7287467345972922,Sector
+Kitzingen,Mining,87,0.5552677212102357,Sector
+Kitzingen,Health_Care,25,0.6268240286337324,Sector
+Kitzingen,EnergyExpL_Prod,18,0.5682433402531462,Sector
+Kitzingen,Utilities,36,0.9084550499906642,Sector

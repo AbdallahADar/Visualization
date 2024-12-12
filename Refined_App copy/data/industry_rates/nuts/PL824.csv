@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Tarnobrzeski,1717,0.045677979310042804,Overall
+Tarnobrzeski,Technology,146,0.03475283582355981,Sector
+Tarnobrzeski,Healthcare,121,0.6491929455294106,Sector
+Tarnobrzeski,Finance,101,0.3552659965857695,Sector
+Tarnobrzeski,Energy,171,0.4169575652982034,Sector
+Tarnobrzeski,Consumer Goods,138,0.4494827680326613,Sector
+Tarnobrzeski,Utilities,188,0.923237542024762,Sector
+Tarnobrzeski,Real Estate,141,0.5148764998185525,Sector
+Tarnobrzeski,Telecommunications,58,0.0659940491914871,Sector
+Tarnobrzeski,Materials,86,0.34782494297866007,Sector
+Tarnobrzeski,Industrials,235,0.9855707572152658,Sector
+Tarnobrzeski,Consumer Services,165,0.7934965604486556,Sector
+Tarnobrzeski,Transportation,167,0.9302794073204231,Sector
+Technology,Software,36,0.1924503192809055,Industry
+Technology,Hardware,62,0.20437431069142953,Industry
+Technology,IT Services,48,0.6305463542641089,Industry
+Healthcare,Pharmaceuticals,75,0.3532630086820284,Industry
+Healthcare,Medical Devices,11,0.30328777504003,Industry
+Healthcare,Healthcare Services,35,0.2733675608617654,Industry
+Finance,Banking,1,0.6474845444381971,Industry
+Finance,Insurance,3,0.7271431358975581,Industry
+Finance,Investment Services,97,0.6145893179974322,Industry
+Energy,Oil & Gas,18,0.8355442051850769,Industry
+Energy,Renewable Energy,78,0.2631705635071512,Industry
+Energy,Energy Exploration,75,0.897795303964313,Industry
+Consumer Goods,Food & Beverage,5,0.7609394232120141,Industry
+Consumer Goods,Household Products,44,0.9407273631686457,Industry
+Consumer Goods,Apparel,89,0.5578730613858247,Industry
+Utilities,Electric,86,0.3600426939367124,Industry
+Utilities,Water,34,0.04505636672064861,Industry
+Utilities,Gas,68,0.8910344489445207,Industry
+Real Estate,Residential,47,0.09638136482170645,Industry
+Real Estate,Commercial,12,0.42812843224455255,Industry
+Real Estate,Industrial,82,0.7905824839494469,Industry
+Telecommunications,Mobile,48,0.6889867357432198,Industry
+Telecommunications,Broadband,6,0.7973695078392806,Industry
+Telecommunications,Satellite,4,0.8534022432312305,Industry
+Materials,Chemicals,30,0.5997854434163385,Industry
+Materials,Metals & Mining,6,0.07822546954668919,Industry
+Materials,Construction Materials,50,0.1654874060758187,Industry
+Industrials,Aerospace & Defense,74,0.9911528021579892,Industry
+Industrials,Machinery,86,0.2409434009627054,Industry
+Industrials,Industrial Services,75,0.7487953979264719,Industry
+Consumer Services,Retail,34,0.2987634038231517,Industry
+Consumer Services,Travel & Leisure,87,0.05308245416028379,Industry
+Consumer Services,Media,44,0.6271393514435877,Industry
+Transportation,Airlines,59,0.222469392869591,Industry
+Transportation,Railroads,52,0.00725726261929982,Industry
+Transportation,Logistics,56,0.8437270376313096,Industry

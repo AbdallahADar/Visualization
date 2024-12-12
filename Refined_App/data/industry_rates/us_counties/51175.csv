@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Southampton,1914,0.05055645821649135,Overall
-Southampton,Technology,151,0.5335018302279351,Sector
-Southampton,Healthcare,97,0.9107257257819302,Sector
-Southampton,Finance,169,0.23894847641233086,Sector
-Southampton,Energy,62,0.6722186868740146,Sector
-Southampton,Consumer Goods,182,0.8287784925356511,Sector
-Southampton,Utilities,152,0.5240427773087158,Sector
-Southampton,Real Estate,229,0.40830971378401304,Sector
-Southampton,Telecommunications,203,0.06962758208895559,Sector
-Southampton,Materials,120,0.28086532528419783,Sector
-Southampton,Industrials,166,0.9874079702285266,Sector
-Southampton,Consumer Services,235,0.43060397742973455,Sector
-Southampton,Transportation,148,0.11951070066576164,Sector
-Technology,Software,11,0.4352677570144804,Industry
-Technology,Hardware,44,0.41591653037699106,Industry
-Technology,IT Services,96,0.5061755495247785,Industry
-Healthcare,Pharmaceuticals,7,0.7396704951716762,Industry
-Healthcare,Medical Devices,53,0.5049676615776599,Industry
-Healthcare,Healthcare Services,37,0.2060172778745708,Industry
-Finance,Banking,68,0.1246741080858883,Industry
-Finance,Insurance,47,0.12926428518002508,Industry
-Finance,Investment Services,54,0.8172311459012671,Industry
-Energy,Oil & Gas,20,0.13459627062517054,Industry
-Energy,Renewable Energy,27,0.24661009648298848,Industry
-Energy,Energy Exploration,15,0.34900958553083095,Industry
-Consumer Goods,Food & Beverage,24,0.4046714725447791,Industry
-Consumer Goods,Household Products,68,0.2077835434342773,Industry
-Consumer Goods,Apparel,90,0.3289242446949521,Industry
-Utilities,Electric,50,0.39511405329686455,Industry
-Utilities,Water,7,0.48398914577993635,Industry
-Utilities,Gas,95,0.5700904444425597,Industry
-Real Estate,Residential,79,0.6957324403566736,Industry
-Real Estate,Commercial,61,0.47094990370427336,Industry
-Real Estate,Industrial,89,0.9300737645685834,Industry
-Telecommunications,Mobile,55,0.5976108716666989,Industry
-Telecommunications,Broadband,86,0.27875234655274495,Industry
-Telecommunications,Satellite,62,0.1573455138207741,Industry
-Materials,Chemicals,57,0.1027608619158491,Industry
-Materials,Metals & Mining,50,0.7076895719143231,Industry
-Materials,Construction Materials,13,0.7215431677721985,Industry
-Industrials,Aerospace & Defense,34,0.8877721921281113,Industry
-Industrials,Machinery,46,0.6481044166821602,Industry
-Industrials,Industrial Services,86,0.8489768125664224,Industry
-Consumer Services,Retail,64,0.92112598623818,Industry
-Consumer Services,Travel & Leisure,79,0.7912579511989379,Industry
-Consumer Services,Media,92,0.5377078442096261,Industry
-Transportation,Airlines,17,0.41814551549558276,Industry
-Transportation,Railroads,60,0.9270489676763569,Industry
-Transportation,Logistics,71,0.09583950816901121,Industry
+,Southampton,621,0.5373339981429566,Overall
+Southampton,HiTech,28,0.277770956760668,Sector
+Southampton,Agriculture,53,0.934268535517503,Sector
+Southampton,Transportation,16,0.6361090393574901,Sector
+Southampton,Consumer_Products,13,0.7147743528745081,Sector
+Southampton,Unassigned,16,0.7994243123657058,Sector
+Southampton,Communication,64,0.44068019192529784,Sector
+Southampton,Trade,27,0.20277025085830858,Sector
+Southampton,Business_Services,86,0.9011275724591495,Sector
+Southampton,Business_Products,30,0.30134916784316146,Sector
+Southampton,Construction,97,0.6676296025129475,Sector
+Southampton,Services,16,0.06411232099397812,Sector
+Southampton,Mining,59,0.9744000484315571,Sector
+Southampton,Health_Care,23,0.06830938571030698,Sector
+Southampton,EnergyExpL_Prod,24,0.5223090044476237,Sector
+Southampton,Utilities,69,0.5549752300861421,Sector

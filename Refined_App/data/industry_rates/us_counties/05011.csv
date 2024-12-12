@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bradley,1989,0.8361202868271285,Overall
-Bradley,Technology,160,0.819484018631924,Sector
-Bradley,Healthcare,129,0.486842931085987,Sector
-Bradley,Finance,227,0.9778326731021594,Sector
-Bradley,Energy,99,0.20025272572845187,Sector
-Bradley,Consumer Goods,195,0.3016728998491127,Sector
-Bradley,Utilities,166,0.6680552205839112,Sector
-Bradley,Real Estate,183,0.4381385899037483,Sector
-Bradley,Telecommunications,54,0.28639183712122196,Sector
-Bradley,Materials,185,0.3411265264576093,Sector
-Bradley,Industrials,231,0.21601520512208428,Sector
-Bradley,Consumer Services,179,0.22088177936061082,Sector
-Bradley,Transportation,181,0.8153062755694446,Sector
-Technology,Software,31,0.7542322820891514,Industry
-Technology,Hardware,56,0.7156930332881278,Industry
-Technology,IT Services,73,0.941800393716932,Industry
-Healthcare,Pharmaceuticals,37,0.24189501716273698,Industry
-Healthcare,Medical Devices,43,0.6134512648025577,Industry
-Healthcare,Healthcare Services,49,0.21725613672454025,Industry
-Finance,Banking,94,0.7401432892714916,Industry
-Finance,Insurance,86,0.03523274961931755,Industry
-Finance,Investment Services,47,0.14496944414023416,Industry
-Energy,Oil & Gas,7,0.9636636489116682,Industry
-Energy,Renewable Energy,38,0.10341867475304767,Industry
-Energy,Energy Exploration,54,0.9464881234926623,Industry
-Consumer Goods,Food & Beverage,76,0.762848216155053,Industry
-Consumer Goods,Household Products,82,0.2865599195591566,Industry
-Consumer Goods,Apparel,37,0.8883723755493379,Industry
-Utilities,Electric,65,0.8685845153549939,Industry
-Utilities,Water,64,0.7856646559891018,Industry
-Utilities,Gas,37,0.7524701689871248,Industry
-Real Estate,Residential,71,0.34994452508586704,Industry
-Real Estate,Commercial,53,0.561388070727819,Industry
-Real Estate,Industrial,59,0.393967531078942,Industry
-Telecommunications,Mobile,10,0.08542900216829397,Industry
-Telecommunications,Broadband,0,0.24128429266653872,Industry
-Telecommunications,Satellite,44,0.3699918617316842,Industry
-Materials,Chemicals,93,0.25371482571520954,Industry
-Materials,Metals & Mining,58,0.6841986313245547,Industry
-Materials,Construction Materials,34,0.1511890655427529,Industry
-Industrials,Aerospace & Defense,57,0.4057149861688114,Industry
-Industrials,Machinery,87,0.031128010169558573,Industry
-Industrials,Industrial Services,87,0.7321847679682263,Industry
-Consumer Services,Retail,93,0.449643936313863,Industry
-Consumer Services,Travel & Leisure,75,0.842100971216356,Industry
-Consumer Services,Media,11,0.3423099434459631,Industry
-Transportation,Airlines,68,0.7526738600624205,Industry
-Transportation,Railroads,43,0.63766088431754,Industry
-Transportation,Logistics,70,0.5610076668334332,Industry
+,Bradley,746,0.5489379828469967,Overall
+Bradley,HiTech,80,0.5697038565342705,Sector
+Bradley,Agriculture,29,0.963321193627877,Sector
+Bradley,Transportation,52,0.1319187178065725,Sector
+Bradley,Consumer_Products,14,0.705157000492407,Sector
+Bradley,Unassigned,66,0.5257646030465171,Sector
+Bradley,Communication,37,0.3855053899197155,Sector
+Bradley,Trade,42,0.32885465451503293,Sector
+Bradley,Business_Services,75,0.20660423300401853,Sector
+Bradley,Business_Products,91,0.5011696051417451,Sector
+Bradley,Construction,31,0.692209097166606,Sector
+Bradley,Services,86,0.977445411016304,Sector
+Bradley,Mining,16,0.04845327571555191,Sector
+Bradley,Health_Care,11,0.48973207237338456,Sector
+Bradley,EnergyExpL_Prod,84,0.8870745115841296,Sector
+Bradley,Utilities,32,0.8211561207608166,Sector

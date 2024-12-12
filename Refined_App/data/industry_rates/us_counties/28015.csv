@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Carroll,1837,0.7812885748679822,Overall
-Carroll,Technology,198,0.3169616794277287,Sector
-Carroll,Healthcare,74,0.42402535676121833,Sector
-Carroll,Finance,89,0.19442305365310053,Sector
-Carroll,Energy,239,0.01579552833423037,Sector
-Carroll,Consumer Goods,197,0.40310025972915386,Sector
-Carroll,Utilities,175,0.821656220101618,Sector
-Carroll,Real Estate,210,0.5213095595406918,Sector
-Carroll,Telecommunications,151,0.4658965218760581,Sector
-Carroll,Materials,147,0.504521485730361,Sector
-Carroll,Industrials,123,0.10928470048149819,Sector
-Carroll,Consumer Services,158,0.4984753065066496,Sector
-Carroll,Transportation,76,0.3728550158410331,Sector
-Technology,Software,85,0.5017471024186675,Industry
-Technology,Hardware,27,0.79280845400693,Industry
-Technology,IT Services,86,0.6455659685098002,Industry
-Healthcare,Pharmaceuticals,58,0.38668223403136115,Industry
-Healthcare,Medical Devices,3,0.36383987490683434,Industry
-Healthcare,Healthcare Services,13,0.7569292318944498,Industry
-Finance,Banking,13,0.837383923947825,Industry
-Finance,Insurance,64,0.886570337569174,Industry
-Finance,Investment Services,12,0.8638843468287565,Industry
-Energy,Oil & Gas,66,0.22337981222105363,Industry
-Energy,Renewable Energy,83,0.4731477571565347,Industry
-Energy,Energy Exploration,90,0.09298313188362672,Industry
-Consumer Goods,Food & Beverage,93,0.4014073958985781,Industry
-Consumer Goods,Household Products,95,0.11988839372681759,Industry
-Consumer Goods,Apparel,9,0.5843738510459076,Industry
-Utilities,Electric,42,0.6451556337586536,Industry
-Utilities,Water,64,0.9380837529160415,Industry
-Utilities,Gas,69,0.2646222405756302,Industry
-Real Estate,Residential,71,0.00464302706386277,Industry
-Real Estate,Commercial,43,0.8107213859410642,Industry
-Real Estate,Industrial,96,0.5390584890599501,Industry
-Telecommunications,Mobile,5,0.28934469995397094,Industry
-Telecommunications,Broadband,60,0.6689460954937597,Industry
-Telecommunications,Satellite,86,0.2322707636957556,Industry
-Materials,Chemicals,50,0.2231438158432799,Industry
-Materials,Metals & Mining,39,0.7046210022577408,Industry
-Materials,Construction Materials,58,0.6960754253433304,Industry
-Industrials,Aerospace & Defense,33,0.402479428333978,Industry
-Industrials,Machinery,58,0.43324488889300783,Industry
-Industrials,Industrial Services,32,0.2287071178623039,Industry
-Consumer Services,Retail,24,0.5738151957412999,Industry
-Consumer Services,Travel & Leisure,74,0.13267362358209622,Industry
-Consumer Services,Media,60,0.6953120930584239,Industry
-Transportation,Airlines,16,0.2892476102940841,Industry
-Transportation,Railroads,52,0.7305542559125395,Industry
-Transportation,Logistics,8,0.2441763200747209,Industry
+,Carroll,709,0.49053246226208763,Overall
+Carroll,HiTech,81,0.23870863311665658,Sector
+Carroll,Agriculture,51,0.8643524406786623,Sector
+Carroll,Transportation,3,0.18920057248943223,Sector
+Carroll,Consumer_Products,20,0.7409446287182319,Sector
+Carroll,Unassigned,85,0.5225125741249945,Sector
+Carroll,Communication,16,0.2974422727520394,Sector
+Carroll,Trade,4,0.10613274283817842,Sector
+Carroll,Business_Services,76,0.6494684974168974,Sector
+Carroll,Business_Products,95,0.11618800386654404,Sector
+Carroll,Construction,9,0.2779720980324881,Sector
+Carroll,Services,24,0.9316951405077057,Sector
+Carroll,Mining,78,0.5301763820189668,Sector
+Carroll,Health_Care,67,0.973321303867561,Sector
+Carroll,EnergyExpL_Prod,50,0.3210039642066421,Sector
+Carroll,Utilities,50,0.5988676792963159,Sector

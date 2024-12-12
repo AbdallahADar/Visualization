@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Leflore,1506,0.7181975073231925,Overall
-Leflore,Technology,112,0.6898485942495918,Sector
-Leflore,Healthcare,47,0.3599297433491103,Sector
-Leflore,Finance,95,0.25014803184045464,Sector
-Leflore,Energy,127,0.6157194840407565,Sector
-Leflore,Consumer Goods,80,0.0994460462789063,Sector
-Leflore,Utilities,116,0.7984078300855301,Sector
-Leflore,Real Estate,173,0.5280568198857439,Sector
-Leflore,Telecommunications,164,0.14293164843438022,Sector
-Leflore,Materials,110,0.4549801215561282,Sector
-Leflore,Industrials,157,0.1743675969223748,Sector
-Leflore,Consumer Services,160,0.24811322712378614,Sector
-Leflore,Transportation,165,0.8720672580907494,Sector
-Technology,Software,36,0.2608780855882864,Industry
-Technology,Hardware,17,0.4084761762810457,Industry
-Technology,IT Services,59,0.46883235383215427,Industry
-Healthcare,Pharmaceuticals,33,0.7327587265497901,Industry
-Healthcare,Medical Devices,5,0.3550242948748046,Industry
-Healthcare,Healthcare Services,9,0.8696147886895086,Industry
-Finance,Banking,39,0.5472232999004676,Industry
-Finance,Insurance,48,0.7860939245386621,Industry
-Finance,Investment Services,8,0.7662655873751134,Industry
-Energy,Oil & Gas,66,0.7624330318062834,Industry
-Energy,Renewable Energy,38,0.5369889009646248,Industry
-Energy,Energy Exploration,23,0.8722742108840916,Industry
-Consumer Goods,Food & Beverage,45,0.4378275520238457,Industry
-Consumer Goods,Household Products,16,0.7756281416211056,Industry
-Consumer Goods,Apparel,19,0.7685756342665607,Industry
-Utilities,Electric,39,0.09103310224912842,Industry
-Utilities,Water,73,0.4557095212778013,Industry
-Utilities,Gas,4,0.4993333796060845,Industry
-Real Estate,Residential,58,0.41829047857674495,Industry
-Real Estate,Commercial,29,0.33683421165193916,Industry
-Real Estate,Industrial,86,0.614952360798658,Industry
-Telecommunications,Mobile,64,0.8910169657708191,Industry
-Telecommunications,Broadband,56,0.953990616434459,Industry
-Telecommunications,Satellite,44,0.6429762080332284,Industry
-Materials,Chemicals,10,0.26811499949865747,Industry
-Materials,Metals & Mining,46,0.22642676288721808,Industry
-Materials,Construction Materials,54,0.675823014603923,Industry
-Industrials,Aerospace & Defense,62,0.4122219161419849,Industry
-Industrials,Machinery,71,0.023664796956313516,Industry
-Industrials,Industrial Services,24,0.9480462565438031,Industry
-Consumer Services,Retail,68,0.8552187382562325,Industry
-Consumer Services,Travel & Leisure,59,0.6904268570165316,Industry
-Consumer Services,Media,33,0.7792000485089837,Industry
-Transportation,Airlines,57,0.3759972689758516,Industry
-Transportation,Railroads,25,0.5918392887547065,Industry
-Transportation,Logistics,83,0.5294059860632552,Industry
+,Leflore,547,0.40544111168212543,Overall
+Leflore,HiTech,37,0.3385610368860138,Sector
+Leflore,Agriculture,90,0.13403838916412258,Sector
+Leflore,Transportation,9,0.9428617308158543,Sector
+Leflore,Consumer_Products,23,0.4682818502403968,Sector
+Leflore,Unassigned,7,0.0641831992468479,Sector
+Leflore,Communication,61,0.11201221991141497,Sector
+Leflore,Trade,47,0.7527323221456655,Sector
+Leflore,Business_Services,47,0.23515625949850405,Sector
+Leflore,Business_Products,11,0.17287501856587761,Sector
+Leflore,Construction,39,0.5983142857137547,Sector
+Leflore,Services,19,0.2914397548841713,Sector
+Leflore,Mining,87,0.004242898893682789,Sector
+Leflore,Health_Care,31,0.5738549113987468,Sector
+Leflore,EnergyExpL_Prod,30,0.6111899509079967,Sector
+Leflore,Utilities,9,0.7818728469588316,Sector

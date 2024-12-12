@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dillingham,1719,0.08961791707668765,Overall
-Dillingham,Technology,175,0.997010647555271,Sector
-Dillingham,Healthcare,149,0.8933765065688198,Sector
-Dillingham,Finance,137,0.37126500465865264,Sector
-Dillingham,Energy,204,0.30071902277540374,Sector
-Dillingham,Consumer Goods,133,0.903909182368152,Sector
-Dillingham,Utilities,123,0.39384380699557686,Sector
-Dillingham,Real Estate,168,0.704033135963177,Sector
-Dillingham,Telecommunications,216,0.2676878749671333,Sector
-Dillingham,Materials,164,0.5654620786773968,Sector
-Dillingham,Industrials,139,0.6168061173524634,Sector
-Dillingham,Consumer Services,35,0.7132163962394584,Sector
-Dillingham,Transportation,76,0.761707341688523,Sector
-Technology,Software,67,0.7952162552076518,Industry
-Technology,Hardware,84,0.7612043283476909,Industry
-Technology,IT Services,24,0.26958839973697857,Industry
-Healthcare,Pharmaceuticals,79,0.6473470167449675,Industry
-Healthcare,Medical Devices,8,0.28141562991895186,Industry
-Healthcare,Healthcare Services,62,0.2014785642069623,Industry
-Finance,Banking,82,0.5705947947694138,Industry
-Finance,Insurance,46,0.707978288171805,Industry
-Finance,Investment Services,9,0.7360986147336553,Industry
-Energy,Oil & Gas,78,0.13460771545467243,Industry
-Energy,Renewable Energy,81,0.15872080598584037,Industry
-Energy,Energy Exploration,45,0.9568619939717083,Industry
-Consumer Goods,Food & Beverage,19,0.028122155129940096,Industry
-Consumer Goods,Household Products,19,0.6373021557785519,Industry
-Consumer Goods,Apparel,95,0.5169728418647364,Industry
-Utilities,Electric,62,0.11556430140723795,Industry
-Utilities,Water,40,0.3195598062526268,Industry
-Utilities,Gas,21,0.42105548553381134,Industry
-Real Estate,Residential,58,0.7705892084528206,Industry
-Real Estate,Commercial,39,0.5437168914671575,Industry
-Real Estate,Industrial,71,0.2643662621332128,Industry
-Telecommunications,Mobile,57,0.8651251675927835,Industry
-Telecommunications,Broadband,83,0.4134693884481524,Industry
-Telecommunications,Satellite,76,0.5831069954737087,Industry
-Materials,Chemicals,19,0.2711807350651537,Industry
-Materials,Metals & Mining,95,0.9647474762996469,Industry
-Materials,Construction Materials,50,0.12709109933125406,Industry
-Industrials,Aerospace & Defense,27,0.49263416104731195,Industry
-Industrials,Machinery,36,0.19273676170324172,Industry
-Industrials,Industrial Services,76,0.0027759544901769795,Industry
-Consumer Services,Retail,10,0.7402855711495812,Industry
-Consumer Services,Travel & Leisure,6,0.2617591167255854,Industry
-Consumer Services,Media,19,0.983252723426387,Industry
-Transportation,Airlines,22,0.06506215020176431,Industry
-Transportation,Railroads,7,0.057967802807082025,Industry
-Transportation,Logistics,47,0.4118219324809489,Industry
+,Dillingham,709,0.395326748551409,Overall
+Dillingham,HiTech,17,0.26058524232747327,Sector
+Dillingham,Agriculture,89,0.2595072229128311,Sector
+Dillingham,Transportation,7,0.04445228322150496,Sector
+Dillingham,Consumer_Products,92,0.17131910849581644,Sector
+Dillingham,Unassigned,36,0.5983987511038096,Sector
+Dillingham,Communication,17,0.6910981612865347,Sector
+Dillingham,Trade,26,0.8594708508073207,Sector
+Dillingham,Business_Services,75,0.24741632013695447,Sector
+Dillingham,Business_Products,73,0.4520020896928928,Sector
+Dillingham,Construction,27,0.45678735471177223,Sector
+Dillingham,Services,51,0.4002496148942114,Sector
+Dillingham,Mining,40,0.38507376797399917,Sector
+Dillingham,Health_Care,28,0.09976987266536885,Sector
+Dillingham,EnergyExpL_Prod,77,0.027545956827321083,Sector
+Dillingham,Utilities,54,0.9762246312133235,Sector

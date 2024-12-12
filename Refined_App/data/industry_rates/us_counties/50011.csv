@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Franklin,1616,0.6735008813873454,Overall
-Franklin,Technology,200,0.0004982640505832858,Sector
-Franklin,Healthcare,110,0.6380110588595825,Sector
-Franklin,Finance,174,0.4934382890886714,Sector
-Franklin,Energy,125,0.5384711776585103,Sector
-Franklin,Consumer Goods,155,0.4518709121129574,Sector
-Franklin,Utilities,17,0.842951085628663,Sector
-Franklin,Real Estate,146,0.5559192900407774,Sector
-Franklin,Telecommunications,116,0.23611491917946115,Sector
-Franklin,Materials,118,0.765935545090129,Sector
-Franklin,Industrials,181,0.26916162306288405,Sector
-Franklin,Consumer Services,192,0.8694882926562848,Sector
-Franklin,Transportation,82,0.46433792656020667,Sector
-Technology,Software,61,0.1389956583469224,Industry
-Technology,Hardware,45,0.6810817612963093,Industry
-Technology,IT Services,94,0.2866627469093579,Industry
-Healthcare,Pharmaceuticals,21,0.8590441057689091,Industry
-Healthcare,Medical Devices,47,0.02108965519703032,Industry
-Healthcare,Healthcare Services,42,0.6254543817565891,Industry
-Finance,Banking,69,0.8144375637955885,Industry
-Finance,Insurance,96,0.1973146852380886,Industry
-Finance,Investment Services,9,0.27332968189629747,Industry
-Energy,Oil & Gas,98,0.15416962213957708,Industry
-Energy,Renewable Energy,25,0.010939896982734343,Industry
-Energy,Energy Exploration,2,0.8892800957126046,Industry
-Consumer Goods,Food & Beverage,88,0.6982895788518265,Industry
-Consumer Goods,Household Products,9,0.9488466225998269,Industry
-Consumer Goods,Apparel,58,0.8231044967001384,Industry
-Utilities,Electric,0,0.7362555438066823,Industry
-Utilities,Water,0,0.7625800567751695,Industry
-Utilities,Gas,17,0.21193766071210696,Industry
-Real Estate,Residential,48,0.8388366597168118,Industry
-Real Estate,Commercial,43,0.005357091774514933,Industry
-Real Estate,Industrial,55,0.6810810290727694,Industry
-Telecommunications,Mobile,34,0.04796039547169706,Industry
-Telecommunications,Broadband,9,0.3685179093634604,Industry
-Telecommunications,Satellite,73,0.13037789314657022,Industry
-Materials,Chemicals,31,0.3774869199932086,Industry
-Materials,Metals & Mining,6,0.3783485882356835,Industry
-Materials,Construction Materials,81,0.2952623325074186,Industry
-Industrials,Aerospace & Defense,61,0.6195040885468157,Industry
-Industrials,Machinery,92,0.24956181227993723,Industry
-Industrials,Industrial Services,28,0.5798436917389186,Industry
-Consumer Services,Retail,56,0.4761602377557175,Industry
-Consumer Services,Travel & Leisure,96,0.5675128815888387,Industry
-Consumer Services,Media,40,0.3542392257431559,Industry
-Transportation,Airlines,7,0.0750043805250824,Industry
-Transportation,Railroads,57,0.10392763754341083,Industry
-Transportation,Logistics,18,0.9368416120032476,Industry
+,Franklin,802,0.6208906462643953,Overall
+Franklin,HiTech,86,0.7721682240350699,Sector
+Franklin,Agriculture,97,0.5290411626287872,Sector
+Franklin,Transportation,35,0.5681512859664188,Sector
+Franklin,Consumer_Products,38,0.8023624312442023,Sector
+Franklin,Unassigned,76,0.39208968285255563,Sector
+Franklin,Communication,22,0.5842862370200105,Sector
+Franklin,Trade,12,0.6333964403355583,Sector
+Franklin,Business_Services,17,0.9989146961903723,Sector
+Franklin,Business_Products,88,0.4003847581976374,Sector
+Franklin,Construction,12,0.5728078221943715,Sector
+Franklin,Services,85,0.6441467654820947,Sector
+Franklin,Mining,46,0.6282827167326764,Sector
+Franklin,Health_Care,74,0.3371189615490865,Sector
+Franklin,EnergyExpL_Prod,25,0.9569669475519015,Sector
+Franklin,Utilities,89,0.49324156198518543,Sector

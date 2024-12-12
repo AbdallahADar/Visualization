@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Campbell,1804,0.4796813605021315,Overall
+Campbell,Technology,109,0.10171970622460635,Sector
+Campbell,Healthcare,87,0.26710738459257355,Sector
+Campbell,Finance,136,0.944245203471684,Sector
+Campbell,Energy,208,0.2576108292360725,Sector
+Campbell,Consumer Goods,172,0.2761861773352704,Sector
+Campbell,Utilities,132,0.7456828248205383,Sector
+Campbell,Real Estate,104,0.5085147036115015,Sector
+Campbell,Telecommunications,153,0.5830526088806819,Sector
+Campbell,Materials,228,0.6957270824134414,Sector
+Campbell,Industrials,158,0.011579699376192187,Sector
+Campbell,Consumer Services,157,0.03221412385934619,Sector
+Campbell,Transportation,160,0.933250219868046,Sector
+Technology,Software,50,0.18907934265088921,Industry
+Technology,Hardware,58,0.7721871694569126,Industry
+Technology,IT Services,1,0.41703310241563407,Industry
+Healthcare,Pharmaceuticals,50,0.7562145921718058,Industry
+Healthcare,Medical Devices,7,0.5093769940900887,Industry
+Healthcare,Healthcare Services,30,0.2921244150819562,Industry
+Finance,Banking,57,0.9907942777573051,Industry
+Finance,Insurance,24,0.29874576774180994,Industry
+Finance,Investment Services,55,0.9778680972904332,Industry
+Energy,Oil & Gas,50,0.1915070567559708,Industry
+Energy,Renewable Energy,94,0.07873456037018867,Industry
+Energy,Energy Exploration,64,0.1916039228414238,Industry
+Consumer Goods,Food & Beverage,97,0.5425348952858527,Industry
+Consumer Goods,Household Products,43,0.8511300721366358,Industry
+Consumer Goods,Apparel,32,0.706201774469058,Industry
+Utilities,Electric,17,0.9332914163171944,Industry
+Utilities,Water,40,0.14760722948305594,Industry
+Utilities,Gas,75,0.5886791019602473,Industry
+Real Estate,Residential,71,0.47403875394343986,Industry
+Real Estate,Commercial,31,0.18427460642045912,Industry
+Real Estate,Industrial,2,0.04027623375799483,Industry
+Telecommunications,Mobile,38,0.9838844441062075,Industry
+Telecommunications,Broadband,43,0.6012163332581717,Industry
+Telecommunications,Satellite,72,0.6092399087146022,Industry
+Materials,Chemicals,87,0.5242595991724109,Industry
+Materials,Metals & Mining,48,0.10258650866875829,Industry
+Materials,Construction Materials,93,0.19638231495192515,Industry
+Industrials,Aerospace & Defense,98,0.8252832623735943,Industry
+Industrials,Machinery,52,0.8720807303512356,Industry
+Industrials,Industrial Services,8,0.051399484579956134,Industry
+Consumer Services,Retail,37,0.17786081674706122,Industry
+Consumer Services,Travel & Leisure,84,0.8582921555106435,Industry
+Consumer Services,Media,36,0.4097101149742399,Industry
+Transportation,Airlines,28,0.06722943132071613,Industry
+Transportation,Railroads,91,0.5556235291845717,Industry
+Transportation,Logistics,41,0.6464110021982974,Industry

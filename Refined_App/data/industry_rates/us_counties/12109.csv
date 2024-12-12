@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,St. Johns,1931,0.9408948604530618,Overall
-St. Johns,Technology,91,0.821076013211609,Sector
-St. Johns,Healthcare,232,0.16371064595353269,Sector
-St. Johns,Finance,156,0.615550699083157,Sector
-St. Johns,Energy,115,0.007912244785707956,Sector
-St. Johns,Consumer Goods,149,0.5598917915297803,Sector
-St. Johns,Utilities,165,0.017720726967224265,Sector
-St. Johns,Real Estate,209,0.8247301406626866,Sector
-St. Johns,Telecommunications,185,0.5822822802027384,Sector
-St. Johns,Materials,164,0.28888381196928103,Sector
-St. Johns,Industrials,238,0.260031961930536,Sector
-St. Johns,Consumer Services,29,0.7048941354487983,Sector
-St. Johns,Transportation,198,0.08741755250339955,Sector
-Technology,Software,22,0.41608933770752166,Industry
-Technology,Hardware,50,0.8975414055755809,Industry
-Technology,IT Services,19,0.4988060001151702,Industry
-Healthcare,Pharmaceuticals,47,0.9568820795261006,Industry
-Healthcare,Medical Devices,97,0.22763145182532274,Industry
-Healthcare,Healthcare Services,88,0.44900102003914,Industry
-Finance,Banking,33,0.7501912219127094,Industry
-Finance,Insurance,43,0.6076148449408344,Industry
-Finance,Investment Services,80,0.4093717826358072,Industry
-Energy,Oil & Gas,73,0.09297020187913996,Industry
-Energy,Renewable Energy,37,0.7386260702089635,Industry
-Energy,Energy Exploration,5,0.46759913493020533,Industry
-Consumer Goods,Food & Beverage,78,0.8577084885538331,Industry
-Consumer Goods,Household Products,21,0.19552337635524042,Industry
-Consumer Goods,Apparel,50,0.8108575843352485,Industry
-Utilities,Electric,81,0.13285902296034602,Industry
-Utilities,Water,5,0.7528362101838105,Industry
-Utilities,Gas,79,0.23101190144968986,Industry
-Real Estate,Residential,45,0.2265219203238229,Industry
-Real Estate,Commercial,68,0.11252554355872768,Industry
-Real Estate,Industrial,96,0.5464083053745299,Industry
-Telecommunications,Mobile,36,0.8669758936582809,Industry
-Telecommunications,Broadband,81,0.4064373156177876,Industry
-Telecommunications,Satellite,68,0.3048777645654632,Industry
-Materials,Chemicals,90,0.6563897945482537,Industry
-Materials,Metals & Mining,57,0.5688796662502166,Industry
-Materials,Construction Materials,17,0.9879491650648642,Industry
-Industrials,Aerospace & Defense,93,0.840018063718055,Industry
-Industrials,Machinery,94,0.9715574721498753,Industry
-Industrials,Industrial Services,51,0.6185629516149985,Industry
-Consumer Services,Retail,17,0.10628367699808483,Industry
-Consumer Services,Travel & Leisure,7,0.7385930120728862,Industry
-Consumer Services,Media,5,0.8827445207158862,Industry
-Transportation,Airlines,77,0.3435454357938821,Industry
-Transportation,Railroads,76,0.31204843128599014,Industry
-Transportation,Logistics,45,0.5615535545616421,Industry
+,St. Johns,736,0.5588270830122748,Overall
+St. Johns,HiTech,14,0.9919546356316833,Sector
+St. Johns,Agriculture,67,0.5718818525418675,Sector
+St. Johns,Transportation,20,0.8076033551814273,Sector
+St. Johns,Consumer_Products,54,0.7729361946221345,Sector
+St. Johns,Unassigned,17,0.9701015167585567,Sector
+St. Johns,Communication,33,0.044968306800904245,Sector
+St. Johns,Trade,21,0.1752842838787293,Sector
+St. Johns,Business_Services,50,0.9150701635923042,Sector
+St. Johns,Business_Products,48,0.7483127331653793,Sector
+St. Johns,Construction,36,0.13007313917546715,Sector
+St. Johns,Services,61,0.0861187070105135,Sector
+St. Johns,Mining,55,0.723697316848926,Sector
+St. Johns,Health_Care,88,0.6835293268253304,Sector
+St. Johns,EnergyExpL_Prod,94,0.6236310324875505,Sector
+St. Johns,Utilities,78,0.13724368066334802,Sector

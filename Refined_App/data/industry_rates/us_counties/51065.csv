@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fluvanna,1743,0.1223546572893649,Overall
-Fluvanna,Technology,184,0.4597356199022139,Sector
-Fluvanna,Healthcare,162,0.17208788344557602,Sector
-Fluvanna,Finance,145,0.7195352754994373,Sector
-Fluvanna,Energy,105,0.8866736788036301,Sector
-Fluvanna,Consumer Goods,219,0.8501739264173211,Sector
-Fluvanna,Utilities,116,0.379602258463536,Sector
-Fluvanna,Real Estate,137,0.7522503270251694,Sector
-Fluvanna,Telecommunications,151,0.14475926352060675,Sector
-Fluvanna,Materials,112,0.35768387291159043,Sector
-Fluvanna,Industrials,164,0.340073209140868,Sector
-Fluvanna,Consumer Services,53,0.7415604235595263,Sector
-Fluvanna,Transportation,195,0.2493685296989242,Sector
-Technology,Software,43,0.1343065971536367,Industry
-Technology,Hardware,77,0.9100283126482436,Industry
-Technology,IT Services,64,0.7704842823486973,Industry
-Healthcare,Pharmaceuticals,46,0.7276921812971374,Industry
-Healthcare,Medical Devices,70,0.8200255131265973,Industry
-Healthcare,Healthcare Services,46,0.901970996612579,Industry
-Finance,Banking,66,0.9166385488285649,Industry
-Finance,Insurance,21,0.5253387102406887,Industry
-Finance,Investment Services,58,0.46864737065838336,Industry
-Energy,Oil & Gas,6,0.6027889740713346,Industry
-Energy,Renewable Energy,19,0.010087600154516041,Industry
-Energy,Energy Exploration,80,0.1756902348167424,Industry
-Consumer Goods,Food & Beverage,94,0.8174467106717807,Industry
-Consumer Goods,Household Products,42,0.009160893729143416,Industry
-Consumer Goods,Apparel,83,0.5157403302871922,Industry
-Utilities,Electric,23,0.2624347482377628,Industry
-Utilities,Water,55,0.21498666812814182,Industry
-Utilities,Gas,38,0.21806843800286813,Industry
-Real Estate,Residential,12,0.17254908232089516,Industry
-Real Estate,Commercial,70,0.627474045539207,Industry
-Real Estate,Industrial,55,0.6282967837560214,Industry
-Telecommunications,Mobile,68,0.45492089751532405,Industry
-Telecommunications,Broadband,35,0.767304476918673,Industry
-Telecommunications,Satellite,48,0.8200706671994427,Industry
-Materials,Chemicals,11,0.1611354471237878,Industry
-Materials,Metals & Mining,17,0.566388292693971,Industry
-Materials,Construction Materials,84,0.6400797053691611,Industry
-Industrials,Aerospace & Defense,98,0.032794229557313814,Industry
-Industrials,Machinery,34,0.9514499711109329,Industry
-Industrials,Industrial Services,32,0.1696078321942942,Industry
-Consumer Services,Retail,13,0.8620447294172455,Industry
-Consumer Services,Travel & Leisure,4,0.3287120315704287,Industry
-Consumer Services,Media,36,0.6799957841690651,Industry
-Transportation,Airlines,59,0.7901108165197455,Industry
-Transportation,Railroads,58,0.5164558949780971,Industry
-Transportation,Logistics,78,0.47203030788857303,Industry
+,Fluvanna,708,0.4983508978830911,Overall
+Fluvanna,HiTech,26,0.44334816054161374,Sector
+Fluvanna,Agriculture,83,0.7499561753310189,Sector
+Fluvanna,Transportation,82,0.466309528856762,Sector
+Fluvanna,Consumer_Products,88,0.16011516824533745,Sector
+Fluvanna,Unassigned,17,0.5697656249158842,Sector
+Fluvanna,Communication,40,0.2632993437108605,Sector
+Fluvanna,Trade,1,0.26140496292106896,Sector
+Fluvanna,Business_Services,39,0.6625455873263578,Sector
+Fluvanna,Business_Products,45,0.7663825189587946,Sector
+Fluvanna,Construction,9,0.7434636997160691,Sector
+Fluvanna,Services,4,0.047369051406239704,Sector
+Fluvanna,Mining,47,0.8870634062854679,Sector
+Fluvanna,Health_Care,81,0.9808607734637254,Sector
+Fluvanna,EnergyExpL_Prod,73,0.053053561877545174,Sector
+Fluvanna,Utilities,73,0.42032590468962006,Sector

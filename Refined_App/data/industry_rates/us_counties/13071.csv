@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Colquitt,2013,0.15621304214648524,Overall
-Colquitt,Technology,108,0.11226869693208341,Sector
-Colquitt,Healthcare,259,0.8733026523629915,Sector
-Colquitt,Finance,138,0.5197137891302162,Sector
-Colquitt,Energy,173,0.6537940838566193,Sector
-Colquitt,Consumer Goods,177,0.44985646568688564,Sector
-Colquitt,Utilities,230,0.5712845790453744,Sector
-Colquitt,Real Estate,129,0.171288443750914,Sector
-Colquitt,Telecommunications,194,0.27217807169128916,Sector
-Colquitt,Materials,138,0.49218613133343936,Sector
-Colquitt,Industrials,176,0.2874299434421057,Sector
-Colquitt,Consumer Services,137,0.10843377773472684,Sector
-Colquitt,Transportation,154,0.6305282733049679,Sector
-Technology,Software,22,0.7476855930157754,Industry
-Technology,Hardware,62,0.07953676062636761,Industry
-Technology,IT Services,24,0.6866438937690567,Industry
-Healthcare,Pharmaceuticals,99,0.7494045417442369,Industry
-Healthcare,Medical Devices,66,0.7963851989928745,Industry
-Healthcare,Healthcare Services,94,0.8964659843002483,Industry
-Finance,Banking,96,0.48529041409200835,Industry
-Finance,Insurance,3,0.7110953593599831,Industry
-Finance,Investment Services,39,0.01900856589280442,Industry
-Energy,Oil & Gas,58,0.3982718416955695,Industry
-Energy,Renewable Energy,31,0.2163664552499004,Industry
-Energy,Energy Exploration,84,0.7590853348364948,Industry
-Consumer Goods,Food & Beverage,28,0.7198198938583206,Industry
-Consumer Goods,Household Products,91,0.494332748683737,Industry
-Consumer Goods,Apparel,58,0.9747223882244264,Industry
-Utilities,Electric,66,0.07361685579852528,Industry
-Utilities,Water,89,0.9220511133490158,Industry
-Utilities,Gas,75,0.8388825790430748,Industry
-Real Estate,Residential,26,0.8480590869770511,Industry
-Real Estate,Commercial,12,0.15154648256831227,Industry
-Real Estate,Industrial,91,0.2670413840123038,Industry
-Telecommunications,Mobile,37,0.004570667725771083,Industry
-Telecommunications,Broadband,75,0.20536987802659434,Industry
-Telecommunications,Satellite,82,0.11863399967137056,Industry
-Materials,Chemicals,20,0.9881203475989424,Industry
-Materials,Metals & Mining,96,0.9667565534529048,Industry
-Materials,Construction Materials,22,0.6030995849725075,Industry
-Industrials,Aerospace & Defense,59,0.2536234736308287,Industry
-Industrials,Machinery,65,0.941652662255037,Industry
-Industrials,Industrial Services,52,0.6928523612567348,Industry
-Consumer Services,Retail,53,0.26658306872070325,Industry
-Consumer Services,Travel & Leisure,10,0.8064894985988253,Industry
-Consumer Services,Media,74,0.4133230253355167,Industry
-Transportation,Airlines,17,0.10249551018046532,Industry
-Transportation,Railroads,45,0.7870047497753915,Industry
-Transportation,Logistics,92,0.43527852849799,Industry
+,Colquitt,559,0.5309449656993293,Overall
+Colquitt,HiTech,1,0.35175090054784597,Sector
+Colquitt,Agriculture,10,0.8092134983558754,Sector
+Colquitt,Transportation,28,0.6687271498745188,Sector
+Colquitt,Consumer_Products,45,0.9005634122664522,Sector
+Colquitt,Unassigned,49,0.8903082861033383,Sector
+Colquitt,Communication,3,0.13755652677666874,Sector
+Colquitt,Trade,66,0.10916227249884014,Sector
+Colquitt,Business_Services,82,0.9238856142970305,Sector
+Colquitt,Business_Products,4,0.1388138513280327,Sector
+Colquitt,Construction,12,0.4838813100484083,Sector
+Colquitt,Services,37,0.6873177879449088,Sector
+Colquitt,Mining,59,0.07724133575387693,Sector
+Colquitt,Health_Care,33,0.8527970151413989,Sector
+Colquitt,EnergyExpL_Prod,46,0.24874807491248252,Sector
+Colquitt,Utilities,84,0.6842074496402611,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Glascock,1936,0.9517229141676505,Overall
-Glascock,Technology,187,0.824146049531116,Sector
-Glascock,Healthcare,265,0.9040935593857468,Sector
-Glascock,Finance,271,0.6672314650341002,Sector
-Glascock,Energy,134,0.26458619394055505,Sector
-Glascock,Consumer Goods,141,0.6291113472260385,Sector
-Glascock,Utilities,86,0.33930599897578195,Sector
-Glascock,Real Estate,206,0.6256978090389174,Sector
-Glascock,Telecommunications,118,0.949578089017825,Sector
-Glascock,Materials,111,0.61654108745036,Sector
-Glascock,Industrials,222,0.23724701615826937,Sector
-Glascock,Consumer Services,131,0.8272488679657074,Sector
-Glascock,Transportation,64,0.2032337488442536,Sector
-Technology,Software,42,0.017395686970736457,Industry
-Technology,Hardware,93,0.9416289510139983,Industry
-Technology,IT Services,52,0.21970661742168796,Industry
-Healthcare,Pharmaceuticals,99,0.8879013769980753,Industry
-Healthcare,Medical Devices,78,0.24181921860434963,Industry
-Healthcare,Healthcare Services,88,0.19372048064520386,Industry
-Finance,Banking,97,0.8313855511841634,Industry
-Finance,Insurance,98,0.08562492654990261,Industry
-Finance,Investment Services,76,0.2965601814704818,Industry
-Energy,Oil & Gas,10,0.5412310925787535,Industry
-Energy,Renewable Energy,49,0.17327742576362226,Industry
-Energy,Energy Exploration,75,0.3449421215126093,Industry
-Consumer Goods,Food & Beverage,45,0.10009403832803232,Industry
-Consumer Goods,Household Products,63,0.2055371662351052,Industry
-Consumer Goods,Apparel,33,0.1401710815754269,Industry
-Utilities,Electric,20,0.06563236987348509,Industry
-Utilities,Water,53,0.37274829295787393,Industry
-Utilities,Gas,13,0.06341997589037462,Industry
-Real Estate,Residential,89,0.46084509708074306,Industry
-Real Estate,Commercial,69,0.03710920806544782,Industry
-Real Estate,Industrial,48,0.2280967444465548,Industry
-Telecommunications,Mobile,63,0.14371468900332218,Industry
-Telecommunications,Broadband,13,0.6294915343152514,Industry
-Telecommunications,Satellite,42,0.9888814880724048,Industry
-Materials,Chemicals,41,0.8292393159396677,Industry
-Materials,Metals & Mining,37,0.8381663255993612,Industry
-Materials,Construction Materials,33,0.787289984335567,Industry
-Industrials,Aerospace & Defense,91,0.702059916053722,Industry
-Industrials,Machinery,95,0.601231144928299,Industry
-Industrials,Industrial Services,36,0.7654749574287105,Industry
-Consumer Services,Retail,67,0.5794862832552024,Industry
-Consumer Services,Travel & Leisure,24,0.7957781596584934,Industry
-Consumer Services,Media,40,0.5920900300703977,Industry
-Transportation,Airlines,6,0.28688387867997334,Industry
-Transportation,Railroads,25,0.623798119513526,Industry
-Transportation,Logistics,33,0.6541065620294947,Industry
+,Glascock,698,0.520368718416923,Overall
+Glascock,HiTech,69,0.4009310869897267,Sector
+Glascock,Agriculture,35,0.3401874169560829,Sector
+Glascock,Transportation,13,0.5808684075372748,Sector
+Glascock,Consumer_Products,29,0.6364308330025763,Sector
+Glascock,Unassigned,72,0.6265402750145428,Sector
+Glascock,Communication,62,0.2945383642078737,Sector
+Glascock,Trade,66,0.6354704564909991,Sector
+Glascock,Business_Services,15,0.8931325352804252,Sector
+Glascock,Business_Products,38,0.602920558727916,Sector
+Glascock,Construction,93,0.9358592007629931,Sector
+Glascock,Services,49,0.3541152592596746,Sector
+Glascock,Mining,88,0.6826404872064353,Sector
+Glascock,Health_Care,48,0.3230672257629541,Sector
+Glascock,EnergyExpL_Prod,5,0.38169530741307245,Sector
+Glascock,Utilities,16,0.11713336164129695,Sector

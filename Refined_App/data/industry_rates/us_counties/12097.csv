@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Osceola,1766,0.13473090029282475,Overall
-Osceola,Technology,137,0.84017738530011,Sector
-Osceola,Healthcare,201,0.29814604052252647,Sector
-Osceola,Finance,153,0.7393841746521831,Sector
-Osceola,Energy,216,0.6330099144072265,Sector
-Osceola,Consumer Goods,133,0.48590005525131763,Sector
-Osceola,Utilities,117,0.9740180955136406,Sector
-Osceola,Real Estate,107,0.26180353332963724,Sector
-Osceola,Telecommunications,205,0.20116157956004788,Sector
-Osceola,Materials,82,0.28386203072898875,Sector
-Osceola,Industrials,143,0.5245715396588854,Sector
-Osceola,Consumer Services,135,0.7175764791516115,Sector
-Osceola,Transportation,137,0.10741030133159879,Sector
-Technology,Software,20,0.5590561212034253,Industry
-Technology,Hardware,31,0.530988547786436,Industry
-Technology,IT Services,86,0.18434263291138342,Industry
-Healthcare,Pharmaceuticals,77,0.41449636593371,Industry
-Healthcare,Medical Devices,95,0.6346305798191528,Industry
-Healthcare,Healthcare Services,29,0.4442162607734257,Industry
-Finance,Banking,84,0.733091742069653,Industry
-Finance,Insurance,30,0.5448666881904143,Industry
-Finance,Investment Services,39,0.8003294857516208,Industry
-Energy,Oil & Gas,36,0.0036751585591183744,Industry
-Energy,Renewable Energy,97,0.4636701087101599,Industry
-Energy,Energy Exploration,83,0.7697853525187545,Industry
-Consumer Goods,Food & Beverage,57,0.8753808481268056,Industry
-Consumer Goods,Household Products,55,0.8740352554882189,Industry
-Consumer Goods,Apparel,21,0.6803655469285208,Industry
-Utilities,Electric,28,0.17754065825806575,Industry
-Utilities,Water,16,0.4569879564028827,Industry
-Utilities,Gas,73,0.5271405569070061,Industry
-Real Estate,Residential,49,0.8130076035500587,Industry
-Real Estate,Commercial,51,0.6930534805230393,Industry
-Real Estate,Industrial,7,0.01727673081031722,Industry
-Telecommunications,Mobile,71,0.9059340594327293,Industry
-Telecommunications,Broadband,97,0.18092045525468836,Industry
-Telecommunications,Satellite,37,0.4586211487728328,Industry
-Materials,Chemicals,53,0.6453990540322546,Industry
-Materials,Metals & Mining,16,0.662369144776366,Industry
-Materials,Construction Materials,13,0.5279696721668232,Industry
-Industrials,Aerospace & Defense,35,0.7560971197571754,Industry
-Industrials,Machinery,70,0.2573427281805504,Industry
-Industrials,Industrial Services,38,0.9631235275315385,Industry
-Consumer Services,Retail,96,0.8815711770766774,Industry
-Consumer Services,Travel & Leisure,31,0.8443390826257395,Industry
-Consumer Services,Media,8,0.08300173005524725,Industry
-Transportation,Airlines,39,0.6048506521177826,Industry
-Transportation,Railroads,8,0.8183056938260324,Industry
-Transportation,Logistics,90,0.9916149605085731,Industry
+,Osceola,761,0.5967750346531222,Overall
+Osceola,HiTech,27,0.31919366861881504,Sector
+Osceola,Agriculture,94,0.029403158400076235,Sector
+Osceola,Transportation,43,0.7361855520021151,Sector
+Osceola,Consumer_Products,73,0.7223783393201936,Sector
+Osceola,Unassigned,67,0.5968934998242782,Sector
+Osceola,Communication,39,0.8795020875448412,Sector
+Osceola,Trade,11,0.506925858718139,Sector
+Osceola,Business_Services,24,0.2362177364831899,Sector
+Osceola,Business_Products,83,0.620430938879472,Sector
+Osceola,Construction,98,0.890084945959027,Sector
+Osceola,Services,34,0.6823205039546761,Sector
+Osceola,Mining,34,0.5150528382681805,Sector
+Osceola,Health_Care,59,0.6203239572174521,Sector
+Osceola,EnergyExpL_Prod,45,0.6945894439402993,Sector
+Osceola,Utilities,30,0.9021229906660769,Sector

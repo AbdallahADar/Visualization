@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,El Paso,1978,0.09295772724626927,Overall
-El Paso,Technology,86,0.5502276382542867,Sector
-El Paso,Healthcare,158,0.7719333740312164,Sector
-El Paso,Finance,248,0.8602091018747079,Sector
-El Paso,Energy,217,0.03428923192513489,Sector
-El Paso,Consumer Goods,218,0.7075424542857214,Sector
-El Paso,Utilities,189,0.0803201469799758,Sector
-El Paso,Real Estate,267,0.7910908304009405,Sector
-El Paso,Telecommunications,164,0.9233328611551971,Sector
-El Paso,Materials,127,0.8177275275115117,Sector
-El Paso,Industrials,116,0.4906184386994302,Sector
-El Paso,Consumer Services,68,0.4787263549920847,Sector
-El Paso,Transportation,120,0.4669225287554518,Sector
-Technology,Software,35,0.5417536929080317,Industry
-Technology,Hardware,8,0.018354306346696436,Industry
-Technology,IT Services,43,0.47105850675803074,Industry
-Healthcare,Pharmaceuticals,73,0.6077562483222776,Industry
-Healthcare,Medical Devices,65,0.5989127510344859,Industry
-Healthcare,Healthcare Services,20,0.4863482272766405,Industry
-Finance,Banking,61,0.8290199719942126,Industry
-Finance,Insurance,94,0.3028267409441441,Industry
-Finance,Investment Services,93,0.421030687383225,Industry
-Energy,Oil & Gas,89,0.9558225468587591,Industry
-Energy,Renewable Energy,74,0.247944781446524,Industry
-Energy,Energy Exploration,54,0.3138745274613105,Industry
-Consumer Goods,Food & Beverage,94,0.7441880829544103,Industry
-Consumer Goods,Household Products,51,0.6715262993763966,Industry
-Consumer Goods,Apparel,73,0.21045086183582296,Industry
-Utilities,Electric,67,0.5413402374823701,Industry
-Utilities,Water,46,0.30525385437810115,Industry
-Utilities,Gas,76,0.8291978051652841,Industry
-Real Estate,Residential,95,0.9488352666131384,Industry
-Real Estate,Commercial,94,0.8936747928366315,Industry
-Real Estate,Industrial,78,0.3332479942887654,Industry
-Telecommunications,Mobile,52,0.350330639115492,Industry
-Telecommunications,Broadband,66,0.765593647027169,Industry
-Telecommunications,Satellite,46,0.26675669715889316,Industry
-Materials,Chemicals,89,0.8718251904741479,Industry
-Materials,Metals & Mining,2,0.6223371515641589,Industry
-Materials,Construction Materials,36,0.9553737461243295,Industry
-Industrials,Aerospace & Defense,16,0.7966682958680041,Industry
-Industrials,Machinery,96,0.5065437828429038,Industry
-Industrials,Industrial Services,4,0.7248953766482733,Industry
-Consumer Services,Retail,8,0.7058610887274275,Industry
-Consumer Services,Travel & Leisure,48,0.09759709403254524,Industry
-Consumer Services,Media,12,0.8577738297558144,Industry
-Transportation,Airlines,22,0.7619468071979529,Industry
-Transportation,Railroads,90,0.042901153309684914,Industry
-Transportation,Logistics,8,0.2504115727761955,Industry
+,El Paso,558,0.49646290226180473,Overall
+El Paso,HiTech,59,0.21060882822759475,Sector
+El Paso,Agriculture,1,0.5848375989876119,Sector
+El Paso,Transportation,64,0.47312402373736395,Sector
+El Paso,Consumer_Products,30,0.3107807126399318,Sector
+El Paso,Unassigned,8,0.7715064176113925,Sector
+El Paso,Communication,98,0.045960260620959925,Sector
+El Paso,Trade,71,0.9657738079412818,Sector
+El Paso,Business_Services,26,0.8170152083083194,Sector
+El Paso,Business_Products,4,0.05693605756008635,Sector
+El Paso,Construction,15,0.029002365545931497,Sector
+El Paso,Services,17,0.7873207639562341,Sector
+El Paso,Mining,36,0.416442706486875,Sector
+El Paso,Health_Care,38,0.7559956939117727,Sector
+El Paso,EnergyExpL_Prod,71,0.8481425620476288,Sector
+El Paso,Utilities,20,0.37349652634408526,Sector

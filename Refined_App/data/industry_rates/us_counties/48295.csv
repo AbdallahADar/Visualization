@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lipscomb,1947,0.7112531479897203,Overall
-Lipscomb,Technology,143,0.6270369794488353,Sector
-Lipscomb,Healthcare,209,0.12699841850553373,Sector
-Lipscomb,Finance,196,0.8971557697592553,Sector
-Lipscomb,Energy,164,0.8646081678672557,Sector
-Lipscomb,Consumer Goods,108,0.47008981935675587,Sector
-Lipscomb,Utilities,234,0.848826243873964,Sector
-Lipscomb,Real Estate,161,0.4019521079303704,Sector
-Lipscomb,Telecommunications,98,0.6532944193276621,Sector
-Lipscomb,Materials,180,0.6601885184303091,Sector
-Lipscomb,Industrials,117,0.7763748236014641,Sector
-Lipscomb,Consumer Services,163,0.0664453565531149,Sector
-Lipscomb,Transportation,174,0.04749710596191814,Sector
-Technology,Software,70,0.2626138212469683,Industry
-Technology,Hardware,41,0.5622200031194098,Industry
-Technology,IT Services,32,0.558477333533224,Industry
-Healthcare,Pharmaceuticals,71,0.12543126913578495,Industry
-Healthcare,Medical Devices,65,0.61592440531281,Industry
-Healthcare,Healthcare Services,73,0.04706308378693658,Industry
-Finance,Banking,89,0.12877050388004718,Industry
-Finance,Insurance,59,0.9746738572495391,Industry
-Finance,Investment Services,48,0.021962606106685545,Industry
-Energy,Oil & Gas,75,0.4760001246326139,Industry
-Energy,Renewable Energy,66,0.38672514596197627,Industry
-Energy,Energy Exploration,23,0.2967462638973487,Industry
-Consumer Goods,Food & Beverage,65,0.20303949579227454,Industry
-Consumer Goods,Household Products,33,0.6467160375991107,Industry
-Consumer Goods,Apparel,10,0.906205756906208,Industry
-Utilities,Electric,94,0.5004413861084391,Industry
-Utilities,Water,68,0.3784444758189648,Industry
-Utilities,Gas,72,0.6013647681642343,Industry
-Real Estate,Residential,89,0.2026117469146098,Industry
-Real Estate,Commercial,16,0.056697637545696566,Industry
-Real Estate,Industrial,56,0.41684775440967003,Industry
-Telecommunications,Mobile,58,0.7895276973656393,Industry
-Telecommunications,Broadband,40,0.4446416868878996,Industry
-Telecommunications,Satellite,0,0.2518463111520963,Industry
-Materials,Chemicals,74,0.2957220861700872,Industry
-Materials,Metals & Mining,19,0.23942446971026698,Industry
-Materials,Construction Materials,87,0.7816323453398738,Industry
-Industrials,Aerospace & Defense,20,0.8527543850814764,Industry
-Industrials,Machinery,60,0.6732949009124549,Industry
-Industrials,Industrial Services,37,0.9822125276096659,Industry
-Consumer Services,Retail,77,0.5215204999417937,Industry
-Consumer Services,Travel & Leisure,44,0.4932720030379314,Industry
-Consumer Services,Media,42,0.8455579687102968,Industry
-Transportation,Airlines,16,0.39856798273994976,Industry
-Transportation,Railroads,93,0.9846461515427162,Industry
-Transportation,Logistics,65,0.5145057602945398,Industry
+,Lipscomb,710,0.5352432257874307,Overall
+Lipscomb,HiTech,34,0.2636766750875724,Sector
+Lipscomb,Agriculture,80,0.01342386908361537,Sector
+Lipscomb,Transportation,28,0.977959185976013,Sector
+Lipscomb,Consumer_Products,69,0.9319710318331561,Sector
+Lipscomb,Unassigned,32,0.8232945591671453,Sector
+Lipscomb,Communication,22,0.8735660758492875,Sector
+Lipscomb,Trade,36,0.44251331511349434,Sector
+Lipscomb,Business_Services,86,0.7301247011414721,Sector
+Lipscomb,Business_Products,7,0.06724170086039982,Sector
+Lipscomb,Construction,21,0.0040411167809943915,Sector
+Lipscomb,Services,28,0.2918981162535432,Sector
+Lipscomb,Mining,33,0.8051183373843332,Sector
+Lipscomb,Health_Care,50,0.8079946082674888,Sector
+Lipscomb,EnergyExpL_Prod,97,0.9922503664572281,Sector
+Lipscomb,Utilities,87,0.003574727555716195,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hérault,1765,0.9788387566175645,Overall
-Hérault,Technology,157,0.20113078281019525,Sector
-Hérault,Healthcare,213,0.4344874400029892,Sector
-Hérault,Finance,127,0.629840828801062,Sector
-Hérault,Energy,205,0.061279857059148624,Sector
-Hérault,Consumer Goods,119,0.1587269138288384,Sector
-Hérault,Utilities,106,0.5140448302784691,Sector
-Hérault,Real Estate,196,0.06464318260374124,Sector
-Hérault,Telecommunications,127,0.7144648827297527,Sector
-Hérault,Materials,152,0.3548639732350144,Sector
-Hérault,Industrials,111,0.8941579046188922,Sector
-Hérault,Consumer Services,145,0.8989504197132063,Sector
-Hérault,Transportation,107,0.6141900298027931,Sector
-Technology,Software,43,0.39982697384014454,Industry
-Technology,Hardware,74,0.6845481160731777,Industry
-Technology,IT Services,40,0.5201229964697338,Industry
-Healthcare,Pharmaceuticals,80,0.42235464188297167,Industry
-Healthcare,Medical Devices,81,0.6142335142970823,Industry
-Healthcare,Healthcare Services,52,0.058182867242377645,Industry
-Finance,Banking,34,0.3958676751040392,Industry
-Finance,Insurance,31,0.062257484383750894,Industry
-Finance,Investment Services,62,0.9830288318590901,Industry
-Energy,Oil & Gas,86,0.5887785631049849,Industry
-Energy,Renewable Energy,71,0.8343965520065635,Industry
-Energy,Energy Exploration,48,0.4432451806591161,Industry
-Consumer Goods,Food & Beverage,42,0.4835254338786825,Industry
-Consumer Goods,Household Products,42,0.036053366410511045,Industry
-Consumer Goods,Apparel,35,0.7642627346308212,Industry
-Utilities,Electric,57,0.0536868643354792,Industry
-Utilities,Water,5,0.5224443573865241,Industry
-Utilities,Gas,44,0.4358518243252655,Industry
-Real Estate,Residential,62,0.2993112055633257,Industry
-Real Estate,Commercial,40,0.024841719494183567,Industry
-Real Estate,Industrial,94,0.6111980108187409,Industry
-Telecommunications,Mobile,43,0.24111478755550986,Industry
-Telecommunications,Broadband,52,0.3252305535020582,Industry
-Telecommunications,Satellite,32,0.5602195563524198,Industry
-Materials,Chemicals,5,0.8461961246478801,Industry
-Materials,Metals & Mining,79,0.7327219436983058,Industry
-Materials,Construction Materials,68,0.2915006148233683,Industry
-Industrials,Aerospace & Defense,30,0.8355239065218146,Industry
-Industrials,Machinery,44,0.36414700803431643,Industry
-Industrials,Industrial Services,37,0.8573998266360175,Industry
-Consumer Services,Retail,21,0.14013298687051812,Industry
-Consumer Services,Travel & Leisure,49,0.5337192829773154,Industry
-Consumer Services,Media,75,0.7722884053629621,Industry
-Transportation,Airlines,50,0.40558763766745887,Industry
-Transportation,Railroads,41,0.3492603188679806,Industry
-Transportation,Logistics,16,0.5751647373899486,Industry
+,Hérault,740,0.5971143178594033,Overall
+Hérault,HiTech,75,0.7232071904023658,Sector
+Hérault,Agriculture,73,0.8675384894224877,Sector
+Hérault,Transportation,5,0.4166874317989223,Sector
+Hérault,Consumer_Products,15,0.8341431134594492,Sector
+Hérault,Unassigned,10,0.7287187975755556,Sector
+Hérault,Communication,27,0.5472582909601481,Sector
+Hérault,Trade,59,0.6678793772442925,Sector
+Hérault,Business_Services,71,0.43054799564681856,Sector
+Hérault,Business_Products,59,0.2062439862855675,Sector
+Hérault,Construction,89,0.5827679776396751,Sector
+Hérault,Services,92,0.7702790532252514,Sector
+Hérault,Mining,83,0.16485479710824447,Sector
+Hérault,Health_Care,19,0.5500505724585625,Sector
+Hérault,EnergyExpL_Prod,63,0.6113559231361613,Sector
+Hérault,Utilities,0,0.8551817715275465,Sector

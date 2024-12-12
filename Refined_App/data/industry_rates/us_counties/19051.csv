@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Davis,1838,0.07586981977505991,Overall
-Davis,Technology,268,0.5508613258257219,Sector
-Davis,Healthcare,207,0.09054077064679578,Sector
-Davis,Finance,139,0.1444668342290657,Sector
-Davis,Energy,219,0.6363596823810411,Sector
-Davis,Consumer Goods,147,0.9463072961420043,Sector
-Davis,Utilities,79,0.534458810115971,Sector
-Davis,Real Estate,124,0.1884447764692777,Sector
-Davis,Telecommunications,108,0.9222701882914804,Sector
-Davis,Materials,93,0.8622894798138452,Sector
-Davis,Industrials,212,0.9308083462870401,Sector
-Davis,Consumer Services,111,0.1383755273048063,Sector
-Davis,Transportation,131,0.6743886350379991,Sector
-Technology,Software,83,0.7206724749737935,Industry
-Technology,Hardware,92,0.9921931561467915,Industry
-Technology,IT Services,93,0.001502357571852131,Industry
-Healthcare,Pharmaceuticals,67,0.7541599610232703,Industry
-Healthcare,Medical Devices,70,0.5023154409831387,Industry
-Healthcare,Healthcare Services,70,0.42575099853947906,Industry
-Finance,Banking,10,0.5238233660687363,Industry
-Finance,Insurance,58,0.8272566254104654,Industry
-Finance,Investment Services,71,0.48471224468204044,Industry
-Energy,Oil & Gas,84,0.3190093131697508,Industry
-Energy,Renewable Energy,94,0.22592615277360972,Industry
-Energy,Energy Exploration,41,0.004937046388174826,Industry
-Consumer Goods,Food & Beverage,59,0.12729610093886823,Industry
-Consumer Goods,Household Products,20,0.5894763579772639,Industry
-Consumer Goods,Apparel,68,0.23422832030886298,Industry
-Utilities,Electric,51,0.07407094932977898,Industry
-Utilities,Water,25,0.6391817210823286,Industry
-Utilities,Gas,3,0.7875778958376937,Industry
-Real Estate,Residential,65,0.9422148428648615,Industry
-Real Estate,Commercial,3,0.12935294015903542,Industry
-Real Estate,Industrial,56,0.6324572410035905,Industry
-Telecommunications,Mobile,40,0.14928982259174683,Industry
-Telecommunications,Broadband,35,0.37924480166611907,Industry
-Telecommunications,Satellite,33,0.3630133591017881,Industry
-Materials,Chemicals,6,0.6113878028130014,Industry
-Materials,Metals & Mining,69,0.031391067103649584,Industry
-Materials,Construction Materials,18,0.15009190986982857,Industry
-Industrials,Aerospace & Defense,93,0.38448495318603915,Industry
-Industrials,Machinery,21,0.1317249738731734,Industry
-Industrials,Industrial Services,98,0.48341128642645437,Industry
-Consumer Services,Retail,40,0.14348359631741836,Industry
-Consumer Services,Travel & Leisure,25,0.0563968173814654,Industry
-Consumer Services,Media,46,0.34950751055310525,Industry
-Transportation,Airlines,42,0.29220742594046223,Industry
-Transportation,Railroads,13,0.45971565521952673,Industry
-Transportation,Logistics,76,0.6438031601675038,Industry
+,Davis,692,0.5312899825976939,Overall
+Davis,HiTech,45,0.7930627930653683,Sector
+Davis,Agriculture,36,0.4574754643006037,Sector
+Davis,Transportation,32,0.5332999670419184,Sector
+Davis,Consumer_Products,7,0.5566324447386041,Sector
+Davis,Unassigned,36,0.8078000825081361,Sector
+Davis,Communication,71,0.5780809706237574,Sector
+Davis,Trade,53,0.5966580658609046,Sector
+Davis,Business_Services,19,0.2688434900651535,Sector
+Davis,Business_Products,81,0.5030281300373044,Sector
+Davis,Construction,30,0.5142751703308671,Sector
+Davis,Services,98,0.07865909103238333,Sector
+Davis,Mining,57,0.18319306207611363,Sector
+Davis,Health_Care,65,0.6508267504704245,Sector
+Davis,EnergyExpL_Prod,26,0.9107639370610546,Sector
+Davis,Utilities,36,0.5367503197528142,Sector

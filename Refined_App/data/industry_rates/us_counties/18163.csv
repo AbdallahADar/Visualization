@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Vanderburgh,1777,0.3155818258712627,Overall
-Vanderburgh,Technology,96,0.8272709432691816,Sector
-Vanderburgh,Healthcare,183,0.9138555410166599,Sector
-Vanderburgh,Finance,168,0.25781707177534696,Sector
-Vanderburgh,Energy,217,0.2165028993410001,Sector
-Vanderburgh,Consumer Goods,121,0.1023547577281273,Sector
-Vanderburgh,Utilities,106,0.4446782086784371,Sector
-Vanderburgh,Real Estate,174,0.0792344605145473,Sector
-Vanderburgh,Telecommunications,141,0.060412567570305,Sector
-Vanderburgh,Materials,183,0.6239634141137274,Sector
-Vanderburgh,Industrials,123,0.874888508600584,Sector
-Vanderburgh,Consumer Services,178,0.04485385459485436,Sector
-Vanderburgh,Transportation,87,0.4034876852369409,Sector
-Technology,Software,31,0.10893734250968423,Industry
-Technology,Hardware,50,0.8940415598078076,Industry
-Technology,IT Services,15,0.9765239292988444,Industry
-Healthcare,Pharmaceuticals,49,0.072869055179689,Industry
-Healthcare,Medical Devices,68,0.38001244186766636,Industry
-Healthcare,Healthcare Services,66,0.5873264594659069,Industry
-Finance,Banking,91,0.6239742916101702,Industry
-Finance,Insurance,26,0.11419376159186467,Industry
-Finance,Investment Services,51,0.15489008815503325,Industry
-Energy,Oil & Gas,81,0.30119151410246614,Industry
-Energy,Renewable Energy,84,0.924887658068263,Industry
-Energy,Energy Exploration,52,0.03342285653481569,Industry
-Consumer Goods,Food & Beverage,2,0.9713863071899911,Industry
-Consumer Goods,Household Products,28,0.27495478449336164,Industry
-Consumer Goods,Apparel,91,0.3408189847469991,Industry
-Utilities,Electric,28,0.4647671589453837,Industry
-Utilities,Water,6,0.12067409639507665,Industry
-Utilities,Gas,72,0.6855205799098069,Industry
-Real Estate,Residential,51,0.4900928399750081,Industry
-Real Estate,Commercial,89,0.36639673003650897,Industry
-Real Estate,Industrial,34,0.40032305182532457,Industry
-Telecommunications,Mobile,2,0.8210955598707026,Industry
-Telecommunications,Broadband,56,0.8489179437992302,Industry
-Telecommunications,Satellite,83,0.9569439243673518,Industry
-Materials,Chemicals,79,0.023466397387707838,Industry
-Materials,Metals & Mining,28,0.2314620545654853,Industry
-Materials,Construction Materials,76,0.2350945212211787,Industry
-Industrials,Aerospace & Defense,75,0.2877907952139931,Industry
-Industrials,Machinery,45,0.25648136702937396,Industry
-Industrials,Industrial Services,3,0.056291676354357056,Industry
-Consumer Services,Retail,78,0.5409739620945729,Industry
-Consumer Services,Travel & Leisure,77,0.1716633432189152,Industry
-Consumer Services,Media,23,0.08752756267176676,Industry
-Transportation,Airlines,21,0.5156484430832607,Industry
-Transportation,Railroads,48,0.9621081741330049,Industry
-Transportation,Logistics,18,0.9473396367114633,Industry
+,Vanderburgh,552,0.5349968403623088,Overall
+Vanderburgh,HiTech,62,0.29490335799510736,Sector
+Vanderburgh,Agriculture,84,0.4843596841405402,Sector
+Vanderburgh,Transportation,10,0.5788426598310049,Sector
+Vanderburgh,Consumer_Products,23,0.5952278634271907,Sector
+Vanderburgh,Unassigned,2,0.5581931287172706,Sector
+Vanderburgh,Communication,58,0.9403335939064768,Sector
+Vanderburgh,Trade,42,0.7093366998969707,Sector
+Vanderburgh,Business_Services,39,0.22841174292532773,Sector
+Vanderburgh,Business_Products,62,0.544482441374122,Sector
+Vanderburgh,Construction,1,0.9704895067245188,Sector
+Vanderburgh,Services,8,0.47675894388082063,Sector
+Vanderburgh,Mining,23,0.4381141298743374,Sector
+Vanderburgh,Health_Care,48,0.08177569752495895,Sector
+Vanderburgh,EnergyExpL_Prod,40,0.5400850299642762,Sector
+Vanderburgh,Utilities,50,0.5836381252517083,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Massac,2104,0.6612358716329291,Overall
-Massac,Technology,139,0.10308363450715552,Sector
-Massac,Healthcare,235,0.47998356344909676,Sector
-Massac,Finance,221,0.8368509953437141,Sector
-Massac,Energy,140,0.7733780985310391,Sector
-Massac,Consumer Goods,215,0.9432004811913196,Sector
-Massac,Utilities,148,0.8863971473084808,Sector
-Massac,Real Estate,144,0.8552257147867321,Sector
-Massac,Telecommunications,164,0.0185138138322527,Sector
-Massac,Materials,88,0.686262968801319,Sector
-Massac,Industrials,217,0.13820649306356814,Sector
-Massac,Consumer Services,148,0.5801824837871952,Sector
-Massac,Transportation,245,0.4506167474390902,Sector
-Technology,Software,16,0.5381299759299515,Industry
-Technology,Hardware,58,0.8254544139449704,Industry
-Technology,IT Services,65,0.8498716232483084,Industry
-Healthcare,Pharmaceuticals,81,0.1419963208851759,Industry
-Healthcare,Medical Devices,92,0.5838545806004792,Industry
-Healthcare,Healthcare Services,62,0.999713633666116,Industry
-Finance,Banking,45,0.4022902255599271,Industry
-Finance,Insurance,89,0.08182465583317555,Industry
-Finance,Investment Services,87,0.45642678066392595,Industry
-Energy,Oil & Gas,23,0.19746019698900075,Industry
-Energy,Renewable Energy,85,0.5338567111649855,Industry
-Energy,Energy Exploration,32,0.09499844787143596,Industry
-Consumer Goods,Food & Beverage,69,0.6466322542735914,Industry
-Consumer Goods,Household Products,79,0.563812807479763,Industry
-Consumer Goods,Apparel,67,0.21271560038629422,Industry
-Utilities,Electric,44,0.33932804965202923,Industry
-Utilities,Water,38,0.7354735697012934,Industry
-Utilities,Gas,66,0.20759557541519458,Industry
-Real Estate,Residential,39,0.5908952782621009,Industry
-Real Estate,Commercial,94,0.2481886452071207,Industry
-Real Estate,Industrial,11,0.7764889578601293,Industry
-Telecommunications,Mobile,56,0.7126181512675384,Industry
-Telecommunications,Broadband,90,0.46018040840175045,Industry
-Telecommunications,Satellite,18,0.6064603892328819,Industry
-Materials,Chemicals,59,0.25044176126041107,Industry
-Materials,Metals & Mining,19,0.03683353860011662,Industry
-Materials,Construction Materials,10,0.522547876556901,Industry
-Industrials,Aerospace & Defense,87,0.6859483909885047,Industry
-Industrials,Machinery,53,0.08292135755697583,Industry
-Industrials,Industrial Services,77,0.03432086438107085,Industry
-Consumer Services,Retail,61,0.7008312779265881,Industry
-Consumer Services,Travel & Leisure,86,0.697005095994193,Industry
-Consumer Services,Media,1,0.6581078576163267,Industry
-Transportation,Airlines,93,0.34935378119724647,Industry
-Transportation,Railroads,67,0.1171487591965833,Industry
-Transportation,Logistics,85,0.5168354921233878,Industry
+,Massac,730,0.433061768778331,Overall
+Massac,HiTech,10,0.6360729257377898,Sector
+Massac,Agriculture,39,0.99634008635825,Sector
+Massac,Transportation,3,0.042801399592868106,Sector
+Massac,Consumer_Products,47,0.027853773707592233,Sector
+Massac,Unassigned,89,0.4774339856635724,Sector
+Massac,Communication,93,0.4532213266356313,Sector
+Massac,Trade,45,0.13719406266844725,Sector
+Massac,Business_Services,55,0.488817420473721,Sector
+Massac,Business_Products,22,0.6978631098937552,Sector
+Massac,Construction,63,0.0714189668602494,Sector
+Massac,Services,85,0.8511427524523763,Sector
+Massac,Mining,43,0.4351520201858885,Sector
+Massac,Health_Care,78,0.28177271677076965,Sector
+Massac,EnergyExpL_Prod,56,0.8608438368711868,Sector
+Massac,Utilities,2,0.03799814780286681,Sector

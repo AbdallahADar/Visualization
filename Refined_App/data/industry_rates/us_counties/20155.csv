@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Reno,1785,0.47403567060503693,Overall
-Reno,Technology,152,0.7349797850145775,Sector
-Reno,Healthcare,109,0.5630338960531958,Sector
-Reno,Finance,137,0.07045077711140058,Sector
-Reno,Energy,136,0.6223673842298826,Sector
-Reno,Consumer Goods,119,0.9727420840172337,Sector
-Reno,Utilities,180,0.23558585772238705,Sector
-Reno,Real Estate,180,0.2007680992733365,Sector
-Reno,Telecommunications,137,0.3554055194578659,Sector
-Reno,Materials,195,0.6630247813020926,Sector
-Reno,Industrials,175,0.38836187726950044,Sector
-Reno,Consumer Services,84,0.4419526569690282,Sector
-Reno,Transportation,181,0.9487413019820765,Sector
-Technology,Software,0,0.17200897344349098,Industry
-Technology,Hardware,80,0.18372346580808552,Industry
-Technology,IT Services,72,0.2984230817277045,Industry
-Healthcare,Pharmaceuticals,15,0.5224224332335579,Industry
-Healthcare,Medical Devices,48,0.9928066187616338,Industry
-Healthcare,Healthcare Services,46,0.5561339348075784,Industry
-Finance,Banking,6,0.5298721684893613,Industry
-Finance,Insurance,78,0.2250559701630036,Industry
-Finance,Investment Services,53,0.4708248044647195,Industry
-Energy,Oil & Gas,42,0.8525974789259669,Industry
-Energy,Renewable Energy,70,0.2817675810499539,Industry
-Energy,Energy Exploration,24,0.7285461607897838,Industry
-Consumer Goods,Food & Beverage,35,0.8772343657205143,Industry
-Consumer Goods,Household Products,28,0.7630997442233869,Industry
-Consumer Goods,Apparel,56,0.9580520366293912,Industry
-Utilities,Electric,99,0.9632573799931565,Industry
-Utilities,Water,49,0.12301262971985882,Industry
-Utilities,Gas,32,0.4494538527529697,Industry
-Real Estate,Residential,88,0.2605818592199881,Industry
-Real Estate,Commercial,40,0.8863576407997666,Industry
-Real Estate,Industrial,52,0.5390642325657672,Industry
-Telecommunications,Mobile,46,0.9656698936709807,Industry
-Telecommunications,Broadband,18,0.1695006415588003,Industry
-Telecommunications,Satellite,73,0.24482769295879447,Industry
-Materials,Chemicals,71,0.7387002566413908,Industry
-Materials,Metals & Mining,63,0.9834003067933274,Industry
-Materials,Construction Materials,61,0.7613103314278927,Industry
-Industrials,Aerospace & Defense,30,0.9601855746926558,Industry
-Industrials,Machinery,62,0.28491997112978606,Industry
-Industrials,Industrial Services,83,0.03960987665851434,Industry
-Consumer Services,Retail,24,0.4537897899564871,Industry
-Consumer Services,Travel & Leisure,0,0.15529836361043303,Industry
-Consumer Services,Media,60,0.3829865195788018,Industry
-Transportation,Airlines,62,0.008291963075758413,Industry
-Transportation,Railroads,45,0.2675109474532852,Industry
-Transportation,Logistics,74,0.189914743197369,Industry
+,Reno,831,0.42606071092365205,Overall
+Reno,HiTech,97,0.12774175754813566,Sector
+Reno,Agriculture,28,0.13408333602483113,Sector
+Reno,Transportation,87,0.4463776880930882,Sector
+Reno,Consumer_Products,73,0.9711067406715426,Sector
+Reno,Unassigned,0,0.5104325325780007,Sector
+Reno,Communication,12,0.821146549221305,Sector
+Reno,Trade,98,0.7124830262091253,Sector
+Reno,Business_Services,26,0.4366683094510335,Sector
+Reno,Business_Products,93,0.26578582534204365,Sector
+Reno,Construction,60,0.5571640972934305,Sector
+Reno,Services,55,0.5499416240942822,Sector
+Reno,Mining,65,0.469336787185064,Sector
+Reno,Health_Care,15,0.0354993100448856,Sector
+Reno,EnergyExpL_Prod,53,0.0024210137301508006,Sector
+Reno,Utilities,69,0.35072206636786185,Sector

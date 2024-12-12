@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Nordhausen,1617,0.817343942024871,Overall
-Nordhausen,Technology,136,0.05168119217373035,Sector
-Nordhausen,Healthcare,229,0.3854774082824335,Sector
-Nordhausen,Finance,126,0.2918471229634677,Sector
-Nordhausen,Energy,143,0.5325373603028548,Sector
-Nordhausen,Consumer Goods,118,0.3490283626399484,Sector
-Nordhausen,Utilities,67,0.0899616670085045,Sector
-Nordhausen,Real Estate,85,0.8728629452474094,Sector
-Nordhausen,Telecommunications,134,0.49068210246207966,Sector
-Nordhausen,Materials,95,0.45355854330338574,Sector
-Nordhausen,Industrials,76,0.753243330159277,Sector
-Nordhausen,Consumer Services,176,0.6209268074336918,Sector
-Nordhausen,Transportation,232,0.6375193124353664,Sector
-Technology,Software,9,0.1541089899647733,Industry
-Technology,Hardware,61,0.8320767579031022,Industry
-Technology,IT Services,66,0.2027217623341252,Industry
-Healthcare,Pharmaceuticals,97,0.5129871172647226,Industry
-Healthcare,Medical Devices,75,0.3693575378585672,Industry
-Healthcare,Healthcare Services,57,0.9808364975142408,Industry
-Finance,Banking,66,0.023160445506374194,Industry
-Finance,Insurance,47,0.6978341358560604,Industry
-Finance,Investment Services,13,0.1755956183627373,Industry
-Energy,Oil & Gas,23,0.7042847968234371,Industry
-Energy,Renewable Energy,88,0.6465059407173425,Industry
-Energy,Energy Exploration,32,0.5813643022388154,Industry
-Consumer Goods,Food & Beverage,53,0.8691381409577098,Industry
-Consumer Goods,Household Products,33,0.14674743268177182,Industry
-Consumer Goods,Apparel,32,0.19567607306215562,Industry
-Utilities,Electric,58,0.1972131331691419,Industry
-Utilities,Water,9,0.5664440538517306,Industry
-Utilities,Gas,0,0.2882744360621621,Industry
-Real Estate,Residential,62,0.6936759489076474,Industry
-Real Estate,Commercial,9,0.9665763733016258,Industry
-Real Estate,Industrial,14,0.5210037747656294,Industry
-Telecommunications,Mobile,99,0.7730382931439724,Industry
-Telecommunications,Broadband,30,0.8700476607826478,Industry
-Telecommunications,Satellite,5,0.1289264588128477,Industry
-Materials,Chemicals,8,0.9078522170721345,Industry
-Materials,Metals & Mining,20,0.7912175966600178,Industry
-Materials,Construction Materials,67,0.2786237988072586,Industry
-Industrials,Aerospace & Defense,3,0.5241823790894402,Industry
-Industrials,Machinery,60,0.3326069863385086,Industry
-Industrials,Industrial Services,13,0.5824971226035249,Industry
-Consumer Services,Retail,28,0.8301667534192246,Industry
-Consumer Services,Travel & Leisure,70,0.780187284494226,Industry
-Consumer Services,Media,78,0.11895467899315915,Industry
-Transportation,Airlines,83,0.49124012289366004,Industry
-Transportation,Railroads,72,0.5959556404655905,Industry
-Transportation,Logistics,77,0.8032101307011787,Industry
+,Nordhausen,628,0.5250108221196379,Overall
+Nordhausen,HiTech,45,0.7872810446487256,Sector
+Nordhausen,Agriculture,80,0.8342744211764057,Sector
+Nordhausen,Transportation,20,0.8643176053689244,Sector
+Nordhausen,Consumer_Products,19,0.5108426314385214,Sector
+Nordhausen,Unassigned,52,0.6848623696880471,Sector
+Nordhausen,Communication,26,0.06198147805345122,Sector
+Nordhausen,Trade,59,0.05080055832294905,Sector
+Nordhausen,Business_Services,4,0.599985514070977,Sector
+Nordhausen,Business_Products,15,0.04001727452630888,Sector
+Nordhausen,Construction,55,0.8700859232739243,Sector
+Nordhausen,Services,43,0.5795076019891611,Sector
+Nordhausen,Mining,40,0.8372875810859769,Sector
+Nordhausen,Health_Care,69,0.6679434377384326,Sector
+Nordhausen,EnergyExpL_Prod,71,0.4212625482211285,Sector
+Nordhausen,Utilities,30,0.06471234219163402,Sector

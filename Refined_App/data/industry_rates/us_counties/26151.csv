@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sanilac,1816,0.29979283917687105,Overall
-Sanilac,Technology,205,0.4317674294216092,Sector
-Sanilac,Healthcare,256,0.2940944869633426,Sector
-Sanilac,Finance,94,0.6857264690291824,Sector
-Sanilac,Energy,166,0.08228809812908422,Sector
-Sanilac,Consumer Goods,165,0.020214229133936112,Sector
-Sanilac,Utilities,142,0.8735889547008984,Sector
-Sanilac,Real Estate,114,0.19797230999909132,Sector
-Sanilac,Telecommunications,169,0.0889536143681744,Sector
-Sanilac,Materials,78,0.6953729994795353,Sector
-Sanilac,Industrials,157,0.5465943636597237,Sector
-Sanilac,Consumer Services,114,0.44393814328149994,Sector
-Sanilac,Transportation,156,0.32192401056646314,Sector
-Technology,Software,88,0.4277240512679581,Industry
-Technology,Hardware,69,0.8827528039529177,Industry
-Technology,IT Services,48,0.06565834978818141,Industry
-Healthcare,Pharmaceuticals,93,0.24483650792769973,Industry
-Healthcare,Medical Devices,99,0.7547100182964896,Industry
-Healthcare,Healthcare Services,64,0.9572005388278625,Industry
-Finance,Banking,19,0.6922194038643052,Industry
-Finance,Insurance,33,0.17373195614481785,Industry
-Finance,Investment Services,42,0.23237661161360035,Industry
-Energy,Oil & Gas,18,0.47330094469779405,Industry
-Energy,Renewable Energy,97,0.8633845837517526,Industry
-Energy,Energy Exploration,51,0.9423027583751874,Industry
-Consumer Goods,Food & Beverage,82,0.5105638233539384,Industry
-Consumer Goods,Household Products,58,0.7597824891476695,Industry
-Consumer Goods,Apparel,25,0.957839730453713,Industry
-Utilities,Electric,59,0.7179066618126139,Industry
-Utilities,Water,65,0.3405262280310324,Industry
-Utilities,Gas,18,0.9170262981066551,Industry
-Real Estate,Residential,20,0.3435285973315799,Industry
-Real Estate,Commercial,30,0.779153656527906,Industry
-Real Estate,Industrial,64,0.6932929467925414,Industry
-Telecommunications,Mobile,9,0.8056608476495594,Industry
-Telecommunications,Broadband,63,0.6657373416692364,Industry
-Telecommunications,Satellite,97,0.5904251185879583,Industry
-Materials,Chemicals,1,0.3884548150994591,Industry
-Materials,Metals & Mining,40,0.5425976615347281,Industry
-Materials,Construction Materials,37,0.5318025160844416,Industry
-Industrials,Aerospace & Defense,90,0.3679495509749424,Industry
-Industrials,Machinery,24,0.7703101675968026,Industry
-Industrials,Industrial Services,43,0.16904677953332692,Industry
-Consumer Services,Retail,49,0.16375459124103342,Industry
-Consumer Services,Travel & Leisure,15,0.6731880022137486,Industry
-Consumer Services,Media,50,0.5882265132350694,Industry
-Transportation,Airlines,25,0.8415222461206023,Industry
-Transportation,Railroads,42,0.8729032811990145,Industry
-Transportation,Logistics,89,0.6437906481159118,Industry
+,Sanilac,714,0.5109200766010312,Overall
+Sanilac,HiTech,38,0.8321389282668471,Sector
+Sanilac,Agriculture,29,0.9694657987224402,Sector
+Sanilac,Transportation,60,0.13871169509180858,Sector
+Sanilac,Consumer_Products,46,0.4794966566278166,Sector
+Sanilac,Unassigned,39,0.2838589437476441,Sector
+Sanilac,Communication,87,0.396058598271268,Sector
+Sanilac,Trade,22,0.82277210859813,Sector
+Sanilac,Business_Services,37,0.7046649718848397,Sector
+Sanilac,Business_Products,30,0.3717142015288929,Sector
+Sanilac,Construction,56,0.467208431739197,Sector
+Sanilac,Services,53,0.33130202590361413,Sector
+Sanilac,Mining,73,0.5890306938038389,Sector
+Sanilac,Health_Care,92,0.9068193335513705,Sector
+Sanilac,EnergyExpL_Prod,46,0.32720893242654747,Sector
+Sanilac,Utilities,6,0.04334982885121419,Sector

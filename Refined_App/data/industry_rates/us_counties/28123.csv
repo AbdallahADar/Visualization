@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Scott,1952,0.37443873335769196,Overall
-Scott,Technology,153,0.8655947626216863,Sector
-Scott,Healthcare,134,0.8443232845999697,Sector
-Scott,Finance,95,0.5637158715801441,Sector
-Scott,Energy,179,0.6730375757540517,Sector
-Scott,Consumer Goods,136,0.8583102278606238,Sector
-Scott,Utilities,123,0.6939094664412184,Sector
-Scott,Real Estate,90,0.5154615224895854,Sector
-Scott,Telecommunications,184,0.2620929715644632,Sector
-Scott,Materials,206,0.6475390112374064,Sector
-Scott,Industrials,240,0.13367348537576074,Sector
-Scott,Consumer Services,240,0.8178448575466389,Sector
-Scott,Transportation,172,0.37982939353716516,Sector
-Technology,Software,1,0.04346475351029677,Industry
-Technology,Hardware,76,0.6160353733724432,Industry
-Technology,IT Services,76,0.7177695890356562,Industry
-Healthcare,Pharmaceuticals,32,0.2323389692065223,Industry
-Healthcare,Medical Devices,95,0.48885237481124244,Industry
-Healthcare,Healthcare Services,7,0.7895778803450255,Industry
-Finance,Banking,12,0.1543795324347369,Industry
-Finance,Insurance,57,0.8708111672519022,Industry
-Finance,Investment Services,26,0.33875263623953444,Industry
-Energy,Oil & Gas,2,0.8541097416403409,Industry
-Energy,Renewable Energy,88,0.6024665247476088,Industry
-Energy,Energy Exploration,89,0.4451255197730497,Industry
-Consumer Goods,Food & Beverage,61,0.7400367498462861,Industry
-Consumer Goods,Household Products,60,0.8312082806589524,Industry
-Consumer Goods,Apparel,15,0.3367055977821042,Industry
-Utilities,Electric,1,0.3563450304878859,Industry
-Utilities,Water,72,0.8295289030396309,Industry
-Utilities,Gas,50,0.13431523070479245,Industry
-Real Estate,Residential,67,0.7346300329436992,Industry
-Real Estate,Commercial,17,0.28301747729864923,Industry
-Real Estate,Industrial,6,0.5469289930392773,Industry
-Telecommunications,Mobile,54,0.08847667207783838,Industry
-Telecommunications,Broadband,55,0.2144873337129991,Industry
-Telecommunications,Satellite,75,0.12421048919799127,Industry
-Materials,Chemicals,64,0.8331784514823452,Industry
-Materials,Metals & Mining,52,0.2641974691570008,Industry
-Materials,Construction Materials,90,0.8483765765539967,Industry
-Industrials,Aerospace & Defense,67,0.7613216559705315,Industry
-Industrials,Machinery,95,0.5396819247750906,Industry
-Industrials,Industrial Services,78,0.8153915271116354,Industry
-Consumer Services,Retail,90,0.4569926363371559,Industry
-Consumer Services,Travel & Leisure,70,0.040953300120142755,Industry
-Consumer Services,Media,80,0.09361176840032226,Industry
-Transportation,Airlines,11,0.9979447800159333,Industry
-Transportation,Railroads,69,0.03616215354521268,Industry
-Transportation,Logistics,92,0.4502617851949673,Industry
+,Scott,676,0.49510559062946574,Overall
+Scott,HiTech,10,0.6824362210338119,Sector
+Scott,Agriculture,3,0.7093755903610851,Sector
+Scott,Transportation,60,0.39300501850756353,Sector
+Scott,Consumer_Products,80,0.7703569469685966,Sector
+Scott,Unassigned,72,0.45022377641501776,Sector
+Scott,Communication,42,0.5269848008191897,Sector
+Scott,Trade,49,0.6319464601841893,Sector
+Scott,Business_Services,66,0.046524702533248474,Sector
+Scott,Business_Products,17,0.35633944698157205,Sector
+Scott,Construction,86,0.21299878408973627,Sector
+Scott,Services,26,0.6373483475075266,Sector
+Scott,Mining,15,0.23797724475211912,Sector
+Scott,Health_Care,36,0.7630764537255251,Sector
+Scott,EnergyExpL_Prod,97,0.7915079392232812,Sector
+Scott,Utilities,17,0.2164821263395239,Sector

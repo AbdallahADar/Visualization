@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cabarrus,1943,0.7381437488509707,Overall
-Cabarrus,Technology,153,0.28132880788942094,Sector
-Cabarrus,Healthcare,162,0.35653711206903105,Sector
-Cabarrus,Finance,139,0.5860450321490578,Sector
-Cabarrus,Energy,143,0.020967486707259675,Sector
-Cabarrus,Consumer Goods,176,0.2977988735218514,Sector
-Cabarrus,Utilities,224,0.8640778462500217,Sector
-Cabarrus,Real Estate,170,0.3733913886901997,Sector
-Cabarrus,Telecommunications,113,0.02315709712090419,Sector
-Cabarrus,Materials,195,0.5462966022494918,Sector
-Cabarrus,Industrials,161,0.7506259832014429,Sector
-Cabarrus,Consumer Services,136,0.13337567398890526,Sector
-Cabarrus,Transportation,171,0.1760768322485302,Sector
-Technology,Software,64,0.28242543406594056,Industry
-Technology,Hardware,35,0.887898374894896,Industry
-Technology,IT Services,54,0.7939790072050043,Industry
-Healthcare,Pharmaceuticals,39,0.899867150773141,Industry
-Healthcare,Medical Devices,98,0.5255436517094325,Industry
-Healthcare,Healthcare Services,25,0.17554592603974573,Industry
-Finance,Banking,36,0.5520382555311741,Industry
-Finance,Insurance,71,0.15585668443866374,Industry
-Finance,Investment Services,32,0.118307658604765,Industry
-Energy,Oil & Gas,14,0.7434941667265526,Industry
-Energy,Renewable Energy,53,0.31051066276185324,Industry
-Energy,Energy Exploration,76,0.5096236418865194,Industry
-Consumer Goods,Food & Beverage,95,0.22969058232825734,Industry
-Consumer Goods,Household Products,42,0.04919699541816713,Industry
-Consumer Goods,Apparel,39,0.12018797471543186,Industry
-Utilities,Electric,44,0.3230259109827587,Industry
-Utilities,Water,89,0.5192964094525179,Industry
-Utilities,Gas,91,0.5218833345499271,Industry
-Real Estate,Residential,90,0.4939287942461994,Industry
-Real Estate,Commercial,8,0.9826899636407326,Industry
-Real Estate,Industrial,72,0.13084750438884318,Industry
-Telecommunications,Mobile,52,0.13452899480286007,Industry
-Telecommunications,Broadband,22,0.09643205342694217,Industry
-Telecommunications,Satellite,39,0.3308883704057062,Industry
-Materials,Chemicals,90,0.08609014254597325,Industry
-Materials,Metals & Mining,48,0.264216936634604,Industry
-Materials,Construction Materials,57,0.3108757639722536,Industry
-Industrials,Aerospace & Defense,29,0.2471469892355007,Industry
-Industrials,Machinery,43,0.9673136623675016,Industry
-Industrials,Industrial Services,89,0.363210441195124,Industry
-Consumer Services,Retail,58,0.6347500143859134,Industry
-Consumer Services,Travel & Leisure,13,0.9967426059541935,Industry
-Consumer Services,Media,65,0.1065648337695918,Industry
-Transportation,Airlines,69,0.638807702038558,Industry
-Transportation,Railroads,76,0.1366616899665346,Industry
-Transportation,Logistics,26,0.4464149305483087,Industry
+,Cabarrus,619,0.5812750565715171,Overall
+Cabarrus,HiTech,33,0.9426287391558145,Sector
+Cabarrus,Agriculture,33,0.8209953086798777,Sector
+Cabarrus,Transportation,49,0.4730241091012186,Sector
+Cabarrus,Consumer_Products,53,0.21101000307133788,Sector
+Cabarrus,Unassigned,65,0.878880211571284,Sector
+Cabarrus,Communication,1,0.6206054325767012,Sector
+Cabarrus,Trade,35,0.7168755972769176,Sector
+Cabarrus,Business_Services,63,0.28066208170424345,Sector
+Cabarrus,Business_Products,22,0.2516452483131695,Sector
+Cabarrus,Construction,33,0.5445338100068196,Sector
+Cabarrus,Services,96,0.6893407678369111,Sector
+Cabarrus,Mining,13,0.8879070074386838,Sector
+Cabarrus,Health_Care,89,0.7886624764309524,Sector
+Cabarrus,EnergyExpL_Prod,26,0.1075085784345019,Sector
+Cabarrus,Utilities,8,0.5048464769743248,Sector

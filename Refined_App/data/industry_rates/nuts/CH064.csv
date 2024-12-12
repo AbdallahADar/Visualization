@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Obwalden,2130,0.6058117377690782,Overall
-Obwalden,Technology,185,0.9236082466116682,Sector
-Obwalden,Healthcare,163,0.5212199596776284,Sector
-Obwalden,Finance,211,0.8921609989311805,Sector
-Obwalden,Energy,112,0.48895548577447867,Sector
-Obwalden,Consumer Goods,199,0.1075995210815327,Sector
-Obwalden,Utilities,170,0.02753199869753531,Sector
-Obwalden,Real Estate,181,0.9502218216703293,Sector
-Obwalden,Telecommunications,242,0.15736321732785785,Sector
-Obwalden,Materials,228,0.5659041839528692,Sector
-Obwalden,Industrials,199,0.11077842762278045,Sector
-Obwalden,Consumer Services,101,0.2683510189392182,Sector
-Obwalden,Transportation,139,0.8512691928709836,Sector
-Technology,Software,87,0.09809019967142574,Industry
-Technology,Hardware,27,0.7503257151030703,Industry
-Technology,IT Services,71,0.04167205401247143,Industry
-Healthcare,Pharmaceuticals,99,0.4891054124973585,Industry
-Healthcare,Medical Devices,50,0.9237555483795442,Industry
-Healthcare,Healthcare Services,14,0.6985835694152533,Industry
-Finance,Banking,98,0.5621745051187443,Industry
-Finance,Insurance,50,0.17004982218663123,Industry
-Finance,Investment Services,63,0.22609257315674058,Industry
-Energy,Oil & Gas,28,0.1588077249942066,Industry
-Energy,Renewable Energy,25,0.33316744251093333,Industry
-Energy,Energy Exploration,59,0.4405579898456634,Industry
-Consumer Goods,Food & Beverage,27,0.4293405144802156,Industry
-Consumer Goods,Household Products,93,0.5692715383048669,Industry
-Consumer Goods,Apparel,79,0.8686876365546574,Industry
-Utilities,Electric,77,0.8747231171447455,Industry
-Utilities,Water,34,0.9302421577316949,Industry
-Utilities,Gas,59,0.06359712253109306,Industry
-Real Estate,Residential,94,0.6418552576746889,Industry
-Real Estate,Commercial,68,0.7942049202238018,Industry
-Real Estate,Industrial,19,0.8395815906460605,Industry
-Telecommunications,Mobile,73,0.07367016546293759,Industry
-Telecommunications,Broadband,90,0.5411443296243509,Industry
-Telecommunications,Satellite,79,0.3572800248851583,Industry
-Materials,Chemicals,98,0.2662190656013049,Industry
-Materials,Metals & Mining,61,0.14932807734230702,Industry
-Materials,Construction Materials,69,0.7395914112731897,Industry
-Industrials,Aerospace & Defense,78,0.39363880113898264,Industry
-Industrials,Machinery,38,0.6540669451786966,Industry
-Industrials,Industrial Services,83,0.9635981817482225,Industry
-Consumer Services,Retail,93,0.3465672863575252,Industry
-Consumer Services,Travel & Leisure,2,0.8046313089510689,Industry
-Consumer Services,Media,6,0.8395442914627492,Industry
-Transportation,Airlines,40,0.30265253704072703,Industry
-Transportation,Railroads,67,0.5101219027732274,Industry
-Transportation,Logistics,32,0.3010920463918484,Industry
+,Obwalden,758,0.6266785618706855,Overall
+Obwalden,HiTech,96,0.19926199794782296,Sector
+Obwalden,Agriculture,29,0.7073862300817433,Sector
+Obwalden,Transportation,83,0.9592889784232382,Sector
+Obwalden,Consumer_Products,0,0.4187285624546293,Sector
+Obwalden,Unassigned,60,0.9932252552709131,Sector
+Obwalden,Communication,7,0.890459208797855,Sector
+Obwalden,Trade,40,0.6902091825102796,Sector
+Obwalden,Business_Services,47,0.67565246071173,Sector
+Obwalden,Business_Products,4,0.8842353935180999,Sector
+Obwalden,Construction,77,0.8243009389103775,Sector
+Obwalden,Services,77,0.5884372799709486,Sector
+Obwalden,Mining,73,0.12695521902342666,Sector
+Obwalden,Health_Care,58,0.8516578300324137,Sector
+Obwalden,EnergyExpL_Prod,53,0.48748678542498214,Sector
+Obwalden,Utilities,54,0.10289310498182158,Sector

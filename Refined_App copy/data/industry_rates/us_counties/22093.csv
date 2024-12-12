@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,St. James,1566,0.5822637552827772,Overall
+St. James,Technology,203,0.011995946661830792,Sector
+St. James,Healthcare,118,0.0924113410066234,Sector
+St. James,Finance,128,0.11602259558572248,Sector
+St. James,Energy,125,0.4649518306299485,Sector
+St. James,Consumer Goods,112,0.8099814297979345,Sector
+St. James,Utilities,148,0.4653893526035705,Sector
+St. James,Real Estate,112,0.20043960925642457,Sector
+St. James,Telecommunications,164,0.8261379995480356,Sector
+St. James,Materials,83,0.9145024978512396,Sector
+St. James,Industrials,205,0.055730784822936585,Sector
+St. James,Consumer Services,87,0.29499901059375,Sector
+St. James,Transportation,81,0.8134743069051926,Sector
+Technology,Software,88,0.41818471028384774,Industry
+Technology,Hardware,39,0.8632154556401865,Industry
+Technology,IT Services,76,0.6986380564916793,Industry
+Healthcare,Pharmaceuticals,22,0.1770660125876471,Industry
+Healthcare,Medical Devices,61,0.7928067646329853,Industry
+Healthcare,Healthcare Services,35,0.18865557085955076,Industry
+Finance,Banking,30,0.40860012020389325,Industry
+Finance,Insurance,0,0.46062155482969813,Industry
+Finance,Investment Services,98,0.6677964192959953,Industry
+Energy,Oil & Gas,33,0.2937711511545834,Industry
+Energy,Renewable Energy,41,0.10600862521073728,Industry
+Energy,Energy Exploration,51,0.2782488837124665,Industry
+Consumer Goods,Food & Beverage,29,0.6220019309642658,Industry
+Consumer Goods,Household Products,30,0.17537005109878867,Industry
+Consumer Goods,Apparel,53,0.8739037933008772,Industry
+Utilities,Electric,36,0.029791517966819225,Industry
+Utilities,Water,91,0.9873007473800807,Industry
+Utilities,Gas,21,0.9283336421493057,Industry
+Real Estate,Residential,7,0.04257969504353587,Industry
+Real Estate,Commercial,37,0.9573909777229125,Industry
+Real Estate,Industrial,68,0.9883114650259508,Industry
+Telecommunications,Mobile,89,0.6961576018763257,Industry
+Telecommunications,Broadband,17,0.4216420053571698,Industry
+Telecommunications,Satellite,58,0.4324108473789984,Industry
+Materials,Chemicals,26,0.49597387598369547,Industry
+Materials,Metals & Mining,42,0.40051857238064115,Industry
+Materials,Construction Materials,15,0.7883568348255086,Industry
+Industrials,Aerospace & Defense,63,0.7870739361607092,Industry
+Industrials,Machinery,89,0.8830332142711241,Industry
+Industrials,Industrial Services,53,0.24723609425984394,Industry
+Consumer Services,Retail,62,0.6355738782555242,Industry
+Consumer Services,Travel & Leisure,15,0.7182413351447302,Industry
+Consumer Services,Media,10,0.3729096980936,Industry
+Transportation,Airlines,6,0.41472888269138475,Industry
+Transportation,Railroads,6,0.810156384149848,Industry
+Transportation,Logistics,69,0.41106473215701866,Industry

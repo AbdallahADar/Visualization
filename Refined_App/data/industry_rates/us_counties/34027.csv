@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Morris,1981,0.7335451353718802,Overall
-Morris,Technology,149,0.6711277108397903,Sector
-Morris,Healthcare,77,0.7675784308067737,Sector
-Morris,Finance,233,0.2518139142251421,Sector
-Morris,Energy,140,0.697382268065113,Sector
-Morris,Consumer Goods,188,0.07527351741566024,Sector
-Morris,Utilities,189,0.2181535784126638,Sector
-Morris,Real Estate,116,0.13864638327967882,Sector
-Morris,Telecommunications,210,0.6844956107310843,Sector
-Morris,Materials,140,0.6515678289200799,Sector
-Morris,Industrials,206,0.72425611108229,Sector
-Morris,Consumer Services,152,0.30360626242027144,Sector
-Morris,Transportation,181,0.8857762026827186,Sector
-Technology,Software,87,0.04543111857180315,Industry
-Technology,Hardware,32,0.6593898129243247,Industry
-Technology,IT Services,30,0.1979474610202714,Industry
-Healthcare,Pharmaceuticals,12,0.2768230387308088,Industry
-Healthcare,Medical Devices,53,0.32636490369052695,Industry
-Healthcare,Healthcare Services,12,0.24607031210848418,Industry
-Finance,Banking,83,0.6867978089783342,Industry
-Finance,Insurance,80,0.6430874910921192,Industry
-Finance,Investment Services,70,0.24495803617120981,Industry
-Energy,Oil & Gas,52,0.13369914029317975,Industry
-Energy,Renewable Energy,85,0.5263036401445981,Industry
-Energy,Energy Exploration,3,0.46851015403314955,Industry
-Consumer Goods,Food & Beverage,84,0.6994691359661925,Industry
-Consumer Goods,Household Products,70,0.13437105533422078,Industry
-Consumer Goods,Apparel,34,0.41339317756274996,Industry
-Utilities,Electric,80,0.6826241256319991,Industry
-Utilities,Water,96,0.13661786562920686,Industry
-Utilities,Gas,13,0.8852000533242183,Industry
-Real Estate,Residential,5,0.18484806239958063,Industry
-Real Estate,Commercial,99,0.2956753297226111,Industry
-Real Estate,Industrial,12,0.614824472909798,Industry
-Telecommunications,Mobile,35,0.32238730720666275,Industry
-Telecommunications,Broadband,98,0.8594516901974395,Industry
-Telecommunications,Satellite,77,0.4002504350372632,Industry
-Materials,Chemicals,97,0.5144593903906434,Industry
-Materials,Metals & Mining,15,0.8565929459143237,Industry
-Materials,Construction Materials,28,0.15208487953723449,Industry
-Industrials,Aerospace & Defense,78,0.7152394297090297,Industry
-Industrials,Machinery,41,0.5325303651220952,Industry
-Industrials,Industrial Services,87,0.7763028568973763,Industry
-Consumer Services,Retail,29,0.4306692829107992,Industry
-Consumer Services,Travel & Leisure,72,0.3435954214027258,Industry
-Consumer Services,Media,51,0.3760359644574299,Industry
-Transportation,Airlines,88,0.5130111697879317,Industry
-Transportation,Railroads,11,0.9460634753471614,Industry
-Transportation,Logistics,82,0.2298521553551217,Industry
+,Morris,698,0.5288876199961445,Overall
+Morris,HiTech,6,0.29829971010144263,Sector
+Morris,Agriculture,73,0.22536770295115116,Sector
+Morris,Transportation,87,0.6281469217433315,Sector
+Morris,Consumer_Products,26,0.7107868721919156,Sector
+Morris,Unassigned,74,0.8218226415887865,Sector
+Morris,Communication,38,0.9453355363079988,Sector
+Morris,Trade,46,0.43748081743606293,Sector
+Morris,Business_Services,69,0.8513628701391988,Sector
+Morris,Business_Products,29,0.5900439517714644,Sector
+Morris,Construction,3,0.34951190136030275,Sector
+Morris,Services,49,0.36209671711676805,Sector
+Morris,Mining,62,0.04685700713353447,Sector
+Morris,Health_Care,30,0.7122280930440218,Sector
+Morris,EnergyExpL_Prod,61,0.5256040463615115,Sector
+Morris,Utilities,45,0.42836951069467655,Sector

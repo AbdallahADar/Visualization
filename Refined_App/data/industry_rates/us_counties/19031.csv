@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cedar,1843,0.357494799758433,Overall
-Cedar,Technology,131,0.3240926131929096,Sector
-Cedar,Healthcare,254,0.05068063291368208,Sector
-Cedar,Finance,155,0.42601735186792,Sector
-Cedar,Energy,147,0.6348328690921693,Sector
-Cedar,Consumer Goods,92,0.6315779210990862,Sector
-Cedar,Utilities,150,0.13634265652649613,Sector
-Cedar,Real Estate,111,0.5165760107828453,Sector
-Cedar,Telecommunications,160,0.6159275873622014,Sector
-Cedar,Materials,221,0.5995075038298376,Sector
-Cedar,Industrials,104,0.756551512691714,Sector
-Cedar,Consumer Services,181,0.24609014596450907,Sector
-Cedar,Transportation,137,0.6578813074746105,Sector
-Technology,Software,9,0.1728975113929807,Industry
-Technology,Hardware,35,0.4980870395675543,Industry
-Technology,IT Services,87,0.7342946328477675,Industry
-Healthcare,Pharmaceuticals,96,0.3317781671893313,Industry
-Healthcare,Medical Devices,90,0.9622098840915754,Industry
-Healthcare,Healthcare Services,68,0.07837966139989694,Industry
-Finance,Banking,61,0.4970043435695535,Industry
-Finance,Insurance,52,0.03266389947315751,Industry
-Finance,Investment Services,42,0.3200320931489744,Industry
-Energy,Oil & Gas,45,0.3024932054958175,Industry
-Energy,Renewable Energy,81,0.7890252747815246,Industry
-Energy,Energy Exploration,21,0.22197840943898772,Industry
-Consumer Goods,Food & Beverage,37,0.8180168095416286,Industry
-Consumer Goods,Household Products,3,0.8593885719024799,Industry
-Consumer Goods,Apparel,52,0.024747666419125958,Industry
-Utilities,Electric,94,0.31154597325255806,Industry
-Utilities,Water,17,0.43417948780160076,Industry
-Utilities,Gas,39,0.8235063173326067,Industry
-Real Estate,Residential,35,0.14054179188630933,Industry
-Real Estate,Commercial,32,0.47899361171420296,Industry
-Real Estate,Industrial,44,0.141115539091076,Industry
-Telecommunications,Mobile,55,0.13414116487263272,Industry
-Telecommunications,Broadband,35,0.18327941788817426,Industry
-Telecommunications,Satellite,70,0.22307112110085514,Industry
-Materials,Chemicals,53,0.4707514789643118,Industry
-Materials,Metals & Mining,89,0.7236337641826122,Industry
-Materials,Construction Materials,79,0.4603571222311149,Industry
-Industrials,Aerospace & Defense,30,0.08127162144900635,Industry
-Industrials,Machinery,19,0.917551199785413,Industry
-Industrials,Industrial Services,55,0.2590456198663198,Industry
-Consumer Services,Retail,95,0.7543364471175759,Industry
-Consumer Services,Travel & Leisure,75,0.5851869567457257,Industry
-Consumer Services,Media,11,0.719237738301899,Industry
-Transportation,Airlines,14,0.2688160787703219,Industry
-Transportation,Railroads,56,0.30505514778686893,Industry
-Transportation,Logistics,67,0.08124012393741542,Industry
+,Cedar,614,0.47912592171950574,Overall
+Cedar,HiTech,40,0.7725094447547296,Sector
+Cedar,Agriculture,21,0.42261425572934375,Sector
+Cedar,Transportation,50,0.7054032634836201,Sector
+Cedar,Consumer_Products,80,0.6134246335189675,Sector
+Cedar,Unassigned,22,0.4631546909590376,Sector
+Cedar,Communication,58,0.03724532889874044,Sector
+Cedar,Trade,43,0.3151595848686468,Sector
+Cedar,Business_Services,68,0.6748344481847497,Sector
+Cedar,Business_Products,33,0.529932349023569,Sector
+Cedar,Construction,12,0.7926808682196792,Sector
+Cedar,Services,24,0.3283877347180444,Sector
+Cedar,Mining,77,0.218382823170431,Sector
+Cedar,Health_Care,15,0.20501035992222394,Sector
+Cedar,EnergyExpL_Prod,52,0.21923593242989825,Sector
+Cedar,Utilities,19,0.8889131079109052,Sector

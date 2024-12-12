@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Goslar,1779,0.24263299993860854,Overall
-Goslar,Technology,116,0.004811292383137267,Sector
-Goslar,Healthcare,225,0.1371795535889001,Sector
-Goslar,Finance,174,0.5224863829675841,Sector
-Goslar,Energy,125,0.26939138687143305,Sector
-Goslar,Consumer Goods,160,0.0672179723365195,Sector
-Goslar,Utilities,127,0.2774820830749606,Sector
-Goslar,Real Estate,113,0.12436925543919641,Sector
-Goslar,Telecommunications,144,0.7268183796988719,Sector
-Goslar,Materials,195,0.22659892592829534,Sector
-Goslar,Industrials,81,0.48004854259910323,Sector
-Goslar,Consumer Services,165,0.10013662294796444,Sector
-Goslar,Transportation,154,0.5225112052209048,Sector
-Technology,Software,21,0.38418210988112433,Industry
-Technology,Hardware,75,0.5737210118515428,Industry
-Technology,IT Services,20,0.6596464543572609,Industry
-Healthcare,Pharmaceuticals,53,0.693208913640022,Industry
-Healthcare,Medical Devices,87,0.25909114083565776,Industry
-Healthcare,Healthcare Services,85,0.286134844063463,Industry
-Finance,Banking,75,0.1722741367898588,Industry
-Finance,Insurance,40,0.23770131747968815,Industry
-Finance,Investment Services,59,0.23098387922596664,Industry
-Energy,Oil & Gas,24,0.8931513739808558,Industry
-Energy,Renewable Energy,84,0.3238667235016781,Industry
-Energy,Energy Exploration,17,0.6607430311769095,Industry
-Consumer Goods,Food & Beverage,95,0.298942868737894,Industry
-Consumer Goods,Household Products,18,0.4731564450167618,Industry
-Consumer Goods,Apparel,47,0.3655103347490519,Industry
-Utilities,Electric,72,0.9410230954475419,Industry
-Utilities,Water,6,0.7681960034302624,Industry
-Utilities,Gas,49,0.9844652003105386,Industry
-Real Estate,Residential,4,0.0660700033360957,Industry
-Real Estate,Commercial,45,0.054528677347859156,Industry
-Real Estate,Industrial,64,0.8859018914118907,Industry
-Telecommunications,Mobile,17,0.987357951662573,Industry
-Telecommunications,Broadband,74,0.30854165726439553,Industry
-Telecommunications,Satellite,53,0.485103067264659,Industry
-Materials,Chemicals,22,0.17921808175489873,Industry
-Materials,Metals & Mining,79,0.469396635949614,Industry
-Materials,Construction Materials,94,0.8304580934132522,Industry
-Industrials,Aerospace & Defense,22,0.00854664569349406,Industry
-Industrials,Machinery,8,0.17300359677685628,Industry
-Industrials,Industrial Services,51,0.7086122596141053,Industry
-Consumer Services,Retail,54,0.587084767085079,Industry
-Consumer Services,Travel & Leisure,72,0.5786044530557829,Industry
-Consumer Services,Media,39,0.045967738464425145,Industry
-Transportation,Airlines,64,0.27216267005881745,Industry
-Transportation,Railroads,57,0.5253879379488701,Industry
-Transportation,Logistics,33,0.8958425034053845,Industry
+,Goslar,797,0.3895714908547168,Overall
+Goslar,HiTech,76,0.30397209807473335,Sector
+Goslar,Agriculture,81,0.7353319895371251,Sector
+Goslar,Transportation,28,0.4429576449466879,Sector
+Goslar,Consumer_Products,89,0.5803745512952024,Sector
+Goslar,Unassigned,60,0.3339212167147845,Sector
+Goslar,Communication,89,0.12907560113636773,Sector
+Goslar,Trade,50,0.1400526189240252,Sector
+Goslar,Business_Services,70,0.47472692237712866,Sector
+Goslar,Business_Products,50,0.4660094105050637,Sector
+Goslar,Construction,58,0.45509501600281377,Sector
+Goslar,Services,12,0.794472084453551,Sector
+Goslar,Mining,2,0.7257040161001517,Sector
+Goslar,Health_Care,74,0.14159409863701244,Sector
+Goslar,EnergyExpL_Prod,38,0.07886059450453009,Sector
+Goslar,Utilities,20,0.04142449961157424,Sector

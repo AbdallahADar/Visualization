@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Spotsylvania,1818,0.7081915130808472,Overall
-Spotsylvania,Technology,177,0.03293431357370036,Sector
-Spotsylvania,Healthcare,158,0.8900763580204608,Sector
-Spotsylvania,Finance,182,0.7912217732147783,Sector
-Spotsylvania,Energy,111,0.7472713227177634,Sector
-Spotsylvania,Consumer Goods,121,0.41718292358133036,Sector
-Spotsylvania,Utilities,171,0.2927632507935478,Sector
-Spotsylvania,Real Estate,154,0.579524897689037,Sector
-Spotsylvania,Telecommunications,192,0.8270938086782528,Sector
-Spotsylvania,Materials,74,0.6397967605258904,Sector
-Spotsylvania,Industrials,154,0.6513074818922685,Sector
-Spotsylvania,Consumer Services,207,0.7674060581825073,Sector
-Spotsylvania,Transportation,117,0.9970486616033304,Sector
-Technology,Software,77,0.8744855985525489,Industry
-Technology,Hardware,14,0.0917156687541214,Industry
-Technology,IT Services,86,0.44698444205767973,Industry
-Healthcare,Pharmaceuticals,49,0.167083275306546,Industry
-Healthcare,Medical Devices,55,0.19840374049644482,Industry
-Healthcare,Healthcare Services,54,0.7266825636368418,Industry
-Finance,Banking,90,0.6160048956575774,Industry
-Finance,Insurance,69,0.14129471905661173,Industry
-Finance,Investment Services,23,0.6300584843971931,Industry
-Energy,Oil & Gas,84,0.8013120394171811,Industry
-Energy,Renewable Energy,4,0.9145065552962897,Industry
-Energy,Energy Exploration,23,0.5495583821027387,Industry
-Consumer Goods,Food & Beverage,40,0.5717292307133935,Industry
-Consumer Goods,Household Products,22,0.342267896915314,Industry
-Consumer Goods,Apparel,59,0.6324511615991154,Industry
-Utilities,Electric,48,0.373656961604133,Industry
-Utilities,Water,92,0.8427735708382619,Industry
-Utilities,Gas,31,0.2958174617962239,Industry
-Real Estate,Residential,44,0.7181587417913219,Industry
-Real Estate,Commercial,86,0.41809574002093297,Industry
-Real Estate,Industrial,24,0.34520208376118744,Industry
-Telecommunications,Mobile,85,0.34170843700323406,Industry
-Telecommunications,Broadband,11,0.4426844593756951,Industry
-Telecommunications,Satellite,96,0.5506670519477942,Industry
-Materials,Chemicals,39,0.17121290411794066,Industry
-Materials,Metals & Mining,20,0.23268438981919148,Industry
-Materials,Construction Materials,15,0.5432286769635618,Industry
-Industrials,Aerospace & Defense,21,0.22140244587067248,Industry
-Industrials,Machinery,76,0.8757898371654425,Industry
-Industrials,Industrial Services,57,0.9974218206017144,Industry
-Consumer Services,Retail,78,0.5224322290085903,Industry
-Consumer Services,Travel & Leisure,37,0.5471775796962315,Industry
-Consumer Services,Media,92,0.2571927874858003,Industry
-Transportation,Airlines,1,0.6434707649557361,Industry
-Transportation,Railroads,83,0.9938138793647784,Industry
-Transportation,Logistics,33,0.6304807837506433,Industry
+,Spotsylvania,929,0.4854323387054413,Overall
+Spotsylvania,HiTech,16,0.1855346231222047,Sector
+Spotsylvania,Agriculture,34,0.5563877813629079,Sector
+Spotsylvania,Transportation,73,0.4523426537767712,Sector
+Spotsylvania,Consumer_Products,63,0.3858291502384288,Sector
+Spotsylvania,Unassigned,17,0.7510722483872107,Sector
+Spotsylvania,Communication,66,0.36364307833653287,Sector
+Spotsylvania,Trade,79,0.2725377603949296,Sector
+Spotsylvania,Business_Services,81,0.05583302795310219,Sector
+Spotsylvania,Business_Products,88,0.8085558083436887,Sector
+Spotsylvania,Construction,81,0.807130819352834,Sector
+Spotsylvania,Services,63,0.8645139182482907,Sector
+Spotsylvania,Mining,32,0.6888723304527696,Sector
+Spotsylvania,Health_Care,98,0.5787709869395825,Sector
+Spotsylvania,EnergyExpL_Prod,54,0.014565309517674985,Sector
+Spotsylvania,Utilities,84,0.4958955841546918,Sector

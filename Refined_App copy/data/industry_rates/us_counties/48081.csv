@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Coke,1778,0.5335845369404032,Overall
+Coke,Technology,75,0.2639326181649001,Sector
+Coke,Healthcare,182,0.2310950275352296,Sector
+Coke,Finance,190,0.04041024734662679,Sector
+Coke,Energy,170,0.8443587659190697,Sector
+Coke,Consumer Goods,70,0.477562467663189,Sector
+Coke,Utilities,181,0.37756125305207433,Sector
+Coke,Real Estate,80,0.33876369361840064,Sector
+Coke,Telecommunications,191,0.4375580216022634,Sector
+Coke,Materials,109,0.2675560998923415,Sector
+Coke,Industrials,192,0.6488635559795548,Sector
+Coke,Consumer Services,121,0.9145083077158895,Sector
+Coke,Transportation,217,0.40247765183953144,Sector
+Technology,Software,5,0.4332005626962787,Industry
+Technology,Hardware,29,0.694526711033924,Industry
+Technology,IT Services,41,0.7326442458256589,Industry
+Healthcare,Pharmaceuticals,22,0.054983004432986204,Industry
+Healthcare,Medical Devices,92,0.18152641279252757,Industry
+Healthcare,Healthcare Services,68,0.721071941136932,Industry
+Finance,Banking,70,0.9694205524420382,Industry
+Finance,Insurance,37,0.9421460358724446,Industry
+Finance,Investment Services,83,0.35120133407975007,Industry
+Energy,Oil & Gas,99,0.7630880123442987,Industry
+Energy,Renewable Energy,70,0.3425537999140371,Industry
+Energy,Energy Exploration,1,0.5979390630353535,Industry
+Consumer Goods,Food & Beverage,16,0.6541753814740305,Industry
+Consumer Goods,Household Products,52,0.7391483321599962,Industry
+Consumer Goods,Apparel,2,0.32648479288825216,Industry
+Utilities,Electric,84,0.14300199546119685,Industry
+Utilities,Water,2,0.054310921812022905,Industry
+Utilities,Gas,95,0.8099741937987431,Industry
+Real Estate,Residential,48,0.29798308563581555,Industry
+Real Estate,Commercial,25,0.40055307644005744,Industry
+Real Estate,Industrial,7,0.15011811815124276,Industry
+Telecommunications,Mobile,86,0.7233273976480414,Industry
+Telecommunications,Broadband,54,0.8617664149443762,Industry
+Telecommunications,Satellite,51,0.09336072440852095,Industry
+Materials,Chemicals,41,0.5450944509535401,Industry
+Materials,Metals & Mining,1,0.16887800666661945,Industry
+Materials,Construction Materials,67,0.13872757639749767,Industry
+Industrials,Aerospace & Defense,45,0.3694968416747122,Industry
+Industrials,Machinery,69,0.9016831991034066,Industry
+Industrials,Industrial Services,78,0.2956862025821233,Industry
+Consumer Services,Retail,19,0.7368338789782396,Industry
+Consumer Services,Travel & Leisure,39,0.8045452461173718,Industry
+Consumer Services,Media,63,0.8947992799263839,Industry
+Transportation,Airlines,92,0.35706242892811424,Industry
+Transportation,Railroads,99,0.34713624847445734,Industry
+Transportation,Logistics,26,0.10817570969930979,Industry

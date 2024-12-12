@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kardzhali,1762,0.12397040802797588,Overall
-Kardzhali,Technology,129,0.8565956147324549,Sector
-Kardzhali,Healthcare,181,0.9685039001947483,Sector
-Kardzhali,Finance,181,0.5156822392600114,Sector
-Kardzhali,Energy,147,0.6916899300234004,Sector
-Kardzhali,Consumer Goods,195,0.4903057731227718,Sector
-Kardzhali,Utilities,76,0.6186542597023169,Sector
-Kardzhali,Real Estate,141,0.5440410093556447,Sector
-Kardzhali,Telecommunications,124,0.6716321440661699,Sector
-Kardzhali,Materials,130,0.6416759095487616,Sector
-Kardzhali,Industrials,138,0.18630825030273734,Sector
-Kardzhali,Consumer Services,178,0.42635363119017955,Sector
-Kardzhali,Transportation,142,0.49659962939865887,Sector
-Technology,Software,57,0.05979360222058605,Industry
-Technology,Hardware,29,0.20116813049025417,Industry
-Technology,IT Services,43,0.5941788782454401,Industry
-Healthcare,Pharmaceuticals,79,0.011414500640546943,Industry
-Healthcare,Medical Devices,41,0.2379078047943598,Industry
-Healthcare,Healthcare Services,61,0.7317006553536695,Industry
-Finance,Banking,41,0.0291324823246768,Industry
-Finance,Insurance,94,0.45439697839808235,Industry
-Finance,Investment Services,46,0.9731231378472878,Industry
-Energy,Oil & Gas,57,0.17283554973447068,Industry
-Energy,Renewable Energy,30,0.7428437220460222,Industry
-Energy,Energy Exploration,60,0.5507882110651328,Industry
-Consumer Goods,Food & Beverage,17,0.9702550640957185,Industry
-Consumer Goods,Household Products,90,0.9531625087825653,Industry
-Consumer Goods,Apparel,88,0.45513571716436463,Industry
-Utilities,Electric,29,0.19017571293602653,Industry
-Utilities,Water,6,0.2860692461102857,Industry
-Utilities,Gas,41,0.19911106781360388,Industry
-Real Estate,Residential,42,0.036033684723337456,Industry
-Real Estate,Commercial,67,0.6107316276804025,Industry
-Real Estate,Industrial,32,0.46904335959067567,Industry
-Telecommunications,Mobile,25,0.03123188547352629,Industry
-Telecommunications,Broadband,74,0.07898543600029118,Industry
-Telecommunications,Satellite,25,0.11449771093816852,Industry
-Materials,Chemicals,24,0.33631975283068005,Industry
-Materials,Metals & Mining,77,0.5540869249495576,Industry
-Materials,Construction Materials,29,0.8936408603537557,Industry
-Industrials,Aerospace & Defense,24,0.779719511655611,Industry
-Industrials,Machinery,87,0.3056478834924212,Industry
-Industrials,Industrial Services,27,0.4450440716586159,Industry
-Consumer Services,Retail,14,0.44178475796216865,Industry
-Consumer Services,Travel & Leisure,97,0.6787776409928256,Industry
-Consumer Services,Media,67,0.37007033385521704,Industry
-Transportation,Airlines,60,0.8045638229854258,Industry
-Transportation,Railroads,43,0.24741788223180117,Industry
-Transportation,Logistics,39,0.8295147544713418,Industry
+,Kardzhali,705,0.385266511897709,Overall
+Kardzhali,HiTech,40,0.5332891117121745,Sector
+Kardzhali,Agriculture,0,0.04162058010746761,Sector
+Kardzhali,Transportation,40,0.794132959275187,Sector
+Kardzhali,Consumer_Products,72,0.5345217540799792,Sector
+Kardzhali,Unassigned,76,0.5310143634257759,Sector
+Kardzhali,Communication,54,0.7771659158494865,Sector
+Kardzhali,Trade,84,0.5090486566528244,Sector
+Kardzhali,Business_Services,21,0.6677677219294806,Sector
+Kardzhali,Business_Products,53,0.7011133911592929,Sector
+Kardzhali,Construction,19,0.003035220882762424,Sector
+Kardzhali,Services,47,0.12258492121171038,Sector
+Kardzhali,Mining,91,0.10551181147648159,Sector
+Kardzhali,Health_Care,7,0.004736137434868781,Sector
+Kardzhali,EnergyExpL_Prod,18,0.17246834495981966,Sector
+Kardzhali,Utilities,83,0.28098678830832313,Sector

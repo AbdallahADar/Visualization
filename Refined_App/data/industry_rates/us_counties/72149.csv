@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Villalba,1822,0.7635290600226093,Overall
-Villalba,Technology,95,0.21940292414098372,Sector
-Villalba,Healthcare,245,0.5632562428161642,Sector
-Villalba,Finance,186,0.21505102717895141,Sector
-Villalba,Energy,189,0.2938471406136878,Sector
-Villalba,Consumer Goods,145,0.004896321013761584,Sector
-Villalba,Utilities,93,0.8118167676972985,Sector
-Villalba,Real Estate,214,0.5926314532842187,Sector
-Villalba,Telecommunications,80,0.6137152588114261,Sector
-Villalba,Materials,105,0.18861085501512975,Sector
-Villalba,Industrials,130,0.23126183919197552,Sector
-Villalba,Consumer Services,178,0.8483938755398822,Sector
-Villalba,Transportation,162,0.7218983134100027,Sector
-Technology,Software,8,0.47092952649757724,Industry
-Technology,Hardware,3,0.9534523961647793,Industry
-Technology,IT Services,84,0.8647384476743994,Industry
-Healthcare,Pharmaceuticals,62,0.5812049113160067,Industry
-Healthcare,Medical Devices,95,0.6712926921823541,Industry
-Healthcare,Healthcare Services,88,0.2324288461625139,Industry
-Finance,Banking,89,0.3347277861996315,Industry
-Finance,Insurance,67,0.453653653832665,Industry
-Finance,Investment Services,30,0.3281958320933821,Industry
-Energy,Oil & Gas,72,0.30725526605163356,Industry
-Energy,Renewable Energy,90,0.16384856976874906,Industry
-Energy,Energy Exploration,27,0.20877902915834923,Industry
-Consumer Goods,Food & Beverage,41,0.8626704073416477,Industry
-Consumer Goods,Household Products,77,0.1401132391722245,Industry
-Consumer Goods,Apparel,27,0.9941454157702738,Industry
-Utilities,Electric,68,0.18859537643872804,Industry
-Utilities,Water,21,0.5294168827604377,Industry
-Utilities,Gas,4,0.1725375663000135,Industry
-Real Estate,Residential,78,0.22906284391740728,Industry
-Real Estate,Commercial,79,0.5324131794973642,Industry
-Real Estate,Industrial,57,0.7224577770608681,Industry
-Telecommunications,Mobile,30,0.31609629553373375,Industry
-Telecommunications,Broadband,11,0.2921528335803356,Industry
-Telecommunications,Satellite,39,0.05212652857034539,Industry
-Materials,Chemicals,54,0.2245002888810408,Industry
-Materials,Metals & Mining,50,0.6371606270844026,Industry
-Materials,Construction Materials,1,0.49085916219180437,Industry
-Industrials,Aerospace & Defense,82,0.5820478899877412,Industry
-Industrials,Machinery,35,0.7294960840040632,Industry
-Industrials,Industrial Services,13,0.20611151720055865,Industry
-Consumer Services,Retail,86,0.5330906534894225,Industry
-Consumer Services,Travel & Leisure,48,0.0627082950342156,Industry
-Consumer Services,Media,44,0.09640935538114148,Industry
-Transportation,Airlines,47,0.3102491358699718,Industry
-Transportation,Railroads,35,0.12638826433891703,Industry
-Transportation,Logistics,80,0.25154622047593644,Industry
+,Villalba,687,0.3967707464907424,Overall
+Villalba,HiTech,32,0.1595426324922008,Sector
+Villalba,Agriculture,52,0.416501716811321,Sector
+Villalba,Transportation,60,0.03016746772012513,Sector
+Villalba,Consumer_Products,9,0.41465064145262465,Sector
+Villalba,Unassigned,26,0.27357974629589554,Sector
+Villalba,Communication,50,0.5782386120691164,Sector
+Villalba,Trade,80,0.642549701515074,Sector
+Villalba,Business_Services,83,0.38905432956144803,Sector
+Villalba,Business_Products,73,0.34062514780151354,Sector
+Villalba,Construction,5,0.9597301900463537,Sector
+Villalba,Services,7,0.10799293779725838,Sector
+Villalba,Mining,26,0.3574180277883223,Sector
+Villalba,Health_Care,99,0.5742039100618951,Sector
+Villalba,EnergyExpL_Prod,66,0.13391166666585985,Sector
+Villalba,Utilities,19,0.5733944692821294,Sector

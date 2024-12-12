@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Morton,1872,0.7160719798133374,Overall
-Morton,Technology,245,0.6915979844676109,Sector
-Morton,Healthcare,124,0.6728940455080126,Sector
-Morton,Finance,177,0.34714033993782023,Sector
-Morton,Energy,253,0.058947788558705194,Sector
-Morton,Consumer Goods,127,0.2945922919035532,Sector
-Morton,Utilities,152,0.4599301608046651,Sector
-Morton,Real Estate,128,0.9778907829869771,Sector
-Morton,Telecommunications,78,0.8598642045366075,Sector
-Morton,Materials,165,0.7558276843531645,Sector
-Morton,Industrials,89,0.08563020715397729,Sector
-Morton,Consumer Services,145,0.18587217549868407,Sector
-Morton,Transportation,189,0.8328696914093511,Sector
-Technology,Software,72,0.596630788378196,Industry
-Technology,Hardware,95,0.37880566394178505,Industry
-Technology,IT Services,78,0.6405806015474832,Industry
-Healthcare,Pharmaceuticals,2,0.7549866184259956,Industry
-Healthcare,Medical Devices,41,0.12632226762615295,Industry
-Healthcare,Healthcare Services,81,0.016895180658020648,Industry
-Finance,Banking,74,0.7361445602293136,Industry
-Finance,Insurance,84,0.8158484577273559,Industry
-Finance,Investment Services,19,0.48922689787065243,Industry
-Energy,Oil & Gas,96,0.2402613102948017,Industry
-Energy,Renewable Energy,85,0.03099428866384124,Industry
-Energy,Energy Exploration,72,0.6778355969428288,Industry
-Consumer Goods,Food & Beverage,99,0.818715947539332,Industry
-Consumer Goods,Household Products,5,0.9391690186119153,Industry
-Consumer Goods,Apparel,23,0.9170621769061679,Industry
-Utilities,Electric,62,0.7119583440825915,Industry
-Utilities,Water,1,0.9772672123155453,Industry
-Utilities,Gas,89,0.6376589154504402,Industry
-Real Estate,Residential,19,0.6190464665121665,Industry
-Real Estate,Commercial,92,0.15718990057736326,Industry
-Real Estate,Industrial,17,0.7435334535849616,Industry
-Telecommunications,Mobile,0,0.9974534666498572,Industry
-Telecommunications,Broadband,57,0.3561440661723281,Industry
-Telecommunications,Satellite,21,0.13893154057110302,Industry
-Materials,Chemicals,7,0.29539014738566793,Industry
-Materials,Metals & Mining,84,0.7766349732502457,Industry
-Materials,Construction Materials,74,0.9608093781514903,Industry
-Industrials,Aerospace & Defense,0,0.8313959865511471,Industry
-Industrials,Machinery,2,0.717942954347321,Industry
-Industrials,Industrial Services,87,0.17094519304455136,Industry
-Consumer Services,Retail,76,0.6037887291970507,Industry
-Consumer Services,Travel & Leisure,27,0.24342136029881523,Industry
-Consumer Services,Media,42,0.2578406391965893,Industry
-Transportation,Airlines,89,0.16032572685024893,Industry
-Transportation,Railroads,63,0.4498318569625084,Industry
-Transportation,Logistics,37,0.07770527662524918,Industry
+,Morton,633,0.4755928010081556,Overall
+Morton,HiTech,88,0.665984207272134,Sector
+Morton,Agriculture,60,0.39319624753766624,Sector
+Morton,Transportation,33,0.8957526263474623,Sector
+Morton,Consumer_Products,51,0.044266452533953116,Sector
+Morton,Unassigned,85,0.11033258518189593,Sector
+Morton,Communication,16,0.20739271243749535,Sector
+Morton,Trade,48,0.4085093401587655,Sector
+Morton,Business_Services,21,0.4478513657785801,Sector
+Morton,Business_Products,8,0.4277455347827309,Sector
+Morton,Construction,29,0.5309025286330409,Sector
+Morton,Services,6,0.0030007342483724386,Sector
+Morton,Mining,5,0.893268770600739,Sector
+Morton,Health_Care,54,0.30030144899660316,Sector
+Morton,EnergyExpL_Prod,83,0.9756360406522216,Sector
+Morton,Utilities,46,0.8297514199606738,Sector

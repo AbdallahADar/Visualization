@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Arecibo,2174,0.6750968765349741,Overall
-Arecibo,Technology,192,0.6337312029578278,Sector
-Arecibo,Healthcare,128,0.1822505298026752,Sector
-Arecibo,Finance,183,0.8463020950483646,Sector
-Arecibo,Energy,233,0.9180135168899909,Sector
-Arecibo,Consumer Goods,222,0.47222747209807425,Sector
-Arecibo,Utilities,225,0.18112253760363117,Sector
-Arecibo,Real Estate,218,0.26490999108716684,Sector
-Arecibo,Telecommunications,121,0.9860199670924905,Sector
-Arecibo,Materials,129,0.14156024064533335,Sector
-Arecibo,Industrials,186,0.5905156223636631,Sector
-Arecibo,Consumer Services,162,0.6928449021610492,Sector
-Arecibo,Transportation,175,0.03269356593013495,Sector
-Technology,Software,77,0.8580307233247166,Industry
-Technology,Hardware,58,0.5303477938309424,Industry
-Technology,IT Services,57,0.470412800455555,Industry
-Healthcare,Pharmaceuticals,27,0.37298738015563815,Industry
-Healthcare,Medical Devices,54,0.9449186870196968,Industry
-Healthcare,Healthcare Services,47,0.8490655219659219,Industry
-Finance,Banking,17,0.06846173052753901,Industry
-Finance,Insurance,84,0.3465994402974729,Industry
-Finance,Investment Services,82,0.34042475650437287,Industry
-Energy,Oil & Gas,53,0.8932685470142406,Industry
-Energy,Renewable Energy,99,0.06765179018074752,Industry
-Energy,Energy Exploration,81,0.6583512982835701,Industry
-Consumer Goods,Food & Beverage,76,0.4614611244861886,Industry
-Consumer Goods,Household Products,76,0.1707845186889958,Industry
-Consumer Goods,Apparel,70,0.7137219886413281,Industry
-Utilities,Electric,72,0.2374984214161462,Industry
-Utilities,Water,79,0.6909887519074398,Industry
-Utilities,Gas,74,0.32444571900029806,Industry
-Real Estate,Residential,82,0.3619008611090989,Industry
-Real Estate,Commercial,72,0.7199756640467682,Industry
-Real Estate,Industrial,64,0.5715029910556071,Industry
-Telecommunications,Mobile,58,0.7880507372245494,Industry
-Telecommunications,Broadband,38,0.10201530802527115,Industry
-Telecommunications,Satellite,25,0.22007705845932968,Industry
-Materials,Chemicals,35,0.2888705480062256,Industry
-Materials,Metals & Mining,25,0.9974638443827729,Industry
-Materials,Construction Materials,69,0.7445867921628705,Industry
-Industrials,Aerospace & Defense,97,0.3248699908078373,Industry
-Industrials,Machinery,66,0.09712719907630107,Industry
-Industrials,Industrial Services,23,0.8960953794024771,Industry
-Consumer Services,Retail,76,0.7771900325146349,Industry
-Consumer Services,Travel & Leisure,0,0.6009162187431696,Industry
-Consumer Services,Media,86,0.6957129575300134,Industry
-Transportation,Airlines,18,0.087602168046515,Industry
-Transportation,Railroads,68,0.2610679264789908,Industry
-Transportation,Logistics,89,0.4704075049404496,Industry
+,Arecibo,564,0.5162332758375452,Overall
+Arecibo,HiTech,12,0.35396557693570796,Sector
+Arecibo,Agriculture,21,0.556855814149601,Sector
+Arecibo,Transportation,66,0.014931632565134523,Sector
+Arecibo,Consumer_Products,37,0.6427338213845146,Sector
+Arecibo,Unassigned,43,0.46888124959960087,Sector
+Arecibo,Communication,7,0.9598871108096091,Sector
+Arecibo,Trade,31,0.11729386123357377,Sector
+Arecibo,Business_Services,16,0.796199552651643,Sector
+Arecibo,Business_Products,11,0.35220132584857544,Sector
+Arecibo,Construction,5,0.6993113485228111,Sector
+Arecibo,Services,67,0.7688696782592737,Sector
+Arecibo,Mining,86,0.7175124594744611,Sector
+Arecibo,Health_Care,53,0.22075532717219726,Sector
+Arecibo,EnergyExpL_Prod,78,0.11643378255244707,Sector
+Arecibo,Utilities,31,0.9576665964040272,Sector

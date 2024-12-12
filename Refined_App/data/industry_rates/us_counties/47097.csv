@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lauderdale,1526,0.3012403200870678,Overall
-Lauderdale,Technology,121,0.13045212085666247,Sector
-Lauderdale,Healthcare,140,0.8134344790362675,Sector
-Lauderdale,Finance,224,0.9262495719090948,Sector
-Lauderdale,Energy,88,0.2136991712502989,Sector
-Lauderdale,Consumer Goods,107,0.672947226236334,Sector
-Lauderdale,Utilities,66,0.08746717600852416,Sector
-Lauderdale,Real Estate,181,0.1484152695300519,Sector
-Lauderdale,Telecommunications,28,0.00654721266508107,Sector
-Lauderdale,Materials,173,0.7087383740860487,Sector
-Lauderdale,Industrials,138,0.5436255683920536,Sector
-Lauderdale,Consumer Services,149,0.7279005053200871,Sector
-Lauderdale,Transportation,111,0.46937457192435683,Sector
-Technology,Software,37,0.2020669075704341,Industry
-Technology,Hardware,60,0.6785082244980002,Industry
-Technology,IT Services,24,0.04939767590034505,Industry
-Healthcare,Pharmaceuticals,3,0.8914066502719951,Industry
-Healthcare,Medical Devices,48,0.0025492632005231775,Industry
-Healthcare,Healthcare Services,89,0.38708406271671036,Industry
-Finance,Banking,57,0.6635118936422688,Industry
-Finance,Insurance,92,0.9413770443530209,Industry
-Finance,Investment Services,75,0.09722168622896243,Industry
-Energy,Oil & Gas,20,0.2974519555973334,Industry
-Energy,Renewable Energy,4,0.0515438219825155,Industry
-Energy,Energy Exploration,64,0.23917523283351827,Industry
-Consumer Goods,Food & Beverage,40,0.5234371872085248,Industry
-Consumer Goods,Household Products,9,0.5190146287872908,Industry
-Consumer Goods,Apparel,58,0.7155449620365002,Industry
-Utilities,Electric,49,0.7767817997498757,Industry
-Utilities,Water,17,0.8176940632739018,Industry
-Utilities,Gas,0,0.6067739882222017,Industry
-Real Estate,Residential,72,0.12429365778684853,Industry
-Real Estate,Commercial,33,0.25813853837539924,Industry
-Real Estate,Industrial,76,0.6492287758130022,Industry
-Telecommunications,Mobile,18,0.827411043797857,Industry
-Telecommunications,Broadband,1,0.9509343698288324,Industry
-Telecommunications,Satellite,9,0.4077850974854056,Industry
-Materials,Chemicals,69,0.7234535923669966,Industry
-Materials,Metals & Mining,33,0.8783434717994876,Industry
-Materials,Construction Materials,71,0.9614152384244049,Industry
-Industrials,Aerospace & Defense,35,0.6410627505043863,Industry
-Industrials,Machinery,53,0.6847723537647398,Industry
-Industrials,Industrial Services,50,0.9480540644280522,Industry
-Consumer Services,Retail,30,0.7369707180363617,Industry
-Consumer Services,Travel & Leisure,53,0.5770577532204846,Industry
-Consumer Services,Media,66,0.22213536275975088,Industry
-Transportation,Airlines,35,0.4147929460152119,Industry
-Transportation,Railroads,74,0.6747036123415838,Industry
-Transportation,Logistics,2,0.19442046548831005,Industry
+,Lauderdale,814,0.5832181330333425,Overall
+Lauderdale,HiTech,10,0.611753040693075,Sector
+Lauderdale,Agriculture,8,0.932378232161625,Sector
+Lauderdale,Transportation,39,0.6409539568442827,Sector
+Lauderdale,Consumer_Products,77,0.4282684534686654,Sector
+Lauderdale,Unassigned,61,0.7909170356395129,Sector
+Lauderdale,Communication,62,0.2700918099546281,Sector
+Lauderdale,Trade,88,0.9459980906004309,Sector
+Lauderdale,Business_Services,95,0.11523569721099725,Sector
+Lauderdale,Business_Products,4,0.7228906301297073,Sector
+Lauderdale,Construction,85,0.6556510352141771,Sector
+Lauderdale,Services,76,0.9851645526324109,Sector
+Lauderdale,Mining,6,0.7553139453885062,Sector
+Lauderdale,Health_Care,20,0.21790423346619914,Sector
+Lauderdale,EnergyExpL_Prod,87,0.17122047287556763,Sector
+Lauderdale,Utilities,96,0.5045308092203523,Sector

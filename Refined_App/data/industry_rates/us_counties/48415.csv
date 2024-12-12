@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Scurry,1934,0.5410213973725545,Overall
-Scurry,Technology,150,0.9966182844164514,Sector
-Scurry,Healthcare,72,0.033275594428828215,Sector
-Scurry,Finance,174,0.12930593728902184,Sector
-Scurry,Energy,112,0.23005321865369266,Sector
-Scurry,Consumer Goods,116,0.45304798114235956,Sector
-Scurry,Utilities,242,0.05618153428871819,Sector
-Scurry,Real Estate,179,0.3547872664155246,Sector
-Scurry,Telecommunications,200,0.729004942850692,Sector
-Scurry,Materials,260,0.505802381696948,Sector
-Scurry,Industrials,140,0.13263545901378238,Sector
-Scurry,Consumer Services,145,0.5052661901877306,Sector
-Scurry,Transportation,144,0.3630273102901904,Sector
-Technology,Software,66,0.5987263924297932,Industry
-Technology,Hardware,75,0.45793294122591344,Industry
-Technology,IT Services,9,0.1590122705689292,Industry
-Healthcare,Pharmaceuticals,28,0.30843714607814676,Industry
-Healthcare,Medical Devices,35,0.47949756364375073,Industry
-Healthcare,Healthcare Services,9,0.9042042591504499,Industry
-Finance,Banking,57,0.053926121331007715,Industry
-Finance,Insurance,59,0.6720106391354661,Industry
-Finance,Investment Services,58,0.7306548988722597,Industry
-Energy,Oil & Gas,61,0.6386751333257248,Industry
-Energy,Renewable Energy,0,0.9360282535918509,Industry
-Energy,Energy Exploration,51,0.8048576796323476,Industry
-Consumer Goods,Food & Beverage,61,0.8691290389655641,Industry
-Consumer Goods,Household Products,53,0.5142739763023354,Industry
-Consumer Goods,Apparel,2,0.32524888192825374,Industry
-Utilities,Electric,92,0.4638188541221887,Industry
-Utilities,Water,98,0.017515946783525194,Industry
-Utilities,Gas,52,0.9914230013117442,Industry
-Real Estate,Residential,32,0.9533690497778965,Industry
-Real Estate,Commercial,62,0.6576236749142736,Industry
-Real Estate,Industrial,85,0.48779868347237376,Industry
-Telecommunications,Mobile,52,0.6717537142003368,Industry
-Telecommunications,Broadband,78,0.40597525117094424,Industry
-Telecommunications,Satellite,70,0.9158548070756923,Industry
-Materials,Chemicals,73,0.5290060357143584,Industry
-Materials,Metals & Mining,88,0.36632217291382274,Industry
-Materials,Construction Materials,99,0.9541004443290936,Industry
-Industrials,Aerospace & Defense,21,0.08518708686482646,Industry
-Industrials,Machinery,66,0.9820954189551456,Industry
-Industrials,Industrial Services,53,0.9262656654344426,Industry
-Consumer Services,Retail,49,0.16745094171678043,Industry
-Consumer Services,Travel & Leisure,15,0.26217757918900486,Industry
-Consumer Services,Media,81,0.06959157099968105,Industry
-Transportation,Airlines,77,0.8607729059435257,Industry
-Transportation,Railroads,37,0.4645034215128744,Industry
-Transportation,Logistics,30,0.8484116263122594,Industry
+,Scurry,954,0.46455954465413113,Overall
+Scurry,HiTech,9,0.6522346950563737,Sector
+Scurry,Agriculture,99,0.15807888139414195,Sector
+Scurry,Transportation,77,0.15029920064070523,Sector
+Scurry,Consumer_Products,39,0.17869630415651905,Sector
+Scurry,Unassigned,57,0.03974487248739689,Sector
+Scurry,Communication,0,0.22647946989188128,Sector
+Scurry,Trade,25,0.9486205269877298,Sector
+Scurry,Business_Services,45,0.14257266614634656,Sector
+Scurry,Business_Products,92,0.482751026581157,Sector
+Scurry,Construction,66,0.9261379031188357,Sector
+Scurry,Services,80,0.699376371679124,Sector
+Scurry,Mining,77,0.3866160417047724,Sector
+Scurry,Health_Care,97,0.13266254957008694,Sector
+Scurry,EnergyExpL_Prod,96,0.9533669571482332,Sector
+Scurry,Utilities,95,0.8907557032486632,Sector

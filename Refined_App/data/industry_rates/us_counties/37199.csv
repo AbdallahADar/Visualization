@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Yancey,1458,0.8570442764549431,Overall
-Yancey,Technology,104,0.21733591629550075,Sector
-Yancey,Healthcare,88,0.7658456442293267,Sector
-Yancey,Finance,110,0.45832044258204685,Sector
-Yancey,Energy,145,0.5250753299528509,Sector
-Yancey,Consumer Goods,145,0.46496122666633144,Sector
-Yancey,Utilities,140,0.9703134878280438,Sector
-Yancey,Real Estate,151,0.6143079497512615,Sector
-Yancey,Telecommunications,151,0.0014042395010311903,Sector
-Yancey,Materials,139,0.2248409932320461,Sector
-Yancey,Industrials,65,0.6465418216105974,Sector
-Yancey,Consumer Services,124,0.056650388112507666,Sector
-Yancey,Transportation,96,0.7011008963081767,Sector
-Technology,Software,43,0.17941636494677016,Industry
-Technology,Hardware,59,0.2447027498659733,Industry
-Technology,IT Services,2,0.20912062175136115,Industry
-Healthcare,Pharmaceuticals,76,0.9203220408722279,Industry
-Healthcare,Medical Devices,7,0.48739285253627185,Industry
-Healthcare,Healthcare Services,5,0.6398695015366334,Industry
-Finance,Banking,10,0.5541384414057993,Industry
-Finance,Insurance,7,0.7591394672194571,Industry
-Finance,Investment Services,93,0.4340688465678142,Industry
-Energy,Oil & Gas,30,0.8139690805244835,Industry
-Energy,Renewable Energy,19,0.028390594826831705,Industry
-Energy,Energy Exploration,96,0.29827715211442973,Industry
-Consumer Goods,Food & Beverage,98,0.8645011104403244,Industry
-Consumer Goods,Household Products,20,0.49070018899125467,Industry
-Consumer Goods,Apparel,27,0.9766050811981952,Industry
-Utilities,Electric,47,0.22053441421914088,Industry
-Utilities,Water,63,0.4775577782877284,Industry
-Utilities,Gas,30,0.6954240261472192,Industry
-Real Estate,Residential,31,0.23854809564855328,Industry
-Real Estate,Commercial,27,0.8163197702866671,Industry
-Real Estate,Industrial,93,0.6047342827248584,Industry
-Telecommunications,Mobile,0,0.7425974101403774,Industry
-Telecommunications,Broadband,98,0.7222842780470798,Industry
-Telecommunications,Satellite,53,0.5832256690322836,Industry
-Materials,Chemicals,30,0.5348223936004307,Industry
-Materials,Metals & Mining,13,0.7490118587441555,Industry
-Materials,Construction Materials,96,0.317441171360909,Industry
-Industrials,Aerospace & Defense,53,0.4294428848092171,Industry
-Industrials,Machinery,2,0.26953189366166863,Industry
-Industrials,Industrial Services,10,0.946755118736277,Industry
-Consumer Services,Retail,20,0.1797325498310326,Industry
-Consumer Services,Travel & Leisure,47,0.7860231046077621,Industry
-Consumer Services,Media,57,0.2803012829480831,Industry
-Transportation,Airlines,16,0.051059643823978096,Industry
-Transportation,Railroads,43,0.9983474164764351,Industry
-Transportation,Logistics,37,0.30961534288964754,Industry
+,Yancey,812,0.3845321800965792,Overall
+Yancey,HiTech,68,0.1384559330841597,Sector
+Yancey,Agriculture,81,0.05660116940117921,Sector
+Yancey,Transportation,45,0.6525196262438259,Sector
+Yancey,Consumer_Products,29,0.5615032297903849,Sector
+Yancey,Unassigned,12,0.2562877292384802,Sector
+Yancey,Communication,13,0.13327387375985333,Sector
+Yancey,Trade,31,0.14090448653064225,Sector
+Yancey,Business_Services,69,0.8243783015391722,Sector
+Yancey,Business_Products,90,0.9731248364719104,Sector
+Yancey,Construction,8,0.5005693361274958,Sector
+Yancey,Services,64,0.4093350687617565,Sector
+Yancey,Mining,99,0.2849922000753884,Sector
+Yancey,Health_Care,52,0.022331203572443226,Sector
+Yancey,EnergyExpL_Prod,52,0.37829303384416224,Sector
+Yancey,Utilities,99,0.4354126730078335,Sector

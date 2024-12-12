@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cottle,2081,0.3962613461835861,Overall
-Cottle,Technology,122,0.46813261114588034,Sector
-Cottle,Healthcare,165,0.6193060419507139,Sector
-Cottle,Finance,195,0.1877493089181076,Sector
-Cottle,Energy,180,0.7852151825310554,Sector
-Cottle,Consumer Goods,181,0.871932709563038,Sector
-Cottle,Utilities,244,0.7102622970593349,Sector
-Cottle,Real Estate,131,0.48790540416901795,Sector
-Cottle,Telecommunications,161,0.9819423863379177,Sector
-Cottle,Materials,176,0.5299354693383552,Sector
-Cottle,Industrials,183,0.22061626692795544,Sector
-Cottle,Consumer Services,180,0.484033809234778,Sector
-Cottle,Transportation,163,0.32239375492283695,Sector
-Technology,Software,77,0.4272543239759874,Industry
-Technology,Hardware,24,0.48420347926680196,Industry
-Technology,IT Services,21,0.444204730234236,Industry
-Healthcare,Pharmaceuticals,44,0.27572147816449055,Industry
-Healthcare,Medical Devices,37,0.28166463193727886,Industry
-Healthcare,Healthcare Services,84,0.052480441476743356,Industry
-Finance,Banking,67,0.6244516707886709,Industry
-Finance,Insurance,78,0.564586294029681,Industry
-Finance,Investment Services,50,0.47354866964025477,Industry
-Energy,Oil & Gas,74,0.21824803894671962,Industry
-Energy,Renewable Energy,67,0.06297825325513018,Industry
-Energy,Energy Exploration,39,0.9632419634344014,Industry
-Consumer Goods,Food & Beverage,49,0.6741613915846058,Industry
-Consumer Goods,Household Products,93,0.35665421208201564,Industry
-Consumer Goods,Apparel,39,0.270241637941795,Industry
-Utilities,Electric,92,0.7197398355235433,Industry
-Utilities,Water,80,0.828126729905846,Industry
-Utilities,Gas,72,0.23050188119570925,Industry
-Real Estate,Residential,95,0.45744146342044045,Industry
-Real Estate,Commercial,35,0.6498025049072029,Industry
-Real Estate,Industrial,1,0.1822071227755171,Industry
-Telecommunications,Mobile,95,0.6921237226809983,Industry
-Telecommunications,Broadband,26,0.3062940144254096,Industry
-Telecommunications,Satellite,40,0.6153588211789721,Industry
-Materials,Chemicals,94,0.7021329816798436,Industry
-Materials,Metals & Mining,1,0.8006861389137973,Industry
-Materials,Construction Materials,81,0.415478003159214,Industry
-Industrials,Aerospace & Defense,78,0.20320412040529556,Industry
-Industrials,Machinery,17,0.5299876953837555,Industry
-Industrials,Industrial Services,88,0.8858082305767458,Industry
-Consumer Services,Retail,78,0.6928037515594103,Industry
-Consumer Services,Travel & Leisure,34,0.02718118684631554,Industry
-Consumer Services,Media,68,0.1294351696782331,Industry
-Transportation,Airlines,63,0.8509274938993929,Industry
-Transportation,Railroads,95,0.02607234841521966,Industry
-Transportation,Logistics,5,0.6630150778833936,Industry
+,Cottle,820,0.6195812137803466,Overall
+Cottle,HiTech,89,0.5196485389565197,Sector
+Cottle,Agriculture,90,0.6357076100265829,Sector
+Cottle,Transportation,9,0.9987758213684351,Sector
+Cottle,Consumer_Products,92,0.006495838545822918,Sector
+Cottle,Unassigned,4,0.6218507228938671,Sector
+Cottle,Communication,23,0.3368327898907826,Sector
+Cottle,Trade,80,0.6055438367107567,Sector
+Cottle,Business_Services,66,0.29623678601359327,Sector
+Cottle,Business_Products,54,0.42360163513291094,Sector
+Cottle,Construction,77,0.9296228675740746,Sector
+Cottle,Services,21,0.8759042446906041,Sector
+Cottle,Mining,45,0.9994530410094125,Sector
+Cottle,Health_Care,51,0.8328601483731302,Sector
+Cottle,EnergyExpL_Prod,80,0.22807163816826181,Sector
+Cottle,Utilities,39,0.9831126873504438,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Caledonia,1858,0.8685198776711859,Overall
-Caledonia,Technology,205,0.9230110649185171,Sector
-Caledonia,Healthcare,201,0.5137824329624128,Sector
-Caledonia,Finance,151,0.46933474965755817,Sector
-Caledonia,Energy,163,0.8528041238346125,Sector
-Caledonia,Consumer Goods,237,0.9623771713424195,Sector
-Caledonia,Utilities,154,0.7828056096815273,Sector
-Caledonia,Real Estate,156,0.23164586221447891,Sector
-Caledonia,Telecommunications,209,0.3270442564613194,Sector
-Caledonia,Materials,82,0.9936049452034935,Sector
-Caledonia,Industrials,137,0.0364763169059904,Sector
-Caledonia,Consumer Services,58,0.9620926898403839,Sector
-Caledonia,Transportation,105,0.48209457440071746,Sector
-Technology,Software,64,0.7203605318694821,Industry
-Technology,Hardware,85,0.0778178405715455,Industry
-Technology,IT Services,56,0.22763958377004279,Industry
-Healthcare,Pharmaceuticals,71,0.6264319191393504,Industry
-Healthcare,Medical Devices,69,0.029238974057196887,Industry
-Healthcare,Healthcare Services,61,0.3645610059572999,Industry
-Finance,Banking,96,0.37598277864764496,Industry
-Finance,Insurance,41,0.13881092356027536,Industry
-Finance,Investment Services,14,0.8445667696077349,Industry
-Energy,Oil & Gas,20,0.406857561962346,Industry
-Energy,Renewable Energy,46,0.9197424619565107,Industry
-Energy,Energy Exploration,97,0.1068421615780335,Industry
-Consumer Goods,Food & Beverage,58,0.4871468286268421,Industry
-Consumer Goods,Household Products,81,0.955770945153005,Industry
-Consumer Goods,Apparel,98,0.5536197760809628,Industry
-Utilities,Electric,30,0.9929069876573338,Industry
-Utilities,Water,98,0.23146279294980032,Industry
-Utilities,Gas,26,0.43402283523414664,Industry
-Real Estate,Residential,66,0.04630612796255029,Industry
-Real Estate,Commercial,30,0.3382668557663947,Industry
-Real Estate,Industrial,60,0.9121612206102183,Industry
-Telecommunications,Mobile,64,0.7970205426280308,Industry
-Telecommunications,Broadband,59,0.7648148767569586,Industry
-Telecommunications,Satellite,86,0.49320715041347496,Industry
-Materials,Chemicals,16,0.21233619650328606,Industry
-Materials,Metals & Mining,3,0.17115333471394345,Industry
-Materials,Construction Materials,63,0.1589720321828999,Industry
-Industrials,Aerospace & Defense,0,0.31192532323116984,Industry
-Industrials,Machinery,72,0.6733947247962325,Industry
-Industrials,Industrial Services,65,0.5183785066986512,Industry
-Consumer Services,Retail,6,0.3862518468240186,Industry
-Consumer Services,Travel & Leisure,13,0.9831655324042505,Industry
-Consumer Services,Media,39,0.18907012011134172,Industry
-Transportation,Airlines,6,0.8279633353781929,Industry
-Transportation,Railroads,99,0.5627604973666521,Industry
-Transportation,Logistics,0,0.990051514465775,Industry
+,Caledonia,798,0.3799316961102416,Overall
+Caledonia,HiTech,67,0.031189708529404725,Sector
+Caledonia,Agriculture,51,0.2524791646870722,Sector
+Caledonia,Transportation,84,0.6614304953979493,Sector
+Caledonia,Consumer_Products,93,0.18348067925203004,Sector
+Caledonia,Unassigned,54,0.2017362775668241,Sector
+Caledonia,Communication,15,0.10413164833989819,Sector
+Caledonia,Trade,90,0.706122407731983,Sector
+Caledonia,Business_Services,24,0.5209164918975097,Sector
+Caledonia,Business_Products,66,0.06884472611467574,Sector
+Caledonia,Construction,50,0.5700175690321939,Sector
+Caledonia,Services,83,0.9961185561365979,Sector
+Caledonia,Mining,11,0.10708557621311166,Sector
+Caledonia,Health_Care,28,0.2736378856067403,Sector
+Caledonia,EnergyExpL_Prod,18,0.6278217098274316,Sector
+Caledonia,Utilities,64,0.39396254532020236,Sector

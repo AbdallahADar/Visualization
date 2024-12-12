@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Buchanan,1933,0.21846312201319307,Overall
-Buchanan,Technology,80,0.4535552462324136,Sector
-Buchanan,Healthcare,157,0.3586031723006706,Sector
-Buchanan,Finance,164,0.5492262193339522,Sector
-Buchanan,Energy,235,0.45416251431716226,Sector
-Buchanan,Consumer Goods,131,0.43187275476296993,Sector
-Buchanan,Utilities,176,0.036007048980410405,Sector
-Buchanan,Real Estate,151,0.8697697348242281,Sector
-Buchanan,Telecommunications,143,0.654354741511056,Sector
-Buchanan,Materials,135,0.016704135630830064,Sector
-Buchanan,Industrials,193,0.15811136355324862,Sector
-Buchanan,Consumer Services,166,0.4414395363860636,Sector
-Buchanan,Transportation,202,0.05076212201851593,Sector
-Technology,Software,36,0.27611639289938006,Industry
-Technology,Hardware,25,0.8305080614821434,Industry
-Technology,IT Services,19,0.10579265342744171,Industry
-Healthcare,Pharmaceuticals,86,0.11876092997058585,Industry
-Healthcare,Medical Devices,28,0.7192508820437162,Industry
-Healthcare,Healthcare Services,43,0.7756363509310573,Industry
-Finance,Banking,83,0.18325923685809753,Industry
-Finance,Insurance,74,0.3521810941645711,Industry
-Finance,Investment Services,7,0.6350227777683048,Industry
-Energy,Oil & Gas,76,0.5923859044586222,Industry
-Energy,Renewable Energy,75,0.4419514792748187,Industry
-Energy,Energy Exploration,84,0.02376074322157684,Industry
-Consumer Goods,Food & Beverage,65,0.8904330345617878,Industry
-Consumer Goods,Household Products,45,0.6605779606062351,Industry
-Consumer Goods,Apparel,21,0.5614434859327605,Industry
-Utilities,Electric,51,0.35096875083043233,Industry
-Utilities,Water,44,0.3805757064158274,Industry
-Utilities,Gas,81,0.4551524199791931,Industry
-Real Estate,Residential,94,0.49608682725582653,Industry
-Real Estate,Commercial,34,0.5524544254658021,Industry
-Real Estate,Industrial,23,0.2997102509812356,Industry
-Telecommunications,Mobile,49,0.5263659752487444,Industry
-Telecommunications,Broadband,45,0.261950412394903,Industry
-Telecommunications,Satellite,49,0.3060859288326355,Industry
-Materials,Chemicals,6,0.43641949516246425,Industry
-Materials,Metals & Mining,32,0.438814044642283,Industry
-Materials,Construction Materials,97,0.9138573159616998,Industry
-Industrials,Aerospace & Defense,88,0.580166107186053,Industry
-Industrials,Machinery,81,0.37508813010765496,Industry
-Industrials,Industrial Services,24,0.2810557574969358,Industry
-Consumer Services,Retail,45,0.834650219101199,Industry
-Consumer Services,Travel & Leisure,41,0.3531909963574109,Industry
-Consumer Services,Media,80,0.09872049408839789,Industry
-Transportation,Airlines,96,0.6947710485296857,Industry
-Transportation,Railroads,16,0.9115429234722007,Industry
-Transportation,Logistics,90,0.7563863859815667,Industry
+,Buchanan,800,0.4854683162489273,Overall
+Buchanan,HiTech,37,0.605107311508756,Sector
+Buchanan,Agriculture,12,0.6555947140693907,Sector
+Buchanan,Transportation,42,0.6202642191413339,Sector
+Buchanan,Consumer_Products,88,0.03499187705757545,Sector
+Buchanan,Unassigned,52,0.9531524348378722,Sector
+Buchanan,Communication,3,0.6350504654590068,Sector
+Buchanan,Trade,61,0.08420245715213082,Sector
+Buchanan,Business_Services,96,0.8776148205547,Sector
+Buchanan,Business_Products,63,0.388494332705819,Sector
+Buchanan,Construction,81,0.9002866701610218,Sector
+Buchanan,Services,75,0.5496244824124003,Sector
+Buchanan,Mining,39,0.3948045772490969,Sector
+Buchanan,Health_Care,41,0.4390923801929778,Sector
+Buchanan,EnergyExpL_Prod,57,0.059633224061258816,Sector
+Buchanan,Utilities,53,0.08411077717056747,Sector

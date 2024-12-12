@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Claiborne,1913,0.3523064495036926,Overall
-Claiborne,Technology,147,0.7323998834026794,Sector
-Claiborne,Healthcare,155,0.2891585648788786,Sector
-Claiborne,Finance,167,0.4993771264549838,Sector
-Claiborne,Energy,120,0.5760647492524443,Sector
-Claiborne,Consumer Goods,267,0.895420705654266,Sector
-Claiborne,Utilities,106,0.4875362237486982,Sector
-Claiborne,Real Estate,178,0.6937857115855706,Sector
-Claiborne,Telecommunications,148,0.43795393171834485,Sector
-Claiborne,Materials,234,0.866662149216479,Sector
-Claiborne,Industrials,75,0.9223435581409307,Sector
-Claiborne,Consumer Services,147,0.7859659770908238,Sector
-Claiborne,Transportation,169,0.5760886605443145,Sector
-Technology,Software,38,0.23356451217836338,Industry
-Technology,Hardware,54,0.38268783638641546,Industry
-Technology,IT Services,55,0.7961882548639357,Industry
-Healthcare,Pharmaceuticals,55,0.7775355889728607,Industry
-Healthcare,Medical Devices,92,0.14060609771016142,Industry
-Healthcare,Healthcare Services,8,0.8743099030996027,Industry
-Finance,Banking,36,0.8492749002224248,Industry
-Finance,Insurance,51,0.21772266043378974,Industry
-Finance,Investment Services,80,0.45304270445906836,Industry
-Energy,Oil & Gas,96,0.27694010961687887,Industry
-Energy,Renewable Energy,22,0.32985517877217196,Industry
-Energy,Energy Exploration,2,0.5768703657444874,Industry
-Consumer Goods,Food & Beverage,88,0.2422665561786771,Industry
-Consumer Goods,Household Products,93,0.5608394816368293,Industry
-Consumer Goods,Apparel,86,0.2081905294476596,Industry
-Utilities,Electric,43,0.972391430205671,Industry
-Utilities,Water,5,0.3591179549158965,Industry
-Utilities,Gas,58,0.42582281312490766,Industry
-Real Estate,Residential,12,0.12979635662906863,Industry
-Real Estate,Commercial,81,0.5489221634671415,Industry
-Real Estate,Industrial,85,0.4388597971433703,Industry
-Telecommunications,Mobile,89,0.17230417858627256,Industry
-Telecommunications,Broadband,47,0.15967570838012612,Industry
-Telecommunications,Satellite,12,0.12763339340438673,Industry
-Materials,Chemicals,69,0.5689228804553408,Industry
-Materials,Metals & Mining,75,0.8275438545230704,Industry
-Materials,Construction Materials,90,0.6468751673419708,Industry
-Industrials,Aerospace & Defense,4,0.3505347668480894,Industry
-Industrials,Machinery,60,0.6149620386706331,Industry
-Industrials,Industrial Services,11,0.8019096845496119,Industry
-Consumer Services,Retail,8,0.451306314246394,Industry
-Consumer Services,Travel & Leisure,53,0.29400789888994616,Industry
-Consumer Services,Media,86,0.26358961729637875,Industry
-Transportation,Airlines,21,0.3154834959429955,Industry
-Transportation,Railroads,49,0.5875938016828051,Industry
-Transportation,Logistics,99,0.5676513959998153,Industry
+,Claiborne,717,0.47630789857217193,Overall
+Claiborne,HiTech,71,0.3280396091446647,Sector
+Claiborne,Agriculture,1,0.8419468032912565,Sector
+Claiborne,Transportation,53,0.5246172744950117,Sector
+Claiborne,Consumer_Products,75,0.05037117876941988,Sector
+Claiborne,Unassigned,56,0.49853536665217946,Sector
+Claiborne,Communication,20,0.6840587447974963,Sector
+Claiborne,Trade,51,0.1645412359859405,Sector
+Claiborne,Business_Services,72,0.4669729875767922,Sector
+Claiborne,Business_Products,25,0.03746314767794401,Sector
+Claiborne,Construction,76,0.13087409890392288,Sector
+Claiborne,Services,28,0.8890162374826919,Sector
+Claiborne,Mining,48,0.37442235960219317,Sector
+Claiborne,Health_Care,95,0.612063500186628,Sector
+Claiborne,EnergyExpL_Prod,2,0.5807369979822924,Sector
+Claiborne,Utilities,44,0.9609589360341464,Sector

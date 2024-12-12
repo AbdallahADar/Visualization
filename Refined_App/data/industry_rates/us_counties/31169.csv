@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Thayer,1902,0.41312463211963324,Overall
-Thayer,Technology,186,0.4056640040390368,Sector
-Thayer,Healthcare,258,0.24276566238263142,Sector
-Thayer,Finance,109,0.8639663530502492,Sector
-Thayer,Energy,171,0.948064766286654,Sector
-Thayer,Consumer Goods,140,0.9468435537537792,Sector
-Thayer,Utilities,142,0.6945875189414926,Sector
-Thayer,Real Estate,176,0.3973861506443931,Sector
-Thayer,Telecommunications,69,0.9369425735795965,Sector
-Thayer,Materials,131,0.6330630980582419,Sector
-Thayer,Industrials,159,0.0851387060553137,Sector
-Thayer,Consumer Services,154,0.6903125785159293,Sector
-Thayer,Transportation,207,0.5993485216285827,Sector
-Technology,Software,11,0.7892098924040052,Industry
-Technology,Hardware,92,0.015651203963229388,Industry
-Technology,IT Services,83,0.9008999031469322,Industry
-Healthcare,Pharmaceuticals,87,0.25672656661443627,Industry
-Healthcare,Medical Devices,88,0.39774009813049827,Industry
-Healthcare,Healthcare Services,83,0.9118149664247915,Industry
-Finance,Banking,38,0.7491954330657137,Industry
-Finance,Insurance,37,0.6619319567181506,Industry
-Finance,Investment Services,34,0.6721152315696162,Industry
-Energy,Oil & Gas,55,0.9336130702533674,Industry
-Energy,Renewable Energy,28,0.20916048492450945,Industry
-Energy,Energy Exploration,88,0.9885823049449523,Industry
-Consumer Goods,Food & Beverage,6,0.31185328398251044,Industry
-Consumer Goods,Household Products,67,0.6494132628722903,Industry
-Consumer Goods,Apparel,67,0.3399701088320719,Industry
-Utilities,Electric,84,0.7744599575352662,Industry
-Utilities,Water,41,0.8595829803499152,Industry
-Utilities,Gas,17,0.45702333186435384,Industry
-Real Estate,Residential,76,0.17854735803166777,Industry
-Real Estate,Commercial,65,0.39014395600626606,Industry
-Real Estate,Industrial,35,0.2819412353421994,Industry
-Telecommunications,Mobile,11,0.25538608322769607,Industry
-Telecommunications,Broadband,31,0.38123527096621257,Industry
-Telecommunications,Satellite,27,0.8374951850682496,Industry
-Materials,Chemicals,57,0.5512238241581324,Industry
-Materials,Metals & Mining,2,0.3223071847633502,Industry
-Materials,Construction Materials,72,0.9010113810307336,Industry
-Industrials,Aerospace & Defense,76,0.6497078172165447,Industry
-Industrials,Machinery,71,0.8627285670193141,Industry
-Industrials,Industrial Services,12,0.289566301167281,Industry
-Consumer Services,Retail,89,0.6570420578167927,Industry
-Consumer Services,Travel & Leisure,32,0.8452396634311575,Industry
-Consumer Services,Media,33,0.1339081528405488,Industry
-Transportation,Airlines,82,0.3834606731644218,Industry
-Transportation,Railroads,94,0.33553587939840734,Industry
-Transportation,Logistics,31,0.6116236401266913,Industry
+,Thayer,887,0.5174408656300484,Overall
+Thayer,HiTech,99,0.7761156144850543,Sector
+Thayer,Agriculture,88,0.3947233325449442,Sector
+Thayer,Transportation,30,0.37797052314775825,Sector
+Thayer,Consumer_Products,66,0.6393206103138814,Sector
+Thayer,Unassigned,89,0.25130279236607567,Sector
+Thayer,Communication,71,0.9087418993267641,Sector
+Thayer,Trade,97,0.2793128667766448,Sector
+Thayer,Business_Services,79,0.20310124764866944,Sector
+Thayer,Business_Products,21,0.3839650144119968,Sector
+Thayer,Construction,15,0.08575716240997677,Sector
+Thayer,Services,45,0.8916131721981153,Sector
+Thayer,Mining,57,0.9396412101637575,Sector
+Thayer,Health_Care,32,0.8865328499752618,Sector
+Thayer,EnergyExpL_Prod,25,0.5910447430320355,Sector
+Thayer,Utilities,73,0.15246994564978922,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pohjanmaa,1893,0.6718691456586382,Overall
-Pohjanmaa,Technology,70,0.40355736817399535,Sector
-Pohjanmaa,Healthcare,124,0.7592946467910766,Sector
-Pohjanmaa,Finance,131,0.7596228803601109,Sector
-Pohjanmaa,Energy,257,0.5176246119756834,Sector
-Pohjanmaa,Consumer Goods,130,0.466932924146502,Sector
-Pohjanmaa,Utilities,63,0.20160898698369878,Sector
-Pohjanmaa,Real Estate,198,0.9486074719687464,Sector
-Pohjanmaa,Telecommunications,137,0.8792556727041364,Sector
-Pohjanmaa,Materials,257,0.41882573200443574,Sector
-Pohjanmaa,Industrials,162,0.08766268848268566,Sector
-Pohjanmaa,Consumer Services,170,0.156329947432421,Sector
-Pohjanmaa,Transportation,194,0.9943794228137326,Sector
-Technology,Software,13,0.7026275268224165,Industry
-Technology,Hardware,19,0.7425839379668951,Industry
-Technology,IT Services,38,0.0671680305983452,Industry
-Healthcare,Pharmaceuticals,72,0.013758059240989717,Industry
-Healthcare,Medical Devices,42,0.4387493974603107,Industry
-Healthcare,Healthcare Services,10,0.009263065224452083,Industry
-Finance,Banking,39,0.2566219609176176,Industry
-Finance,Insurance,64,0.9812718753746031,Industry
-Finance,Investment Services,28,0.14910695506050564,Industry
-Energy,Oil & Gas,86,0.3557797551210551,Industry
-Energy,Renewable Energy,94,0.7736031474016767,Industry
-Energy,Energy Exploration,77,0.7030381978564011,Industry
-Consumer Goods,Food & Beverage,91,0.31926068774948746,Industry
-Consumer Goods,Household Products,27,0.0935924550304903,Industry
-Consumer Goods,Apparel,12,0.3820799892882606,Industry
-Utilities,Electric,47,0.5541824560891297,Industry
-Utilities,Water,6,0.5179355665911195,Industry
-Utilities,Gas,10,0.5345482142946599,Industry
-Real Estate,Residential,83,0.43721455358177497,Industry
-Real Estate,Commercial,43,0.5656395863167267,Industry
-Real Estate,Industrial,72,0.5186670073503628,Industry
-Telecommunications,Mobile,42,0.6726536847765803,Industry
-Telecommunications,Broadband,16,0.17719867683876733,Industry
-Telecommunications,Satellite,79,0.552966156326181,Industry
-Materials,Chemicals,98,0.033887544385671986,Industry
-Materials,Metals & Mining,61,0.8645664510256614,Industry
-Materials,Construction Materials,98,0.6477035852538932,Industry
-Industrials,Aerospace & Defense,92,0.4593577188275212,Industry
-Industrials,Machinery,40,0.6280437076472442,Industry
-Industrials,Industrial Services,30,0.760422918135463,Industry
-Consumer Services,Retail,94,0.5783601151710218,Industry
-Consumer Services,Travel & Leisure,55,0.8398758441730816,Industry
-Consumer Services,Media,21,0.001044241222003861,Industry
-Transportation,Airlines,94,0.13705998280224385,Industry
-Transportation,Railroads,93,0.025528058502393702,Industry
-Transportation,Logistics,7,0.4855688206509947,Industry
+,Pohjanmaa,644,0.5516204102997648,Overall
+Pohjanmaa,HiTech,3,0.3267067776618745,Sector
+Pohjanmaa,Agriculture,73,0.4001328713279504,Sector
+Pohjanmaa,Transportation,34,0.4464440574448162,Sector
+Pohjanmaa,Consumer_Products,48,0.04217286083769367,Sector
+Pohjanmaa,Unassigned,9,0.998260863238296,Sector
+Pohjanmaa,Communication,29,0.9152138710687956,Sector
+Pohjanmaa,Trade,70,0.27616181258096795,Sector
+Pohjanmaa,Business_Services,51,0.911723829772547,Sector
+Pohjanmaa,Business_Products,1,0.9580478199651651,Sector
+Pohjanmaa,Construction,42,0.6891581756035854,Sector
+Pohjanmaa,Services,86,0.1781829950584768,Sector
+Pohjanmaa,Mining,15,0.3717839899101638,Sector
+Pohjanmaa,Health_Care,99,0.5325901750574515,Sector
+Pohjanmaa,EnergyExpL_Prod,23,0.5523707546214096,Sector
+Pohjanmaa,Utilities,61,0.6753553003472779,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Birkenfeld,1898,0.321061793557168,Overall
-Birkenfeld,Technology,134,0.7348460046545443,Sector
-Birkenfeld,Healthcare,149,0.8706486123788647,Sector
-Birkenfeld,Finance,144,0.48321648856187016,Sector
-Birkenfeld,Energy,109,0.5493875027699231,Sector
-Birkenfeld,Consumer Goods,116,0.6337345064330143,Sector
-Birkenfeld,Utilities,115,0.03195747013346617,Sector
-Birkenfeld,Real Estate,145,0.8190892672910253,Sector
-Birkenfeld,Telecommunications,158,0.6570433369042358,Sector
-Birkenfeld,Materials,162,0.7224591190914017,Sector
-Birkenfeld,Industrials,279,0.7945240022922417,Sector
-Birkenfeld,Consumer Services,272,0.9101161560079053,Sector
-Birkenfeld,Transportation,115,0.1635075701319012,Sector
-Technology,Software,80,0.45335265956059045,Industry
-Technology,Hardware,45,0.4714347081181045,Industry
-Technology,IT Services,9,0.4085969148073142,Industry
-Healthcare,Pharmaceuticals,15,0.5950863998633074,Industry
-Healthcare,Medical Devices,41,0.017052477538619826,Industry
-Healthcare,Healthcare Services,93,0.7252887497196657,Industry
-Finance,Banking,49,0.6803160515910756,Industry
-Finance,Insurance,5,0.4502332835263496,Industry
-Finance,Investment Services,90,0.5956837460081434,Industry
-Energy,Oil & Gas,31,0.5649473102703013,Industry
-Energy,Renewable Energy,23,0.3054511636727154,Industry
-Energy,Energy Exploration,55,0.053210173619189116,Industry
-Consumer Goods,Food & Beverage,7,0.4701532064273761,Industry
-Consumer Goods,Household Products,43,0.6984240664986254,Industry
-Consumer Goods,Apparel,66,0.8336166284295679,Industry
-Utilities,Electric,11,0.7634408928771221,Industry
-Utilities,Water,69,0.38749738157228675,Industry
-Utilities,Gas,35,0.8224567037001286,Industry
-Real Estate,Residential,69,0.966597825562035,Industry
-Real Estate,Commercial,50,0.14613222058565745,Industry
-Real Estate,Industrial,26,0.5013560931816596,Industry
-Telecommunications,Mobile,43,0.9068025180059645,Industry
-Telecommunications,Broadband,42,0.05645119675544763,Industry
-Telecommunications,Satellite,73,0.4630274095371687,Industry
-Materials,Chemicals,86,0.9161261385336825,Industry
-Materials,Metals & Mining,15,0.584091376666967,Industry
-Materials,Construction Materials,61,0.9022127140242369,Industry
-Industrials,Aerospace & Defense,96,0.4715360467757407,Industry
-Industrials,Machinery,91,0.9049736736813099,Industry
-Industrials,Industrial Services,92,0.6520523032857792,Industry
-Consumer Services,Retail,86,0.4710432608155528,Industry
-Consumer Services,Travel & Leisure,88,0.8151676394145463,Industry
-Consumer Services,Media,98,0.43358007627126893,Industry
-Transportation,Airlines,8,0.7652771760854966,Industry
-Transportation,Railroads,28,0.8293742339572674,Industry
-Transportation,Logistics,79,0.6381487842884017,Industry
+,Birkenfeld,808,0.5319182789806383,Overall
+Birkenfeld,HiTech,99,0.9875479164216725,Sector
+Birkenfeld,Agriculture,50,0.6831414251663223,Sector
+Birkenfeld,Transportation,48,0.6306023997657841,Sector
+Birkenfeld,Consumer_Products,53,0.6039267035305514,Sector
+Birkenfeld,Unassigned,56,0.7606478941325975,Sector
+Birkenfeld,Communication,87,0.1855044245817481,Sector
+Birkenfeld,Trade,58,0.5965461663102448,Sector
+Birkenfeld,Business_Services,23,0.8292345793025948,Sector
+Birkenfeld,Business_Products,60,0.9858680222520834,Sector
+Birkenfeld,Construction,56,0.33141410541315564,Sector
+Birkenfeld,Services,99,0.12701902123697362,Sector
+Birkenfeld,Mining,20,0.2335529816685934,Sector
+Birkenfeld,Health_Care,1,0.6245437157535032,Sector
+Birkenfeld,EnergyExpL_Prod,66,0.08498538163247671,Sector
+Birkenfeld,Utilities,32,0.3142394475412721,Sector

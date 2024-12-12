@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cheshire,1582,0.34752849994065527,Overall
-Cheshire,Technology,220,0.4408724412823527,Sector
-Cheshire,Healthcare,108,0.01954606593881425,Sector
-Cheshire,Finance,186,0.39019817329802065,Sector
-Cheshire,Energy,208,0.5894207494839347,Sector
-Cheshire,Consumer Goods,152,0.04949737984888225,Sector
-Cheshire,Utilities,130,0.3218915285332813,Sector
-Cheshire,Real Estate,101,0.7300170859234193,Sector
-Cheshire,Telecommunications,106,0.7580544246096906,Sector
-Cheshire,Materials,52,0.6066330367952594,Sector
-Cheshire,Industrials,129,0.3571889563982059,Sector
-Cheshire,Consumer Services,87,0.16468184056526292,Sector
-Cheshire,Transportation,103,0.740325941826046,Sector
-Technology,Software,61,0.15177973600510086,Industry
-Technology,Hardware,75,0.5135515514240022,Industry
-Technology,IT Services,84,0.8404013830775529,Industry
-Healthcare,Pharmaceuticals,42,0.3853555142919898,Industry
-Healthcare,Medical Devices,19,0.32519187278847717,Industry
-Healthcare,Healthcare Services,47,0.8386495603080083,Industry
-Finance,Banking,46,0.16532365842120023,Industry
-Finance,Insurance,41,0.8881758600655737,Industry
-Finance,Investment Services,99,0.26831829448577027,Industry
-Energy,Oil & Gas,99,0.265307782950438,Industry
-Energy,Renewable Energy,84,0.09384277404719132,Industry
-Energy,Energy Exploration,25,0.5921501475757879,Industry
-Consumer Goods,Food & Beverage,19,0.627245495340459,Industry
-Consumer Goods,Household Products,63,0.6191829069286179,Industry
-Consumer Goods,Apparel,70,0.7146220525684872,Industry
-Utilities,Electric,35,0.7587662983872349,Industry
-Utilities,Water,46,0.3732581119257745,Industry
-Utilities,Gas,49,0.2532001895537149,Industry
-Real Estate,Residential,22,0.9331770334937475,Industry
-Real Estate,Commercial,32,0.016320813918630495,Industry
-Real Estate,Industrial,47,0.8069593694261644,Industry
-Telecommunications,Mobile,92,0.7678910624509786,Industry
-Telecommunications,Broadband,11,0.12477698498263212,Industry
-Telecommunications,Satellite,3,0.6154890239754223,Industry
-Materials,Chemicals,26,0.4683382041209747,Industry
-Materials,Metals & Mining,11,0.11824463909507621,Industry
-Materials,Construction Materials,15,0.02064455869196291,Industry
-Industrials,Aerospace & Defense,65,0.015046803580822221,Industry
-Industrials,Machinery,55,0.022621176892827166,Industry
-Industrials,Industrial Services,9,0.9202908767715694,Industry
-Consumer Services,Retail,21,0.6838132147980889,Industry
-Consumer Services,Travel & Leisure,17,0.608481244798548,Industry
-Consumer Services,Media,49,0.21707317583893881,Industry
-Transportation,Airlines,39,0.6787820508122143,Industry
-Transportation,Railroads,2,0.379570015218862,Industry
-Transportation,Logistics,62,0.32270751091432703,Industry
+,Cheshire,770,0.46366159838734583,Overall
+Cheshire,HiTech,9,0.5422068509949577,Sector
+Cheshire,Agriculture,29,0.2573106242962442,Sector
+Cheshire,Transportation,55,0.5177257146570922,Sector
+Cheshire,Consumer_Products,41,0.9405943375376129,Sector
+Cheshire,Unassigned,49,0.33322941458168687,Sector
+Cheshire,Communication,53,0.260179004678767,Sector
+Cheshire,Trade,41,0.7383998055753977,Sector
+Cheshire,Business_Services,79,0.2695288418842702,Sector
+Cheshire,Business_Products,79,0.6132917726758276,Sector
+Cheshire,Construction,59,0.0941161273194584,Sector
+Cheshire,Services,57,0.4504236124338562,Sector
+Cheshire,Mining,69,0.35068305725068927,Sector
+Cheshire,Health_Care,97,0.3296081979512402,Sector
+Cheshire,EnergyExpL_Prod,0,0.8846684918453831,Sector
+Cheshire,Utilities,53,0.3729581221277021,Sector

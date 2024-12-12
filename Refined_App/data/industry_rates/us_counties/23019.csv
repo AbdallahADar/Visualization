@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Penobscot,1883,0.17730861188937708,Overall
-Penobscot,Technology,201,0.09364553893210903,Sector
-Penobscot,Healthcare,175,0.2318997021771494,Sector
-Penobscot,Finance,116,0.9379828956092063,Sector
-Penobscot,Energy,136,0.7962393846638953,Sector
-Penobscot,Consumer Goods,218,0.9989380943530625,Sector
-Penobscot,Utilities,159,0.6088494010792327,Sector
-Penobscot,Real Estate,213,0.40267652968027146,Sector
-Penobscot,Telecommunications,212,0.12684680961882644,Sector
-Penobscot,Materials,124,0.048060611161822475,Sector
-Penobscot,Industrials,87,0.25157687158953645,Sector
-Penobscot,Consumer Services,93,0.3999957618000023,Sector
-Penobscot,Transportation,149,0.1471607168354725,Sector
-Technology,Software,63,0.8978319463461761,Industry
-Technology,Hardware,40,0.5389827219015585,Industry
-Technology,IT Services,98,0.715680104174802,Industry
-Healthcare,Pharmaceuticals,72,0.09762613072101467,Industry
-Healthcare,Medical Devices,90,0.8719372816132382,Industry
-Healthcare,Healthcare Services,13,0.5098057752948423,Industry
-Finance,Banking,16,0.9233907033097007,Industry
-Finance,Insurance,15,0.7077054255855028,Industry
-Finance,Investment Services,85,0.0018104348984565588,Industry
-Energy,Oil & Gas,41,0.8676835372704537,Industry
-Energy,Renewable Energy,54,0.909044582922893,Industry
-Energy,Energy Exploration,41,0.5604744256652263,Industry
-Consumer Goods,Food & Beverage,91,0.7799276246297997,Industry
-Consumer Goods,Household Products,98,0.1850241535728231,Industry
-Consumer Goods,Apparel,29,0.17821650917532028,Industry
-Utilities,Electric,61,0.47046353429310583,Industry
-Utilities,Water,34,0.273075360893268,Industry
-Utilities,Gas,64,0.4145153158525653,Industry
-Real Estate,Residential,94,0.7079397772217254,Industry
-Real Estate,Commercial,83,0.06724618535931659,Industry
-Real Estate,Industrial,36,0.4680497141125721,Industry
-Telecommunications,Mobile,53,0.09236915059447182,Industry
-Telecommunications,Broadband,99,0.01692505815617884,Industry
-Telecommunications,Satellite,60,0.9042809996924777,Industry
-Materials,Chemicals,70,0.27296959832255574,Industry
-Materials,Metals & Mining,43,0.5334055324276707,Industry
-Materials,Construction Materials,11,0.5177401613579744,Industry
-Industrials,Aerospace & Defense,74,0.5912551894101811,Industry
-Industrials,Machinery,3,0.2948578610614493,Industry
-Industrials,Industrial Services,10,0.7212437551685043,Industry
-Consumer Services,Retail,32,0.5952787053838348,Industry
-Consumer Services,Travel & Leisure,42,0.29233509172728933,Industry
-Consumer Services,Media,19,0.7981344413067317,Industry
-Transportation,Airlines,98,0.9286846115660132,Industry
-Transportation,Railroads,44,0.6997487857168491,Industry
-Transportation,Logistics,7,0.09294875808011893,Industry
+,Penobscot,612,0.504319715413068,Overall
+Penobscot,HiTech,11,0.4407377154183453,Sector
+Penobscot,Agriculture,65,0.18022959118395498,Sector
+Penobscot,Transportation,99,0.49110060073417516,Sector
+Penobscot,Consumer_Products,0,0.7490830591704464,Sector
+Penobscot,Unassigned,75,0.1195648801618544,Sector
+Penobscot,Communication,33,0.23512940740971233,Sector
+Penobscot,Trade,88,0.7145168750188249,Sector
+Penobscot,Business_Services,10,0.6000298664261347,Sector
+Penobscot,Business_Products,62,0.669284958040698,Sector
+Penobscot,Construction,25,0.34267354716762466,Sector
+Penobscot,Services,41,0.447538028451561,Sector
+Penobscot,Mining,0,0.5972417190490459,Sector
+Penobscot,Health_Care,19,0.4873316034425904,Sector
+Penobscot,EnergyExpL_Prod,15,0.8227973905179271,Sector
+Penobscot,Utilities,69,0.6675364890031265,Sector

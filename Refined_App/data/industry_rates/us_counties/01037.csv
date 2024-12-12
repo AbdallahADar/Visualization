@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Coosa,1914,0.6729546596378415,Overall
-Coosa,Technology,173,0.12812945749711369,Sector
-Coosa,Healthcare,155,0.5220498419802196,Sector
-Coosa,Finance,247,0.9786929210151586,Sector
-Coosa,Energy,115,0.914563665099457,Sector
-Coosa,Consumer Goods,193,0.29377917628603845,Sector
-Coosa,Utilities,181,0.1914334351393474,Sector
-Coosa,Real Estate,141,0.14682943850147034,Sector
-Coosa,Telecommunications,138,0.39988355063861514,Sector
-Coosa,Materials,19,0.9707150313494965,Sector
-Coosa,Industrials,153,0.8766592285635254,Sector
-Coosa,Consumer Services,236,0.1360548170212339,Sector
-Coosa,Transportation,163,0.33435034119664164,Sector
-Technology,Software,26,0.9833878019165391,Industry
-Technology,Hardware,51,0.619511006427112,Industry
-Technology,IT Services,96,0.7691382040209273,Industry
-Healthcare,Pharmaceuticals,86,0.20898821416674795,Industry
-Healthcare,Medical Devices,0,0.5592319372084515,Industry
-Healthcare,Healthcare Services,69,0.5098539657802894,Industry
-Finance,Banking,72,0.9585626135147658,Industry
-Finance,Insurance,89,0.6934453851831289,Industry
-Finance,Investment Services,86,0.07775723189935135,Industry
-Energy,Oil & Gas,33,0.6344372412619466,Industry
-Energy,Renewable Energy,76,0.6072810527306943,Industry
-Energy,Energy Exploration,6,0.0038347361675399316,Industry
-Consumer Goods,Food & Beverage,40,0.0608835014343837,Industry
-Consumer Goods,Household Products,68,0.6577281297945388,Industry
-Consumer Goods,Apparel,85,0.8094366911994676,Industry
-Utilities,Electric,72,0.009611925459397486,Industry
-Utilities,Water,33,0.06174912889820994,Industry
-Utilities,Gas,76,0.22172010826370758,Industry
-Real Estate,Residential,67,0.47232681310791635,Industry
-Real Estate,Commercial,6,0.4595968610463661,Industry
-Real Estate,Industrial,68,0.293869555045311,Industry
-Telecommunications,Mobile,29,0.29242355591918945,Industry
-Telecommunications,Broadband,55,0.7636686545338621,Industry
-Telecommunications,Satellite,54,0.6463324951661974,Industry
-Materials,Chemicals,5,0.08517800610898585,Industry
-Materials,Metals & Mining,0,0.2425034431999311,Industry
-Materials,Construction Materials,14,0.05216623617157434,Industry
-Industrials,Aerospace & Defense,79,0.5918233627000314,Industry
-Industrials,Machinery,0,0.107449997442986,Industry
-Industrials,Industrial Services,74,0.021761915910557872,Industry
-Consumer Services,Retail,91,0.6627236412813863,Industry
-Consumer Services,Travel & Leisure,76,0.011716285058521292,Industry
-Consumer Services,Media,69,0.8436488095426046,Industry
-Transportation,Airlines,75,0.6501998470640469,Industry
-Transportation,Railroads,66,0.5357586111193857,Industry
-Transportation,Logistics,22,0.22982078729604627,Industry
+,Coosa,829,0.4743632790302127,Overall
+Coosa,HiTech,76,0.2697531405731006,Sector
+Coosa,Agriculture,37,0.8506360696162946,Sector
+Coosa,Transportation,99,0.05814181785068029,Sector
+Coosa,Consumer_Products,18,0.9143494207410527,Sector
+Coosa,Unassigned,65,0.022753993313636034,Sector
+Coosa,Communication,33,0.923726343652297,Sector
+Coosa,Trade,13,0.26404608327254964,Sector
+Coosa,Business_Services,54,0.7536109397776138,Sector
+Coosa,Business_Products,4,0.09653000500865483,Sector
+Coosa,Construction,27,0.6815394621991073,Sector
+Coosa,Services,86,0.07786787293581499,Sector
+Coosa,Mining,93,0.9819922353255429,Sector
+Coosa,Health_Care,79,0.44013284045951795,Sector
+Coosa,EnergyExpL_Prod,84,0.35724885742778256,Sector
+Coosa,Utilities,61,0.42312010329954597,Sector

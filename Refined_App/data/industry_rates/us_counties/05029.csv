@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Conway,1571,0.6769172304091519,Overall
-Conway,Technology,47,0.7694080753181688,Sector
-Conway,Healthcare,183,0.15894138942127545,Sector
-Conway,Finance,109,0.27156838697047536,Sector
-Conway,Energy,143,0.017509366885988586,Sector
-Conway,Consumer Goods,163,0.20411255377186888,Sector
-Conway,Utilities,179,0.4415829583621427,Sector
-Conway,Real Estate,172,0.686069197139608,Sector
-Conway,Telecommunications,162,0.9996657032481194,Sector
-Conway,Materials,33,0.9476186058144493,Sector
-Conway,Industrials,51,0.08117830985583452,Sector
-Conway,Consumer Services,125,0.5742397280404231,Sector
-Conway,Transportation,204,0.8548939637987345,Sector
-Technology,Software,32,0.2864472275422342,Industry
-Technology,Hardware,5,0.4982466269444713,Industry
-Technology,IT Services,10,0.42625592496354336,Industry
-Healthcare,Pharmaceuticals,77,0.01941191901431194,Industry
-Healthcare,Medical Devices,52,0.6034852629358726,Industry
-Healthcare,Healthcare Services,54,0.8973388961476575,Industry
-Finance,Banking,44,0.010519600524184103,Industry
-Finance,Insurance,64,0.5687377733851153,Industry
-Finance,Investment Services,1,0.21836997958081217,Industry
-Energy,Oil & Gas,27,0.18137059173387848,Industry
-Energy,Renewable Energy,75,0.31186155662917214,Industry
-Energy,Energy Exploration,41,0.9285818175716959,Industry
-Consumer Goods,Food & Beverage,49,0.7828608537504979,Industry
-Consumer Goods,Household Products,18,0.27560694512347106,Industry
-Consumer Goods,Apparel,96,0.8494992948206475,Industry
-Utilities,Electric,60,0.018606284937469075,Industry
-Utilities,Water,34,0.2749238228147902,Industry
-Utilities,Gas,85,0.8402175991484473,Industry
-Real Estate,Residential,72,0.22692874591871592,Industry
-Real Estate,Commercial,65,0.511846981679308,Industry
-Real Estate,Industrial,35,0.7790421227235445,Industry
-Telecommunications,Mobile,73,0.6829313033751246,Industry
-Telecommunications,Broadband,89,0.6510177049252858,Industry
-Telecommunications,Satellite,0,0.15266406781505848,Industry
-Materials,Chemicals,16,0.16828251933362948,Industry
-Materials,Metals & Mining,1,0.44916138465324107,Industry
-Materials,Construction Materials,16,0.12086562715654259,Industry
-Industrials,Aerospace & Defense,17,0.7954087516688045,Industry
-Industrials,Machinery,15,0.15958906601150713,Industry
-Industrials,Industrial Services,19,0.47181422037617293,Industry
-Consumer Services,Retail,27,0.8505683987476038,Industry
-Consumer Services,Travel & Leisure,47,0.9357480083869943,Industry
-Consumer Services,Media,51,0.6822007676991299,Industry
-Transportation,Airlines,95,0.35229382796236663,Industry
-Transportation,Railroads,76,0.032953001480028554,Industry
-Transportation,Logistics,33,0.5006456304058685,Industry
+,Conway,629,0.5557422841901775,Overall
+Conway,HiTech,52,0.3519490770688819,Sector
+Conway,Agriculture,54,0.767255811635367,Sector
+Conway,Transportation,51,0.8770102765342251,Sector
+Conway,Consumer_Products,29,0.6052477491982284,Sector
+Conway,Unassigned,41,0.8063336611626271,Sector
+Conway,Communication,22,0.09851648060020246,Sector
+Conway,Trade,67,0.5935222649194326,Sector
+Conway,Business_Services,45,0.9762253347342793,Sector
+Conway,Business_Products,8,0.2828271653324189,Sector
+Conway,Construction,25,0.917638837366777,Sector
+Conway,Services,44,0.5512396319641152,Sector
+Conway,Mining,77,0.12883916417385444,Sector
+Conway,Health_Care,85,0.07743406981766754,Sector
+Conway,EnergyExpL_Prod,13,0.9900143233337284,Sector
+Conway,Utilities,16,0.3120804150108556,Sector

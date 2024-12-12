@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Harghita,1453,0.21610587097489675,Overall
-Harghita,Technology,130,0.3698842728081826,Sector
-Harghita,Healthcare,165,0.8051355284689692,Sector
-Harghita,Finance,98,0.11110254124388697,Sector
-Harghita,Energy,188,0.17982262118677983,Sector
-Harghita,Consumer Goods,58,0.8610252241953181,Sector
-Harghita,Utilities,92,0.294357084131896,Sector
-Harghita,Real Estate,64,0.20578698696503495,Sector
-Harghita,Telecommunications,119,0.8635338886006394,Sector
-Harghita,Materials,136,0.9088611948264798,Sector
-Harghita,Industrials,94,0.8278026057804335,Sector
-Harghita,Consumer Services,114,0.47873376168264736,Sector
-Harghita,Transportation,195,0.44695475583437594,Sector
-Technology,Software,35,0.7043051739244862,Industry
-Technology,Hardware,54,0.308123690420704,Industry
-Technology,IT Services,41,0.12976663525163745,Industry
-Healthcare,Pharmaceuticals,72,0.5053560512341826,Industry
-Healthcare,Medical Devices,65,0.23750802995786113,Industry
-Healthcare,Healthcare Services,28,0.038140749114248806,Industry
-Finance,Banking,48,0.9938558712142027,Industry
-Finance,Insurance,26,0.16377388250355196,Industry
-Finance,Investment Services,24,0.8841611021670244,Industry
-Energy,Oil & Gas,82,0.6456872842050795,Industry
-Energy,Renewable Energy,16,0.23432192933316165,Industry
-Energy,Energy Exploration,90,0.9772360114822749,Industry
-Consumer Goods,Food & Beverage,30,0.452178313270707,Industry
-Consumer Goods,Household Products,21,0.18006867271629756,Industry
-Consumer Goods,Apparel,7,0.3721931971290069,Industry
-Utilities,Electric,23,0.38070350870988423,Industry
-Utilities,Water,33,0.9612153938914635,Industry
-Utilities,Gas,36,0.15353678705869944,Industry
-Real Estate,Residential,13,0.4364181499963671,Industry
-Real Estate,Commercial,27,0.9632473327094491,Industry
-Real Estate,Industrial,24,0.438017593194996,Industry
-Telecommunications,Mobile,1,0.9166236362330963,Industry
-Telecommunications,Broadband,35,0.9101551714976712,Industry
-Telecommunications,Satellite,83,0.31137430738774596,Industry
-Materials,Chemicals,3,0.5533185925334836,Industry
-Materials,Metals & Mining,69,0.17193853765859868,Industry
-Materials,Construction Materials,64,0.10450263175761576,Industry
-Industrials,Aerospace & Defense,43,0.6109015511465281,Industry
-Industrials,Machinery,39,0.2966128149515125,Industry
-Industrials,Industrial Services,12,0.39715086725511184,Industry
-Consumer Services,Retail,39,0.2126511884659842,Industry
-Consumer Services,Travel & Leisure,5,0.7884896604947376,Industry
-Consumer Services,Media,70,0.1163603634822884,Industry
-Transportation,Airlines,77,0.1284581751101329,Industry
-Transportation,Railroads,19,0.7178285174735133,Industry
-Transportation,Logistics,99,0.7407087136061236,Industry
+,Harghita,769,0.4183663051760699,Overall
+Harghita,HiTech,62,0.2649385707622053,Sector
+Harghita,Agriculture,72,0.5401364185688227,Sector
+Harghita,Transportation,10,0.2674007382369701,Sector
+Harghita,Consumer_Products,60,0.7131288816576324,Sector
+Harghita,Unassigned,83,0.5627505658441198,Sector
+Harghita,Communication,18,0.7251760122035167,Sector
+Harghita,Trade,94,0.0011505290983579997,Sector
+Harghita,Business_Services,87,0.4534507781630923,Sector
+Harghita,Business_Products,39,0.46186726022172553,Sector
+Harghita,Construction,16,0.05119624140644097,Sector
+Harghita,Services,45,0.6286212765324675,Sector
+Harghita,Mining,29,0.29724159381885673,Sector
+Harghita,Health_Care,97,0.9056804697702598,Sector
+Harghita,EnergyExpL_Prod,52,0.3571959688692603,Sector
+Harghita,Utilities,5,0.0455592724873195,Sector

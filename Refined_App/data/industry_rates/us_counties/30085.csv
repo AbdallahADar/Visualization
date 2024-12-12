@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Roosevelt,1990,0.5191009982319159,Overall
-Roosevelt,Technology,132,0.17870206124779364,Sector
-Roosevelt,Healthcare,127,0.2957976100515567,Sector
-Roosevelt,Finance,123,0.42830359821482766,Sector
-Roosevelt,Energy,263,0.4857481382399884,Sector
-Roosevelt,Consumer Goods,147,0.954168807335933,Sector
-Roosevelt,Utilities,202,0.9412266560033445,Sector
-Roosevelt,Real Estate,127,0.0900164605169943,Sector
-Roosevelt,Telecommunications,104,0.960472918637851,Sector
-Roosevelt,Materials,256,0.12241042470619334,Sector
-Roosevelt,Industrials,224,0.676636722218274,Sector
-Roosevelt,Consumer Services,79,0.04569801172859622,Sector
-Roosevelt,Transportation,206,0.7374355859501058,Sector
-Technology,Software,3,0.30258902960724254,Industry
-Technology,Hardware,69,0.18099385872247098,Industry
-Technology,IT Services,60,0.09970677049641452,Industry
-Healthcare,Pharmaceuticals,89,0.9510097817197662,Industry
-Healthcare,Medical Devices,36,0.274216569424531,Industry
-Healthcare,Healthcare Services,2,0.9414966516888992,Industry
-Finance,Banking,74,0.7485369582318091,Industry
-Finance,Insurance,24,0.4521448121833206,Industry
-Finance,Investment Services,25,0.023263479627570804,Industry
-Energy,Oil & Gas,87,0.16911511480212482,Industry
-Energy,Renewable Energy,91,0.034690900121638,Industry
-Energy,Energy Exploration,85,0.3375427287504633,Industry
-Consumer Goods,Food & Beverage,67,0.2830681189214975,Industry
-Consumer Goods,Household Products,19,0.7354651176254231,Industry
-Consumer Goods,Apparel,61,0.6096765176612877,Industry
-Utilities,Electric,64,0.5050771931732746,Industry
-Utilities,Water,41,0.07838972249588749,Industry
-Utilities,Gas,97,0.13460735670356394,Industry
-Real Estate,Residential,46,0.628171885467193,Industry
-Real Estate,Commercial,27,0.048466693163172425,Industry
-Real Estate,Industrial,54,0.5808498142221308,Industry
-Telecommunications,Mobile,19,0.6881854794944281,Industry
-Telecommunications,Broadband,42,0.3470738645129181,Industry
-Telecommunications,Satellite,43,0.27734812556707533,Industry
-Materials,Chemicals,99,0.975329102422888,Industry
-Materials,Metals & Mining,82,0.8042105507750806,Industry
-Materials,Construction Materials,75,0.8145831421915724,Industry
-Industrials,Aerospace & Defense,53,0.9695003187902516,Industry
-Industrials,Machinery,99,0.9565655131553852,Industry
-Industrials,Industrial Services,72,0.856014002171719,Industry
-Consumer Services,Retail,20,0.5855046332462797,Industry
-Consumer Services,Travel & Leisure,30,0.18573140102937413,Industry
-Consumer Services,Media,29,0.2406305303255739,Industry
-Transportation,Airlines,47,0.0020121059216205994,Industry
-Transportation,Railroads,97,0.13532995766053535,Industry
-Transportation,Logistics,62,0.12467392773681218,Industry
+,Roosevelt,562,0.47115485168652865,Overall
+Roosevelt,HiTech,44,0.6492174012108239,Sector
+Roosevelt,Agriculture,11,0.15547367890582597,Sector
+Roosevelt,Transportation,83,0.7826832289364773,Sector
+Roosevelt,Consumer_Products,71,0.7939585395895131,Sector
+Roosevelt,Unassigned,34,0.12880087096252713,Sector
+Roosevelt,Communication,33,0.6742560841170595,Sector
+Roosevelt,Trade,48,0.1852733293469463,Sector
+Roosevelt,Business_Services,41,0.32057124351147437,Sector
+Roosevelt,Business_Products,3,0.9217000727260525,Sector
+Roosevelt,Construction,50,0.5803325699189394,Sector
+Roosevelt,Services,3,0.19589116405590956,Sector
+Roosevelt,Mining,28,0.17010606857017063,Sector
+Roosevelt,Health_Care,63,0.5080128022083228,Sector
+Roosevelt,EnergyExpL_Prod,14,0.2740015077367024,Sector
+Roosevelt,Utilities,36,0.7270442135011848,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Lecco,1528,0.7305607056754085,Overall
+Lecco,Technology,194,0.6703799811991444,Sector
+Lecco,Healthcare,40,0.2600130274661667,Sector
+Lecco,Finance,164,0.5749023007591041,Sector
+Lecco,Energy,102,0.7004107148466502,Sector
+Lecco,Consumer Goods,134,0.9081046473611112,Sector
+Lecco,Utilities,183,0.05483522366062654,Sector
+Lecco,Real Estate,59,0.3305872132315071,Sector
+Lecco,Telecommunications,147,0.5735851295762001,Sector
+Lecco,Materials,73,0.7117911500314187,Sector
+Lecco,Industrials,104,0.5468546651581092,Sector
+Lecco,Consumer Services,114,0.7400389425098375,Sector
+Lecco,Transportation,214,0.5238924877651491,Sector
+Technology,Software,88,0.4502272069450902,Industry
+Technology,Hardware,37,0.7287730175965274,Industry
+Technology,IT Services,69,0.9200613265494334,Industry
+Healthcare,Pharmaceuticals,23,0.9894296608979402,Industry
+Healthcare,Medical Devices,1,0.8097867762626846,Industry
+Healthcare,Healthcare Services,16,0.9782199082097341,Industry
+Finance,Banking,25,0.2736376301001001,Industry
+Finance,Insurance,79,0.13227014457063146,Industry
+Finance,Investment Services,60,0.19312552972694286,Industry
+Energy,Oil & Gas,71,0.1550628377813813,Industry
+Energy,Renewable Energy,5,0.9518548358855506,Industry
+Energy,Energy Exploration,26,0.6385877286696648,Industry
+Consumer Goods,Food & Beverage,30,0.7939129163289855,Industry
+Consumer Goods,Household Products,58,0.0563165608460906,Industry
+Consumer Goods,Apparel,46,0.700186898034453,Industry
+Utilities,Electric,76,0.06977179557046786,Industry
+Utilities,Water,92,0.21787458111421154,Industry
+Utilities,Gas,15,0.775305010327698,Industry
+Real Estate,Residential,9,0.7748200131414327,Industry
+Real Estate,Commercial,32,0.5728005157229789,Industry
+Real Estate,Industrial,18,0.3167960878920385,Industry
+Telecommunications,Mobile,92,0.5060726138399986,Industry
+Telecommunications,Broadband,34,0.11007675749325796,Industry
+Telecommunications,Satellite,21,0.666775404546334,Industry
+Materials,Chemicals,35,0.3750967855252103,Industry
+Materials,Metals & Mining,32,0.49494906607563904,Industry
+Materials,Construction Materials,6,0.5935601037765662,Industry
+Industrials,Aerospace & Defense,48,0.3655022511598398,Industry
+Industrials,Machinery,17,0.7715877613000666,Industry
+Industrials,Industrial Services,39,0.9698232477505475,Industry
+Consumer Services,Retail,23,0.2816699548086977,Industry
+Consumer Services,Travel & Leisure,44,0.31539318784338477,Industry
+Consumer Services,Media,47,0.027747552603326064,Industry
+Transportation,Airlines,75,0.45232942984172275,Industry
+Transportation,Railroads,61,0.2669746011873918,Industry
+Transportation,Logistics,78,0.8010247790530818,Industry

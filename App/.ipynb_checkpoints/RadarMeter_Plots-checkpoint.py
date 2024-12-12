@@ -7,16 +7,16 @@ def create_radar_meter(value, background_color):
     
     # Determine the color and the corresponding text category based on the value
     if value >= 75:
-        color = "Green"
+        color = "#0046BF"
         category_text = "High"
     elif value >= 50:
-        color = "Yellow"
+        color = "#669EFF"
         category_text = "Medium<br>High"
     elif value >= 25:
-        color = "Orange"
+        color = "#99BFFF"
         category_text = "Medium<br>Low"
     else:
-        color = "Red"
+        color = "#CCDFFF"
         category_text = "Low"
     
     # Adjust font size based on the length of the category text

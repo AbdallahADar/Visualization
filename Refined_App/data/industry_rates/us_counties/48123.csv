@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,DeWitt,1647,0.8750936499899897,Overall
-DeWitt,Technology,65,0.14206336790291163,Sector
-DeWitt,Healthcare,166,0.4519303842551733,Sector
-DeWitt,Finance,170,0.4181772237665068,Sector
-DeWitt,Energy,206,0.3879277018243169,Sector
-DeWitt,Consumer Goods,19,0.48854249317170895,Sector
-DeWitt,Utilities,94,0.44019907397089786,Sector
-DeWitt,Real Estate,87,0.8522615296488549,Sector
-DeWitt,Telecommunications,163,0.013914036336427404,Sector
-DeWitt,Materials,240,0.045683549183137884,Sector
-DeWitt,Industrials,117,0.16718434568602036,Sector
-DeWitt,Consumer Services,57,0.05749884348668688,Sector
-DeWitt,Transportation,263,0.6701187196226589,Sector
-Technology,Software,23,0.5902226432152695,Industry
-Technology,Hardware,21,0.8512147904622553,Industry
-Technology,IT Services,21,0.9837701097684612,Industry
-Healthcare,Pharmaceuticals,37,0.6146666609820477,Industry
-Healthcare,Medical Devices,47,0.34195053351502136,Industry
-Healthcare,Healthcare Services,82,0.05768251063510521,Industry
-Finance,Banking,56,0.9795652624998675,Industry
-Finance,Insurance,58,0.5018865971084073,Industry
-Finance,Investment Services,56,0.6352887146120668,Industry
-Energy,Oil & Gas,36,0.9774284078818921,Industry
-Energy,Renewable Energy,96,0.40733276270183394,Industry
-Energy,Energy Exploration,74,0.8600494416067154,Industry
-Consumer Goods,Food & Beverage,9,0.5573300150720233,Industry
-Consumer Goods,Household Products,4,0.7261252535383282,Industry
-Consumer Goods,Apparel,6,0.9387146320005563,Industry
-Utilities,Electric,8,0.9795846581987742,Industry
-Utilities,Water,48,0.0485461129079543,Industry
-Utilities,Gas,38,0.5816819028632397,Industry
-Real Estate,Residential,38,0.14706914321190934,Industry
-Real Estate,Commercial,30,0.9293500352363454,Industry
-Real Estate,Industrial,19,0.8347856082050367,Industry
-Telecommunications,Mobile,37,0.5681055366323103,Industry
-Telecommunications,Broadband,68,0.9284819425924422,Industry
-Telecommunications,Satellite,58,0.664744597870193,Industry
-Materials,Chemicals,65,0.9879203413752567,Industry
-Materials,Metals & Mining,83,0.10404778859059283,Industry
-Materials,Construction Materials,92,0.7412486868523488,Industry
-Industrials,Aerospace & Defense,26,0.47239491313187487,Industry
-Industrials,Machinery,72,0.4523537382359535,Industry
-Industrials,Industrial Services,19,0.5293943235925594,Industry
-Consumer Services,Retail,5,0.8760214034429149,Industry
-Consumer Services,Travel & Leisure,32,0.7615331253522579,Industry
-Consumer Services,Media,20,0.8746297606602382,Industry
-Transportation,Airlines,93,0.08402670070088258,Industry
-Transportation,Railroads,87,0.0581352923177052,Industry
-Transportation,Logistics,83,0.2714382358024966,Industry
+,DeWitt,767,0.5288453493536097,Overall
+DeWitt,HiTech,70,0.9033905516298599,Sector
+DeWitt,Agriculture,65,0.9721309563999909,Sector
+DeWitt,Transportation,90,0.3385544313354537,Sector
+DeWitt,Consumer_Products,54,0.05440382040757985,Sector
+DeWitt,Unassigned,58,0.6422971983642828,Sector
+DeWitt,Communication,5,0.1542228569861127,Sector
+DeWitt,Trade,4,0.5318237368137164,Sector
+DeWitt,Business_Services,94,0.9327182025316483,Sector
+DeWitt,Business_Products,17,0.3698007437644134,Sector
+DeWitt,Construction,6,0.5604079902687872,Sector
+DeWitt,Services,98,0.3449140120188581,Sector
+DeWitt,Mining,16,0.7057324476103459,Sector
+DeWitt,Health_Care,75,0.35052927753739993,Sector
+DeWitt,EnergyExpL_Prod,67,0.8284599672616784,Sector
+DeWitt,Utilities,48,0.24329404737401739,Sector

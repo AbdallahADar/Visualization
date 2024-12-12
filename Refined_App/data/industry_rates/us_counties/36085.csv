@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Richmond,1698,0.4501875010574128,Overall
-Richmond,Technology,78,0.8076101800403362,Sector
-Richmond,Healthcare,34,0.5674756431842991,Sector
-Richmond,Finance,122,0.32993339574481473,Sector
-Richmond,Energy,145,0.17007329628712264,Sector
-Richmond,Consumer Goods,195,0.20100923168143436,Sector
-Richmond,Utilities,122,0.7188336189983626,Sector
-Richmond,Real Estate,194,0.5576499917491793,Sector
-Richmond,Telecommunications,148,0.2555910023008653,Sector
-Richmond,Materials,181,0.1662326011617945,Sector
-Richmond,Industrials,117,0.9837152092295235,Sector
-Richmond,Consumer Services,145,0.7822320738840678,Sector
-Richmond,Transportation,217,0.5809604255186739,Sector
-Technology,Software,24,0.15186213861188758,Industry
-Technology,Hardware,28,0.6849299050776677,Industry
-Technology,IT Services,26,0.672320641152186,Industry
-Healthcare,Pharmaceuticals,12,0.13495357022589194,Industry
-Healthcare,Medical Devices,7,0.7271707631262264,Industry
-Healthcare,Healthcare Services,15,0.39818413588371726,Industry
-Finance,Banking,66,0.49351520311224295,Industry
-Finance,Insurance,21,0.0010986805489926477,Industry
-Finance,Investment Services,35,0.09942299821167433,Industry
-Energy,Oil & Gas,63,0.3520079720697683,Industry
-Energy,Renewable Energy,1,0.5748342707189612,Industry
-Energy,Energy Exploration,81,0.7693789590107464,Industry
-Consumer Goods,Food & Beverage,92,0.34687374054489917,Industry
-Consumer Goods,Household Products,54,0.36754136311213803,Industry
-Consumer Goods,Apparel,49,0.036037392403855506,Industry
-Utilities,Electric,27,0.7000172918952022,Industry
-Utilities,Water,92,0.9816125946532263,Industry
-Utilities,Gas,3,0.11407871854917007,Industry
-Real Estate,Residential,32,0.7892376297541183,Industry
-Real Estate,Commercial,80,0.6599508805933556,Industry
-Real Estate,Industrial,82,0.3516992930029216,Industry
-Telecommunications,Mobile,1,0.15697099113885726,Industry
-Telecommunications,Broadband,52,0.28693520542830453,Industry
-Telecommunications,Satellite,95,0.07015993712803115,Industry
-Materials,Chemicals,66,0.43367428783704676,Industry
-Materials,Metals & Mining,66,0.06255498692633277,Industry
-Materials,Construction Materials,49,0.09149273636537025,Industry
-Industrials,Aerospace & Defense,8,0.3226626359946464,Industry
-Industrials,Machinery,88,0.1215245147023899,Industry
-Industrials,Industrial Services,21,0.2084663686733681,Industry
-Consumer Services,Retail,31,0.18197892571568486,Industry
-Consumer Services,Travel & Leisure,50,0.7104752876190248,Industry
-Consumer Services,Media,64,0.09536347896176933,Industry
-Transportation,Airlines,64,0.4014641298819296,Industry
-Transportation,Railroads,54,0.31279540126509153,Industry
-Transportation,Logistics,99,0.6007119482089446,Industry
+,Richmond,803,0.5081742907382564,Overall
+Richmond,HiTech,15,0.9455311651824517,Sector
+Richmond,Agriculture,85,0.6064170002708092,Sector
+Richmond,Transportation,75,0.45175339189374075,Sector
+Richmond,Consumer_Products,38,0.1814699447029554,Sector
+Richmond,Unassigned,17,0.3646001708746103,Sector
+Richmond,Communication,79,0.9902868686216815,Sector
+Richmond,Trade,90,0.9220800233698042,Sector
+Richmond,Business_Services,37,0.35286595486750016,Sector
+Richmond,Business_Products,83,0.05736941979510435,Sector
+Richmond,Construction,26,0.8051786398570477,Sector
+Richmond,Services,60,0.06076928796963299,Sector
+Richmond,Mining,64,0.49322788463978007,Sector
+Richmond,Health_Care,75,0.07019079233982772,Sector
+Richmond,EnergyExpL_Prod,2,0.4321836053067317,Sector
+Richmond,Utilities,57,0.8886902113821685,Sector

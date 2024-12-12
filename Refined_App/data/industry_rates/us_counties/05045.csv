@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Faulkner,2030,0.4480330558818213,Overall
-Faulkner,Technology,181,0.21178819031860419,Sector
-Faulkner,Healthcare,206,0.030574278622132578,Sector
-Faulkner,Finance,113,0.230152478217157,Sector
-Faulkner,Energy,158,0.07396593143228136,Sector
-Faulkner,Consumer Goods,169,0.45540390684193466,Sector
-Faulkner,Utilities,138,0.9563119451920317,Sector
-Faulkner,Real Estate,138,0.31082734882408725,Sector
-Faulkner,Telecommunications,142,0.045764835715434216,Sector
-Faulkner,Materials,190,0.928853674240156,Sector
-Faulkner,Industrials,153,0.8770251721941914,Sector
-Faulkner,Consumer Services,239,0.12324196835994716,Sector
-Faulkner,Transportation,203,0.9545588759016079,Sector
-Technology,Software,96,0.6192885586571549,Industry
-Technology,Hardware,6,0.39239147940104824,Industry
-Technology,IT Services,79,0.8880472075805809,Industry
-Healthcare,Pharmaceuticals,46,0.9856994325269746,Industry
-Healthcare,Medical Devices,89,0.5189933162238296,Industry
-Healthcare,Healthcare Services,71,0.6940025147383885,Industry
-Finance,Banking,0,0.9971952074295244,Industry
-Finance,Insurance,17,0.7496498442763668,Industry
-Finance,Investment Services,96,0.0729598553890427,Industry
-Energy,Oil & Gas,2,0.2443285281554055,Industry
-Energy,Renewable Energy,89,0.258948980543361,Industry
-Energy,Energy Exploration,67,0.7637101357739027,Industry
-Consumer Goods,Food & Beverage,84,0.09968182719423924,Industry
-Consumer Goods,Household Products,27,0.3260534946063042,Industry
-Consumer Goods,Apparel,58,0.28861867509775285,Industry
-Utilities,Electric,42,0.23137370998420936,Industry
-Utilities,Water,36,0.056163369005760466,Industry
-Utilities,Gas,60,0.273182339809518,Industry
-Real Estate,Residential,62,0.16465008464673314,Industry
-Real Estate,Commercial,45,0.037959083111068326,Industry
-Real Estate,Industrial,31,0.39382781774139763,Industry
-Telecommunications,Mobile,78,0.37243708617635063,Industry
-Telecommunications,Broadband,26,0.24016088041589578,Industry
-Telecommunications,Satellite,38,0.349101488592626,Industry
-Materials,Chemicals,78,0.4285459404163209,Industry
-Materials,Metals & Mining,90,0.7901138513251564,Industry
-Materials,Construction Materials,22,0.21562145562849766,Industry
-Industrials,Aerospace & Defense,31,0.9994136185925367,Industry
-Industrials,Machinery,63,0.31983900224979844,Industry
-Industrials,Industrial Services,59,0.37890357850636003,Industry
-Consumer Services,Retail,97,0.27105437639938623,Industry
-Consumer Services,Travel & Leisure,48,0.5546905243310484,Industry
-Consumer Services,Media,94,0.028470624039120596,Industry
-Transportation,Airlines,77,0.9292306318149077,Industry
-Transportation,Railroads,62,0.2376489756944482,Industry
-Transportation,Logistics,64,0.2954661100196938,Industry
+,Faulkner,722,0.4025374632391185,Overall
+Faulkner,HiTech,39,0.741408363587106,Sector
+Faulkner,Agriculture,7,0.39950000799387575,Sector
+Faulkner,Transportation,29,0.32503779362256535,Sector
+Faulkner,Consumer_Products,79,0.009655313423657441,Sector
+Faulkner,Unassigned,50,0.021340507389196017,Sector
+Faulkner,Communication,78,0.23983650451531602,Sector
+Faulkner,Trade,58,0.5373109752148385,Sector
+Faulkner,Business_Services,5,0.27750517232409155,Sector
+Faulkner,Business_Products,52,0.8322806615986056,Sector
+Faulkner,Construction,82,0.9370827860119656,Sector
+Faulkner,Services,43,0.1916337697414373,Sector
+Faulkner,Mining,87,0.18876169423866673,Sector
+Faulkner,Health_Care,45,0.2986354241162086,Sector
+Faulkner,EnergyExpL_Prod,61,0.4498732344297367,Sector
+Faulkner,Utilities,7,0.5881997403795088,Sector

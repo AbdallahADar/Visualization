@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Montgomery,1560,0.27254663464959317,Overall
-Montgomery,Technology,125,0.192140497001973,Sector
-Montgomery,Healthcare,78,0.9596206795464535,Sector
-Montgomery,Finance,119,0.5361543296971771,Sector
-Montgomery,Energy,127,0.19739282374941503,Sector
-Montgomery,Consumer Goods,171,0.6097616353019482,Sector
-Montgomery,Utilities,179,0.988064903646267,Sector
-Montgomery,Real Estate,122,0.4318674184912792,Sector
-Montgomery,Telecommunications,150,0.26046356931295556,Sector
-Montgomery,Materials,129,0.6005424566828332,Sector
-Montgomery,Industrials,172,0.1988404973111999,Sector
-Montgomery,Consumer Services,56,0.5797467404818974,Sector
-Montgomery,Transportation,132,0.735394694900738,Sector
-Technology,Software,93,0.7920986866138406,Industry
-Technology,Hardware,21,0.14921033492902114,Industry
-Technology,IT Services,11,0.5647547750775971,Industry
-Healthcare,Pharmaceuticals,20,0.8398225172514834,Industry
-Healthcare,Medical Devices,48,0.36090497108069686,Industry
-Healthcare,Healthcare Services,10,0.353178718860388,Industry
-Finance,Banking,15,0.7728679768036688,Industry
-Finance,Insurance,15,0.3320389184078243,Industry
-Finance,Investment Services,89,0.7307433663997696,Industry
-Energy,Oil & Gas,15,0.6665942006077469,Industry
-Energy,Renewable Energy,88,0.8936265573207164,Industry
-Energy,Energy Exploration,24,0.58656031650205,Industry
-Consumer Goods,Food & Beverage,74,0.26736946327610456,Industry
-Consumer Goods,Household Products,88,0.29456324599349815,Industry
-Consumer Goods,Apparel,9,0.7742956777290962,Industry
-Utilities,Electric,82,0.10355177457580145,Industry
-Utilities,Water,61,0.9218731512733659,Industry
-Utilities,Gas,36,0.5846411389857363,Industry
-Real Estate,Residential,80,0.8984590069465943,Industry
-Real Estate,Commercial,13,0.7334255075082818,Industry
-Real Estate,Industrial,29,0.8670556028760913,Industry
-Telecommunications,Mobile,24,0.7364054584960258,Industry
-Telecommunications,Broadband,85,0.251767615129051,Industry
-Telecommunications,Satellite,41,0.9640848869418526,Industry
-Materials,Chemicals,34,0.1449759078672609,Industry
-Materials,Metals & Mining,11,0.38098655020063066,Industry
-Materials,Construction Materials,84,0.4121501925939539,Industry
-Industrials,Aerospace & Defense,93,0.2729919269076635,Industry
-Industrials,Machinery,52,0.13590731350583563,Industry
-Industrials,Industrial Services,27,0.45782980055219547,Industry
-Consumer Services,Retail,15,0.6036574303277018,Industry
-Consumer Services,Travel & Leisure,23,0.18149829549430596,Industry
-Consumer Services,Media,18,0.23751378068695528,Industry
-Transportation,Airlines,28,0.38409728224346773,Industry
-Transportation,Railroads,75,0.13217800078843744,Industry
-Transportation,Logistics,29,0.4092041036521382,Industry
+,Montgomery,616,0.4299851996731478,Overall
+Montgomery,HiTech,54,0.4435248098090492,Sector
+Montgomery,Agriculture,11,0.9984503798854037,Sector
+Montgomery,Transportation,37,0.29208707067896,Sector
+Montgomery,Consumer_Products,10,0.10923893044911559,Sector
+Montgomery,Unassigned,97,0.6572068614630904,Sector
+Montgomery,Communication,42,0.22775338914617516,Sector
+Montgomery,Trade,27,0.24180353656787112,Sector
+Montgomery,Business_Services,4,0.9829417333093932,Sector
+Montgomery,Business_Products,59,0.2844831727027862,Sector
+Montgomery,Construction,83,0.08756437267590256,Sector
+Montgomery,Services,33,0.2787433184088879,Sector
+Montgomery,Mining,23,0.44820079272620106,Sector
+Montgomery,Health_Care,90,0.5202537241311627,Sector
+Montgomery,EnergyExpL_Prod,11,0.3912668667862167,Sector
+Montgomery,Utilities,35,0.4862590363570026,Sector

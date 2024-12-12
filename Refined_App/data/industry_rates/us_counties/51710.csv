@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Norfolk,1851,0.6060018697413123,Overall
-Norfolk,Technology,120,0.4571046756418562,Sector
-Norfolk,Healthcare,243,0.5954991468729232,Sector
-Norfolk,Finance,70,0.7784002421721865,Sector
-Norfolk,Energy,96,0.4445903295561092,Sector
-Norfolk,Consumer Goods,248,0.24678444957690004,Sector
-Norfolk,Utilities,126,0.6281147037084395,Sector
-Norfolk,Real Estate,158,0.2730005383414762,Sector
-Norfolk,Telecommunications,200,0.881111201321281,Sector
-Norfolk,Materials,97,0.6173300852496331,Sector
-Norfolk,Industrials,114,0.7227824333057388,Sector
-Norfolk,Consumer Services,260,0.22351904731326777,Sector
-Norfolk,Transportation,119,0.1829145524017498,Sector
-Technology,Software,75,0.8320670059674572,Industry
-Technology,Hardware,36,0.12236122852424747,Industry
-Technology,IT Services,9,0.2199327076661184,Industry
-Healthcare,Pharmaceuticals,59,0.13538847283120237,Industry
-Healthcare,Medical Devices,90,0.6063030032641628,Industry
-Healthcare,Healthcare Services,94,0.5539098790846515,Industry
-Finance,Banking,35,0.8786767847496018,Industry
-Finance,Insurance,3,0.6280832914258974,Industry
-Finance,Investment Services,32,0.02946259350085878,Industry
-Energy,Oil & Gas,31,0.5084417747462969,Industry
-Energy,Renewable Energy,10,0.6935012414598289,Industry
-Energy,Energy Exploration,55,0.5208997821931257,Industry
-Consumer Goods,Food & Beverage,80,0.21635991907881802,Industry
-Consumer Goods,Household Products,81,0.7940915675453136,Industry
-Consumer Goods,Apparel,87,0.45574020435027984,Industry
-Utilities,Electric,4,0.9763434621990714,Industry
-Utilities,Water,49,0.7019579758290417,Industry
-Utilities,Gas,73,0.27207053645322565,Industry
-Real Estate,Residential,18,0.2307638051991059,Industry
-Real Estate,Commercial,66,0.5328835202255436,Industry
-Real Estate,Industrial,74,0.2060493199868051,Industry
-Telecommunications,Mobile,79,0.9941681198273385,Industry
-Telecommunications,Broadband,49,0.4787535606324621,Industry
-Telecommunications,Satellite,72,0.46221868884762884,Industry
-Materials,Chemicals,30,0.20570071742366025,Industry
-Materials,Metals & Mining,36,0.09664538690007629,Industry
-Materials,Construction Materials,31,0.03688920531499451,Industry
-Industrials,Aerospace & Defense,24,0.353647613633135,Industry
-Industrials,Machinery,88,0.606270807734618,Industry
-Industrials,Industrial Services,2,0.6694824249271039,Industry
-Consumer Services,Retail,71,0.2236704971373802,Industry
-Consumer Services,Travel & Leisure,94,0.5865642590992324,Industry
-Consumer Services,Media,95,0.16817634066774523,Industry
-Transportation,Airlines,47,0.7094155431035648,Industry
-Transportation,Railroads,43,0.2997246223480111,Industry
-Transportation,Logistics,29,0.8497879470025375,Industry
+,Norfolk,575,0.4394505659428383,Overall
+Norfolk,HiTech,63,0.7931138665658741,Sector
+Norfolk,Agriculture,36,0.26008394178694805,Sector
+Norfolk,Transportation,39,0.611709798049074,Sector
+Norfolk,Consumer_Products,14,0.9256796043559107,Sector
+Norfolk,Unassigned,85,0.32006383545132,Sector
+Norfolk,Communication,10,0.7701990652442827,Sector
+Norfolk,Trade,37,0.07003888233458166,Sector
+Norfolk,Business_Services,0,0.9626937420173333,Sector
+Norfolk,Business_Products,0,0.27050994255793215,Sector
+Norfolk,Construction,29,0.026800573246280934,Sector
+Norfolk,Services,20,0.10202375075444947,Sector
+Norfolk,Mining,71,0.2570358808979176,Sector
+Norfolk,Health_Care,52,0.06113443687473041,Sector
+Norfolk,EnergyExpL_Prod,60,0.8581220658132835,Sector
+Norfolk,Utilities,59,0.30254910319265615,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dorado,1782,0.9783777407287092,Overall
-Dorado,Technology,133,0.07597794486953469,Sector
-Dorado,Healthcare,66,0.5112093977512526,Sector
-Dorado,Finance,134,0.08596512686325963,Sector
-Dorado,Energy,179,0.32529818979847125,Sector
-Dorado,Consumer Goods,144,0.13297064987436358,Sector
-Dorado,Utilities,142,0.4291579480437192,Sector
-Dorado,Real Estate,166,0.9251607006189811,Sector
-Dorado,Telecommunications,199,0.9398693016262537,Sector
-Dorado,Materials,171,0.7618564769608783,Sector
-Dorado,Industrials,123,0.058792473827653846,Sector
-Dorado,Consumer Services,155,0.05950085360573243,Sector
-Dorado,Transportation,170,0.8424937264017518,Sector
-Technology,Software,88,0.29551926607136947,Industry
-Technology,Hardware,21,0.6844117889559567,Industry
-Technology,IT Services,24,0.46413957779112913,Industry
-Healthcare,Pharmaceuticals,30,0.38594501325624864,Industry
-Healthcare,Medical Devices,34,0.16883100844171406,Industry
-Healthcare,Healthcare Services,2,0.0899746314650196,Industry
-Finance,Banking,60,0.04832676013237014,Industry
-Finance,Insurance,72,0.6235135850021596,Industry
-Finance,Investment Services,2,0.38328779023672566,Industry
-Energy,Oil & Gas,26,0.6435634419774814,Industry
-Energy,Renewable Energy,79,0.9984943515496988,Industry
-Energy,Energy Exploration,74,0.14615317639284076,Industry
-Consumer Goods,Food & Beverage,61,0.731542186537199,Industry
-Consumer Goods,Household Products,48,0.1980701476882114,Industry
-Consumer Goods,Apparel,35,0.26772044134602657,Industry
-Utilities,Electric,20,0.22959792885804142,Industry
-Utilities,Water,98,0.8674069965819278,Industry
-Utilities,Gas,24,0.8416927337111901,Industry
-Real Estate,Residential,51,0.24841693094142703,Industry
-Real Estate,Commercial,55,0.8211346168879627,Industry
-Real Estate,Industrial,60,0.756784160442274,Industry
-Telecommunications,Mobile,79,0.8368815399336454,Industry
-Telecommunications,Broadband,51,0.3107507214227163,Industry
-Telecommunications,Satellite,69,0.46843553587602904,Industry
-Materials,Chemicals,98,0.6785489683752592,Industry
-Materials,Metals & Mining,0,0.2024553402748538,Industry
-Materials,Construction Materials,73,0.2396032041559133,Industry
-Industrials,Aerospace & Defense,28,0.49329081399671537,Industry
-Industrials,Machinery,24,0.2745972254349601,Industry
-Industrials,Industrial Services,71,0.4962165577610833,Industry
-Consumer Services,Retail,61,0.5996286063079688,Industry
-Consumer Services,Travel & Leisure,29,0.9140440143618498,Industry
-Consumer Services,Media,65,0.3923741361446549,Industry
-Transportation,Airlines,52,0.28002178001206535,Industry
-Transportation,Railroads,27,0.13035219862800718,Industry
-Transportation,Logistics,91,0.7297277850696985,Industry
+,Dorado,825,0.4622431974715708,Overall
+Dorado,HiTech,14,0.3789926332729523,Sector
+Dorado,Agriculture,81,0.8143944286126961,Sector
+Dorado,Transportation,1,0.565933115530043,Sector
+Dorado,Consumer_Products,82,0.8107732661576912,Sector
+Dorado,Unassigned,78,0.4492645329376672,Sector
+Dorado,Communication,11,0.3033018145113596,Sector
+Dorado,Trade,60,0.7382697065515624,Sector
+Dorado,Business_Services,78,0.3026725788302006,Sector
+Dorado,Business_Products,70,0.4494389808415764,Sector
+Dorado,Construction,16,0.44580399439611196,Sector
+Dorado,Services,69,0.9263513583254577,Sector
+Dorado,Mining,37,0.3503096265096959,Sector
+Dorado,Health_Care,47,0.13070361768024552,Sector
+Dorado,EnergyExpL_Prod,87,0.22453874192382617,Sector
+Dorado,Utilities,94,0.04289956599247602,Sector

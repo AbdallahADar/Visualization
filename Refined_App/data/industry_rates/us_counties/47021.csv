@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cheatham,2002,0.20823976065411398,Overall
-Cheatham,Technology,181,0.4553952793087218,Sector
-Cheatham,Healthcare,213,0.451360799479679,Sector
-Cheatham,Finance,125,0.4441322124578406,Sector
-Cheatham,Energy,130,0.10307505526688254,Sector
-Cheatham,Consumer Goods,203,0.29231107951076596,Sector
-Cheatham,Utilities,236,0.5821268365955107,Sector
-Cheatham,Real Estate,243,0.34419763570999284,Sector
-Cheatham,Telecommunications,48,0.27109565445543216,Sector
-Cheatham,Materials,104,0.7623660717486387,Sector
-Cheatham,Industrials,132,0.13804523769457655,Sector
-Cheatham,Consumer Services,248,0.9391500467767889,Sector
-Cheatham,Transportation,139,0.15817930717564355,Sector
-Technology,Software,73,0.7045478898604556,Industry
-Technology,Hardware,26,0.6730496546076473,Industry
-Technology,IT Services,82,0.33953988937840573,Industry
-Healthcare,Pharmaceuticals,83,0.704846542744226,Industry
-Healthcare,Medical Devices,50,0.3301601515018008,Industry
-Healthcare,Healthcare Services,80,0.31581813715142937,Industry
-Finance,Banking,90,0.9376040647982099,Industry
-Finance,Insurance,21,0.03725445537754635,Industry
-Finance,Investment Services,14,0.990908901353504,Industry
-Energy,Oil & Gas,95,0.6905257637938484,Industry
-Energy,Renewable Energy,22,0.2934585682063946,Industry
-Energy,Energy Exploration,13,0.2844382421272188,Industry
-Consumer Goods,Food & Beverage,95,0.11726197864311849,Industry
-Consumer Goods,Household Products,59,0.502169558873955,Industry
-Consumer Goods,Apparel,49,0.8261824465888411,Industry
-Utilities,Electric,67,0.6704799265043013,Industry
-Utilities,Water,90,0.8837384197334642,Industry
-Utilities,Gas,79,0.9336113858016831,Industry
-Real Estate,Residential,96,0.25723043866581774,Industry
-Real Estate,Commercial,71,0.9944269241514084,Industry
-Real Estate,Industrial,76,0.5649153567110534,Industry
-Telecommunications,Mobile,33,0.9612293339559989,Industry
-Telecommunications,Broadband,6,0.7986370902969553,Industry
-Telecommunications,Satellite,9,0.927961474409858,Industry
-Materials,Chemicals,59,0.966387203267831,Industry
-Materials,Metals & Mining,39,0.4373387094077754,Industry
-Materials,Construction Materials,6,0.07420316955215189,Industry
-Industrials,Aerospace & Defense,16,0.3279316278741641,Industry
-Industrials,Machinery,34,0.7413863424074225,Industry
-Industrials,Industrial Services,82,0.5005896507181871,Industry
-Consumer Services,Retail,86,0.09407412664379766,Industry
-Consumer Services,Travel & Leisure,91,0.28861656803076496,Industry
-Consumer Services,Media,71,0.17992210554169175,Industry
-Transportation,Airlines,46,0.9372836139571135,Industry
-Transportation,Railroads,77,0.39434615246002946,Industry
-Transportation,Logistics,16,0.9070446250627547,Industry
+,Cheatham,595,0.4327668411740928,Overall
+Cheatham,HiTech,16,0.37768654018961356,Sector
+Cheatham,Agriculture,3,0.4723941841742869,Sector
+Cheatham,Transportation,58,0.19922132775510115,Sector
+Cheatham,Consumer_Products,50,0.14162142906770803,Sector
+Cheatham,Unassigned,3,0.8449813191271254,Sector
+Cheatham,Communication,25,0.07545290390739068,Sector
+Cheatham,Trade,38,0.7162362580600456,Sector
+Cheatham,Business_Services,95,0.7358957027405888,Sector
+Cheatham,Business_Products,75,0.7109780756422868,Sector
+Cheatham,Construction,42,0.5911037009743672,Sector
+Cheatham,Services,34,0.0051790839564321844,Sector
+Cheatham,Mining,7,0.4058737408256422,Sector
+Cheatham,Health_Care,4,0.5303365544684032,Sector
+Cheatham,EnergyExpL_Prod,93,0.10463887300418717,Sector
+Cheatham,Utilities,52,0.5799029237182135,Sector

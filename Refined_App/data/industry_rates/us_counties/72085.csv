@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Las Piedras,1557,0.8161398308099699,Overall
-Las Piedras,Technology,146,0.08708331505709244,Sector
-Las Piedras,Healthcare,133,0.8045034889243083,Sector
-Las Piedras,Finance,172,0.020077488190277437,Sector
-Las Piedras,Energy,87,0.836067441307344,Sector
-Las Piedras,Consumer Goods,101,0.6735425053630434,Sector
-Las Piedras,Utilities,131,0.9454754802333227,Sector
-Las Piedras,Real Estate,169,0.4512498078545405,Sector
-Las Piedras,Telecommunications,139,0.0800223964379071,Sector
-Las Piedras,Materials,69,0.8524612751407741,Sector
-Las Piedras,Industrials,80,0.3509481116718569,Sector
-Las Piedras,Consumer Services,172,0.8221276239246901,Sector
-Las Piedras,Transportation,158,0.6426473296787311,Sector
-Technology,Software,27,0.7215335889468568,Industry
-Technology,Hardware,41,0.637758863501207,Industry
-Technology,IT Services,78,0.6613325540712537,Industry
-Healthcare,Pharmaceuticals,84,0.6799853279030531,Industry
-Healthcare,Medical Devices,24,0.22929646727840047,Industry
-Healthcare,Healthcare Services,25,0.07653836636820854,Industry
-Finance,Banking,39,0.6338628318120401,Industry
-Finance,Insurance,89,0.5766022416444335,Industry
-Finance,Investment Services,44,0.6929901533370701,Industry
-Energy,Oil & Gas,26,0.06370659153426017,Industry
-Energy,Renewable Energy,25,0.7762214603912891,Industry
-Energy,Energy Exploration,36,0.07668813286120968,Industry
-Consumer Goods,Food & Beverage,2,0.21391578996484595,Industry
-Consumer Goods,Household Products,18,0.5945105887523212,Industry
-Consumer Goods,Apparel,81,0.662758746690559,Industry
-Utilities,Electric,78,0.11846129568050245,Industry
-Utilities,Water,9,0.8003430176765373,Industry
-Utilities,Gas,44,0.8085931565851955,Industry
-Real Estate,Residential,98,0.8911886073003569,Industry
-Real Estate,Commercial,26,0.6026052712892453,Industry
-Real Estate,Industrial,45,0.0801562310076811,Industry
-Telecommunications,Mobile,15,0.024308873259867303,Industry
-Telecommunications,Broadband,41,0.05262014490966982,Industry
-Telecommunications,Satellite,83,0.8412359978702386,Industry
-Materials,Chemicals,1,0.5751446818709977,Industry
-Materials,Metals & Mining,7,0.8994357411922577,Industry
-Materials,Construction Materials,61,0.9404182360445366,Industry
-Industrials,Aerospace & Defense,33,0.41189963944216346,Industry
-Industrials,Machinery,10,0.6755284471706028,Industry
-Industrials,Industrial Services,37,0.7700472412784584,Industry
-Consumer Services,Retail,17,0.7044037990006704,Industry
-Consumer Services,Travel & Leisure,96,0.7104670669710171,Industry
-Consumer Services,Media,59,0.9311034835481489,Industry
-Transportation,Airlines,13,0.11256551726219188,Industry
-Transportation,Railroads,53,0.9786725139015248,Industry
-Transportation,Logistics,92,0.6160196044650027,Industry
+,Las Piedras,762,0.5300307020972002,Overall
+Las Piedras,HiTech,84,0.8107210994460062,Sector
+Las Piedras,Agriculture,97,0.2877139207919458,Sector
+Las Piedras,Transportation,37,0.9447896134046525,Sector
+Las Piedras,Consumer_Products,44,0.6924368906168007,Sector
+Las Piedras,Unassigned,23,0.848960213135028,Sector
+Las Piedras,Communication,75,0.7873385061503333,Sector
+Las Piedras,Trade,86,0.6317186080201648,Sector
+Las Piedras,Business_Services,48,0.34133576083041406,Sector
+Las Piedras,Business_Products,63,0.15042696781289255,Sector
+Las Piedras,Construction,1,0.023657359465134475,Sector
+Las Piedras,Services,24,0.8446076199641028,Sector
+Las Piedras,Mining,27,0.3573030439491416,Sector
+Las Piedras,Health_Care,30,0.6561464604657649,Sector
+Las Piedras,EnergyExpL_Prod,71,0.3136208462565774,Sector
+Las Piedras,Utilities,52,0.25968362114904375,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Genova,1905,0.9345365107226153,Overall
-Genova,Technology,203,0.7071438657651977,Sector
-Genova,Healthcare,66,0.03130847817317828,Sector
-Genova,Finance,134,0.6757685390052898,Sector
-Genova,Energy,185,0.3275784454951892,Sector
-Genova,Consumer Goods,129,0.5401507747734342,Sector
-Genova,Utilities,180,0.8581491911315018,Sector
-Genova,Real Estate,131,0.8101925564799001,Sector
-Genova,Telecommunications,219,0.640005936177167,Sector
-Genova,Materials,168,0.0753538104728142,Sector
-Genova,Industrials,144,0.5928553585890525,Sector
-Genova,Consumer Services,135,0.8941561570645743,Sector
-Genova,Transportation,211,0.8941357821299493,Sector
-Technology,Software,15,0.607460125684821,Industry
-Technology,Hardware,98,0.3303383314156799,Industry
-Technology,IT Services,90,0.6227231948919979,Industry
-Healthcare,Pharmaceuticals,23,0.5666352040460079,Industry
-Healthcare,Medical Devices,28,0.032805186884530935,Industry
-Healthcare,Healthcare Services,15,0.15499175549737532,Industry
-Finance,Banking,5,0.22618124539067885,Industry
-Finance,Insurance,92,0.5594396586273411,Industry
-Finance,Investment Services,37,0.5759873809946325,Industry
-Energy,Oil & Gas,59,0.47790397670683804,Industry
-Energy,Renewable Energy,36,0.45532413415424366,Industry
-Energy,Energy Exploration,90,0.43576830705326075,Industry
-Consumer Goods,Food & Beverage,88,0.22571998064910703,Industry
-Consumer Goods,Household Products,22,0.5548464820971121,Industry
-Consumer Goods,Apparel,19,0.9056580398407439,Industry
-Utilities,Electric,83,0.48839966280143543,Industry
-Utilities,Water,91,0.4143895007461784,Industry
-Utilities,Gas,6,0.4113663524940384,Industry
-Real Estate,Residential,62,0.25148169226872363,Industry
-Real Estate,Commercial,39,0.5325082237298959,Industry
-Real Estate,Industrial,30,0.12189269284420934,Industry
-Telecommunications,Mobile,36,0.9067158012521624,Industry
-Telecommunications,Broadband,86,0.37688959347654816,Industry
-Telecommunications,Satellite,97,0.014016989459157414,Industry
-Materials,Chemicals,87,0.8791553178201718,Industry
-Materials,Metals & Mining,13,0.28363606569864697,Industry
-Materials,Construction Materials,68,0.7578403738219395,Industry
-Industrials,Aerospace & Defense,63,0.8152148290611573,Industry
-Industrials,Machinery,26,0.7600970729103295,Industry
-Industrials,Industrial Services,55,0.7787505948180313,Industry
-Consumer Services,Retail,37,0.528224502435397,Industry
-Consumer Services,Travel & Leisure,6,0.6537809854918192,Industry
-Consumer Services,Media,92,0.029487390325303564,Industry
-Transportation,Airlines,81,0.7691414256169222,Industry
-Transportation,Railroads,72,0.28472847183025507,Industry
-Transportation,Logistics,58,0.7615364492695519,Industry
+,Genova,691,0.5363659580281579,Overall
+Genova,HiTech,32,0.99467009414088,Sector
+Genova,Agriculture,43,0.6326734839436984,Sector
+Genova,Transportation,72,0.6475293838281866,Sector
+Genova,Consumer_Products,16,0.40671087896704006,Sector
+Genova,Unassigned,11,0.03989603259953045,Sector
+Genova,Communication,35,0.6032380632353705,Sector
+Genova,Trade,98,0.4512113263374914,Sector
+Genova,Business_Services,24,0.45628583017578517,Sector
+Genova,Business_Products,79,0.09346272929136823,Sector
+Genova,Construction,49,0.5519795741078967,Sector
+Genova,Services,83,0.9389337025665938,Sector
+Genova,Mining,0,0.577710572546126,Sector
+Genova,Health_Care,24,0.7022251124718157,Sector
+Genova,EnergyExpL_Prod,52,0.39013558440836416,Sector
+Genova,Utilities,73,0.5588270018022219,Sector

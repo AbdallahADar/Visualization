@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Tolna,1841,0.29031130881135325,Overall
-Tolna,Technology,212,0.2008522880310416,Sector
-Tolna,Healthcare,174,0.6916789155050237,Sector
-Tolna,Finance,66,0.204256153943842,Sector
-Tolna,Energy,168,0.937445754668452,Sector
-Tolna,Consumer Goods,182,0.7414379323604315,Sector
-Tolna,Utilities,88,0.6771266166900902,Sector
-Tolna,Real Estate,118,0.8555850971793932,Sector
-Tolna,Telecommunications,281,0.5769709389467075,Sector
-Tolna,Materials,142,0.5333632154609724,Sector
-Tolna,Industrials,76,0.4786034320359456,Sector
-Tolna,Consumer Services,206,0.642181462762049,Sector
-Tolna,Transportation,128,0.8634819716721143,Sector
-Technology,Software,84,0.749767837213048,Industry
-Technology,Hardware,97,0.8277636415954455,Industry
-Technology,IT Services,31,0.32973378277655285,Industry
-Healthcare,Pharmaceuticals,20,0.7706106431405919,Industry
-Healthcare,Medical Devices,99,0.9346964149202135,Industry
-Healthcare,Healthcare Services,55,0.4751190471352855,Industry
-Finance,Banking,5,0.30089299491145016,Industry
-Finance,Insurance,32,0.958327084149672,Industry
-Finance,Investment Services,29,0.9301142283857937,Industry
-Energy,Oil & Gas,9,0.40511453886345894,Industry
-Energy,Renewable Energy,76,0.24412180617425772,Industry
-Energy,Energy Exploration,83,0.664756163764649,Industry
-Consumer Goods,Food & Beverage,42,0.231526538697996,Industry
-Consumer Goods,Household Products,57,0.8799621492489702,Industry
-Consumer Goods,Apparel,83,0.09335612670636995,Industry
-Utilities,Electric,28,0.944780391619791,Industry
-Utilities,Water,55,0.18056079803625436,Industry
-Utilities,Gas,5,0.5717637576775221,Industry
-Real Estate,Residential,43,0.47455127368776895,Industry
-Real Estate,Commercial,75,0.11270005991947118,Industry
-Real Estate,Industrial,0,0.14081275685026062,Industry
-Telecommunications,Mobile,86,0.7962260937886286,Industry
-Telecommunications,Broadband,96,0.3587679260325586,Industry
-Telecommunications,Satellite,99,0.3491757033149713,Industry
-Materials,Chemicals,21,0.8247253268299869,Industry
-Materials,Metals & Mining,44,0.13939804291386482,Industry
-Materials,Construction Materials,77,0.1595697804541164,Industry
-Industrials,Aerospace & Defense,5,0.38276163014750686,Industry
-Industrials,Machinery,32,0.5960104940911876,Industry
-Industrials,Industrial Services,39,0.9714053473777549,Industry
-Consumer Services,Retail,97,0.6989392905196913,Industry
-Consumer Services,Travel & Leisure,62,0.22640807806248964,Industry
-Consumer Services,Media,47,0.22591202760273865,Industry
-Transportation,Airlines,21,0.17160838498969766,Industry
-Transportation,Railroads,90,0.6182340786364913,Industry
-Transportation,Logistics,17,0.8984284412959402,Industry
+,Tolna,560,0.5613753626205504,Overall
+Tolna,HiTech,32,0.33387088717165325,Sector
+Tolna,Agriculture,12,0.5715951841193065,Sector
+Tolna,Transportation,27,0.427694931154064,Sector
+Tolna,Consumer_Products,27,0.06090458680719679,Sector
+Tolna,Unassigned,40,0.8332601256732194,Sector
+Tolna,Communication,56,0.1960703426673034,Sector
+Tolna,Trade,39,0.7267740277992712,Sector
+Tolna,Business_Services,68,0.4418403438911883,Sector
+Tolna,Business_Products,41,0.6296243643097381,Sector
+Tolna,Construction,30,0.4632930796409418,Sector
+Tolna,Services,12,0.8342957254178027,Sector
+Tolna,Mining,80,0.7889916032932778,Sector
+Tolna,Health_Care,42,0.8505391874657737,Sector
+Tolna,EnergyExpL_Prod,46,0.829243211348989,Sector
+Tolna,Utilities,8,0.4326328385485315,Sector

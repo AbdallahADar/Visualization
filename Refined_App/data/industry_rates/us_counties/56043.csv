@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Washakie,1906,0.37900488315126224,Overall
-Washakie,Technology,121,0.5593160376541676,Sector
-Washakie,Healthcare,195,0.09103125295408898,Sector
-Washakie,Finance,101,0.9242983347923185,Sector
-Washakie,Energy,131,0.21044974489468538,Sector
-Washakie,Consumer Goods,228,0.24395687846828817,Sector
-Washakie,Utilities,153,0.6201846767504428,Sector
-Washakie,Real Estate,127,0.744118549449604,Sector
-Washakie,Telecommunications,124,0.07052303235833313,Sector
-Washakie,Materials,209,0.19375734860590932,Sector
-Washakie,Industrials,199,0.5296788253575582,Sector
-Washakie,Consumer Services,174,0.8728812869653098,Sector
-Washakie,Transportation,144,0.5004954419567091,Sector
-Technology,Software,35,0.6442629673005317,Industry
-Technology,Hardware,10,0.8321354519388449,Industry
-Technology,IT Services,76,0.2505582739064437,Industry
-Healthcare,Pharmaceuticals,56,0.9759246736908249,Industry
-Healthcare,Medical Devices,46,0.7499663394740026,Industry
-Healthcare,Healthcare Services,93,0.5455720872614854,Industry
-Finance,Banking,44,0.1986002011585014,Industry
-Finance,Insurance,17,0.735761198624185,Industry
-Finance,Investment Services,40,0.7253360165209553,Industry
-Energy,Oil & Gas,12,0.07015569011754796,Industry
-Energy,Renewable Energy,79,0.9342366774802262,Industry
-Energy,Energy Exploration,40,0.5800366327300776,Industry
-Consumer Goods,Food & Beverage,70,0.8510345424305902,Industry
-Consumer Goods,Household Products,82,0.8751227402826794,Industry
-Consumer Goods,Apparel,76,0.8001978814245868,Industry
-Utilities,Electric,66,0.16802557451944544,Industry
-Utilities,Water,62,0.6565089459458081,Industry
-Utilities,Gas,25,0.04180263166165221,Industry
-Real Estate,Residential,31,0.00963664617122384,Industry
-Real Estate,Commercial,57,0.6683052171571199,Industry
-Real Estate,Industrial,39,0.21294693938662557,Industry
-Telecommunications,Mobile,2,0.3653913301851539,Industry
-Telecommunications,Broadband,60,0.036030762695334784,Industry
-Telecommunications,Satellite,62,0.5892685892393442,Industry
-Materials,Chemicals,96,0.44362294627967525,Industry
-Materials,Metals & Mining,31,0.22456918864842568,Industry
-Materials,Construction Materials,82,0.92803977227362,Industry
-Industrials,Aerospace & Defense,52,0.37594265331395504,Industry
-Industrials,Machinery,76,0.25846070018800726,Industry
-Industrials,Industrial Services,71,0.517344008199966,Industry
-Consumer Services,Retail,3,0.5027585741665517,Industry
-Consumer Services,Travel & Leisure,79,0.39153541650218093,Industry
-Consumer Services,Media,92,0.16644041786146124,Industry
-Transportation,Airlines,36,0.4849605431355821,Industry
-Transportation,Railroads,13,0.14421929760741603,Industry
-Transportation,Logistics,95,0.8001061668118108,Industry
+,Washakie,663,0.3977958275059455,Overall
+Washakie,HiTech,36,0.9131486060731953,Sector
+Washakie,Agriculture,4,0.018234342183283014,Sector
+Washakie,Transportation,4,0.16126424818491802,Sector
+Washakie,Consumer_Products,16,0.08418234182794149,Sector
+Washakie,Unassigned,59,0.8950116052823699,Sector
+Washakie,Communication,11,0.15930867495473588,Sector
+Washakie,Trade,69,0.08448550459519766,Sector
+Washakie,Business_Services,72,0.06545289847250702,Sector
+Washakie,Business_Products,4,0.4219711383060277,Sector
+Washakie,Construction,89,0.7316094058696011,Sector
+Washakie,Services,98,0.9922122864199528,Sector
+Washakie,Mining,72,0.32705470962861205,Sector
+Washakie,Health_Care,21,0.5503958282741186,Sector
+Washakie,EnergyExpL_Prod,58,0.41203254003740286,Sector
+Washakie,Utilities,50,0.150573282479319,Sector

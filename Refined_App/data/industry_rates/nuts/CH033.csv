@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Aargau,1796,0.8038609470913127,Overall
-Aargau,Technology,182,0.31368148662698536,Sector
-Aargau,Healthcare,104,0.5635066094535479,Sector
-Aargau,Finance,87,0.6708737711273762,Sector
-Aargau,Energy,197,0.7913951362693473,Sector
-Aargau,Consumer Goods,158,0.9771815788255761,Sector
-Aargau,Utilities,187,0.9533399111171746,Sector
-Aargau,Real Estate,121,0.16870987346333455,Sector
-Aargau,Telecommunications,135,0.6321088125096354,Sector
-Aargau,Materials,148,0.24205125564323204,Sector
-Aargau,Industrials,162,0.4239308203050065,Sector
-Aargau,Consumer Services,202,0.4469849997036178,Sector
-Aargau,Transportation,113,0.12992277052219048,Sector
-Technology,Software,83,0.9941635599248139,Industry
-Technology,Hardware,68,0.6478615259577745,Industry
-Technology,IT Services,31,0.8944860326639794,Industry
-Healthcare,Pharmaceuticals,12,0.42285458634212525,Industry
-Healthcare,Medical Devices,81,0.9532993405838838,Industry
-Healthcare,Healthcare Services,11,0.7997590691647114,Industry
-Finance,Banking,19,0.530977027519115,Industry
-Finance,Insurance,59,0.01989042853201195,Industry
-Finance,Investment Services,9,0.08391575445399524,Industry
-Energy,Oil & Gas,12,0.6309420517116083,Industry
-Energy,Renewable Energy,93,0.7003485425173377,Industry
-Energy,Energy Exploration,92,0.37728873382990125,Industry
-Consumer Goods,Food & Beverage,25,0.9296729000180222,Industry
-Consumer Goods,Household Products,99,0.9925175638323853,Industry
-Consumer Goods,Apparel,34,0.38890415826246727,Industry
-Utilities,Electric,58,0.33538948872838026,Industry
-Utilities,Water,72,0.5647826607559908,Industry
-Utilities,Gas,57,0.920961710351135,Industry
-Real Estate,Residential,4,0.5282912537435527,Industry
-Real Estate,Commercial,53,0.3254225953519202,Industry
-Real Estate,Industrial,64,0.879768160435201,Industry
-Telecommunications,Mobile,55,0.7039866866890465,Industry
-Telecommunications,Broadband,10,0.081857822494947,Industry
-Telecommunications,Satellite,70,0.4480715820456149,Industry
-Materials,Chemicals,81,0.7011686420614764,Industry
-Materials,Metals & Mining,48,0.5253823565578731,Industry
-Materials,Construction Materials,19,0.4711540021937787,Industry
-Industrials,Aerospace & Defense,72,0.495194924955883,Industry
-Industrials,Machinery,38,0.029598844766273946,Industry
-Industrials,Industrial Services,52,0.36985141245842135,Industry
-Consumer Services,Retail,92,0.9965032025763129,Industry
-Consumer Services,Travel & Leisure,24,0.8232147775369274,Industry
-Consumer Services,Media,86,0.3638091634448214,Industry
-Transportation,Airlines,41,0.7919897794344495,Industry
-Transportation,Railroads,66,0.058972150487916375,Industry
-Transportation,Logistics,6,0.002039186968367024,Industry
+,Aargau,851,0.566781302393053,Overall
+Aargau,HiTech,65,0.8792078158932546,Sector
+Aargau,Agriculture,3,0.7102744946942048,Sector
+Aargau,Transportation,19,0.3538158216391075,Sector
+Aargau,Consumer_Products,56,0.6507937644317063,Sector
+Aargau,Unassigned,56,0.09329734364751974,Sector
+Aargau,Communication,91,0.9182777770838398,Sector
+Aargau,Trade,20,0.9150592818358084,Sector
+Aargau,Business_Services,70,0.36755471683601004,Sector
+Aargau,Business_Products,15,0.38973312732363297,Sector
+Aargau,Construction,53,0.337407931186802,Sector
+Aargau,Services,87,0.4179191198393548,Sector
+Aargau,Mining,55,0.7557663044211659,Sector
+Aargau,Health_Care,87,0.8956622341797056,Sector
+Aargau,EnergyExpL_Prod,83,0.4203900773355679,Sector
+Aargau,Utilities,91,0.39655972554811303,Sector

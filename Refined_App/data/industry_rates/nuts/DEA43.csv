@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Herford,1660,0.7612622940247502,Overall
-Herford,Technology,196,0.19833583450249592,Sector
-Herford,Healthcare,133,0.11686077668244876,Sector
-Herford,Finance,117,0.3834693851529567,Sector
-Herford,Energy,211,0.5535530071572166,Sector
-Herford,Consumer Goods,108,0.6037373740257643,Sector
-Herford,Utilities,109,0.6823124206268125,Sector
-Herford,Real Estate,77,0.35496189689696966,Sector
-Herford,Telecommunications,145,0.4471483368222612,Sector
-Herford,Materials,220,0.730333427975299,Sector
-Herford,Industrials,111,0.8279036640796936,Sector
-Herford,Consumer Services,87,0.5655945993173866,Sector
-Herford,Transportation,146,0.6615793148946549,Sector
-Technology,Software,53,0.0749867137930641,Industry
-Technology,Hardware,72,0.3519069393251075,Industry
-Technology,IT Services,71,0.8512707709998363,Industry
-Healthcare,Pharmaceuticals,36,0.5558175743440864,Industry
-Healthcare,Medical Devices,7,0.6596701981301046,Industry
-Healthcare,Healthcare Services,90,0.2483979856444446,Industry
-Finance,Banking,6,0.46410320565948004,Industry
-Finance,Insurance,60,0.6310969696525756,Industry
-Finance,Investment Services,51,0.4041240288977379,Industry
-Energy,Oil & Gas,43,0.3903731277537774,Industry
-Energy,Renewable Energy,73,0.8153560737475455,Industry
-Energy,Energy Exploration,95,0.638836969994101,Industry
-Consumer Goods,Food & Beverage,8,0.25140346357574395,Industry
-Consumer Goods,Household Products,83,0.11428245348461041,Industry
-Consumer Goods,Apparel,17,0.7163953145260945,Industry
-Utilities,Electric,59,0.6345127745845469,Industry
-Utilities,Water,46,0.0006395322323892172,Industry
-Utilities,Gas,4,0.46431731615370775,Industry
-Real Estate,Residential,48,0.9971080646989534,Industry
-Real Estate,Commercial,1,0.026424746347975425,Industry
-Real Estate,Industrial,28,0.9629225485227889,Industry
-Telecommunications,Mobile,47,0.41750932914245686,Industry
-Telecommunications,Broadband,82,0.9099277250281119,Industry
-Telecommunications,Satellite,16,0.9404048387011295,Industry
-Materials,Chemicals,93,0.7850475968920108,Industry
-Materials,Metals & Mining,30,0.2563347148400039,Industry
-Materials,Construction Materials,97,0.4082692949419636,Industry
-Industrials,Aerospace & Defense,34,0.835282304605867,Industry
-Industrials,Machinery,15,0.8269792323451576,Industry
-Industrials,Industrial Services,62,0.5156955356432625,Industry
-Consumer Services,Retail,35,0.34474570332218224,Industry
-Consumer Services,Travel & Leisure,15,0.43146817855082065,Industry
-Consumer Services,Media,37,0.7858144578872233,Industry
-Transportation,Airlines,55,0.28342904826528426,Industry
-Transportation,Railroads,76,0.18255987533299223,Industry
-Transportation,Logistics,15,0.348448628446447,Industry
+,Herford,660,0.5037437602718874,Overall
+Herford,HiTech,63,0.8994631174464258,Sector
+Herford,Agriculture,97,0.9378611607343561,Sector
+Herford,Transportation,36,0.5993460297814337,Sector
+Herford,Consumer_Products,45,0.18728719728623244,Sector
+Herford,Unassigned,54,0.2593797471079028,Sector
+Herford,Communication,20,0.12673777429242195,Sector
+Herford,Trade,18,0.7535542699080415,Sector
+Herford,Business_Services,11,0.05012450770796817,Sector
+Herford,Business_Products,73,0.9336309516182698,Sector
+Herford,Construction,14,0.1121964604818727,Sector
+Herford,Services,0,0.6662358576479026,Sector
+Herford,Mining,41,0.23454265148869502,Sector
+Herford,Health_Care,23,0.0037840925387746527,Sector
+Herford,EnergyExpL_Prod,86,0.9738149009279772,Sector
+Herford,Utilities,79,0.8181976851100354,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kastamonu,1972,0.6416264325410174,Overall
-Kastamonu,Technology,154,0.9193662667652065,Sector
-Kastamonu,Healthcare,85,0.9443501232081833,Sector
-Kastamonu,Finance,177,0.4643221792863612,Sector
-Kastamonu,Energy,154,0.3189075597870984,Sector
-Kastamonu,Consumer Goods,220,0.9968633800356922,Sector
-Kastamonu,Utilities,211,0.7340978826438673,Sector
-Kastamonu,Real Estate,165,0.9146263979732034,Sector
-Kastamonu,Telecommunications,139,0.04857250463950924,Sector
-Kastamonu,Materials,123,0.9594993258075674,Sector
-Kastamonu,Industrials,173,0.3323919209971471,Sector
-Kastamonu,Consumer Services,149,0.9132757306415497,Sector
-Kastamonu,Transportation,222,0.017247196576246293,Sector
-Technology,Software,39,0.9441396111028634,Industry
-Technology,Hardware,39,0.4380977005218101,Industry
-Technology,IT Services,76,0.053354703025298655,Industry
-Healthcare,Pharmaceuticals,27,0.8728445018497424,Industry
-Healthcare,Medical Devices,31,0.9657194546293724,Industry
-Healthcare,Healthcare Services,27,0.6735006052933863,Industry
-Finance,Banking,66,0.5247582639379248,Industry
-Finance,Insurance,48,0.5738709022150668,Industry
-Finance,Investment Services,63,0.3991959989939955,Industry
-Energy,Oil & Gas,14,0.8907345993588116,Industry
-Energy,Renewable Energy,54,0.3692755720529757,Industry
-Energy,Energy Exploration,86,0.3403180690042581,Industry
-Consumer Goods,Food & Beverage,85,0.9236307414740769,Industry
-Consumer Goods,Household Products,96,0.4362059858887344,Industry
-Consumer Goods,Apparel,39,0.546898942691348,Industry
-Utilities,Electric,69,0.399569545057592,Industry
-Utilities,Water,61,0.8057013830229426,Industry
-Utilities,Gas,81,0.9779220135449848,Industry
-Real Estate,Residential,31,0.20506783284616814,Industry
-Real Estate,Commercial,52,0.8438248593952976,Industry
-Real Estate,Industrial,82,0.9649993682710704,Industry
-Telecommunications,Mobile,31,0.24790848936352627,Industry
-Telecommunications,Broadband,46,0.7630508704996444,Industry
-Telecommunications,Satellite,62,0.3611837068436663,Industry
-Materials,Chemicals,52,0.8576608374606974,Industry
-Materials,Metals & Mining,18,0.2323201335488304,Industry
-Materials,Construction Materials,53,0.8667750698733657,Industry
-Industrials,Aerospace & Defense,58,0.4379364719030977,Industry
-Industrials,Machinery,40,0.3801226228523612,Industry
-Industrials,Industrial Services,75,0.2573097248639149,Industry
-Consumer Services,Retail,59,0.6079936850819787,Industry
-Consumer Services,Travel & Leisure,88,0.08297957700806158,Industry
-Consumer Services,Media,2,0.7670253636024189,Industry
-Transportation,Airlines,64,0.5480530380345906,Industry
-Transportation,Railroads,87,0.34168262143262795,Industry
-Transportation,Logistics,71,0.8670635894783804,Industry
+,Kastamonu,727,0.5630582279701902,Overall
+Kastamonu,HiTech,74,0.18546915029414157,Sector
+Kastamonu,Agriculture,58,0.46744671998789267,Sector
+Kastamonu,Transportation,61,0.16641576541274383,Sector
+Kastamonu,Consumer_Products,79,0.023782700272954038,Sector
+Kastamonu,Unassigned,46,0.6889045066642481,Sector
+Kastamonu,Communication,88,0.9809646774816434,Sector
+Kastamonu,Trade,54,0.5888095751527431,Sector
+Kastamonu,Business_Services,51,0.4971256198060229,Sector
+Kastamonu,Business_Products,22,0.8790459955351382,Sector
+Kastamonu,Construction,38,0.1346934425626094,Sector
+Kastamonu,Services,60,0.7234596658719895,Sector
+Kastamonu,Mining,32,0.4962304414474249,Sector
+Kastamonu,Health_Care,7,0.8019051086776516,Sector
+Kastamonu,EnergyExpL_Prod,50,0.9669691658822939,Sector
+Kastamonu,Utilities,7,0.8446508845033571,Sector

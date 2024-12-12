@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bonneville,1559,0.4800261113853237,Overall
-Bonneville,Technology,168,0.40686461300956267,Sector
-Bonneville,Healthcare,167,0.9249857506519961,Sector
-Bonneville,Finance,153,0.15373038514225668,Sector
-Bonneville,Energy,85,0.40406180815752857,Sector
-Bonneville,Consumer Goods,68,0.15521027965449574,Sector
-Bonneville,Utilities,159,0.7742411370237876,Sector
-Bonneville,Real Estate,171,0.8812072471132416,Sector
-Bonneville,Telecommunications,111,0.49143790305149593,Sector
-Bonneville,Materials,149,0.739800519441686,Sector
-Bonneville,Industrials,167,0.5876989098104081,Sector
-Bonneville,Consumer Services,136,0.43256895636678716,Sector
-Bonneville,Transportation,25,0.1792521174027829,Sector
-Technology,Software,68,0.450488952456227,Industry
-Technology,Hardware,32,0.6228705294648393,Industry
-Technology,IT Services,68,0.5719794406008564,Industry
-Healthcare,Pharmaceuticals,66,0.6822174476323931,Industry
-Healthcare,Medical Devices,28,0.37803311677777984,Industry
-Healthcare,Healthcare Services,73,0.13156181443845572,Industry
-Finance,Banking,97,0.2577525250615629,Industry
-Finance,Insurance,5,0.9976103876883227,Industry
-Finance,Investment Services,51,0.9312895768009921,Industry
-Energy,Oil & Gas,36,0.7502379901883351,Industry
-Energy,Renewable Energy,46,0.4544266575041792,Industry
-Energy,Energy Exploration,3,0.5715964386605695,Industry
-Consumer Goods,Food & Beverage,44,0.9392172905059697,Industry
-Consumer Goods,Household Products,19,0.05541311623443557,Industry
-Consumer Goods,Apparel,5,0.8233845846359065,Industry
-Utilities,Electric,67,0.11455900950608622,Industry
-Utilities,Water,53,0.7984472226113634,Industry
-Utilities,Gas,39,0.9793061885037011,Industry
-Real Estate,Residential,23,0.346898352460422,Industry
-Real Estate,Commercial,79,0.7557451466269806,Industry
-Real Estate,Industrial,69,0.8645360039558483,Industry
-Telecommunications,Mobile,43,0.4341604621532774,Industry
-Telecommunications,Broadband,68,0.4512059083348974,Industry
-Telecommunications,Satellite,0,0.7463408561941058,Industry
-Materials,Chemicals,99,0.4748274289726515,Industry
-Materials,Metals & Mining,8,0.9191391837244185,Industry
-Materials,Construction Materials,42,0.3624391993397289,Industry
-Industrials,Aerospace & Defense,68,0.8205529825674999,Industry
-Industrials,Machinery,20,0.20861883503107703,Industry
-Industrials,Industrial Services,79,0.6682188284915778,Industry
-Consumer Services,Retail,24,0.809263232377771,Industry
-Consumer Services,Travel & Leisure,35,0.085902821201013,Industry
-Consumer Services,Media,77,0.6295922747876875,Industry
-Transportation,Airlines,2,0.08584779249927199,Industry
-Transportation,Railroads,8,0.723121984697604,Industry
-Transportation,Logistics,15,0.13043501551068526,Industry
+,Bonneville,704,0.4956310901685116,Overall
+Bonneville,HiTech,18,0.894824465773877,Sector
+Bonneville,Agriculture,40,0.7655671452404771,Sector
+Bonneville,Transportation,79,0.20341531858592432,Sector
+Bonneville,Consumer_Products,24,0.503583377510134,Sector
+Bonneville,Unassigned,78,0.6153132296408251,Sector
+Bonneville,Communication,39,0.35638464476190057,Sector
+Bonneville,Trade,78,0.6469970324763078,Sector
+Bonneville,Business_Services,51,0.10013234486745815,Sector
+Bonneville,Business_Products,90,0.39108500791540457,Sector
+Bonneville,Construction,49,0.29370256409306084,Sector
+Bonneville,Services,45,0.40846750505791296,Sector
+Bonneville,Mining,20,0.6529112312980603,Sector
+Bonneville,Health_Care,9,0.993063718092154,Sector
+Bonneville,EnergyExpL_Prod,32,0.45682775653121743,Sector
+Bonneville,Utilities,52,0.15219101068296037,Sector

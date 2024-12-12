@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wallace,1644,0.4894028594927322,Overall
-Wallace,Technology,154,0.4116369657148956,Sector
-Wallace,Healthcare,197,0.3734135875503968,Sector
-Wallace,Finance,184,0.6801043958664332,Sector
-Wallace,Energy,76,0.8519164577240778,Sector
-Wallace,Consumer Goods,46,0.36974983945217677,Sector
-Wallace,Utilities,138,0.5209037329824884,Sector
-Wallace,Real Estate,124,0.5026825218459454,Sector
-Wallace,Telecommunications,231,0.849174188588957,Sector
-Wallace,Materials,132,0.9259452531586514,Sector
-Wallace,Industrials,105,0.26373286688034747,Sector
-Wallace,Consumer Services,88,0.299644838880065,Sector
-Wallace,Transportation,169,0.9047924728187074,Sector
-Technology,Software,86,0.1299475893577159,Industry
-Technology,Hardware,33,0.009142080477182901,Industry
-Technology,IT Services,35,0.8222737926725691,Industry
-Healthcare,Pharmaceuticals,73,0.27563939219847877,Industry
-Healthcare,Medical Devices,31,0.704511463380516,Industry
-Healthcare,Healthcare Services,93,0.018835204845808473,Industry
-Finance,Banking,52,0.6765825852404269,Industry
-Finance,Insurance,58,0.6931498122059684,Industry
-Finance,Investment Services,74,0.37801439397185777,Industry
-Energy,Oil & Gas,9,0.21225600945902368,Industry
-Energy,Renewable Energy,32,0.9575845242658472,Industry
-Energy,Energy Exploration,35,0.4870152245086763,Industry
-Consumer Goods,Food & Beverage,18,0.8805313852886322,Industry
-Consumer Goods,Household Products,27,0.5169955267040264,Industry
-Consumer Goods,Apparel,1,0.653857360276126,Industry
-Utilities,Electric,52,0.5133858294584903,Industry
-Utilities,Water,41,0.349642136336764,Industry
-Utilities,Gas,45,0.11277386173255588,Industry
-Real Estate,Residential,42,0.7203704650234536,Industry
-Real Estate,Commercial,16,0.6414722774216421,Industry
-Real Estate,Industrial,66,0.039471097479102046,Industry
-Telecommunications,Mobile,69,0.7541651557199627,Industry
-Telecommunications,Broadband,96,0.8728784804560936,Industry
-Telecommunications,Satellite,66,0.7344142459590814,Industry
-Materials,Chemicals,50,0.871664315037094,Industry
-Materials,Metals & Mining,78,0.778081346777378,Industry
-Materials,Construction Materials,4,0.140586926003189,Industry
-Industrials,Aerospace & Defense,73,0.6571317623806909,Industry
-Industrials,Machinery,26,0.4410995170039381,Industry
-Industrials,Industrial Services,6,0.04362014053540608,Industry
-Consumer Services,Retail,69,0.3872771890715825,Industry
-Consumer Services,Travel & Leisure,3,0.8100456974196426,Industry
-Consumer Services,Media,16,0.7761097271684589,Industry
-Transportation,Airlines,5,0.21966684047464213,Industry
-Transportation,Railroads,76,0.9872839152185728,Industry
-Transportation,Logistics,88,0.9639646750864955,Industry
+,Wallace,766,0.4759483654541871,Overall
+Wallace,HiTech,7,0.688886848936673,Sector
+Wallace,Agriculture,24,0.7910729225724268,Sector
+Wallace,Transportation,16,0.16343478786323995,Sector
+Wallace,Consumer_Products,24,0.28541215515680485,Sector
+Wallace,Unassigned,79,0.5583879962199778,Sector
+Wallace,Communication,49,0.5626288110809525,Sector
+Wallace,Trade,14,0.7344988972177027,Sector
+Wallace,Business_Services,65,0.560472877907496,Sector
+Wallace,Business_Products,82,0.5132135817646863,Sector
+Wallace,Construction,88,0.16388346804170828,Sector
+Wallace,Services,49,0.7709631916250169,Sector
+Wallace,Mining,29,0.12509494114557973,Sector
+Wallace,Health_Care,53,0.6283454998552281,Sector
+Wallace,EnergyExpL_Prod,89,0.5253912019911521,Sector
+Wallace,Utilities,98,0.06753830043416087,Sector

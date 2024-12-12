@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ottawa,1743,0.7732592980808736,Overall
-Ottawa,Technology,224,0.9466395916235246,Sector
-Ottawa,Healthcare,127,0.3619229066647365,Sector
-Ottawa,Finance,169,0.6465462789770259,Sector
-Ottawa,Energy,137,0.5117686593984642,Sector
-Ottawa,Consumer Goods,115,0.07650501757322292,Sector
-Ottawa,Utilities,50,0.41753629860010666,Sector
-Ottawa,Real Estate,200,0.07362336642915646,Sector
-Ottawa,Telecommunications,195,0.08074722542194446,Sector
-Ottawa,Materials,171,0.13606317032494009,Sector
-Ottawa,Industrials,164,0.037760764536321045,Sector
-Ottawa,Consumer Services,143,0.7308128866565621,Sector
-Ottawa,Transportation,48,0.07719646493875043,Sector
-Technology,Software,95,0.03494579269826137,Industry
-Technology,Hardware,40,0.11923549835593394,Industry
-Technology,IT Services,89,0.7995900990407713,Industry
-Healthcare,Pharmaceuticals,50,0.7428102887404403,Industry
-Healthcare,Medical Devices,56,0.6334403019792314,Industry
-Healthcare,Healthcare Services,21,0.13590414697875697,Industry
-Finance,Banking,38,0.4593836850966705,Industry
-Finance,Insurance,52,0.061807849181064745,Industry
-Finance,Investment Services,79,0.29704328981315453,Industry
-Energy,Oil & Gas,6,0.7512012149101799,Industry
-Energy,Renewable Energy,55,0.3307139401947625,Industry
-Energy,Energy Exploration,76,0.18485812912460364,Industry
-Consumer Goods,Food & Beverage,85,0.5616508581642428,Industry
-Consumer Goods,Household Products,13,0.8285121930066462,Industry
-Consumer Goods,Apparel,17,0.4378827035032665,Industry
-Utilities,Electric,16,0.8531280548946514,Industry
-Utilities,Water,21,0.4860185162761903,Industry
-Utilities,Gas,13,0.8677053595779324,Industry
-Real Estate,Residential,76,0.1902829778593249,Industry
-Real Estate,Commercial,76,0.2208220965039286,Industry
-Real Estate,Industrial,48,0.03187881101333434,Industry
-Telecommunications,Mobile,89,0.44760539547681677,Industry
-Telecommunications,Broadband,84,0.9324117666537997,Industry
-Telecommunications,Satellite,22,0.648141878383915,Industry
-Materials,Chemicals,41,0.013805431884471364,Industry
-Materials,Metals & Mining,36,0.3024214451630248,Industry
-Materials,Construction Materials,94,0.23436013489584384,Industry
-Industrials,Aerospace & Defense,97,0.07706935495425205,Industry
-Industrials,Machinery,0,0.5037434431691905,Industry
-Industrials,Industrial Services,67,0.7654476147264462,Industry
-Consumer Services,Retail,54,0.7856041191778682,Industry
-Consumer Services,Travel & Leisure,30,0.9558810507786824,Industry
-Consumer Services,Media,59,0.7192949576294214,Industry
-Transportation,Airlines,9,0.5630367246927375,Industry
-Transportation,Railroads,23,0.1058847430908797,Industry
-Transportation,Logistics,16,0.21136271678519547,Industry
+,Ottawa,776,0.5326512132645175,Overall
+Ottawa,HiTech,84,0.99904841045159,Sector
+Ottawa,Agriculture,36,0.15556624777135375,Sector
+Ottawa,Transportation,55,0.6743543017045206,Sector
+Ottawa,Consumer_Products,25,0.18567388746596925,Sector
+Ottawa,Unassigned,14,0.4160442060220676,Sector
+Ottawa,Communication,62,0.5918156979001247,Sector
+Ottawa,Trade,15,0.7942887497957948,Sector
+Ottawa,Business_Services,11,0.7711961363646392,Sector
+Ottawa,Business_Products,89,0.8460189049915334,Sector
+Ottawa,Construction,30,0.6629130338771283,Sector
+Ottawa,Services,45,0.07358284539871962,Sector
+Ottawa,Mining,98,0.320471009822867,Sector
+Ottawa,Health_Care,98,0.3791489199746091,Sector
+Ottawa,EnergyExpL_Prod,31,0.4057140798612815,Sector
+Ottawa,Utilities,83,0.7139317675655639,Sector

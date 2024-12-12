@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Shelby,1881,0.4381220560139685,Overall
-Shelby,Technology,190,0.06526392906015399,Sector
-Shelby,Healthcare,169,0.7665179148508586,Sector
-Shelby,Finance,141,0.06306887707660047,Sector
-Shelby,Energy,167,0.4753692229404276,Sector
-Shelby,Consumer Goods,252,0.4749078111347571,Sector
-Shelby,Utilities,113,0.5917574801656872,Sector
-Shelby,Real Estate,68,0.9937754996925575,Sector
-Shelby,Telecommunications,210,0.8388456417242777,Sector
-Shelby,Materials,140,0.9800227458725667,Sector
-Shelby,Industrials,156,0.5685983167325154,Sector
-Shelby,Consumer Services,107,0.2885066470579687,Sector
-Shelby,Transportation,168,0.04039806434437887,Sector
-Technology,Software,50,0.03929654250926984,Industry
-Technology,Hardware,64,0.7407965313669925,Industry
-Technology,IT Services,76,0.619788519081986,Industry
-Healthcare,Pharmaceuticals,40,0.7731057267657012,Industry
-Healthcare,Medical Devices,81,0.6611453864669722,Industry
-Healthcare,Healthcare Services,48,0.2288119611459083,Industry
-Finance,Banking,54,0.09289941350433095,Industry
-Finance,Insurance,81,0.35948927952846,Industry
-Finance,Investment Services,6,0.9566707521298685,Industry
-Energy,Oil & Gas,23,0.8443332687972799,Industry
-Energy,Renewable Energy,97,0.20053552508772576,Industry
-Energy,Energy Exploration,47,0.7385946226957797,Industry
-Consumer Goods,Food & Beverage,97,0.41896512272485253,Industry
-Consumer Goods,Household Products,89,0.918677748121903,Industry
-Consumer Goods,Apparel,66,0.9074454628290359,Industry
-Utilities,Electric,8,0.9430148477121649,Industry
-Utilities,Water,95,0.6843126682952587,Industry
-Utilities,Gas,10,0.4371876924810426,Industry
-Real Estate,Residential,13,0.4825954659311996,Industry
-Real Estate,Commercial,44,0.7511875985437976,Industry
-Real Estate,Industrial,11,0.7072491472056737,Industry
-Telecommunications,Mobile,84,0.7119620420428986,Industry
-Telecommunications,Broadband,62,0.9221615093444628,Industry
-Telecommunications,Satellite,64,0.3591628312759587,Industry
-Materials,Chemicals,33,0.18834401410318247,Industry
-Materials,Metals & Mining,17,0.16155534013356232,Industry
-Materials,Construction Materials,90,0.8562669116195907,Industry
-Industrials,Aerospace & Defense,64,0.9260790880701671,Industry
-Industrials,Machinery,42,0.43324806510016356,Industry
-Industrials,Industrial Services,50,0.8784376516443101,Industry
-Consumer Services,Retail,86,0.08957135865429378,Industry
-Consumer Services,Travel & Leisure,21,0.7190404754399868,Industry
-Consumer Services,Media,0,0.0053776444016333524,Industry
-Transportation,Airlines,99,0.558775083062467,Industry
-Transportation,Railroads,6,0.08795933905019038,Industry
-Transportation,Logistics,63,0.13161253779964321,Industry
+,Shelby,762,0.5029931313598491,Overall
+Shelby,HiTech,78,0.4159648437339639,Sector
+Shelby,Agriculture,73,0.9372734763618067,Sector
+Shelby,Transportation,40,0.36699879346822495,Sector
+Shelby,Consumer_Products,36,0.7317846563272519,Sector
+Shelby,Unassigned,11,0.8513454060303203,Sector
+Shelby,Communication,88,0.3862867110572199,Sector
+Shelby,Trade,67,0.09141321027468063,Sector
+Shelby,Business_Services,16,0.3343669180668012,Sector
+Shelby,Business_Products,21,0.6231460715251234,Sector
+Shelby,Construction,85,0.7497215730745542,Sector
+Shelby,Services,25,0.3302279936031276,Sector
+Shelby,Mining,89,0.7227963457360329,Sector
+Shelby,Health_Care,93,0.4651035695595698,Sector
+Shelby,EnergyExpL_Prod,33,0.09499346525183017,Sector
+Shelby,Utilities,7,0.44347393632722787,Sector

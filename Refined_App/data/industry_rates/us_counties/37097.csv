@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Iredell,1966,0.41792925318599816,Overall
-Iredell,Technology,129,0.6643290143889535,Sector
-Iredell,Healthcare,50,0.3657183865637118,Sector
-Iredell,Finance,180,0.3720692523539193,Sector
-Iredell,Energy,123,0.8729080298270336,Sector
-Iredell,Consumer Goods,172,0.7332394674865439,Sector
-Iredell,Utilities,199,0.7943756293447501,Sector
-Iredell,Real Estate,117,0.7951144097488169,Sector
-Iredell,Telecommunications,217,0.9773107663746443,Sector
-Iredell,Materials,223,0.7597343462305881,Sector
-Iredell,Industrials,202,0.34716134255999,Sector
-Iredell,Consumer Services,225,0.4343009507101653,Sector
-Iredell,Transportation,129,0.5306112584699824,Sector
-Technology,Software,53,0.02469062022569879,Industry
-Technology,Hardware,63,0.39844062598584384,Industry
-Technology,IT Services,13,0.8623839968624829,Industry
-Healthcare,Pharmaceuticals,17,0.050020218262964544,Industry
-Healthcare,Medical Devices,12,0.9398365276058144,Industry
-Healthcare,Healthcare Services,21,0.8329195397747173,Industry
-Finance,Banking,73,0.27698767139806146,Industry
-Finance,Insurance,73,0.26708480332282947,Industry
-Finance,Investment Services,34,0.16389521777774552,Industry
-Energy,Oil & Gas,51,0.9675370333737136,Industry
-Energy,Renewable Energy,58,0.9649216146204364,Industry
-Energy,Energy Exploration,14,0.8320058190187419,Industry
-Consumer Goods,Food & Beverage,82,0.003899662402389703,Industry
-Consumer Goods,Household Products,28,0.5100791939887869,Industry
-Consumer Goods,Apparel,62,0.7718686093871748,Industry
-Utilities,Electric,8,0.010948413810157098,Industry
-Utilities,Water,95,0.7596039086539379,Industry
-Utilities,Gas,96,0.46871606301881774,Industry
-Real Estate,Residential,16,0.2381827036716433,Industry
-Real Estate,Commercial,8,0.09247131808611653,Industry
-Real Estate,Industrial,93,0.7038469075805311,Industry
-Telecommunications,Mobile,97,0.9988363078125548,Industry
-Telecommunications,Broadband,56,0.6233757840071894,Industry
-Telecommunications,Satellite,64,0.06843237757593812,Industry
-Materials,Chemicals,61,0.604879739682042,Industry
-Materials,Metals & Mining,85,0.2802524062165359,Industry
-Materials,Construction Materials,77,0.05367334224063114,Industry
-Industrials,Aerospace & Defense,96,0.3666776196059027,Industry
-Industrials,Machinery,42,0.6486054336660199,Industry
-Industrials,Industrial Services,64,0.1993811696198594,Industry
-Consumer Services,Retail,51,0.055669008928846964,Industry
-Consumer Services,Travel & Leisure,81,0.11447482640377304,Industry
-Consumer Services,Media,93,0.48910204056796036,Industry
-Transportation,Airlines,84,0.5942915425920298,Industry
-Transportation,Railroads,13,0.930533718462163,Industry
-Transportation,Logistics,32,0.2484381659089061,Industry
+,Iredell,680,0.46103956079925984,Overall
+Iredell,HiTech,10,0.7863263511722764,Sector
+Iredell,Agriculture,18,0.8464083478173402,Sector
+Iredell,Transportation,62,0.23333745262826833,Sector
+Iredell,Consumer_Products,27,0.002257001566915995,Sector
+Iredell,Unassigned,2,0.3404559994967453,Sector
+Iredell,Communication,24,0.2138039868135274,Sector
+Iredell,Trade,69,0.6072538156499545,Sector
+Iredell,Business_Services,14,0.7427082661646737,Sector
+Iredell,Business_Products,25,0.2984013479434985,Sector
+Iredell,Construction,59,0.8710866946180881,Sector
+Iredell,Services,80,0.604624290864194,Sector
+Iredell,Mining,94,0.1127811043261101,Sector
+Iredell,Health_Care,94,0.7079040359260482,Sector
+Iredell,EnergyExpL_Prod,76,0.2303537409037546,Sector
+Iredell,Utilities,26,0.3178909760975015,Sector

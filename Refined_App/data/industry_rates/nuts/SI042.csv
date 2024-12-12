@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gorenjska,1736,0.044952819050523174,Overall
-Gorenjska,Technology,117,0.4854294643470317,Sector
-Gorenjska,Healthcare,123,0.35141634938713995,Sector
-Gorenjska,Finance,90,0.12322523311907363,Sector
-Gorenjska,Energy,170,0.08145884813043835,Sector
-Gorenjska,Consumer Goods,67,0.7298543923538336,Sector
-Gorenjska,Utilities,179,0.7749270364101563,Sector
-Gorenjska,Real Estate,150,0.33238744692877376,Sector
-Gorenjska,Telecommunications,223,0.9210729917675957,Sector
-Gorenjska,Materials,111,0.763360870604894,Sector
-Gorenjska,Industrials,106,0.14044285860926198,Sector
-Gorenjska,Consumer Services,198,0.9692121725218482,Sector
-Gorenjska,Transportation,202,0.8579242774955006,Sector
-Technology,Software,45,0.10970656569637993,Industry
-Technology,Hardware,1,0.4337461475019089,Industry
-Technology,IT Services,71,0.7506937970512997,Industry
-Healthcare,Pharmaceuticals,64,0.6708181322641797,Industry
-Healthcare,Medical Devices,23,0.2748605554054272,Industry
-Healthcare,Healthcare Services,36,0.9520771295030118,Industry
-Finance,Banking,56,0.34559026114810576,Industry
-Finance,Insurance,22,0.6068971195998616,Industry
-Finance,Investment Services,12,0.9238792193222559,Industry
-Energy,Oil & Gas,70,0.037835604610285345,Industry
-Energy,Renewable Energy,14,0.7634983086024641,Industry
-Energy,Energy Exploration,86,0.8874754978144399,Industry
-Consumer Goods,Food & Beverage,15,0.7376211618008484,Industry
-Consumer Goods,Household Products,38,0.3559473253247719,Industry
-Consumer Goods,Apparel,14,0.359840027518871,Industry
-Utilities,Electric,25,0.15175578688671132,Industry
-Utilities,Water,64,0.8860424856161903,Industry
-Utilities,Gas,90,0.14798857498606266,Industry
-Real Estate,Residential,20,0.2272021805216663,Industry
-Real Estate,Commercial,39,0.5826333539130472,Industry
-Real Estate,Industrial,91,0.6694167827773858,Industry
-Telecommunications,Mobile,80,0.5236873281179154,Industry
-Telecommunications,Broadband,51,0.7069634941419044,Industry
-Telecommunications,Satellite,92,0.368623689645066,Industry
-Materials,Chemicals,28,0.7718927601600972,Industry
-Materials,Metals & Mining,54,0.5234122815847605,Industry
-Materials,Construction Materials,29,0.3232399103023682,Industry
-Industrials,Aerospace & Defense,14,0.08225365910667115,Industry
-Industrials,Machinery,62,0.6711056275500579,Industry
-Industrials,Industrial Services,30,0.09650635513438721,Industry
-Consumer Services,Retail,97,0.5812761813729457,Industry
-Consumer Services,Travel & Leisure,35,0.7952111729590645,Industry
-Consumer Services,Media,66,0.6577545758154842,Industry
-Transportation,Airlines,9,0.5197055295522183,Industry
-Transportation,Railroads,98,0.6503264510567464,Industry
-Transportation,Logistics,95,0.7940645610241024,Industry
+,Gorenjska,736,0.5210347293558262,Overall
+Gorenjska,HiTech,12,0.4871279712887414,Sector
+Gorenjska,Agriculture,97,0.008055982308702081,Sector
+Gorenjska,Transportation,40,0.0745337992885734,Sector
+Gorenjska,Consumer_Products,95,0.718888228563731,Sector
+Gorenjska,Unassigned,54,0.048371654403358444,Sector
+Gorenjska,Communication,43,0.6555698732605412,Sector
+Gorenjska,Trade,8,0.7824254767443993,Sector
+Gorenjska,Business_Services,49,0.8558841455071639,Sector
+Gorenjska,Business_Products,68,0.004007498490163575,Sector
+Gorenjska,Construction,24,0.8735739705135224,Sector
+Gorenjska,Services,40,0.8082241946818245,Sector
+Gorenjska,Mining,11,0.8949821902806593,Sector
+Gorenjska,Health_Care,64,0.6172121394076968,Sector
+Gorenjska,EnergyExpL_Prod,66,0.8084616915179672,Sector
+Gorenjska,Utilities,65,0.17820212408034874,Sector

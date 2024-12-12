@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Currituck,1516,0.001352612844424339,Overall
-Currituck,Technology,100,0.1278932077359679,Sector
-Currituck,Healthcare,57,0.22238124319529906,Sector
-Currituck,Finance,101,0.02045120032703973,Sector
-Currituck,Energy,128,0.14729177658435333,Sector
-Currituck,Consumer Goods,231,0.6442911769634275,Sector
-Currituck,Utilities,132,0.9955627626257532,Sector
-Currituck,Real Estate,111,0.09789683381860115,Sector
-Currituck,Telecommunications,127,0.40996059371444493,Sector
-Currituck,Materials,107,0.08012940540930358,Sector
-Currituck,Industrials,182,0.8737220131246065,Sector
-Currituck,Consumer Services,100,0.8416787252728553,Sector
-Currituck,Transportation,140,0.9758656876081937,Sector
-Technology,Software,24,0.7500628420373605,Industry
-Technology,Hardware,58,0.9925695446765531,Industry
-Technology,IT Services,18,0.6682382326063523,Industry
-Healthcare,Pharmaceuticals,32,0.23385962570436036,Industry
-Healthcare,Medical Devices,21,0.46778190645547457,Industry
-Healthcare,Healthcare Services,4,0.33613799479644857,Industry
-Finance,Banking,15,0.23964440640828155,Industry
-Finance,Insurance,9,0.6672117547528086,Industry
-Finance,Investment Services,77,0.44587010715656306,Industry
-Energy,Oil & Gas,98,0.246704592200364,Industry
-Energy,Renewable Energy,2,0.26478909405048234,Industry
-Energy,Energy Exploration,28,0.4265620821175823,Industry
-Consumer Goods,Food & Beverage,95,0.12353191882166814,Industry
-Consumer Goods,Household Products,76,0.22013054144243338,Industry
-Consumer Goods,Apparel,60,0.20515238108845302,Industry
-Utilities,Electric,14,0.7560904215252507,Industry
-Utilities,Water,72,0.6826988065937623,Industry
-Utilities,Gas,46,0.8204108168491275,Industry
-Real Estate,Residential,11,0.08541171887486021,Industry
-Real Estate,Commercial,27,0.5427005197170236,Industry
-Real Estate,Industrial,73,0.8168161492980464,Industry
-Telecommunications,Mobile,4,0.05002046188983078,Industry
-Telecommunications,Broadband,94,0.9120262583312491,Industry
-Telecommunications,Satellite,29,0.972646233706774,Industry
-Materials,Chemicals,41,0.9179733088313612,Industry
-Materials,Metals & Mining,28,0.64471777554887,Industry
-Materials,Construction Materials,38,0.33043678388894737,Industry
-Industrials,Aerospace & Defense,43,0.38370953075018943,Industry
-Industrials,Machinery,94,0.0652422983479416,Industry
-Industrials,Industrial Services,45,0.8249050820253132,Industry
-Consumer Services,Retail,56,0.730136373853819,Industry
-Consumer Services,Travel & Leisure,17,0.9147197693667553,Industry
-Consumer Services,Media,27,0.9668290377496391,Industry
-Transportation,Airlines,12,0.27934611402999987,Industry
-Transportation,Railroads,51,0.6454851585741341,Industry
-Transportation,Logistics,77,0.6918008854656567,Industry
+,Currituck,815,0.6069622387017799,Overall
+Currituck,HiTech,2,0.867128520007734,Sector
+Currituck,Agriculture,97,0.20306300789657006,Sector
+Currituck,Transportation,73,0.47364172673574634,Sector
+Currituck,Consumer_Products,2,0.5846147335276977,Sector
+Currituck,Unassigned,0,0.4165575998591,Sector
+Currituck,Communication,65,0.8994147227510838,Sector
+Currituck,Trade,21,0.1740813204835283,Sector
+Currituck,Business_Services,74,0.8164147069606016,Sector
+Currituck,Business_Products,99,0.9593400857438961,Sector
+Currituck,Construction,27,0.7834311378796665,Sector
+Currituck,Services,84,0.4214379539723878,Sector
+Currituck,Mining,99,0.9230412440857082,Sector
+Currituck,Health_Care,61,0.9494007682715685,Sector
+Currituck,EnergyExpL_Prod,63,0.1777592739094176,Sector
+Currituck,Utilities,48,0.45510677844199265,Sector

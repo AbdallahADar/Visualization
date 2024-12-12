@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rio Blanco,1624,0.4626110117950163,Overall
-Rio Blanco,Technology,151,0.9504797142552309,Sector
-Rio Blanco,Healthcare,140,0.8314745077724102,Sector
-Rio Blanco,Finance,108,0.529592170055588,Sector
-Rio Blanco,Energy,106,0.6233213669237926,Sector
-Rio Blanco,Consumer Goods,218,0.8468886632130248,Sector
-Rio Blanco,Utilities,132,0.9644751274604407,Sector
-Rio Blanco,Real Estate,75,0.4086039265943119,Sector
-Rio Blanco,Telecommunications,175,0.9472880798694847,Sector
-Rio Blanco,Materials,188,0.6182612833233336,Sector
-Rio Blanco,Industrials,126,0.2878859584853435,Sector
-Rio Blanco,Consumer Services,113,0.6606185270230525,Sector
-Rio Blanco,Transportation,92,0.08104957366778764,Sector
-Technology,Software,56,0.35100655223355814,Industry
-Technology,Hardware,64,0.7126871683667193,Industry
-Technology,IT Services,31,0.8383233562845458,Industry
-Healthcare,Pharmaceuticals,76,0.08548824717977033,Industry
-Healthcare,Medical Devices,5,0.6277601465577964,Industry
-Healthcare,Healthcare Services,59,0.6252277779802852,Industry
-Finance,Banking,9,0.36687322771450126,Industry
-Finance,Insurance,90,0.664825728722831,Industry
-Finance,Investment Services,9,0.19365634016003175,Industry
-Energy,Oil & Gas,57,0.3780156754351409,Industry
-Energy,Renewable Energy,44,0.11071805344418129,Industry
-Energy,Energy Exploration,5,0.8539546239868772,Industry
-Consumer Goods,Food & Beverage,89,0.8858242787120362,Industry
-Consumer Goods,Household Products,31,0.21570151443201313,Industry
-Consumer Goods,Apparel,98,0.3212884336078681,Industry
-Utilities,Electric,24,0.09788055991773514,Industry
-Utilities,Water,57,0.16920774804589112,Industry
-Utilities,Gas,51,0.48469778603743563,Industry
-Real Estate,Residential,46,0.8619285239501293,Industry
-Real Estate,Commercial,15,0.7247838852532228,Industry
-Real Estate,Industrial,14,0.5064851975475716,Industry
-Telecommunications,Mobile,58,0.3561425903493932,Industry
-Telecommunications,Broadband,43,0.3002989741053773,Industry
-Telecommunications,Satellite,74,0.7414446088231044,Industry
-Materials,Chemicals,56,0.9129490291144609,Industry
-Materials,Metals & Mining,88,0.1508082628494547,Industry
-Materials,Construction Materials,44,0.08786552629449895,Industry
-Industrials,Aerospace & Defense,50,0.9416893261534522,Industry
-Industrials,Machinery,12,0.2659970225255265,Industry
-Industrials,Industrial Services,64,0.012682817558477,Industry
-Consumer Services,Retail,2,0.13321232221868173,Industry
-Consumer Services,Travel & Leisure,75,0.9211495456496286,Industry
-Consumer Services,Media,36,0.3790498422939339,Industry
-Transportation,Airlines,6,0.784226209598462,Industry
-Transportation,Railroads,42,0.9976208958304323,Industry
-Transportation,Logistics,44,0.2451643732313914,Industry
+,Rio Blanco,513,0.4705459400930959,Overall
+Rio Blanco,HiTech,4,0.19566934122231394,Sector
+Rio Blanco,Agriculture,4,0.010749720211157832,Sector
+Rio Blanco,Transportation,78,0.3550218006996053,Sector
+Rio Blanco,Consumer_Products,29,0.08297138791406156,Sector
+Rio Blanco,Unassigned,31,0.46012672918983544,Sector
+Rio Blanco,Communication,38,0.8651183867102502,Sector
+Rio Blanco,Trade,24,0.9517515391016141,Sector
+Rio Blanco,Business_Services,95,0.5869514280393209,Sector
+Rio Blanco,Business_Products,16,0.3050535722469525,Sector
+Rio Blanco,Construction,22,0.34056029059232173,Sector
+Rio Blanco,Services,28,0.5035426660805126,Sector
+Rio Blanco,Mining,22,0.4597745415717587,Sector
+Rio Blanco,Health_Care,22,0.5233275411748978,Sector
+Rio Blanco,EnergyExpL_Prod,92,0.8115103058065881,Sector
+Rio Blanco,Utilities,8,0.6060598508352465,Sector

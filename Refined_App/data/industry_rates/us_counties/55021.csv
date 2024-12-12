@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Columbia,1949,0.542691365976961,Overall
-Columbia,Technology,139,0.12986008003124194,Sector
-Columbia,Healthcare,193,0.9949202772506864,Sector
-Columbia,Finance,208,0.03380666478213923,Sector
-Columbia,Energy,217,0.8811587040451411,Sector
-Columbia,Consumer Goods,166,0.008103641161063213,Sector
-Columbia,Utilities,161,0.5903706100663072,Sector
-Columbia,Real Estate,107,0.1975297345498811,Sector
-Columbia,Telecommunications,196,0.7648495544766257,Sector
-Columbia,Materials,172,0.8577858528459824,Sector
-Columbia,Industrials,129,0.9483725747177458,Sector
-Columbia,Consumer Services,117,0.45164594383725,Sector
-Columbia,Transportation,144,0.44355262742129964,Sector
-Technology,Software,89,0.4155727810694958,Industry
-Technology,Hardware,3,0.8220485761399877,Industry
-Technology,IT Services,47,0.7146217281757767,Industry
-Healthcare,Pharmaceuticals,76,0.9490102737720305,Industry
-Healthcare,Medical Devices,33,0.2717054835945065,Industry
-Healthcare,Healthcare Services,84,0.4549808252276406,Industry
-Finance,Banking,17,0.060071148632861116,Industry
-Finance,Insurance,95,0.6200510154142407,Industry
-Finance,Investment Services,96,0.9436533290296668,Industry
-Energy,Oil & Gas,66,0.2519788757332643,Industry
-Energy,Renewable Energy,55,0.27087547555750247,Industry
-Energy,Energy Exploration,96,0.7093741171514132,Industry
-Consumer Goods,Food & Beverage,23,0.3708601511273847,Industry
-Consumer Goods,Household Products,56,0.8537201200099338,Industry
-Consumer Goods,Apparel,87,0.8931943485289583,Industry
-Utilities,Electric,73,0.0495465352721115,Industry
-Utilities,Water,37,0.8795958133762214,Industry
-Utilities,Gas,51,0.47398264849252414,Industry
-Real Estate,Residential,50,0.5477309008683335,Industry
-Real Estate,Commercial,1,0.34312802887488725,Industry
-Real Estate,Industrial,56,0.7781353565977815,Industry
-Telecommunications,Mobile,99,0.6243779628523611,Industry
-Telecommunications,Broadband,80,0.1851716262946156,Industry
-Telecommunications,Satellite,17,0.15529689678647185,Industry
-Materials,Chemicals,69,0.9867033835739462,Industry
-Materials,Metals & Mining,97,0.8765568584878721,Industry
-Materials,Construction Materials,6,0.012308401035450167,Industry
-Industrials,Aerospace & Defense,35,0.7413742131405411,Industry
-Industrials,Machinery,21,0.7545321419306924,Industry
-Industrials,Industrial Services,73,0.6185753018926257,Industry
-Consumer Services,Retail,75,0.955954129928791,Industry
-Consumer Services,Travel & Leisure,15,0.875238074263314,Industry
-Consumer Services,Media,27,0.8736876959662553,Industry
-Transportation,Airlines,51,0.8313292999742368,Industry
-Transportation,Railroads,30,0.303548727756734,Industry
-Transportation,Logistics,63,0.5133586771708412,Industry
+,Columbia,743,0.46237217600028907,Overall
+Columbia,HiTech,52,0.5165874460481916,Sector
+Columbia,Agriculture,61,0.5522721194823413,Sector
+Columbia,Transportation,29,0.9168069944290955,Sector
+Columbia,Consumer_Products,83,0.05315277259524487,Sector
+Columbia,Unassigned,48,0.5362278781141621,Sector
+Columbia,Communication,12,0.4283777754871484,Sector
+Columbia,Trade,27,0.3878473810047849,Sector
+Columbia,Business_Services,95,0.36222767553321655,Sector
+Columbia,Business_Products,41,0.9483847577352982,Sector
+Columbia,Construction,17,0.2443289888663489,Sector
+Columbia,Services,34,0.25235278125519056,Sector
+Columbia,Mining,86,0.6926614817288235,Sector
+Columbia,Health_Care,89,0.5808268084645293,Sector
+Columbia,EnergyExpL_Prod,19,0.41744487408179964,Sector
+Columbia,Utilities,50,0.04608290517816127,Sector

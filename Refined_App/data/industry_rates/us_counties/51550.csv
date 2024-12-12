@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chesapeake,1598,0.12263283002250036,Overall
-Chesapeake,Technology,135,0.6108290360256089,Sector
-Chesapeake,Healthcare,185,0.3089509855652618,Sector
-Chesapeake,Finance,161,0.3055119909594377,Sector
-Chesapeake,Energy,74,0.7458597871581369,Sector
-Chesapeake,Consumer Goods,155,0.1317140813759926,Sector
-Chesapeake,Utilities,90,0.10221790301158273,Sector
-Chesapeake,Real Estate,113,0.15720412541147932,Sector
-Chesapeake,Telecommunications,61,0.16485453651250537,Sector
-Chesapeake,Materials,224,0.7159783997046478,Sector
-Chesapeake,Industrials,79,0.33765125067028157,Sector
-Chesapeake,Consumer Services,71,0.2560247600116655,Sector
-Chesapeake,Transportation,250,0.6354400917689235,Sector
-Technology,Software,80,0.4423548857551749,Industry
-Technology,Hardware,21,0.9545383657085683,Industry
-Technology,IT Services,34,0.2382469303251299,Industry
-Healthcare,Pharmaceuticals,85,0.7943966852743938,Industry
-Healthcare,Medical Devices,34,0.8505619500240045,Industry
-Healthcare,Healthcare Services,66,0.9788154717171872,Industry
-Finance,Banking,88,0.771623307301492,Industry
-Finance,Insurance,34,0.5301926815541698,Industry
-Finance,Investment Services,39,0.09935132753913078,Industry
-Energy,Oil & Gas,7,0.9605299496202775,Industry
-Energy,Renewable Energy,14,0.9256354556131635,Industry
-Energy,Energy Exploration,53,0.7730663633117696,Industry
-Consumer Goods,Food & Beverage,61,0.06244221310861531,Industry
-Consumer Goods,Household Products,56,0.4759461009201822,Industry
-Consumer Goods,Apparel,38,0.25178960882011236,Industry
-Utilities,Electric,5,0.4207779826286996,Industry
-Utilities,Water,14,0.9571308028112655,Industry
-Utilities,Gas,71,0.2897245402923577,Industry
-Real Estate,Residential,40,0.527076967212141,Industry
-Real Estate,Commercial,28,0.19504836877824527,Industry
-Real Estate,Industrial,45,0.870560362782679,Industry
-Telecommunications,Mobile,4,0.6764061755384788,Industry
-Telecommunications,Broadband,1,0.8697392876903722,Industry
-Telecommunications,Satellite,56,0.9138678322674831,Industry
-Materials,Chemicals,89,0.08260637809397386,Industry
-Materials,Metals & Mining,61,0.2755643837255328,Industry
-Materials,Construction Materials,74,0.5774286468294598,Industry
-Industrials,Aerospace & Defense,16,0.6441558360247085,Industry
-Industrials,Machinery,13,0.5821164153033676,Industry
-Industrials,Industrial Services,50,0.2625456436949972,Industry
-Consumer Services,Retail,26,0.9345786599295544,Industry
-Consumer Services,Travel & Leisure,0,0.8934360776055366,Industry
-Consumer Services,Media,45,0.7298638637540019,Industry
-Transportation,Airlines,81,0.08021257908592394,Industry
-Transportation,Railroads,97,0.6755952116293606,Industry
-Transportation,Logistics,72,0.8796691836451102,Industry
+,Chesapeake,918,0.42766629594763195,Overall
+Chesapeake,HiTech,56,0.43063959008130037,Sector
+Chesapeake,Agriculture,3,0.9438335107212931,Sector
+Chesapeake,Transportation,41,0.10068504769038,Sector
+Chesapeake,Consumer_Products,70,0.3967860624220899,Sector
+Chesapeake,Unassigned,56,0.5755261256112146,Sector
+Chesapeake,Communication,80,0.9354548469209428,Sector
+Chesapeake,Trade,73,0.14488078659339487,Sector
+Chesapeake,Business_Services,53,0.012134086580136816,Sector
+Chesapeake,Business_Products,81,0.7227479789441735,Sector
+Chesapeake,Construction,89,0.03370028093787658,Sector
+Chesapeake,Services,28,0.6259006676816826,Sector
+Chesapeake,Mining,80,0.22726481473133253,Sector
+Chesapeake,Health_Care,73,0.44821411608598516,Sector
+Chesapeake,EnergyExpL_Prod,94,0.4884180159678053,Sector
+Chesapeake,Utilities,41,0.3288085082448703,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,El Dorado,1760,0.9722562592940222,Overall
-El Dorado,Technology,48,0.5114076840131679,Sector
-El Dorado,Healthcare,41,0.21499503997547142,Sector
-El Dorado,Finance,119,0.9905693772066643,Sector
-El Dorado,Energy,191,0.6856198359719049,Sector
-El Dorado,Consumer Goods,78,0.20189490767116391,Sector
-El Dorado,Utilities,193,0.2062690375449424,Sector
-El Dorado,Real Estate,215,0.03769759050821453,Sector
-El Dorado,Telecommunications,163,0.8210388161175541,Sector
-El Dorado,Materials,180,0.15167040765570228,Sector
-El Dorado,Industrials,182,0.863832794361892,Sector
-El Dorado,Consumer Services,147,0.8613277818994682,Sector
-El Dorado,Transportation,203,0.7607318792914953,Sector
-Technology,Software,24,0.6104249961804823,Industry
-Technology,Hardware,21,0.4434690440705005,Industry
-Technology,IT Services,3,0.5747194649382453,Industry
-Healthcare,Pharmaceuticals,32,0.3307192644089736,Industry
-Healthcare,Medical Devices,2,0.180910352705006,Industry
-Healthcare,Healthcare Services,7,0.8832245025768921,Industry
-Finance,Banking,85,0.7934006213691926,Industry
-Finance,Insurance,22,0.024741081745983662,Industry
-Finance,Investment Services,12,0.22287862247301915,Industry
-Energy,Oil & Gas,95,0.31863984736350626,Industry
-Energy,Renewable Energy,74,0.305016684964296,Industry
-Energy,Energy Exploration,22,0.6167495452804272,Industry
-Consumer Goods,Food & Beverage,45,0.12531323147665785,Industry
-Consumer Goods,Household Products,6,0.037842498253575774,Industry
-Consumer Goods,Apparel,27,0.7262135134150536,Industry
-Utilities,Electric,38,0.3969125504440799,Industry
-Utilities,Water,67,0.9570531963875313,Industry
-Utilities,Gas,88,0.8533557448108633,Industry
-Real Estate,Residential,98,0.6444982996870983,Industry
-Real Estate,Commercial,38,0.9042397006823457,Industry
-Real Estate,Industrial,79,0.7260125795166137,Industry
-Telecommunications,Mobile,54,0.6676193542157651,Industry
-Telecommunications,Broadband,85,0.32257388263709064,Industry
-Telecommunications,Satellite,24,0.6609478989400178,Industry
-Materials,Chemicals,76,0.027213252355263173,Industry
-Materials,Metals & Mining,70,0.8363134634064547,Industry
-Materials,Construction Materials,34,0.44271107971042434,Industry
-Industrials,Aerospace & Defense,79,0.9386054912005443,Industry
-Industrials,Machinery,91,0.08486973083348559,Industry
-Industrials,Industrial Services,12,0.3852144196552768,Industry
-Consumer Services,Retail,63,0.434788989373348,Industry
-Consumer Services,Travel & Leisure,13,0.2709960712284174,Industry
-Consumer Services,Media,71,0.21607707539813248,Industry
-Transportation,Airlines,70,0.3143236981436801,Industry
-Transportation,Railroads,87,0.1532991138963744,Industry
-Transportation,Logistics,46,0.8703295759004379,Industry
+,El Dorado,831,0.4039082723295618,Overall
+El Dorado,HiTech,47,0.7484885786970101,Sector
+El Dorado,Agriculture,66,0.30309111254242294,Sector
+El Dorado,Transportation,95,0.04926024758441272,Sector
+El Dorado,Consumer_Products,92,0.8625161363452265,Sector
+El Dorado,Unassigned,16,0.4213588779671087,Sector
+El Dorado,Communication,11,0.870625900019103,Sector
+El Dorado,Trade,82,0.20929917376396312,Sector
+El Dorado,Business_Services,70,0.1679336445977192,Sector
+El Dorado,Business_Products,37,0.1683808757289026,Sector
+El Dorado,Construction,72,0.10447024974417018,Sector
+El Dorado,Services,46,0.4336860217662817,Sector
+El Dorado,Mining,43,0.6196550945691035,Sector
+El Dorado,Health_Care,23,0.07976935240627736,Sector
+El Dorado,EnergyExpL_Prod,59,0.6414083900591906,Sector
+El Dorado,Utilities,72,0.37868042915253397,Sector

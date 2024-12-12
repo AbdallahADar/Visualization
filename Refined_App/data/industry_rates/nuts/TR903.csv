@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Giresun,1961,0.34332861768629497,Overall
-Giresun,Technology,176,0.3473360639225118,Sector
-Giresun,Healthcare,216,0.13575216070739893,Sector
-Giresun,Finance,199,0.07760290891725996,Sector
-Giresun,Energy,185,0.9883950002151388,Sector
-Giresun,Consumer Goods,119,0.1798891133044549,Sector
-Giresun,Utilities,146,0.16499784596544098,Sector
-Giresun,Real Estate,106,0.49484137112365123,Sector
-Giresun,Telecommunications,153,0.8441189157896273,Sector
-Giresun,Materials,181,0.4564372563719723,Sector
-Giresun,Industrials,99,0.9184380623289246,Sector
-Giresun,Consumer Services,191,0.9266884617807642,Sector
-Giresun,Transportation,190,0.5467144488355498,Sector
-Technology,Software,87,0.08076198895984155,Industry
-Technology,Hardware,35,0.7651382387518557,Industry
-Technology,IT Services,54,0.37769903504062274,Industry
-Healthcare,Pharmaceuticals,58,0.6449007007744082,Industry
-Healthcare,Medical Devices,73,0.8616163274524665,Industry
-Healthcare,Healthcare Services,85,0.2764090393826475,Industry
-Finance,Banking,98,0.9757559904927593,Industry
-Finance,Insurance,93,0.998300921560449,Industry
-Finance,Investment Services,8,0.13986545688239194,Industry
-Energy,Oil & Gas,81,0.29658670757944006,Industry
-Energy,Renewable Energy,9,0.8113525719999252,Industry
-Energy,Energy Exploration,95,0.3213000590364641,Industry
-Consumer Goods,Food & Beverage,59,0.49667463829719216,Industry
-Consumer Goods,Household Products,29,0.031818354249716574,Industry
-Consumer Goods,Apparel,31,0.27852473304190306,Industry
-Utilities,Electric,28,0.07338157256130473,Industry
-Utilities,Water,75,0.5767364213052014,Industry
-Utilities,Gas,43,0.2812625797526883,Industry
-Real Estate,Residential,42,0.40193027503386414,Industry
-Real Estate,Commercial,15,0.42828324595938516,Industry
-Real Estate,Industrial,49,0.9226373213495979,Industry
-Telecommunications,Mobile,62,0.353974021503317,Industry
-Telecommunications,Broadband,27,0.7791300232239551,Industry
-Telecommunications,Satellite,64,0.49931976450909965,Industry
-Materials,Chemicals,66,0.3812693466471949,Industry
-Materials,Metals & Mining,20,0.3254762860240823,Industry
-Materials,Construction Materials,95,0.5955538283263998,Industry
-Industrials,Aerospace & Defense,43,0.022912456669767933,Industry
-Industrials,Machinery,20,0.2308656325022591,Industry
-Industrials,Industrial Services,36,0.8302021705728854,Industry
-Consumer Services,Retail,96,0.33725133460555257,Industry
-Consumer Services,Travel & Leisure,36,0.43503594749439534,Industry
-Consumer Services,Media,59,0.07506263935781299,Industry
-Transportation,Airlines,44,0.3576411732577923,Industry
-Transportation,Railroads,58,0.6250514817655797,Industry
-Transportation,Logistics,88,0.06265341882207931,Industry
+,Giresun,805,0.5822608816087964,Overall
+Giresun,HiTech,96,0.5701959655555859,Sector
+Giresun,Agriculture,19,0.2747695792440553,Sector
+Giresun,Transportation,62,0.9783601544123959,Sector
+Giresun,Consumer_Products,3,0.45626248595984453,Sector
+Giresun,Unassigned,96,0.6400603968817364,Sector
+Giresun,Communication,56,0.6726163001443074,Sector
+Giresun,Trade,40,0.4149510675170417,Sector
+Giresun,Business_Services,56,0.07584336673204928,Sector
+Giresun,Business_Products,57,0.884383937425798,Sector
+Giresun,Construction,40,0.6270819216557557,Sector
+Giresun,Services,91,0.05688512107216792,Sector
+Giresun,Mining,96,0.946834276155621,Sector
+Giresun,Health_Care,71,0.7713584670999187,Sector
+Giresun,EnergyExpL_Prod,10,0.9424942270804156,Sector
+Giresun,Utilities,12,0.4218159571952538,Sector

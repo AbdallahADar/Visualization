@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Las Animas,1905,0.7373224410303677,Overall
-Las Animas,Technology,141,0.7239240912001328,Sector
-Las Animas,Healthcare,68,0.1779575962455866,Sector
-Las Animas,Finance,136,0.17138492653701176,Sector
-Las Animas,Energy,187,0.24799624950352994,Sector
-Las Animas,Consumer Goods,109,0.3179463643028878,Sector
-Las Animas,Utilities,152,0.4682464173922368,Sector
-Las Animas,Real Estate,241,0.686263543514233,Sector
-Las Animas,Telecommunications,172,0.5412950835237126,Sector
-Las Animas,Materials,227,0.38428106711488574,Sector
-Las Animas,Industrials,171,0.5764353155941566,Sector
-Las Animas,Consumer Services,152,0.054002093797669626,Sector
-Las Animas,Transportation,149,0.4687750210690327,Sector
-Technology,Software,10,0.16814470910959745,Industry
-Technology,Hardware,32,0.8113765837147012,Industry
-Technology,IT Services,99,0.82200620563123,Industry
-Healthcare,Pharmaceuticals,5,0.5650875481967947,Industry
-Healthcare,Medical Devices,2,0.5845777007709195,Industry
-Healthcare,Healthcare Services,61,0.8804940965855605,Industry
-Finance,Banking,48,0.02476211276864182,Industry
-Finance,Insurance,7,0.3480271967043086,Industry
-Finance,Investment Services,81,0.46953087831465046,Industry
-Energy,Oil & Gas,85,0.06620522570369769,Industry
-Energy,Renewable Energy,65,0.6296259127329434,Industry
-Energy,Energy Exploration,37,0.5761917630305718,Industry
-Consumer Goods,Food & Beverage,30,0.03820965623883732,Industry
-Consumer Goods,Household Products,20,0.1804493456223203,Industry
-Consumer Goods,Apparel,59,0.24327464492505013,Industry
-Utilities,Electric,64,0.4442290948424228,Industry
-Utilities,Water,48,0.6249994711586802,Industry
-Utilities,Gas,40,0.6431654459392123,Industry
-Real Estate,Residential,81,0.7498945997415892,Industry
-Real Estate,Commercial,63,0.5886586212655279,Industry
-Real Estate,Industrial,97,0.7338590842076753,Industry
-Telecommunications,Mobile,84,0.7946759945374052,Industry
-Telecommunications,Broadband,86,0.5536680953073435,Industry
-Telecommunications,Satellite,2,0.8928732460653112,Industry
-Materials,Chemicals,48,0.4060360664517083,Industry
-Materials,Metals & Mining,98,0.1798596469959497,Industry
-Materials,Construction Materials,81,0.7046653511428657,Industry
-Industrials,Aerospace & Defense,27,0.7725625178167387,Industry
-Industrials,Machinery,53,0.3494407844670935,Industry
-Industrials,Industrial Services,91,0.19560676837827007,Industry
-Consumer Services,Retail,29,0.6519892781715517,Industry
-Consumer Services,Travel & Leisure,74,0.8364841812665614,Industry
-Consumer Services,Media,49,0.3803511514005784,Industry
-Transportation,Airlines,9,0.7161041945019497,Industry
-Transportation,Railroads,84,0.6810505395165162,Industry
-Transportation,Logistics,56,0.19775772855038043,Industry
+,Las Animas,831,0.5872603629827313,Overall
+Las Animas,HiTech,68,0.8309831969511836,Sector
+Las Animas,Agriculture,75,0.15322739030102872,Sector
+Las Animas,Transportation,0,0.5785076434487586,Sector
+Las Animas,Consumer_Products,43,0.32260439121997697,Sector
+Las Animas,Unassigned,64,0.4612064362069701,Sector
+Las Animas,Communication,63,0.9103063644689648,Sector
+Las Animas,Trade,43,0.3473338673063381,Sector
+Las Animas,Business_Services,37,0.8272537775315958,Sector
+Las Animas,Business_Products,68,0.5832083471841505,Sector
+Las Animas,Construction,10,0.21320601969730912,Sector
+Las Animas,Services,72,0.8594243054062979,Sector
+Las Animas,Mining,97,0.6092371710145683,Sector
+Las Animas,Health_Care,86,0.9542075358496479,Sector
+Las Animas,EnergyExpL_Prod,59,0.5648563809675281,Sector
+Las Animas,Utilities,46,0.5933426171866512,Sector

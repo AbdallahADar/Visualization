@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Furnas,1442,0.20277343947867554,Overall
-Furnas,Technology,99,0.27260874326273143,Sector
-Furnas,Healthcare,126,0.9343430611207613,Sector
-Furnas,Finance,153,0.6704200526342863,Sector
-Furnas,Energy,116,0.707257684527039,Sector
-Furnas,Consumer Goods,108,0.0696940684156695,Sector
-Furnas,Utilities,84,0.991665749152821,Sector
-Furnas,Real Estate,99,0.3918007865074238,Sector
-Furnas,Telecommunications,46,0.47006518363724725,Sector
-Furnas,Materials,145,0.18950885487240576,Sector
-Furnas,Industrials,145,0.43328543081285587,Sector
-Furnas,Consumer Services,168,0.48197257668755444,Sector
-Furnas,Transportation,153,0.7561434998463186,Sector
-Technology,Software,8,0.7336926653719322,Industry
-Technology,Hardware,29,0.6486127850917544,Industry
-Technology,IT Services,62,0.4346308865332885,Industry
-Healthcare,Pharmaceuticals,60,0.9971525189304428,Industry
-Healthcare,Medical Devices,54,0.045104972514717345,Industry
-Healthcare,Healthcare Services,12,0.49758824443535854,Industry
-Finance,Banking,81,0.014346556195177773,Industry
-Finance,Insurance,29,0.6570883981656145,Industry
-Finance,Investment Services,43,0.19560409852062688,Industry
-Energy,Oil & Gas,46,0.21643926138508318,Industry
-Energy,Renewable Energy,15,0.3020648661481947,Industry
-Energy,Energy Exploration,55,0.0008492936852252386,Industry
-Consumer Goods,Food & Beverage,75,0.24460056779287553,Industry
-Consumer Goods,Household Products,10,0.825070648779631,Industry
-Consumer Goods,Apparel,23,0.36142538625748266,Industry
-Utilities,Electric,10,0.42598323280025885,Industry
-Utilities,Water,57,0.52459120195522,Industry
-Utilities,Gas,17,0.4195878908279598,Industry
-Real Estate,Residential,7,0.7421320442493906,Industry
-Real Estate,Commercial,40,0.6433197520285215,Industry
-Real Estate,Industrial,52,0.9579750155298524,Industry
-Telecommunications,Mobile,22,0.3502580906701326,Industry
-Telecommunications,Broadband,13,0.13689753543065375,Industry
-Telecommunications,Satellite,11,0.847184961615896,Industry
-Materials,Chemicals,73,0.8211605023996074,Industry
-Materials,Metals & Mining,5,0.10977779148172251,Industry
-Materials,Construction Materials,67,0.2779460251318687,Industry
-Industrials,Aerospace & Defense,93,0.3731422611305306,Industry
-Industrials,Machinery,8,0.5253990384606738,Industry
-Industrials,Industrial Services,44,0.9729259528054137,Industry
-Consumer Services,Retail,8,0.35011326112117325,Industry
-Consumer Services,Travel & Leisure,74,0.8774100386082341,Industry
-Consumer Services,Media,86,0.3208102682038274,Industry
-Transportation,Airlines,52,0.8959439533161355,Industry
-Transportation,Railroads,22,0.9868110106067206,Industry
-Transportation,Logistics,79,0.8409659188283414,Industry
+,Furnas,724,0.5027198046493018,Overall
+Furnas,HiTech,6,0.974410873311872,Sector
+Furnas,Agriculture,53,0.15844852896329265,Sector
+Furnas,Transportation,5,0.6247359655552863,Sector
+Furnas,Consumer_Products,81,0.22199026931572863,Sector
+Furnas,Unassigned,9,0.1250434045075356,Sector
+Furnas,Communication,86,0.9864272048622568,Sector
+Furnas,Trade,26,0.5049781523900432,Sector
+Furnas,Business_Services,44,0.24195043484640943,Sector
+Furnas,Business_Products,60,0.8269343782028133,Sector
+Furnas,Construction,15,0.7007539205205787,Sector
+Furnas,Services,97,0.20243292037078775,Sector
+Furnas,Mining,48,0.07546708976904504,Sector
+Furnas,Health_Care,96,0.7315566284833899,Sector
+Furnas,EnergyExpL_Prod,60,0.194664474746008,Sector
+Furnas,Utilities,38,0.9710028238944794,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Luzerne,1552,0.1772452035957197,Overall
-Luzerne,Technology,104,0.09451894952342821,Sector
-Luzerne,Healthcare,149,0.9233297069907014,Sector
-Luzerne,Finance,123,0.5186555286783621,Sector
-Luzerne,Energy,216,0.11858441734212011,Sector
-Luzerne,Consumer Goods,108,0.8935676128982564,Sector
-Luzerne,Utilities,217,0.2231618124386444,Sector
-Luzerne,Real Estate,64,0.579592393526113,Sector
-Luzerne,Telecommunications,73,0.47096234888840693,Sector
-Luzerne,Materials,91,0.5917554578849011,Sector
-Luzerne,Industrials,154,0.28608060534198565,Sector
-Luzerne,Consumer Services,133,0.2469733467096753,Sector
-Luzerne,Transportation,120,0.03438110813494888,Sector
-Technology,Software,37,0.07245540276394569,Industry
-Technology,Hardware,11,0.33279724583856996,Industry
-Technology,IT Services,56,0.9081793081430333,Industry
-Healthcare,Pharmaceuticals,4,0.21886619896707937,Industry
-Healthcare,Medical Devices,71,0.1913478664384931,Industry
-Healthcare,Healthcare Services,74,0.5660053236267997,Industry
-Finance,Banking,36,0.8482162310392564,Industry
-Finance,Insurance,0,0.33254211777799736,Industry
-Finance,Investment Services,87,0.6304920886395003,Industry
-Energy,Oil & Gas,84,0.5590733627138067,Industry
-Energy,Renewable Energy,45,0.6681079087466655,Industry
-Energy,Energy Exploration,87,0.010627571630866584,Industry
-Consumer Goods,Food & Beverage,48,0.8225283193240681,Industry
-Consumer Goods,Household Products,32,0.5019136105346128,Industry
-Consumer Goods,Apparel,28,0.3157318834816636,Industry
-Utilities,Electric,92,0.10344601258328734,Industry
-Utilities,Water,73,0.26716635201820893,Industry
-Utilities,Gas,52,0.86299047349383,Industry
-Real Estate,Residential,31,0.6979346946691114,Industry
-Real Estate,Commercial,2,0.5460249093249673,Industry
-Real Estate,Industrial,31,0.1413778334357232,Industry
-Telecommunications,Mobile,2,0.483475396172779,Industry
-Telecommunications,Broadband,49,0.7148193212826962,Industry
-Telecommunications,Satellite,22,0.5170984451483119,Industry
-Materials,Chemicals,40,0.17963330694410196,Industry
-Materials,Metals & Mining,23,0.047178166413866185,Industry
-Materials,Construction Materials,28,0.09955656630545073,Industry
-Industrials,Aerospace & Defense,49,0.04677791245725116,Industry
-Industrials,Machinery,15,0.4123072208616445,Industry
-Industrials,Industrial Services,90,0.09989493615878664,Industry
-Consumer Services,Retail,55,0.8126533178535446,Industry
-Consumer Services,Travel & Leisure,63,0.2298030243515703,Industry
-Consumer Services,Media,15,0.3320470505625339,Industry
-Transportation,Airlines,36,0.14835672481454942,Industry
-Transportation,Railroads,24,0.2914976035696134,Industry
-Transportation,Logistics,60,0.4585629475737064,Industry
+,Luzerne,812,0.49636192109029387,Overall
+Luzerne,HiTech,78,0.7023206309665606,Sector
+Luzerne,Agriculture,82,0.12227810865576028,Sector
+Luzerne,Transportation,64,0.3703176397987382,Sector
+Luzerne,Consumer_Products,61,0.24672720549984317,Sector
+Luzerne,Unassigned,12,0.9990129351320751,Sector
+Luzerne,Communication,83,0.8007511674160471,Sector
+Luzerne,Trade,47,0.41732010680222675,Sector
+Luzerne,Business_Services,32,0.37850700758384614,Sector
+Luzerne,Business_Products,23,0.4178253601303282,Sector
+Luzerne,Construction,38,0.4220930853503484,Sector
+Luzerne,Services,3,0.548413895890353,Sector
+Luzerne,Mining,88,0.35696075813671424,Sector
+Luzerne,Health_Care,80,0.8546139989684477,Sector
+Luzerne,EnergyExpL_Prod,60,0.20877053538423218,Sector
+Luzerne,Utilities,61,0.5995163806388865,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pima,1564,0.9798009275298025,Overall
-Pima,Technology,67,0.5782351739260246,Sector
-Pima,Healthcare,184,0.7386066374166511,Sector
-Pima,Finance,104,0.6864024527195542,Sector
-Pima,Energy,195,0.7599756194322842,Sector
-Pima,Consumer Goods,106,0.12134022735175587,Sector
-Pima,Utilities,102,0.6034566234165804,Sector
-Pima,Real Estate,159,0.4676848743579046,Sector
-Pima,Telecommunications,128,0.21082846843492564,Sector
-Pima,Materials,49,0.008406088106738152,Sector
-Pima,Industrials,181,0.6887118937609188,Sector
-Pima,Consumer Services,64,0.9657582305521846,Sector
-Pima,Transportation,225,0.5924550184840478,Sector
-Technology,Software,18,0.2957820545467569,Industry
-Technology,Hardware,5,0.6351735133055796,Industry
-Technology,IT Services,44,0.4070089477183081,Industry
-Healthcare,Pharmaceuticals,70,0.01803551195486508,Industry
-Healthcare,Medical Devices,92,0.38099513738262547,Industry
-Healthcare,Healthcare Services,22,0.9176800624564381,Industry
-Finance,Banking,81,0.13943193291341138,Industry
-Finance,Insurance,2,0.4113774741916024,Industry
-Finance,Investment Services,21,0.3288309830917703,Industry
-Energy,Oil & Gas,72,0.4579792447924629,Industry
-Energy,Renewable Energy,97,0.38193704605692114,Industry
-Energy,Energy Exploration,26,0.16697394320586623,Industry
-Consumer Goods,Food & Beverage,79,0.3042593202671069,Industry
-Consumer Goods,Household Products,20,0.049811918671864075,Industry
-Consumer Goods,Apparel,7,0.02511508723291289,Industry
-Utilities,Electric,3,0.947471379567125,Industry
-Utilities,Water,71,0.4620164690651707,Industry
-Utilities,Gas,28,0.037690749632090625,Industry
-Real Estate,Residential,14,0.579246948592252,Industry
-Real Estate,Commercial,73,0.5568824925466643,Industry
-Real Estate,Industrial,72,0.6699182564580975,Industry
-Telecommunications,Mobile,66,0.8999001054791887,Industry
-Telecommunications,Broadband,54,0.859712354880424,Industry
-Telecommunications,Satellite,8,0.3571808198825174,Industry
-Materials,Chemicals,32,0.3436803345889793,Industry
-Materials,Metals & Mining,2,0.35295803389237135,Industry
-Materials,Construction Materials,15,0.06714291884971035,Industry
-Industrials,Aerospace & Defense,79,0.5266024704719356,Industry
-Industrials,Machinery,24,0.4991483183664459,Industry
-Industrials,Industrial Services,78,0.9446220636200306,Industry
-Consumer Services,Retail,17,0.7267343780746626,Industry
-Consumer Services,Travel & Leisure,17,0.3036119955671648,Industry
-Consumer Services,Media,30,0.48693425159552683,Industry
-Transportation,Airlines,99,0.5635611850470473,Industry
-Transportation,Railroads,74,0.9105013244428286,Industry
-Transportation,Logistics,52,0.311020024828094,Industry
+,Pima,767,0.5197686337874569,Overall
+Pima,HiTech,27,0.4556898733347152,Sector
+Pima,Agriculture,90,0.4327424276837679,Sector
+Pima,Transportation,83,0.642937227642551,Sector
+Pima,Consumer_Products,65,0.5140365980747731,Sector
+Pima,Unassigned,61,0.3089644511129275,Sector
+Pima,Communication,10,0.8591318830712236,Sector
+Pima,Trade,57,0.8112519697688838,Sector
+Pima,Business_Services,84,0.4883808984493059,Sector
+Pima,Business_Products,20,0.43639821116313693,Sector
+Pima,Construction,88,0.44993039000278456,Sector
+Pima,Services,82,0.8317233797743555,Sector
+Pima,Mining,8,0.8226110420502816,Sector
+Pima,Health_Care,10,0.4681810768565361,Sector
+Pima,EnergyExpL_Prod,56,0.08552640166558434,Sector
+Pima,Utilities,26,0.1890236761610259,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Moffat,1741,0.4282094016516851,Overall
-Moffat,Technology,130,0.28530604228858136,Sector
-Moffat,Healthcare,158,0.20022543723125752,Sector
-Moffat,Finance,150,0.5266425752339777,Sector
-Moffat,Energy,126,0.6604233323600629,Sector
-Moffat,Consumer Goods,225,0.4432871740299634,Sector
-Moffat,Utilities,179,0.8257354181633286,Sector
-Moffat,Real Estate,86,0.40255955667579757,Sector
-Moffat,Telecommunications,156,0.269839662721469,Sector
-Moffat,Materials,78,0.7565879704363582,Sector
-Moffat,Industrials,94,0.16209301392375353,Sector
-Moffat,Consumer Services,194,0.6187186748121786,Sector
-Moffat,Transportation,165,0.725709839982468,Sector
-Technology,Software,34,0.3680319251984876,Industry
-Technology,Hardware,23,0.005857351064844418,Industry
-Technology,IT Services,73,0.7462802672203604,Industry
-Healthcare,Pharmaceuticals,81,0.2793323699705931,Industry
-Healthcare,Medical Devices,0,0.36346858628964507,Industry
-Healthcare,Healthcare Services,77,0.10215728646013267,Industry
-Finance,Banking,18,0.1451465628835903,Industry
-Finance,Insurance,80,0.3422184650030866,Industry
-Finance,Investment Services,52,0.5252415102158489,Industry
-Energy,Oil & Gas,33,0.7711343446240793,Industry
-Energy,Renewable Energy,40,0.8776183025404322,Industry
-Energy,Energy Exploration,53,0.8478077403277988,Industry
-Consumer Goods,Food & Beverage,52,0.9160670489857616,Industry
-Consumer Goods,Household Products,95,0.16010317232096227,Industry
-Consumer Goods,Apparel,78,0.8903945751800407,Industry
-Utilities,Electric,63,0.8843165755305513,Industry
-Utilities,Water,59,0.27040110649852334,Industry
-Utilities,Gas,57,0.995389856073286,Industry
-Real Estate,Residential,34,0.729093429276135,Industry
-Real Estate,Commercial,4,0.04075193187161197,Industry
-Real Estate,Industrial,48,0.8227569793597377,Industry
-Telecommunications,Mobile,51,0.5232743493586721,Industry
-Telecommunications,Broadband,59,0.7014085068583858,Industry
-Telecommunications,Satellite,46,0.23775944530934323,Industry
-Materials,Chemicals,24,0.3472006960278867,Industry
-Materials,Metals & Mining,18,0.2241394009690374,Industry
-Materials,Construction Materials,36,0.33704400936011325,Industry
-Industrials,Aerospace & Defense,0,0.3572090481179101,Industry
-Industrials,Machinery,93,0.9379031283435264,Industry
-Industrials,Industrial Services,1,0.7774497799809325,Industry
-Consumer Services,Retail,77,0.27843271221413757,Industry
-Consumer Services,Travel & Leisure,53,0.29916052989275077,Industry
-Consumer Services,Media,64,0.6196327721803855,Industry
-Transportation,Airlines,20,0.4981714364253579,Industry
-Transportation,Railroads,77,0.9536634638448201,Industry
-Transportation,Logistics,68,0.865003170516969,Industry
+,Moffat,585,0.4719395006886323,Overall
+Moffat,HiTech,16,0.3867877253417439,Sector
+Moffat,Agriculture,9,0.5645598005759024,Sector
+Moffat,Transportation,19,0.4498274187325634,Sector
+Moffat,Consumer_Products,65,0.337596424299727,Sector
+Moffat,Unassigned,60,0.5358583605474118,Sector
+Moffat,Communication,59,0.33516802365074316,Sector
+Moffat,Trade,0,0.38905344690919197,Sector
+Moffat,Business_Services,70,0.8685292139238927,Sector
+Moffat,Business_Products,7,0.5007549142497298,Sector
+Moffat,Construction,14,0.22849881595247257,Sector
+Moffat,Services,58,0.5596166750352041,Sector
+Moffat,Mining,56,0.4439899361904216,Sector
+Moffat,Health_Care,50,0.41527826548737445,Sector
+Moffat,EnergyExpL_Prod,95,0.6770470204260799,Sector
+Moffat,Utilities,7,0.38652646900702636,Sector

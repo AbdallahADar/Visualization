@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Etowah,1709,0.4954535868347507,Overall
-Etowah,Technology,138,0.12399077097619438,Sector
-Etowah,Healthcare,203,0.7833650390031306,Sector
-Etowah,Finance,160,0.7218214935342914,Sector
-Etowah,Energy,114,0.9029504964585487,Sector
-Etowah,Consumer Goods,175,0.35433588188860643,Sector
-Etowah,Utilities,179,0.29001588509768284,Sector
-Etowah,Real Estate,181,0.8944476417936068,Sector
-Etowah,Telecommunications,85,0.6973701182035204,Sector
-Etowah,Materials,90,0.4526441461252638,Sector
-Etowah,Industrials,146,0.39250583314184806,Sector
-Etowah,Consumer Services,101,0.9851827679882718,Sector
-Etowah,Transportation,137,0.5272547575518723,Sector
-Technology,Software,63,0.82278796259816,Industry
-Technology,Hardware,71,0.3943181489198422,Industry
-Technology,IT Services,4,0.9844408023297677,Industry
-Healthcare,Pharmaceuticals,41,0.5828651381063272,Industry
-Healthcare,Medical Devices,81,0.3737695120583675,Industry
-Healthcare,Healthcare Services,81,0.45073755191879394,Industry
-Finance,Banking,81,0.5327267334917548,Industry
-Finance,Insurance,9,0.22721661247191483,Industry
-Finance,Investment Services,70,0.833533049932362,Industry
-Energy,Oil & Gas,81,0.8360550874336224,Industry
-Energy,Renewable Energy,7,0.4087909476406678,Industry
-Energy,Energy Exploration,26,0.690139948883651,Industry
-Consumer Goods,Food & Beverage,80,0.7032847970355052,Industry
-Consumer Goods,Household Products,47,0.3567357972263755,Industry
-Consumer Goods,Apparel,48,0.5673991611515689,Industry
-Utilities,Electric,99,0.013059009545364542,Industry
-Utilities,Water,43,0.9309395698097415,Industry
-Utilities,Gas,37,0.6798939774239172,Industry
-Real Estate,Residential,87,0.17695631507676846,Industry
-Real Estate,Commercial,80,0.8729902373145665,Industry
-Real Estate,Industrial,14,0.10904474025950284,Industry
-Telecommunications,Mobile,11,0.7352890258399104,Industry
-Telecommunications,Broadband,71,0.17322887418443444,Industry
-Telecommunications,Satellite,3,0.5294528323780325,Industry
-Materials,Chemicals,6,0.6573800136307785,Industry
-Materials,Metals & Mining,28,0.7497059859776771,Industry
-Materials,Construction Materials,56,0.41099176026959194,Industry
-Industrials,Aerospace & Defense,63,0.2662374789356379,Industry
-Industrials,Machinery,13,0.9590866792802555,Industry
-Industrials,Industrial Services,70,0.35520730272695766,Industry
-Consumer Services,Retail,26,0.6508710719815888,Industry
-Consumer Services,Travel & Leisure,73,0.16271925510829743,Industry
-Consumer Services,Media,2,0.8072757844641316,Industry
-Transportation,Airlines,92,0.7484560424213357,Industry
-Transportation,Railroads,9,0.006249412763115525,Industry
-Transportation,Logistics,36,0.12009907922256435,Industry
+,Etowah,688,0.4514287606872422,Overall
+Etowah,HiTech,94,0.5725528508053663,Sector
+Etowah,Agriculture,75,0.4867829912300293,Sector
+Etowah,Transportation,27,0.5070556688944386,Sector
+Etowah,Consumer_Products,24,0.3125962381711267,Sector
+Etowah,Unassigned,57,0.2709198950058942,Sector
+Etowah,Communication,37,0.7789050551118578,Sector
+Etowah,Trade,35,0.8070939856193052,Sector
+Etowah,Business_Services,58,0.5780935301826602,Sector
+Etowah,Business_Products,65,0.25490629508093576,Sector
+Etowah,Construction,87,0.059818733915026345,Sector
+Etowah,Services,8,0.8026704842009335,Sector
+Etowah,Mining,4,0.03482618820822625,Sector
+Etowah,Health_Care,26,0.8316058744953243,Sector
+Etowah,EnergyExpL_Prod,6,0.023749182436716643,Sector
+Etowah,Utilities,85,0.44985443695079075,Sector

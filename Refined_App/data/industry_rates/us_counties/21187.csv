@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Owen,1820,0.56490358522723,Overall
-Owen,Technology,123,0.3378350135057919,Sector
-Owen,Healthcare,91,0.5056581212030289,Sector
-Owen,Finance,223,0.7469410844514544,Sector
-Owen,Energy,50,0.8690821537461036,Sector
-Owen,Consumer Goods,177,0.7214096664237747,Sector
-Owen,Utilities,79,0.33444302349665167,Sector
-Owen,Real Estate,240,0.4030139532871281,Sector
-Owen,Telecommunications,128,0.04061043315992929,Sector
-Owen,Materials,166,0.04886205243387953,Sector
-Owen,Industrials,211,0.7614210615560926,Sector
-Owen,Consumer Services,169,0.7415147484074339,Sector
-Owen,Transportation,163,0.8299673420267237,Sector
-Technology,Software,4,0.18015405796595707,Industry
-Technology,Hardware,94,0.4118484555704186,Industry
-Technology,IT Services,25,0.8175026208702393,Industry
-Healthcare,Pharmaceuticals,60,0.7705141713602832,Industry
-Healthcare,Medical Devices,7,0.9684977217616433,Industry
-Healthcare,Healthcare Services,24,0.4414467889205158,Industry
-Finance,Banking,83,0.09000032120710144,Industry
-Finance,Insurance,41,0.7651630028909702,Industry
-Finance,Investment Services,99,0.6783264102775843,Industry
-Energy,Oil & Gas,22,0.8827296767187285,Industry
-Energy,Renewable Energy,3,0.0592640024511234,Industry
-Energy,Energy Exploration,25,0.9868853802675024,Industry
-Consumer Goods,Food & Beverage,97,0.42279786086956617,Industry
-Consumer Goods,Household Products,24,0.09170806608667348,Industry
-Consumer Goods,Apparel,56,0.39026700583304574,Industry
-Utilities,Electric,2,0.1350539604786395,Industry
-Utilities,Water,50,0.3237815690235336,Industry
-Utilities,Gas,27,0.8930409975081357,Industry
-Real Estate,Residential,92,0.4676534390760563,Industry
-Real Estate,Commercial,88,0.5103243172696044,Industry
-Real Estate,Industrial,60,0.4154211318491967,Industry
-Telecommunications,Mobile,51,0.0420310447237815,Industry
-Telecommunications,Broadband,23,0.4406284347912348,Industry
-Telecommunications,Satellite,54,0.32172260249493634,Industry
-Materials,Chemicals,65,0.20726434219830459,Industry
-Materials,Metals & Mining,87,0.8927963292312308,Industry
-Materials,Construction Materials,14,0.29750049428056036,Industry
-Industrials,Aerospace & Defense,46,0.4869817247746766,Industry
-Industrials,Machinery,69,0.2581391859364004,Industry
-Industrials,Industrial Services,96,0.2685451101905362,Industry
-Consumer Services,Retail,16,0.10525619198599956,Industry
-Consumer Services,Travel & Leisure,81,0.18429879201204402,Industry
-Consumer Services,Media,72,0.28734065731595326,Industry
-Transportation,Airlines,47,0.9987799290439513,Industry
-Transportation,Railroads,73,0.9469590369107082,Industry
-Transportation,Logistics,43,0.9079413110887086,Industry
+,Owen,733,0.5742074181025346,Overall
+Owen,HiTech,69,0.8252893000455821,Sector
+Owen,Agriculture,91,0.4848702174864906,Sector
+Owen,Transportation,2,0.49029166162120186,Sector
+Owen,Consumer_Products,53,0.5123347511318953,Sector
+Owen,Unassigned,14,0.5304140173702242,Sector
+Owen,Communication,35,0.8590238498208356,Sector
+Owen,Trade,99,0.9137641547928141,Sector
+Owen,Business_Services,90,0.9327893783963535,Sector
+Owen,Business_Products,39,0.2730289100589385,Sector
+Owen,Construction,80,0.6247052753577569,Sector
+Owen,Services,55,0.5782501904436061,Sector
+Owen,Mining,31,0.559986054171879,Sector
+Owen,Health_Care,30,0.0404438025710715,Sector
+Owen,EnergyExpL_Prod,21,0.036376521653492144,Sector
+Owen,Utilities,24,0.9515431866158774,Sector

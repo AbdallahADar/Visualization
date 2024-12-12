@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Firenze,1926,0.21452878052306756,Overall
-Firenze,Technology,134,0.4274671396129853,Sector
-Firenze,Healthcare,163,0.24475113767059953,Sector
-Firenze,Finance,105,0.8993352254060174,Sector
-Firenze,Energy,236,0.911801080047304,Sector
-Firenze,Consumer Goods,110,0.7482145728387555,Sector
-Firenze,Utilities,196,0.08906507691545884,Sector
-Firenze,Real Estate,138,0.7396913545245926,Sector
-Firenze,Telecommunications,148,0.7595730013736228,Sector
-Firenze,Materials,178,0.9622078063445726,Sector
-Firenze,Industrials,97,0.8796184514859136,Sector
-Firenze,Consumer Services,194,0.9188722199831845,Sector
-Firenze,Transportation,227,0.34189937695988026,Sector
-Technology,Software,41,0.0036724975873485555,Industry
-Technology,Hardware,26,0.44738567545620267,Industry
-Technology,IT Services,67,0.712903365357002,Industry
-Healthcare,Pharmaceuticals,43,0.9867747655333476,Industry
-Healthcare,Medical Devices,94,0.29570708694280834,Industry
-Healthcare,Healthcare Services,26,0.262210783580476,Industry
-Finance,Banking,17,0.49899353646724487,Industry
-Finance,Insurance,27,0.2374776481134867,Industry
-Finance,Investment Services,61,0.9850695861172155,Industry
-Energy,Oil & Gas,80,0.6102123914192767,Industry
-Energy,Renewable Energy,89,0.28250414959689885,Industry
-Energy,Energy Exploration,67,0.9732057668384967,Industry
-Consumer Goods,Food & Beverage,1,0.3295592105044286,Industry
-Consumer Goods,Household Products,39,0.6447531916019283,Industry
-Consumer Goods,Apparel,70,0.9744616829016198,Industry
-Utilities,Electric,46,0.6960062487609191,Industry
-Utilities,Water,66,0.24562698832568097,Industry
-Utilities,Gas,84,0.33204735544593256,Industry
-Real Estate,Residential,11,0.12617861910729078,Industry
-Real Estate,Commercial,77,0.605428226234411,Industry
-Real Estate,Industrial,50,0.5944405094054869,Industry
-Telecommunications,Mobile,53,0.6506847325915308,Industry
-Telecommunications,Broadband,93,0.7256013583129278,Industry
-Telecommunications,Satellite,2,0.8730432027637253,Industry
-Materials,Chemicals,54,0.316490663830406,Industry
-Materials,Metals & Mining,66,0.9893311107056937,Industry
-Materials,Construction Materials,58,0.95492260055752,Industry
-Industrials,Aerospace & Defense,15,0.46988904715976054,Industry
-Industrials,Machinery,38,0.2080725470974104,Industry
-Industrials,Industrial Services,44,0.5340331334141794,Industry
-Consumer Services,Retail,97,0.21909155115288526,Industry
-Consumer Services,Travel & Leisure,70,0.6732911078564896,Industry
-Consumer Services,Media,27,0.9757610744050027,Industry
-Transportation,Airlines,95,0.7865230508290433,Industry
-Transportation,Railroads,35,0.8414526788331407,Industry
-Transportation,Logistics,97,0.5736758278433504,Industry
+,Firenze,812,0.41627817313991333,Overall
+Firenze,HiTech,12,0.35248650950699423,Sector
+Firenze,Agriculture,37,0.8765315623750443,Sector
+Firenze,Transportation,6,0.10072796930488548,Sector
+Firenze,Consumer_Products,25,0.46231604639175394,Sector
+Firenze,Unassigned,15,0.06820006493039388,Sector
+Firenze,Communication,91,0.7814630191597435,Sector
+Firenze,Trade,30,0.49560627960511383,Sector
+Firenze,Business_Services,91,0.1832045740970486,Sector
+Firenze,Business_Products,97,0.08938127729584511,Sector
+Firenze,Construction,71,0.6997226899522888,Sector
+Firenze,Services,66,0.19231075465590497,Sector
+Firenze,Mining,81,0.2539904049495648,Sector
+Firenze,Health_Care,72,0.8277612862542472,Sector
+Firenze,EnergyExpL_Prod,43,0.16938780717315194,Sector
+Firenze,Utilities,75,0.6910823514467199,Sector

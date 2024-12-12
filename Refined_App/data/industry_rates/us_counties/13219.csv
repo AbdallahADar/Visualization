@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Oconee,1639,0.1297559763974122,Overall
-Oconee,Technology,132,0.36499632145715255,Sector
-Oconee,Healthcare,90,0.5307426450399382,Sector
-Oconee,Finance,124,0.16923086800690668,Sector
-Oconee,Energy,178,0.49208890307747133,Sector
-Oconee,Consumer Goods,84,0.58205288545964,Sector
-Oconee,Utilities,106,0.7881352426259925,Sector
-Oconee,Real Estate,171,0.6226302163204667,Sector
-Oconee,Telecommunications,133,0.32732758037383336,Sector
-Oconee,Materials,154,0.542304444489694,Sector
-Oconee,Industrials,148,0.14018504598551207,Sector
-Oconee,Consumer Services,184,0.5544006188513623,Sector
-Oconee,Transportation,135,0.29731028099311907,Sector
-Technology,Software,55,0.6094740855073305,Industry
-Technology,Hardware,6,0.865075616033154,Industry
-Technology,IT Services,71,0.3458127978959453,Industry
-Healthcare,Pharmaceuticals,44,0.7750152184273772,Industry
-Healthcare,Medical Devices,35,0.891712614146799,Industry
-Healthcare,Healthcare Services,11,0.3940827394432226,Industry
-Finance,Banking,86,0.12149557164416624,Industry
-Finance,Insurance,0,0.8374586577444972,Industry
-Finance,Investment Services,38,0.20498817391923774,Industry
-Energy,Oil & Gas,69,0.13326856083174798,Industry
-Energy,Renewable Energy,12,0.04823403289735961,Industry
-Energy,Energy Exploration,97,0.43852198524461217,Industry
-Consumer Goods,Food & Beverage,7,0.9502448822814703,Industry
-Consumer Goods,Household Products,50,0.9078923348572039,Industry
-Consumer Goods,Apparel,27,0.6742324092461917,Industry
-Utilities,Electric,17,0.8336546303119519,Industry
-Utilities,Water,26,0.10267673751440132,Industry
-Utilities,Gas,63,0.513924314208694,Industry
-Real Estate,Residential,9,0.05688159437115958,Industry
-Real Estate,Commercial,64,0.040154361965252905,Industry
-Real Estate,Industrial,98,0.021402210061675864,Industry
-Telecommunications,Mobile,54,0.927581876221823,Industry
-Telecommunications,Broadband,27,0.30279512741734327,Industry
-Telecommunications,Satellite,52,0.05819833654836559,Industry
-Materials,Chemicals,71,0.885759266468641,Industry
-Materials,Metals & Mining,68,0.01263101430034308,Industry
-Materials,Construction Materials,15,0.3674877946053793,Industry
-Industrials,Aerospace & Defense,43,0.8105423615275799,Industry
-Industrials,Machinery,14,0.8942769721605145,Industry
-Industrials,Industrial Services,91,0.6092279343565647,Industry
-Consumer Services,Retail,86,0.5592316914427801,Industry
-Consumer Services,Travel & Leisure,26,0.34458339878611577,Industry
-Consumer Services,Media,72,0.8887202817249759,Industry
-Transportation,Airlines,22,0.8851489207049613,Industry
-Transportation,Railroads,28,0.1167706907532362,Industry
-Transportation,Logistics,85,0.5861190354556782,Industry
+,Oconee,875,0.4657716680802943,Overall
+Oconee,HiTech,72,0.7604586073739892,Sector
+Oconee,Agriculture,46,0.9093880049747232,Sector
+Oconee,Transportation,92,0.33058611273336624,Sector
+Oconee,Consumer_Products,94,0.6767683194847478,Sector
+Oconee,Unassigned,92,0.7234355102800308,Sector
+Oconee,Communication,86,0.5360703699687688,Sector
+Oconee,Trade,16,0.08366937670115637,Sector
+Oconee,Business_Services,16,0.220832362511032,Sector
+Oconee,Business_Products,9,0.49648329821280024,Sector
+Oconee,Construction,25,0.19942348570087898,Sector
+Oconee,Services,65,0.9065442387647322,Sector
+Oconee,Mining,47,0.22475546394906143,Sector
+Oconee,Health_Care,96,0.14262082574083834,Sector
+Oconee,EnergyExpL_Prod,76,0.6407958468166592,Sector
+Oconee,Utilities,43,0.13474319799163093,Sector

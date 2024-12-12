@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Avellino,1570,0.3191879686048942,Overall
-Avellino,Technology,89,0.5748759491877918,Sector
-Avellino,Healthcare,146,0.5593704437584276,Sector
-Avellino,Finance,162,0.871774325930483,Sector
-Avellino,Energy,83,0.6528603541839985,Sector
-Avellino,Consumer Goods,157,0.44335838993113574,Sector
-Avellino,Utilities,151,0.8520770972092939,Sector
-Avellino,Real Estate,148,0.602544733663707,Sector
-Avellino,Telecommunications,43,0.44699547043419185,Sector
-Avellino,Materials,186,0.09290248498179055,Sector
-Avellino,Industrials,131,0.6965911480840701,Sector
-Avellino,Consumer Services,147,0.13724469321488542,Sector
-Avellino,Transportation,127,0.10914965181979719,Sector
-Technology,Software,54,0.7202639847302749,Industry
-Technology,Hardware,2,0.20477181311807113,Industry
-Technology,IT Services,33,0.619611326028428,Industry
-Healthcare,Pharmaceuticals,49,0.5184940803600766,Industry
-Healthcare,Medical Devices,83,0.11233534951094948,Industry
-Healthcare,Healthcare Services,14,0.2107947930099946,Industry
-Finance,Banking,91,0.14617260435341184,Industry
-Finance,Insurance,16,0.6012135011487604,Industry
-Finance,Investment Services,55,0.02274256966221644,Industry
-Energy,Oil & Gas,49,0.546823461396736,Industry
-Energy,Renewable Energy,11,0.24302017814829613,Industry
-Energy,Energy Exploration,23,0.05754890818168701,Industry
-Consumer Goods,Food & Beverage,96,0.4298872091073498,Industry
-Consumer Goods,Household Products,23,0.5773843568194555,Industry
-Consumer Goods,Apparel,38,0.4807080522958158,Industry
-Utilities,Electric,69,0.940208082806918,Industry
-Utilities,Water,1,0.19885356312647218,Industry
-Utilities,Gas,81,0.3411882304531243,Industry
-Real Estate,Residential,94,0.22871757606527454,Industry
-Real Estate,Commercial,30,0.8434416722621789,Industry
-Real Estate,Industrial,24,0.36577861236635834,Industry
-Telecommunications,Mobile,19,0.1118577254584121,Industry
-Telecommunications,Broadband,19,0.14682704542907454,Industry
-Telecommunications,Satellite,5,0.7891334183050074,Industry
-Materials,Chemicals,38,0.2718283923106357,Industry
-Materials,Metals & Mining,64,0.43357091983847384,Industry
-Materials,Construction Materials,84,0.2660350019080112,Industry
-Industrials,Aerospace & Defense,41,0.5168424019126062,Industry
-Industrials,Machinery,42,0.33082867797756355,Industry
-Industrials,Industrial Services,48,0.7546700207439588,Industry
-Consumer Services,Retail,49,0.18759437739688556,Industry
-Consumer Services,Travel & Leisure,16,0.4236177450047518,Industry
-Consumer Services,Media,82,0.5482905412306904,Industry
-Transportation,Airlines,9,0.4555597607922367,Industry
-Transportation,Railroads,92,0.7670161910851758,Industry
-Transportation,Logistics,26,0.8489042141500821,Industry
+,Avellino,669,0.45201219908503215,Overall
+Avellino,HiTech,99,0.3642850536048542,Sector
+Avellino,Agriculture,47,0.4259145020062275,Sector
+Avellino,Transportation,10,0.02527841851158097,Sector
+Avellino,Consumer_Products,20,0.7721170088735809,Sector
+Avellino,Unassigned,95,0.639245400984575,Sector
+Avellino,Communication,33,0.9738203128118956,Sector
+Avellino,Trade,6,0.1447773789001956,Sector
+Avellino,Business_Services,29,0.5193336950992747,Sector
+Avellino,Business_Products,19,0.4862463175519173,Sector
+Avellino,Construction,98,0.1412254588326579,Sector
+Avellino,Services,59,0.7834525211696858,Sector
+Avellino,Mining,29,0.46628976292338975,Sector
+Avellino,Health_Care,34,0.7003686292576974,Sector
+Avellino,EnergyExpL_Prod,73,0.06594021705721831,Sector
+Avellino,Utilities,18,0.2718883086907323,Sector

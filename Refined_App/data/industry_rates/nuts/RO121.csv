@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Alba,1739,0.6810440446439161,Overall
-Alba,Technology,142,0.45287770295855967,Sector
-Alba,Healthcare,188,0.6212262649685666,Sector
-Alba,Finance,176,0.1950896585514117,Sector
-Alba,Energy,178,0.5322368668631379,Sector
-Alba,Consumer Goods,176,0.9248166241638092,Sector
-Alba,Utilities,154,0.8102601976639348,Sector
-Alba,Real Estate,98,0.9593322316392027,Sector
-Alba,Telecommunications,106,0.1664248363108498,Sector
-Alba,Materials,169,0.15608337571487285,Sector
-Alba,Industrials,64,0.01506133517659558,Sector
-Alba,Consumer Services,114,0.7244344981763647,Sector
-Alba,Transportation,174,0.5233246376653,Sector
-Technology,Software,4,0.1003348965761024,Industry
-Technology,Hardware,96,0.8916915293292919,Industry
-Technology,IT Services,42,0.2351807296077688,Industry
-Healthcare,Pharmaceuticals,29,0.26525278780926054,Industry
-Healthcare,Medical Devices,73,0.18703334702856822,Industry
-Healthcare,Healthcare Services,86,0.8250708618423049,Industry
-Finance,Banking,66,0.7570318120973216,Industry
-Finance,Insurance,76,0.3022771751634483,Industry
-Finance,Investment Services,34,0.12120299206226648,Industry
-Energy,Oil & Gas,14,0.8852771098558468,Industry
-Energy,Renewable Energy,84,0.35077195547405704,Industry
-Energy,Energy Exploration,80,0.8551731211531937,Industry
-Consumer Goods,Food & Beverage,32,0.24892868998859263,Industry
-Consumer Goods,Household Products,95,0.9959561402985367,Industry
-Consumer Goods,Apparel,49,0.9229484842261446,Industry
-Utilities,Electric,38,0.7498152852400415,Industry
-Utilities,Water,37,0.5577420623329351,Industry
-Utilities,Gas,79,0.2957504335077167,Industry
-Real Estate,Residential,53,0.45575800612560957,Industry
-Real Estate,Commercial,39,0.3196103099098664,Industry
-Real Estate,Industrial,6,0.6017872429919624,Industry
-Telecommunications,Mobile,68,0.7972778971341121,Industry
-Telecommunications,Broadband,14,0.6948818099992814,Industry
-Telecommunications,Satellite,24,0.6680073952914041,Industry
-Materials,Chemicals,50,0.8104062558678472,Industry
-Materials,Metals & Mining,72,0.88007385225384,Industry
-Materials,Construction Materials,47,0.40177462645954987,Industry
-Industrials,Aerospace & Defense,27,0.102960246736986,Industry
-Industrials,Machinery,7,0.33249839654733737,Industry
-Industrials,Industrial Services,30,0.5457526210827731,Industry
-Consumer Services,Retail,27,0.6897950278780006,Industry
-Consumer Services,Travel & Leisure,76,0.7265719368723605,Industry
-Consumer Services,Media,11,0.5204944569674761,Industry
-Transportation,Airlines,0,0.125438464878602,Industry
-Transportation,Railroads,78,0.4034302786349835,Industry
-Transportation,Logistics,96,0.9057717428562155,Industry
+,Alba,803,0.5146923769780667,Overall
+Alba,HiTech,95,0.6677581672486583,Sector
+Alba,Agriculture,70,0.9743915549315529,Sector
+Alba,Transportation,21,0.9560285170464342,Sector
+Alba,Consumer_Products,74,0.7710717057500818,Sector
+Alba,Unassigned,57,0.08524859050297218,Sector
+Alba,Communication,16,0.3250889712548697,Sector
+Alba,Trade,43,0.4253097856935858,Sector
+Alba,Business_Services,50,0.0054840064394444665,Sector
+Alba,Business_Products,78,0.1311389260151129,Sector
+Alba,Construction,89,0.7910549351969735,Sector
+Alba,Services,40,0.9521788785709054,Sector
+Alba,Mining,47,0.19505104621973257,Sector
+Alba,Health_Care,26,0.5308190555872083,Sector
+Alba,EnergyExpL_Prod,67,0.16408227950980003,Sector
+Alba,Utilities,30,0.7456792347036703,Sector

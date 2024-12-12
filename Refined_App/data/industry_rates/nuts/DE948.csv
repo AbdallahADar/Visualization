@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cloppenburg,1941,0.042714981128922136,Overall
-Cloppenburg,Technology,125,0.021212530582063294,Sector
-Cloppenburg,Healthcare,230,0.49990021764153614,Sector
-Cloppenburg,Finance,139,0.9791983795875193,Sector
-Cloppenburg,Energy,143,0.5120685257402453,Sector
-Cloppenburg,Consumer Goods,158,0.1612432528944936,Sector
-Cloppenburg,Utilities,87,0.8286592232552311,Sector
-Cloppenburg,Real Estate,142,0.8550446932020953,Sector
-Cloppenburg,Telecommunications,210,0.6747231326561515,Sector
-Cloppenburg,Materials,240,0.3194948977659602,Sector
-Cloppenburg,Industrials,97,0.37293811989115844,Sector
-Cloppenburg,Consumer Services,196,0.01639378832325067,Sector
-Cloppenburg,Transportation,174,0.4970700708389164,Sector
-Technology,Software,64,0.011000243119175135,Industry
-Technology,Hardware,10,0.2569695295657711,Industry
-Technology,IT Services,51,0.3028387005582004,Industry
-Healthcare,Pharmaceuticals,71,0.7548614475900569,Industry
-Healthcare,Medical Devices,82,0.7323257816368942,Industry
-Healthcare,Healthcare Services,77,0.043940488550141876,Industry
-Finance,Banking,88,0.9844438025861099,Industry
-Finance,Insurance,44,0.7291658542140915,Industry
-Finance,Investment Services,7,0.31201058898382994,Industry
-Energy,Oil & Gas,37,0.08851124934114518,Industry
-Energy,Renewable Energy,47,0.7250840040929994,Industry
-Energy,Energy Exploration,59,0.5350748005627002,Industry
-Consumer Goods,Food & Beverage,89,0.24725409831416922,Industry
-Consumer Goods,Household Products,7,0.4449568974525967,Industry
-Consumer Goods,Apparel,62,0.6286003798043097,Industry
-Utilities,Electric,51,0.29965610514937124,Industry
-Utilities,Water,34,0.6428005966704551,Industry
-Utilities,Gas,2,0.9547249358593977,Industry
-Real Estate,Residential,37,0.1716785990289278,Industry
-Real Estate,Commercial,45,0.35543661360788237,Industry
-Real Estate,Industrial,60,0.07912108266480777,Industry
-Telecommunications,Mobile,89,0.6703953268536473,Industry
-Telecommunications,Broadband,93,0.6600352954470105,Industry
-Telecommunications,Satellite,28,0.6337000954132935,Industry
-Materials,Chemicals,78,0.29721803531789126,Industry
-Materials,Metals & Mining,97,0.3826212316430643,Industry
-Materials,Construction Materials,65,0.9378373238639529,Industry
-Industrials,Aerospace & Defense,0,0.543664343411627,Industry
-Industrials,Machinery,57,0.4007067357164663,Industry
-Industrials,Industrial Services,40,0.46016962822838925,Industry
-Consumer Services,Retail,14,0.6016109368192064,Industry
-Consumer Services,Travel & Leisure,88,0.08757798087016111,Industry
-Consumer Services,Media,94,0.7562929459349557,Industry
-Transportation,Airlines,46,0.12923631677600023,Industry
-Transportation,Railroads,41,0.029119316481390878,Industry
-Transportation,Logistics,87,0.6778871555817126,Industry
+,Cloppenburg,884,0.565799484704213,Overall
+Cloppenburg,HiTech,38,0.5490518596250072,Sector
+Cloppenburg,Agriculture,89,0.22322485862274766,Sector
+Cloppenburg,Transportation,72,0.11910303430887603,Sector
+Cloppenburg,Consumer_Products,85,0.39359868779165463,Sector
+Cloppenburg,Unassigned,97,0.10772552184711992,Sector
+Cloppenburg,Communication,43,0.4615977680750105,Sector
+Cloppenburg,Trade,4,0.38492550756710864,Sector
+Cloppenburg,Business_Services,24,0.972900414945719,Sector
+Cloppenburg,Business_Products,88,0.8510695201437232,Sector
+Cloppenburg,Construction,46,0.8903362052120536,Sector
+Cloppenburg,Services,86,0.44408191818623555,Sector
+Cloppenburg,Mining,70,0.8296156046649765,Sector
+Cloppenburg,Health_Care,57,0.7320119436409591,Sector
+Cloppenburg,EnergyExpL_Prod,75,0.6710222234669566,Sector
+Cloppenburg,Utilities,10,0.856727202465048,Sector

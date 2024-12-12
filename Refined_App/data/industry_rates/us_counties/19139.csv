@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Muscatine,2124,0.1192554917009091,Overall
-Muscatine,Technology,247,0.046149481750493826,Sector
-Muscatine,Healthcare,212,0.6938256148589982,Sector
-Muscatine,Finance,85,0.5798575111453408,Sector
-Muscatine,Energy,149,0.6397812622522152,Sector
-Muscatine,Consumer Goods,267,0.9574791946730553,Sector
-Muscatine,Utilities,95,0.4053892052641068,Sector
-Muscatine,Real Estate,140,0.892500562670505,Sector
-Muscatine,Telecommunications,186,0.9684527802079499,Sector
-Muscatine,Materials,160,0.0718045667983207,Sector
-Muscatine,Industrials,192,0.8960170015596652,Sector
-Muscatine,Consumer Services,145,0.6376875461773025,Sector
-Muscatine,Transportation,246,0.9944369050612643,Sector
-Technology,Software,79,0.8036535197679334,Industry
-Technology,Hardware,85,0.25965157673680095,Industry
-Technology,IT Services,83,0.06894503790033779,Industry
-Healthcare,Pharmaceuticals,62,0.5576509074180206,Industry
-Healthcare,Medical Devices,99,0.08466524185841806,Industry
-Healthcare,Healthcare Services,51,0.21896447125625917,Industry
-Finance,Banking,3,0.8179583021104263,Industry
-Finance,Insurance,26,0.8112670745501561,Industry
-Finance,Investment Services,56,0.8147980514880954,Industry
-Energy,Oil & Gas,6,0.37185968026985805,Industry
-Energy,Renewable Energy,80,0.1463373423053439,Industry
-Energy,Energy Exploration,63,0.7488868409968705,Industry
-Consumer Goods,Food & Beverage,87,0.9425444079009268,Industry
-Consumer Goods,Household Products,81,0.5265436859105047,Industry
-Consumer Goods,Apparel,99,0.5888269640809586,Industry
-Utilities,Electric,19,0.438096592727255,Industry
-Utilities,Water,31,0.48467525150214474,Industry
-Utilities,Gas,45,0.865685917530283,Industry
-Real Estate,Residential,28,0.48762130772325096,Industry
-Real Estate,Commercial,86,0.8951824014411695,Industry
-Real Estate,Industrial,26,0.9224412383905307,Industry
-Telecommunications,Mobile,81,0.8036886392897903,Industry
-Telecommunications,Broadband,80,0.4453667513658718,Industry
-Telecommunications,Satellite,25,0.3960502250407182,Industry
-Materials,Chemicals,65,0.1519391848791446,Industry
-Materials,Metals & Mining,33,0.1354762956162523,Industry
-Materials,Construction Materials,62,0.7441150259987507,Industry
-Industrials,Aerospace & Defense,69,0.45787848539933773,Industry
-Industrials,Machinery,66,0.2929202837857676,Industry
-Industrials,Industrial Services,57,0.5897898163087879,Industry
-Consumer Services,Retail,41,0.6809219497619693,Industry
-Consumer Services,Travel & Leisure,62,0.5437460820955876,Industry
-Consumer Services,Media,42,0.9211831841446841,Industry
-Transportation,Airlines,76,0.6137140296966521,Industry
-Transportation,Railroads,71,0.3118946309443533,Industry
-Transportation,Logistics,99,0.21028548388502166,Industry
+,Muscatine,730,0.4797728010010883,Overall
+Muscatine,HiTech,15,0.005280448163219598,Sector
+Muscatine,Agriculture,3,0.08312244180994321,Sector
+Muscatine,Transportation,11,0.7590271615414471,Sector
+Muscatine,Consumer_Products,63,0.9347148893467064,Sector
+Muscatine,Unassigned,86,0.941518395683638,Sector
+Muscatine,Communication,74,0.22048835313346482,Sector
+Muscatine,Trade,40,0.10428415119497991,Sector
+Muscatine,Business_Services,74,0.18802685871190528,Sector
+Muscatine,Business_Products,58,0.8007884029427975,Sector
+Muscatine,Construction,59,0.6591372426251196,Sector
+Muscatine,Services,59,0.45382391625443197,Sector
+Muscatine,Mining,18,0.0864695441643557,Sector
+Muscatine,Health_Care,86,0.39960539218473823,Sector
+Muscatine,EnergyExpL_Prod,68,0.8849639926653403,Sector
+Muscatine,Utilities,16,0.6753408245942374,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Holzminden,1784,0.4375597615367577,Overall
-Holzminden,Technology,155,0.0764563075803798,Sector
-Holzminden,Healthcare,96,0.9821907943318474,Sector
-Holzminden,Finance,208,0.2305911147740859,Sector
-Holzminden,Energy,93,0.12424977764016687,Sector
-Holzminden,Consumer Goods,219,0.28165100164275947,Sector
-Holzminden,Utilities,213,0.0689261555243792,Sector
-Holzminden,Real Estate,119,0.044166637362282435,Sector
-Holzminden,Telecommunications,118,0.15607635677256215,Sector
-Holzminden,Materials,141,0.46612770376319435,Sector
-Holzminden,Industrials,190,0.2173799673782435,Sector
-Holzminden,Consumer Services,88,0.05593196835492331,Sector
-Holzminden,Transportation,144,0.12422878066508913,Sector
-Technology,Software,87,0.9588334009020897,Industry
-Technology,Hardware,40,0.5910828398283835,Industry
-Technology,IT Services,28,0.9122001984912298,Industry
-Healthcare,Pharmaceuticals,23,0.7452913656973714,Industry
-Healthcare,Medical Devices,20,0.20426085559552654,Industry
-Healthcare,Healthcare Services,53,0.2918959528133761,Industry
-Finance,Banking,58,0.46353583661580755,Industry
-Finance,Insurance,81,0.483207594341064,Industry
-Finance,Investment Services,69,0.7341903888560246,Industry
-Energy,Oil & Gas,43,0.2977729733405484,Industry
-Energy,Renewable Energy,37,0.4432473076478388,Industry
-Energy,Energy Exploration,13,0.5274822972190215,Industry
-Consumer Goods,Food & Beverage,55,0.2927647330021581,Industry
-Consumer Goods,Household Products,76,0.7683870159977989,Industry
-Consumer Goods,Apparel,88,0.12715622021623363,Industry
-Utilities,Electric,65,0.08450215057195565,Industry
-Utilities,Water,67,0.632571379262331,Industry
-Utilities,Gas,81,0.6343995171149688,Industry
-Real Estate,Residential,0,0.2964809571097631,Industry
-Real Estate,Commercial,75,0.3100416427418443,Industry
-Real Estate,Industrial,44,0.6378593100090586,Industry
-Telecommunications,Mobile,81,0.8544573616050434,Industry
-Telecommunications,Broadband,4,0.5192451992407645,Industry
-Telecommunications,Satellite,33,0.4689373784334915,Industry
-Materials,Chemicals,38,0.5597353784148662,Industry
-Materials,Metals & Mining,10,0.28905859159065794,Industry
-Materials,Construction Materials,93,0.8851036559896887,Industry
-Industrials,Aerospace & Defense,88,0.22125179772513115,Industry
-Industrials,Machinery,73,0.28090900132477514,Industry
-Industrials,Industrial Services,29,0.8269708985879136,Industry
-Consumer Services,Retail,62,0.13943541472253318,Industry
-Consumer Services,Travel & Leisure,24,0.19052714085530487,Industry
-Consumer Services,Media,2,0.3540098899140338,Industry
-Transportation,Airlines,34,0.9191642562418001,Industry
-Transportation,Railroads,69,0.39480156927924126,Industry
-Transportation,Logistics,41,0.8040626485389396,Industry
+,Holzminden,597,0.6442927283090061,Overall
+Holzminden,HiTech,23,0.9267698896281936,Sector
+Holzminden,Agriculture,28,0.9045468847987587,Sector
+Holzminden,Transportation,6,0.9427913357785394,Sector
+Holzminden,Consumer_Products,23,0.1384273719955752,Sector
+Holzminden,Unassigned,35,0.9178342396168283,Sector
+Holzminden,Communication,6,0.2755518784185983,Sector
+Holzminden,Trade,86,0.8647510521192028,Sector
+Holzminden,Business_Services,77,0.7445171901654417,Sector
+Holzminden,Business_Products,99,0.44016097581670044,Sector
+Holzminden,Construction,14,0.852518078543961,Sector
+Holzminden,Services,0,0.8824088118944473,Sector
+Holzminden,Mining,64,0.014863354790998318,Sector
+Holzminden,Health_Care,59,0.8992436230165388,Sector
+Holzminden,EnergyExpL_Prod,10,0.6632185418912784,Sector
+Holzminden,Utilities,67,0.19678769616002778,Sector

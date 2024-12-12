@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Forsyth,1899,0.45229286194617413,Overall
-Forsyth,Technology,123,0.2641172942472594,Sector
-Forsyth,Healthcare,187,0.806084962263001,Sector
-Forsyth,Finance,155,0.4276344076389219,Sector
-Forsyth,Energy,111,0.3243161320087812,Sector
-Forsyth,Consumer Goods,182,0.3715206705056793,Sector
-Forsyth,Utilities,239,0.4762028040142323,Sector
-Forsyth,Real Estate,170,0.6762088924112895,Sector
-Forsyth,Telecommunications,119,0.036954810674962424,Sector
-Forsyth,Materials,196,0.3938445040760611,Sector
-Forsyth,Industrials,73,0.18722583411289284,Sector
-Forsyth,Consumer Services,109,0.847918381219726,Sector
-Forsyth,Transportation,235,0.7539759688116043,Sector
-Technology,Software,33,0.542807041362005,Industry
-Technology,Hardware,41,0.8407219392167744,Industry
-Technology,IT Services,49,0.04821599938812704,Industry
-Healthcare,Pharmaceuticals,95,0.7946727005966792,Industry
-Healthcare,Medical Devices,74,0.2091025229477299,Industry
-Healthcare,Healthcare Services,18,0.05606513805885849,Industry
-Finance,Banking,83,0.9783548664891898,Industry
-Finance,Insurance,20,0.4953599878564532,Industry
-Finance,Investment Services,52,0.19829902449680703,Industry
-Energy,Oil & Gas,40,0.03354559795353784,Industry
-Energy,Renewable Energy,2,0.8415525718229668,Industry
-Energy,Energy Exploration,69,0.4822736171226719,Industry
-Consumer Goods,Food & Beverage,78,0.3943189198307544,Industry
-Consumer Goods,Household Products,33,0.35828765601909796,Industry
-Consumer Goods,Apparel,71,0.7724385974495982,Industry
-Utilities,Electric,76,0.11210220792084846,Industry
-Utilities,Water,72,0.38452368871954745,Industry
-Utilities,Gas,91,0.7106674007485313,Industry
-Real Estate,Residential,23,0.7071813189826143,Industry
-Real Estate,Commercial,53,0.5293719509650777,Industry
-Real Estate,Industrial,94,0.822006739332504,Industry
-Telecommunications,Mobile,88,0.03928990058478532,Industry
-Telecommunications,Broadband,8,0.350962570164985,Industry
-Telecommunications,Satellite,23,0.18368343313902014,Industry
-Materials,Chemicals,58,0.9917955847727307,Industry
-Materials,Metals & Mining,53,0.395735727762213,Industry
-Materials,Construction Materials,85,0.939756116316873,Industry
-Industrials,Aerospace & Defense,7,0.5891566895545243,Industry
-Industrials,Machinery,34,0.23279061396030476,Industry
-Industrials,Industrial Services,32,0.4527930509466819,Industry
-Consumer Services,Retail,45,0.08733033530372769,Industry
-Consumer Services,Travel & Leisure,60,0.9068683370548724,Industry
-Consumer Services,Media,4,0.3730420029138092,Industry
-Transportation,Airlines,99,0.3638820287676857,Industry
-Transportation,Railroads,61,0.039198929769635016,Industry
-Transportation,Logistics,75,0.7875531808665521,Industry
+,Forsyth,762,0.5686688633331488,Overall
+Forsyth,HiTech,69,0.82605751093651,Sector
+Forsyth,Agriculture,35,0.8252540279396781,Sector
+Forsyth,Transportation,96,0.7512316764291612,Sector
+Forsyth,Consumer_Products,17,0.41788558901331374,Sector
+Forsyth,Unassigned,66,0.061015479548017004,Sector
+Forsyth,Communication,38,0.8875948935163661,Sector
+Forsyth,Trade,81,0.6121950580764096,Sector
+Forsyth,Business_Services,29,0.51099664778667,Sector
+Forsyth,Business_Products,9,0.8844394491700017,Sector
+Forsyth,Construction,70,0.9768098516545675,Sector
+Forsyth,Services,36,0.030988932831925275,Sector
+Forsyth,Mining,1,0.541091057542757,Sector
+Forsyth,Health_Care,81,0.030744564030364407,Sector
+Forsyth,EnergyExpL_Prod,43,0.20826983976439617,Sector
+Forsyth,Utilities,91,0.9654583717570941,Sector

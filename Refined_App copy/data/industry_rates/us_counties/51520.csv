@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Bristol,1779,0.5811359546713178,Overall
+Bristol,Technology,171,0.732659234207253,Sector
+Bristol,Healthcare,193,0.1740604035633262,Sector
+Bristol,Finance,151,0.43405604204062875,Sector
+Bristol,Energy,119,0.2457169168313862,Sector
+Bristol,Consumer Goods,178,0.2527054413810963,Sector
+Bristol,Utilities,273,0.05931738596901759,Sector
+Bristol,Real Estate,122,0.0036149930324257395,Sector
+Bristol,Telecommunications,61,0.26902265802259184,Sector
+Bristol,Materials,79,0.8752383595576552,Sector
+Bristol,Industrials,218,0.969786499926981,Sector
+Bristol,Consumer Services,148,0.5753724284133661,Sector
+Bristol,Transportation,66,0.46704939310562765,Sector
+Technology,Software,27,0.03626126977584654,Industry
+Technology,Hardware,81,0.5826502553028196,Industry
+Technology,IT Services,63,0.7296665194613238,Industry
+Healthcare,Pharmaceuticals,89,0.023179126327693034,Industry
+Healthcare,Medical Devices,89,0.09553120933561243,Industry
+Healthcare,Healthcare Services,15,0.9143573459079019,Industry
+Finance,Banking,78,0.28177094677065406,Industry
+Finance,Insurance,65,0.9041185508653862,Industry
+Finance,Investment Services,8,0.583381572141995,Industry
+Energy,Oil & Gas,17,0.4921240788234963,Industry
+Energy,Renewable Energy,82,0.020949778480755854,Industry
+Energy,Energy Exploration,20,0.22683307759854887,Industry
+Consumer Goods,Food & Beverage,41,0.571128013846496,Industry
+Consumer Goods,Household Products,85,0.3485613118987506,Industry
+Consumer Goods,Apparel,52,0.33759185105577116,Industry
+Utilities,Electric,96,0.8450007822591517,Industry
+Utilities,Water,97,0.6628603742638532,Industry
+Utilities,Gas,80,0.3949711711416587,Industry
+Real Estate,Residential,19,0.5601285553638436,Industry
+Real Estate,Commercial,52,0.3827271300344801,Industry
+Real Estate,Industrial,51,0.9563121988244381,Industry
+Telecommunications,Mobile,1,0.8567104342399138,Industry
+Telecommunications,Broadband,11,0.5307446970799132,Industry
+Telecommunications,Satellite,49,0.9657084433466853,Industry
+Materials,Chemicals,24,0.08455516779462147,Industry
+Materials,Metals & Mining,20,0.825162417291889,Industry
+Materials,Construction Materials,35,0.22526728628647386,Industry
+Industrials,Aerospace & Defense,98,0.5034266683106875,Industry
+Industrials,Machinery,81,0.41424959010281903,Industry
+Industrials,Industrial Services,39,0.8960558058979942,Industry
+Consumer Services,Retail,80,0.28247129449990704,Industry
+Consumer Services,Travel & Leisure,35,0.35685889810688365,Industry
+Consumer Services,Media,33,0.7730094188148514,Industry
+Transportation,Airlines,24,0.5617193177024034,Industry
+Transportation,Railroads,7,0.25751002033342973,Industry
+Transportation,Logistics,35,0.7668320725785757,Industry

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Menifee,1759,0.37514787030873986,Overall
-Menifee,Technology,65,0.21248214534547982,Sector
-Menifee,Healthcare,229,0.6106436740679069,Sector
-Menifee,Finance,83,0.9854093499541461,Sector
-Menifee,Energy,246,0.9475917443504304,Sector
-Menifee,Consumer Goods,138,0.5170075239330911,Sector
-Menifee,Utilities,204,0.40990342583087847,Sector
-Menifee,Real Estate,111,0.3423065843586185,Sector
-Menifee,Telecommunications,127,0.12090641874136521,Sector
-Menifee,Materials,146,0.1318777437178168,Sector
-Menifee,Industrials,70,0.3221125240478663,Sector
-Menifee,Consumer Services,182,0.6572640783009455,Sector
-Menifee,Transportation,158,0.9098477365256724,Sector
-Technology,Software,8,0.21248044625156703,Industry
-Technology,Hardware,12,0.6365663828289732,Industry
-Technology,IT Services,45,0.5824119967824831,Industry
-Healthcare,Pharmaceuticals,86,0.9293327173923843,Industry
-Healthcare,Medical Devices,58,0.9659125373917382,Industry
-Healthcare,Healthcare Services,85,0.9409189591719473,Industry
-Finance,Banking,31,0.026035630276472377,Industry
-Finance,Insurance,41,0.21283253858941742,Industry
-Finance,Investment Services,11,0.7625154368302389,Industry
-Energy,Oil & Gas,97,0.46782243507897003,Industry
-Energy,Renewable Energy,55,0.30028340908423323,Industry
-Energy,Energy Exploration,94,0.39133186953846233,Industry
-Consumer Goods,Food & Beverage,68,0.8334827874389851,Industry
-Consumer Goods,Household Products,39,0.5028000262346649,Industry
-Consumer Goods,Apparel,31,0.052957371874983616,Industry
-Utilities,Electric,93,0.5689094273203874,Industry
-Utilities,Water,90,0.8981400970567754,Industry
-Utilities,Gas,21,0.7403567425539801,Industry
-Real Estate,Residential,14,0.299771689744607,Industry
-Real Estate,Commercial,48,0.40045595469444817,Industry
-Real Estate,Industrial,49,0.6425811786643514,Industry
-Telecommunications,Mobile,18,0.6041934950904083,Industry
-Telecommunications,Broadband,48,0.7477178129809071,Industry
-Telecommunications,Satellite,61,0.20120049845469035,Industry
-Materials,Chemicals,14,0.3429120508979715,Industry
-Materials,Metals & Mining,79,0.4941477963241676,Industry
-Materials,Construction Materials,53,0.8045839442927089,Industry
-Industrials,Aerospace & Defense,32,0.44224827065415073,Industry
-Industrials,Machinery,19,0.48502651411454767,Industry
-Industrials,Industrial Services,19,0.5400699609064296,Industry
-Consumer Services,Retail,87,0.9761355853949318,Industry
-Consumer Services,Travel & Leisure,85,0.36349515002749544,Industry
-Consumer Services,Media,10,0.8675153512969737,Industry
-Transportation,Airlines,54,0.4096641444212936,Industry
-Transportation,Railroads,55,0.7752299953620867,Industry
-Transportation,Logistics,49,0.263097526059608,Industry
+,Menifee,835,0.5450055745935644,Overall
+Menifee,HiTech,28,0.7036452856735064,Sector
+Menifee,Agriculture,33,0.9908848064324481,Sector
+Menifee,Transportation,59,0.4697415660766351,Sector
+Menifee,Consumer_Products,95,0.09375230282179203,Sector
+Menifee,Unassigned,89,0.33944420917194773,Sector
+Menifee,Communication,41,0.2519164572219147,Sector
+Menifee,Trade,4,0.6553555944969226,Sector
+Menifee,Business_Services,36,0.8412695643859289,Sector
+Menifee,Business_Products,77,0.13063234392997491,Sector
+Menifee,Construction,82,0.5388994739721268,Sector
+Menifee,Services,71,0.8162747516743064,Sector
+Menifee,Mining,73,0.6095610481302116,Sector
+Menifee,Health_Care,96,0.10402304787603533,Sector
+Menifee,EnergyExpL_Prod,14,0.8866025096164656,Sector
+Menifee,Utilities,37,0.7430806574232502,Sector

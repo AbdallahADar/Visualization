@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hartley,1966,0.6133920939275981,Overall
-Hartley,Technology,191,0.733725126957285,Sector
-Hartley,Healthcare,173,0.21525074604841987,Sector
-Hartley,Finance,254,0.01619488007666614,Sector
-Hartley,Energy,160,0.4065090372166317,Sector
-Hartley,Consumer Goods,173,0.4597242336797023,Sector
-Hartley,Utilities,187,0.09016817372986952,Sector
-Hartley,Real Estate,56,0.10730646626833862,Sector
-Hartley,Telecommunications,157,0.05842327772255307,Sector
-Hartley,Materials,102,0.2918561830852734,Sector
-Hartley,Industrials,120,0.3138222140388983,Sector
-Hartley,Consumer Services,227,0.23035215506306594,Sector
-Hartley,Transportation,166,0.42020274554299386,Sector
-Technology,Software,21,0.11621750854477042,Industry
-Technology,Hardware,73,0.08397842531359956,Industry
-Technology,IT Services,97,0.9048727690803718,Industry
-Healthcare,Pharmaceuticals,91,0.18195985234525003,Industry
-Healthcare,Medical Devices,4,0.8323208644139055,Industry
-Healthcare,Healthcare Services,78,0.9361090070747087,Industry
-Finance,Banking,90,0.9814729073643161,Industry
-Finance,Insurance,97,0.24531750427736088,Industry
-Finance,Investment Services,67,0.48505763791937273,Industry
-Energy,Oil & Gas,53,0.6048413995248018,Industry
-Energy,Renewable Energy,19,0.7786320435067886,Industry
-Energy,Energy Exploration,88,0.15085172193892793,Industry
-Consumer Goods,Food & Beverage,46,0.5621346147776326,Industry
-Consumer Goods,Household Products,36,0.9214330695158578,Industry
-Consumer Goods,Apparel,91,0.16554241904936295,Industry
-Utilities,Electric,44,0.347050577964116,Industry
-Utilities,Water,54,0.25811152371938584,Industry
-Utilities,Gas,89,0.06655095338487038,Industry
-Real Estate,Residential,48,0.6027679818925322,Industry
-Real Estate,Commercial,0,0.33653519754282013,Industry
-Real Estate,Industrial,8,0.9047919968270216,Industry
-Telecommunications,Mobile,73,0.4584339420739536,Industry
-Telecommunications,Broadband,59,0.1962506886524581,Industry
-Telecommunications,Satellite,25,0.6179710807235523,Industry
-Materials,Chemicals,9,0.5942867356113842,Industry
-Materials,Metals & Mining,5,0.6063202710764617,Industry
-Materials,Construction Materials,88,0.6937444777187262,Industry
-Industrials,Aerospace & Defense,7,0.474294980856074,Industry
-Industrials,Machinery,77,0.8575010378023269,Industry
-Industrials,Industrial Services,36,0.9304373613319437,Industry
-Consumer Services,Retail,58,0.3008652566466282,Industry
-Consumer Services,Travel & Leisure,75,0.002305960901618498,Industry
-Consumer Services,Media,94,0.1503920862094954,Industry
-Transportation,Airlines,83,0.12697666787823403,Industry
-Transportation,Railroads,77,0.33588087576548975,Industry
-Transportation,Logistics,6,0.005325900617064061,Industry
+,Hartley,563,0.49529996855204267,Overall
+Hartley,HiTech,5,0.6171881087612138,Sector
+Hartley,Agriculture,15,0.3208429466733893,Sector
+Hartley,Transportation,27,0.4808910211139805,Sector
+Hartley,Consumer_Products,17,0.4645950437954238,Sector
+Hartley,Unassigned,27,0.4873558934401089,Sector
+Hartley,Communication,24,0.1672027451482726,Sector
+Hartley,Trade,31,0.16557461306207233,Sector
+Hartley,Business_Services,29,0.6732905713067375,Sector
+Hartley,Business_Products,92,0.7840508682864981,Sector
+Hartley,Construction,76,0.3301539028558824,Sector
+Hartley,Services,41,0.8340463218914397,Sector
+Hartley,Mining,33,0.9161815384698456,Sector
+Hartley,Health_Care,82,0.5015500547763205,Sector
+Hartley,EnergyExpL_Prod,32,0.5008662421630034,Sector
+Hartley,Utilities,32,0.18570965653645166,Sector

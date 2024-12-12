@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Van Buren,1783,0.6776330145385803,Overall
-Van Buren,Technology,175,0.6494969494343888,Sector
-Van Buren,Healthcare,181,0.6574003320150016,Sector
-Van Buren,Finance,154,0.07670780623387197,Sector
-Van Buren,Energy,213,0.9642863244822646,Sector
-Van Buren,Consumer Goods,135,0.2210715580968613,Sector
-Van Buren,Utilities,159,0.6347914377290966,Sector
-Van Buren,Real Estate,100,0.16650955919352328,Sector
-Van Buren,Telecommunications,200,0.10099782615880248,Sector
-Van Buren,Materials,77,0.1346217952783072,Sector
-Van Buren,Industrials,194,0.7049598365876731,Sector
-Van Buren,Consumer Services,61,0.9285747717521409,Sector
-Van Buren,Transportation,134,0.2758998219906925,Sector
-Technology,Software,9,0.5087690521232672,Industry
-Technology,Hardware,69,0.11640628087008165,Industry
-Technology,IT Services,97,0.18131268819855673,Industry
-Healthcare,Pharmaceuticals,45,0.1947790946015202,Industry
-Healthcare,Medical Devices,43,0.5942290200781495,Industry
-Healthcare,Healthcare Services,93,0.7338772105569263,Industry
-Finance,Banking,9,0.9916394167276591,Industry
-Finance,Insurance,89,0.13394106218001378,Industry
-Finance,Investment Services,56,0.4450078277324435,Industry
-Energy,Oil & Gas,55,0.7754233655989548,Industry
-Energy,Renewable Energy,79,0.2744362144951348,Industry
-Energy,Energy Exploration,79,0.4093854371096797,Industry
-Consumer Goods,Food & Beverage,36,0.4390589142961999,Industry
-Consumer Goods,Household Products,21,0.8885083118633729,Industry
-Consumer Goods,Apparel,78,0.14767984935824396,Industry
-Utilities,Electric,18,0.8146197033483482,Industry
-Utilities,Water,89,0.49704298947686676,Industry
-Utilities,Gas,52,0.3001045096321867,Industry
-Real Estate,Residential,28,0.7185056654830511,Industry
-Real Estate,Commercial,40,0.16205939375742218,Industry
-Real Estate,Industrial,32,0.9070638811432334,Industry
-Telecommunications,Mobile,98,0.39895737310380364,Industry
-Telecommunications,Broadband,33,0.5044570925247345,Industry
-Telecommunications,Satellite,69,0.6039194201633702,Industry
-Materials,Chemicals,15,0.008312643041234469,Industry
-Materials,Metals & Mining,56,0.9288780739007817,Industry
-Materials,Construction Materials,6,0.16195874257468912,Industry
-Industrials,Aerospace & Defense,52,0.8760909236119881,Industry
-Industrials,Machinery,50,0.3102542284402008,Industry
-Industrials,Industrial Services,92,0.9946422149857048,Industry
-Consumer Services,Retail,23,0.4091888769418113,Industry
-Consumer Services,Travel & Leisure,37,0.9777650154927151,Industry
-Consumer Services,Media,1,0.14793614093179241,Industry
-Transportation,Airlines,81,0.9836264976563821,Industry
-Transportation,Railroads,23,0.10445501720345529,Industry
-Transportation,Logistics,30,0.9674978728788182,Industry
+,Van Buren,759,0.5987008849816137,Overall
+Van Buren,HiTech,18,0.1503354738781234,Sector
+Van Buren,Agriculture,70,0.8723999350130399,Sector
+Van Buren,Transportation,81,0.4743209869416004,Sector
+Van Buren,Consumer_Products,79,0.8368595274088374,Sector
+Van Buren,Unassigned,20,0.7312722017261191,Sector
+Van Buren,Communication,7,0.8860301642417117,Sector
+Van Buren,Trade,78,0.11683952401350028,Sector
+Van Buren,Business_Services,86,0.38587911240441153,Sector
+Van Buren,Business_Products,97,0.22460818042300645,Sector
+Van Buren,Construction,72,0.7066080753681845,Sector
+Van Buren,Services,0,0.8393007397636741,Sector
+Van Buren,Mining,50,0.5280487262296959,Sector
+Van Buren,Health_Care,13,0.7842190073728773,Sector
+Van Buren,EnergyExpL_Prod,25,0.9012332116459373,Sector
+Van Buren,Utilities,63,0.5425584082934832,Sector

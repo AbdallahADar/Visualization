@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kars,1780,0.3991782747480581,Overall
-Kars,Technology,223,0.8003588113226351,Sector
-Kars,Healthcare,65,0.7518858807420569,Sector
-Kars,Finance,166,0.6422154580157047,Sector
-Kars,Energy,18,0.831056640100189,Sector
-Kars,Consumer Goods,170,0.6299518962503815,Sector
-Kars,Utilities,175,0.9688391913983051,Sector
-Kars,Real Estate,183,0.10186230956184816,Sector
-Kars,Telecommunications,193,0.7239180415866641,Sector
-Kars,Materials,148,0.7808888743112811,Sector
-Kars,Industrials,112,0.7446535323859922,Sector
-Kars,Consumer Services,191,0.9656744100318616,Sector
-Kars,Transportation,136,0.6416106598365373,Sector
-Technology,Software,83,0.8100781372962171,Industry
-Technology,Hardware,53,0.4150475853540172,Industry
-Technology,IT Services,87,0.5108459624773791,Industry
-Healthcare,Pharmaceuticals,5,0.14607918379602747,Industry
-Healthcare,Medical Devices,5,0.07069766048670567,Industry
-Healthcare,Healthcare Services,55,0.5385362236418437,Industry
-Finance,Banking,34,0.6420412911691151,Industry
-Finance,Insurance,55,0.17642095758956566,Industry
-Finance,Investment Services,77,0.4219427267987935,Industry
-Energy,Oil & Gas,5,0.5171273297043779,Industry
-Energy,Renewable Energy,1,0.6692391558093548,Industry
-Energy,Energy Exploration,12,0.34981287744358147,Industry
-Consumer Goods,Food & Beverage,58,0.4093953953194879,Industry
-Consumer Goods,Household Products,78,0.5114594083591829,Industry
-Consumer Goods,Apparel,34,0.8027208838277592,Industry
-Utilities,Electric,68,0.8249326754485825,Industry
-Utilities,Water,11,0.3817483102213415,Industry
-Utilities,Gas,96,0.5824627126022255,Industry
-Real Estate,Residential,10,0.9195253712430707,Industry
-Real Estate,Commercial,89,0.8251583334508823,Industry
-Real Estate,Industrial,84,0.1569178568050511,Industry
-Telecommunications,Mobile,93,0.959228740193167,Industry
-Telecommunications,Broadband,73,0.0009434988400817135,Industry
-Telecommunications,Satellite,27,0.9700513836690516,Industry
-Materials,Chemicals,98,0.7982593210880824,Industry
-Materials,Metals & Mining,18,0.15176603057081584,Industry
-Materials,Construction Materials,32,0.08791549791380149,Industry
-Industrials,Aerospace & Defense,21,0.06645405856789688,Industry
-Industrials,Machinery,19,0.5835485254706786,Industry
-Industrials,Industrial Services,72,0.6152739397145065,Industry
-Consumer Services,Retail,26,0.08428025879827106,Industry
-Consumer Services,Travel & Leisure,88,0.2907664599793661,Industry
-Consumer Services,Media,77,0.5713081608438875,Industry
-Transportation,Airlines,55,0.7826466856483881,Industry
-Transportation,Railroads,55,0.8329441798505322,Industry
-Transportation,Logistics,26,0.9927096563119294,Industry
+,Kars,772,0.5880823186601163,Overall
+Kars,HiTech,48,0.44236691061206146,Sector
+Kars,Agriculture,60,0.47534624197195685,Sector
+Kars,Transportation,7,0.8697806837601891,Sector
+Kars,Consumer_Products,89,0.9570894067139885,Sector
+Kars,Unassigned,63,0.1927306760988572,Sector
+Kars,Communication,31,0.02182200080408425,Sector
+Kars,Trade,60,0.8763586197146712,Sector
+Kars,Business_Services,37,0.580839575336583,Sector
+Kars,Business_Products,26,0.7811660201795276,Sector
+Kars,Construction,35,0.4448565873973631,Sector
+Kars,Services,74,0.653194625155207,Sector
+Kars,Mining,48,0.9860081603855403,Sector
+Kars,Health_Care,52,0.8855127445440439,Sector
+Kars,EnergyExpL_Prod,60,0.03863168308648257,Sector
+Kars,Utilities,82,0.6155308441411864,Sector

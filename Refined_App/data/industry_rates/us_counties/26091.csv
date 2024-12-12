@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lenawee,1856,0.34551085920770574,Overall
-Lenawee,Technology,208,0.8279418683379378,Sector
-Lenawee,Healthcare,74,0.8725670096200444,Sector
-Lenawee,Finance,128,0.8220030565344786,Sector
-Lenawee,Energy,185,0.3300814656436386,Sector
-Lenawee,Consumer Goods,102,0.3063425204739161,Sector
-Lenawee,Utilities,100,0.15764169200751155,Sector
-Lenawee,Real Estate,163,0.8635801347130178,Sector
-Lenawee,Telecommunications,194,0.8410787046659249,Sector
-Lenawee,Materials,175,0.21788609213207633,Sector
-Lenawee,Industrials,192,0.8236712666869297,Sector
-Lenawee,Consumer Services,189,0.5171027780391989,Sector
-Lenawee,Transportation,146,0.32663148182006374,Sector
-Technology,Software,99,0.0551265661730963,Industry
-Technology,Hardware,63,0.5937039460450123,Industry
-Technology,IT Services,46,0.8751664142675999,Industry
-Healthcare,Pharmaceuticals,9,0.9133807062293376,Industry
-Healthcare,Medical Devices,31,0.5958303725917237,Industry
-Healthcare,Healthcare Services,34,0.10888198708718866,Industry
-Finance,Banking,20,0.4273780651774365,Industry
-Finance,Insurance,71,0.9419030125423908,Industry
-Finance,Investment Services,37,0.41386470716089585,Industry
-Energy,Oil & Gas,72,0.6204436057129921,Industry
-Energy,Renewable Energy,49,0.648331901354921,Industry
-Energy,Energy Exploration,64,0.8025440985928575,Industry
-Consumer Goods,Food & Beverage,20,0.9594427569014813,Industry
-Consumer Goods,Household Products,14,0.24115157858121516,Industry
-Consumer Goods,Apparel,68,0.5575029485186243,Industry
-Utilities,Electric,2,0.27884869615793273,Industry
-Utilities,Water,11,0.8228275416389271,Industry
-Utilities,Gas,87,0.7625623603672866,Industry
-Real Estate,Residential,85,0.04691006633551953,Industry
-Real Estate,Commercial,6,0.885362769880677,Industry
-Real Estate,Industrial,72,0.10879525778374322,Industry
-Telecommunications,Mobile,97,0.49995000281470625,Industry
-Telecommunications,Broadband,3,0.9280339551699773,Industry
-Telecommunications,Satellite,94,0.00952996561912034,Industry
-Materials,Chemicals,7,0.46998034376088804,Industry
-Materials,Metals & Mining,90,0.6207838104913873,Industry
-Materials,Construction Materials,78,0.5155678635098039,Industry
-Industrials,Aerospace & Defense,79,0.6747362699514384,Industry
-Industrials,Machinery,80,0.851232877053986,Industry
-Industrials,Industrial Services,33,0.2808146977177166,Industry
-Consumer Services,Retail,92,0.22418870740049313,Industry
-Consumer Services,Travel & Leisure,32,0.29330899576702596,Industry
-Consumer Services,Media,65,0.7425601189924649,Industry
-Transportation,Airlines,70,0.5802364034609926,Industry
-Transportation,Railroads,47,0.9461622530215449,Industry
-Transportation,Logistics,29,0.8437033379631316,Industry
+,Lenawee,615,0.3093459083288489,Overall
+Lenawee,HiTech,71,0.400258724860729,Sector
+Lenawee,Agriculture,59,0.47893073739063174,Sector
+Lenawee,Transportation,90,0.21210557497346005,Sector
+Lenawee,Consumer_Products,60,0.06761892129029112,Sector
+Lenawee,Unassigned,3,0.07387544319489603,Sector
+Lenawee,Communication,57,0.03767957174602543,Sector
+Lenawee,Trade,23,0.1741646327182177,Sector
+Lenawee,Business_Services,36,0.019063374002828426,Sector
+Lenawee,Business_Products,51,0.618417623710562,Sector
+Lenawee,Construction,7,0.020906629595178194,Sector
+Lenawee,Services,76,0.6521749925430073,Sector
+Lenawee,Mining,12,0.6265971545198856,Sector
+Lenawee,Health_Care,38,0.6784008448480775,Sector
+Lenawee,EnergyExpL_Prod,22,0.522284097132635,Sector
+Lenawee,Utilities,10,0.0577103024063077,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hayes,1626,0.3569704499730115,Overall
-Hayes,Technology,118,0.9784710798980598,Sector
-Hayes,Healthcare,107,0.2889362339548611,Sector
-Hayes,Finance,205,0.1865750336022225,Sector
-Hayes,Energy,98,0.4173203646562442,Sector
-Hayes,Consumer Goods,107,0.5583049099469518,Sector
-Hayes,Utilities,151,0.664612315973517,Sector
-Hayes,Real Estate,177,0.34205942154906266,Sector
-Hayes,Telecommunications,126,0.1117164437323026,Sector
-Hayes,Materials,112,0.6516479082295794,Sector
-Hayes,Industrials,168,0.2952027280067938,Sector
-Hayes,Consumer Services,89,0.8290192349354761,Sector
-Hayes,Transportation,168,0.99654335080841,Sector
-Technology,Software,74,0.5845097731784259,Industry
-Technology,Hardware,3,0.022272911689548036,Industry
-Technology,IT Services,41,0.7905531357472767,Industry
-Healthcare,Pharmaceuticals,28,0.9284272068079903,Industry
-Healthcare,Medical Devices,35,0.9545710589015498,Industry
-Healthcare,Healthcare Services,44,0.15314585787597756,Industry
-Finance,Banking,96,0.37103527950205784,Industry
-Finance,Insurance,35,0.11484285381833381,Industry
-Finance,Investment Services,74,0.30941111338447047,Industry
-Energy,Oil & Gas,20,0.5970088551882426,Industry
-Energy,Renewable Energy,28,0.7875710191074453,Industry
-Energy,Energy Exploration,50,0.14848176656220669,Industry
-Consumer Goods,Food & Beverage,45,0.35372931944707176,Industry
-Consumer Goods,Household Products,42,0.4523437584569979,Industry
-Consumer Goods,Apparel,20,0.9650411443789682,Industry
-Utilities,Electric,33,0.4799206517128318,Industry
-Utilities,Water,35,0.6256630518279622,Industry
-Utilities,Gas,83,0.8285548558579674,Industry
-Real Estate,Residential,74,0.1791240382911623,Industry
-Real Estate,Commercial,40,0.845716558196427,Industry
-Real Estate,Industrial,63,0.8051402434148467,Industry
-Telecommunications,Mobile,22,0.9367191091993112,Industry
-Telecommunications,Broadband,18,0.2952706550798876,Industry
-Telecommunications,Satellite,86,0.5821048382575641,Industry
-Materials,Chemicals,27,0.5017972610504516,Industry
-Materials,Metals & Mining,9,0.07008489116761585,Industry
-Materials,Construction Materials,76,0.7438666559268627,Industry
-Industrials,Aerospace & Defense,68,0.5738804820619281,Industry
-Industrials,Machinery,10,0.3339522465009179,Industry
-Industrials,Industrial Services,90,0.6291998985216617,Industry
-Consumer Services,Retail,14,0.3251272524689597,Industry
-Consumer Services,Travel & Leisure,50,0.7862556219423696,Industry
-Consumer Services,Media,25,0.3952267488611131,Industry
-Transportation,Airlines,17,0.6990845650896691,Industry
-Transportation,Railroads,79,0.19260431138566958,Industry
-Transportation,Logistics,72,0.13107187292107836,Industry
+,Hayes,820,0.4738809184496532,Overall
+Hayes,HiTech,25,0.0627644366064235,Sector
+Hayes,Agriculture,63,0.45065238096812155,Sector
+Hayes,Transportation,35,0.6730480575952629,Sector
+Hayes,Consumer_Products,3,0.5708938525081404,Sector
+Hayes,Unassigned,96,0.7534684250586527,Sector
+Hayes,Communication,50,0.039861931260774086,Sector
+Hayes,Trade,45,0.07532284741855844,Sector
+Hayes,Business_Services,68,0.2624869080127592,Sector
+Hayes,Business_Products,96,0.33341823477675747,Sector
+Hayes,Construction,97,0.7231904399539401,Sector
+Hayes,Services,95,0.8303581569132817,Sector
+Hayes,Mining,43,0.44464074813172816,Sector
+Hayes,Health_Care,23,0.33292883402907036,Sector
+Hayes,EnergyExpL_Prod,1,0.708148637737456,Sector
+Hayes,Utilities,80,0.84702988577387,Sector

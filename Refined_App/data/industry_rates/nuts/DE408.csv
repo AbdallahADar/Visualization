@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Havelland,1985,0.43224120026397694,Overall
-Havelland,Technology,115,0.6311378070183967,Sector
-Havelland,Healthcare,207,0.0647643127223072,Sector
-Havelland,Finance,152,0.9414409381442633,Sector
-Havelland,Energy,181,0.6395156902060717,Sector
-Havelland,Consumer Goods,246,0.07227670293754329,Sector
-Havelland,Utilities,148,0.1260631963188079,Sector
-Havelland,Real Estate,139,0.6148604070237709,Sector
-Havelland,Telecommunications,141,0.795076253075216,Sector
-Havelland,Materials,192,0.6684512882089925,Sector
-Havelland,Industrials,190,0.8037299850911249,Sector
-Havelland,Consumer Services,137,0.07222071378302086,Sector
-Havelland,Transportation,137,0.8550163379524667,Sector
-Technology,Software,40,0.5104790427744138,Industry
-Technology,Hardware,47,0.28857038993451367,Industry
-Technology,IT Services,28,0.4817231426166013,Industry
-Healthcare,Pharmaceuticals,82,0.2524542717974273,Industry
-Healthcare,Medical Devices,38,0.42248637379109555,Industry
-Healthcare,Healthcare Services,87,0.7008919628608046,Industry
-Finance,Banking,30,0.153493348287006,Industry
-Finance,Insurance,82,0.07026855043475444,Industry
-Finance,Investment Services,40,0.9161665144920352,Industry
-Energy,Oil & Gas,96,0.49038195514436544,Industry
-Energy,Renewable Energy,55,0.7274346652047111,Industry
-Energy,Energy Exploration,30,0.7252228709502133,Industry
-Consumer Goods,Food & Beverage,93,0.34631018723249984,Industry
-Consumer Goods,Household Products,65,0.10906085586160641,Industry
-Consumer Goods,Apparel,88,0.22670350547349705,Industry
-Utilities,Electric,46,0.39807127724161295,Industry
-Utilities,Water,90,0.5604656159578267,Industry
-Utilities,Gas,12,0.4661815729975637,Industry
-Real Estate,Residential,34,0.16947806546098942,Industry
-Real Estate,Commercial,82,0.9107760127991699,Industry
-Real Estate,Industrial,23,0.7558496734737533,Industry
-Telecommunications,Mobile,24,0.3366530618641137,Industry
-Telecommunications,Broadband,52,0.8921334936904955,Industry
-Telecommunications,Satellite,65,0.5541664633146333,Industry
-Materials,Chemicals,56,0.13772920395708899,Industry
-Materials,Metals & Mining,69,0.27259425644713864,Industry
-Materials,Construction Materials,67,0.2519956099895301,Industry
-Industrials,Aerospace & Defense,77,0.3979774214294802,Industry
-Industrials,Machinery,39,0.9942393934697021,Industry
-Industrials,Industrial Services,74,0.569863121132316,Industry
-Consumer Services,Retail,85,0.06963273510550183,Industry
-Consumer Services,Travel & Leisure,24,0.6451705239915189,Industry
-Consumer Services,Media,28,0.8691716330422579,Industry
-Transportation,Airlines,20,0.8734347477067952,Industry
-Transportation,Railroads,38,0.2820940723068066,Industry
-Transportation,Logistics,79,0.4895805827484423,Industry
+,Havelland,680,0.5791626993839786,Overall
+Havelland,HiTech,9,0.9404134042922576,Sector
+Havelland,Agriculture,6,0.695418137254758,Sector
+Havelland,Transportation,3,0.780286276820605,Sector
+Havelland,Consumer_Products,21,0.39641732317067646,Sector
+Havelland,Unassigned,42,0.26351139205030727,Sector
+Havelland,Communication,55,0.9207899686586524,Sector
+Havelland,Trade,31,0.8103125321732034,Sector
+Havelland,Business_Services,69,0.6506714157672138,Sector
+Havelland,Business_Products,85,0.0828432965894198,Sector
+Havelland,Construction,44,0.5392018577102191,Sector
+Havelland,Services,8,0.8056614111291956,Sector
+Havelland,Mining,85,0.7554289223134008,Sector
+Havelland,Health_Care,71,0.47391166590670475,Sector
+Havelland,EnergyExpL_Prod,96,0.10392168188043893,Sector
+Havelland,Utilities,55,0.4686512050426247,Sector

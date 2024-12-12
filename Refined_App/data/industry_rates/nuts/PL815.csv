@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Puławski,1839,0.6900545331137491,Overall
-Puławski,Technology,194,0.22154033907693382,Sector
-Puławski,Healthcare,66,0.3685867826355178,Sector
-Puławski,Finance,213,0.6529600124715033,Sector
-Puławski,Energy,209,0.15219762031912554,Sector
-Puławski,Consumer Goods,131,0.530831306008946,Sector
-Puławski,Utilities,204,0.10997745757290944,Sector
-Puławski,Real Estate,121,0.9101657853309311,Sector
-Puławski,Telecommunications,190,0.6521951200479488,Sector
-Puławski,Materials,113,0.9060053796504017,Sector
-Puławski,Industrials,118,0.5035173790644938,Sector
-Puławski,Consumer Services,211,0.612720780593738,Sector
-Puławski,Transportation,69,0.2586144388406796,Sector
-Technology,Software,85,0.18504892819180807,Industry
-Technology,Hardware,15,0.08733093165496586,Industry
-Technology,IT Services,94,0.44568710930656297,Industry
-Healthcare,Pharmaceuticals,6,0.24961959846643544,Industry
-Healthcare,Medical Devices,11,0.026940055306002852,Industry
-Healthcare,Healthcare Services,49,0.2522777004749708,Industry
-Finance,Banking,93,0.41895599257130445,Industry
-Finance,Insurance,60,0.9178991657262083,Industry
-Finance,Investment Services,60,0.008929252329619386,Industry
-Energy,Oil & Gas,81,0.20220645808110815,Industry
-Energy,Renewable Energy,52,0.9230345696213615,Industry
-Energy,Energy Exploration,76,0.7359974411300144,Industry
-Consumer Goods,Food & Beverage,32,0.48939148731112503,Industry
-Consumer Goods,Household Products,65,0.34011697646895755,Industry
-Consumer Goods,Apparel,34,0.7019168889164104,Industry
-Utilities,Electric,69,0.06247542945449169,Industry
-Utilities,Water,50,0.7322534288342448,Industry
-Utilities,Gas,85,0.9647108408723355,Industry
-Real Estate,Residential,50,0.0074237334129650945,Industry
-Real Estate,Commercial,28,0.6684820906118497,Industry
-Real Estate,Industrial,43,0.15376310686551786,Industry
-Telecommunications,Mobile,78,0.6781891435389624,Industry
-Telecommunications,Broadband,72,0.434732638887976,Industry
-Telecommunications,Satellite,40,0.16514079071938048,Industry
-Materials,Chemicals,50,0.42424228233318784,Industry
-Materials,Metals & Mining,44,0.4488983441596013,Industry
-Materials,Construction Materials,19,0.32929993706206473,Industry
-Industrials,Aerospace & Defense,4,0.9292522477336221,Industry
-Industrials,Machinery,55,0.33596936645622966,Industry
-Industrials,Industrial Services,59,0.22721913130299687,Industry
-Consumer Services,Retail,50,0.5262761893095894,Industry
-Consumer Services,Travel & Leisure,74,0.9514809538991684,Industry
-Consumer Services,Media,87,0.5574307338124185,Industry
-Transportation,Airlines,9,0.03564974573309876,Industry
-Transportation,Railroads,41,0.9903217436045063,Industry
-Transportation,Logistics,19,0.3960224453438107,Industry
+,Puławski,739,0.5490141595490622,Overall
+Puławski,HiTech,0,0.5194842501917286,Sector
+Puławski,Agriculture,53,0.473682432881693,Sector
+Puławski,Transportation,50,0.7470064738527179,Sector
+Puławski,Consumer_Products,89,0.6011363350173253,Sector
+Puławski,Unassigned,96,0.2999041485386874,Sector
+Puławski,Communication,98,0.7958477296375055,Sector
+Puławski,Trade,52,0.8464521311367763,Sector
+Puławski,Business_Services,40,0.3339773987541098,Sector
+Puławski,Business_Products,39,0.6062215407176764,Sector
+Puławski,Construction,10,0.94095450565878,Sector
+Puławski,Services,56,0.6272963418137338,Sector
+Puławski,Mining,64,0.5639775521226693,Sector
+Puławski,Health_Care,22,0.3299229951094985,Sector
+Puławski,EnergyExpL_Prod,11,0.11650088645681012,Sector
+Puławski,Utilities,59,0.4328476713462196,Sector

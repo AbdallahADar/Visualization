@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Haskovo,2070,0.6852672745011033,Overall
-Haskovo,Technology,159,0.18327521860203333,Sector
-Haskovo,Healthcare,185,0.27048886717121545,Sector
-Haskovo,Finance,139,0.6157452249514758,Sector
-Haskovo,Energy,196,0.7771073502819694,Sector
-Haskovo,Consumer Goods,138,0.5898646130330444,Sector
-Haskovo,Utilities,104,0.2857290532190039,Sector
-Haskovo,Real Estate,188,0.9829125542866846,Sector
-Haskovo,Telecommunications,199,0.1098839005410891,Sector
-Haskovo,Materials,107,0.32189394462355814,Sector
-Haskovo,Industrials,166,0.8964841686906276,Sector
-Haskovo,Consumer Services,250,0.5740351135661884,Sector
-Haskovo,Transportation,239,0.9120838830229161,Sector
-Technology,Software,69,0.6990024726053775,Industry
-Technology,Hardware,25,0.9953178680402319,Industry
-Technology,IT Services,65,0.16071930899745857,Industry
-Healthcare,Pharmaceuticals,66,0.4693398456705383,Industry
-Healthcare,Medical Devices,80,0.050423649990494535,Industry
-Healthcare,Healthcare Services,39,0.008121213233313718,Industry
-Finance,Banking,15,0.5805726352976264,Industry
-Finance,Insurance,96,0.5097231381339333,Industry
-Finance,Investment Services,28,0.3934138713343326,Industry
-Energy,Oil & Gas,42,0.34064448657163837,Industry
-Energy,Renewable Energy,83,0.7794056346425413,Industry
-Energy,Energy Exploration,71,0.9614900049771602,Industry
-Consumer Goods,Food & Beverage,21,0.3937089987156279,Industry
-Consumer Goods,Household Products,34,0.39140361167130455,Industry
-Consumer Goods,Apparel,83,0.8870245721577672,Industry
-Utilities,Electric,14,0.16098025301786756,Industry
-Utilities,Water,54,0.45492701608937713,Industry
-Utilities,Gas,36,0.45380774047976324,Industry
-Real Estate,Residential,36,0.11718105744092167,Industry
-Real Estate,Commercial,55,0.49517189064548517,Industry
-Real Estate,Industrial,97,0.37117295410836315,Industry
-Telecommunications,Mobile,97,0.9128282574225466,Industry
-Telecommunications,Broadband,80,0.45706775847012115,Industry
-Telecommunications,Satellite,22,0.4862820401816469,Industry
-Materials,Chemicals,43,0.6087102235412953,Industry
-Materials,Metals & Mining,10,0.2640330393223088,Industry
-Materials,Construction Materials,54,0.04057268394758928,Industry
-Industrials,Aerospace & Defense,39,0.808272130202913,Industry
-Industrials,Machinery,40,0.5989310275923535,Industry
-Industrials,Industrial Services,87,0.9269835432113196,Industry
-Consumer Services,Retail,96,0.23760799606649818,Industry
-Consumer Services,Travel & Leisure,89,0.3796401299484956,Industry
-Consumer Services,Media,65,0.8878238174343344,Industry
-Transportation,Airlines,85,0.8086079333932807,Industry
-Transportation,Railroads,84,0.9274676451840923,Industry
-Transportation,Logistics,70,0.5781658741783797,Industry
+,Haskovo,825,0.49103224860329603,Overall
+Haskovo,HiTech,59,0.2523049800076068,Sector
+Haskovo,Agriculture,51,0.9590186158769748,Sector
+Haskovo,Transportation,36,0.12596413660478345,Sector
+Haskovo,Consumer_Products,50,0.34288082103041906,Sector
+Haskovo,Unassigned,81,0.6361166551036697,Sector
+Haskovo,Communication,43,0.885067437350331,Sector
+Haskovo,Trade,72,0.3955175625158378,Sector
+Haskovo,Business_Services,60,0.3562913317634324,Sector
+Haskovo,Business_Products,4,0.839755640977864,Sector
+Haskovo,Construction,88,0.008475726315837262,Sector
+Haskovo,Services,65,0.07556542468920913,Sector
+Haskovo,Mining,79,0.8100396362948429,Sector
+Haskovo,Health_Care,48,0.9833284467797331,Sector
+Haskovo,EnergyExpL_Prod,68,0.005616205541804642,Sector
+Haskovo,Utilities,21,0.6895411081970935,Sector

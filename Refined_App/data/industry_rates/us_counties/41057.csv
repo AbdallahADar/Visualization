@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Tillamook,1584,0.203613439126072,Overall
-Tillamook,Technology,125,0.026325909447989737,Sector
-Tillamook,Healthcare,121,0.2769287346494641,Sector
-Tillamook,Finance,184,0.28922624507441863,Sector
-Tillamook,Energy,128,0.8786629270732741,Sector
-Tillamook,Consumer Goods,159,0.6515295062228128,Sector
-Tillamook,Utilities,207,0.958008702126993,Sector
-Tillamook,Real Estate,158,0.012467618662824531,Sector
-Tillamook,Telecommunications,69,0.1525848688779864,Sector
-Tillamook,Materials,42,0.43417948142502005,Sector
-Tillamook,Industrials,152,0.5749243337389374,Sector
-Tillamook,Consumer Services,163,0.011110885723862207,Sector
-Tillamook,Transportation,76,0.30609944842791315,Sector
-Technology,Software,33,0.3764984141662515,Industry
-Technology,Hardware,57,0.2078960169577717,Industry
-Technology,IT Services,35,0.9021121805222818,Industry
-Healthcare,Pharmaceuticals,30,0.48406947513316567,Industry
-Healthcare,Medical Devices,62,0.9887330964408545,Industry
-Healthcare,Healthcare Services,29,0.47170140047315234,Industry
-Finance,Banking,81,0.13042406658607697,Industry
-Finance,Insurance,28,0.2592137155364014,Industry
-Finance,Investment Services,75,0.10015597704066459,Industry
-Energy,Oil & Gas,91,0.13500522868574383,Industry
-Energy,Renewable Energy,15,0.5608371677462434,Industry
-Energy,Energy Exploration,22,0.5910231915943053,Industry
-Consumer Goods,Food & Beverage,61,0.6182537999717949,Industry
-Consumer Goods,Household Products,96,0.23980140071372935,Industry
-Consumer Goods,Apparel,2,0.8184271549619838,Industry
-Utilities,Electric,80,0.3657920039668203,Industry
-Utilities,Water,41,0.0915557145695961,Industry
-Utilities,Gas,86,0.25382189819937073,Industry
-Real Estate,Residential,44,0.014748347312056098,Industry
-Real Estate,Commercial,85,0.9852078985023068,Industry
-Real Estate,Industrial,29,0.2921020566102708,Industry
-Telecommunications,Mobile,45,0.34225156319467387,Industry
-Telecommunications,Broadband,2,0.0036154834028225835,Industry
-Telecommunications,Satellite,22,0.16630617120224678,Industry
-Materials,Chemicals,27,0.1057365496937307,Industry
-Materials,Metals & Mining,0,0.591288404656832,Industry
-Materials,Construction Materials,15,0.7551067466003978,Industry
-Industrials,Aerospace & Defense,3,0.3378236900921646,Industry
-Industrials,Machinery,68,0.025831464244913005,Industry
-Industrials,Industrial Services,81,0.10785027837807337,Industry
-Consumer Services,Retail,96,0.46586909057352366,Industry
-Consumer Services,Travel & Leisure,58,0.3710940704564931,Industry
-Consumer Services,Media,9,0.9756677309042212,Industry
-Transportation,Airlines,39,0.5503164011622594,Industry
-Transportation,Railroads,31,0.8527103937070752,Industry
-Transportation,Logistics,6,0.465926292292938,Industry
+,Tillamook,747,0.5760771934192015,Overall
+Tillamook,HiTech,50,0.4325987227211845,Sector
+Tillamook,Agriculture,76,0.23592352263959826,Sector
+Tillamook,Transportation,64,0.8845404483918313,Sector
+Tillamook,Consumer_Products,43,0.7672159971921919,Sector
+Tillamook,Unassigned,4,0.2554925612993959,Sector
+Tillamook,Communication,77,0.2244127416313837,Sector
+Tillamook,Trade,84,0.3012828861621121,Sector
+Tillamook,Business_Services,36,0.953287070476016,Sector
+Tillamook,Business_Products,44,0.6507469492228444,Sector
+Tillamook,Construction,22,0.8158580848492339,Sector
+Tillamook,Services,52,0.8890983475194669,Sector
+Tillamook,Mining,76,0.6103569015074068,Sector
+Tillamook,Health_Care,33,0.3084024519247244,Sector
+Tillamook,EnergyExpL_Prod,3,0.7958832132988789,Sector
+Tillamook,Utilities,83,0.5160580024517528,Sector

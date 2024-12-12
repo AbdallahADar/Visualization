@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Haute-Vienne,1532,0.49912337105206916,Overall
-Haute-Vienne,Technology,166,0.4935973874031335,Sector
-Haute-Vienne,Healthcare,137,0.3697926542988942,Sector
-Haute-Vienne,Finance,104,0.36500368473652767,Sector
-Haute-Vienne,Energy,107,0.5861321312530623,Sector
-Haute-Vienne,Consumer Goods,156,0.1135200150651291,Sector
-Haute-Vienne,Utilities,160,0.10923114544188028,Sector
-Haute-Vienne,Real Estate,121,0.8456250452649414,Sector
-Haute-Vienne,Telecommunications,70,0.4836326437305175,Sector
-Haute-Vienne,Materials,147,0.8439507392464548,Sector
-Haute-Vienne,Industrials,94,0.6557546851713933,Sector
-Haute-Vienne,Consumer Services,99,0.46183468509797665,Sector
-Haute-Vienne,Transportation,171,0.6239597411900432,Sector
-Technology,Software,60,0.06570828458234346,Industry
-Technology,Hardware,98,0.5651864568259289,Industry
-Technology,IT Services,8,0.2656563807099138,Industry
-Healthcare,Pharmaceuticals,25,0.18014233635046173,Industry
-Healthcare,Medical Devices,26,0.5295266073030405,Industry
-Healthcare,Healthcare Services,86,0.48753947134905307,Industry
-Finance,Banking,20,0.6336854779754535,Industry
-Finance,Insurance,73,0.5620335883771265,Industry
-Finance,Investment Services,11,0.9933865687225167,Industry
-Energy,Oil & Gas,83,0.988909361643487,Industry
-Energy,Renewable Energy,11,0.7505859204735745,Industry
-Energy,Energy Exploration,13,0.11863682879166615,Industry
-Consumer Goods,Food & Beverage,23,0.09222725592236991,Industry
-Consumer Goods,Household Products,96,0.3355730319524137,Industry
-Consumer Goods,Apparel,37,0.6769048808233499,Industry
-Utilities,Electric,11,0.01863570096371936,Industry
-Utilities,Water,75,0.07454755608070007,Industry
-Utilities,Gas,74,0.7082555624088095,Industry
-Real Estate,Residential,1,0.7309141136157347,Industry
-Real Estate,Commercial,69,0.18007392584773152,Industry
-Real Estate,Industrial,51,0.10486976546037174,Industry
-Telecommunications,Mobile,55,0.5171410116271407,Industry
-Telecommunications,Broadband,2,0.6124163246294589,Industry
-Telecommunications,Satellite,13,0.27095736878089305,Industry
-Materials,Chemicals,85,0.1974979001256415,Industry
-Materials,Metals & Mining,15,0.7062126928701505,Industry
-Materials,Construction Materials,47,0.6908279631810629,Industry
-Industrials,Aerospace & Defense,44,0.799333529493594,Industry
-Industrials,Machinery,2,0.801316221815042,Industry
-Industrials,Industrial Services,48,0.4334702722934026,Industry
-Consumer Services,Retail,53,0.7312155570823211,Industry
-Consumer Services,Travel & Leisure,7,0.21117247202999,Industry
-Consumer Services,Media,39,0.7095068386843918,Industry
-Transportation,Airlines,17,0.16819806048825658,Industry
-Transportation,Railroads,77,0.7116562468442835,Industry
-Transportation,Logistics,77,0.41886663106375177,Industry
+,Haute-Vienne,664,0.5751015382958974,Overall
+Haute-Vienne,HiTech,72,0.16408920891546774,Sector
+Haute-Vienne,Agriculture,13,0.1796258292176398,Sector
+Haute-Vienne,Transportation,35,0.8400026669098307,Sector
+Haute-Vienne,Consumer_Products,46,0.8014562995623066,Sector
+Haute-Vienne,Unassigned,28,0.046902402940442456,Sector
+Haute-Vienne,Communication,53,0.9999188952667332,Sector
+Haute-Vienne,Trade,30,0.561386420996635,Sector
+Haute-Vienne,Business_Services,49,0.6938955889529587,Sector
+Haute-Vienne,Business_Products,78,0.7027068704213637,Sector
+Haute-Vienne,Construction,43,0.32155930156751533,Sector
+Haute-Vienne,Services,18,0.7745332723965779,Sector
+Haute-Vienne,Mining,56,0.5582877339544268,Sector
+Haute-Vienne,Health_Care,36,0.9730902098625697,Sector
+Haute-Vienne,EnergyExpL_Prod,32,0.8956770162314253,Sector
+Haute-Vienne,Utilities,75,0.11339135724256777,Sector

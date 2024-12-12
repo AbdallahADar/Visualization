@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wyandotte,1701,0.6848310540497747,Overall
-Wyandotte,Technology,126,0.8533084932014461,Sector
-Wyandotte,Healthcare,140,0.11404134216798634,Sector
-Wyandotte,Finance,52,0.246476441267243,Sector
-Wyandotte,Energy,216,0.36707450648716455,Sector
-Wyandotte,Consumer Goods,104,0.8361495395361723,Sector
-Wyandotte,Utilities,147,0.07233084775576404,Sector
-Wyandotte,Real Estate,203,0.30853688333495066,Sector
-Wyandotte,Telecommunications,149,0.48396616313212226,Sector
-Wyandotte,Materials,47,0.3224028000293294,Sector
-Wyandotte,Industrials,137,0.7800372319371701,Sector
-Wyandotte,Consumer Services,160,0.3234805791969343,Sector
-Wyandotte,Transportation,220,0.5080281094667327,Sector
-Technology,Software,36,0.5882636262851643,Industry
-Technology,Hardware,41,0.4451297390710902,Industry
-Technology,IT Services,49,0.07477640977643929,Industry
-Healthcare,Pharmaceuticals,33,0.4805221136461676,Industry
-Healthcare,Medical Devices,44,0.5595427466869334,Industry
-Healthcare,Healthcare Services,63,0.11273459044362899,Industry
-Finance,Banking,22,0.7310865770470719,Industry
-Finance,Insurance,20,0.9036557801960885,Industry
-Finance,Investment Services,10,0.4019395332575746,Industry
-Energy,Oil & Gas,89,0.16096337887981882,Industry
-Energy,Renewable Energy,98,0.3681420222202759,Industry
-Energy,Energy Exploration,29,0.1287894062654198,Industry
-Consumer Goods,Food & Beverage,20,0.16293093731738562,Industry
-Consumer Goods,Household Products,35,0.757235908404701,Industry
-Consumer Goods,Apparel,49,0.24932657527920066,Industry
-Utilities,Electric,51,0.03033678987944277,Industry
-Utilities,Water,43,0.13982574649517043,Industry
-Utilities,Gas,53,0.6270917463454633,Industry
-Real Estate,Residential,93,0.09635679351445547,Industry
-Real Estate,Commercial,96,0.007485468877972634,Industry
-Real Estate,Industrial,14,0.6128697706962747,Industry
-Telecommunications,Mobile,96,0.9571346907196582,Industry
-Telecommunications,Broadband,20,0.9648473596911569,Industry
-Telecommunications,Satellite,33,0.6461489202418158,Industry
-Materials,Chemicals,1,0.6917944902759045,Industry
-Materials,Metals & Mining,32,0.313952459395753,Industry
-Materials,Construction Materials,14,0.15514955110323347,Industry
-Industrials,Aerospace & Defense,55,0.5889766492283188,Industry
-Industrials,Machinery,10,0.8413965433106602,Industry
-Industrials,Industrial Services,72,0.8613224703887506,Industry
-Consumer Services,Retail,78,0.9082800903189452,Industry
-Consumer Services,Travel & Leisure,59,0.9788605887373949,Industry
-Consumer Services,Media,23,0.30603680335608185,Industry
-Transportation,Airlines,33,0.2167069155679635,Industry
-Transportation,Railroads,88,0.6251291690690055,Industry
-Transportation,Logistics,99,0.6690921445017294,Industry
+,Wyandotte,694,0.542362934161512,Overall
+Wyandotte,HiTech,9,0.532485600278735,Sector
+Wyandotte,Agriculture,79,0.5078493888237985,Sector
+Wyandotte,Transportation,75,0.2363214626086868,Sector
+Wyandotte,Consumer_Products,62,0.9385026819657696,Sector
+Wyandotte,Unassigned,0,0.6780962531749237,Sector
+Wyandotte,Communication,63,0.6176872970539429,Sector
+Wyandotte,Trade,86,0.8731583070410133,Sector
+Wyandotte,Business_Services,6,0.7222747796774072,Sector
+Wyandotte,Business_Products,28,0.6591364925456709,Sector
+Wyandotte,Construction,95,0.05313435599689387,Sector
+Wyandotte,Services,73,0.004084586552154157,Sector
+Wyandotte,Mining,11,0.9626082887027101,Sector
+Wyandotte,Health_Care,89,0.321354597260853,Sector
+Wyandotte,EnergyExpL_Prod,18,0.809177679461475,Sector
+Wyandotte,Utilities,0,0.21957224127864716,Sector

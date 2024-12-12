@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Washtenaw,1710,0.3409444796896288,Overall
-Washtenaw,Technology,228,0.10243047123176019,Sector
-Washtenaw,Healthcare,178,0.2914665747694195,Sector
-Washtenaw,Finance,40,0.4556941239309792,Sector
-Washtenaw,Energy,111,0.7424374526615951,Sector
-Washtenaw,Consumer Goods,136,0.2650008337830476,Sector
-Washtenaw,Utilities,212,0.7377754747255307,Sector
-Washtenaw,Real Estate,201,0.5585092660196826,Sector
-Washtenaw,Telecommunications,135,0.34630670788736706,Sector
-Washtenaw,Materials,132,0.06052889391983396,Sector
-Washtenaw,Industrials,157,0.34864900410652044,Sector
-Washtenaw,Consumer Services,98,0.4696193310102824,Sector
-Washtenaw,Transportation,82,0.7951212091503985,Sector
-Technology,Software,93,0.1351036116407207,Industry
-Technology,Hardware,77,0.8095909358598038,Industry
-Technology,IT Services,58,0.5172734115326046,Industry
-Healthcare,Pharmaceuticals,34,0.9334122585619732,Industry
-Healthcare,Medical Devices,86,0.8574276641726689,Industry
-Healthcare,Healthcare Services,58,0.655873859474488,Industry
-Finance,Banking,17,0.050905438956101445,Industry
-Finance,Insurance,11,0.3496811739899224,Industry
-Finance,Investment Services,12,0.6556652462823498,Industry
-Energy,Oil & Gas,28,0.13313994889900727,Industry
-Energy,Renewable Energy,60,0.6796524141298218,Industry
-Energy,Energy Exploration,23,0.16188881878606798,Industry
-Consumer Goods,Food & Beverage,52,0.27962774549483316,Industry
-Consumer Goods,Household Products,79,0.06035563960343371,Industry
-Consumer Goods,Apparel,5,0.12425347083601013,Industry
-Utilities,Electric,63,0.9888197471566186,Industry
-Utilities,Water,87,0.12199125154114698,Industry
-Utilities,Gas,62,0.194388840235713,Industry
-Real Estate,Residential,42,0.9534888501166684,Industry
-Real Estate,Commercial,86,0.27519607115994116,Industry
-Real Estate,Industrial,73,0.34884948635832613,Industry
-Telecommunications,Mobile,22,0.42110199866453435,Industry
-Telecommunications,Broadband,64,0.8128517415312615,Industry
-Telecommunications,Satellite,49,0.11612662294901077,Industry
-Materials,Chemicals,54,0.2128370408453758,Industry
-Materials,Metals & Mining,37,0.04385508062869359,Industry
-Materials,Construction Materials,41,0.7536644564702301,Industry
-Industrials,Aerospace & Defense,43,0.31120971694446553,Industry
-Industrials,Machinery,66,0.06100007617876002,Industry
-Industrials,Industrial Services,48,0.06828975205639676,Industry
-Consumer Services,Retail,19,0.3109684114305157,Industry
-Consumer Services,Travel & Leisure,4,0.0746579338773371,Industry
-Consumer Services,Media,75,0.9860441908352615,Industry
-Transportation,Airlines,13,0.6010699138746954,Industry
-Transportation,Railroads,26,0.9596171112665143,Industry
-Transportation,Logistics,43,0.3851142600787474,Industry
+,Washtenaw,548,0.6209321329240596,Overall
+Washtenaw,HiTech,50,0.9813443250582102,Sector
+Washtenaw,Agriculture,43,0.6699937424630528,Sector
+Washtenaw,Transportation,28,0.22742988532448094,Sector
+Washtenaw,Consumer_Products,16,0.5579265956100719,Sector
+Washtenaw,Unassigned,92,0.8912261257257633,Sector
+Washtenaw,Communication,37,0.692049847589119,Sector
+Washtenaw,Trade,41,0.9581880289160756,Sector
+Washtenaw,Business_Services,25,0.45412241300835554,Sector
+Washtenaw,Business_Products,15,0.3285628587390651,Sector
+Washtenaw,Construction,46,0.7168854851057666,Sector
+Washtenaw,Services,34,0.23828066434445672,Sector
+Washtenaw,Mining,26,0.6029627231758907,Sector
+Washtenaw,Health_Care,57,0.9301547589772797,Sector
+Washtenaw,EnergyExpL_Prod,12,0.6825352409294211,Sector
+Washtenaw,Utilities,26,0.3823192988938854,Sector

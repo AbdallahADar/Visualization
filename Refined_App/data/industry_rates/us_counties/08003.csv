@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Alamosa,1855,0.11515191036905947,Overall
-Alamosa,Technology,128,0.1944392592556673,Sector
-Alamosa,Healthcare,126,0.9353844943289352,Sector
-Alamosa,Finance,101,0.2721748135725339,Sector
-Alamosa,Energy,212,0.8428369223473766,Sector
-Alamosa,Consumer Goods,158,0.42425840736184783,Sector
-Alamosa,Utilities,136,0.30578152054905006,Sector
-Alamosa,Real Estate,184,0.19348573035236538,Sector
-Alamosa,Telecommunications,230,0.14045610166011735,Sector
-Alamosa,Materials,108,0.00310790751336798,Sector
-Alamosa,Industrials,167,0.8804629491266255,Sector
-Alamosa,Consumer Services,152,0.8070026970830496,Sector
-Alamosa,Transportation,153,0.4238345774310883,Sector
-Technology,Software,47,0.9182531451061804,Industry
-Technology,Hardware,17,0.5983369183754935,Industry
-Technology,IT Services,64,0.39271984989415076,Industry
-Healthcare,Pharmaceuticals,20,0.28598772669745565,Industry
-Healthcare,Medical Devices,82,0.8278759213869394,Industry
-Healthcare,Healthcare Services,24,0.9784027473412773,Industry
-Finance,Banking,9,0.08548153329444841,Industry
-Finance,Insurance,80,0.7192086922931802,Industry
-Finance,Investment Services,12,0.7239283990037314,Industry
-Energy,Oil & Gas,88,0.7072143371009951,Industry
-Energy,Renewable Energy,36,0.7230308746950581,Industry
-Energy,Energy Exploration,88,0.8566004196830667,Industry
-Consumer Goods,Food & Beverage,84,0.5782695567515386,Industry
-Consumer Goods,Household Products,53,0.8789664131022568,Industry
-Consumer Goods,Apparel,21,0.43859884145743233,Industry
-Utilities,Electric,63,0.08273727385190244,Industry
-Utilities,Water,8,0.5346145699198961,Industry
-Utilities,Gas,65,0.3959920155157405,Industry
-Real Estate,Residential,47,0.8774087428174733,Industry
-Real Estate,Commercial,46,0.6989654769927971,Industry
-Real Estate,Industrial,91,0.9999908044989476,Industry
-Telecommunications,Mobile,59,0.1664288954606874,Industry
-Telecommunications,Broadband,93,0.7926484147527628,Industry
-Telecommunications,Satellite,78,0.1656646098648593,Industry
-Materials,Chemicals,54,0.09789076426078192,Industry
-Materials,Metals & Mining,35,0.1558629835445967,Industry
-Materials,Construction Materials,19,0.14717750980854427,Industry
-Industrials,Aerospace & Defense,72,0.2492738415454202,Industry
-Industrials,Machinery,9,0.9001180621453433,Industry
-Industrials,Industrial Services,86,0.0187493743380851,Industry
-Consumer Services,Retail,8,0.20501530475000318,Industry
-Consumer Services,Travel & Leisure,82,0.35683930491255444,Industry
-Consumer Services,Media,62,0.19162513576792928,Industry
-Transportation,Airlines,81,0.7358076745942438,Industry
-Transportation,Railroads,13,0.9811909866416604,Industry
-Transportation,Logistics,59,0.20114607035675103,Industry
+,Alamosa,800,0.46251481279645845,Overall
+Alamosa,HiTech,79,0.26396653271948944,Sector
+Alamosa,Agriculture,73,0.4053227356210214,Sector
+Alamosa,Transportation,67,0.42923565087406756,Sector
+Alamosa,Consumer_Products,17,0.05368997375414275,Sector
+Alamosa,Unassigned,10,0.4376845210266771,Sector
+Alamosa,Communication,97,0.15016313021436767,Sector
+Alamosa,Trade,24,0.7879710332863926,Sector
+Alamosa,Business_Services,1,0.28171102222083244,Sector
+Alamosa,Business_Products,53,0.7359487550555294,Sector
+Alamosa,Construction,57,0.4841404714631278,Sector
+Alamosa,Services,36,0.9696620743658395,Sector
+Alamosa,Mining,82,0.9080547801568473,Sector
+Alamosa,Health_Care,83,0.2003145017587573,Sector
+Alamosa,EnergyExpL_Prod,81,0.04667636714117629,Sector
+Alamosa,Utilities,40,0.7831806422886101,Sector

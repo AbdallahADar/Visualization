@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Harrisonburg,1576,0.9154427202601495,Overall
-Harrisonburg,Technology,115,0.33991751392703584,Sector
-Harrisonburg,Healthcare,147,0.3143774624060198,Sector
-Harrisonburg,Finance,140,0.08577820489232557,Sector
-Harrisonburg,Energy,207,0.4603609788966998,Sector
-Harrisonburg,Consumer Goods,108,0.4295116618638074,Sector
-Harrisonburg,Utilities,118,0.5171984814365875,Sector
-Harrisonburg,Real Estate,205,0.6693989130298325,Sector
-Harrisonburg,Telecommunications,112,0.7598619443223147,Sector
-Harrisonburg,Materials,92,0.3168990273376363,Sector
-Harrisonburg,Industrials,111,0.26873559910704115,Sector
-Harrisonburg,Consumer Services,92,0.05187407040656411,Sector
-Harrisonburg,Transportation,129,0.6635798218038989,Sector
-Technology,Software,5,0.055342786908774366,Industry
-Technology,Hardware,96,0.9249734452160141,Industry
-Technology,IT Services,14,0.29214877138612527,Industry
-Healthcare,Pharmaceuticals,30,0.16715989287714916,Industry
-Healthcare,Medical Devices,74,0.16258348177804272,Industry
-Healthcare,Healthcare Services,43,0.9298357570993827,Industry
-Finance,Banking,91,0.5295329638651995,Industry
-Finance,Insurance,38,0.5794214417568544,Industry
-Finance,Investment Services,11,0.22045649683725121,Industry
-Energy,Oil & Gas,48,0.6566293953375719,Industry
-Energy,Renewable Energy,74,0.3748110601644441,Industry
-Energy,Energy Exploration,85,0.6335320476445236,Industry
-Consumer Goods,Food & Beverage,37,0.9236220936963949,Industry
-Consumer Goods,Household Products,27,0.516048488822192,Industry
-Consumer Goods,Apparel,44,0.1536206186921263,Industry
-Utilities,Electric,28,0.7940859068294132,Industry
-Utilities,Water,3,0.7764703976376827,Industry
-Utilities,Gas,87,0.2526713941685397,Industry
-Real Estate,Residential,86,0.8675961995811154,Industry
-Real Estate,Commercial,45,0.8178893261514346,Industry
-Real Estate,Industrial,74,0.07096714965089634,Industry
-Telecommunications,Mobile,6,0.3495538311699181,Industry
-Telecommunications,Broadband,65,0.8676664248338078,Industry
-Telecommunications,Satellite,41,0.6219455125672114,Industry
-Materials,Chemicals,3,0.22157229718203164,Industry
-Materials,Metals & Mining,54,0.4215020938906676,Industry
-Materials,Construction Materials,35,0.5785933747247107,Industry
-Industrials,Aerospace & Defense,70,0.6745026534528783,Industry
-Industrials,Machinery,27,0.30450073687250323,Industry
-Industrials,Industrial Services,14,0.35802917430617964,Industry
-Consumer Services,Retail,37,0.9167997874596324,Industry
-Consumer Services,Travel & Leisure,26,0.8020839230433203,Industry
-Consumer Services,Media,29,0.8680576909402664,Industry
-Transportation,Airlines,75,0.8574264813080973,Industry
-Transportation,Railroads,48,0.598273140655124,Industry
-Transportation,Logistics,6,0.6780123624914122,Industry
+,Harrisonburg,702,0.3335823826336346,Overall
+Harrisonburg,HiTech,19,0.22124270723454464,Sector
+Harrisonburg,Agriculture,38,0.026128299509686426,Sector
+Harrisonburg,Transportation,64,0.3816944339943885,Sector
+Harrisonburg,Consumer_Products,65,0.05474860509604762,Sector
+Harrisonburg,Unassigned,68,0.3239900747520984,Sector
+Harrisonburg,Communication,33,0.1844376038374329,Sector
+Harrisonburg,Trade,75,0.23343183644566645,Sector
+Harrisonburg,Business_Services,29,0.3794051076263407,Sector
+Harrisonburg,Business_Products,88,0.1019004808298759,Sector
+Harrisonburg,Construction,46,0.9295104653383071,Sector
+Harrisonburg,Services,30,0.25705937014542213,Sector
+Harrisonburg,Mining,19,0.11627104437355018,Sector
+Harrisonburg,Health_Care,24,0.41903022741897766,Sector
+Harrisonburg,EnergyExpL_Prod,60,0.4749062215151272,Sector
+Harrisonburg,Utilities,44,0.8999792613870528,Sector

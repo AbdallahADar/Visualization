@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Lafayette,1842,0.6596859317204051,Overall
+Lafayette,Technology,149,0.7466249676241102,Sector
+Lafayette,Healthcare,210,0.8534744588302502,Sector
+Lafayette,Finance,121,0.9753907748111363,Sector
+Lafayette,Energy,164,0.20208975776687632,Sector
+Lafayette,Consumer Goods,119,0.30406120598715924,Sector
+Lafayette,Utilities,180,0.3411715859175808,Sector
+Lafayette,Real Estate,160,0.22379805788579576,Sector
+Lafayette,Telecommunications,194,0.2706410542533648,Sector
+Lafayette,Materials,135,0.9768568188011326,Sector
+Lafayette,Industrials,199,0.6030849997994898,Sector
+Lafayette,Consumer Services,86,0.8503134217606849,Sector
+Lafayette,Transportation,125,0.03791776766353905,Sector
+Technology,Software,63,0.5940117937749178,Industry
+Technology,Hardware,12,0.012683444794030496,Industry
+Technology,IT Services,74,0.3544940335874872,Industry
+Healthcare,Pharmaceuticals,74,0.6781113885021175,Industry
+Healthcare,Medical Devices,69,0.4424710101165733,Industry
+Healthcare,Healthcare Services,67,0.7483261114206762,Industry
+Finance,Banking,92,0.7914233625098605,Industry
+Finance,Insurance,22,0.2440982015802431,Industry
+Finance,Investment Services,7,0.7400852247156061,Industry
+Energy,Oil & Gas,92,0.35460454306392475,Industry
+Energy,Renewable Energy,16,0.37311798246493255,Industry
+Energy,Energy Exploration,56,0.09574242336113015,Industry
+Consumer Goods,Food & Beverage,93,0.3436974867933752,Industry
+Consumer Goods,Household Products,6,0.08984638583389637,Industry
+Consumer Goods,Apparel,20,0.13778315977412225,Industry
+Utilities,Electric,74,0.3589968121152737,Industry
+Utilities,Water,22,0.09065706820902375,Industry
+Utilities,Gas,84,0.1064051961739314,Industry
+Real Estate,Residential,57,0.16087806278863404,Industry
+Real Estate,Commercial,29,0.8370153794069749,Industry
+Real Estate,Industrial,74,0.15053940110352504,Industry
+Telecommunications,Mobile,88,0.41951548759482626,Industry
+Telecommunications,Broadband,33,0.49857614991600974,Industry
+Telecommunications,Satellite,73,0.658820527473158,Industry
+Materials,Chemicals,87,0.6388032623666262,Industry
+Materials,Metals & Mining,15,0.22961426572547083,Industry
+Materials,Construction Materials,33,0.627005946100128,Industry
+Industrials,Aerospace & Defense,47,0.4356699344673445,Industry
+Industrials,Machinery,83,0.7231286121427284,Industry
+Industrials,Industrial Services,69,0.8314157815589509,Industry
+Consumer Services,Retail,6,0.7075728745957146,Industry
+Consumer Services,Travel & Leisure,1,0.6686783801852285,Industry
+Consumer Services,Media,79,0.7611833102527893,Industry
+Transportation,Airlines,27,0.010701833233148883,Industry
+Transportation,Railroads,3,0.2677024223003558,Industry
+Transportation,Logistics,95,0.1999092282971111,Industry

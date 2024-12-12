@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Potter,1908,0.3318558213367022,Overall
-Potter,Technology,176,0.2707086634105669,Sector
-Potter,Healthcare,98,0.5916349350889331,Sector
-Potter,Finance,209,0.18315464993069674,Sector
-Potter,Energy,254,0.8582578748696642,Sector
-Potter,Consumer Goods,113,0.5073991580707775,Sector
-Potter,Utilities,233,0.24345198975945492,Sector
-Potter,Real Estate,226,0.8215092609300949,Sector
-Potter,Telecommunications,62,0.9580409016789598,Sector
-Potter,Materials,85,0.20983220810316117,Sector
-Potter,Industrials,106,0.27013115935856347,Sector
-Potter,Consumer Services,162,0.5372032466000839,Sector
-Potter,Transportation,184,0.4388373032170757,Sector
-Technology,Software,5,0.5798556920963598,Industry
-Technology,Hardware,77,0.9066185130680342,Industry
-Technology,IT Services,94,0.996913095274727,Industry
-Healthcare,Pharmaceuticals,38,0.6152158935982367,Industry
-Healthcare,Medical Devices,21,0.3284435355514367,Industry
-Healthcare,Healthcare Services,39,0.2379272282764221,Industry
-Finance,Banking,44,0.26607344484571016,Industry
-Finance,Insurance,69,0.051874022837200884,Industry
-Finance,Investment Services,96,0.7238062717842568,Industry
-Energy,Oil & Gas,96,0.17107881876515585,Industry
-Energy,Renewable Energy,66,0.25198167191273246,Industry
-Energy,Energy Exploration,92,0.6747781081938828,Industry
-Consumer Goods,Food & Beverage,37,0.7159751270484538,Industry
-Consumer Goods,Household Products,0,0.49706618385968293,Industry
-Consumer Goods,Apparel,76,0.15959317023321806,Industry
-Utilities,Electric,96,0.3932452211527969,Industry
-Utilities,Water,93,0.8531050306025983,Industry
-Utilities,Gas,44,0.9803469430313424,Industry
-Real Estate,Residential,81,0.20582055400763333,Industry
-Real Estate,Commercial,86,0.24029598093996174,Industry
-Real Estate,Industrial,59,0.03987505880814013,Industry
-Telecommunications,Mobile,2,0.48720859369770364,Industry
-Telecommunications,Broadband,27,0.7144846969666394,Industry
-Telecommunications,Satellite,33,0.3357297862784976,Industry
-Materials,Chemicals,3,0.5225855347395535,Industry
-Materials,Metals & Mining,43,0.4649223340712192,Industry
-Materials,Construction Materials,39,0.19882431190812866,Industry
-Industrials,Aerospace & Defense,35,0.6749628303608851,Industry
-Industrials,Machinery,7,0.7032514131365122,Industry
-Industrials,Industrial Services,64,0.9193583441710388,Industry
-Consumer Services,Retail,77,0.8348687620994704,Industry
-Consumer Services,Travel & Leisure,71,0.4157309471828654,Industry
-Consumer Services,Media,14,0.12464167859383479,Industry
-Transportation,Airlines,9,0.23172922024770748,Industry
-Transportation,Railroads,80,0.9091889688181318,Industry
-Transportation,Logistics,95,0.39361600254328377,Industry
+,Potter,713,0.4918264832850373,Overall
+Potter,HiTech,86,0.049995045697643015,Sector
+Potter,Agriculture,33,0.6371735689253685,Sector
+Potter,Transportation,60,0.19488654501586855,Sector
+Potter,Consumer_Products,35,0.9392405690715695,Sector
+Potter,Unassigned,32,0.12926588726031396,Sector
+Potter,Communication,26,0.8773291057841814,Sector
+Potter,Trade,8,0.6955163721512301,Sector
+Potter,Business_Services,95,0.055203629571884294,Sector
+Potter,Business_Products,44,0.6913943683871516,Sector
+Potter,Construction,88,0.42925705476319875,Sector
+Potter,Services,2,0.4945528201350927,Sector
+Potter,Mining,26,0.4228678003439601,Sector
+Potter,Health_Care,77,0.3750805335630215,Sector
+Potter,EnergyExpL_Prod,72,0.5993966051793683,Sector
+Potter,Utilities,29,0.7862373434257061,Sector

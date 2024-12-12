@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Varese,1598,0.9310236731265189,Overall
-Varese,Technology,225,0.031899710861262864,Sector
-Varese,Healthcare,110,0.9125841007548471,Sector
-Varese,Finance,136,0.42060321749258645,Sector
-Varese,Energy,141,0.3818853848638657,Sector
-Varese,Consumer Goods,155,0.2039867050551194,Sector
-Varese,Utilities,148,0.34478525968121154,Sector
-Varese,Real Estate,125,0.9412647774211682,Sector
-Varese,Telecommunications,113,0.7764492737720511,Sector
-Varese,Materials,176,0.9750016531089081,Sector
-Varese,Industrials,82,0.3888114259484431,Sector
-Varese,Consumer Services,118,0.06010504237210823,Sector
-Varese,Transportation,69,0.852315632834184,Sector
-Technology,Software,92,0.40564050542950825,Industry
-Technology,Hardware,50,0.9284542480216077,Industry
-Technology,IT Services,83,0.1615773031768427,Industry
-Healthcare,Pharmaceuticals,30,0.8664749727054339,Industry
-Healthcare,Medical Devices,22,0.5613968115210675,Industry
-Healthcare,Healthcare Services,58,0.0455277724492249,Industry
-Finance,Banking,19,0.4959860922400099,Industry
-Finance,Insurance,26,0.05997799180289054,Industry
-Finance,Investment Services,91,0.45418207411658973,Industry
-Energy,Oil & Gas,50,0.04259059093839168,Industry
-Energy,Renewable Energy,44,0.797623976291352,Industry
-Energy,Energy Exploration,47,0.8927525570641872,Industry
-Consumer Goods,Food & Beverage,55,0.2739196911486186,Industry
-Consumer Goods,Household Products,47,0.3187268889094407,Industry
-Consumer Goods,Apparel,53,0.47264433347608936,Industry
-Utilities,Electric,61,0.2744973472540476,Industry
-Utilities,Water,45,0.3758687148108937,Industry
-Utilities,Gas,42,0.07384952311000226,Industry
-Real Estate,Residential,58,0.8431492431661474,Industry
-Real Estate,Commercial,17,0.42314194428106666,Industry
-Real Estate,Industrial,50,0.5916162794963797,Industry
-Telecommunications,Mobile,7,0.9716903939625252,Industry
-Telecommunications,Broadband,96,0.8678488812135724,Industry
-Telecommunications,Satellite,10,0.7111320822327859,Industry
-Materials,Chemicals,88,0.8865787898184255,Industry
-Materials,Metals & Mining,16,0.47615336426234545,Industry
-Materials,Construction Materials,72,0.3336693991932619,Industry
-Industrials,Aerospace & Defense,7,0.09798249943416837,Industry
-Industrials,Machinery,6,0.1105611749601314,Industry
-Industrials,Industrial Services,69,0.7427088743539051,Industry
-Consumer Services,Retail,46,0.05366133810324092,Industry
-Consumer Services,Travel & Leisure,17,0.41125962908331926,Industry
-Consumer Services,Media,55,0.6627241190435279,Industry
-Transportation,Airlines,18,0.40230170173714963,Industry
-Transportation,Railroads,51,0.738394422468812,Industry
-Transportation,Logistics,0,0.9258806766803716,Industry
+,Varese,562,0.5227201823283482,Overall
+Varese,HiTech,59,0.7387077517966387,Sector
+Varese,Agriculture,15,0.48160512823283685,Sector
+Varese,Transportation,20,0.15913046073146908,Sector
+Varese,Consumer_Products,1,0.21702345494208986,Sector
+Varese,Unassigned,33,0.7539973944500455,Sector
+Varese,Communication,4,0.36466734720179494,Sector
+Varese,Trade,14,0.8166266328356198,Sector
+Varese,Business_Services,43,0.41790981960332363,Sector
+Varese,Business_Products,92,0.5981559139975424,Sector
+Varese,Construction,21,0.6390086331168677,Sector
+Varese,Services,59,0.18187280787788296,Sector
+Varese,Mining,53,0.3988775308201653,Sector
+Varese,Health_Care,31,0.5542068976083196,Sector
+Varese,EnergyExpL_Prod,36,0.9073781487513612,Sector
+Varese,Utilities,81,0.6116348129592639,Sector

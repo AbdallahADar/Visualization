@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Barnim,1869,0.3792753028347189,Overall
-Barnim,Technology,159,0.6735279684931851,Sector
-Barnim,Healthcare,109,0.2618182919985259,Sector
-Barnim,Finance,171,0.3710620484650222,Sector
-Barnim,Energy,230,0.39680200409816113,Sector
-Barnim,Consumer Goods,93,0.02652009387727583,Sector
-Barnim,Utilities,136,0.1571684477365023,Sector
-Barnim,Real Estate,232,0.9661699280405657,Sector
-Barnim,Telecommunications,134,0.7459447830553333,Sector
-Barnim,Materials,85,0.9963278635427909,Sector
-Barnim,Industrials,232,0.6301149664922712,Sector
-Barnim,Consumer Services,98,0.8351810106515598,Sector
-Barnim,Transportation,190,0.8559631179225546,Sector
-Technology,Software,67,0.9858115610915162,Industry
-Technology,Hardware,9,0.42970515597929815,Industry
-Technology,IT Services,83,0.6987227481071031,Industry
-Healthcare,Pharmaceuticals,10,0.3814898551352528,Industry
-Healthcare,Medical Devices,36,0.7093577968083764,Industry
-Healthcare,Healthcare Services,63,0.06675934946248219,Industry
-Finance,Banking,68,0.619434638824141,Industry
-Finance,Insurance,51,0.3344795546855861,Industry
-Finance,Investment Services,52,0.32167349850512794,Industry
-Energy,Oil & Gas,63,0.05024197148232867,Industry
-Energy,Renewable Energy,87,0.07362958799573471,Industry
-Energy,Energy Exploration,80,0.021752257337226633,Industry
-Consumer Goods,Food & Beverage,60,0.7877763579297963,Industry
-Consumer Goods,Household Products,1,0.6971820424195949,Industry
-Consumer Goods,Apparel,32,0.2891602764344334,Industry
-Utilities,Electric,75,0.6492916009304006,Industry
-Utilities,Water,40,0.9085815875754307,Industry
-Utilities,Gas,21,0.2951388791555405,Industry
-Real Estate,Residential,72,0.5428905139246133,Industry
-Real Estate,Commercial,78,0.05887425454830486,Industry
-Real Estate,Industrial,82,0.9337319660518786,Industry
-Telecommunications,Mobile,86,0.4552105944053765,Industry
-Telecommunications,Broadband,2,0.22323980285901757,Industry
-Telecommunications,Satellite,46,0.7801155073427541,Industry
-Materials,Chemicals,13,0.8823341689919171,Industry
-Materials,Metals & Mining,64,0.278258731046118,Industry
-Materials,Construction Materials,8,0.3075204005802009,Industry
-Industrials,Aerospace & Defense,74,0.35979395359500266,Industry
-Industrials,Machinery,75,0.29492242908370103,Industry
-Industrials,Industrial Services,83,0.6022445780976932,Industry
-Consumer Services,Retail,70,0.6518742707819143,Industry
-Consumer Services,Travel & Leisure,18,0.38904677855762415,Industry
-Consumer Services,Media,10,0.28596254337236604,Industry
-Transportation,Airlines,96,0.7695957561305452,Industry
-Transportation,Railroads,9,0.9671859439255446,Industry
-Transportation,Logistics,85,0.22154858189145965,Industry
+,Barnim,775,0.5894748798283017,Overall
+Barnim,HiTech,12,0.528852629431207,Sector
+Barnim,Agriculture,60,0.5499772962764371,Sector
+Barnim,Transportation,70,0.669423342781854,Sector
+Barnim,Consumer_Products,86,0.9868032064678635,Sector
+Barnim,Unassigned,6,0.5918797529617604,Sector
+Barnim,Communication,20,0.5822672211747363,Sector
+Barnim,Trade,25,0.7084177878349823,Sector
+Barnim,Business_Services,57,0.65353317647934,Sector
+Barnim,Business_Products,94,0.5384400386437134,Sector
+Barnim,Construction,53,0.5414240191435882,Sector
+Barnim,Services,51,0.9744364801046326,Sector
+Barnim,Mining,5,0.3214629171158362,Sector
+Barnim,Health_Care,88,0.6459364869735699,Sector
+Barnim,EnergyExpL_Prod,75,0.48264234761697655,Sector
+Barnim,Utilities,73,0.06662649441802848,Sector

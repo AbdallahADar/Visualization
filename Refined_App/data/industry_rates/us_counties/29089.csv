@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Howard,1635,0.1501520336389146,Overall
-Howard,Technology,185,0.6972849909944827,Sector
-Howard,Healthcare,133,0.10636425382126324,Sector
-Howard,Finance,148,0.103987601366342,Sector
-Howard,Energy,50,0.4921026016026614,Sector
-Howard,Consumer Goods,84,0.2796486457895315,Sector
-Howard,Utilities,98,0.39652437382443007,Sector
-Howard,Real Estate,150,0.8730246905391711,Sector
-Howard,Telecommunications,149,0.0646022877791006,Sector
-Howard,Materials,262,0.3354818559561682,Sector
-Howard,Industrials,150,0.1734984524654597,Sector
-Howard,Consumer Services,82,0.3815178780719719,Sector
-Howard,Transportation,144,0.544553156799434,Sector
-Technology,Software,99,0.8990827320667505,Industry
-Technology,Hardware,23,0.6209324255786257,Industry
-Technology,IT Services,63,0.9337143726539376,Industry
-Healthcare,Pharmaceuticals,84,0.014748790461860395,Industry
-Healthcare,Medical Devices,41,0.8820857681100978,Industry
-Healthcare,Healthcare Services,8,0.11528512536451363,Industry
-Finance,Banking,43,0.5638702000727968,Industry
-Finance,Insurance,14,0.7538486633647048,Industry
-Finance,Investment Services,91,0.1448872382984876,Industry
-Energy,Oil & Gas,28,0.4494427449421369,Industry
-Energy,Renewable Energy,18,0.6560566007424113,Industry
-Energy,Energy Exploration,4,0.5329687474070889,Industry
-Consumer Goods,Food & Beverage,47,0.9568156382325039,Industry
-Consumer Goods,Household Products,33,0.3592672026709026,Industry
-Consumer Goods,Apparel,4,0.6333200854802338,Industry
-Utilities,Electric,66,0.26984406903062164,Industry
-Utilities,Water,22,0.29326545295035844,Industry
-Utilities,Gas,10,0.5326265818586607,Industry
-Real Estate,Residential,39,0.9530852930170186,Industry
-Real Estate,Commercial,68,0.4175656311021757,Industry
-Real Estate,Industrial,43,0.09225160594466708,Industry
-Telecommunications,Mobile,78,0.4015026675046589,Industry
-Telecommunications,Broadband,23,0.4771215361713491,Industry
-Telecommunications,Satellite,48,0.4552692347996755,Industry
-Materials,Chemicals,89,0.7035410660482633,Industry
-Materials,Metals & Mining,90,0.14930339511964585,Industry
-Materials,Construction Materials,83,0.015684412864124142,Industry
-Industrials,Aerospace & Defense,36,0.444776291448459,Industry
-Industrials,Machinery,43,0.6094296942404916,Industry
-Industrials,Industrial Services,71,0.6936549128871465,Industry
-Consumer Services,Retail,61,0.11224789418039949,Industry
-Consumer Services,Travel & Leisure,1,0.9455760691501824,Industry
-Consumer Services,Media,20,0.8681496768195216,Industry
-Transportation,Airlines,87,0.14443044300242325,Industry
-Transportation,Railroads,38,0.10919097331717964,Industry
-Transportation,Logistics,19,0.6989928170518376,Industry
+,Howard,670,0.49649561671054576,Overall
+Howard,HiTech,96,0.054559147583693623,Sector
+Howard,Agriculture,48,0.6526322219837932,Sector
+Howard,Transportation,30,0.18909331382710237,Sector
+Howard,Consumer_Products,37,0.5366247887533433,Sector
+Howard,Unassigned,65,0.4617122165985581,Sector
+Howard,Communication,10,0.13847260284688168,Sector
+Howard,Trade,27,0.6033104916542159,Sector
+Howard,Business_Services,98,0.5683608145800456,Sector
+Howard,Business_Products,51,0.1606006065573583,Sector
+Howard,Construction,72,0.961949445915297,Sector
+Howard,Services,45,0.5622594436763508,Sector
+Howard,Mining,16,0.5577056249809802,Sector
+Howard,Health_Care,40,0.9703077070804256,Sector
+Howard,EnergyExpL_Prod,1,0.07070985175539946,Sector
+Howard,Utilities,34,0.9591359728647412,Sector

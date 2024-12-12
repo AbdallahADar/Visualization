@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sherman,1563,0.2119023414206338,Overall
-Sherman,Technology,90,0.9288837373759449,Sector
-Sherman,Healthcare,168,0.7635191368030007,Sector
-Sherman,Finance,115,0.8654885879630179,Sector
-Sherman,Energy,167,0.2418946087003162,Sector
-Sherman,Consumer Goods,61,0.4523089186857727,Sector
-Sherman,Utilities,13,0.9315162165097072,Sector
-Sherman,Real Estate,160,0.46656189216320443,Sector
-Sherman,Telecommunications,182,0.9316739277257263,Sector
-Sherman,Materials,208,0.7779810767600879,Sector
-Sherman,Industrials,121,0.8401193583615565,Sector
-Sherman,Consumer Services,154,0.7785984091911544,Sector
-Sherman,Transportation,124,0.7680747108315956,Sector
-Technology,Software,16,0.8598151418401341,Industry
-Technology,Hardware,26,0.2830177616490961,Industry
-Technology,IT Services,48,0.880513929007352,Industry
-Healthcare,Pharmaceuticals,2,0.8817053280875908,Industry
-Healthcare,Medical Devices,77,0.17112326264505784,Industry
-Healthcare,Healthcare Services,89,0.22826417286252787,Industry
-Finance,Banking,99,0.29673155680195784,Industry
-Finance,Insurance,0,0.17527717692653455,Industry
-Finance,Investment Services,16,0.6252525710722991,Industry
-Energy,Oil & Gas,97,0.6884413584829467,Industry
-Energy,Renewable Energy,17,0.718334647740991,Industry
-Energy,Energy Exploration,53,0.6323488840727951,Industry
-Consumer Goods,Food & Beverage,20,0.012648281709373599,Industry
-Consumer Goods,Household Products,37,0.9387414742692215,Industry
-Consumer Goods,Apparel,4,0.24161490375363004,Industry
-Utilities,Electric,5,0.2494298980201659,Industry
-Utilities,Water,4,0.00509155859831445,Industry
-Utilities,Gas,4,0.970183497977408,Industry
-Real Estate,Residential,52,0.6272451966995211,Industry
-Real Estate,Commercial,49,0.27011971388836575,Industry
-Real Estate,Industrial,59,0.09905784159372999,Industry
-Telecommunications,Mobile,85,0.722934958595909,Industry
-Telecommunications,Broadband,42,0.0389454429801116,Industry
-Telecommunications,Satellite,55,0.15288581902216114,Industry
-Materials,Chemicals,54,0.4280114866046487,Industry
-Materials,Metals & Mining,98,0.532708544199007,Industry
-Materials,Construction Materials,56,0.3685208737789314,Industry
-Industrials,Aerospace & Defense,15,0.7872102831309131,Industry
-Industrials,Machinery,74,0.13022926672852397,Industry
-Industrials,Industrial Services,32,0.8289993845011372,Industry
-Consumer Services,Retail,58,0.734231015157142,Industry
-Consumer Services,Travel & Leisure,22,0.45298055957126215,Industry
-Consumer Services,Media,74,0.911595536030624,Industry
-Transportation,Airlines,1,0.8845042605072413,Industry
-Transportation,Railroads,38,0.531671238072201,Industry
-Transportation,Logistics,85,0.547655345487827,Industry
+,Sherman,636,0.5576360976699114,Overall
+Sherman,HiTech,51,0.39798224343651045,Sector
+Sherman,Agriculture,69,0.4129954088706562,Sector
+Sherman,Transportation,97,0.9975771893237577,Sector
+Sherman,Consumer_Products,64,0.29766851516375625,Sector
+Sherman,Unassigned,17,0.8318636196317554,Sector
+Sherman,Communication,6,0.548410271887066,Sector
+Sherman,Trade,64,0.4393396326545246,Sector
+Sherman,Business_Services,5,0.53455205919925,Sector
+Sherman,Business_Products,57,0.9814327748769425,Sector
+Sherman,Construction,30,0.22385288475476994,Sector
+Sherman,Services,47,0.04278449383985983,Sector
+Sherman,Mining,74,0.8431695017702744,Sector
+Sherman,Health_Care,46,0.27655309213880075,Sector
+Sherman,EnergyExpL_Prod,6,0.9247478778827922,Sector
+Sherman,Utilities,3,0.6116118996179545,Sector

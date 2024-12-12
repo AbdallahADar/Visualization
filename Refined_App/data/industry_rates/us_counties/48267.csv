@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kimble,2123,0.4916223940075257,Overall
-Kimble,Technology,158,0.49550483553971636,Sector
-Kimble,Healthcare,239,0.6888588022294176,Sector
-Kimble,Finance,89,0.27577411099977,Sector
-Kimble,Energy,153,0.31073350474667216,Sector
-Kimble,Consumer Goods,221,0.6519575582358634,Sector
-Kimble,Utilities,201,0.9835604128536817,Sector
-Kimble,Real Estate,148,0.3189720085801261,Sector
-Kimble,Telecommunications,180,0.14455584559273682,Sector
-Kimble,Materials,248,0.874997572168164,Sector
-Kimble,Industrials,126,0.55892375805151,Sector
-Kimble,Consumer Services,173,0.674901705450521,Sector
-Kimble,Transportation,187,0.5335284251387218,Sector
-Technology,Software,7,0.8657002151278124,Industry
-Technology,Hardware,60,0.9226178016053762,Industry
-Technology,IT Services,91,0.38659692260323,Industry
-Healthcare,Pharmaceuticals,82,0.9502534217378578,Industry
-Healthcare,Medical Devices,98,0.9714903853815444,Industry
-Healthcare,Healthcare Services,59,0.5115209470039453,Industry
-Finance,Banking,46,0.5913683397063056,Industry
-Finance,Insurance,28,0.34929090709971544,Industry
-Finance,Investment Services,15,0.6701394223632203,Industry
-Energy,Oil & Gas,64,0.17014742015916018,Industry
-Energy,Renewable Energy,62,0.06684450860929025,Industry
-Energy,Energy Exploration,27,0.18058280188186304,Industry
-Consumer Goods,Food & Beverage,82,0.7884359335572626,Industry
-Consumer Goods,Household Products,47,0.2555841956025988,Industry
-Consumer Goods,Apparel,92,0.3697056121923117,Industry
-Utilities,Electric,69,0.2967463681728685,Industry
-Utilities,Water,79,0.22315538672431,Industry
-Utilities,Gas,53,0.8659824645782533,Industry
-Real Estate,Residential,70,0.8544731093907547,Industry
-Real Estate,Commercial,0,0.16542402172108162,Industry
-Real Estate,Industrial,78,0.37189823125823673,Industry
-Telecommunications,Mobile,62,0.22137190090317227,Industry
-Telecommunications,Broadband,66,0.15229887012218646,Industry
-Telecommunications,Satellite,52,0.9223957432899899,Industry
-Materials,Chemicals,89,0.9223220040266806,Industry
-Materials,Metals & Mining,60,0.40225663498732633,Industry
-Materials,Construction Materials,99,0.35949412964893934,Industry
-Industrials,Aerospace & Defense,6,0.19744626980433733,Industry
-Industrials,Machinery,48,0.4091104340280838,Industry
-Industrials,Industrial Services,72,0.0419619100857086,Industry
-Consumer Services,Retail,31,0.12090153619111432,Industry
-Consumer Services,Travel & Leisure,60,0.7107227796082893,Industry
-Consumer Services,Media,82,0.23403065704091408,Industry
-Transportation,Airlines,4,0.10097795830841516,Industry
-Transportation,Railroads,90,0.6956622669651786,Industry
-Transportation,Logistics,93,0.8479228398849532,Industry
+,Kimble,648,0.44421342494514143,Overall
+Kimble,HiTech,40,0.43531645361776294,Sector
+Kimble,Agriculture,44,0.7597293870769894,Sector
+Kimble,Transportation,28,0.2524667397478453,Sector
+Kimble,Consumer_Products,24,0.7844251134176169,Sector
+Kimble,Unassigned,66,0.9758666100662104,Sector
+Kimble,Communication,68,0.0727680916581096,Sector
+Kimble,Trade,70,0.257897060216302,Sector
+Kimble,Business_Services,41,0.298537819388769,Sector
+Kimble,Business_Products,18,0.9824998721282927,Sector
+Kimble,Construction,9,0.04934360375027391,Sector
+Kimble,Services,28,0.06833864083356311,Sector
+Kimble,Mining,11,0.41256169906397566,Sector
+Kimble,Health_Care,64,0.9316467201568281,Sector
+Kimble,EnergyExpL_Prod,53,0.08766442422226628,Sector
+Kimble,Utilities,84,0.294139138832316,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Travis,2118,0.5633448237683151,Overall
-Travis,Technology,262,0.35566144620975637,Sector
-Travis,Healthcare,201,0.4009639753505725,Sector
-Travis,Finance,147,0.5185763837828478,Sector
-Travis,Energy,120,0.9345040553182609,Sector
-Travis,Consumer Goods,205,0.12199345501562087,Sector
-Travis,Utilities,136,0.32658597059334016,Sector
-Travis,Real Estate,165,0.6372081823966331,Sector
-Travis,Telecommunications,120,0.7454630458949856,Sector
-Travis,Materials,178,0.9929502805880989,Sector
-Travis,Industrials,145,0.8818816299318635,Sector
-Travis,Consumer Services,174,0.2452635356681333,Sector
-Travis,Transportation,265,0.1083750050121769,Sector
-Technology,Software,65,0.21095039146082184,Industry
-Technology,Hardware,99,0.528045137388539,Industry
-Technology,IT Services,98,0.47089984931532736,Industry
-Healthcare,Pharmaceuticals,91,0.9918309979723261,Industry
-Healthcare,Medical Devices,37,0.8918125573167041,Industry
-Healthcare,Healthcare Services,73,0.37873866406839574,Industry
-Finance,Banking,53,0.37321136614965733,Industry
-Finance,Insurance,64,0.9936976463495741,Industry
-Finance,Investment Services,30,0.5763777365794591,Industry
-Energy,Oil & Gas,3,0.018492919768759775,Industry
-Energy,Renewable Energy,18,0.35866715593084053,Industry
-Energy,Energy Exploration,99,0.8828471150841614,Industry
-Consumer Goods,Food & Beverage,87,0.4439493515331808,Industry
-Consumer Goods,Household Products,68,0.25437042396771636,Industry
-Consumer Goods,Apparel,50,0.8505976485182519,Industry
-Utilities,Electric,78,0.31140342362873685,Industry
-Utilities,Water,49,0.4762341194357148,Industry
-Utilities,Gas,9,0.5866004387304024,Industry
-Real Estate,Residential,36,0.506815562433888,Industry
-Real Estate,Commercial,46,0.4980643981583205,Industry
-Real Estate,Industrial,83,0.6630133068633848,Industry
-Telecommunications,Mobile,24,0.891589291876353,Industry
-Telecommunications,Broadband,23,0.3211551917163096,Industry
-Telecommunications,Satellite,73,0.3010764428443502,Industry
-Materials,Chemicals,40,0.5062830494795344,Industry
-Materials,Metals & Mining,92,0.9230168080979092,Industry
-Materials,Construction Materials,46,0.6840292367903669,Industry
-Industrials,Aerospace & Defense,83,0.43920180285257193,Industry
-Industrials,Machinery,32,0.7620003737798046,Industry
-Industrials,Industrial Services,30,0.3765438552003548,Industry
-Consumer Services,Retail,67,0.13001681127198406,Industry
-Consumer Services,Travel & Leisure,20,0.10343703625971201,Industry
-Consumer Services,Media,87,0.1993438172752473,Industry
-Transportation,Airlines,95,0.422354253767121,Industry
-Transportation,Railroads,97,0.9235059174694784,Industry
-Transportation,Logistics,73,0.6848455950529339,Industry
+,Travis,904,0.5059009906583515,Overall
+Travis,HiTech,98,0.3031909437797835,Sector
+Travis,Agriculture,24,0.03133244175521466,Sector
+Travis,Transportation,63,0.4551847430876347,Sector
+Travis,Consumer_Products,94,0.543140544718645,Sector
+Travis,Unassigned,30,0.902711662721284,Sector
+Travis,Communication,92,0.8846596542369541,Sector
+Travis,Trade,0,0.8735492594198806,Sector
+Travis,Business_Services,90,0.21050028554865785,Sector
+Travis,Business_Products,76,0.2955845774557183,Sector
+Travis,Construction,71,0.22908136636999266,Sector
+Travis,Services,14,0.8123773255416894,Sector
+Travis,Mining,69,0.5358336026995557,Sector
+Travis,Health_Care,6,0.5211645049476487,Sector
+Travis,EnergyExpL_Prod,99,0.12919933021867647,Sector
+Travis,Utilities,78,0.861004617373936,Sector

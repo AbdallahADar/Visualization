@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Stendal,2003,0.9342399573440621,Overall
-Stendal,Technology,104,0.5211058819518681,Sector
-Stendal,Healthcare,144,0.7810013818363666,Sector
-Stendal,Finance,155,0.7862014773148343,Sector
-Stendal,Energy,67,0.6880454415623569,Sector
-Stendal,Consumer Goods,194,0.5715531347571459,Sector
-Stendal,Utilities,184,0.7454480427734302,Sector
-Stendal,Real Estate,226,0.4917562864686086,Sector
-Stendal,Telecommunications,97,0.36991315577268546,Sector
-Stendal,Materials,160,0.2028279599495696,Sector
-Stendal,Industrials,198,0.5110589785332875,Sector
-Stendal,Consumer Services,229,0.5694400926814442,Sector
-Stendal,Transportation,245,0.22798936047534046,Sector
-Technology,Software,0,0.07390506299195987,Industry
-Technology,Hardware,5,0.8940679048798588,Industry
-Technology,IT Services,99,0.033013342267072865,Industry
-Healthcare,Pharmaceuticals,39,0.0448134242932835,Industry
-Healthcare,Medical Devices,68,0.5114577628220743,Industry
-Healthcare,Healthcare Services,37,0.8237112884448484,Industry
-Finance,Banking,54,0.7127775888522887,Industry
-Finance,Insurance,11,0.20725802051054165,Industry
-Finance,Investment Services,90,0.8378908685256945,Industry
-Energy,Oil & Gas,6,0.31424248983949166,Industry
-Energy,Renewable Energy,0,0.7863331944724171,Industry
-Energy,Energy Exploration,61,0.5271537068926057,Industry
-Consumer Goods,Food & Beverage,91,0.9541693479016766,Industry
-Consumer Goods,Household Products,53,0.2967438607821118,Industry
-Consumer Goods,Apparel,50,0.3243296807029753,Industry
-Utilities,Electric,90,0.3731787348665001,Industry
-Utilities,Water,25,0.8342827956012951,Industry
-Utilities,Gas,69,0.9133124996361175,Industry
-Real Estate,Residential,74,0.5104758126551917,Industry
-Real Estate,Commercial,97,0.8434100333644219,Industry
-Real Estate,Industrial,55,0.09561027143937095,Industry
-Telecommunications,Mobile,28,0.38994632429996257,Industry
-Telecommunications,Broadband,23,0.9643957932796983,Industry
-Telecommunications,Satellite,46,0.39685077606748376,Industry
-Materials,Chemicals,71,0.4373322214056865,Industry
-Materials,Metals & Mining,44,0.9952232188970478,Industry
-Materials,Construction Materials,45,0.939320446424005,Industry
-Industrials,Aerospace & Defense,30,0.6517181613735806,Industry
-Industrials,Machinery,80,0.6617356961835573,Industry
-Industrials,Industrial Services,88,0.8395321199228634,Industry
-Consumer Services,Retail,59,0.27576594539620924,Industry
-Consumer Services,Travel & Leisure,81,0.6406561675743266,Industry
-Consumer Services,Media,89,0.5674719836950086,Industry
-Transportation,Airlines,68,0.47163902288682935,Industry
-Transportation,Railroads,80,0.7224191811132545,Industry
-Transportation,Logistics,97,0.008008960894264505,Industry
+,Stendal,548,0.42153295216556824,Overall
+Stendal,HiTech,47,0.5974489794865127,Sector
+Stendal,Agriculture,12,0.5007506356078537,Sector
+Stendal,Transportation,68,0.2673858016073819,Sector
+Stendal,Consumer_Products,3,0.6635552171718552,Sector
+Stendal,Unassigned,78,0.41229619096553827,Sector
+Stendal,Communication,21,0.49505260808428053,Sector
+Stendal,Trade,79,0.6276155871801514,Sector
+Stendal,Business_Services,11,0.8171123139202321,Sector
+Stendal,Business_Products,57,0.22454874900463073,Sector
+Stendal,Construction,26,0.5384005372735388,Sector
+Stendal,Services,5,0.055285268402425536,Sector
+Stendal,Mining,59,0.11621908363318989,Sector
+Stendal,Health_Care,42,0.04704365628571494,Sector
+Stendal,EnergyExpL_Prod,37,0.2688787650516803,Sector
+Stendal,Utilities,3,0.6914008888085366,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Culebra,1587,0.0024096580256151023,Overall
-Culebra,Technology,84,0.8956779350058371,Sector
-Culebra,Healthcare,155,0.8423040720059615,Sector
-Culebra,Finance,107,0.45005651553674675,Sector
-Culebra,Energy,109,0.40713430601412137,Sector
-Culebra,Consumer Goods,118,0.8744752189486038,Sector
-Culebra,Utilities,99,0.8029214805164179,Sector
-Culebra,Real Estate,80,0.8881267048785949,Sector
-Culebra,Telecommunications,159,0.9263262129319366,Sector
-Culebra,Materials,51,0.18081769624100474,Sector
-Culebra,Industrials,152,0.6312723338753735,Sector
-Culebra,Consumer Services,259,0.9718807461256755,Sector
-Culebra,Transportation,214,0.093674765525123,Sector
-Technology,Software,33,0.11497256072010043,Industry
-Technology,Hardware,9,0.7362651392374769,Industry
-Technology,IT Services,42,0.35586890091199364,Industry
-Healthcare,Pharmaceuticals,38,0.13089416366032014,Industry
-Healthcare,Medical Devices,99,0.9958892361464076,Industry
-Healthcare,Healthcare Services,18,0.15683023017421416,Industry
-Finance,Banking,76,0.6807175509672365,Industry
-Finance,Insurance,19,0.4043519588887702,Industry
-Finance,Investment Services,12,0.9314726422897944,Industry
-Energy,Oil & Gas,28,0.7439381663043311,Industry
-Energy,Renewable Energy,36,0.3367850736162872,Industry
-Energy,Energy Exploration,45,0.2767451836937628,Industry
-Consumer Goods,Food & Beverage,43,0.20882062639824228,Industry
-Consumer Goods,Household Products,57,0.7420099788510173,Industry
-Consumer Goods,Apparel,18,0.3278654622826097,Industry
-Utilities,Electric,4,0.24174358810871344,Industry
-Utilities,Water,94,0.29132674296245276,Industry
-Utilities,Gas,1,0.7285699279173468,Industry
-Real Estate,Residential,8,0.5747494318389783,Industry
-Real Estate,Commercial,63,0.18766449499608584,Industry
-Real Estate,Industrial,9,0.7990360315761303,Industry
-Telecommunications,Mobile,89,0.2901018241203003,Industry
-Telecommunications,Broadband,11,0.29424799668335344,Industry
-Telecommunications,Satellite,59,0.11716567392812138,Industry
-Materials,Chemicals,16,0.6913799672116484,Industry
-Materials,Metals & Mining,3,0.7739789735955677,Industry
-Materials,Construction Materials,32,0.8471012774670083,Industry
-Industrials,Aerospace & Defense,84,0.2245465334284824,Industry
-Industrials,Machinery,23,0.3408444805907601,Industry
-Industrials,Industrial Services,45,0.5233173392994878,Industry
-Consumer Services,Retail,73,0.4371436638606262,Industry
-Consumer Services,Travel & Leisure,97,0.45264746774965703,Industry
-Consumer Services,Media,89,0.398035706896925,Industry
-Transportation,Airlines,56,0.5712673238075845,Industry
-Transportation,Railroads,97,0.7327155644446061,Industry
-Transportation,Logistics,61,0.9539761462111759,Industry
+,Culebra,942,0.4429699700143904,Overall
+Culebra,HiTech,19,0.9497030125627068,Sector
+Culebra,Agriculture,28,0.7395673337051354,Sector
+Culebra,Transportation,49,0.7849137347215875,Sector
+Culebra,Consumer_Products,79,0.011281535395525233,Sector
+Culebra,Unassigned,75,0.35370313899127526,Sector
+Culebra,Communication,96,0.06117360250440118,Sector
+Culebra,Trade,67,0.7967705950159081,Sector
+Culebra,Business_Services,20,0.26520704460664923,Sector
+Culebra,Business_Products,83,0.16564577791078494,Sector
+Culebra,Construction,92,0.6703967257034829,Sector
+Culebra,Services,27,0.006741986371957331,Sector
+Culebra,Mining,97,0.28741046469059905,Sector
+Culebra,Health_Care,92,0.15784322502835402,Sector
+Culebra,EnergyExpL_Prod,19,0.6272337309499896,Sector
+Culebra,Utilities,99,0.7669576420574998,Sector

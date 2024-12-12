@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Böblingen,1359,0.7682507619760699,Overall
-Böblingen,Technology,146,0.3658361920714517,Sector
-Böblingen,Healthcare,144,0.9304225915052151,Sector
-Böblingen,Finance,123,0.0930846356858046,Sector
-Böblingen,Energy,51,0.1890315706641169,Sector
-Böblingen,Consumer Goods,128,0.14929638348202812,Sector
-Böblingen,Utilities,132,0.9716905470788394,Sector
-Böblingen,Real Estate,81,0.9033809229740954,Sector
-Böblingen,Telecommunications,113,0.07912251779266122,Sector
-Böblingen,Materials,55,0.1140797908564729,Sector
-Böblingen,Industrials,71,0.6509718438517429,Sector
-Böblingen,Consumer Services,107,0.22729501148709608,Sector
-Böblingen,Transportation,208,0.4823908821321452,Sector
-Technology,Software,56,0.44796628210000133,Industry
-Technology,Hardware,12,0.7689589790096167,Industry
-Technology,IT Services,78,0.36896263327311396,Industry
-Healthcare,Pharmaceuticals,93,0.07592245110349749,Industry
-Healthcare,Medical Devices,30,0.4597094796120317,Industry
-Healthcare,Healthcare Services,21,0.4578210080021047,Industry
-Finance,Banking,28,0.7580761400596969,Industry
-Finance,Insurance,90,0.4177798870052488,Industry
-Finance,Investment Services,5,0.32714595174702676,Industry
-Energy,Oil & Gas,13,0.6227714521762262,Industry
-Energy,Renewable Energy,18,0.36875315712240764,Industry
-Energy,Energy Exploration,20,0.13831221022820817,Industry
-Consumer Goods,Food & Beverage,34,0.5434803681323461,Industry
-Consumer Goods,Household Products,37,0.2660739821350945,Industry
-Consumer Goods,Apparel,57,0.3946638800080817,Industry
-Utilities,Electric,16,0.24731677850601674,Industry
-Utilities,Water,81,0.758485025240718,Industry
-Utilities,Gas,35,0.6642582101532912,Industry
-Real Estate,Residential,71,0.690032129195941,Industry
-Real Estate,Commercial,2,0.43275113700300694,Industry
-Real Estate,Industrial,8,0.37722041271657525,Industry
-Telecommunications,Mobile,25,0.6144914906386063,Industry
-Telecommunications,Broadband,3,0.19173835194083122,Industry
-Telecommunications,Satellite,85,0.19080032896357124,Industry
-Materials,Chemicals,4,0.9132876121747694,Industry
-Materials,Metals & Mining,34,0.12522249499973825,Industry
-Materials,Construction Materials,17,0.0695089698140493,Industry
-Industrials,Aerospace & Defense,5,0.7436355035010616,Industry
-Industrials,Machinery,52,0.8936798272010962,Industry
-Industrials,Industrial Services,14,0.9480028578940659,Industry
-Consumer Services,Retail,32,0.7027350180248805,Industry
-Consumer Services,Travel & Leisure,42,0.2994814339038142,Industry
-Consumer Services,Media,33,0.1816064984024216,Industry
-Transportation,Airlines,20,0.8318745051154475,Industry
-Transportation,Railroads,90,0.6982157800951253,Industry
-Transportation,Logistics,98,0.3039487138723106,Industry
+,Böblingen,814,0.46518836366225946,Overall
+Böblingen,HiTech,93,0.0037372720419226457,Sector
+Böblingen,Agriculture,38,0.9921196870811624,Sector
+Böblingen,Transportation,13,0.49924436865995925,Sector
+Böblingen,Consumer_Products,75,0.9566374075329602,Sector
+Böblingen,Unassigned,43,0.4816823940247157,Sector
+Böblingen,Communication,88,0.42211790915385694,Sector
+Böblingen,Trade,77,0.1865099133349073,Sector
+Böblingen,Business_Services,66,0.25636194612485863,Sector
+Böblingen,Business_Products,26,0.40854948248462397,Sector
+Böblingen,Construction,82,0.9840425419889155,Sector
+Böblingen,Services,13,0.34215509716290293,Sector
+Böblingen,Mining,50,0.049904434567490275,Sector
+Böblingen,Health_Care,40,0.3333243116890118,Sector
+Böblingen,EnergyExpL_Prod,12,0.23242986514398556,Sector
+Böblingen,Utilities,98,0.8290088239426189,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Gunnison,1729,0.03366652123829472,Overall
-Gunnison,Technology,110,0.8591698700862499,Sector
-Gunnison,Healthcare,132,0.7300155601745946,Sector
-Gunnison,Finance,166,0.6116777035532869,Sector
-Gunnison,Energy,116,0.6986736376830285,Sector
-Gunnison,Consumer Goods,122,0.3460614990816313,Sector
-Gunnison,Utilities,114,0.8360229685816737,Sector
-Gunnison,Real Estate,188,0.5171720345770626,Sector
-Gunnison,Telecommunications,208,0.18761906773231918,Sector
-Gunnison,Materials,118,0.8297478962743289,Sector
-Gunnison,Industrials,138,0.7570600072460447,Sector
-Gunnison,Consumer Services,139,0.7506551852952507,Sector
-Gunnison,Transportation,178,0.7225024693444096,Sector
-Technology,Software,28,0.1458202168943824,Industry
-Technology,Hardware,17,0.9855194841464683,Industry
-Technology,IT Services,65,0.9159577826016193,Industry
-Healthcare,Pharmaceuticals,24,0.8607367898981059,Industry
-Healthcare,Medical Devices,55,0.36580523552375266,Industry
-Healthcare,Healthcare Services,53,0.7060594253078293,Industry
-Finance,Banking,72,0.9467033608554607,Industry
-Finance,Insurance,85,0.9429452920004368,Industry
-Finance,Investment Services,9,0.3522342395326197,Industry
-Energy,Oil & Gas,15,0.25833775796551217,Industry
-Energy,Renewable Energy,16,0.6812865986996143,Industry
-Energy,Energy Exploration,85,0.04802535895099569,Industry
-Consumer Goods,Food & Beverage,66,0.7510444238419791,Industry
-Consumer Goods,Household Products,43,0.67886207673068,Industry
-Consumer Goods,Apparel,13,0.2568115815855737,Industry
-Utilities,Electric,62,0.012999685173524456,Industry
-Utilities,Water,36,0.7776489390912352,Industry
-Utilities,Gas,16,0.235659994274092,Industry
-Real Estate,Residential,96,0.3345436820173284,Industry
-Real Estate,Commercial,48,0.9798710447552179,Industry
-Real Estate,Industrial,44,0.008572918947690189,Industry
-Telecommunications,Mobile,80,0.798174335477798,Industry
-Telecommunications,Broadband,40,0.5652506232778097,Industry
-Telecommunications,Satellite,88,0.11360491444659737,Industry
-Materials,Chemicals,3,0.4308489758183507,Industry
-Materials,Metals & Mining,45,0.9189882831715668,Industry
-Materials,Construction Materials,70,0.8295470965762836,Industry
-Industrials,Aerospace & Defense,64,0.5444812478533954,Industry
-Industrials,Machinery,3,0.3233015037381879,Industry
-Industrials,Industrial Services,71,0.417559158817455,Industry
-Consumer Services,Retail,9,0.2813519856926674,Industry
-Consumer Services,Travel & Leisure,35,0.6692525643158038,Industry
-Consumer Services,Media,95,0.3576322476075493,Industry
-Transportation,Airlines,45,0.11987077648832378,Industry
-Transportation,Railroads,42,0.17007161717294694,Industry
-Transportation,Logistics,91,0.3436737472416176,Industry
+,Gunnison,927,0.5701420357008936,Overall
+Gunnison,HiTech,90,0.6317321207057305,Sector
+Gunnison,Agriculture,64,0.9398239601144555,Sector
+Gunnison,Transportation,98,0.4875998703905253,Sector
+Gunnison,Consumer_Products,92,0.21932087123409505,Sector
+Gunnison,Unassigned,59,0.5732523895055479,Sector
+Gunnison,Communication,38,0.02964350752259093,Sector
+Gunnison,Trade,51,0.301081720934932,Sector
+Gunnison,Business_Services,81,0.545742495110389,Sector
+Gunnison,Business_Products,88,0.6343888631851037,Sector
+Gunnison,Construction,30,0.42151354248995987,Sector
+Gunnison,Services,85,0.9355654239367038,Sector
+Gunnison,Mining,74,0.9574034004775712,Sector
+Gunnison,Health_Care,52,0.08493679039578483,Sector
+Gunnison,EnergyExpL_Prod,6,0.9130273507400299,Sector
+Gunnison,Utilities,19,0.8770982287699844,Sector

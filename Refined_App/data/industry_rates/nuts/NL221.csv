@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Veluwe,1933,0.7826951140679463,Overall
-Veluwe,Technology,153,0.6324174605569725,Sector
-Veluwe,Healthcare,76,0.3005633210118661,Sector
-Veluwe,Finance,228,0.2705226956098742,Sector
-Veluwe,Energy,200,0.866005715107292,Sector
-Veluwe,Consumer Goods,190,0.5876366760107989,Sector
-Veluwe,Utilities,195,0.12893860454600192,Sector
-Veluwe,Real Estate,217,0.038331801736976034,Sector
-Veluwe,Telecommunications,129,0.6765138612161236,Sector
-Veluwe,Materials,168,0.4213200133760018,Sector
-Veluwe,Industrials,190,0.8291196444234953,Sector
-Veluwe,Consumer Services,59,0.13853277116952045,Sector
-Veluwe,Transportation,128,0.37317674868650175,Sector
-Technology,Software,5,0.7971301350605027,Industry
-Technology,Hardware,62,0.607715468230571,Industry
-Technology,IT Services,86,0.2018745571769358,Industry
-Healthcare,Pharmaceuticals,15,0.8079338622172262,Industry
-Healthcare,Medical Devices,17,0.5760782577342456,Industry
-Healthcare,Healthcare Services,44,0.9571909836976633,Industry
-Finance,Banking,61,0.7785074212833868,Industry
-Finance,Insurance,73,0.21820179342468937,Industry
-Finance,Investment Services,94,0.4709291125715668,Industry
-Energy,Oil & Gas,69,0.17253577027501865,Industry
-Energy,Renewable Energy,33,0.1692397070419721,Industry
-Energy,Energy Exploration,98,0.32014838348334085,Industry
-Consumer Goods,Food & Beverage,86,0.9663108589364064,Industry
-Consumer Goods,Household Products,76,0.1989137213044525,Industry
-Consumer Goods,Apparel,28,0.014840988712565562,Industry
-Utilities,Electric,48,0.12190513202976105,Industry
-Utilities,Water,91,0.4012006745480631,Industry
-Utilities,Gas,56,0.516290243170198,Industry
-Real Estate,Residential,42,0.7577510385923856,Industry
-Real Estate,Commercial,89,0.027662931055275508,Industry
-Real Estate,Industrial,86,0.4018530822119045,Industry
-Telecommunications,Mobile,50,0.7352408002847656,Industry
-Telecommunications,Broadband,68,0.2304567362967619,Industry
-Telecommunications,Satellite,11,0.481618248353869,Industry
-Materials,Chemicals,24,0.4819683249326375,Industry
-Materials,Metals & Mining,91,0.8431162749519289,Industry
-Materials,Construction Materials,53,0.2801237707494758,Industry
-Industrials,Aerospace & Defense,18,0.9648546181066758,Industry
-Industrials,Machinery,75,0.8591380288096263,Industry
-Industrials,Industrial Services,97,0.6848935839762373,Industry
-Consumer Services,Retail,14,0.4948951871067845,Industry
-Consumer Services,Travel & Leisure,6,0.5818901762504881,Industry
-Consumer Services,Media,39,0.4749362949508058,Industry
-Transportation,Airlines,73,0.5514967993917212,Industry
-Transportation,Railroads,13,0.7095219181287852,Industry
-Transportation,Logistics,42,0.47251629564975395,Industry
+,Veluwe,565,0.5534103031660635,Overall
+Veluwe,HiTech,45,0.22174715722492666,Sector
+Veluwe,Agriculture,86,0.75653216171677,Sector
+Veluwe,Transportation,11,0.794763588069117,Sector
+Veluwe,Consumer_Products,31,0.47368682624261904,Sector
+Veluwe,Unassigned,95,0.9875378368799148,Sector
+Veluwe,Communication,21,0.9830147951115156,Sector
+Veluwe,Trade,24,0.7710995465609708,Sector
+Veluwe,Business_Services,70,0.08208778974729658,Sector
+Veluwe,Business_Products,32,0.16105709162109194,Sector
+Veluwe,Construction,15,0.22532189622937415,Sector
+Veluwe,Services,31,0.3917266180667385,Sector
+Veluwe,Mining,21,0.7124604200504935,Sector
+Veluwe,Health_Care,62,0.9568556026507455,Sector
+Veluwe,EnergyExpL_Prod,15,0.39644087584207144,Sector
+Veluwe,Utilities,6,0.38682234147730743,Sector

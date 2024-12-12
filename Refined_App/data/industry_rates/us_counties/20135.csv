@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ness,1781,0.7483527038709459,Overall
-Ness,Technology,168,0.035099674285455684,Sector
-Ness,Healthcare,125,0.8582168280774394,Sector
-Ness,Finance,58,0.9294176549267643,Sector
-Ness,Energy,183,0.8052748045879332,Sector
-Ness,Consumer Goods,154,0.34140388862195614,Sector
-Ness,Utilities,182,0.6285591873644079,Sector
-Ness,Real Estate,91,0.7247273221771007,Sector
-Ness,Telecommunications,111,0.27542513364556453,Sector
-Ness,Materials,236,0.18526875279584887,Sector
-Ness,Industrials,182,0.666582883084898,Sector
-Ness,Consumer Services,197,0.7558091058292343,Sector
-Ness,Transportation,94,0.019653401566365636,Sector
-Technology,Software,63,0.07880958230207402,Industry
-Technology,Hardware,94,0.05741628213009431,Industry
-Technology,IT Services,11,0.6421597783806402,Industry
-Healthcare,Pharmaceuticals,34,0.48240689520634006,Industry
-Healthcare,Medical Devices,70,0.2505584501878726,Industry
-Healthcare,Healthcare Services,21,0.9916061837731238,Industry
-Finance,Banking,13,0.9189708014741969,Industry
-Finance,Insurance,5,0.24371878012256076,Industry
-Finance,Investment Services,40,0.0015628157327041148,Industry
-Energy,Oil & Gas,32,0.1173017559595193,Industry
-Energy,Renewable Energy,77,0.3236324604146571,Industry
-Energy,Energy Exploration,74,0.2211842920401328,Industry
-Consumer Goods,Food & Beverage,49,0.6126341919020393,Industry
-Consumer Goods,Household Products,85,0.8712630092507497,Industry
-Consumer Goods,Apparel,20,0.7256466229848456,Industry
-Utilities,Electric,91,0.2575446170303354,Industry
-Utilities,Water,20,0.15941649489160492,Industry
-Utilities,Gas,71,0.3984419864444919,Industry
-Real Estate,Residential,41,0.4916694038136856,Industry
-Real Estate,Commercial,45,0.8708294557829984,Industry
-Real Estate,Industrial,5,0.9592361754345394,Industry
-Telecommunications,Mobile,38,0.8517002881115984,Industry
-Telecommunications,Broadband,20,0.9990348304242653,Industry
-Telecommunications,Satellite,53,0.8181868158631629,Industry
-Materials,Chemicals,71,0.04200469681020791,Industry
-Materials,Metals & Mining,77,0.06293967935256384,Industry
-Materials,Construction Materials,88,0.07313145866718107,Industry
-Industrials,Aerospace & Defense,73,0.5005944353915666,Industry
-Industrials,Machinery,18,0.9326257328886081,Industry
-Industrials,Industrial Services,91,0.27710257889165746,Industry
-Consumer Services,Retail,72,0.8402935605234026,Industry
-Consumer Services,Travel & Leisure,74,0.89778168163648,Industry
-Consumer Services,Media,51,0.534238749635284,Industry
-Transportation,Airlines,50,0.711150758672152,Industry
-Transportation,Railroads,3,0.2702621911824462,Industry
-Transportation,Logistics,41,0.8644025929015604,Industry
+,Ness,1007,0.6190424910778358,Overall
+Ness,HiTech,65,0.2075129983707681,Sector
+Ness,Agriculture,80,0.7483238134409902,Sector
+Ness,Transportation,83,0.8967080851837849,Sector
+Ness,Consumer_Products,80,0.6832284074338747,Sector
+Ness,Unassigned,68,0.5691124067277024,Sector
+Ness,Communication,22,0.07779771755905662,Sector
+Ness,Trade,89,0.9113466265976362,Sector
+Ness,Business_Services,8,0.012967430677592762,Sector
+Ness,Business_Products,96,0.8205794585983273,Sector
+Ness,Construction,48,0.8505789940796465,Sector
+Ness,Services,96,0.6241138077263615,Sector
+Ness,Mining,88,0.9407796866906109,Sector
+Ness,Health_Care,69,0.9306697068588365,Sector
+Ness,EnergyExpL_Prod,83,0.6344019890301935,Sector
+Ness,Utilities,32,0.3775162371921543,Sector

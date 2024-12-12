@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lyon,1567,0.0707817468057067,Overall
-Lyon,Technology,111,0.11011736060186095,Sector
-Lyon,Healthcare,82,0.6027324771272891,Sector
-Lyon,Finance,154,0.47714683434995997,Sector
-Lyon,Energy,192,0.26697961576706497,Sector
-Lyon,Consumer Goods,167,0.9079398403651144,Sector
-Lyon,Utilities,48,0.3940534721190302,Sector
-Lyon,Real Estate,161,0.31539382704009544,Sector
-Lyon,Telecommunications,166,0.5860842984025252,Sector
-Lyon,Materials,113,0.6817481924466804,Sector
-Lyon,Industrials,222,0.6912932886509654,Sector
-Lyon,Consumer Services,73,0.40908703897172116,Sector
-Lyon,Transportation,78,0.9423400536306066,Sector
-Technology,Software,18,0.6623209972404073,Industry
-Technology,Hardware,80,0.8408562913949568,Industry
-Technology,IT Services,13,0.3965241997153497,Industry
-Healthcare,Pharmaceuticals,23,0.022910820110173757,Industry
-Healthcare,Medical Devices,28,0.029265317255171452,Industry
-Healthcare,Healthcare Services,31,0.5524207096677906,Industry
-Finance,Banking,69,0.4712904404380599,Industry
-Finance,Insurance,9,0.5969802843844461,Industry
-Finance,Investment Services,76,0.5475083838665938,Industry
-Energy,Oil & Gas,40,0.8398385311822143,Industry
-Energy,Renewable Energy,99,0.8505447777352466,Industry
-Energy,Energy Exploration,53,0.7867901490340827,Industry
-Consumer Goods,Food & Beverage,44,0.18992785546163526,Industry
-Consumer Goods,Household Products,77,0.6571521310817096,Industry
-Consumer Goods,Apparel,46,0.48902210115658595,Industry
-Utilities,Electric,2,0.6139242396067748,Industry
-Utilities,Water,38,0.10905633588647667,Industry
-Utilities,Gas,8,0.8839982810696496,Industry
-Real Estate,Residential,77,0.9201905392120684,Industry
-Real Estate,Commercial,50,0.10373652450218362,Industry
-Real Estate,Industrial,34,0.2268099137450975,Industry
-Telecommunications,Mobile,49,0.013786394949327319,Industry
-Telecommunications,Broadband,29,0.37036883000281795,Industry
-Telecommunications,Satellite,88,0.5198010443785263,Industry
-Materials,Chemicals,87,0.02866003873365508,Industry
-Materials,Metals & Mining,3,0.7205325892867896,Industry
-Materials,Construction Materials,23,0.9604100796796685,Industry
-Industrials,Aerospace & Defense,40,0.13775765895572945,Industry
-Industrials,Machinery,97,0.3119646412193301,Industry
-Industrials,Industrial Services,85,0.906389011424135,Industry
-Consumer Services,Retail,8,0.046307872302885356,Industry
-Consumer Services,Travel & Leisure,24,0.962273113803124,Industry
-Consumer Services,Media,41,0.6358528372809465,Industry
-Transportation,Airlines,24,0.6701271844519423,Industry
-Transportation,Railroads,4,0.6994093150915593,Industry
-Transportation,Logistics,50,0.9059058384008906,Industry
+,Lyon,825,0.6520645238547998,Overall
+Lyon,HiTech,64,0.789308631936729,Sector
+Lyon,Agriculture,25,0.4990427274580008,Sector
+Lyon,Transportation,82,0.2538977515146861,Sector
+Lyon,Consumer_Products,37,0.957518847092376,Sector
+Lyon,Unassigned,4,0.5308317727679657,Sector
+Lyon,Communication,13,0.8787436157136644,Sector
+Lyon,Trade,79,0.5778245589608788,Sector
+Lyon,Business_Services,60,0.20060858377947166,Sector
+Lyon,Business_Products,62,0.9568323551865721,Sector
+Lyon,Construction,78,0.9603014071453428,Sector
+Lyon,Services,65,0.9501392680183176,Sector
+Lyon,Mining,13,0.5831932103292982,Sector
+Lyon,Health_Care,97,0.3957946961641632,Sector
+Lyon,EnergyExpL_Prod,54,0.6199154003509201,Sector
+Lyon,Utilities,92,0.6270150314036126,Sector

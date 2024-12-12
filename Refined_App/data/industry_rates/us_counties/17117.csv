@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Macoupin,1924,0.4764811453622755,Overall
-Macoupin,Technology,200,0.29603459220529116,Sector
-Macoupin,Healthcare,141,0.6487164305478786,Sector
-Macoupin,Finance,172,0.3006318697542827,Sector
-Macoupin,Energy,191,0.8436554830279213,Sector
-Macoupin,Consumer Goods,212,0.2576849446777223,Sector
-Macoupin,Utilities,104,0.8685466517943541,Sector
-Macoupin,Real Estate,165,0.4966359078818178,Sector
-Macoupin,Telecommunications,154,0.5169163932496147,Sector
-Macoupin,Materials,171,0.9542833402998239,Sector
-Macoupin,Industrials,77,0.9264416492404952,Sector
-Macoupin,Consumer Services,180,0.6923256967069774,Sector
-Macoupin,Transportation,157,0.18997292725272408,Sector
-Technology,Software,90,0.5589461012264292,Industry
-Technology,Hardware,14,0.918945585302409,Industry
-Technology,IT Services,96,0.26408828656793515,Industry
-Healthcare,Pharmaceuticals,57,0.9695273764013167,Industry
-Healthcare,Medical Devices,34,0.19866707167961262,Industry
-Healthcare,Healthcare Services,50,0.6354493269009646,Industry
-Finance,Banking,36,0.7343093175197594,Industry
-Finance,Insurance,75,0.2030228964516093,Industry
-Finance,Investment Services,61,0.7223781072010107,Industry
-Energy,Oil & Gas,90,0.05320981777219136,Industry
-Energy,Renewable Energy,71,0.5614892651260148,Industry
-Energy,Energy Exploration,30,0.3442351881113125,Industry
-Consumer Goods,Food & Beverage,97,0.5122063973885497,Industry
-Consumer Goods,Household Products,58,0.5490674528118278,Industry
-Consumer Goods,Apparel,57,0.4546744156272333,Industry
-Utilities,Electric,2,0.7356397839047496,Industry
-Utilities,Water,70,0.11280859992688974,Industry
-Utilities,Gas,32,0.9339771890832803,Industry
-Real Estate,Residential,30,0.4022704820872759,Industry
-Real Estate,Commercial,55,0.923087978264158,Industry
-Real Estate,Industrial,80,0.32870186040027005,Industry
-Telecommunications,Mobile,45,0.2273984886850523,Industry
-Telecommunications,Broadband,36,0.029417851593946942,Industry
-Telecommunications,Satellite,73,0.23268758106307807,Industry
-Materials,Chemicals,92,0.24070034758950987,Industry
-Materials,Metals & Mining,28,0.39596089285459934,Industry
-Materials,Construction Materials,51,0.5851389673934981,Industry
-Industrials,Aerospace & Defense,0,0.6938530624155751,Industry
-Industrials,Machinery,19,0.5166072934927421,Industry
-Industrials,Industrial Services,58,0.18667706382938654,Industry
-Consumer Services,Retail,19,0.5962936918287549,Industry
-Consumer Services,Travel & Leisure,97,0.4294858896429542,Industry
-Consumer Services,Media,64,0.7960285060652129,Industry
-Transportation,Airlines,21,0.7636007434188238,Industry
-Transportation,Railroads,98,0.0023162239759851877,Industry
-Transportation,Logistics,38,0.16216655854747475,Industry
+,Macoupin,674,0.6649365593754644,Overall
+Macoupin,HiTech,48,0.8371675699126977,Sector
+Macoupin,Agriculture,24,0.7191410535039326,Sector
+Macoupin,Transportation,72,0.969392481871908,Sector
+Macoupin,Consumer_Products,31,0.7880793792821544,Sector
+Macoupin,Unassigned,99,0.8850043980199243,Sector
+Macoupin,Communication,73,0.68843444649768,Sector
+Macoupin,Trade,53,0.6901677083728506,Sector
+Macoupin,Business_Services,27,0.7551178253277822,Sector
+Macoupin,Business_Products,90,0.833267589139862,Sector
+Macoupin,Construction,41,0.8119238124667966,Sector
+Macoupin,Services,27,0.8290590298942836,Sector
+Macoupin,Mining,48,0.1410326885140607,Sector
+Macoupin,Health_Care,13,0.0029651849449177092,Sector
+Macoupin,EnergyExpL_Prod,20,0.7414467101015897,Sector
+Macoupin,Utilities,8,0.281848512781526,Sector

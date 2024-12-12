@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,San Patricio,1821,0.4031014897225985,Overall
-San Patricio,Technology,164,0.19554490080266873,Sector
-San Patricio,Healthcare,171,0.5924149465105365,Sector
-San Patricio,Finance,124,0.22981964932817966,Sector
-San Patricio,Energy,121,0.19829062996083346,Sector
-San Patricio,Consumer Goods,172,0.06122217466594926,Sector
-San Patricio,Utilities,196,0.8122146570002508,Sector
-San Patricio,Real Estate,112,0.632281613724125,Sector
-San Patricio,Telecommunications,209,0.5697035028895578,Sector
-San Patricio,Materials,166,0.7387889836665258,Sector
-San Patricio,Industrials,171,0.6896657463580146,Sector
-San Patricio,Consumer Services,115,0.10825614035077602,Sector
-San Patricio,Transportation,100,0.9481059190505585,Sector
-Technology,Software,15,0.6964998309474281,Industry
-Technology,Hardware,79,0.042509404124275396,Industry
-Technology,IT Services,70,0.3279502508781772,Industry
-Healthcare,Pharmaceuticals,83,0.9296490575642924,Industry
-Healthcare,Medical Devices,64,0.5103161674925955,Industry
-Healthcare,Healthcare Services,24,0.26611360361289005,Industry
-Finance,Banking,53,0.514686253130513,Industry
-Finance,Insurance,8,0.004136434355170082,Industry
-Finance,Investment Services,63,0.8945275617394235,Industry
-Energy,Oil & Gas,61,0.6793970276875123,Industry
-Energy,Renewable Energy,24,0.5311548438951136,Industry
-Energy,Energy Exploration,36,0.4428611575209177,Industry
-Consumer Goods,Food & Beverage,81,0.06672899711804836,Industry
-Consumer Goods,Household Products,18,0.695886445342801,Industry
-Consumer Goods,Apparel,73,0.2178072045908469,Industry
-Utilities,Electric,89,0.30141376856881796,Industry
-Utilities,Water,43,0.8249642626296193,Industry
-Utilities,Gas,64,0.7989147250915012,Industry
-Real Estate,Residential,44,0.43036045620804364,Industry
-Real Estate,Commercial,60,0.21993071392928676,Industry
-Real Estate,Industrial,8,0.8109266685535187,Industry
-Telecommunications,Mobile,64,0.9023699963338532,Industry
-Telecommunications,Broadband,86,0.40029320964373727,Industry
-Telecommunications,Satellite,59,0.915091224213579,Industry
-Materials,Chemicals,54,0.9777579477730444,Industry
-Materials,Metals & Mining,45,0.6724032368517208,Industry
-Materials,Construction Materials,67,0.08339128110818894,Industry
-Industrials,Aerospace & Defense,41,0.20591403555488275,Industry
-Industrials,Machinery,52,0.8474567283344651,Industry
-Industrials,Industrial Services,78,0.10346470952164022,Industry
-Consumer Services,Retail,81,0.5804657845602302,Industry
-Consumer Services,Travel & Leisure,1,0.9084611413068773,Industry
-Consumer Services,Media,33,0.3488533005166985,Industry
-Transportation,Airlines,0,0.9052758107475964,Industry
-Transportation,Railroads,35,0.6357888387394945,Industry
-Transportation,Logistics,65,0.0913505727626901,Industry
+,San Patricio,763,0.5465752579831444,Overall
+San Patricio,HiTech,39,0.7272219967045289,Sector
+San Patricio,Agriculture,4,0.6490743666376574,Sector
+San Patricio,Transportation,5,0.7190059210614642,Sector
+San Patricio,Consumer_Products,73,0.5756781817189092,Sector
+San Patricio,Unassigned,97,0.14030775200957968,Sector
+San Patricio,Communication,50,0.8316611888565931,Sector
+San Patricio,Trade,7,0.09804605462916427,Sector
+San Patricio,Business_Services,63,0.6713182179162529,Sector
+San Patricio,Business_Products,72,0.13462174269403737,Sector
+San Patricio,Construction,75,0.7806140192439167,Sector
+San Patricio,Services,10,0.26551326610504833,Sector
+San Patricio,Mining,22,0.961781210148243,Sector
+San Patricio,Health_Care,74,0.7316054465169632,Sector
+San Patricio,EnergyExpL_Prod,79,0.8997200504635822,Sector
+San Patricio,Utilities,93,0.01245945504122603,Sector

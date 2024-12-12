@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Barber,1841,0.5557313296917913,Overall
-Barber,Technology,206,0.6703354695093857,Sector
-Barber,Healthcare,133,0.9820998565082796,Sector
-Barber,Finance,100,0.9324369188253551,Sector
-Barber,Energy,171,0.08451655346452269,Sector
-Barber,Consumer Goods,154,0.17591716165073235,Sector
-Barber,Utilities,196,0.3483838141583582,Sector
-Barber,Real Estate,110,0.9754784462685036,Sector
-Barber,Telecommunications,164,0.8183259069839043,Sector
-Barber,Materials,158,0.9508730920541796,Sector
-Barber,Industrials,154,0.11994546684891905,Sector
-Barber,Consumer Services,138,0.5575418695492687,Sector
-Barber,Transportation,157,0.7667729172570648,Sector
-Technology,Software,98,0.9459774334848983,Industry
-Technology,Hardware,74,0.24820662094171098,Industry
-Technology,IT Services,34,0.9040456900435512,Industry
-Healthcare,Pharmaceuticals,82,0.017478694249378535,Industry
-Healthcare,Medical Devices,51,0.25193099431318655,Industry
-Healthcare,Healthcare Services,0,0.14319923295755743,Industry
-Finance,Banking,32,0.9840316583519364,Industry
-Finance,Insurance,48,0.46146994669281516,Industry
-Finance,Investment Services,20,0.6318621193175167,Industry
-Energy,Oil & Gas,78,0.5702845888602435,Industry
-Energy,Renewable Energy,8,0.23280650268490632,Industry
-Energy,Energy Exploration,85,0.8357795889757166,Industry
-Consumer Goods,Food & Beverage,65,0.08806293783198871,Industry
-Consumer Goods,Household Products,72,0.8952449419040635,Industry
-Consumer Goods,Apparel,17,0.6837651002799102,Industry
-Utilities,Electric,58,0.07974438169987219,Industry
-Utilities,Water,77,0.45544190379103044,Industry
-Utilities,Gas,61,0.11773100614431209,Industry
-Real Estate,Residential,62,0.9995952284462368,Industry
-Real Estate,Commercial,20,0.26111071542785225,Industry
-Real Estate,Industrial,28,0.2139189658549978,Industry
-Telecommunications,Mobile,58,0.8754684318794786,Industry
-Telecommunications,Broadband,38,0.9250426411295843,Industry
-Telecommunications,Satellite,68,0.9500828224813118,Industry
-Materials,Chemicals,84,0.37903066904949845,Industry
-Materials,Metals & Mining,58,0.6978282772033486,Industry
-Materials,Construction Materials,16,0.8849299492695427,Industry
-Industrials,Aerospace & Defense,69,0.5805656439368577,Industry
-Industrials,Machinery,22,0.7580857081256114,Industry
-Industrials,Industrial Services,63,0.726508916493859,Industry
-Consumer Services,Retail,31,0.8004443432529107,Industry
-Consumer Services,Travel & Leisure,49,0.4338932647734677,Industry
-Consumer Services,Media,58,0.355735309136726,Industry
-Transportation,Airlines,74,0.48065077604160833,Industry
-Transportation,Railroads,0,0.7188677533083271,Industry
-Transportation,Logistics,83,0.9849988207253989,Industry
+,Barber,729,0.4592798692749788,Overall
+Barber,HiTech,75,0.12533067434146572,Sector
+Barber,Agriculture,96,0.3056381223311032,Sector
+Barber,Transportation,47,0.11928744529900459,Sector
+Barber,Consumer_Products,56,0.1699685566621506,Sector
+Barber,Unassigned,93,0.3839723768167028,Sector
+Barber,Communication,93,0.8503963882042044,Sector
+Barber,Trade,4,0.4466085851737214,Sector
+Barber,Business_Services,71,0.5875927319127724,Sector
+Barber,Business_Products,29,0.4562744325475566,Sector
+Barber,Construction,29,0.0921753131944304,Sector
+Barber,Services,30,0.9212009745071053,Sector
+Barber,Mining,0,0.8231668862888347,Sector
+Barber,Health_Care,45,0.9413954771463611,Sector
+Barber,EnergyExpL_Prod,26,0.26140908746313063,Sector
+Barber,Utilities,35,0.40478098723613876,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Østsjælland,1782,0.10424643284116841,Overall
+Østsjælland,Technology,135,0.05009805625539343,Sector
+Østsjælland,Healthcare,135,0.4564984741604433,Sector
+Østsjælland,Finance,168,0.33369533689102915,Sector
+Østsjælland,Energy,135,0.4340093909185574,Sector
+Østsjælland,Consumer Goods,188,0.042469559254613154,Sector
+Østsjælland,Utilities,156,0.8739195564217037,Sector
+Østsjælland,Real Estate,111,0.04156775153670833,Sector
+Østsjælland,Telecommunications,132,0.210298235565059,Sector
+Østsjælland,Materials,161,0.5238339069155149,Sector
+Østsjælland,Industrials,220,0.43698415650208877,Sector
+Østsjælland,Consumer Services,167,0.6427096600538227,Sector
+Østsjælland,Transportation,74,0.39555293806667746,Sector
+Technology,Software,98,0.6347832498946315,Industry
+Technology,Hardware,0,0.7290889007547393,Industry
+Technology,IT Services,37,0.09114601185737758,Industry
+Healthcare,Pharmaceuticals,47,0.8131599827304394,Industry
+Healthcare,Medical Devices,47,0.8580576205848806,Industry
+Healthcare,Healthcare Services,41,0.8847723286559781,Industry
+Finance,Banking,50,0.20683363159532464,Industry
+Finance,Insurance,32,0.05733737016263285,Industry
+Finance,Investment Services,86,0.9679370958577074,Industry
+Energy,Oil & Gas,51,0.900753765227788,Industry
+Energy,Renewable Energy,46,0.6856271741255594,Industry
+Energy,Energy Exploration,38,0.282913380155275,Industry
+Consumer Goods,Food & Beverage,30,0.0014437219549785496,Industry
+Consumer Goods,Household Products,82,0.60484066004696,Industry
+Consumer Goods,Apparel,76,0.17856783779192797,Industry
+Utilities,Electric,89,0.024924091590800668,Industry
+Utilities,Water,24,0.42953463476497045,Industry
+Utilities,Gas,43,0.47196679577523637,Industry
+Real Estate,Residential,73,0.9579777188237888,Industry
+Real Estate,Commercial,2,0.809642776026726,Industry
+Real Estate,Industrial,36,0.2835721951165635,Industry
+Telecommunications,Mobile,4,0.8488077904614086,Industry
+Telecommunications,Broadband,66,0.7884512476862627,Industry
+Telecommunications,Satellite,62,0.8323135290551401,Industry
+Materials,Chemicals,90,0.8843004877415837,Industry
+Materials,Metals & Mining,24,0.4180335829336458,Industry
+Materials,Construction Materials,47,0.8923688086687515,Industry
+Industrials,Aerospace & Defense,97,0.777091720303435,Industry
+Industrials,Machinery,38,0.7155653393529234,Industry
+Industrials,Industrial Services,85,0.3601847807490757,Industry
+Consumer Services,Retail,69,0.8564026925434097,Industry
+Consumer Services,Travel & Leisure,33,0.9791844324861366,Industry
+Consumer Services,Media,65,0.9670074117989436,Industry
+Transportation,Airlines,51,0.18304755728725786,Industry
+Transportation,Railroads,16,0.5122831013164494,Industry
+Transportation,Logistics,7,0.8274165156952328,Industry

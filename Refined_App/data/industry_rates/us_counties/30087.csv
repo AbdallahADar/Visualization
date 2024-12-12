@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rosebud,1661,0.6810057815059523,Overall
-Rosebud,Technology,140,0.980544329955029,Sector
-Rosebud,Healthcare,106,0.28799595539590594,Sector
-Rosebud,Finance,122,0.17881135279194904,Sector
-Rosebud,Energy,136,0.009739608248657605,Sector
-Rosebud,Consumer Goods,145,0.8069676268952585,Sector
-Rosebud,Utilities,76,0.9361829482010148,Sector
-Rosebud,Real Estate,123,0.75672592598901,Sector
-Rosebud,Telecommunications,176,0.0766370467418227,Sector
-Rosebud,Materials,114,0.5940539583324373,Sector
-Rosebud,Industrials,250,0.5403953066262355,Sector
-Rosebud,Consumer Services,121,0.9104722545084433,Sector
-Rosebud,Transportation,152,0.07341238413886886,Sector
-Technology,Software,84,0.5237486412685822,Industry
-Technology,Hardware,22,0.8057132568323296,Industry
-Technology,IT Services,34,0.5234627153637093,Industry
-Healthcare,Pharmaceuticals,17,0.696411051537024,Industry
-Healthcare,Medical Devices,26,0.572674438266213,Industry
-Healthcare,Healthcare Services,63,0.2621675932283113,Industry
-Finance,Banking,35,0.050884735102027734,Industry
-Finance,Insurance,12,0.6325993954040939,Industry
-Finance,Investment Services,75,0.2981381709742612,Industry
-Energy,Oil & Gas,20,0.2927707163653914,Industry
-Energy,Renewable Energy,98,0.44406870961780864,Industry
-Energy,Energy Exploration,18,0.6084324714060089,Industry
-Consumer Goods,Food & Beverage,73,0.07656687783717131,Industry
-Consumer Goods,Household Products,64,0.06283023835225787,Industry
-Consumer Goods,Apparel,8,0.06934518813335233,Industry
-Utilities,Electric,26,0.6116976919287211,Industry
-Utilities,Water,28,0.514606119562057,Industry
-Utilities,Gas,22,0.5812484796110281,Industry
-Real Estate,Residential,10,0.005281715076946636,Industry
-Real Estate,Commercial,81,0.9247139049362875,Industry
-Real Estate,Industrial,32,0.8402246133754674,Industry
-Telecommunications,Mobile,64,0.961354727072948,Industry
-Telecommunications,Broadband,81,0.13645328459289874,Industry
-Telecommunications,Satellite,31,0.4685497416456479,Industry
-Materials,Chemicals,27,0.1985952774665387,Industry
-Materials,Metals & Mining,60,0.5436106256395722,Industry
-Materials,Construction Materials,27,0.8526984223333113,Industry
-Industrials,Aerospace & Defense,91,0.09671658558998464,Industry
-Industrials,Machinery,71,0.04771260542767197,Industry
-Industrials,Industrial Services,88,0.6988561127274213,Industry
-Consumer Services,Retail,70,0.8604105416368725,Industry
-Consumer Services,Travel & Leisure,27,0.03897929194679439,Industry
-Consumer Services,Media,24,0.3526444796074879,Industry
-Transportation,Airlines,63,0.9854832301189637,Industry
-Transportation,Railroads,7,0.717949751585684,Industry
-Transportation,Logistics,82,0.4919035015787103,Industry
+,Rosebud,993,0.5316238246290582,Overall
+Rosebud,HiTech,20,0.6540588652252589,Sector
+Rosebud,Agriculture,61,0.7506039111651069,Sector
+Rosebud,Transportation,97,0.9782085709828472,Sector
+Rosebud,Consumer_Products,40,0.36947849562473456,Sector
+Rosebud,Unassigned,92,0.042810899448153084,Sector
+Rosebud,Communication,65,0.11321940779266215,Sector
+Rosebud,Trade,98,0.1909675112266116,Sector
+Rosebud,Business_Services,65,0.7237643474686819,Sector
+Rosebud,Business_Products,96,0.6023239871795681,Sector
+Rosebud,Construction,93,0.5349200698689409,Sector
+Rosebud,Services,54,0.8107577571531465,Sector
+Rosebud,Mining,18,0.21557892487165486,Sector
+Rosebud,Health_Care,62,0.8378209407376801,Sector
+Rosebud,EnergyExpL_Prod,96,0.39039126780153666,Sector
+Rosebud,Utilities,36,0.7594524128892893,Sector

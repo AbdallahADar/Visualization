@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chisago,1858,0.9213882015934652,Overall
-Chisago,Technology,75,0.8300428448589525,Sector
-Chisago,Healthcare,131,0.14742122042476913,Sector
-Chisago,Finance,108,0.844851722221251,Sector
-Chisago,Energy,148,0.8194915460521508,Sector
-Chisago,Consumer Goods,56,0.9284697852590792,Sector
-Chisago,Utilities,168,0.2064894739160168,Sector
-Chisago,Real Estate,192,0.7978769132736342,Sector
-Chisago,Telecommunications,180,0.21911455373409816,Sector
-Chisago,Materials,173,0.6186227759524114,Sector
-Chisago,Industrials,224,0.9858846769195961,Sector
-Chisago,Consumer Services,132,0.8947918066029461,Sector
-Chisago,Transportation,271,0.2620132683525087,Sector
-Technology,Software,1,0.19120446616572995,Industry
-Technology,Hardware,69,0.958208447085743,Industry
-Technology,IT Services,5,0.016688680007391876,Industry
-Healthcare,Pharmaceuticals,13,0.863458688038103,Industry
-Healthcare,Medical Devices,35,0.9536079853401349,Industry
-Healthcare,Healthcare Services,83,0.5950491218980405,Industry
-Finance,Banking,8,0.3582446801986784,Industry
-Finance,Insurance,47,0.4642552484520708,Industry
-Finance,Investment Services,53,0.05445882480701769,Industry
-Energy,Oil & Gas,74,0.19892055597214864,Industry
-Energy,Renewable Energy,53,0.39021158712007986,Industry
-Energy,Energy Exploration,21,0.24176742189638734,Industry
-Consumer Goods,Food & Beverage,0,0.028636792659427313,Industry
-Consumer Goods,Household Products,6,0.7777109629197115,Industry
-Consumer Goods,Apparel,50,0.0111567337829922,Industry
-Utilities,Electric,55,0.229759949391644,Industry
-Utilities,Water,59,0.7081795887266163,Industry
-Utilities,Gas,54,0.24868053449437477,Industry
-Real Estate,Residential,88,0.6042723125886423,Industry
-Real Estate,Commercial,75,0.6293752217934495,Industry
-Real Estate,Industrial,29,0.06906155300732475,Industry
-Telecommunications,Mobile,90,0.2041573912204504,Industry
-Telecommunications,Broadband,83,0.3826039042182666,Industry
-Telecommunications,Satellite,7,0.5725511563896882,Industry
-Materials,Chemicals,75,0.6612550522073763,Industry
-Materials,Metals & Mining,22,0.9006855601848173,Industry
-Materials,Construction Materials,76,0.8053641729934031,Industry
-Industrials,Aerospace & Defense,49,0.9053387953434093,Industry
-Industrials,Machinery,80,0.1255098488721017,Industry
-Industrials,Industrial Services,95,0.3594730931772331,Industry
-Consumer Services,Retail,26,0.9081874981654839,Industry
-Consumer Services,Travel & Leisure,73,0.7971451743515503,Industry
-Consumer Services,Media,33,0.16895266515159202,Industry
-Transportation,Airlines,99,0.1826952070443929,Industry
-Transportation,Railroads,78,0.7593785199277059,Industry
-Transportation,Logistics,94,0.3577527079002554,Industry
+,Chisago,899,0.5646363493762263,Overall
+Chisago,HiTech,57,0.5189677364757614,Sector
+Chisago,Agriculture,58,0.33151137283774046,Sector
+Chisago,Transportation,77,0.9392633852356299,Sector
+Chisago,Consumer_Products,29,0.5713190490986051,Sector
+Chisago,Unassigned,77,0.29436973617318063,Sector
+Chisago,Communication,28,0.9062447075263287,Sector
+Chisago,Trade,75,0.8036024980945087,Sector
+Chisago,Business_Services,89,0.6866873841452595,Sector
+Chisago,Business_Products,41,0.17193044145676717,Sector
+Chisago,Construction,78,0.5550535157024971,Sector
+Chisago,Services,36,0.4470809658668399,Sector
+Chisago,Mining,24,0.8368250629467266,Sector
+Chisago,Health_Care,82,0.48404584126613526,Sector
+Chisago,EnergyExpL_Prod,76,0.04214217412999166,Sector
+Chisago,Utilities,72,0.880501369687425,Sector

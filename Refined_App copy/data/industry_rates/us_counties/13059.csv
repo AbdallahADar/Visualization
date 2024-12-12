@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Clarke,2188,0.2716480587953959,Overall
+Clarke,Technology,246,0.3287389646215234,Sector
+Clarke,Healthcare,202,0.16909698807047524,Sector
+Clarke,Finance,139,0.14828348822174775,Sector
+Clarke,Energy,240,0.634118723573228,Sector
+Clarke,Consumer Goods,106,0.7942388504288742,Sector
+Clarke,Utilities,205,0.7030430803825232,Sector
+Clarke,Real Estate,103,0.9712615694442851,Sector
+Clarke,Telecommunications,145,0.5227213330650117,Sector
+Clarke,Materials,122,0.5843635100049311,Sector
+Clarke,Industrials,200,0.23119285505291143,Sector
+Clarke,Consumer Services,271,0.3998012483669334,Sector
+Clarke,Transportation,209,0.3096137752278877,Sector
+Technology,Software,67,0.5340775423706615,Industry
+Technology,Hardware,87,0.5127233620372219,Industry
+Technology,IT Services,92,0.9052854114450586,Industry
+Healthcare,Pharmaceuticals,44,0.8106048055641154,Industry
+Healthcare,Medical Devices,74,0.9709795848789632,Industry
+Healthcare,Healthcare Services,84,0.3615184369616007,Industry
+Finance,Banking,92,0.5125518421875578,Industry
+Finance,Insurance,26,0.5334708262202831,Industry
+Finance,Investment Services,21,0.9208742703189879,Industry
+Energy,Oil & Gas,79,0.6786595136334417,Industry
+Energy,Renewable Energy,66,0.11893152088912773,Industry
+Energy,Energy Exploration,95,0.2211263293289326,Industry
+Consumer Goods,Food & Beverage,40,0.23864502918855424,Industry
+Consumer Goods,Household Products,28,0.21335502941445428,Industry
+Consumer Goods,Apparel,38,0.7648063492960174,Industry
+Utilities,Electric,93,0.6423940837012505,Industry
+Utilities,Water,36,0.8262606265786617,Industry
+Utilities,Gas,76,0.7534679384488633,Industry
+Real Estate,Residential,76,0.8737586273329725,Industry
+Real Estate,Commercial,27,0.31417829724787927,Industry
+Real Estate,Industrial,0,0.06592736979055758,Industry
+Telecommunications,Mobile,60,0.6688617173461615,Industry
+Telecommunications,Broadband,53,0.2855610203800675,Industry
+Telecommunications,Satellite,32,0.5053068213289287,Industry
+Materials,Chemicals,18,0.5172937913202684,Industry
+Materials,Metals & Mining,66,0.08775269416365439,Industry
+Materials,Construction Materials,38,0.07174335640961726,Industry
+Industrials,Aerospace & Defense,88,0.7324783519277646,Industry
+Industrials,Machinery,37,0.7447087641592072,Industry
+Industrials,Industrial Services,75,0.1695487969978562,Industry
+Consumer Services,Retail,89,0.9058714565741284,Industry
+Consumer Services,Travel & Leisure,89,0.5698275329194566,Industry
+Consumer Services,Media,93,0.7723804144769302,Industry
+Transportation,Airlines,66,0.7267201383975044,Industry
+Transportation,Railroads,86,0.6585413506269352,Industry
+Transportation,Logistics,57,0.49073378550694124,Industry

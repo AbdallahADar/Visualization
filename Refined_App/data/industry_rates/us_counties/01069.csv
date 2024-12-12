@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Houston,1847,0.11590404629809437,Overall
-Houston,Technology,78,0.9901026321731455,Sector
-Houston,Healthcare,159,0.811394532531883,Sector
-Houston,Finance,120,0.5424013172562034,Sector
-Houston,Energy,179,0.3410570273735605,Sector
-Houston,Consumer Goods,77,0.2565400897228688,Sector
-Houston,Utilities,141,0.49809705597357856,Sector
-Houston,Real Estate,163,0.770566320665459,Sector
-Houston,Telecommunications,225,0.6580788703420192,Sector
-Houston,Materials,208,0.5869535854663083,Sector
-Houston,Industrials,138,0.5765962886739695,Sector
-Houston,Consumer Services,141,0.9526922068326328,Sector
-Houston,Transportation,218,0.5753198413309539,Sector
-Technology,Software,37,0.2971812302773392,Industry
-Technology,Hardware,2,0.33554833275445073,Industry
-Technology,IT Services,39,0.04161767631692881,Industry
-Healthcare,Pharmaceuticals,41,0.6700650558939056,Industry
-Healthcare,Medical Devices,36,0.8604083513348229,Industry
-Healthcare,Healthcare Services,82,0.7807618314263657,Industry
-Finance,Banking,68,0.378000449551369,Industry
-Finance,Insurance,6,0.16416291340961975,Industry
-Finance,Investment Services,46,0.5925625980356048,Industry
-Energy,Oil & Gas,37,0.8548333249739258,Industry
-Energy,Renewable Energy,80,0.1846087909333266,Industry
-Energy,Energy Exploration,62,0.6955336020020144,Industry
-Consumer Goods,Food & Beverage,2,0.2587740113026019,Industry
-Consumer Goods,Household Products,7,0.3799337619807698,Industry
-Consumer Goods,Apparel,68,0.678475823147024,Industry
-Utilities,Electric,38,0.5968373002664202,Industry
-Utilities,Water,50,0.7995495172292195,Industry
-Utilities,Gas,53,0.9991270067789751,Industry
-Real Estate,Residential,93,0.21006365195419863,Industry
-Real Estate,Commercial,35,0.2511623152081003,Industry
-Real Estate,Industrial,35,0.6046128132897864,Industry
-Telecommunications,Mobile,97,0.7058274872916602,Industry
-Telecommunications,Broadband,64,0.1248610090736606,Industry
-Telecommunications,Satellite,64,0.13945152629478863,Industry
-Materials,Chemicals,81,0.7512277169317131,Industry
-Materials,Metals & Mining,39,0.8208700330073916,Industry
-Materials,Construction Materials,88,0.8759055734475214,Industry
-Industrials,Aerospace & Defense,39,0.8314866294309615,Industry
-Industrials,Machinery,11,0.5972635101067169,Industry
-Industrials,Industrial Services,88,0.002572026397576921,Industry
-Consumer Services,Retail,53,0.9443848290651388,Industry
-Consumer Services,Travel & Leisure,57,0.8231979596139412,Industry
-Consumer Services,Media,31,0.4029389207269869,Industry
-Transportation,Airlines,37,0.16088685624877708,Industry
-Transportation,Railroads,97,0.1559390818494809,Industry
-Transportation,Logistics,84,0.0836727023003937,Industry
+,Houston,940,0.5705648830373157,Overall
+Houston,HiTech,99,0.3235580456911713,Sector
+Houston,Agriculture,9,0.8094810710039113,Sector
+Houston,Transportation,85,0.9965637817446945,Sector
+Houston,Consumer_Products,64,0.2679177032715745,Sector
+Houston,Unassigned,88,0.13363522833434105,Sector
+Houston,Communication,3,0.9043128671061431,Sector
+Houston,Trade,47,0.14821881254128433,Sector
+Houston,Business_Services,94,0.5887481357502988,Sector
+Houston,Business_Products,70,0.7232883543546009,Sector
+Houston,Construction,70,0.688770941535683,Sector
+Houston,Services,62,0.21505289909453695,Sector
+Houston,Mining,44,0.9429390697716484,Sector
+Houston,Health_Care,66,0.9341840953473212,Sector
+Houston,EnergyExpL_Prod,86,0.86846530334147,Sector
+Houston,Utilities,53,0.013336936671055843,Sector

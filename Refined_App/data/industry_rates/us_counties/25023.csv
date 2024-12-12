@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Plymouth,1793,0.3070067333150871,Overall
-Plymouth,Technology,82,0.12493263766556495,Sector
-Plymouth,Healthcare,114,0.8442201561822354,Sector
-Plymouth,Finance,127,0.22295122485140528,Sector
-Plymouth,Energy,156,0.8918284747685724,Sector
-Plymouth,Consumer Goods,61,0.7133479663096126,Sector
-Plymouth,Utilities,231,0.6621700250329268,Sector
-Plymouth,Real Estate,224,0.2375077739032997,Sector
-Plymouth,Telecommunications,104,0.24336718724280704,Sector
-Plymouth,Materials,186,0.9323992127941848,Sector
-Plymouth,Industrials,191,0.46660947984099765,Sector
-Plymouth,Consumer Services,144,0.12842303457511528,Sector
-Plymouth,Transportation,173,0.15055164289170087,Sector
-Technology,Software,38,0.0459047784879395,Industry
-Technology,Hardware,38,0.721811379694197,Industry
-Technology,IT Services,6,0.8754002146891989,Industry
-Healthcare,Pharmaceuticals,40,0.04965015464042932,Industry
-Healthcare,Medical Devices,57,0.6218265886249947,Industry
-Healthcare,Healthcare Services,17,0.5750819302039057,Industry
-Finance,Banking,84,0.4048182605114261,Industry
-Finance,Insurance,17,0.7428746655423532,Industry
-Finance,Investment Services,26,0.7491925630402442,Industry
-Energy,Oil & Gas,92,0.055832885214257,Industry
-Energy,Renewable Energy,19,0.6557680721064044,Industry
-Energy,Energy Exploration,45,0.370546640202599,Industry
-Consumer Goods,Food & Beverage,14,0.5538595441412035,Industry
-Consumer Goods,Household Products,10,0.20843741093954782,Industry
-Consumer Goods,Apparel,37,0.4010986379186673,Industry
-Utilities,Electric,80,0.4394968862126103,Industry
-Utilities,Water,88,0.02304410510604693,Industry
-Utilities,Gas,63,0.9777474272698192,Industry
-Real Estate,Residential,74,0.08571735045353612,Industry
-Real Estate,Commercial,98,0.7120101051320187,Industry
-Real Estate,Industrial,52,0.4461617328741292,Industry
-Telecommunications,Mobile,39,0.826364165599532,Industry
-Telecommunications,Broadband,40,0.7893510899912973,Industry
-Telecommunications,Satellite,25,0.9358494365529255,Industry
-Materials,Chemicals,62,0.13110391033960078,Industry
-Materials,Metals & Mining,85,0.02892771418904483,Industry
-Materials,Construction Materials,39,0.2295055171650059,Industry
-Industrials,Aerospace & Defense,98,0.013724104514738378,Industry
-Industrials,Machinery,76,0.4069440552362198,Industry
-Industrials,Industrial Services,17,0.05469432910385941,Industry
-Consumer Services,Retail,72,0.4357470659239707,Industry
-Consumer Services,Travel & Leisure,4,0.10248501561841095,Industry
-Consumer Services,Media,68,0.551522010957786,Industry
-Transportation,Airlines,61,0.44029364446495156,Industry
-Transportation,Railroads,81,0.63691180411501,Industry
-Transportation,Logistics,31,0.9818911730754833,Industry
+,Plymouth,808,0.552057914385836,Overall
+Plymouth,HiTech,89,0.22998521071016476,Sector
+Plymouth,Agriculture,55,0.22668793792825948,Sector
+Plymouth,Transportation,44,0.8083690065382567,Sector
+Plymouth,Consumer_Products,85,0.7947100260560219,Sector
+Plymouth,Unassigned,17,0.2184368090964195,Sector
+Plymouth,Communication,48,0.407359339242368,Sector
+Plymouth,Trade,58,0.9897709485268005,Sector
+Plymouth,Business_Services,96,0.2943999934981433,Sector
+Plymouth,Business_Products,13,0.962274434787939,Sector
+Plymouth,Construction,49,0.003053993250254128,Sector
+Plymouth,Services,1,0.17621962272230263,Sector
+Plymouth,Mining,66,0.6342623603875257,Sector
+Plymouth,Health_Care,49,0.9887337108555673,Sector
+Plymouth,EnergyExpL_Prod,77,0.6130208059225501,Sector
+Plymouth,Utilities,61,0.9335845162649662,Sector

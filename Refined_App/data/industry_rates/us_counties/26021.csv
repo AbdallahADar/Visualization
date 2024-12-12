@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Berrien,1677,0.9082373601397511,Overall
-Berrien,Technology,100,0.8621683133849909,Sector
-Berrien,Healthcare,107,0.28715807291963125,Sector
-Berrien,Finance,162,0.16341297713219616,Sector
-Berrien,Energy,115,0.9474086328509694,Sector
-Berrien,Consumer Goods,96,0.5867148779236641,Sector
-Berrien,Utilities,92,0.9908974473555233,Sector
-Berrien,Real Estate,240,0.5493273806199662,Sector
-Berrien,Telecommunications,139,0.6378230077198511,Sector
-Berrien,Materials,116,0.8108122439084948,Sector
-Berrien,Industrials,232,0.27955868899514946,Sector
-Berrien,Consumer Services,164,0.7093276019884479,Sector
-Berrien,Transportation,114,0.018622623278726547,Sector
-Technology,Software,27,0.8506600326537391,Industry
-Technology,Hardware,7,0.7205299834201987,Industry
-Technology,IT Services,66,0.532748974121125,Industry
-Healthcare,Pharmaceuticals,4,0.9349469770773547,Industry
-Healthcare,Medical Devices,57,0.06107571471006479,Industry
-Healthcare,Healthcare Services,46,0.9172458593352117,Industry
-Finance,Banking,3,0.7438895047927597,Industry
-Finance,Insurance,85,0.0009552958078006268,Industry
-Finance,Investment Services,74,0.8666297170103081,Industry
-Energy,Oil & Gas,27,0.41750687745995185,Industry
-Energy,Renewable Energy,41,0.7100815848147173,Industry
-Energy,Energy Exploration,47,0.07852411026917916,Industry
-Consumer Goods,Food & Beverage,4,0.23684869910400685,Industry
-Consumer Goods,Household Products,92,0.028944043454420254,Industry
-Consumer Goods,Apparel,0,0.3377610698249678,Industry
-Utilities,Electric,26,0.8058998271623229,Industry
-Utilities,Water,31,0.09736236340483062,Industry
-Utilities,Gas,35,0.4404517667944996,Industry
-Real Estate,Residential,65,0.9195008711539405,Industry
-Real Estate,Commercial,81,0.816715251433967,Industry
-Real Estate,Industrial,94,0.6876049129712362,Industry
-Telecommunications,Mobile,74,0.31274501220693773,Industry
-Telecommunications,Broadband,20,0.4228781811135436,Industry
-Telecommunications,Satellite,45,0.5965664344734464,Industry
-Materials,Chemicals,24,0.8979010043520801,Industry
-Materials,Metals & Mining,19,0.6350338797676748,Industry
-Materials,Construction Materials,73,0.8012887876166175,Industry
-Industrials,Aerospace & Defense,94,0.7508358512297749,Industry
-Industrials,Machinery,44,0.995442324364473,Industry
-Industrials,Industrial Services,94,0.04312942798072539,Industry
-Consumer Services,Retail,76,0.250182766426828,Industry
-Consumer Services,Travel & Leisure,5,0.09499174109987685,Industry
-Consumer Services,Media,83,0.849627901501139,Industry
-Transportation,Airlines,24,0.5996171389195938,Industry
-Transportation,Railroads,73,0.5002593660387227,Industry
-Transportation,Logistics,17,0.5786609245082005,Industry
+,Berrien,685,0.4681547530178445,Overall
+Berrien,HiTech,57,0.6783616344133224,Sector
+Berrien,Agriculture,20,0.8057476022713969,Sector
+Berrien,Transportation,32,0.32885839517226256,Sector
+Berrien,Consumer_Products,53,0.6647010607459438,Sector
+Berrien,Unassigned,69,0.36174794733750804,Sector
+Berrien,Communication,45,0.5813912855590696,Sector
+Berrien,Trade,34,0.19543211456668286,Sector
+Berrien,Business_Services,77,0.002861709251103073,Sector
+Berrien,Business_Products,72,0.973870672221158,Sector
+Berrien,Construction,67,0.1292746483145082,Sector
+Berrien,Services,8,0.5431603688437674,Sector
+Berrien,Mining,52,0.013883054240224624,Sector
+Berrien,Health_Care,13,0.1542567314300367,Sector
+Berrien,EnergyExpL_Prod,30,0.7801085776305462,Sector
+Berrien,Utilities,56,0.8086654932701359,Sector

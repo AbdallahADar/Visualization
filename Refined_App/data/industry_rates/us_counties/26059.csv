@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hillsdale,2136,0.34603743285221,Overall
-Hillsdale,Technology,181,0.5175060407617392,Sector
-Hillsdale,Healthcare,151,0.5526575451810841,Sector
-Hillsdale,Finance,146,0.25841504665709913,Sector
-Hillsdale,Energy,169,0.8344545430629395,Sector
-Hillsdale,Consumer Goods,189,0.5937341261293507,Sector
-Hillsdale,Utilities,187,0.12491917936096997,Sector
-Hillsdale,Real Estate,127,0.7075853146461338,Sector
-Hillsdale,Telecommunications,158,0.04040120628831856,Sector
-Hillsdale,Materials,184,0.707739366712167,Sector
-Hillsdale,Industrials,183,0.13860747597895862,Sector
-Hillsdale,Consumer Services,238,0.5630009504553819,Sector
-Hillsdale,Transportation,223,0.47734878366466404,Sector
-Technology,Software,60,0.5672862545361705,Industry
-Technology,Hardware,61,0.7640385169554437,Industry
-Technology,IT Services,60,0.1838705542609156,Industry
-Healthcare,Pharmaceuticals,79,0.0782222541937101,Industry
-Healthcare,Medical Devices,1,0.7204917152114266,Industry
-Healthcare,Healthcare Services,71,0.8850965090008917,Industry
-Finance,Banking,35,0.7353895326888494,Industry
-Finance,Insurance,21,0.31059978760630724,Industry
-Finance,Investment Services,90,0.060784122623503856,Industry
-Energy,Oil & Gas,32,0.8787409015784994,Industry
-Energy,Renewable Energy,44,0.7740710121844001,Industry
-Energy,Energy Exploration,93,0.5312277907334784,Industry
-Consumer Goods,Food & Beverage,10,0.45182478097877543,Industry
-Consumer Goods,Household Products,95,0.33391728378485663,Industry
-Consumer Goods,Apparel,84,0.026475306777919094,Industry
-Utilities,Electric,97,0.9482266438902908,Industry
-Utilities,Water,86,0.632548853300367,Industry
-Utilities,Gas,4,0.28877798522132214,Industry
-Real Estate,Residential,11,0.769683487866229,Industry
-Real Estate,Commercial,87,0.752504323255426,Industry
-Real Estate,Industrial,29,0.21779598273030754,Industry
-Telecommunications,Mobile,29,0.5594540658327695,Industry
-Telecommunications,Broadband,53,0.22815064718980238,Industry
-Telecommunications,Satellite,76,0.3953855246033916,Industry
-Materials,Chemicals,29,0.46073018623837136,Industry
-Materials,Metals & Mining,65,0.30297706591284934,Industry
-Materials,Construction Materials,90,0.3542472838374473,Industry
-Industrials,Aerospace & Defense,62,0.6896503402090766,Industry
-Industrials,Machinery,86,0.45258126560366785,Industry
-Industrials,Industrial Services,35,0.20080510523963502,Industry
-Consumer Services,Retail,85,0.608308865716521,Industry
-Consumer Services,Travel & Leisure,86,0.1084736219616177,Industry
-Consumer Services,Media,67,0.6864148822704869,Industry
-Transportation,Airlines,87,0.9571889230131951,Industry
-Transportation,Railroads,70,0.6447067381817138,Industry
-Transportation,Logistics,66,0.7856636736972443,Industry
+,Hillsdale,800,0.48707694350330916,Overall
+Hillsdale,HiTech,73,0.9493215777104055,Sector
+Hillsdale,Agriculture,49,0.3064611854706817,Sector
+Hillsdale,Transportation,61,0.3491726340986443,Sector
+Hillsdale,Consumer_Products,28,0.164176319503055,Sector
+Hillsdale,Unassigned,83,0.8977634462107971,Sector
+Hillsdale,Communication,12,0.6385805603195233,Sector
+Hillsdale,Trade,85,0.0505020581144352,Sector
+Hillsdale,Business_Services,48,0.3104373588511429,Sector
+Hillsdale,Business_Products,62,0.9455601385685241,Sector
+Hillsdale,Construction,37,0.6233236220537325,Sector
+Hillsdale,Services,48,0.1090404544723933,Sector
+Hillsdale,Mining,94,0.23638791609020193,Sector
+Hillsdale,Health_Care,2,0.4143679913161711,Sector
+Hillsdale,EnergyExpL_Prod,26,0.8785449246735691,Sector
+Hillsdale,Utilities,92,0.43251396509636053,Sector

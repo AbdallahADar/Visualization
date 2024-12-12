@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wood,2004,0.6231543231315894,Overall
-Wood,Technology,120,0.398796656695409,Sector
-Wood,Healthcare,210,0.06268029140337461,Sector
-Wood,Finance,83,0.5730572313113952,Sector
-Wood,Energy,175,0.8689438728312957,Sector
-Wood,Consumer Goods,205,0.9833618538387514,Sector
-Wood,Utilities,181,0.8502224669746475,Sector
-Wood,Real Estate,239,0.5286112015323056,Sector
-Wood,Telecommunications,115,0.7388960983961788,Sector
-Wood,Materials,184,0.6540319556747349,Sector
-Wood,Industrials,90,0.658324306829251,Sector
-Wood,Consumer Services,212,0.6700665842090244,Sector
-Wood,Transportation,190,0.22524347353666985,Sector
-Technology,Software,38,0.4444014606496801,Industry
-Technology,Hardware,27,0.3054440347401113,Industry
-Technology,IT Services,55,0.8699799617109474,Industry
-Healthcare,Pharmaceuticals,33,0.494530448986952,Industry
-Healthcare,Medical Devices,86,0.6770309279346881,Industry
-Healthcare,Healthcare Services,91,0.00991707602008196,Industry
-Finance,Banking,45,0.7841565350709754,Industry
-Finance,Insurance,21,0.8965306953729911,Industry
-Finance,Investment Services,17,0.002187863538872792,Industry
-Energy,Oil & Gas,28,0.01920705285471158,Industry
-Energy,Renewable Energy,98,0.08227788822821225,Industry
-Energy,Energy Exploration,49,0.6472184670209924,Industry
-Consumer Goods,Food & Beverage,67,0.1827878084068858,Industry
-Consumer Goods,Household Products,68,0.5446644592808629,Industry
-Consumer Goods,Apparel,70,0.1476334508851911,Industry
-Utilities,Electric,90,0.8721234363264798,Industry
-Utilities,Water,55,0.9089752678309415,Industry
-Utilities,Gas,36,0.8337927022859373,Industry
-Real Estate,Residential,94,0.8558017820997293,Industry
-Real Estate,Commercial,63,0.4810543732473903,Industry
-Real Estate,Industrial,82,0.33714680025289234,Industry
-Telecommunications,Mobile,16,0.7221840894021262,Industry
-Telecommunications,Broadband,98,0.048251730211638866,Industry
-Telecommunications,Satellite,1,0.13606891436918622,Industry
-Materials,Chemicals,22,0.8345126957822019,Industry
-Materials,Metals & Mining,82,0.1957405173759692,Industry
-Materials,Construction Materials,80,0.3266925599875813,Industry
-Industrials,Aerospace & Defense,5,0.3881743597754108,Industry
-Industrials,Machinery,10,0.43865829006578383,Industry
-Industrials,Industrial Services,75,0.49648538074531,Industry
-Consumer Services,Retail,74,0.5754519434601224,Industry
-Consumer Services,Travel & Leisure,97,0.39752848296949006,Industry
-Consumer Services,Media,41,0.9795420288454676,Industry
-Transportation,Airlines,42,0.40272189854900253,Industry
-Transportation,Railroads,74,0.10144257369981768,Industry
-Transportation,Logistics,74,0.7236682057156393,Industry
+,Wood,909,0.4727733879303407,Overall
+Wood,HiTech,23,0.5755005343270271,Sector
+Wood,Agriculture,10,0.17913394505965408,Sector
+Wood,Transportation,23,0.2925147778996998,Sector
+Wood,Consumer_Products,59,0.5221335839285669,Sector
+Wood,Unassigned,88,0.1461470382957567,Sector
+Wood,Communication,92,0.5884114054140523,Sector
+Wood,Trade,19,0.7413999769303267,Sector
+Wood,Business_Services,41,0.8725271442954569,Sector
+Wood,Business_Products,78,0.24014633805213603,Sector
+Wood,Construction,93,0.2837025338883733,Sector
+Wood,Services,96,0.4300177735766183,Sector
+Wood,Mining,69,0.5837171776055148,Sector
+Wood,Health_Care,57,0.5128429619997038,Sector
+Wood,EnergyExpL_Prod,84,0.9556216802713394,Sector
+Wood,Utilities,77,0.16778394741088365,Sector

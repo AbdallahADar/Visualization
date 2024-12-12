@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pope,1500,0.36979247680309657,Overall
-Pope,Technology,73,0.9971738566817664,Sector
-Pope,Healthcare,138,0.22527963458413047,Sector
-Pope,Finance,136,0.4510631191930178,Sector
-Pope,Energy,68,0.6212756391791495,Sector
-Pope,Consumer Goods,141,0.948307661275379,Sector
-Pope,Utilities,226,0.5120211685406234,Sector
-Pope,Real Estate,136,0.043062020922647215,Sector
-Pope,Telecommunications,82,0.8686230871403477,Sector
-Pope,Materials,136,0.04312457613288667,Sector
-Pope,Industrials,146,0.03033696533980179,Sector
-Pope,Consumer Services,59,0.08721646318507215,Sector
-Pope,Transportation,159,0.6536577018460149,Sector
-Technology,Software,7,0.8313027386066943,Industry
-Technology,Hardware,31,0.37721917350043954,Industry
-Technology,IT Services,35,0.44634368894495313,Industry
-Healthcare,Pharmaceuticals,41,0.8468020670651382,Industry
-Healthcare,Medical Devices,66,0.6368245386621095,Industry
-Healthcare,Healthcare Services,31,0.8531377036428347,Industry
-Finance,Banking,69,0.8418317843086878,Industry
-Finance,Insurance,48,0.17715962646944183,Industry
-Finance,Investment Services,19,0.10058402467053207,Industry
-Energy,Oil & Gas,23,0.979740793530279,Industry
-Energy,Renewable Energy,10,0.07566642292053605,Industry
-Energy,Energy Exploration,35,0.5452973630712151,Industry
-Consumer Goods,Food & Beverage,57,0.845024300682007,Industry
-Consumer Goods,Household Products,81,0.10879330980575785,Industry
-Consumer Goods,Apparel,3,0.7517149962582713,Industry
-Utilities,Electric,76,0.599223578276427,Industry
-Utilities,Water,99,0.5385077168608144,Industry
-Utilities,Gas,51,0.9414128689128879,Industry
-Real Estate,Residential,81,0.3164256278336316,Industry
-Real Estate,Commercial,15,0.4122219007534471,Industry
-Real Estate,Industrial,40,0.16813412235221348,Industry
-Telecommunications,Mobile,47,0.7608916351536026,Industry
-Telecommunications,Broadband,12,0.9523814576657493,Industry
-Telecommunications,Satellite,23,0.3416630527178858,Industry
-Materials,Chemicals,39,0.5601979690483032,Industry
-Materials,Metals & Mining,86,0.6386329233389402,Industry
-Materials,Construction Materials,11,0.30195567370444454,Industry
-Industrials,Aerospace & Defense,6,0.3195852331272605,Industry
-Industrials,Machinery,82,0.2675081820039925,Industry
-Industrials,Industrial Services,58,0.15216170624890202,Industry
-Consumer Services,Retail,56,0.2448990523392076,Industry
-Consumer Services,Travel & Leisure,1,0.48509715478618054,Industry
-Consumer Services,Media,2,0.7133011909594846,Industry
-Transportation,Airlines,33,0.21236297486263755,Industry
-Transportation,Railroads,34,0.643161093698145,Industry
-Transportation,Logistics,92,0.09036040238781262,Industry
+,Pope,718,0.4966882480737686,Overall
+Pope,HiTech,10,0.9706597251174894,Sector
+Pope,Agriculture,18,0.7014094320930607,Sector
+Pope,Transportation,22,0.6161350269806629,Sector
+Pope,Consumer_Products,57,0.24372853117686033,Sector
+Pope,Unassigned,72,0.9255112919560884,Sector
+Pope,Communication,54,0.7051264973828772,Sector
+Pope,Trade,85,0.5132291851072038,Sector
+Pope,Business_Services,94,0.4235005589675581,Sector
+Pope,Business_Products,60,0.5755144448640993,Sector
+Pope,Construction,14,0.21229166991747506,Sector
+Pope,Services,90,0.08776274656276972,Sector
+Pope,Mining,11,0.42383921422750814,Sector
+Pope,Health_Care,89,0.389718649267749,Sector
+Pope,EnergyExpL_Prod,15,0.4390522017258083,Sector
+Pope,Utilities,27,0.22284454575931978,Sector

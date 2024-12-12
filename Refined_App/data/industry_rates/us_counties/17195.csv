@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Whiteside,1850,0.3075100031302206,Overall
-Whiteside,Technology,178,0.9861087483255422,Sector
-Whiteside,Healthcare,70,0.13411582448845327,Sector
-Whiteside,Finance,133,0.7985002962781829,Sector
-Whiteside,Energy,136,0.7723083174538784,Sector
-Whiteside,Consumer Goods,168,0.5630690695503308,Sector
-Whiteside,Utilities,125,0.9634432307969433,Sector
-Whiteside,Real Estate,174,0.9005545394116665,Sector
-Whiteside,Telecommunications,158,0.056852308988834754,Sector
-Whiteside,Materials,192,0.9378564439488934,Sector
-Whiteside,Industrials,129,0.41785582406994004,Sector
-Whiteside,Consumer Services,195,0.8484095816771883,Sector
-Whiteside,Transportation,192,0.7715687477299967,Sector
-Technology,Software,37,0.7819776301755933,Industry
-Technology,Hardware,95,0.3464736348296691,Industry
-Technology,IT Services,46,0.7251195377554068,Industry
-Healthcare,Pharmaceuticals,54,0.3682837807570062,Industry
-Healthcare,Medical Devices,4,0.1659542734119177,Industry
-Healthcare,Healthcare Services,12,0.2332664671743525,Industry
-Finance,Banking,43,0.8562865926468898,Industry
-Finance,Insurance,64,0.08939747846666257,Industry
-Finance,Investment Services,26,0.8252820228370327,Industry
-Energy,Oil & Gas,32,0.06884285884993369,Industry
-Energy,Renewable Energy,48,0.9534570281599679,Industry
-Energy,Energy Exploration,56,0.8971484744413206,Industry
-Consumer Goods,Food & Beverage,85,0.6204994056577499,Industry
-Consumer Goods,Household Products,63,0.6653516046151776,Industry
-Consumer Goods,Apparel,20,0.4397093184286228,Industry
-Utilities,Electric,56,0.9038349784800108,Industry
-Utilities,Water,54,0.6294224232334484,Industry
-Utilities,Gas,15,0.8489685454033389,Industry
-Real Estate,Residential,37,0.28498382397106203,Industry
-Real Estate,Commercial,79,0.7062958882442913,Industry
-Real Estate,Industrial,58,0.6168643109896847,Industry
-Telecommunications,Mobile,74,0.3646821839589015,Industry
-Telecommunications,Broadband,1,0.6738981494262123,Industry
-Telecommunications,Satellite,83,0.6426403117316805,Industry
-Materials,Chemicals,40,0.7944328123959246,Industry
-Materials,Metals & Mining,80,0.21805542611150897,Industry
-Materials,Construction Materials,72,0.20324555426350777,Industry
-Industrials,Aerospace & Defense,43,0.573167050020519,Industry
-Industrials,Machinery,1,0.09346080967762282,Industry
-Industrials,Industrial Services,85,0.16920716909778022,Industry
-Consumer Services,Retail,92,0.5904524431707324,Industry
-Consumer Services,Travel & Leisure,26,0.7324386338623686,Industry
-Consumer Services,Media,77,0.8737781025600102,Industry
-Transportation,Airlines,99,0.8037603494398062,Industry
-Transportation,Railroads,52,0.9004662148903525,Industry
-Transportation,Logistics,41,0.5106700286925357,Industry
+,Whiteside,640,0.46757103689634144,Overall
+Whiteside,HiTech,74,0.2426768385569078,Sector
+Whiteside,Agriculture,19,0.6116133797111443,Sector
+Whiteside,Transportation,1,0.5275609560446772,Sector
+Whiteside,Consumer_Products,92,0.726352797114051,Sector
+Whiteside,Unassigned,15,0.4691205636688198,Sector
+Whiteside,Communication,52,0.7361747957013512,Sector
+Whiteside,Trade,47,0.2842060593503847,Sector
+Whiteside,Business_Services,21,0.4211857620662717,Sector
+Whiteside,Business_Products,85,0.6604024556434475,Sector
+Whiteside,Construction,10,0.09268867194150854,Sector
+Whiteside,Services,91,0.6652778661064646,Sector
+Whiteside,Mining,17,0.234685043213276,Sector
+Whiteside,Health_Care,2,0.2355591953489128,Sector
+Whiteside,EnergyExpL_Prod,43,0.6192817149344344,Sector
+Whiteside,Utilities,71,0.48677945404347,Sector

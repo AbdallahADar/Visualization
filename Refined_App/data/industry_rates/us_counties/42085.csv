@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mercer,1789,0.1397555294073184,Overall
-Mercer,Technology,195,0.74200762289449,Sector
-Mercer,Healthcare,167,0.09788646264866763,Sector
-Mercer,Finance,127,0.014038794327702497,Sector
-Mercer,Energy,164,0.8855133003122151,Sector
-Mercer,Consumer Goods,170,0.9403350994889177,Sector
-Mercer,Utilities,100,0.5620669499221589,Sector
-Mercer,Real Estate,54,0.17564127864296064,Sector
-Mercer,Telecommunications,202,0.5343677558893922,Sector
-Mercer,Materials,138,0.5479576072331914,Sector
-Mercer,Industrials,169,0.086634280006199,Sector
-Mercer,Consumer Services,167,0.13092830290888757,Sector
-Mercer,Transportation,136,0.717668823777934,Sector
-Technology,Software,94,0.6493352438117266,Industry
-Technology,Hardware,91,0.6402086762308787,Industry
-Technology,IT Services,10,0.7926179373949461,Industry
-Healthcare,Pharmaceuticals,80,0.8939659044950765,Industry
-Healthcare,Medical Devices,27,0.9246546818137136,Industry
-Healthcare,Healthcare Services,60,0.44168465640691035,Industry
-Finance,Banking,90,0.9374919321941402,Industry
-Finance,Insurance,4,0.013836471203771072,Industry
-Finance,Investment Services,33,0.7276676209324994,Industry
-Energy,Oil & Gas,69,0.3637496463603458,Industry
-Energy,Renewable Energy,43,0.5485905998949427,Industry
-Energy,Energy Exploration,52,0.7558794906989406,Industry
-Consumer Goods,Food & Beverage,57,0.8513362741867787,Industry
-Consumer Goods,Household Products,34,0.26409051212121504,Industry
-Consumer Goods,Apparel,79,0.3749404668845515,Industry
-Utilities,Electric,25,0.878563396594202,Industry
-Utilities,Water,9,0.5578752350210853,Industry
-Utilities,Gas,66,0.2747547667707444,Industry
-Real Estate,Residential,40,0.8994799990727194,Industry
-Real Estate,Commercial,5,0.3179973329758351,Industry
-Real Estate,Industrial,9,0.5954245891050317,Industry
-Telecommunications,Mobile,96,0.08629472887389322,Industry
-Telecommunications,Broadband,41,0.5170969566519861,Industry
-Telecommunications,Satellite,65,0.5695808488102273,Industry
-Materials,Chemicals,66,0.2440546816241932,Industry
-Materials,Metals & Mining,66,0.1349008833092984,Industry
-Materials,Construction Materials,6,0.15367894000911386,Industry
-Industrials,Aerospace & Defense,69,0.9155878551435725,Industry
-Industrials,Machinery,69,0.5164159952144025,Industry
-Industrials,Industrial Services,31,0.8125488144405237,Industry
-Consumer Services,Retail,7,0.212964596510128,Industry
-Consumer Services,Travel & Leisure,81,0.3950665224498022,Industry
-Consumer Services,Media,79,0.24617389407255363,Industry
-Transportation,Airlines,7,0.11100519063748382,Industry
-Transportation,Railroads,58,0.7226330977135244,Industry
-Transportation,Logistics,71,0.32748193996166,Industry
+,Mercer,868,0.49943519857967833,Overall
+Mercer,HiTech,95,0.24089540267048326,Sector
+Mercer,Agriculture,6,0.6419969803189437,Sector
+Mercer,Transportation,9,0.48233986091226877,Sector
+Mercer,Consumer_Products,36,0.7531801445917647,Sector
+Mercer,Unassigned,94,0.3514017523013129,Sector
+Mercer,Communication,95,0.21586174368798328,Sector
+Mercer,Trade,94,0.06000979712810883,Sector
+Mercer,Business_Services,88,0.13050128529929006,Sector
+Mercer,Business_Products,51,0.6512825349192263,Sector
+Mercer,Construction,0,0.5363716807284625,Sector
+Mercer,Services,88,0.7430396603160223,Sector
+Mercer,Mining,93,0.674291028874696,Sector
+Mercer,Health_Care,37,0.5561050733330999,Sector
+Mercer,EnergyExpL_Prod,44,0.7774109253678887,Sector
+Mercer,Utilities,38,0.6768401082456245,Sector

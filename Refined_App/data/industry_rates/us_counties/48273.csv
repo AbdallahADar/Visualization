@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kleberg,1701,0.5628194694743743,Overall
-Kleberg,Technology,196,0.4035822116102509,Sector
-Kleberg,Healthcare,167,0.8598211713506718,Sector
-Kleberg,Finance,117,0.01927704113626927,Sector
-Kleberg,Energy,96,0.3250447377937321,Sector
-Kleberg,Consumer Goods,162,0.825454624380956,Sector
-Kleberg,Utilities,57,0.26915736001516,Sector
-Kleberg,Real Estate,253,0.23288120321105188,Sector
-Kleberg,Telecommunications,101,0.2831101921678406,Sector
-Kleberg,Materials,102,0.3361908926532796,Sector
-Kleberg,Industrials,129,0.7000710477076599,Sector
-Kleberg,Consumer Services,178,0.6384693178917976,Sector
-Kleberg,Transportation,143,0.2803528617646007,Sector
-Technology,Software,46,0.42229972857663045,Industry
-Technology,Hardware,59,0.8670681111084566,Industry
-Technology,IT Services,91,0.377181110634341,Industry
-Healthcare,Pharmaceuticals,78,0.7040865144905177,Industry
-Healthcare,Medical Devices,22,0.4329903182536333,Industry
-Healthcare,Healthcare Services,67,0.5615309494355698,Industry
-Finance,Banking,24,0.8014748676140292,Industry
-Finance,Insurance,74,0.782941090960819,Industry
-Finance,Investment Services,19,0.08961312782626552,Industry
-Energy,Oil & Gas,1,0.31097089733050565,Industry
-Energy,Renewable Energy,67,0.832404026762164,Industry
-Energy,Energy Exploration,28,0.29603171677712603,Industry
-Consumer Goods,Food & Beverage,61,0.055239498071847803,Industry
-Consumer Goods,Household Products,56,0.7027486278727996,Industry
-Consumer Goods,Apparel,45,0.8414552652344824,Industry
-Utilities,Electric,29,0.9554064347080724,Industry
-Utilities,Water,11,0.5388882108891331,Industry
-Utilities,Gas,17,0.9662937415012267,Industry
-Real Estate,Residential,75,0.19235631049646829,Industry
-Real Estate,Commercial,95,0.6512822149896004,Industry
-Real Estate,Industrial,83,0.4195489476151928,Industry
-Telecommunications,Mobile,41,0.15289531957093894,Industry
-Telecommunications,Broadband,10,0.3982551606071425,Industry
-Telecommunications,Satellite,50,0.6116114353393319,Industry
-Materials,Chemicals,15,0.7201370663619282,Industry
-Materials,Metals & Mining,73,0.9636590391910006,Industry
-Materials,Construction Materials,14,0.8517529632130296,Industry
-Industrials,Aerospace & Defense,40,0.9428597216966221,Industry
-Industrials,Machinery,18,0.9340254417452374,Industry
-Industrials,Industrial Services,71,0.2282814476587719,Industry
-Consumer Services,Retail,55,0.30940580472566814,Industry
-Consumer Services,Travel & Leisure,53,0.13511216823743533,Industry
-Consumer Services,Media,70,0.01402960405325493,Industry
-Transportation,Airlines,55,0.6824837201150542,Industry
-Transportation,Railroads,33,0.007937367072642032,Industry
-Transportation,Logistics,55,0.5030737894728127,Industry
+,Kleberg,642,0.48497241541250163,Overall
+Kleberg,HiTech,48,0.8672632764027417,Sector
+Kleberg,Agriculture,21,0.0731007669224989,Sector
+Kleberg,Transportation,62,0.3257699663231983,Sector
+Kleberg,Consumer_Products,32,0.3559547443458867,Sector
+Kleberg,Unassigned,18,0.3030950752392443,Sector
+Kleberg,Communication,24,0.5973159162232335,Sector
+Kleberg,Trade,5,0.5089307085750974,Sector
+Kleberg,Business_Services,15,0.7611505297244487,Sector
+Kleberg,Business_Products,16,0.006193585551353964,Sector
+Kleberg,Construction,71,0.757757438889562,Sector
+Kleberg,Services,61,0.2995350890816241,Sector
+Kleberg,Mining,42,0.6192586453714932,Sector
+Kleberg,Health_Care,90,0.5334482442227171,Sector
+Kleberg,EnergyExpL_Prod,72,0.2724148911496165,Sector
+Kleberg,Utilities,65,0.9933973531648072,Sector

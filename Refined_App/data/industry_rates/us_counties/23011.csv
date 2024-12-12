@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kennebec,1888,0.7383595213017933,Overall
-Kennebec,Technology,232,0.015608562702410622,Sector
-Kennebec,Healthcare,80,0.6490505452709955,Sector
-Kennebec,Finance,140,0.9822756669913425,Sector
-Kennebec,Energy,120,0.07004874731772659,Sector
-Kennebec,Consumer Goods,188,0.7793700735248339,Sector
-Kennebec,Utilities,200,0.8515917203704622,Sector
-Kennebec,Real Estate,249,0.5634943110723207,Sector
-Kennebec,Telecommunications,198,0.0704254847509801,Sector
-Kennebec,Materials,170,0.7861230207782008,Sector
-Kennebec,Industrials,118,0.7746524681660926,Sector
-Kennebec,Consumer Services,93,0.7569120022497081,Sector
-Kennebec,Transportation,100,0.7489420468051584,Sector
-Technology,Software,77,0.012853355270172728,Industry
-Technology,Hardware,97,0.44964081304509496,Industry
-Technology,IT Services,58,0.7996971143037036,Industry
-Healthcare,Pharmaceuticals,30,0.7350020757815326,Industry
-Healthcare,Medical Devices,1,0.5227258262792621,Industry
-Healthcare,Healthcare Services,49,0.3476632941076422,Industry
-Finance,Banking,55,0.15293271199112268,Industry
-Finance,Insurance,36,0.8450690445179576,Industry
-Finance,Investment Services,49,0.7176038174741092,Industry
-Energy,Oil & Gas,18,0.6083119209448722,Industry
-Energy,Renewable Energy,56,0.006880726728102249,Industry
-Energy,Energy Exploration,46,0.03193395037963809,Industry
-Consumer Goods,Food & Beverage,42,0.28352211118123827,Industry
-Consumer Goods,Household Products,83,0.5138786468069242,Industry
-Consumer Goods,Apparel,63,0.4409536228043297,Industry
-Utilities,Electric,27,0.018974236130275934,Industry
-Utilities,Water,83,0.6394484703650981,Industry
-Utilities,Gas,90,0.09220294370666438,Industry
-Real Estate,Residential,90,0.8968579328060702,Industry
-Real Estate,Commercial,75,0.07627267966749485,Industry
-Real Estate,Industrial,84,0.07856712478423444,Industry
-Telecommunications,Mobile,33,0.18319159772798144,Industry
-Telecommunications,Broadband,97,0.2590924228332365,Industry
-Telecommunications,Satellite,68,0.5298403868899308,Industry
-Materials,Chemicals,12,0.3823499673169358,Industry
-Materials,Metals & Mining,90,0.5822321613869091,Industry
-Materials,Construction Materials,68,0.09653722487836336,Industry
-Industrials,Aerospace & Defense,44,0.10954899048567335,Industry
-Industrials,Machinery,29,0.9517696182035881,Industry
-Industrials,Industrial Services,45,0.9555714491744152,Industry
-Consumer Services,Retail,29,0.5403636598431145,Industry
-Consumer Services,Travel & Leisure,52,0.167195420166369,Industry
-Consumer Services,Media,12,0.267848412491255,Industry
-Transportation,Airlines,76,0.29648072848715024,Industry
-Transportation,Railroads,19,0.4296311734728455,Industry
-Transportation,Logistics,5,0.2472657623304776,Industry
+,Kennebec,749,0.6241697797757618,Overall
+Kennebec,HiTech,34,0.46656747013011424,Sector
+Kennebec,Agriculture,47,0.5611718806073852,Sector
+Kennebec,Transportation,35,0.10543052193424052,Sector
+Kennebec,Consumer_Products,42,0.5041071461687382,Sector
+Kennebec,Unassigned,51,0.8955933087907065,Sector
+Kennebec,Communication,94,0.7926635756749955,Sector
+Kennebec,Trade,28,0.3026285201551788,Sector
+Kennebec,Business_Services,84,0.8325680714551134,Sector
+Kennebec,Business_Products,51,0.913840316607807,Sector
+Kennebec,Construction,98,0.557051947825567,Sector
+Kennebec,Services,25,0.8686106003628538,Sector
+Kennebec,Mining,14,0.8504836546790473,Sector
+Kennebec,Health_Care,96,0.772728636782457,Sector
+Kennebec,EnergyExpL_Prod,9,0.042262893440801474,Sector
+Kennebec,Utilities,41,0.8968381520214195,Sector

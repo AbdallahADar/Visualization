@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Adams,1651,0.08269954114609013,Overall
-Adams,Technology,128,0.9317353649265229,Sector
-Adams,Healthcare,108,0.8397014444358656,Sector
-Adams,Finance,123,0.804193980409008,Sector
-Adams,Energy,63,0.17960656777207407,Sector
-Adams,Consumer Goods,87,0.07933536378625872,Sector
-Adams,Utilities,161,0.9039875755750783,Sector
-Adams,Real Estate,123,0.4716827744768656,Sector
-Adams,Telecommunications,188,0.9104853702139456,Sector
-Adams,Materials,102,0.6850506833543187,Sector
-Adams,Industrials,201,0.5158883895910373,Sector
-Adams,Consumer Services,238,0.6904467321432535,Sector
-Adams,Transportation,129,0.8331447299431098,Sector
-Technology,Software,69,0.09262736525165538,Industry
-Technology,Hardware,48,0.1429314752801235,Industry
-Technology,IT Services,11,0.7834748774615005,Industry
-Healthcare,Pharmaceuticals,35,0.05402960752731434,Industry
-Healthcare,Medical Devices,30,0.9047834953335192,Industry
-Healthcare,Healthcare Services,43,0.43067833369024233,Industry
-Finance,Banking,35,0.4964284636066354,Industry
-Finance,Insurance,22,0.1607921274811287,Industry
-Finance,Investment Services,66,0.5156414381280885,Industry
-Energy,Oil & Gas,15,0.05556926940604323,Industry
-Energy,Renewable Energy,36,0.1289726121019672,Industry
-Energy,Energy Exploration,12,0.8013343828667995,Industry
-Consumer Goods,Food & Beverage,0,0.8695475259743093,Industry
-Consumer Goods,Household Products,1,0.32027831226512093,Industry
-Consumer Goods,Apparel,86,0.715175854847354,Industry
-Utilities,Electric,99,0.870339702272685,Industry
-Utilities,Water,13,0.19365576154252373,Industry
-Utilities,Gas,49,0.6053179161802265,Industry
-Real Estate,Residential,10,0.22513949007377654,Industry
-Real Estate,Commercial,61,0.9609460786526598,Industry
-Real Estate,Industrial,52,0.34930387986494316,Industry
-Telecommunications,Mobile,0,0.23333721295758925,Industry
-Telecommunications,Broadband,91,0.9687831281462568,Industry
-Telecommunications,Satellite,97,0.02594712127490295,Industry
-Materials,Chemicals,62,0.11514622379748762,Industry
-Materials,Metals & Mining,2,0.39137754734199437,Industry
-Materials,Construction Materials,38,0.6417178168784935,Industry
-Industrials,Aerospace & Defense,57,0.18054239719207743,Industry
-Industrials,Machinery,69,0.44502041044887086,Industry
-Industrials,Industrial Services,75,0.8307448345188702,Industry
-Consumer Services,Retail,78,0.170498846529344,Industry
-Consumer Services,Travel & Leisure,84,0.4838155179147211,Industry
-Consumer Services,Media,76,0.32524124429429624,Industry
-Transportation,Airlines,37,0.8861521627756941,Industry
-Transportation,Railroads,3,0.434670701359684,Industry
-Transportation,Logistics,89,0.44434043433042236,Industry
+,Adams,762,0.5546257645532493,Overall
+Adams,HiTech,92,0.4792962851840157,Sector
+Adams,Agriculture,3,0.1943936243469342,Sector
+Adams,Transportation,95,0.2709753197694811,Sector
+Adams,Consumer_Products,88,0.5258898046012006,Sector
+Adams,Unassigned,18,0.8604678630841203,Sector
+Adams,Communication,84,0.8662917298454385,Sector
+Adams,Trade,78,0.5918276192808682,Sector
+Adams,Business_Services,64,0.20712872385366787,Sector
+Adams,Business_Products,20,0.963139014618,Sector
+Adams,Construction,54,0.9037919854651032,Sector
+Adams,Services,25,0.40679407199618367,Sector
+Adams,Mining,15,0.9396024608525424,Sector
+Adams,Health_Care,56,0.3558197099538457,Sector
+Adams,EnergyExpL_Prod,3,0.27156386518624354,Sector
+Adams,Utilities,67,0.4824043902610946,Sector

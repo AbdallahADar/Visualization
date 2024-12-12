@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hardin,1514,0.11990872925212315,Overall
-Hardin,Technology,180,0.3325613283578961,Sector
-Hardin,Healthcare,148,0.9974266418243434,Sector
-Hardin,Finance,223,0.45643806298699363,Sector
-Hardin,Energy,179,0.757347358863519,Sector
-Hardin,Consumer Goods,130,0.2088395185683205,Sector
-Hardin,Utilities,80,0.971363575568788,Sector
-Hardin,Real Estate,117,0.5715984340806046,Sector
-Hardin,Telecommunications,136,0.24969077178633714,Sector
-Hardin,Materials,120,0.46324236080202985,Sector
-Hardin,Industrials,75,0.8819291202301748,Sector
-Hardin,Consumer Services,67,0.5703512304605147,Sector
-Hardin,Transportation,59,0.07094577666918644,Sector
-Technology,Software,54,0.5348641554750554,Industry
-Technology,Hardware,83,0.6943218252827047,Industry
-Technology,IT Services,43,0.6094882122421609,Industry
-Healthcare,Pharmaceuticals,0,0.5118709524057578,Industry
-Healthcare,Medical Devices,91,0.7989549003033619,Industry
-Healthcare,Healthcare Services,57,0.0824464697008983,Industry
-Finance,Banking,31,0.4318857560410452,Industry
-Finance,Insurance,94,0.33549178854180906,Industry
-Finance,Investment Services,98,0.7402445349167536,Industry
-Energy,Oil & Gas,78,0.5221641386370407,Industry
-Energy,Renewable Energy,49,0.34118529537490105,Industry
-Energy,Energy Exploration,52,0.0600235062681479,Industry
-Consumer Goods,Food & Beverage,65,0.9992275949761291,Industry
-Consumer Goods,Household Products,16,0.2783583253994245,Industry
-Consumer Goods,Apparel,49,0.4173177365123528,Industry
-Utilities,Electric,49,0.15103622701113095,Industry
-Utilities,Water,3,0.23391179220693203,Industry
-Utilities,Gas,28,0.6607808612709585,Industry
-Real Estate,Residential,58,0.4574988717606089,Industry
-Real Estate,Commercial,38,0.6890052638617385,Industry
-Real Estate,Industrial,21,0.5437919002446069,Industry
-Telecommunications,Mobile,23,0.2761251483613535,Industry
-Telecommunications,Broadband,95,0.7093604347716216,Industry
-Telecommunications,Satellite,18,0.43739950823605034,Industry
-Materials,Chemicals,13,0.3260029565366538,Industry
-Materials,Metals & Mining,91,0.0028852264784711146,Industry
-Materials,Construction Materials,16,0.16672220414994798,Industry
-Industrials,Aerospace & Defense,4,0.759731162235136,Industry
-Industrials,Machinery,43,0.018538152631086158,Industry
-Industrials,Industrial Services,28,0.3206791869908774,Industry
-Consumer Services,Retail,17,0.3937238771318713,Industry
-Consumer Services,Travel & Leisure,29,0.9236859716702349,Industry
-Consumer Services,Media,21,0.6591199494731793,Industry
-Transportation,Airlines,0,0.006189802190934124,Industry
-Transportation,Railroads,42,0.7132514984055304,Industry
-Transportation,Logistics,17,0.36251965640618544,Industry
+,Hardin,727,0.4490063335142169,Overall
+Hardin,HiTech,86,0.17950232735671467,Sector
+Hardin,Agriculture,28,0.0681132774305051,Sector
+Hardin,Transportation,21,0.1398837266691808,Sector
+Hardin,Consumer_Products,51,0.15891312321887485,Sector
+Hardin,Unassigned,44,0.4718476932002462,Sector
+Hardin,Communication,77,0.9206371937592815,Sector
+Hardin,Trade,90,0.06233802864636995,Sector
+Hardin,Business_Services,59,0.3868934498508717,Sector
+Hardin,Business_Products,35,0.6877326970863182,Sector
+Hardin,Construction,0,0.6204608937858582,Sector
+Hardin,Services,36,0.9405151333473305,Sector
+Hardin,Mining,73,0.00792032468600845,Sector
+Hardin,Health_Care,51,0.6492128506530861,Sector
+Hardin,EnergyExpL_Prod,63,0.7465382096158454,Sector
+Hardin,Utilities,13,0.6945860734067615,Sector

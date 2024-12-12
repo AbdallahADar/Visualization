@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Saunders,1615,0.6707171779828562,Overall
-Saunders,Technology,182,0.7714066861262123,Sector
-Saunders,Healthcare,94,0.5487752306861929,Sector
-Saunders,Finance,40,0.15018046008956432,Sector
-Saunders,Energy,148,0.29986281029928463,Sector
-Saunders,Consumer Goods,184,0.735414682121141,Sector
-Saunders,Utilities,126,0.9090155064548506,Sector
-Saunders,Real Estate,140,0.5652742748759642,Sector
-Saunders,Telecommunications,119,0.9820697314786907,Sector
-Saunders,Materials,131,0.2337949255091637,Sector
-Saunders,Industrials,136,0.9032219417443935,Sector
-Saunders,Consumer Services,237,0.7287788164110526,Sector
-Saunders,Transportation,78,0.44846639511856845,Sector
-Technology,Software,73,0.8267801860699527,Industry
-Technology,Hardware,24,0.7811090484627708,Industry
-Technology,IT Services,85,0.46977215267181105,Industry
-Healthcare,Pharmaceuticals,24,0.6238060588410618,Industry
-Healthcare,Medical Devices,58,0.7724765083351627,Industry
-Healthcare,Healthcare Services,12,0.207979751644508,Industry
-Finance,Banking,15,0.9966397435526991,Industry
-Finance,Insurance,14,0.40122163491338236,Industry
-Finance,Investment Services,11,0.9454074254286018,Industry
-Energy,Oil & Gas,1,0.8014354467237665,Industry
-Energy,Renewable Energy,59,0.8790065588563815,Industry
-Energy,Energy Exploration,88,0.0984150856436301,Industry
-Consumer Goods,Food & Beverage,73,0.6115812594121935,Industry
-Consumer Goods,Household Products,64,0.35978520866152697,Industry
-Consumer Goods,Apparel,47,0.8439196060219497,Industry
-Utilities,Electric,20,0.4202849017426833,Industry
-Utilities,Water,42,0.5999195271799749,Industry
-Utilities,Gas,64,0.8870581709580827,Industry
-Real Estate,Residential,77,0.42542836114726834,Industry
-Real Estate,Commercial,9,0.03843782221376946,Industry
-Real Estate,Industrial,54,0.8660666383535827,Industry
-Telecommunications,Mobile,78,0.9894673779390362,Industry
-Telecommunications,Broadband,33,0.8611912269170404,Industry
-Telecommunications,Satellite,8,0.36399300268474166,Industry
-Materials,Chemicals,39,0.7261960384367948,Industry
-Materials,Metals & Mining,72,0.3374164231371256,Industry
-Materials,Construction Materials,20,0.5210697951575833,Industry
-Industrials,Aerospace & Defense,1,0.25237744479294255,Industry
-Industrials,Machinery,99,0.7256960518667405,Industry
-Industrials,Industrial Services,36,0.5404166000289203,Industry
-Consumer Services,Retail,68,0.8440646087809582,Industry
-Consumer Services,Travel & Leisure,72,0.750048678743958,Industry
-Consumer Services,Media,97,0.47480410993941735,Industry
-Transportation,Airlines,0,0.9938773612278354,Industry
-Transportation,Railroads,21,0.5495876636606134,Industry
-Transportation,Logistics,57,0.5402993639303542,Industry
+,Saunders,796,0.4411917522130686,Overall
+Saunders,HiTech,29,0.14919797776226162,Sector
+Saunders,Agriculture,79,0.6790173694755482,Sector
+Saunders,Transportation,76,0.6600179964335114,Sector
+Saunders,Consumer_Products,1,0.07729280408483052,Sector
+Saunders,Unassigned,85,0.9949543742253218,Sector
+Saunders,Communication,92,0.645598526586789,Sector
+Saunders,Trade,45,0.2957262495338736,Sector
+Saunders,Business_Services,21,0.06971985503702349,Sector
+Saunders,Business_Products,98,0.21581403821002076,Sector
+Saunders,Construction,36,0.34403152304274487,Sector
+Saunders,Services,43,0.07721322888394122,Sector
+Saunders,Mining,50,0.7342739619673976,Sector
+Saunders,Health_Care,25,0.695155981005626,Sector
+Saunders,EnergyExpL_Prod,32,0.27710811460084894,Sector
+Saunders,Utilities,84,0.7027542823462904,Sector

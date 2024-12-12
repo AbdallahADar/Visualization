@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Yamhill,1563,0.9130528257268476,Overall
-Yamhill,Technology,151,0.00023426994648667598,Sector
-Yamhill,Healthcare,35,0.8511310848319824,Sector
-Yamhill,Finance,117,0.7815189385967921,Sector
-Yamhill,Energy,214,0.6040153376868276,Sector
-Yamhill,Consumer Goods,183,0.05866147312453418,Sector
-Yamhill,Utilities,123,0.3763563870498384,Sector
-Yamhill,Real Estate,77,0.43833321950515536,Sector
-Yamhill,Telecommunications,98,0.9514856210336639,Sector
-Yamhill,Materials,112,0.9897435742777527,Sector
-Yamhill,Industrials,195,0.917065970334444,Sector
-Yamhill,Consumer Services,160,0.0791517980285864,Sector
-Yamhill,Transportation,98,0.23978459640068595,Sector
-Technology,Software,14,0.6335819239573359,Industry
-Technology,Hardware,87,0.5485499812775632,Industry
-Technology,IT Services,50,0.0006808323526502624,Industry
-Healthcare,Pharmaceuticals,24,0.04122280216486374,Industry
-Healthcare,Medical Devices,10,0.2379913790164262,Industry
-Healthcare,Healthcare Services,1,0.4019112997439427,Industry
-Finance,Banking,17,0.09896499786528079,Industry
-Finance,Insurance,60,0.2552991417539663,Industry
-Finance,Investment Services,40,0.3523886525999025,Industry
-Energy,Oil & Gas,93,0.3945284459994566,Industry
-Energy,Renewable Energy,38,0.0003061234877452801,Industry
-Energy,Energy Exploration,83,0.7705399475479955,Industry
-Consumer Goods,Food & Beverage,67,0.32663964115667665,Industry
-Consumer Goods,Household Products,49,0.562378637477542,Industry
-Consumer Goods,Apparel,67,0.13228755241215184,Industry
-Utilities,Electric,59,0.2902250094343033,Industry
-Utilities,Water,2,0.8857443548153447,Industry
-Utilities,Gas,62,0.10569090491873612,Industry
-Real Estate,Residential,44,0.7975841050333128,Industry
-Real Estate,Commercial,23,0.6734980429033747,Industry
-Real Estate,Industrial,10,0.7175644705100719,Industry
-Telecommunications,Mobile,48,0.3414478642596136,Industry
-Telecommunications,Broadband,21,0.8302488516305913,Industry
-Telecommunications,Satellite,29,0.014589827268676192,Industry
-Materials,Chemicals,82,0.9265201129776613,Industry
-Materials,Metals & Mining,16,0.12426486908859391,Industry
-Materials,Construction Materials,14,0.07567760058093387,Industry
-Industrials,Aerospace & Defense,71,0.4781037075870286,Industry
-Industrials,Machinery,36,0.9376694223000448,Industry
-Industrials,Industrial Services,88,0.4502507696761563,Industry
-Consumer Services,Retail,94,0.9669857768674114,Industry
-Consumer Services,Travel & Leisure,53,0.9540013592064684,Industry
-Consumer Services,Media,13,0.720514607216046,Industry
-Transportation,Airlines,6,0.943274937590354,Industry
-Transportation,Railroads,51,0.7371315787094037,Industry
-Transportation,Logistics,41,0.897378557479707,Industry
+,Yamhill,933,0.3466274095834301,Overall
+Yamhill,HiTech,55,0.9609998368942908,Sector
+Yamhill,Agriculture,40,0.2592465753226071,Sector
+Yamhill,Transportation,80,0.10759538473028374,Sector
+Yamhill,Consumer_Products,94,0.24748973715933642,Sector
+Yamhill,Unassigned,57,0.6056290649453342,Sector
+Yamhill,Communication,58,0.15817126339129517,Sector
+Yamhill,Trade,59,0.1460915636954846,Sector
+Yamhill,Business_Services,99,0.4910319588862051,Sector
+Yamhill,Business_Products,16,0.6716463718567256,Sector
+Yamhill,Construction,77,0.03566372206557633,Sector
+Yamhill,Services,53,0.2565731178572569,Sector
+Yamhill,Mining,26,0.07558452899521784,Sector
+Yamhill,Health_Care,85,0.1473873033304549,Sector
+Yamhill,EnergyExpL_Prod,80,0.8084291579362265,Sector
+Yamhill,Utilities,54,0.2278715566851558,Sector

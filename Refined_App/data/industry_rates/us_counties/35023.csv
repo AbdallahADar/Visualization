@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hidalgo,1783,0.18643376362726072,Overall
-Hidalgo,Technology,176,0.9153260398026067,Sector
-Hidalgo,Healthcare,104,0.07108559093443179,Sector
-Hidalgo,Finance,163,0.764782002900253,Sector
-Hidalgo,Energy,136,0.37690959429371207,Sector
-Hidalgo,Consumer Goods,155,0.9893158828484829,Sector
-Hidalgo,Utilities,172,0.642753226539314,Sector
-Hidalgo,Real Estate,96,0.932220397281386,Sector
-Hidalgo,Telecommunications,138,0.9901320470786602,Sector
-Hidalgo,Materials,213,0.5153381698433334,Sector
-Hidalgo,Industrials,62,0.7950100967094665,Sector
-Hidalgo,Consumer Services,131,0.03454744735075144,Sector
-Hidalgo,Transportation,237,0.817033823713477,Sector
-Technology,Software,55,0.42739525327073624,Industry
-Technology,Hardware,52,0.6603529791269307,Industry
-Technology,IT Services,69,0.8572895191929898,Industry
-Healthcare,Pharmaceuticals,38,0.9059713951467964,Industry
-Healthcare,Medical Devices,29,0.18647238654627374,Industry
-Healthcare,Healthcare Services,37,0.7000674158210006,Industry
-Finance,Banking,56,0.12413111231066687,Industry
-Finance,Insurance,22,0.024512707424853564,Industry
-Finance,Investment Services,85,0.7267211729294405,Industry
-Energy,Oil & Gas,49,0.9429298959152036,Industry
-Energy,Renewable Energy,56,0.4571705124800213,Industry
-Energy,Energy Exploration,31,0.33189302360219475,Industry
-Consumer Goods,Food & Beverage,23,0.28787506671030705,Industry
-Consumer Goods,Household Products,83,0.8895317699033857,Industry
-Consumer Goods,Apparel,49,0.13033613443553815,Industry
-Utilities,Electric,67,0.14672461113116886,Industry
-Utilities,Water,53,0.38583675728850564,Industry
-Utilities,Gas,52,0.04969521526284226,Industry
-Real Estate,Residential,74,0.4151573657996249,Industry
-Real Estate,Commercial,1,0.6486128075396794,Industry
-Real Estate,Industrial,21,0.5971315015993874,Industry
-Telecommunications,Mobile,8,0.7610023035491872,Industry
-Telecommunications,Broadband,84,0.7998354582587534,Industry
-Telecommunications,Satellite,46,0.20071621845293341,Industry
-Materials,Chemicals,59,0.5650066534862446,Industry
-Materials,Metals & Mining,77,0.8224080425432111,Industry
-Materials,Construction Materials,77,0.3537718067739878,Industry
-Industrials,Aerospace & Defense,29,0.5306777758287213,Industry
-Industrials,Machinery,24,0.6996820179398847,Industry
-Industrials,Industrial Services,9,0.8692594749790132,Industry
-Consumer Services,Retail,71,0.6610783574059417,Industry
-Consumer Services,Travel & Leisure,15,0.13633219791642426,Industry
-Consumer Services,Media,45,0.901883787112127,Industry
-Transportation,Airlines,49,0.07596806848286197,Industry
-Transportation,Railroads,96,0.7044706130020195,Industry
-Transportation,Logistics,92,0.9430476769010739,Industry
+,Hidalgo,862,0.5021389476448882,Overall
+Hidalgo,HiTech,72,0.40066761725395805,Sector
+Hidalgo,Agriculture,27,0.8116400775905652,Sector
+Hidalgo,Transportation,42,0.8116481665618615,Sector
+Hidalgo,Consumer_Products,54,0.8132001474126024,Sector
+Hidalgo,Unassigned,90,0.24666129584198582,Sector
+Hidalgo,Communication,72,0.2603746579946623,Sector
+Hidalgo,Trade,52,0.3032239502730638,Sector
+Hidalgo,Business_Services,88,0.15982744413079386,Sector
+Hidalgo,Business_Products,68,0.1132753481646942,Sector
+Hidalgo,Construction,4,0.9630357307918109,Sector
+Hidalgo,Services,27,0.6332609195911181,Sector
+Hidalgo,Mining,66,0.077537797053296,Sector
+Hidalgo,Health_Care,54,0.6014039657877669,Sector
+Hidalgo,EnergyExpL_Prod,86,0.5197679660468072,Sector
+Hidalgo,Utilities,60,0.816559130178339,Sector

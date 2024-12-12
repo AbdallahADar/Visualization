@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Churchill,1904,0.9236864140325212,Overall
-Churchill,Technology,139,0.6025369635438117,Sector
-Churchill,Healthcare,196,0.7540036404147975,Sector
-Churchill,Finance,62,0.7996125247601401,Sector
-Churchill,Energy,190,0.21608505223452257,Sector
-Churchill,Consumer Goods,234,0.72429930636948,Sector
-Churchill,Utilities,109,0.4057182186258159,Sector
-Churchill,Real Estate,163,0.3731888127640227,Sector
-Churchill,Telecommunications,200,0.5702419239776622,Sector
-Churchill,Materials,123,0.47377290020041585,Sector
-Churchill,Industrials,190,0.5609058075289937,Sector
-Churchill,Consumer Services,167,0.18811542810558324,Sector
-Churchill,Transportation,131,0.005486031472285435,Sector
-Technology,Software,45,0.7644463018783753,Industry
-Technology,Hardware,24,0.6770186095663149,Industry
-Technology,IT Services,70,0.9567351160994936,Industry
-Healthcare,Pharmaceuticals,63,0.03196089749874775,Industry
-Healthcare,Medical Devices,36,0.7644414943312161,Industry
-Healthcare,Healthcare Services,97,0.47621233588879697,Industry
-Finance,Banking,1,0.0031407220860909524,Industry
-Finance,Insurance,57,0.7694348480072893,Industry
-Finance,Investment Services,4,0.3883642733498941,Industry
-Energy,Oil & Gas,84,0.8505072667703901,Industry
-Energy,Renewable Energy,60,0.7706528462125017,Industry
-Energy,Energy Exploration,46,0.217049442765052,Industry
-Consumer Goods,Food & Beverage,89,0.07963356174937519,Industry
-Consumer Goods,Household Products,71,0.760759525035439,Industry
-Consumer Goods,Apparel,74,0.8484886770787701,Industry
-Utilities,Electric,7,0.23327725115542997,Industry
-Utilities,Water,48,0.6494073109654624,Industry
-Utilities,Gas,54,0.8426460238825536,Industry
-Real Estate,Residential,19,0.5286417544446111,Industry
-Real Estate,Commercial,92,0.7250869820991834,Industry
-Real Estate,Industrial,52,0.2111105963939348,Industry
-Telecommunications,Mobile,81,0.12000875532115785,Industry
-Telecommunications,Broadband,43,0.03102063717416481,Industry
-Telecommunications,Satellite,76,0.6963082924726479,Industry
-Materials,Chemicals,2,0.6205644732600073,Industry
-Materials,Metals & Mining,72,0.7424602387801276,Industry
-Materials,Construction Materials,49,0.6486986499008675,Industry
-Industrials,Aerospace & Defense,54,0.9831405415195681,Industry
-Industrials,Machinery,90,0.4210881877712076,Industry
-Industrials,Industrial Services,46,0.40596839530866713,Industry
-Consumer Services,Retail,78,0.1564638357229594,Industry
-Consumer Services,Travel & Leisure,80,0.8842015328236453,Industry
-Consumer Services,Media,9,0.558816307832077,Industry
-Transportation,Airlines,81,0.8872103862784657,Industry
-Transportation,Railroads,44,0.9406881181747037,Industry
-Transportation,Logistics,6,0.7408431574894558,Industry
+,Churchill,691,0.5283347421296665,Overall
+Churchill,HiTech,60,0.10378998220399394,Sector
+Churchill,Agriculture,62,0.6487503950345077,Sector
+Churchill,Transportation,5,0.7860902718439148,Sector
+Churchill,Consumer_Products,19,0.4447219393866053,Sector
+Churchill,Unassigned,58,0.21848756651241563,Sector
+Churchill,Communication,40,0.6139512892365829,Sector
+Churchill,Trade,71,0.5198289151895042,Sector
+Churchill,Business_Services,48,0.5326525527304201,Sector
+Churchill,Business_Products,48,0.7919407419177564,Sector
+Churchill,Construction,48,0.09630223591819698,Sector
+Churchill,Services,10,0.6208174205918418,Sector
+Churchill,Mining,87,0.8993322252324977,Sector
+Churchill,Health_Care,72,0.42538233076397025,Sector
+Churchill,EnergyExpL_Prod,27,0.23605570163846812,Sector
+Churchill,Utilities,36,0.9869175637443214,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ebersberg,1839,0.9374798186457335,Overall
-Ebersberg,Technology,154,0.5651283063127831,Sector
-Ebersberg,Healthcare,61,0.7850672216297863,Sector
-Ebersberg,Finance,247,0.2976619563992151,Sector
-Ebersberg,Energy,194,0.5866588430961556,Sector
-Ebersberg,Consumer Goods,191,0.10236473559428694,Sector
-Ebersberg,Utilities,94,0.29333729258373586,Sector
-Ebersberg,Real Estate,174,0.8156383689131438,Sector
-Ebersberg,Telecommunications,79,0.3888166353325724,Sector
-Ebersberg,Materials,237,0.7281575661317063,Sector
-Ebersberg,Industrials,137,0.21614144174321348,Sector
-Ebersberg,Consumer Services,198,0.21637126563548803,Sector
-Ebersberg,Transportation,73,0.8010314260837544,Sector
-Technology,Software,26,0.1352320331496908,Industry
-Technology,Hardware,34,0.07759050905020204,Industry
-Technology,IT Services,94,0.3460051701337755,Industry
-Healthcare,Pharmaceuticals,4,0.42768252627162695,Industry
-Healthcare,Medical Devices,50,0.7191288875554291,Industry
-Healthcare,Healthcare Services,7,0.5650773336151113,Industry
-Finance,Banking,85,0.19707779471362985,Industry
-Finance,Insurance,70,0.3073012261781495,Industry
-Finance,Investment Services,92,0.6359972239268173,Industry
-Energy,Oil & Gas,62,0.6853810087482932,Industry
-Energy,Renewable Energy,35,0.6882753374732905,Industry
-Energy,Energy Exploration,97,0.8515715711375641,Industry
-Consumer Goods,Food & Beverage,53,0.9713217616988674,Industry
-Consumer Goods,Household Products,85,0.25529796601074994,Industry
-Consumer Goods,Apparel,53,0.28984332472363217,Industry
-Utilities,Electric,42,0.4029062997694629,Industry
-Utilities,Water,33,0.3449988922145556,Industry
-Utilities,Gas,19,0.2212989549369031,Industry
-Real Estate,Residential,61,0.6047226027751115,Industry
-Real Estate,Commercial,28,0.29331349783273286,Industry
-Real Estate,Industrial,85,0.55988805478478,Industry
-Telecommunications,Mobile,44,0.09293420566224397,Industry
-Telecommunications,Broadband,4,0.6467157408724918,Industry
-Telecommunications,Satellite,31,0.04804681145154266,Industry
-Materials,Chemicals,93,0.4969736881903155,Industry
-Materials,Metals & Mining,48,0.9623003774439827,Industry
-Materials,Construction Materials,96,0.30644197028133324,Industry
-Industrials,Aerospace & Defense,89,0.651531066023531,Industry
-Industrials,Machinery,6,0.8781992475695388,Industry
-Industrials,Industrial Services,42,0.059402474230620284,Industry
-Consumer Services,Retail,88,0.3112090956306536,Industry
-Consumer Services,Travel & Leisure,52,0.8768625608411633,Industry
-Consumer Services,Media,58,0.4436428126383535,Industry
-Transportation,Airlines,2,0.8032177804387541,Industry
-Transportation,Railroads,54,0.004031894121777735,Industry
-Transportation,Logistics,17,0.33102486598913217,Industry
+,Ebersberg,822,0.5514394681237889,Overall
+Ebersberg,HiTech,57,0.923165434095839,Sector
+Ebersberg,Agriculture,21,0.7930039319749483,Sector
+Ebersberg,Transportation,40,0.18285790573551008,Sector
+Ebersberg,Consumer_Products,40,0.5447683507408356,Sector
+Ebersberg,Unassigned,9,0.27220711260189123,Sector
+Ebersberg,Communication,27,0.3917550006321714,Sector
+Ebersberg,Trade,90,0.7877286575762733,Sector
+Ebersberg,Business_Services,92,0.5834885966981335,Sector
+Ebersberg,Business_Products,41,0.9615832299903977,Sector
+Ebersberg,Construction,96,0.07197559881651316,Sector
+Ebersberg,Services,70,0.7209737712764454,Sector
+Ebersberg,Mining,83,0.9702415902256514,Sector
+Ebersberg,Health_Care,15,0.23682710357662162,Sector
+Ebersberg,EnergyExpL_Prod,63,0.3252970246154908,Sector
+Ebersberg,Utilities,78,0.5057187133001106,Sector

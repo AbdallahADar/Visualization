@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Aitkin,1789,0.44921170801415766,Overall
-Aitkin,Technology,121,0.7248980697330711,Sector
-Aitkin,Healthcare,119,0.20989605615359175,Sector
-Aitkin,Finance,113,0.07011112310086154,Sector
-Aitkin,Energy,138,0.8528946374911908,Sector
-Aitkin,Consumer Goods,142,0.062071323830474645,Sector
-Aitkin,Utilities,152,0.037621463055108606,Sector
-Aitkin,Real Estate,80,0.5992840608438949,Sector
-Aitkin,Telecommunications,168,0.386772291225288,Sector
-Aitkin,Materials,155,0.6634343013233455,Sector
-Aitkin,Industrials,182,0.1535537438782466,Sector
-Aitkin,Consumer Services,215,0.963282366283095,Sector
-Aitkin,Transportation,204,0.25719513228610524,Sector
-Technology,Software,50,0.714071321082934,Industry
-Technology,Hardware,65,0.48603358254043505,Industry
-Technology,IT Services,6,0.950833305195914,Industry
-Healthcare,Pharmaceuticals,24,0.13021095803475358,Industry
-Healthcare,Medical Devices,95,0.5625110999953447,Industry
-Healthcare,Healthcare Services,0,0.47334482457491334,Industry
-Finance,Banking,79,0.5054828012835368,Industry
-Finance,Insurance,15,0.1622277912479686,Industry
-Finance,Investment Services,19,0.6143167153225576,Industry
-Energy,Oil & Gas,45,0.8183238201451857,Industry
-Energy,Renewable Energy,50,0.34404340956893187,Industry
-Energy,Energy Exploration,43,0.363389618131867,Industry
-Consumer Goods,Food & Beverage,2,0.5628198928349386,Industry
-Consumer Goods,Household Products,70,0.5750621675281048,Industry
-Consumer Goods,Apparel,70,0.8240813896213114,Industry
-Utilities,Electric,64,0.27013627595178447,Industry
-Utilities,Water,30,0.6765697671348317,Industry
-Utilities,Gas,58,0.4236788953360364,Industry
-Real Estate,Residential,25,0.1618233291061969,Industry
-Real Estate,Commercial,26,0.764504880990916,Industry
-Real Estate,Industrial,29,0.8110368325281928,Industry
-Telecommunications,Mobile,82,0.05975774020068558,Industry
-Telecommunications,Broadband,35,0.23713001403983736,Industry
-Telecommunications,Satellite,51,0.5050454050395655,Industry
-Materials,Chemicals,28,0.14879781088444322,Industry
-Materials,Metals & Mining,86,0.026537250795347522,Industry
-Materials,Construction Materials,41,0.264060077812749,Industry
-Industrials,Aerospace & Defense,36,0.3801819212518821,Industry
-Industrials,Machinery,87,0.24850747361745695,Industry
-Industrials,Industrial Services,59,0.9082372245979233,Industry
-Consumer Services,Retail,52,0.708477938962994,Industry
-Consumer Services,Travel & Leisure,90,0.5869980084847313,Industry
-Consumer Services,Media,73,0.7511941659756955,Industry
-Transportation,Airlines,57,0.0638023408369166,Industry
-Transportation,Railroads,68,0.007519840945852119,Industry
-Transportation,Logistics,79,0.2745661425343645,Industry
+,Aitkin,828,0.4535525240110671,Overall
+Aitkin,HiTech,6,0.6935972850234208,Sector
+Aitkin,Agriculture,75,0.13205402408574807,Sector
+Aitkin,Transportation,41,0.028568506120452253,Sector
+Aitkin,Consumer_Products,81,0.24964839565303687,Sector
+Aitkin,Unassigned,75,0.5083217010111598,Sector
+Aitkin,Communication,71,0.9863122866093463,Sector
+Aitkin,Trade,4,0.3795400627691158,Sector
+Aitkin,Business_Services,99,0.5245636448304144,Sector
+Aitkin,Business_Products,91,0.45678398243636276,Sector
+Aitkin,Construction,56,0.6220790676739848,Sector
+Aitkin,Services,61,0.18284978747148195,Sector
+Aitkin,Mining,32,0.5315383266793199,Sector
+Aitkin,Health_Care,31,0.607372296036349,Sector
+Aitkin,EnergyExpL_Prod,7,0.8939460024824745,Sector
+Aitkin,Utilities,98,0.006112491283341015,Sector

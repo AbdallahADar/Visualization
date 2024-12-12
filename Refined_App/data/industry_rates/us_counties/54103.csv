@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wetzel,1597,0.5976288444828961,Overall
-Wetzel,Technology,133,0.13762087531613,Sector
-Wetzel,Healthcare,77,0.6978914754489043,Sector
-Wetzel,Finance,77,0.016648487103484988,Sector
-Wetzel,Energy,188,0.8808005570018387,Sector
-Wetzel,Consumer Goods,147,0.36390164976561734,Sector
-Wetzel,Utilities,140,0.2758773101878035,Sector
-Wetzel,Real Estate,219,0.9925064255567035,Sector
-Wetzel,Telecommunications,93,0.19303689520629208,Sector
-Wetzel,Materials,127,0.623892223920626,Sector
-Wetzel,Industrials,80,0.026343839446694717,Sector
-Wetzel,Consumer Services,182,0.7731197496805744,Sector
-Wetzel,Transportation,134,0.8275867530165167,Sector
-Technology,Software,1,0.5348011681281055,Industry
-Technology,Hardware,51,0.3281678474648754,Industry
-Technology,IT Services,81,0.08005964740704408,Industry
-Healthcare,Pharmaceuticals,35,0.8343089452153638,Industry
-Healthcare,Medical Devices,17,0.3311117610019081,Industry
-Healthcare,Healthcare Services,25,0.760064254883694,Industry
-Finance,Banking,34,0.2414327509397185,Industry
-Finance,Insurance,24,0.39536931182096213,Industry
-Finance,Investment Services,19,0.8188943422925249,Industry
-Energy,Oil & Gas,51,0.4428011297090082,Industry
-Energy,Renewable Energy,87,0.3340957727509948,Industry
-Energy,Energy Exploration,50,0.6065994124421045,Industry
-Consumer Goods,Food & Beverage,39,0.5792900939372202,Industry
-Consumer Goods,Household Products,36,0.17905850492885222,Industry
-Consumer Goods,Apparel,72,0.45626485212433043,Industry
-Utilities,Electric,78,0.7735559923937805,Industry
-Utilities,Water,17,0.8393602220215595,Industry
-Utilities,Gas,45,0.3223678070172854,Industry
-Real Estate,Residential,67,0.4309777107371934,Industry
-Real Estate,Commercial,75,0.2353533595317353,Industry
-Real Estate,Industrial,77,0.647311458285815,Industry
-Telecommunications,Mobile,19,0.25398503640448933,Industry
-Telecommunications,Broadband,36,0.5899150009568078,Industry
-Telecommunications,Satellite,38,0.8881843244831913,Industry
-Materials,Chemicals,22,0.9514734127920197,Industry
-Materials,Metals & Mining,61,0.6257351286836135,Industry
-Materials,Construction Materials,44,0.4993231593567772,Industry
-Industrials,Aerospace & Defense,29,0.5012520763293489,Industry
-Industrials,Machinery,46,0.6912449285526707,Industry
-Industrials,Industrial Services,5,0.1226128185058335,Industry
-Consumer Services,Retail,98,0.545293025441892,Industry
-Consumer Services,Travel & Leisure,60,0.1871506921290148,Industry
-Consumer Services,Media,24,0.16269063648373416,Industry
-Transportation,Airlines,44,0.4795002563355909,Industry
-Transportation,Railroads,1,0.5431974046921801,Industry
-Transportation,Logistics,89,0.06451573063394112,Industry
+,Wetzel,512,0.4997516528177075,Overall
+Wetzel,HiTech,8,0.4853475666691631,Sector
+Wetzel,Agriculture,37,0.9487236835100538,Sector
+Wetzel,Transportation,2,0.7647314946258064,Sector
+Wetzel,Consumer_Products,31,0.10945921252287905,Sector
+Wetzel,Unassigned,64,0.9915802084724951,Sector
+Wetzel,Communication,44,0.5348067494040574,Sector
+Wetzel,Trade,52,0.9330957978996027,Sector
+Wetzel,Business_Services,64,0.20155913677277326,Sector
+Wetzel,Business_Products,72,0.713642282435565,Sector
+Wetzel,Construction,6,0.12966141333144676,Sector
+Wetzel,Services,7,0.2194068192729789,Sector
+Wetzel,Mining,28,0.10920707456166656,Sector
+Wetzel,Health_Care,13,0.9353091058056332,Sector
+Wetzel,EnergyExpL_Prod,3,0.05425739685297515,Sector
+Wetzel,Utilities,81,0.3654868501285171,Sector

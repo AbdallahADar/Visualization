@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Perry,1700,0.9742229711872773,Overall
-Perry,Technology,99,0.487558627972805,Sector
-Perry,Healthcare,155,0.5325450181500064,Sector
-Perry,Finance,136,0.49006416637206784,Sector
-Perry,Energy,112,0.30532223105785194,Sector
-Perry,Consumer Goods,191,0.2579420665077734,Sector
-Perry,Utilities,228,0.8951640564063196,Sector
-Perry,Real Estate,206,0.36481132399978566,Sector
-Perry,Telecommunications,96,0.3009105268390506,Sector
-Perry,Materials,128,0.7303427157062465,Sector
-Perry,Industrials,101,0.22960268074071222,Sector
-Perry,Consumer Services,65,0.5361789409294696,Sector
-Perry,Transportation,183,0.4511986512024707,Sector
-Technology,Software,35,0.9881987463589089,Industry
-Technology,Hardware,22,0.27537269759218097,Industry
-Technology,IT Services,42,0.15153484282282026,Industry
-Healthcare,Pharmaceuticals,81,0.25998058397133994,Industry
-Healthcare,Medical Devices,65,0.1359749241272311,Industry
-Healthcare,Healthcare Services,9,0.21394627194837856,Industry
-Finance,Banking,46,0.12105346053666932,Industry
-Finance,Insurance,19,0.8886541804253745,Industry
-Finance,Investment Services,71,0.9449510681190826,Industry
-Energy,Oil & Gas,70,0.6972746402732691,Industry
-Energy,Renewable Energy,20,0.7510003393326711,Industry
-Energy,Energy Exploration,22,0.1646172803535031,Industry
-Consumer Goods,Food & Beverage,72,0.30513993777513637,Industry
-Consumer Goods,Household Products,41,0.017306012657966385,Industry
-Consumer Goods,Apparel,78,0.29663672172290667,Industry
-Utilities,Electric,30,0.5043219810724529,Industry
-Utilities,Water,99,0.10329840292233161,Industry
-Utilities,Gas,99,0.7599181385221846,Industry
-Real Estate,Residential,38,0.4868154003894527,Industry
-Real Estate,Commercial,71,0.8937932595768974,Industry
-Real Estate,Industrial,97,0.29038409407965027,Industry
-Telecommunications,Mobile,27,0.5408624700485933,Industry
-Telecommunications,Broadband,58,0.4774538590411893,Industry
-Telecommunications,Satellite,11,0.5880050948052623,Industry
-Materials,Chemicals,34,0.08567627046245452,Industry
-Materials,Metals & Mining,56,0.3701275280328197,Industry
-Materials,Construction Materials,38,0.4986255265232121,Industry
-Industrials,Aerospace & Defense,38,0.17440660647185235,Industry
-Industrials,Machinery,21,0.5080614059150311,Industry
-Industrials,Industrial Services,42,0.9165048861477378,Industry
-Consumer Services,Retail,9,0.01356974111304321,Industry
-Consumer Services,Travel & Leisure,56,0.13463742469127826,Industry
-Consumer Services,Media,0,0.17085664145578683,Industry
-Transportation,Airlines,5,0.4060267341359154,Industry
-Transportation,Railroads,85,0.9031245780182465,Industry
-Transportation,Logistics,93,0.918975093623105,Industry
+,Perry,662,0.46437949759870345,Overall
+Perry,HiTech,38,0.9068372178313104,Sector
+Perry,Agriculture,82,0.36041343480546784,Sector
+Perry,Transportation,36,0.11187651186534053,Sector
+Perry,Consumer_Products,73,0.44756246596960836,Sector
+Perry,Unassigned,43,0.21209240291579257,Sector
+Perry,Communication,25,0.6304089666246755,Sector
+Perry,Trade,10,0.042842467290757136,Sector
+Perry,Business_Services,14,0.6251706117014564,Sector
+Perry,Business_Products,27,0.7855934943413899,Sector
+Perry,Construction,74,0.7525954748012494,Sector
+Perry,Services,65,0.7280520227747772,Sector
+Perry,Mining,68,0.2648027819886237,Sector
+Perry,Health_Care,33,0.25537757361527014,Sector
+Perry,EnergyExpL_Prod,38,0.5572329282676076,Sector
+Perry,Utilities,36,0.2848341091872244,Sector

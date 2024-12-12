@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Perugia,1943,0.6379279512391431,Overall
-Perugia,Technology,200,0.03923295891808898,Sector
-Perugia,Healthcare,151,0.5578787897310991,Sector
-Perugia,Finance,177,0.15042426087563787,Sector
-Perugia,Energy,176,0.500729509978929,Sector
-Perugia,Consumer Goods,181,0.5062370852634227,Sector
-Perugia,Utilities,143,0.6969087229796955,Sector
-Perugia,Real Estate,120,0.2881252690275953,Sector
-Perugia,Telecommunications,128,0.22052663978783948,Sector
-Perugia,Materials,222,0.5023228911692802,Sector
-Perugia,Industrials,131,0.17412793249724035,Sector
-Perugia,Consumer Services,68,0.09531018288762128,Sector
-Perugia,Transportation,246,0.5704968773362351,Sector
-Technology,Software,76,0.4432121942906101,Industry
-Technology,Hardware,89,0.4843923598538675,Industry
-Technology,IT Services,35,0.5100524278733289,Industry
-Healthcare,Pharmaceuticals,82,0.2028196101112667,Industry
-Healthcare,Medical Devices,47,0.28549408327669523,Industry
-Healthcare,Healthcare Services,22,0.34939101332833966,Industry
-Finance,Banking,35,0.19453103491225066,Industry
-Finance,Insurance,73,0.540355307299859,Industry
-Finance,Investment Services,69,0.3709812404353374,Industry
-Energy,Oil & Gas,32,0.37101080760929683,Industry
-Energy,Renewable Energy,81,0.15140675833095074,Industry
-Energy,Energy Exploration,63,0.9213653011990437,Industry
-Consumer Goods,Food & Beverage,68,0.45809864192322225,Industry
-Consumer Goods,Household Products,16,0.7373209467159515,Industry
-Consumer Goods,Apparel,97,0.22501603439687412,Industry
-Utilities,Electric,53,0.7453368008501865,Industry
-Utilities,Water,79,0.9617566488240764,Industry
-Utilities,Gas,11,0.24091565323629416,Industry
-Real Estate,Residential,69,0.30571282593457616,Industry
-Real Estate,Commercial,11,0.6804619064898431,Industry
-Real Estate,Industrial,40,0.6511731228147422,Industry
-Telecommunications,Mobile,20,0.9357995761327035,Industry
-Telecommunications,Broadband,37,0.2155472941702098,Industry
-Telecommunications,Satellite,71,0.6978044298208661,Industry
-Materials,Chemicals,94,0.47651581527122755,Industry
-Materials,Metals & Mining,86,0.3940754673568361,Industry
-Materials,Construction Materials,42,0.5270306992502497,Industry
-Industrials,Aerospace & Defense,15,0.4899815153307555,Industry
-Industrials,Machinery,74,0.5705340997299986,Industry
-Industrials,Industrial Services,42,0.9298588436784124,Industry
-Consumer Services,Retail,21,0.10031087289824525,Industry
-Consumer Services,Travel & Leisure,28,0.7250194815939861,Industry
-Consumer Services,Media,19,0.014209258701351923,Industry
-Transportation,Airlines,77,0.7745110492037829,Industry
-Transportation,Railroads,77,0.06887904804323475,Industry
-Transportation,Logistics,92,0.33855993571075527,Industry
+,Perugia,715,0.5991540277679963,Overall
+Perugia,HiTech,1,0.7335089013902815,Sector
+Perugia,Agriculture,62,0.2976795277802047,Sector
+Perugia,Transportation,83,0.8853294158435254,Sector
+Perugia,Consumer_Products,93,0.43678610029118226,Sector
+Perugia,Unassigned,42,0.4787774026270608,Sector
+Perugia,Communication,42,0.4591256669791275,Sector
+Perugia,Trade,23,0.8676156532357311,Sector
+Perugia,Business_Services,27,0.600642131682514,Sector
+Perugia,Business_Products,34,0.5260944823273688,Sector
+Perugia,Construction,25,0.7903812795737204,Sector
+Perugia,Services,53,0.14974811579127967,Sector
+Perugia,Mining,80,0.7802792674259914,Sector
+Perugia,Health_Care,67,0.27211756683260235,Sector
+Perugia,EnergyExpL_Prod,31,0.921669831770971,Sector
+Perugia,Utilities,52,0.7875550729683819,Sector

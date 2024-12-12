@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,La Paz,1881,0.45898477093167556,Overall
+La Paz,Technology,205,0.35786438667926845,Sector
+La Paz,Healthcare,148,0.41292308677419776,Sector
+La Paz,Finance,146,0.4055920663479755,Sector
+La Paz,Energy,248,0.9485025134102815,Sector
+La Paz,Consumer Goods,106,0.9457545518961852,Sector
+La Paz,Utilities,138,0.3523220947512009,Sector
+La Paz,Real Estate,138,0.9619639421331325,Sector
+La Paz,Telecommunications,185,0.8203742500265696,Sector
+La Paz,Materials,16,0.34778279226018216,Sector
+La Paz,Industrials,160,0.5054658863314303,Sector
+La Paz,Consumer Services,180,0.28987689929017324,Sector
+La Paz,Transportation,211,0.9635772156109107,Sector
+Technology,Software,49,0.033163119880073144,Industry
+Technology,Hardware,64,0.6868317437467422,Industry
+Technology,IT Services,92,0.5353256884122553,Industry
+Healthcare,Pharmaceuticals,54,0.6738656390917716,Industry
+Healthcare,Medical Devices,47,0.45511601075858366,Industry
+Healthcare,Healthcare Services,47,0.6532867947874321,Industry
+Finance,Banking,42,0.6977606483549251,Industry
+Finance,Insurance,58,0.6182226141702669,Industry
+Finance,Investment Services,46,0.8717999748779086,Industry
+Energy,Oil & Gas,60,0.6880451335477996,Industry
+Energy,Renewable Energy,99,0.7188842070441722,Industry
+Energy,Energy Exploration,89,0.021468983536874098,Industry
+Consumer Goods,Food & Beverage,17,0.40207118156023214,Industry
+Consumer Goods,Household Products,31,0.6353609516620559,Industry
+Consumer Goods,Apparel,58,0.5855509723390647,Industry
+Utilities,Electric,15,0.9627254998742248,Industry
+Utilities,Water,78,0.681790777866418,Industry
+Utilities,Gas,45,0.8463497121767259,Industry
+Real Estate,Residential,50,0.904270704351393,Industry
+Real Estate,Commercial,42,0.2740646759439297,Industry
+Real Estate,Industrial,46,0.959744749682063,Industry
+Telecommunications,Mobile,80,0.9697659174532041,Industry
+Telecommunications,Broadband,98,0.15450937315684155,Industry
+Telecommunications,Satellite,7,0.9337190155911439,Industry
+Materials,Chemicals,6,0.2359388022951162,Industry
+Materials,Metals & Mining,9,0.2259377661545241,Industry
+Materials,Construction Materials,1,0.04674857440838587,Industry
+Industrials,Aerospace & Defense,26,0.45451042732843316,Industry
+Industrials,Machinery,85,0.17524473544690533,Industry
+Industrials,Industrial Services,49,0.27527410074115055,Industry
+Consumer Services,Retail,99,0.7605194999644738,Industry
+Consumer Services,Travel & Leisure,63,0.7291945405259191,Industry
+Consumer Services,Media,18,0.1739230733603716,Industry
+Transportation,Airlines,52,0.8040435083526083,Industry
+Transportation,Railroads,91,0.551697828909773,Industry
+Transportation,Logistics,68,0.09893601609606761,Industry

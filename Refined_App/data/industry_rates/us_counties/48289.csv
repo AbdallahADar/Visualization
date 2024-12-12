@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Leon,2053,0.8294581878238476,Overall
-Leon,Technology,203,0.3202313358765815,Sector
-Leon,Healthcare,163,0.21920112245070922,Sector
-Leon,Finance,164,0.4995234373463052,Sector
-Leon,Energy,205,0.927420280714482,Sector
-Leon,Consumer Goods,153,0.12768498862309186,Sector
-Leon,Utilities,90,0.8621930147150618,Sector
-Leon,Real Estate,216,0.939502948622742,Sector
-Leon,Telecommunications,202,0.7696759995921713,Sector
-Leon,Materials,208,0.5493592948334401,Sector
-Leon,Industrials,204,0.7492435433892765,Sector
-Leon,Consumer Services,89,0.8232602701126259,Sector
-Leon,Transportation,156,0.9827373778988494,Sector
-Technology,Software,24,0.6649512206650873,Industry
-Technology,Hardware,89,0.9241631066895716,Industry
-Technology,IT Services,90,0.23921250781873216,Industry
-Healthcare,Pharmaceuticals,41,0.6787045586834202,Industry
-Healthcare,Medical Devices,82,0.30258770117267264,Industry
-Healthcare,Healthcare Services,40,0.08286415189818852,Industry
-Finance,Banking,84,0.8624876404299535,Industry
-Finance,Insurance,30,0.8262851636661103,Industry
-Finance,Investment Services,50,0.2604105933675923,Industry
-Energy,Oil & Gas,50,0.07595143602150567,Industry
-Energy,Renewable Energy,86,0.15847943207687443,Industry
-Energy,Energy Exploration,69,0.18853672573681635,Industry
-Consumer Goods,Food & Beverage,51,0.5616050197062911,Industry
-Consumer Goods,Household Products,85,0.6100070175634821,Industry
-Consumer Goods,Apparel,17,0.7136402675065942,Industry
-Utilities,Electric,10,0.49073755271448605,Industry
-Utilities,Water,13,0.46637638850284047,Industry
-Utilities,Gas,67,0.8336209712010844,Industry
-Real Estate,Residential,64,0.5705085047819426,Industry
-Real Estate,Commercial,65,0.6365253721483821,Industry
-Real Estate,Industrial,87,0.34839413584987833,Industry
-Telecommunications,Mobile,89,0.6265673794276134,Industry
-Telecommunications,Broadband,42,0.5114346827938114,Industry
-Telecommunications,Satellite,71,0.15531345718883016,Industry
-Materials,Chemicals,82,0.344281966856829,Industry
-Materials,Metals & Mining,96,0.32562553484991985,Industry
-Materials,Construction Materials,30,0.27932922352814404,Industry
-Industrials,Aerospace & Defense,61,0.394817672994221,Industry
-Industrials,Machinery,72,0.7252753379112139,Industry
-Industrials,Industrial Services,71,0.5336699858421445,Industry
-Consumer Services,Retail,11,0.11578244187918163,Industry
-Consumer Services,Travel & Leisure,55,0.8074515024737892,Industry
-Consumer Services,Media,23,0.6769209005077959,Industry
-Transportation,Airlines,37,0.0027999900971004132,Industry
-Transportation,Railroads,88,0.9800293806913033,Industry
-Transportation,Logistics,31,0.4141088738771628,Industry
+,Leon,857,0.5130460819950089,Overall
+Leon,HiTech,70,0.09168459434059151,Sector
+Leon,Agriculture,12,0.40190293112283715,Sector
+Leon,Transportation,23,0.413818158687865,Sector
+Leon,Consumer_Products,91,0.644538259571052,Sector
+Leon,Unassigned,66,0.20571194592755482,Sector
+Leon,Communication,11,0.8018193353560124,Sector
+Leon,Trade,83,0.5064535840745404,Sector
+Leon,Business_Services,88,0.8335234614291988,Sector
+Leon,Business_Products,72,0.6891974904653988,Sector
+Leon,Construction,88,0.8912834531950603,Sector
+Leon,Services,99,0.5870707828319595,Sector
+Leon,Mining,50,0.12247556331597087,Sector
+Leon,Health_Care,15,0.059532593628177644,Sector
+Leon,EnergyExpL_Prod,70,0.4685762106409209,Sector
+Leon,Utilities,19,0.9781028653379917,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Baltimore,1695,0.3138215304829327,Overall
-Baltimore,Technology,44,0.1858067746018187,Sector
-Baltimore,Healthcare,141,0.7640872334533567,Sector
-Baltimore,Finance,153,0.6383868268537225,Sector
-Baltimore,Energy,212,0.6624933157214972,Sector
-Baltimore,Consumer Goods,107,0.006429386784946423,Sector
-Baltimore,Utilities,159,0.7712046895810946,Sector
-Baltimore,Real Estate,186,0.3548500083086934,Sector
-Baltimore,Telecommunications,103,0.8775188203382305,Sector
-Baltimore,Materials,153,0.09518491939936713,Sector
-Baltimore,Industrials,137,0.22372685428623962,Sector
-Baltimore,Consumer Services,167,0.0672958225150796,Sector
-Baltimore,Transportation,133,0.1382273901922736,Sector
-Technology,Software,28,0.9128809745803417,Industry
-Technology,Hardware,6,0.1060855780005101,Industry
-Technology,IT Services,10,0.1758459450322294,Industry
-Healthcare,Pharmaceuticals,11,0.9026407440855161,Industry
-Healthcare,Medical Devices,75,0.17569725785946488,Industry
-Healthcare,Healthcare Services,55,0.8293812874468345,Industry
-Finance,Banking,12,0.6267732588671328,Industry
-Finance,Insurance,58,0.18225618089787932,Industry
-Finance,Investment Services,83,0.5994711809234538,Industry
-Energy,Oil & Gas,93,0.24215675258504799,Industry
-Energy,Renewable Energy,26,0.9842166823383505,Industry
-Energy,Energy Exploration,93,0.7314075342296804,Industry
-Consumer Goods,Food & Beverage,24,0.8220259300399909,Industry
-Consumer Goods,Household Products,27,0.29159700027653035,Industry
-Consumer Goods,Apparel,56,0.2886414974505662,Industry
-Utilities,Electric,31,0.2594620939301667,Industry
-Utilities,Water,57,0.23026858072572398,Industry
-Utilities,Gas,71,0.9462410923261818,Industry
-Real Estate,Residential,78,0.21225096692618917,Industry
-Real Estate,Commercial,63,0.6327531475642372,Industry
-Real Estate,Industrial,45,0.8685377970794154,Industry
-Telecommunications,Mobile,19,0.7985649178345012,Industry
-Telecommunications,Broadband,33,0.8650767198279063,Industry
-Telecommunications,Satellite,51,0.7815263559165835,Industry
-Materials,Chemicals,75,0.1297483803179481,Industry
-Materials,Metals & Mining,27,0.6867939727748624,Industry
-Materials,Construction Materials,51,0.6666293640989114,Industry
-Industrials,Aerospace & Defense,39,0.1287162258700878,Industry
-Industrials,Machinery,9,0.11172110058968121,Industry
-Industrials,Industrial Services,89,0.5208519831850724,Industry
-Consumer Services,Retail,51,0.5151768881273872,Industry
-Consumer Services,Travel & Leisure,24,0.5627801098533691,Industry
-Consumer Services,Media,92,0.9070937076436799,Industry
-Transportation,Airlines,68,0.9565690600222825,Industry
-Transportation,Railroads,9,0.31082217507175247,Industry
-Transportation,Logistics,56,0.28370339015663537,Industry
+,Baltimore,773,0.5471944911381541,Overall
+Baltimore,HiTech,45,0.7821310536604305,Sector
+Baltimore,Agriculture,62,0.4862709927147951,Sector
+Baltimore,Transportation,11,0.9019029628664071,Sector
+Baltimore,Consumer_Products,75,0.23966804521351526,Sector
+Baltimore,Unassigned,21,0.051869479968502,Sector
+Baltimore,Communication,16,0.7388185247040439,Sector
+Baltimore,Trade,82,0.8864799770936791,Sector
+Baltimore,Business_Services,64,0.9677008626150007,Sector
+Baltimore,Business_Products,20,0.21950641785757619,Sector
+Baltimore,Construction,79,0.22214307625357566,Sector
+Baltimore,Services,90,0.3123918294040984,Sector
+Baltimore,Mining,57,0.5573881358194047,Sector
+Baltimore,Health_Care,45,0.8869346408595734,Sector
+Baltimore,EnergyExpL_Prod,15,0.12833730993180092,Sector
+Baltimore,Utilities,91,0.8263740581099079,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ticino,1787,0.9171934521125141,Overall
-Ticino,Technology,130,0.8718672854647487,Sector
-Ticino,Healthcare,151,0.19760511454356777,Sector
-Ticino,Finance,164,0.5182988953995586,Sector
-Ticino,Energy,71,0.2248604720381302,Sector
-Ticino,Consumer Goods,167,0.772756403854298,Sector
-Ticino,Utilities,159,0.7986732204944476,Sector
-Ticino,Real Estate,95,0.6788221735203954,Sector
-Ticino,Telecommunications,119,0.5081389799543692,Sector
-Ticino,Materials,183,0.2771910346710258,Sector
-Ticino,Industrials,219,0.6218704796813295,Sector
-Ticino,Consumer Services,92,0.42434381517449904,Sector
-Ticino,Transportation,237,0.0672143797012168,Sector
-Technology,Software,22,0.8163697846917395,Industry
-Technology,Hardware,23,0.28518336447355774,Industry
-Technology,IT Services,85,0.9786373449569883,Industry
-Healthcare,Pharmaceuticals,2,0.2805643353209234,Industry
-Healthcare,Medical Devices,51,0.5814213463388826,Industry
-Healthcare,Healthcare Services,98,0.27430790906957125,Industry
-Finance,Banking,57,0.27017930378149335,Industry
-Finance,Insurance,26,0.24761558397298977,Industry
-Finance,Investment Services,81,0.22557478812872467,Industry
-Energy,Oil & Gas,40,0.2507328356719746,Industry
-Energy,Renewable Energy,3,0.9593678548209027,Industry
-Energy,Energy Exploration,28,0.5197137033976633,Industry
-Consumer Goods,Food & Beverage,79,0.9529750299733476,Industry
-Consumer Goods,Household Products,45,0.10914224202820288,Industry
-Consumer Goods,Apparel,43,0.5106394566019425,Industry
-Utilities,Electric,35,0.5374160310475234,Industry
-Utilities,Water,93,0.35410281338572613,Industry
-Utilities,Gas,31,0.6742026750055877,Industry
-Real Estate,Residential,35,0.2583072362179446,Industry
-Real Estate,Commercial,41,0.8807996864707746,Industry
-Real Estate,Industrial,19,0.5137830859722892,Industry
-Telecommunications,Mobile,61,0.836809320681628,Industry
-Telecommunications,Broadband,28,0.6020151281907051,Industry
-Telecommunications,Satellite,30,0.10424776834169269,Industry
-Materials,Chemicals,90,0.3390072383054672,Industry
-Materials,Metals & Mining,12,0.36113432314369154,Industry
-Materials,Construction Materials,81,0.9438514294542779,Industry
-Industrials,Aerospace & Defense,79,0.5546114177823239,Industry
-Industrials,Machinery,66,0.2869108530281874,Industry
-Industrials,Industrial Services,74,0.3595185418886506,Industry
-Consumer Services,Retail,4,0.11813716961621745,Industry
-Consumer Services,Travel & Leisure,28,0.2899973455319337,Industry
-Consumer Services,Media,60,0.5344886830668918,Industry
-Transportation,Airlines,88,0.3627110307781616,Industry
-Transportation,Railroads,68,0.006329360107464432,Industry
-Transportation,Logistics,81,0.3956112157114484,Industry
+,Ticino,793,0.6468918202519887,Overall
+Ticino,HiTech,91,0.6670874385047736,Sector
+Ticino,Agriculture,99,0.9191846176199931,Sector
+Ticino,Transportation,91,0.8593531243626223,Sector
+Ticino,Consumer_Products,88,0.8760226673943164,Sector
+Ticino,Unassigned,70,0.2007064796964726,Sector
+Ticino,Communication,3,0.2042785332683369,Sector
+Ticino,Trade,71,0.15930215673682901,Sector
+Ticino,Business_Services,26,0.1075585732137696,Sector
+Ticino,Business_Products,42,0.5109725474873039,Sector
+Ticino,Construction,9,0.9456022531112638,Sector
+Ticino,Services,66,0.9743625573929606,Sector
+Ticino,Mining,7,0.5978416716342424,Sector
+Ticino,Health_Care,60,0.810488584342293,Sector
+Ticino,EnergyExpL_Prod,59,0.9533053699841884,Sector
+Ticino,Utilities,11,0.9173107290304657,Sector

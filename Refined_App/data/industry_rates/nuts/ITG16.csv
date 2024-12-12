@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Enna,1970,0.8169268137481611,Overall
-Enna,Technology,45,0.9868350418307217,Sector
-Enna,Healthcare,272,0.4545577554084336,Sector
-Enna,Finance,248,0.2571053640693405,Sector
-Enna,Energy,92,0.5454813982987411,Sector
-Enna,Consumer Goods,188,0.40066779699085875,Sector
-Enna,Utilities,147,0.0999932149537226,Sector
-Enna,Real Estate,183,0.7278972567985205,Sector
-Enna,Telecommunications,204,0.8319551449790247,Sector
-Enna,Materials,228,0.3084874004712054,Sector
-Enna,Industrials,117,0.32452127905891914,Sector
-Enna,Consumer Services,159,0.17919709919621907,Sector
-Enna,Transportation,87,0.7598014855293838,Sector
-Technology,Software,28,0.22093877555033004,Industry
-Technology,Hardware,9,0.12841242283202836,Industry
-Technology,IT Services,8,0.12361293961757958,Industry
-Healthcare,Pharmaceuticals,94,0.9358473504718925,Industry
-Healthcare,Medical Devices,82,0.41455873155006995,Industry
-Healthcare,Healthcare Services,96,0.1591189242165535,Industry
-Finance,Banking,83,0.6679011349311883,Industry
-Finance,Insurance,96,0.17773468616843358,Industry
-Finance,Investment Services,69,0.9423355413289766,Industry
-Energy,Oil & Gas,69,0.0775734653206519,Industry
-Energy,Renewable Energy,1,0.5532384556064729,Industry
-Energy,Energy Exploration,22,0.2732682447598873,Industry
-Consumer Goods,Food & Beverage,76,0.6813038893960464,Industry
-Consumer Goods,Household Products,72,0.5727211725444663,Industry
-Consumer Goods,Apparel,40,0.180332784491802,Industry
-Utilities,Electric,50,0.5527854270644168,Industry
-Utilities,Water,77,0.35326488808588297,Industry
-Utilities,Gas,20,0.02986913212079001,Industry
-Real Estate,Residential,91,0.8715196655334344,Industry
-Real Estate,Commercial,21,0.34690602599238496,Industry
-Real Estate,Industrial,71,0.7789600287627216,Industry
-Telecommunications,Mobile,58,0.3873370180175182,Industry
-Telecommunications,Broadband,59,0.13307797513197073,Industry
-Telecommunications,Satellite,87,0.23680982788963123,Industry
-Materials,Chemicals,92,0.870494035267919,Industry
-Materials,Metals & Mining,43,0.5332635933441541,Industry
-Materials,Construction Materials,93,0.5130264831118019,Industry
-Industrials,Aerospace & Defense,5,0.4379831866027454,Industry
-Industrials,Machinery,16,0.7482695333688938,Industry
-Industrials,Industrial Services,96,0.872577778204942,Industry
-Consumer Services,Retail,29,0.9541744876668373,Industry
-Consumer Services,Travel & Leisure,80,0.644551775320521,Industry
-Consumer Services,Media,50,0.24074563757101575,Industry
-Transportation,Airlines,43,0.3881325559265343,Industry
-Transportation,Railroads,5,0.42616599547499534,Industry
-Transportation,Logistics,39,0.01818007768853891,Industry
+,Enna,784,0.5679492475601087,Overall
+Enna,HiTech,31,0.15872974506594328,Sector
+Enna,Agriculture,60,0.9565884049537606,Sector
+Enna,Transportation,72,0.6607262826996864,Sector
+Enna,Consumer_Products,29,0.664470953871093,Sector
+Enna,Unassigned,70,0.6752614912629357,Sector
+Enna,Communication,29,0.9351268848873687,Sector
+Enna,Trade,48,0.4065253109658219,Sector
+Enna,Business_Services,26,0.46186956562138093,Sector
+Enna,Business_Products,46,0.530973056928857,Sector
+Enna,Construction,83,0.9844671180593897,Sector
+Enna,Services,46,0.762251660626948,Sector
+Enna,Mining,84,0.6861399912754913,Sector
+Enna,Health_Care,37,0.07208558896519979,Sector
+Enna,EnergyExpL_Prod,69,0.386741794246903,Sector
+Enna,Utilities,54,0.17728086397085252,Sector

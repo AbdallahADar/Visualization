@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bodenseekreis,1995,0.9375343303736745,Overall
-Bodenseekreis,Technology,140,0.6925310350216538,Sector
-Bodenseekreis,Healthcare,173,0.8576268964571034,Sector
-Bodenseekreis,Finance,205,0.8713116199364528,Sector
-Bodenseekreis,Energy,178,0.771959491171598,Sector
-Bodenseekreis,Consumer Goods,140,0.15285222960266942,Sector
-Bodenseekreis,Utilities,146,0.25233050134161883,Sector
-Bodenseekreis,Real Estate,115,0.43179206903287115,Sector
-Bodenseekreis,Telecommunications,204,0.9387513314332419,Sector
-Bodenseekreis,Materials,186,0.4566013890188326,Sector
-Bodenseekreis,Industrials,223,0.6819242943495686,Sector
-Bodenseekreis,Consumer Services,88,0.5269874642956097,Sector
-Bodenseekreis,Transportation,197,0.7684749770947797,Sector
-Technology,Software,28,0.1941437467219045,Industry
-Technology,Hardware,67,0.6807362873018045,Industry
-Technology,IT Services,45,0.09661722809915207,Industry
-Healthcare,Pharmaceuticals,61,0.7989464657222599,Industry
-Healthcare,Medical Devices,37,0.9400346774034851,Industry
-Healthcare,Healthcare Services,75,0.748493281206263,Industry
-Finance,Banking,61,0.0255549566960932,Industry
-Finance,Insurance,50,0.654968984224156,Industry
-Finance,Investment Services,94,0.1307009670252106,Industry
-Energy,Oil & Gas,80,0.9020396161552782,Industry
-Energy,Renewable Energy,38,0.16266674915346757,Industry
-Energy,Energy Exploration,60,0.3120138771758798,Industry
-Consumer Goods,Food & Beverage,25,0.905888450220221,Industry
-Consumer Goods,Household Products,29,0.6255865389814403,Industry
-Consumer Goods,Apparel,86,0.7368184466508108,Industry
-Utilities,Electric,81,0.2081304766833001,Industry
-Utilities,Water,22,0.6609014603341414,Industry
-Utilities,Gas,43,0.934804352637707,Industry
-Real Estate,Residential,56,0.4794260560042011,Industry
-Real Estate,Commercial,22,0.7321704665393083,Industry
-Real Estate,Industrial,37,0.33878648647424014,Industry
-Telecommunications,Mobile,62,0.5655079635128942,Industry
-Telecommunications,Broadband,46,0.3237264531066991,Industry
-Telecommunications,Satellite,96,0.9327723927023917,Industry
-Materials,Chemicals,80,0.5333322677464846,Industry
-Materials,Metals & Mining,32,0.3091056910639478,Industry
-Materials,Construction Materials,74,0.9568300116650543,Industry
-Industrials,Aerospace & Defense,42,0.9144051191279785,Industry
-Industrials,Machinery,98,0.6987313774685828,Industry
-Industrials,Industrial Services,83,0.6684442566260486,Industry
-Consumer Services,Retail,3,0.5719312427390312,Industry
-Consumer Services,Travel & Leisure,4,0.7706064061780669,Industry
-Consumer Services,Media,81,0.24969449713660374,Industry
-Transportation,Airlines,55,0.7088652781191096,Industry
-Transportation,Railroads,84,0.3190046795471859,Industry
-Transportation,Logistics,58,0.7306542457488234,Industry
+,Bodenseekreis,661,0.5144063886915117,Overall
+Bodenseekreis,HiTech,70,0.457340438059916,Sector
+Bodenseekreis,Agriculture,16,0.47776510274726935,Sector
+Bodenseekreis,Transportation,99,0.8304443624981765,Sector
+Bodenseekreis,Consumer_Products,28,0.7469642052716966,Sector
+Bodenseekreis,Unassigned,18,0.817131849871199,Sector
+Bodenseekreis,Communication,79,0.5373053202885867,Sector
+Bodenseekreis,Trade,52,0.3740174752837121,Sector
+Bodenseekreis,Business_Services,22,0.42653249108201186,Sector
+Bodenseekreis,Business_Products,57,0.23259850667124737,Sector
+Bodenseekreis,Construction,11,0.20669325024399554,Sector
+Bodenseekreis,Services,76,0.8301697209925983,Sector
+Bodenseekreis,Mining,10,0.2595014131551975,Sector
+Bodenseekreis,Health_Care,28,0.3466011769846896,Sector
+Bodenseekreis,EnergyExpL_Prod,23,0.6416475406712592,Sector
+Bodenseekreis,Utilities,72,0.5313829765511188,Sector

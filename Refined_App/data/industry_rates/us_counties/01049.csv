@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,DeKalb,1599,0.7769913728978309,Overall
-DeKalb,Technology,31,0.4849446217507313,Sector
-DeKalb,Healthcare,91,0.4283349744795871,Sector
-DeKalb,Finance,135,0.0761427542996077,Sector
-DeKalb,Energy,198,0.8586084248428237,Sector
-DeKalb,Consumer Goods,97,0.7109916251276153,Sector
-DeKalb,Utilities,189,0.9229435114940466,Sector
-DeKalb,Real Estate,153,0.7216004187345703,Sector
-DeKalb,Telecommunications,212,0.8212021463774186,Sector
-DeKalb,Materials,157,0.7033687426442594,Sector
-DeKalb,Industrials,106,0.022929240792811667,Sector
-DeKalb,Consumer Services,86,0.5815290312112683,Sector
-DeKalb,Transportation,144,0.6856405632867194,Sector
-Technology,Software,9,0.6860148994941689,Industry
-Technology,Hardware,22,0.34277114300604283,Industry
-Technology,IT Services,0,0.921682090666972,Industry
-Healthcare,Pharmaceuticals,1,0.7331827267686574,Industry
-Healthcare,Medical Devices,61,0.4109653233648346,Industry
-Healthcare,Healthcare Services,29,0.5869585933899265,Industry
-Finance,Banking,10,0.3758915708151044,Industry
-Finance,Insurance,58,0.5427994328562713,Industry
-Finance,Investment Services,67,0.1898451890246714,Industry
-Energy,Oil & Gas,85,0.9462985573675982,Industry
-Energy,Renewable Energy,45,0.30347096706468013,Industry
-Energy,Energy Exploration,68,0.4857922596567027,Industry
-Consumer Goods,Food & Beverage,0,0.021987220288581355,Industry
-Consumer Goods,Household Products,47,0.2971483942739589,Industry
-Consumer Goods,Apparel,50,0.24406316234648628,Industry
-Utilities,Electric,15,0.14531830697771653,Industry
-Utilities,Water,95,0.3034913370377682,Industry
-Utilities,Gas,79,0.339365511026693,Industry
-Real Estate,Residential,78,0.37437620384804193,Industry
-Real Estate,Commercial,35,0.29693976919029463,Industry
-Real Estate,Industrial,40,0.7302202835303115,Industry
-Telecommunications,Mobile,86,0.24941884759023536,Industry
-Telecommunications,Broadband,31,0.8699816382014373,Industry
-Telecommunications,Satellite,95,0.5647849560403431,Industry
-Materials,Chemicals,61,0.2737024129881671,Industry
-Materials,Metals & Mining,80,0.29829217350522785,Industry
-Materials,Construction Materials,16,0.6139387378078834,Industry
-Industrials,Aerospace & Defense,78,0.8318047721766171,Industry
-Industrials,Machinery,9,0.973452249553368,Industry
-Industrials,Industrial Services,19,0.2811950389936392,Industry
-Consumer Services,Retail,38,0.876642450812464,Industry
-Consumer Services,Travel & Leisure,25,0.904555369279189,Industry
-Consumer Services,Media,23,0.19305436344126525,Industry
-Transportation,Airlines,32,0.038841706107655694,Industry
-Transportation,Railroads,68,0.2550890042511248,Industry
-Transportation,Logistics,44,0.3298302133556542,Industry
+,DeKalb,747,0.6146265254149946,Overall
+DeKalb,HiTech,65,0.8320607190339954,Sector
+DeKalb,Agriculture,92,0.8511920078795471,Sector
+DeKalb,Transportation,26,0.7920227555494839,Sector
+DeKalb,Consumer_Products,67,0.181526486473509,Sector
+DeKalb,Unassigned,36,0.6941330437427043,Sector
+DeKalb,Communication,6,0.48478310973960936,Sector
+DeKalb,Trade,34,0.650042193062999,Sector
+DeKalb,Business_Services,43,0.6880518412678926,Sector
+DeKalb,Business_Products,71,0.20850983204522855,Sector
+DeKalb,Construction,30,0.4650724726908687,Sector
+DeKalb,Services,71,0.9752707022878874,Sector
+DeKalb,Mining,83,0.5980065182791642,Sector
+DeKalb,Health_Care,21,0.7404123250543614,Sector
+DeKalb,EnergyExpL_Prod,84,0.35765565655656517,Sector
+DeKalb,Utilities,18,0.7006582175611042,Sector

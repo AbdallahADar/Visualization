@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Sofia,1801,0.9635062716895053,Overall
-Sofia,Technology,75,0.6837096032689776,Sector
-Sofia,Healthcare,209,0.0341887450054541,Sector
-Sofia,Finance,164,0.06652484000393011,Sector
-Sofia,Energy,183,0.7142187298567909,Sector
-Sofia,Consumer Goods,87,0.858425929765045,Sector
-Sofia,Utilities,211,0.9495518243546539,Sector
-Sofia,Real Estate,169,0.5760810771631905,Sector
-Sofia,Telecommunications,51,0.2010493979233977,Sector
-Sofia,Materials,186,0.46988577099811757,Sector
-Sofia,Industrials,183,0.6586040950266241,Sector
-Sofia,Consumer Services,96,0.13508310547844693,Sector
-Sofia,Transportation,187,0.24128914677579327,Sector
-Technology,Software,46,0.5113022647019483,Industry
-Technology,Hardware,17,0.8784905980921524,Industry
-Technology,IT Services,12,0.6065797769986684,Industry
-Healthcare,Pharmaceuticals,94,0.30735964716823405,Industry
-Healthcare,Medical Devices,67,0.42072980210308464,Industry
-Healthcare,Healthcare Services,48,0.7962288234189396,Industry
-Finance,Banking,20,0.7288907066706114,Industry
-Finance,Insurance,68,0.3703256961910675,Industry
-Finance,Investment Services,76,0.5803387417973306,Industry
-Energy,Oil & Gas,86,0.21420357849646998,Industry
-Energy,Renewable Energy,6,0.08987180019034613,Industry
-Energy,Energy Exploration,91,0.795539417572787,Industry
-Consumer Goods,Food & Beverage,51,0.5249060530359229,Industry
-Consumer Goods,Household Products,29,0.22428698358025756,Industry
-Consumer Goods,Apparel,7,0.95486135076732,Industry
-Utilities,Electric,45,0.5069567364214062,Industry
-Utilities,Water,89,0.113916206945742,Industry
-Utilities,Gas,77,0.5919552911665822,Industry
-Real Estate,Residential,92,0.7715137772924134,Industry
-Real Estate,Commercial,76,0.9928967465663713,Industry
-Real Estate,Industrial,1,0.2766676711117748,Industry
-Telecommunications,Mobile,6,0.7895414763327411,Industry
-Telecommunications,Broadband,15,0.8846552393385698,Industry
-Telecommunications,Satellite,30,0.5659392830164748,Industry
-Materials,Chemicals,91,0.4305694899196093,Industry
-Materials,Metals & Mining,72,0.6798492477326714,Industry
-Materials,Construction Materials,23,0.031061953454832203,Industry
-Industrials,Aerospace & Defense,35,0.7143532304746416,Industry
-Industrials,Machinery,80,0.2247917588995646,Industry
-Industrials,Industrial Services,68,0.22082917802285518,Industry
-Consumer Services,Retail,5,0.4503722764242035,Industry
-Consumer Services,Travel & Leisure,8,0.18216025092289811,Industry
-Consumer Services,Media,83,0.9126431303900957,Industry
-Transportation,Airlines,87,0.3876041149814291,Industry
-Transportation,Railroads,67,0.07804191219646017,Industry
-Transportation,Logistics,33,0.1223694168768582,Industry
+,Sofia,820,0.4121315224949933,Overall
+Sofia,HiTech,7,0.15747947844620525,Sector
+Sofia,Agriculture,59,0.2275612608247335,Sector
+Sofia,Transportation,60,0.45670430772693726,Sector
+Sofia,Consumer_Products,59,0.2443292234296418,Sector
+Sofia,Unassigned,60,0.5439404807886419,Sector
+Sofia,Communication,43,0.6853313969491862,Sector
+Sofia,Trade,75,0.7590992574960241,Sector
+Sofia,Business_Services,59,0.3129989909057178,Sector
+Sofia,Business_Products,34,0.5009297241026717,Sector
+Sofia,Construction,55,0.7036623605995328,Sector
+Sofia,Services,49,0.2989064612466088,Sector
+Sofia,Mining,47,0.3194630228949399,Sector
+Sofia,Health_Care,45,0.21476940218287255,Sector
+Sofia,EnergyExpL_Prod,84,0.558115431447075,Sector
+Sofia,Utilities,84,0.19868203838411047,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Huron,1908,0.6553613177132009,Overall
-Huron,Technology,161,0.9246930663478073,Sector
-Huron,Healthcare,156,0.2765759796770164,Sector
-Huron,Finance,95,0.12164389773775053,Sector
-Huron,Energy,133,0.11399377052195503,Sector
-Huron,Consumer Goods,167,0.19926255602467358,Sector
-Huron,Utilities,254,0.0649582375875799,Sector
-Huron,Real Estate,140,0.6042795941719843,Sector
-Huron,Telecommunications,165,0.5152302723914731,Sector
-Huron,Materials,169,0.06711631479404034,Sector
-Huron,Industrials,102,0.2647168966908181,Sector
-Huron,Consumer Services,211,0.6831254713575491,Sector
-Huron,Transportation,155,0.6222706562878706,Sector
-Technology,Software,82,0.8318939400047713,Industry
-Technology,Hardware,65,0.2854402705927285,Industry
-Technology,IT Services,14,0.34385681984552263,Industry
-Healthcare,Pharmaceuticals,55,0.27332757798043317,Industry
-Healthcare,Medical Devices,76,0.9025378323972681,Industry
-Healthcare,Healthcare Services,25,0.7392802780642973,Industry
-Finance,Banking,33,0.7004694756478738,Industry
-Finance,Insurance,52,0.9790283502804393,Industry
-Finance,Investment Services,10,0.7049627089663919,Industry
-Energy,Oil & Gas,20,0.0007089928186798655,Industry
-Energy,Renewable Energy,49,0.22898724453181396,Industry
-Energy,Energy Exploration,64,0.31885414414233326,Industry
-Consumer Goods,Food & Beverage,74,0.9665902195296655,Industry
-Consumer Goods,Household Products,59,0.01946602807638298,Industry
-Consumer Goods,Apparel,34,0.6803089492866502,Industry
-Utilities,Electric,89,0.2356043390830147,Industry
-Utilities,Water,99,0.15981764520651132,Industry
-Utilities,Gas,66,0.1298952281359348,Industry
-Real Estate,Residential,8,0.4070765753700868,Industry
-Real Estate,Commercial,49,0.842174951769171,Industry
-Real Estate,Industrial,83,0.8223456431415266,Industry
-Telecommunications,Mobile,83,0.29331093957817433,Industry
-Telecommunications,Broadband,1,0.1697798150408354,Industry
-Telecommunications,Satellite,81,0.8221397134308462,Industry
-Materials,Chemicals,94,0.41313621796771793,Industry
-Materials,Metals & Mining,41,0.3770954463429873,Industry
-Materials,Construction Materials,34,0.9475819801959572,Industry
-Industrials,Aerospace & Defense,1,0.6778839342784911,Industry
-Industrials,Machinery,18,0.055497068196887045,Industry
-Industrials,Industrial Services,83,0.732084346903444,Industry
-Consumer Services,Retail,55,0.7891652106029904,Industry
-Consumer Services,Travel & Leisure,98,0.31403684187078795,Industry
-Consumer Services,Media,58,0.21860893668181947,Industry
-Transportation,Airlines,75,0.5496216960994631,Industry
-Transportation,Railroads,58,0.5875254443163976,Industry
-Transportation,Logistics,22,0.9634932995262809,Industry
+,Huron,710,0.465346907156782,Overall
+Huron,HiTech,57,0.5927428128023274,Sector
+Huron,Agriculture,50,0.8264153534760277,Sector
+Huron,Transportation,6,0.6742375085603464,Sector
+Huron,Consumer_Products,60,0.2664898922754897,Sector
+Huron,Unassigned,59,0.7325856392364225,Sector
+Huron,Communication,37,0.5536040216959474,Sector
+Huron,Trade,85,0.3827923806990027,Sector
+Huron,Business_Services,67,0.47148319986100473,Sector
+Huron,Business_Products,28,0.022776289732333255,Sector
+Huron,Construction,1,0.6987069856169286,Sector
+Huron,Services,31,0.13543213946552868,Sector
+Huron,Mining,82,0.7277211260789525,Sector
+Huron,Health_Care,20,0.24327518792432223,Sector
+Huron,EnergyExpL_Prod,87,0.5868550021368131,Sector
+Huron,Utilities,40,0.06508606779028392,Sector

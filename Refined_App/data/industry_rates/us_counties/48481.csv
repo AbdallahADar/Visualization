@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Wharton,1669,0.5709322831460197,Overall
-Wharton,Technology,165,0.4245939876227214,Sector
-Wharton,Healthcare,109,0.23096648727469793,Sector
-Wharton,Finance,102,0.03520374197139198,Sector
-Wharton,Energy,83,0.9273770210502368,Sector
-Wharton,Consumer Goods,196,0.5488780305314124,Sector
-Wharton,Utilities,75,0.019791133760566182,Sector
-Wharton,Real Estate,54,0.06162084267095769,Sector
-Wharton,Telecommunications,154,0.7595041167348436,Sector
-Wharton,Materials,238,0.7872842124813826,Sector
-Wharton,Industrials,182,0.6616513796598992,Sector
-Wharton,Consumer Services,146,0.29033926686159073,Sector
-Wharton,Transportation,165,0.7863310784305462,Sector
-Technology,Software,42,0.622606413763529,Industry
-Technology,Hardware,39,0.35750880397717,Industry
-Technology,IT Services,84,0.6250083056917449,Industry
-Healthcare,Pharmaceuticals,5,0.4177829945495197,Industry
-Healthcare,Medical Devices,20,0.20824090506748216,Industry
-Healthcare,Healthcare Services,84,0.30833350653718894,Industry
-Finance,Banking,14,0.04598836012162433,Industry
-Finance,Insurance,53,0.6076179811190813,Industry
-Finance,Investment Services,35,0.6664517741261219,Industry
-Energy,Oil & Gas,29,0.29715668839482035,Industry
-Energy,Renewable Energy,36,0.5849930150647303,Industry
-Energy,Energy Exploration,18,0.016139719393911678,Industry
-Consumer Goods,Food & Beverage,61,0.29983867919279583,Industry
-Consumer Goods,Household Products,45,0.70313564632317,Industry
-Consumer Goods,Apparel,90,0.792411099921911,Industry
-Utilities,Electric,33,0.6072684719837345,Industry
-Utilities,Water,31,0.47942194576046293,Industry
-Utilities,Gas,11,0.23067872332994543,Industry
-Real Estate,Residential,4,0.3024033727539258,Industry
-Real Estate,Commercial,13,0.027473374376860704,Industry
-Real Estate,Industrial,37,0.8808604939458109,Industry
-Telecommunications,Mobile,20,0.3339750748137116,Industry
-Telecommunications,Broadband,65,0.4978658705498653,Industry
-Telecommunications,Satellite,69,0.8226037963107551,Industry
-Materials,Chemicals,60,0.771490965188612,Industry
-Materials,Metals & Mining,82,0.8775237554526726,Industry
-Materials,Construction Materials,96,0.5851686698963856,Industry
-Industrials,Aerospace & Defense,61,0.24342311490181312,Industry
-Industrials,Machinery,87,0.3494666463624474,Industry
-Industrials,Industrial Services,34,0.04972308579550777,Industry
-Consumer Services,Retail,25,0.657434906228158,Industry
-Consumer Services,Travel & Leisure,45,0.02690472727504567,Industry
-Consumer Services,Media,76,0.238476392471637,Industry
-Transportation,Airlines,40,0.4618250156192225,Industry
-Transportation,Railroads,97,0.2430595249452948,Industry
-Transportation,Logistics,28,0.9249294988088848,Industry
+,Wharton,618,0.5042649642654246,Overall
+Wharton,HiTech,18,0.32188205255939983,Sector
+Wharton,Agriculture,28,0.4970935555775653,Sector
+Wharton,Transportation,43,0.2985374502670678,Sector
+Wharton,Consumer_Products,87,0.3997465986040729,Sector
+Wharton,Unassigned,58,0.42943846841896527,Sector
+Wharton,Communication,47,0.3876258345470771,Sector
+Wharton,Trade,11,0.05685257319573578,Sector
+Wharton,Business_Services,32,0.7351850445996025,Sector
+Wharton,Business_Products,29,0.7419961194581752,Sector
+Wharton,Construction,77,0.6899452623885765,Sector
+Wharton,Services,15,0.42947001532487894,Sector
+Wharton,Mining,42,0.37312764688261546,Sector
+Wharton,Health_Care,72,0.6575440180993665,Sector
+Wharton,EnergyExpL_Prod,24,0.9142738700099885,Sector
+Wharton,Utilities,35,0.6312559540482808,Sector

@@ -14,8 +14,10 @@ class StateManager:
         self.nuts2 = ""
         self.nuts3 = ""
         self.map_sector = "All"
+        self.risk_type = "Overall Risk"
         self.geo_fig = PLACEHOLDER
         self.tree_fig = PLACEHOLDER
+        self.selected_rows = []
 
     # To dict function defined
     def to_dict(self):

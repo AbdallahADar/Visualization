@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rockdale,2119,0.4998506660846075,Overall
-Rockdale,Technology,156,0.8625344698638175,Sector
-Rockdale,Healthcare,175,0.9800408081336636,Sector
-Rockdale,Finance,191,0.46524792706095186,Sector
-Rockdale,Energy,214,0.48164715706642036,Sector
-Rockdale,Consumer Goods,212,0.7252031967359233,Sector
-Rockdale,Utilities,238,0.41911164133543166,Sector
-Rockdale,Real Estate,104,0.2949195450371861,Sector
-Rockdale,Telecommunications,136,0.803808332782028,Sector
-Rockdale,Materials,155,0.7838257429253361,Sector
-Rockdale,Industrials,148,0.007735276317023421,Sector
-Rockdale,Consumer Services,243,0.7017755468733822,Sector
-Rockdale,Transportation,147,0.35235419474405527,Sector
-Technology,Software,44,0.5722456122271136,Industry
-Technology,Hardware,95,0.2515743504284148,Industry
-Technology,IT Services,17,0.937505318705512,Industry
-Healthcare,Pharmaceuticals,51,0.8858517482287831,Industry
-Healthcare,Medical Devices,48,0.6850952186559609,Industry
-Healthcare,Healthcare Services,76,0.18598133636338887,Industry
-Finance,Banking,78,0.6851823881814224,Industry
-Finance,Insurance,98,0.21949677194387285,Industry
-Finance,Investment Services,15,0.08156788167357376,Industry
-Energy,Oil & Gas,73,0.46444733702854313,Industry
-Energy,Renewable Energy,88,0.5996970774525573,Industry
-Energy,Energy Exploration,53,0.471245487275214,Industry
-Consumer Goods,Food & Beverage,72,0.39396004372576365,Industry
-Consumer Goods,Household Products,45,0.18549912893667697,Industry
-Consumer Goods,Apparel,95,0.8431783287801139,Industry
-Utilities,Electric,59,0.4409848490763111,Industry
-Utilities,Water,82,0.5766947255148873,Industry
-Utilities,Gas,97,0.003631306781931465,Industry
-Real Estate,Residential,23,0.7184373785823862,Industry
-Real Estate,Commercial,75,0.5608367301030879,Industry
-Real Estate,Industrial,6,0.45650860127821435,Industry
-Telecommunications,Mobile,64,0.06635094015392162,Industry
-Telecommunications,Broadband,11,0.8730535385547644,Industry
-Telecommunications,Satellite,61,0.5591855570193045,Industry
-Materials,Chemicals,98,0.4710746829079484,Industry
-Materials,Metals & Mining,16,0.26398644308315966,Industry
-Materials,Construction Materials,41,0.46556160383561296,Industry
-Industrials,Aerospace & Defense,85,0.3611756135712417,Industry
-Industrials,Machinery,9,0.4978642860852619,Industry
-Industrials,Industrial Services,54,0.10425518358617814,Industry
-Consumer Services,Retail,68,0.6143587989457462,Industry
-Consumer Services,Travel & Leisure,97,0.00806702988813035,Industry
-Consumer Services,Media,78,0.6403873856332486,Industry
-Transportation,Airlines,95,0.4673785014656432,Industry
-Transportation,Railroads,43,0.9253808707831204,Industry
-Transportation,Logistics,9,0.32545810312232926,Industry
+,Rockdale,805,0.41578424593303964,Overall
+Rockdale,HiTech,77,0.3222033947261804,Sector
+Rockdale,Agriculture,35,0.30892743080645857,Sector
+Rockdale,Transportation,45,0.8849015325096987,Sector
+Rockdale,Consumer_Products,88,0.6554821609744855,Sector
+Rockdale,Unassigned,14,0.4787616547960606,Sector
+Rockdale,Communication,81,0.15303350228808787,Sector
+Rockdale,Trade,25,0.6463879689874289,Sector
+Rockdale,Business_Services,95,0.4239363591165234,Sector
+Rockdale,Business_Products,78,0.1441047829176847,Sector
+Rockdale,Construction,96,0.13431774781262085,Sector
+Rockdale,Services,56,0.7469217778107583,Sector
+Rockdale,Mining,25,0.5424338076109004,Sector
+Rockdale,Health_Care,10,0.2939717283499371,Sector
+Rockdale,EnergyExpL_Prod,29,0.0668259207977242,Sector
+Rockdale,Utilities,51,0.43455391949104505,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lexington,1840,0.759376543362458,Overall
-Lexington,Technology,154,0.7621420401342104,Sector
-Lexington,Healthcare,143,0.26260156746498886,Sector
-Lexington,Finance,83,0.9872401308282893,Sector
-Lexington,Energy,145,0.7072911832161982,Sector
-Lexington,Consumer Goods,103,0.3177064390780904,Sector
-Lexington,Utilities,211,0.530732738331405,Sector
-Lexington,Real Estate,154,0.1775903534850486,Sector
-Lexington,Telecommunications,135,0.36264564193322923,Sector
-Lexington,Materials,190,0.18376163127517242,Sector
-Lexington,Industrials,225,0.4053194495836894,Sector
-Lexington,Consumer Services,143,0.7303605888947381,Sector
-Lexington,Transportation,154,0.42187199504473316,Sector
-Technology,Software,92,0.46521478993467846,Industry
-Technology,Hardware,53,0.24410739557891514,Industry
-Technology,IT Services,9,0.7837517335319247,Industry
-Healthcare,Pharmaceuticals,34,0.5173901286449781,Industry
-Healthcare,Medical Devices,32,0.8076181488497679,Industry
-Healthcare,Healthcare Services,77,0.09445837421531189,Industry
-Finance,Banking,28,0.11464739237000676,Industry
-Finance,Insurance,42,0.8351463978175155,Industry
-Finance,Investment Services,13,0.5103136159735443,Industry
-Energy,Oil & Gas,68,0.23614408338191895,Industry
-Energy,Renewable Energy,28,0.2546371365703808,Industry
-Energy,Energy Exploration,49,0.34378133163779345,Industry
-Consumer Goods,Food & Beverage,38,0.2540782305610134,Industry
-Consumer Goods,Household Products,45,0.656195607616933,Industry
-Consumer Goods,Apparel,20,0.03041044274786342,Industry
-Utilities,Electric,93,0.4868441244825674,Industry
-Utilities,Water,80,0.052881877811535194,Industry
-Utilities,Gas,38,0.8757652516501514,Industry
-Real Estate,Residential,89,0.1103979354526422,Industry
-Real Estate,Commercial,58,0.5564482267186563,Industry
-Real Estate,Industrial,7,0.9068962438613754,Industry
-Telecommunications,Mobile,68,0.5019911572663455,Industry
-Telecommunications,Broadband,3,0.5753517552152093,Industry
-Telecommunications,Satellite,64,0.36340866013976414,Industry
-Materials,Chemicals,42,0.2203183622845737,Industry
-Materials,Metals & Mining,87,0.025918287416034413,Industry
-Materials,Construction Materials,61,0.5075981969007909,Industry
-Industrials,Aerospace & Defense,52,0.8056344316561542,Industry
-Industrials,Machinery,95,0.7063768019359048,Industry
-Industrials,Industrial Services,78,0.0953002853343412,Industry
-Consumer Services,Retail,84,0.6394001202301991,Industry
-Consumer Services,Travel & Leisure,36,0.2412921108192042,Industry
-Consumer Services,Media,23,0.4122410298267718,Industry
-Transportation,Airlines,46,0.9416141390040728,Industry
-Transportation,Railroads,67,0.3040431241363617,Industry
-Transportation,Logistics,41,0.557802970330702,Industry
+,Lexington,514,0.6525887138751943,Overall
+Lexington,HiTech,65,0.9754281965088125,Sector
+Lexington,Agriculture,13,0.9384016652913431,Sector
+Lexington,Transportation,1,0.7427665800648404,Sector
+Lexington,Consumer_Products,85,0.7381343103170365,Sector
+Lexington,Unassigned,23,0.3853590137078853,Sector
+Lexington,Communication,36,0.9650875199901793,Sector
+Lexington,Trade,73,0.5624697092940003,Sector
+Lexington,Business_Services,2,0.2921903514545361,Sector
+Lexington,Business_Products,4,0.8691009066416395,Sector
+Lexington,Construction,69,0.6015018349788324,Sector
+Lexington,Services,35,0.8505486706191054,Sector
+Lexington,Mining,2,0.02239800232978606,Sector
+Lexington,Health_Care,61,0.6051651840144323,Sector
+Lexington,EnergyExpL_Prod,23,0.3730739759591264,Sector
+Lexington,Utilities,22,0.8672047869563582,Sector

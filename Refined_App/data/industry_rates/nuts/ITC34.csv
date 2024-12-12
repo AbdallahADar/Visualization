@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,La Spezia,2068,0.8604121260247037,Overall
-La Spezia,Technology,205,0.27957984796280566,Sector
-La Spezia,Healthcare,146,0.3662854237948081,Sector
-La Spezia,Finance,128,0.6100235354237722,Sector
-La Spezia,Energy,192,0.7725289028851023,Sector
-La Spezia,Consumer Goods,151,0.06753018278753964,Sector
-La Spezia,Utilities,183,0.20417945597596132,Sector
-La Spezia,Real Estate,230,0.07659991275437439,Sector
-La Spezia,Telecommunications,95,0.8572420526946332,Sector
-La Spezia,Materials,173,0.8906339341804139,Sector
-La Spezia,Industrials,199,0.9077448120522504,Sector
-La Spezia,Consumer Services,149,0.3521134229999391,Sector
-La Spezia,Transportation,217,0.02781352521581637,Sector
-Technology,Software,57,0.11954569836069773,Industry
-Technology,Hardware,90,0.47166263048189205,Industry
-Technology,IT Services,58,0.880506058637985,Industry
-Healthcare,Pharmaceuticals,76,0.3617469779117929,Industry
-Healthcare,Medical Devices,66,0.01001920492835906,Industry
-Healthcare,Healthcare Services,4,0.5165093477383,Industry
-Finance,Banking,42,0.506788170158054,Industry
-Finance,Insurance,63,0.4188344449821839,Industry
-Finance,Investment Services,23,0.12928753501410173,Industry
-Energy,Oil & Gas,86,0.8601644499765286,Industry
-Energy,Renewable Energy,72,0.13432264281033335,Industry
-Energy,Energy Exploration,34,0.7534774396071081,Industry
-Consumer Goods,Food & Beverage,22,0.399193245304588,Industry
-Consumer Goods,Household Products,44,0.36764955941182265,Industry
-Consumer Goods,Apparel,85,0.5885183639453963,Industry
-Utilities,Electric,45,0.8470601015716589,Industry
-Utilities,Water,41,0.7403866314270608,Industry
-Utilities,Gas,97,0.24394548451336007,Industry
-Real Estate,Residential,81,0.12997837884526486,Industry
-Real Estate,Commercial,72,0.20111113493206678,Industry
-Real Estate,Industrial,77,0.162846132420843,Industry
-Telecommunications,Mobile,33,0.0767397877540631,Industry
-Telecommunications,Broadband,27,0.28484902143368707,Industry
-Telecommunications,Satellite,35,0.32402759807657844,Industry
-Materials,Chemicals,38,0.6240752235448496,Industry
-Materials,Metals & Mining,52,0.24445998731900886,Industry
-Materials,Construction Materials,83,0.22877402219572296,Industry
-Industrials,Aerospace & Defense,92,0.5650437130254923,Industry
-Industrials,Machinery,15,0.6022646104672904,Industry
-Industrials,Industrial Services,92,0.682193124573311,Industry
-Consumer Services,Retail,87,0.6835247059395245,Industry
-Consumer Services,Travel & Leisure,60,0.8550432073491612,Industry
-Consumer Services,Media,2,0.7477061037929403,Industry
-Transportation,Airlines,95,0.9210859620672757,Industry
-Transportation,Railroads,53,0.6564145541446522,Industry
-Transportation,Logistics,69,0.8346486726561672,Industry
+,La Spezia,796,0.42585172351998074,Overall
+La Spezia,HiTech,89,0.2393174570077039,Sector
+La Spezia,Agriculture,59,0.2693232372901546,Sector
+La Spezia,Transportation,34,0.7460839667422833,Sector
+La Spezia,Consumer_Products,47,0.3774287643768519,Sector
+La Spezia,Unassigned,79,0.029888473699226314,Sector
+La Spezia,Communication,53,0.1145844680041479,Sector
+La Spezia,Trade,29,0.1592766560301172,Sector
+La Spezia,Business_Services,0,0.49823988871441605,Sector
+La Spezia,Business_Products,87,0.7292919870390169,Sector
+La Spezia,Construction,53,0.6253036885906755,Sector
+La Spezia,Services,25,0.9415475069570918,Sector
+La Spezia,Mining,94,0.35638891206394796,Sector
+La Spezia,Health_Care,18,0.5150452827492532,Sector
+La Spezia,EnergyExpL_Prod,42,0.06237039469502548,Sector
+La Spezia,Utilities,87,0.7236851688397998,Sector

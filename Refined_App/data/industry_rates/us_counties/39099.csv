@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Mahoning,1660,0.7855140147634565,Overall
-Mahoning,Technology,123,0.2461281055513761,Sector
-Mahoning,Healthcare,144,0.5333124914957036,Sector
-Mahoning,Finance,213,0.15630715140238727,Sector
-Mahoning,Energy,155,0.5623703570434314,Sector
-Mahoning,Consumer Goods,142,0.8752855400456208,Sector
-Mahoning,Utilities,91,0.6777098644310341,Sector
-Mahoning,Real Estate,64,0.6753756902854847,Sector
-Mahoning,Telecommunications,130,0.09697328557646823,Sector
-Mahoning,Materials,170,0.48112256546320054,Sector
-Mahoning,Industrials,99,0.3388537985174095,Sector
-Mahoning,Consumer Services,198,0.23318574310349693,Sector
-Mahoning,Transportation,131,0.9367285328352503,Sector
-Technology,Software,23,0.45232662715837624,Industry
-Technology,Hardware,28,0.106057734758214,Industry
-Technology,IT Services,72,0.9491202475263674,Industry
-Healthcare,Pharmaceuticals,73,0.8404841694643082,Industry
-Healthcare,Medical Devices,5,0.7584837769081486,Industry
-Healthcare,Healthcare Services,66,0.5234626570822499,Industry
-Finance,Banking,43,0.2041782449100462,Industry
-Finance,Insurance,92,0.01464440930455968,Industry
-Finance,Investment Services,78,0.023297705973512328,Industry
-Energy,Oil & Gas,90,0.5752548562751754,Industry
-Energy,Renewable Energy,39,0.029993300684353907,Industry
-Energy,Energy Exploration,26,0.15941430399083356,Industry
-Consumer Goods,Food & Beverage,14,0.8980989920173921,Industry
-Consumer Goods,Household Products,34,0.8257480360057139,Industry
-Consumer Goods,Apparel,94,0.18657736353776233,Industry
-Utilities,Electric,12,0.6133563501021615,Industry
-Utilities,Water,77,0.5477256901432739,Industry
-Utilities,Gas,2,0.5805165607033435,Industry
-Real Estate,Residential,36,0.3406183071805915,Industry
-Real Estate,Commercial,19,0.6895975229649985,Industry
-Real Estate,Industrial,9,0.20950775518583475,Industry
-Telecommunications,Mobile,67,0.4080954109642604,Industry
-Telecommunications,Broadband,0,0.27213389846953906,Industry
-Telecommunications,Satellite,63,0.5329270015736824,Industry
-Materials,Chemicals,73,0.8631009230310279,Industry
-Materials,Metals & Mining,24,0.0835795117424325,Industry
-Materials,Construction Materials,73,0.2737941939822983,Industry
-Industrials,Aerospace & Defense,10,0.40515179698413095,Industry
-Industrials,Machinery,3,0.03424643569799957,Industry
-Industrials,Industrial Services,86,0.19759321695547816,Industry
-Consumer Services,Retail,72,0.9092939274956221,Industry
-Consumer Services,Travel & Leisure,29,0.847555020765603,Industry
-Consumer Services,Media,97,0.2316935120090462,Industry
-Transportation,Airlines,43,0.3195767744423871,Industry
-Transportation,Railroads,28,0.8703802031260617,Industry
-Transportation,Logistics,60,0.6119246408758208,Industry
+,Mahoning,781,0.461703187386498,Overall
+Mahoning,HiTech,55,0.22767725058908772,Sector
+Mahoning,Agriculture,77,0.7946956642109436,Sector
+Mahoning,Transportation,16,0.2842875397967146,Sector
+Mahoning,Consumer_Products,84,0.510873370884837,Sector
+Mahoning,Unassigned,27,0.9009536775327436,Sector
+Mahoning,Communication,25,0.4477522034517313,Sector
+Mahoning,Trade,16,0.13472548381844718,Sector
+Mahoning,Business_Services,3,0.7795143477547328,Sector
+Mahoning,Business_Products,57,0.29597189115793443,Sector
+Mahoning,Construction,29,0.4956536128024944,Sector
+Mahoning,Services,91,0.2800028279004183,Sector
+Mahoning,Mining,87,0.8037867867393483,Sector
+Mahoning,Health_Care,89,0.07184810513613948,Sector
+Mahoning,EnergyExpL_Prod,37,0.40863986612113246,Sector
+Mahoning,Utilities,88,0.4891651829007658,Sector

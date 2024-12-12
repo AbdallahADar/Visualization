@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Braşov,1758,0.07051301555218503,Overall
-Braşov,Technology,187,0.9009350226716811,Sector
-Braşov,Healthcare,132,0.7390098414165012,Sector
-Braşov,Finance,185,0.529589724125956,Sector
-Braşov,Energy,135,0.95184436691864,Sector
-Braşov,Consumer Goods,153,0.5355695716964174,Sector
-Braşov,Utilities,78,0.8732731447383087,Sector
-Braşov,Real Estate,110,0.3943730255700768,Sector
-Braşov,Telecommunications,82,0.39098850616486913,Sector
-Braşov,Materials,201,0.12883755907601036,Sector
-Braşov,Industrials,121,0.5545544373684614,Sector
-Braşov,Consumer Services,171,0.24138208823129792,Sector
-Braşov,Transportation,203,0.36678388402074247,Sector
-Technology,Software,93,0.6303447523355324,Industry
-Technology,Hardware,77,0.4226460029984911,Industry
-Technology,IT Services,17,0.28964481271452835,Industry
-Healthcare,Pharmaceuticals,40,0.3984303727356152,Industry
-Healthcare,Medical Devices,4,0.7645497526147924,Industry
-Healthcare,Healthcare Services,88,0.03371729334728324,Industry
-Finance,Banking,52,0.7083113632570384,Industry
-Finance,Insurance,89,0.22585374237723366,Industry
-Finance,Investment Services,44,0.25764244844077333,Industry
-Energy,Oil & Gas,63,0.18820636240100164,Industry
-Energy,Renewable Energy,25,0.8559643350500817,Industry
-Energy,Energy Exploration,47,0.2591091931267895,Industry
-Consumer Goods,Food & Beverage,8,0.42175471253509533,Industry
-Consumer Goods,Household Products,75,0.7111904204526583,Industry
-Consumer Goods,Apparel,70,0.9808328039769354,Industry
-Utilities,Electric,14,0.9473948906840297,Industry
-Utilities,Water,49,0.5429785486454005,Industry
-Utilities,Gas,15,0.4394439052608309,Industry
-Real Estate,Residential,52,0.7489231845503892,Industry
-Real Estate,Commercial,9,0.9129392180992393,Industry
-Real Estate,Industrial,49,0.20015335550119517,Industry
-Telecommunications,Mobile,25,0.6063458329383674,Industry
-Telecommunications,Broadband,24,0.00026952793598000735,Industry
-Telecommunications,Satellite,33,0.26845539660115525,Industry
-Materials,Chemicals,73,0.9101665311025146,Industry
-Materials,Metals & Mining,99,0.8213817932929084,Industry
-Materials,Construction Materials,29,0.6467673333642999,Industry
-Industrials,Aerospace & Defense,17,0.3169353581104417,Industry
-Industrials,Machinery,32,0.990891532185406,Industry
-Industrials,Industrial Services,72,0.07791918472667547,Industry
-Consumer Services,Retail,70,0.5756308918434986,Industry
-Consumer Services,Travel & Leisure,76,0.6776950542561556,Industry
-Consumer Services,Media,25,0.5821785931252603,Industry
-Transportation,Airlines,81,0.2371976672683348,Industry
-Transportation,Railroads,95,0.06679527213233671,Industry
-Transportation,Logistics,27,0.6416262270043545,Industry
+,Braşov,887,0.49726084724133357,Overall
+Braşov,HiTech,41,0.42160583209814506,Sector
+Braşov,Agriculture,64,0.5306252677865165,Sector
+Braşov,Transportation,53,0.6578519198781972,Sector
+Braşov,Consumer_Products,79,0.17736528082830738,Sector
+Braşov,Unassigned,61,0.4318574980668002,Sector
+Braşov,Communication,47,0.2811388725645223,Sector
+Braşov,Trade,67,0.7418819204340259,Sector
+Braşov,Business_Services,66,0.6316411936953761,Sector
+Braşov,Business_Products,18,0.595758611798321,Sector
+Braşov,Construction,69,0.9916521364650206,Sector
+Braşov,Services,96,0.9242451624833881,Sector
+Braşov,Mining,57,0.007804315270960482,Sector
+Braşov,Health_Care,87,0.4536999561765387,Sector
+Braşov,EnergyExpL_Prod,15,0.5933232118807003,Sector
+Braşov,Utilities,67,0.018461529193183335,Sector

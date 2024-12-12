@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Litchfield,1750,0.6392523354710179,Overall
-Litchfield,Technology,201,0.0777788487954042,Sector
-Litchfield,Healthcare,198,0.07730513911513937,Sector
-Litchfield,Finance,190,0.8858384076350905,Sector
-Litchfield,Energy,103,0.28503978974777056,Sector
-Litchfield,Consumer Goods,212,0.9614073863634189,Sector
-Litchfield,Utilities,121,0.4481009117239054,Sector
-Litchfield,Real Estate,166,0.8360368851287713,Sector
-Litchfield,Telecommunications,208,0.5397327493101561,Sector
-Litchfield,Materials,101,0.7803287502629561,Sector
-Litchfield,Industrials,49,0.027172824079823577,Sector
-Litchfield,Consumer Services,58,0.8977833913887804,Sector
-Litchfield,Transportation,143,0.3661242095786337,Sector
-Technology,Software,49,0.369142057430379,Industry
-Technology,Hardware,56,0.8049390334475554,Industry
-Technology,IT Services,96,0.3833943319559847,Industry
-Healthcare,Pharmaceuticals,98,0.77755528835587,Industry
-Healthcare,Medical Devices,46,0.8034495242716657,Industry
-Healthcare,Healthcare Services,54,0.7163219298316515,Industry
-Finance,Banking,57,0.18314108015141373,Industry
-Finance,Insurance,48,0.562744420922269,Industry
-Finance,Investment Services,85,0.16021508371288173,Industry
-Energy,Oil & Gas,8,0.282565709096948,Industry
-Energy,Renewable Energy,6,0.3296697307587805,Industry
-Energy,Energy Exploration,89,0.07132358460780552,Industry
-Consumer Goods,Food & Beverage,36,0.33552110824830506,Industry
-Consumer Goods,Household Products,87,0.6376393746712965,Industry
-Consumer Goods,Apparel,89,0.31318864696544224,Industry
-Utilities,Electric,96,0.9269071297873572,Industry
-Utilities,Water,20,0.06325078653002403,Industry
-Utilities,Gas,5,0.3278433440407984,Industry
-Real Estate,Residential,69,0.5005902640147338,Industry
-Real Estate,Commercial,32,0.6916555188407206,Industry
-Real Estate,Industrial,65,0.1992750642963117,Industry
-Telecommunications,Mobile,63,0.8149563051007034,Industry
-Telecommunications,Broadband,57,0.9936829229035797,Industry
-Telecommunications,Satellite,88,0.8953636186315248,Industry
-Materials,Chemicals,48,0.8197232826998845,Industry
-Materials,Metals & Mining,19,0.714709523348026,Industry
-Materials,Construction Materials,34,0.04439091961314434,Industry
-Industrials,Aerospace & Defense,4,0.43866471176507593,Industry
-Industrials,Machinery,4,0.07421968620099706,Industry
-Industrials,Industrial Services,41,0.2475427327189632,Industry
-Consumer Services,Retail,3,0.8869318022953787,Industry
-Consumer Services,Travel & Leisure,34,0.24023714982011068,Industry
-Consumer Services,Media,21,0.28188341416364204,Industry
-Transportation,Airlines,23,0.4000609278376628,Industry
-Transportation,Railroads,69,0.2904064603520279,Industry
-Transportation,Logistics,51,0.35451582165129736,Industry
+,Litchfield,574,0.5321037152731667,Overall
+Litchfield,HiTech,1,0.8907187998473147,Sector
+Litchfield,Agriculture,1,0.8685601151804885,Sector
+Litchfield,Transportation,36,0.046244766426552175,Sector
+Litchfield,Consumer_Products,59,0.5957273673293177,Sector
+Litchfield,Unassigned,75,0.0180713530664256,Sector
+Litchfield,Communication,28,0.6085032546733828,Sector
+Litchfield,Trade,10,0.9594476907344558,Sector
+Litchfield,Business_Services,11,0.03948387238191098,Sector
+Litchfield,Business_Products,74,0.1496534707563696,Sector
+Litchfield,Construction,24,0.827342075568062,Sector
+Litchfield,Services,72,0.5413220799926955,Sector
+Litchfield,Mining,14,0.8803488369029291,Sector
+Litchfield,Health_Care,34,0.10229979929928346,Sector
+Litchfield,EnergyExpL_Prod,42,0.4573411795812664,Sector
+Litchfield,Utilities,93,0.9964910673570463,Sector

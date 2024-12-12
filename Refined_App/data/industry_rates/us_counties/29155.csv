@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pemiscot,1493,0.2810880619664766,Overall
-Pemiscot,Technology,176,0.39972199854907864,Sector
-Pemiscot,Healthcare,160,0.8403072833045891,Sector
-Pemiscot,Finance,164,0.9346208510233125,Sector
-Pemiscot,Energy,114,0.14945188771005624,Sector
-Pemiscot,Consumer Goods,133,0.03722843159525524,Sector
-Pemiscot,Utilities,52,0.15102959634383217,Sector
-Pemiscot,Real Estate,90,0.3874312791599466,Sector
-Pemiscot,Telecommunications,99,0.22817331023701592,Sector
-Pemiscot,Materials,121,0.9643270799387442,Sector
-Pemiscot,Industrials,53,0.1774969787040751,Sector
-Pemiscot,Consumer Services,164,0.4120723813809418,Sector
-Pemiscot,Transportation,167,0.580488234230648,Sector
-Technology,Software,56,0.01160343885463444,Industry
-Technology,Hardware,48,0.06411098690126527,Industry
-Technology,IT Services,72,0.7229287725091504,Industry
-Healthcare,Pharmaceuticals,55,0.08879153834884312,Industry
-Healthcare,Medical Devices,35,0.28870145877036435,Industry
-Healthcare,Healthcare Services,70,0.2099212464843715,Industry
-Finance,Banking,72,0.30281938636781625,Industry
-Finance,Insurance,30,0.6756106213137724,Industry
-Finance,Investment Services,62,0.5487093320265641,Industry
-Energy,Oil & Gas,52,0.03604280738730825,Industry
-Energy,Renewable Energy,8,0.44070393407620134,Industry
-Energy,Energy Exploration,54,0.08051895259676123,Industry
-Consumer Goods,Food & Beverage,42,0.18536963817207186,Industry
-Consumer Goods,Household Products,71,0.5531956452808661,Industry
-Consumer Goods,Apparel,20,0.031073198452849837,Industry
-Utilities,Electric,21,0.41172013305279587,Industry
-Utilities,Water,12,0.4078251033800896,Industry
-Utilities,Gas,19,0.6359984618734869,Industry
-Real Estate,Residential,6,0.6132750375636566,Industry
-Real Estate,Commercial,81,0.39964429518491007,Industry
-Real Estate,Industrial,3,0.11753427736871402,Industry
-Telecommunications,Mobile,6,0.8543388326033924,Industry
-Telecommunications,Broadband,67,0.2936436818925541,Industry
-Telecommunications,Satellite,26,0.2991140445781093,Industry
-Materials,Chemicals,34,0.7624700668571097,Industry
-Materials,Metals & Mining,45,0.8402052121210988,Industry
-Materials,Construction Materials,42,0.9075308226111346,Industry
-Industrials,Aerospace & Defense,5,0.7809400064127161,Industry
-Industrials,Machinery,43,0.3856219489424513,Industry
-Industrials,Industrial Services,5,0.7934635048579743,Industry
-Consumer Services,Retail,69,0.23005139679496234,Industry
-Consumer Services,Travel & Leisure,13,0.7478562611496994,Industry
-Consumer Services,Media,82,0.1771258005805182,Industry
-Transportation,Airlines,61,0.45989889931314487,Industry
-Transportation,Railroads,42,0.7866142524654499,Industry
-Transportation,Logistics,64,0.09092064118396648,Industry
+,Pemiscot,846,0.5371318255798431,Overall
+Pemiscot,HiTech,50,0.7645539830811923,Sector
+Pemiscot,Agriculture,21,0.31406207835471234,Sector
+Pemiscot,Transportation,79,0.6269047786984825,Sector
+Pemiscot,Consumer_Products,50,0.18975556612736644,Sector
+Pemiscot,Unassigned,77,0.5004203381758703,Sector
+Pemiscot,Communication,30,0.9476535075553137,Sector
+Pemiscot,Trade,26,0.6611539899837788,Sector
+Pemiscot,Business_Services,30,0.6114419430058394,Sector
+Pemiscot,Business_Products,69,0.562126267289304,Sector
+Pemiscot,Construction,64,0.7832372099191922,Sector
+Pemiscot,Services,52,0.11574028292144545,Sector
+Pemiscot,Mining,60,0.08080733747319513,Sector
+Pemiscot,Health_Care,79,0.16398879851401038,Sector
+Pemiscot,EnergyExpL_Prod,68,0.7696887833015484,Sector
+Pemiscot,Utilities,91,0.9654425192963939,Sector

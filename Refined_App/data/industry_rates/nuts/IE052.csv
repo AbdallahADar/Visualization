@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,South-East ,1896,0.4762449615250023,Overall
-South-East ,Technology,90,0.4743591894090109,Sector
-South-East ,Healthcare,192,0.24990701543615035,Sector
-South-East ,Finance,193,0.09677294123107538,Sector
-South-East ,Energy,94,0.5351109314589376,Sector
-South-East ,Consumer Goods,195,0.1524226007349715,Sector
-South-East ,Utilities,188,0.4267284615256336,Sector
-South-East ,Real Estate,167,0.9759083866180992,Sector
-South-East ,Telecommunications,200,0.6818969434067472,Sector
-South-East ,Materials,53,0.6845462349092138,Sector
-South-East ,Industrials,123,0.8845983906201262,Sector
-South-East ,Consumer Services,159,0.17530369729509065,Sector
-South-East ,Transportation,242,0.9289415715166834,Sector
-Technology,Software,20,0.08617861348880274,Industry
-Technology,Hardware,40,0.6669133415785773,Industry
-Technology,IT Services,30,0.802846736593576,Industry
-Healthcare,Pharmaceuticals,78,0.5981033731093467,Industry
-Healthcare,Medical Devices,28,0.2234815455875876,Industry
-Healthcare,Healthcare Services,86,0.3843171529144793,Industry
-Finance,Banking,40,0.9293360153193251,Industry
-Finance,Insurance,85,0.6410612340898048,Industry
-Finance,Investment Services,68,0.3573130737862201,Industry
-Energy,Oil & Gas,36,0.9953324996862337,Industry
-Energy,Renewable Energy,11,0.2513820710807366,Industry
-Energy,Energy Exploration,47,0.6010806916600615,Industry
-Consumer Goods,Food & Beverage,53,0.03732952014711177,Industry
-Consumer Goods,Household Products,61,0.2475199716753249,Industry
-Consumer Goods,Apparel,81,0.9978565227981243,Industry
-Utilities,Electric,84,0.6329209040014261,Industry
-Utilities,Water,60,0.8840419478342338,Industry
-Utilities,Gas,44,0.5818550297012203,Industry
-Real Estate,Residential,72,0.07915680168061223,Industry
-Real Estate,Commercial,84,0.19954802034392216,Industry
-Real Estate,Industrial,11,0.11838973886562376,Industry
-Telecommunications,Mobile,85,0.5139259644499674,Industry
-Telecommunications,Broadband,18,0.14247800270164201,Industry
-Telecommunications,Satellite,97,0.42203057321931214,Industry
-Materials,Chemicals,2,0.6595062400893495,Industry
-Materials,Metals & Mining,29,0.6283551141794467,Industry
-Materials,Construction Materials,22,0.2993779380294226,Industry
-Industrials,Aerospace & Defense,34,0.2669557003888616,Industry
-Industrials,Machinery,8,0.11571061349129519,Industry
-Industrials,Industrial Services,81,0.40285257502921856,Industry
-Consumer Services,Retail,73,0.46567240542567034,Industry
-Consumer Services,Travel & Leisure,66,0.3126881468244799,Industry
-Consumer Services,Media,20,0.4921438573364949,Industry
-Transportation,Airlines,84,0.9868232947428637,Industry
-Transportation,Railroads,87,0.7789795983120898,Industry
-Transportation,Logistics,71,0.4570004034847842,Industry
+,South-East ,746,0.3921815051618459,Overall
+South-East ,HiTech,19,0.44213601774055766,Sector
+South-East ,Agriculture,5,0.23000086072370773,Sector
+South-East ,Transportation,96,0.883800351494188,Sector
+South-East ,Consumer_Products,43,0.023905639380945698,Sector
+South-East ,Unassigned,50,0.5773667674942623,Sector
+South-East ,Communication,89,0.8571084854969808,Sector
+South-East ,Trade,78,0.1059866420068899,Sector
+South-East ,Business_Services,28,0.8891340643198931,Sector
+South-East ,Business_Products,99,0.3520973386633527,Sector
+South-East ,Construction,79,0.5517749134895117,Sector
+South-East ,Services,19,0.20711894609879766,Sector
+South-East ,Mining,30,0.07530119498941001,Sector
+South-East ,Health_Care,61,0.4581463066784124,Sector
+South-East ,EnergyExpL_Prod,3,0.14087546071583656,Sector
+South-East ,Utilities,47,0.08796958813494271,Sector

@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Pfaffenhofen a. d. Ilm,1535,0.9075370626646198,Overall
+Pfaffenhofen a. d. Ilm,Technology,169,0.9148381937739818,Sector
+Pfaffenhofen a. d. Ilm,Healthcare,132,0.7042630415549359,Sector
+Pfaffenhofen a. d. Ilm,Finance,122,0.32467117804962564,Sector
+Pfaffenhofen a. d. Ilm,Energy,107,0.021606006182160575,Sector
+Pfaffenhofen a. d. Ilm,Consumer Goods,127,0.694896381881286,Sector
+Pfaffenhofen a. d. Ilm,Utilities,187,0.12703707283062315,Sector
+Pfaffenhofen a. d. Ilm,Real Estate,125,0.25810066458872283,Sector
+Pfaffenhofen a. d. Ilm,Telecommunications,85,0.38246683342021637,Sector
+Pfaffenhofen a. d. Ilm,Materials,177,0.705752793859284,Sector
+Pfaffenhofen a. d. Ilm,Industrials,125,0.11682081072671213,Sector
+Pfaffenhofen a. d. Ilm,Consumer Services,78,0.7082207986562055,Sector
+Pfaffenhofen a. d. Ilm,Transportation,101,0.978894847783163,Sector
+Technology,Software,47,0.6463018858523946,Industry
+Technology,Hardware,73,0.5785911652382257,Industry
+Technology,IT Services,49,0.8664236160390605,Industry
+Healthcare,Pharmaceuticals,62,0.26264412440543083,Industry
+Healthcare,Medical Devices,15,0.19503219363681823,Industry
+Healthcare,Healthcare Services,55,0.8218735187014686,Industry
+Finance,Banking,69,0.6301872534308834,Industry
+Finance,Insurance,37,0.3767129506708834,Industry
+Finance,Investment Services,16,0.5951261538359405,Industry
+Energy,Oil & Gas,44,0.9387031657597235,Industry
+Energy,Renewable Energy,27,0.34088737694918203,Industry
+Energy,Energy Exploration,36,0.6947436063391645,Industry
+Consumer Goods,Food & Beverage,10,0.3827205395967508,Industry
+Consumer Goods,Household Products,66,0.8740933844448361,Industry
+Consumer Goods,Apparel,51,0.4517895469648091,Industry
+Utilities,Electric,44,0.39901876063198893,Industry
+Utilities,Water,97,0.34515772653850574,Industry
+Utilities,Gas,46,0.3521178862011175,Industry
+Real Estate,Residential,97,0.999822121145718,Industry
+Real Estate,Commercial,10,0.43638149965547257,Industry
+Real Estate,Industrial,18,0.41390893458381983,Industry
+Telecommunications,Mobile,22,0.8701649654285086,Industry
+Telecommunications,Broadband,51,0.99154869528632,Industry
+Telecommunications,Satellite,12,0.6586996340048517,Industry
+Materials,Chemicals,80,0.24563520756995494,Industry
+Materials,Metals & Mining,29,0.14777273597068685,Industry
+Materials,Construction Materials,68,0.8765775294578657,Industry
+Industrials,Aerospace & Defense,21,0.3885665175677391,Industry
+Industrials,Machinery,89,0.5459949829201304,Industry
+Industrials,Industrial Services,15,0.31115970099639567,Industry
+Consumer Services,Retail,18,0.45914689397858877,Industry
+Consumer Services,Travel & Leisure,11,0.46735875025308404,Industry
+Consumer Services,Media,49,0.5720674706983178,Industry
+Transportation,Airlines,38,0.36118055789641257,Industry
+Transportation,Railroads,40,0.9729572478850602,Industry
+Transportation,Logistics,23,0.5378549720852773,Industry

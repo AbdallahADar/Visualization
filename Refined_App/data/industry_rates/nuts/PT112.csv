@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Cávado,1922,0.8334634473380699,Overall
-Cávado,Technology,122,0.051599961116503223,Sector
-Cávado,Healthcare,120,0.5132181157092572,Sector
-Cávado,Finance,193,0.7561206404959033,Sector
-Cávado,Energy,197,0.10692721976751107,Sector
-Cávado,Consumer Goods,174,0.4724467734834432,Sector
-Cávado,Utilities,178,0.4722992585170084,Sector
-Cávado,Real Estate,167,0.9775997830886662,Sector
-Cávado,Telecommunications,145,0.9373127044137883,Sector
-Cávado,Materials,127,0.5220475963084217,Sector
-Cávado,Industrials,201,0.5193118456000388,Sector
-Cávado,Consumer Services,135,0.6544645911759434,Sector
-Cávado,Transportation,163,0.7579209350190373,Sector
-Technology,Software,35,0.9000203323888645,Industry
-Technology,Hardware,18,0.8025760527345073,Industry
-Technology,IT Services,69,0.25370476690029187,Industry
-Healthcare,Pharmaceuticals,11,0.04231665822272335,Industry
-Healthcare,Medical Devices,41,0.281632747847156,Industry
-Healthcare,Healthcare Services,68,0.5713718202601787,Industry
-Finance,Banking,32,0.20040954590813365,Industry
-Finance,Insurance,86,0.6759079332890077,Industry
-Finance,Investment Services,75,0.6586186877408542,Industry
-Energy,Oil & Gas,87,0.9147852414784757,Industry
-Energy,Renewable Energy,37,0.01312989373596396,Industry
-Energy,Energy Exploration,73,0.47936140578424524,Industry
-Consumer Goods,Food & Beverage,81,0.8635973019058419,Industry
-Consumer Goods,Household Products,20,0.670242956005034,Industry
-Consumer Goods,Apparel,73,0.9150833774746168,Industry
-Utilities,Electric,93,0.5993201317178273,Industry
-Utilities,Water,76,0.717130799003634,Industry
-Utilities,Gas,9,0.024578015522967234,Industry
-Real Estate,Residential,18,0.11683920103966716,Industry
-Real Estate,Commercial,79,0.8733417114189611,Industry
-Real Estate,Industrial,70,0.47683565085710244,Industry
-Telecommunications,Mobile,56,0.7051895433961786,Industry
-Telecommunications,Broadband,42,0.3922647736698043,Industry
-Telecommunications,Satellite,47,0.8487973905058842,Industry
-Materials,Chemicals,96,0.1571722442891279,Industry
-Materials,Metals & Mining,21,0.07156788539588854,Industry
-Materials,Construction Materials,10,0.5590755325354649,Industry
-Industrials,Aerospace & Defense,86,0.8303037761187837,Industry
-Industrials,Machinery,83,0.26799336484394665,Industry
-Industrials,Industrial Services,32,0.02596258258645001,Industry
-Consumer Services,Retail,52,0.5499757785781916,Industry
-Consumer Services,Travel & Leisure,6,0.033290415836010334,Industry
-Consumer Services,Media,77,0.3049751972331948,Industry
-Transportation,Airlines,83,0.9135057740135624,Industry
-Transportation,Railroads,25,0.6075891804321134,Industry
-Transportation,Logistics,55,0.09865971169058774,Industry
+,Cávado,892,0.5653286768810032,Overall
+Cávado,HiTech,39,0.9519044171016697,Sector
+Cávado,Agriculture,97,0.6060351441122497,Sector
+Cávado,Transportation,69,0.6652448965866096,Sector
+Cávado,Consumer_Products,59,0.008989634679280711,Sector
+Cávado,Unassigned,80,0.5176734500078168,Sector
+Cávado,Communication,84,0.9155277374427406,Sector
+Cávado,Trade,78,0.5656258281962008,Sector
+Cávado,Business_Services,58,0.8709347618096897,Sector
+Cávado,Business_Products,44,0.8739997963016296,Sector
+Cávado,Construction,4,0.12774308677532242,Sector
+Cávado,Services,75,0.9911147498839629,Sector
+Cávado,Mining,93,0.9457383900264266,Sector
+Cávado,Health_Care,21,0.15246556037606862,Sector
+Cávado,EnergyExpL_Prod,64,0.01591789383265141,Sector
+Cávado,Utilities,27,0.2710148060827293,Sector

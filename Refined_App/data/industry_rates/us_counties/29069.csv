@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dunklin,1695,0.28365771862087097,Overall
-Dunklin,Technology,245,0.7660666708331113,Sector
-Dunklin,Healthcare,90,0.24874732655096632,Sector
-Dunklin,Finance,171,0.07971088167997997,Sector
-Dunklin,Energy,142,0.3598211287905644,Sector
-Dunklin,Consumer Goods,250,0.9177835417059547,Sector
-Dunklin,Utilities,158,0.7517538294789711,Sector
-Dunklin,Real Estate,87,0.8838065527436195,Sector
-Dunklin,Telecommunications,193,0.48503616234397506,Sector
-Dunklin,Materials,133,0.2639147669355091,Sector
-Dunklin,Industrials,46,0.9682625690837834,Sector
-Dunklin,Consumer Services,115,0.11444769027228618,Sector
-Dunklin,Transportation,65,0.1617024678461122,Sector
-Technology,Software,78,0.39187869805700126,Industry
-Technology,Hardware,96,0.21096276935274882,Industry
-Technology,IT Services,71,0.926734638579703,Industry
-Healthcare,Pharmaceuticals,3,0.2647064159884608,Industry
-Healthcare,Medical Devices,12,0.1922586604000629,Industry
-Healthcare,Healthcare Services,75,0.9212698861182249,Industry
-Finance,Banking,75,0.3123864933963829,Industry
-Finance,Insurance,12,0.1510665152753078,Industry
-Finance,Investment Services,84,0.5724405846111964,Industry
-Energy,Oil & Gas,46,0.2737024422544062,Industry
-Energy,Renewable Energy,53,0.025847537302917667,Industry
-Energy,Energy Exploration,43,0.9897359917416191,Industry
-Consumer Goods,Food & Beverage,87,0.3867668008232239,Industry
-Consumer Goods,Household Products,89,0.945976101186793,Industry
-Consumer Goods,Apparel,74,0.7315027947268203,Industry
-Utilities,Electric,62,0.906670951698324,Industry
-Utilities,Water,84,0.18061169003493693,Industry
-Utilities,Gas,12,0.7584020440997475,Industry
-Real Estate,Residential,56,0.11522648358935728,Industry
-Real Estate,Commercial,8,0.4416343820896166,Industry
-Real Estate,Industrial,23,0.09191276671472437,Industry
-Telecommunications,Mobile,65,0.9510645331766651,Industry
-Telecommunications,Broadband,68,0.5379816533105912,Industry
-Telecommunications,Satellite,60,0.5609333675418109,Industry
-Materials,Chemicals,62,0.26568439261583354,Industry
-Materials,Metals & Mining,10,0.8388639190364133,Industry
-Materials,Construction Materials,61,0.03619503647959621,Industry
-Industrials,Aerospace & Defense,5,0.36659416693238034,Industry
-Industrials,Machinery,12,0.10899669967275216,Industry
-Industrials,Industrial Services,29,0.7854893440424628,Industry
-Consumer Services,Retail,60,0.7095544599584656,Industry
-Consumer Services,Travel & Leisure,29,0.9443514576486673,Industry
-Consumer Services,Media,26,0.15843650244844576,Industry
-Transportation,Airlines,30,0.5786877539472081,Industry
-Transportation,Railroads,22,0.4910348868886749,Industry
-Transportation,Logistics,13,0.23866284753698863,Industry
+,Dunklin,620,0.5562096286128286,Overall
+Dunklin,HiTech,25,0.08028080563520978,Sector
+Dunklin,Agriculture,88,0.5519638826816586,Sector
+Dunklin,Transportation,13,0.47989492608742257,Sector
+Dunklin,Consumer_Products,48,0.0010231999565348815,Sector
+Dunklin,Unassigned,26,0.9587358815371344,Sector
+Dunklin,Communication,2,0.37944624432433016,Sector
+Dunklin,Trade,47,0.058766167687745674,Sector
+Dunklin,Business_Services,95,0.008556358206270098,Sector
+Dunklin,Business_Products,57,0.632619062189248,Sector
+Dunklin,Construction,38,0.9967022738064542,Sector
+Dunklin,Services,54,0.9814927982324021,Sector
+Dunklin,Mining,2,0.5674262757461883,Sector
+Dunklin,Health_Care,95,0.9848531631078591,Sector
+Dunklin,EnergyExpL_Prod,13,0.9435180645151672,Sector
+Dunklin,Utilities,17,0.7178653254788047,Sector

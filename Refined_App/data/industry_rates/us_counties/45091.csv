@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,York,1768,0.32003146288483697,Overall
-York,Technology,83,0.9536564472198839,Sector
-York,Healthcare,133,0.7567051980701178,Sector
-York,Finance,199,0.9859997268587459,Sector
-York,Energy,141,0.5352503907289871,Sector
-York,Consumer Goods,104,0.9281780606816195,Sector
-York,Utilities,121,0.07432844113045634,Sector
-York,Real Estate,119,0.6194953974039462,Sector
-York,Telecommunications,148,0.21262684426102163,Sector
-York,Materials,204,0.4596549202646594,Sector
-York,Industrials,130,0.9446945748009867,Sector
-York,Consumer Services,167,0.07312315291686822,Sector
-York,Transportation,219,0.6662281589655175,Sector
-Technology,Software,61,0.3623365600967502,Industry
-Technology,Hardware,17,0.09925089337811721,Industry
-Technology,IT Services,5,0.21607458276420355,Industry
-Healthcare,Pharmaceuticals,61,0.5737533920755364,Industry
-Healthcare,Medical Devices,30,0.6566488326115556,Industry
-Healthcare,Healthcare Services,42,0.28819680958270366,Industry
-Finance,Banking,52,0.22765387210501642,Industry
-Finance,Insurance,57,0.7802651696216297,Industry
-Finance,Investment Services,90,0.713562291222464,Industry
-Energy,Oil & Gas,7,0.31759532711768224,Industry
-Energy,Renewable Energy,82,0.4395394609840023,Industry
-Energy,Energy Exploration,52,0.9631940406008013,Industry
-Consumer Goods,Food & Beverage,17,0.9504913133105461,Industry
-Consumer Goods,Household Products,81,0.40455036826046176,Industry
-Consumer Goods,Apparel,6,0.4883299234367553,Industry
-Utilities,Electric,70,0.27797507503481045,Industry
-Utilities,Water,17,0.6720233340346817,Industry
-Utilities,Gas,34,0.6912030398153187,Industry
-Real Estate,Residential,97,0.3273110833288071,Industry
-Real Estate,Commercial,22,0.0558857490471778,Industry
-Real Estate,Industrial,0,0.4527063607906764,Industry
-Telecommunications,Mobile,92,0.932017830495574,Industry
-Telecommunications,Broadband,14,0.3743583411431435,Industry
-Telecommunications,Satellite,42,0.879047431658033,Industry
-Materials,Chemicals,79,0.39465698212959854,Industry
-Materials,Metals & Mining,37,0.6887470745654998,Industry
-Materials,Construction Materials,88,0.5632673715204434,Industry
-Industrials,Aerospace & Defense,56,0.9525426410296086,Industry
-Industrials,Machinery,67,0.5974322839530387,Industry
-Industrials,Industrial Services,7,0.03272895983234558,Industry
-Consumer Services,Retail,40,0.1629432694508104,Industry
-Consumer Services,Travel & Leisure,64,0.21025247250577572,Industry
-Consumer Services,Media,63,0.9415402785422468,Industry
-Transportation,Airlines,60,0.6789370194141869,Industry
-Transportation,Railroads,88,0.27159707660463717,Industry
-Transportation,Logistics,71,0.5960765181218094,Industry
+,York,739,0.4508519262876328,Overall
+York,HiTech,74,0.42707838769776885,Sector
+York,Agriculture,34,0.5289802470918697,Sector
+York,Transportation,98,0.6174435625287465,Sector
+York,Consumer_Products,6,0.3181805228616059,Sector
+York,Unassigned,18,0.02864460586302664,Sector
+York,Communication,13,0.852373736561678,Sector
+York,Trade,69,0.3588584462557043,Sector
+York,Business_Services,26,0.29402945647675394,Sector
+York,Business_Products,98,0.2852470165200015,Sector
+York,Construction,57,0.4477528872270772,Sector
+York,Services,43,0.5554417488350227,Sector
+York,Mining,12,0.7646362869181181,Sector
+York,Health_Care,39,0.5318323135011902,Sector
+York,EnergyExpL_Prod,82,0.2552588602628679,Sector
+York,Utilities,70,0.49702081571306134,Sector

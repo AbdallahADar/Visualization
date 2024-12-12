@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Lycoming,1823,0.6151444024367306,Overall
-Lycoming,Technology,128,0.7643727376823117,Sector
-Lycoming,Healthcare,199,0.6963886321305198,Sector
-Lycoming,Finance,208,0.8000275894242315,Sector
-Lycoming,Energy,107,0.2106299192112584,Sector
-Lycoming,Consumer Goods,87,0.727661573195554,Sector
-Lycoming,Utilities,216,0.353222454162744,Sector
-Lycoming,Real Estate,173,0.4203890447924582,Sector
-Lycoming,Telecommunications,183,0.7519207392433214,Sector
-Lycoming,Materials,78,0.9716664022101397,Sector
-Lycoming,Industrials,123,0.3434586737421794,Sector
-Lycoming,Consumer Services,123,0.9452945561394374,Sector
-Lycoming,Transportation,198,0.4067438978221871,Sector
-Technology,Software,88,0.36643036059314316,Industry
-Technology,Hardware,10,0.7478755051416253,Industry
-Technology,IT Services,30,0.019794977511923717,Industry
-Healthcare,Pharmaceuticals,65,0.6024729022065531,Industry
-Healthcare,Medical Devices,38,0.6624587649006876,Industry
-Healthcare,Healthcare Services,96,0.5495244881858371,Industry
-Finance,Banking,73,0.49518707314308774,Industry
-Finance,Insurance,37,0.2880149193093883,Industry
-Finance,Investment Services,98,0.46701425692816556,Industry
-Energy,Oil & Gas,58,0.11566523473133494,Industry
-Energy,Renewable Energy,40,0.7403914643556471,Industry
-Energy,Energy Exploration,9,0.6282240814652805,Industry
-Consumer Goods,Food & Beverage,18,0.7807332859083047,Industry
-Consumer Goods,Household Products,31,0.005828351334381421,Industry
-Consumer Goods,Apparel,38,0.4072312764084399,Industry
-Utilities,Electric,90,0.31992797108443805,Industry
-Utilities,Water,52,0.7881438445037542,Industry
-Utilities,Gas,74,0.9268293119879359,Industry
-Real Estate,Residential,33,0.4764766187128099,Industry
-Real Estate,Commercial,60,0.5831552328830298,Industry
-Real Estate,Industrial,80,0.13067730930330212,Industry
-Telecommunications,Mobile,72,0.045979423138884035,Industry
-Telecommunications,Broadband,30,0.04247679733626619,Industry
-Telecommunications,Satellite,81,0.3620079139421243,Industry
-Materials,Chemicals,11,0.3218318445935523,Industry
-Materials,Metals & Mining,16,0.8247147975575289,Industry
-Materials,Construction Materials,51,0.8708972951131324,Industry
-Industrials,Aerospace & Defense,28,0.13380339325906887,Industry
-Industrials,Machinery,31,0.36973935484795506,Industry
-Industrials,Industrial Services,64,0.45789866617582187,Industry
-Consumer Services,Retail,51,0.9609754889325273,Industry
-Consumer Services,Travel & Leisure,3,0.8099092336732385,Industry
-Consumer Services,Media,69,0.7030606257883265,Industry
-Transportation,Airlines,76,0.7082455874001552,Industry
-Transportation,Railroads,58,0.7709169960896737,Industry
-Transportation,Logistics,64,0.32265113428178205,Industry
+,Lycoming,835,0.4761802707814953,Overall
+Lycoming,HiTech,86,0.8833046429666348,Sector
+Lycoming,Agriculture,83,0.8664139648330688,Sector
+Lycoming,Transportation,82,0.5227833791751922,Sector
+Lycoming,Consumer_Products,46,0.31784906487879405,Sector
+Lycoming,Unassigned,6,0.27618885341469857,Sector
+Lycoming,Communication,45,0.37015952473244385,Sector
+Lycoming,Trade,99,0.5189612946606739,Sector
+Lycoming,Business_Services,78,0.6088056452578192,Sector
+Lycoming,Business_Products,18,0.671364589682728,Sector
+Lycoming,Construction,55,0.3806987085250989,Sector
+Lycoming,Services,66,0.05831530213341485,Sector
+Lycoming,Mining,76,0.17526968453618086,Sector
+Lycoming,Health_Care,53,0.509719126518679,Sector
+Lycoming,EnergyExpL_Prod,0,0.2984154551139775,Sector
+Lycoming,Utilities,42,0.6844548252930245,Sector

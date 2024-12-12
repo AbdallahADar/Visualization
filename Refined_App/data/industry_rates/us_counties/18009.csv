@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Blackford,1794,0.8523442013167358,Overall
-Blackford,Technology,249,0.5196023443975365,Sector
-Blackford,Healthcare,130,0.8776110014757015,Sector
-Blackford,Finance,179,0.9057204068784321,Sector
-Blackford,Energy,189,0.9275670043606853,Sector
-Blackford,Consumer Goods,107,0.15073320497710918,Sector
-Blackford,Utilities,136,0.10782752021221642,Sector
-Blackford,Real Estate,184,0.05160890141023755,Sector
-Blackford,Telecommunications,178,0.500874613261899,Sector
-Blackford,Materials,112,0.7760575757656816,Sector
-Blackford,Industrials,113,0.8198106456432264,Sector
-Blackford,Consumer Services,85,0.5950567310002443,Sector
-Blackford,Transportation,132,0.8790293891744126,Sector
-Technology,Software,61,0.5888317921318102,Industry
-Technology,Hardware,92,0.6410118439521492,Industry
-Technology,IT Services,96,0.8554176537652196,Industry
-Healthcare,Pharmaceuticals,35,0.032142296623296485,Industry
-Healthcare,Medical Devices,89,0.8985293714182606,Industry
-Healthcare,Healthcare Services,6,0.06475033957341003,Industry
-Finance,Banking,48,0.07008040003980731,Industry
-Finance,Insurance,51,0.8208016423792848,Industry
-Finance,Investment Services,80,0.273648241381256,Industry
-Energy,Oil & Gas,32,0.03552626073157972,Industry
-Energy,Renewable Energy,62,0.08809442610542162,Industry
-Energy,Energy Exploration,95,0.38163702268152533,Industry
-Consumer Goods,Food & Beverage,17,0.2709611175464052,Industry
-Consumer Goods,Household Products,31,0.6831830841455447,Industry
-Consumer Goods,Apparel,59,0.5115104682903502,Industry
-Utilities,Electric,76,0.12665900531156637,Industry
-Utilities,Water,10,0.6325613910290232,Industry
-Utilities,Gas,50,0.3212886126382033,Industry
-Real Estate,Residential,45,0.03707949843659031,Industry
-Real Estate,Commercial,98,0.77775272235919,Industry
-Real Estate,Industrial,41,0.5545050943694663,Industry
-Telecommunications,Mobile,91,0.3278995967370938,Industry
-Telecommunications,Broadband,32,0.16638940915398615,Industry
-Telecommunications,Satellite,55,0.2667951625472218,Industry
-Materials,Chemicals,38,0.46327839719427943,Industry
-Materials,Metals & Mining,11,0.22447264225486097,Industry
-Materials,Construction Materials,63,0.16911535367971564,Industry
-Industrials,Aerospace & Defense,66,0.04787532283102136,Industry
-Industrials,Machinery,14,0.8331911063557199,Industry
-Industrials,Industrial Services,33,0.5959071221523294,Industry
-Consumer Services,Retail,35,0.8398684210908134,Industry
-Consumer Services,Travel & Leisure,13,0.4629438441541541,Industry
-Consumer Services,Media,37,0.19962092560276068,Industry
-Transportation,Airlines,56,0.9846424270503176,Industry
-Transportation,Railroads,3,0.08535280829967329,Industry
-Transportation,Logistics,73,0.6137848281404304,Industry
+,Blackford,698,0.5151507625933178,Overall
+Blackford,HiTech,16,0.5361403711266983,Sector
+Blackford,Agriculture,7,0.3847363397852883,Sector
+Blackford,Transportation,1,0.11132756997868032,Sector
+Blackford,Consumer_Products,88,0.5405450160987101,Sector
+Blackford,Unassigned,25,0.9423750734645454,Sector
+Blackford,Communication,59,0.326634705873024,Sector
+Blackford,Trade,96,0.8209127952072883,Sector
+Blackford,Business_Services,51,0.3988014780934773,Sector
+Blackford,Business_Products,92,0.7110007386781236,Sector
+Blackford,Construction,10,0.016537826422917457,Sector
+Blackford,Services,61,0.7926917484384962,Sector
+Blackford,Mining,32,0.27620494369470383,Sector
+Blackford,Health_Care,30,0.6244698008125961,Sector
+Blackford,EnergyExpL_Prod,69,0.5535606487067058,Sector
+Blackford,Utilities,61,0.6913223825185115,Sector

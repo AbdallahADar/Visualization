@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Dorchester,1918,0.7683029244269791,Overall
-Dorchester,Technology,120,0.7215330959929096,Sector
-Dorchester,Healthcare,132,0.07852898109592621,Sector
-Dorchester,Finance,110,0.5293038426000434,Sector
-Dorchester,Energy,124,0.5933683505284916,Sector
-Dorchester,Consumer Goods,155,0.9608785634091385,Sector
-Dorchester,Utilities,166,0.865109935446179,Sector
-Dorchester,Real Estate,190,0.8647468546550952,Sector
-Dorchester,Telecommunications,239,0.7440107116087135,Sector
-Dorchester,Materials,76,0.8417154024858756,Sector
-Dorchester,Industrials,163,0.8116327791710413,Sector
-Dorchester,Consumer Services,258,0.8676401223571661,Sector
-Dorchester,Transportation,185,0.7463500115104955,Sector
-Technology,Software,63,0.12344870569372324,Industry
-Technology,Hardware,31,0.8317462369461456,Industry
-Technology,IT Services,26,0.34882728269155394,Industry
-Healthcare,Pharmaceuticals,17,0.30116365054400285,Industry
-Healthcare,Medical Devices,49,0.6435321695064008,Industry
-Healthcare,Healthcare Services,66,0.8014468960263166,Industry
-Finance,Banking,16,0.3515999662279168,Industry
-Finance,Insurance,53,0.40208073901179997,Industry
-Finance,Investment Services,41,0.9109771842850969,Industry
-Energy,Oil & Gas,1,0.3747916917543094,Industry
-Energy,Renewable Energy,33,0.6086103198574717,Industry
-Energy,Energy Exploration,90,0.8002886695079828,Industry
-Consumer Goods,Food & Beverage,39,0.09668661904870857,Industry
-Consumer Goods,Household Products,70,0.7520865582177648,Industry
-Consumer Goods,Apparel,46,0.43628324282075226,Industry
-Utilities,Electric,34,0.13025215619805153,Industry
-Utilities,Water,36,0.5552164943649873,Industry
-Utilities,Gas,96,0.01963433133511716,Industry
-Real Estate,Residential,95,0.6432085387772886,Industry
-Real Estate,Commercial,8,0.3227501573648105,Industry
-Real Estate,Industrial,87,0.3177699193885931,Industry
-Telecommunications,Mobile,54,0.5787770065542929,Industry
-Telecommunications,Broadband,96,0.36001823352203866,Industry
-Telecommunications,Satellite,89,0.006654141355234344,Industry
-Materials,Chemicals,45,0.1868497848503714,Industry
-Materials,Metals & Mining,31,0.9516368141958718,Industry
-Materials,Construction Materials,0,0.35816607424053215,Industry
-Industrials,Aerospace & Defense,2,0.3867596366339586,Industry
-Industrials,Machinery,87,0.980931034414227,Industry
-Industrials,Industrial Services,74,0.2104679075686403,Industry
-Consumer Services,Retail,93,0.9268290035827857,Industry
-Consumer Services,Travel & Leisure,98,0.11578771803981625,Industry
-Consumer Services,Media,67,0.587540256527359,Industry
-Transportation,Airlines,64,0.46038701814993843,Industry
-Transportation,Railroads,95,0.29615427025992125,Industry
-Transportation,Logistics,26,0.9113907763491177,Industry
+,Dorchester,740,0.49955914048107014,Overall
+Dorchester,HiTech,88,0.500613054541272,Sector
+Dorchester,Agriculture,61,0.5750110916268459,Sector
+Dorchester,Transportation,49,0.9932761357679848,Sector
+Dorchester,Consumer_Products,75,0.5793052239105208,Sector
+Dorchester,Unassigned,20,0.3741310449160329,Sector
+Dorchester,Communication,31,0.6383880804182599,Sector
+Dorchester,Trade,39,0.17765717150031068,Sector
+Dorchester,Business_Services,71,0.9813611139394198,Sector
+Dorchester,Business_Products,59,0.21691317328015614,Sector
+Dorchester,Construction,72,0.6843411215062333,Sector
+Dorchester,Services,32,0.407356711881917,Sector
+Dorchester,Mining,35,0.04527040667943327,Sector
+Dorchester,Health_Care,74,0.6729232028192902,Sector
+Dorchester,EnergyExpL_Prod,16,0.5814574531137152,Sector
+Dorchester,Utilities,18,0.06538212131465937,Sector

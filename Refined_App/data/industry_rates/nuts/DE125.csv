@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,"Heidelberg, Stadtkreis",2050,0.8965754624113835,Overall
-"Heidelberg, Stadtkreis",Technology,184,0.9776295750008545,Sector
-"Heidelberg, Stadtkreis",Healthcare,160,0.44548700989027057,Sector
-"Heidelberg, Stadtkreis",Finance,161,0.43819207033478325,Sector
-"Heidelberg, Stadtkreis",Energy,185,0.4734657813430736,Sector
-"Heidelberg, Stadtkreis",Consumer Goods,157,0.49472173918517703,Sector
-"Heidelberg, Stadtkreis",Utilities,235,0.9647917793355529,Sector
-"Heidelberg, Stadtkreis",Real Estate,212,0.12731814878146663,Sector
-"Heidelberg, Stadtkreis",Telecommunications,90,0.9197547226248617,Sector
-"Heidelberg, Stadtkreis",Materials,180,0.834705181740675,Sector
-"Heidelberg, Stadtkreis",Industrials,110,0.42946860774662887,Sector
-"Heidelberg, Stadtkreis",Consumer Services,249,0.5587817543372442,Sector
-"Heidelberg, Stadtkreis",Transportation,127,0.029092367301471578,Sector
-Technology,Software,56,0.03642660476780246,Industry
-Technology,Hardware,38,0.21230216489016307,Industry
-Technology,IT Services,90,0.9683641175211388,Industry
-Healthcare,Pharmaceuticals,69,0.7441151403844284,Industry
-Healthcare,Medical Devices,2,0.6046115128126317,Industry
-Healthcare,Healthcare Services,89,0.5903235184802744,Industry
-Finance,Banking,51,0.25035643123545315,Industry
-Finance,Insurance,48,0.22961656943283215,Industry
-Finance,Investment Services,62,0.8389497667580998,Industry
-Energy,Oil & Gas,81,0.6785937536741817,Industry
-Energy,Renewable Energy,27,0.8707608934964616,Industry
-Energy,Energy Exploration,77,0.5667420789825068,Industry
-Consumer Goods,Food & Beverage,29,0.10984769572348585,Industry
-Consumer Goods,Household Products,93,0.6681534741209103,Industry
-Consumer Goods,Apparel,35,0.050341220439029666,Industry
-Utilities,Electric,83,0.491087232040043,Industry
-Utilities,Water,89,0.44006340357065665,Industry
-Utilities,Gas,63,0.06439425259108977,Industry
-Real Estate,Residential,72,0.058084274001682146,Industry
-Real Estate,Commercial,99,0.736784620476913,Industry
-Real Estate,Industrial,41,0.21254892032304118,Industry
-Telecommunications,Mobile,56,0.7739362914100613,Industry
-Telecommunications,Broadband,30,0.11966788327292632,Industry
-Telecommunications,Satellite,4,0.011490552342459437,Industry
-Materials,Chemicals,97,0.6569765068150833,Industry
-Materials,Metals & Mining,21,0.6644683978298144,Industry
-Materials,Construction Materials,62,0.11475487904382187,Industry
-Industrials,Aerospace & Defense,73,0.6487329449892109,Industry
-Industrials,Machinery,37,0.08894449866327447,Industry
-Industrials,Industrial Services,0,0.9557870563237776,Industry
-Consumer Services,Retail,96,0.9389184075387654,Industry
-Consumer Services,Travel & Leisure,67,0.6967918220185905,Industry
-Consumer Services,Media,86,0.4844971226588921,Industry
-Transportation,Airlines,0,0.8726206429898116,Industry
-Transportation,Railroads,94,0.1774809104079592,Industry
-Transportation,Logistics,33,0.45450792481326896,Industry
+,"Heidelberg, Stadtkreis",685,0.5319527991174715,Overall
+"Heidelberg, Stadtkreis",HiTech,83,0.4109009645992514,Sector
+"Heidelberg, Stadtkreis",Agriculture,75,0.6719673656308838,Sector
+"Heidelberg, Stadtkreis",Transportation,17,0.30932347307235375,Sector
+"Heidelberg, Stadtkreis",Consumer_Products,57,0.8045563521134869,Sector
+"Heidelberg, Stadtkreis",Unassigned,39,0.6770882228252888,Sector
+"Heidelberg, Stadtkreis",Communication,42,0.039810866596507566,Sector
+"Heidelberg, Stadtkreis",Trade,21,0.34154828927325986,Sector
+"Heidelberg, Stadtkreis",Business_Services,34,0.971858430781237,Sector
+"Heidelberg, Stadtkreis",Business_Products,52,0.3643207224487499,Sector
+"Heidelberg, Stadtkreis",Construction,92,0.5168757111171439,Sector
+"Heidelberg, Stadtkreis",Services,75,0.6501467618741391,Sector
+"Heidelberg, Stadtkreis",Mining,47,0.5267950951239594,Sector
+"Heidelberg, Stadtkreis",Health_Care,33,0.6697577596297902,Sector
+"Heidelberg, Stadtkreis",EnergyExpL_Prod,11,0.928468983807783,Sector
+"Heidelberg, Stadtkreis",Utilities,7,0.09587298786823772,Sector

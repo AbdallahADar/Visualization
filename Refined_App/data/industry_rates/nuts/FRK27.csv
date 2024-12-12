@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Savoie,1873,0.645680883388622,Overall
-Savoie,Technology,139,0.2987796278395919,Sector
-Savoie,Healthcare,45,0.09371706932773627,Sector
-Savoie,Finance,161,0.8498704090588501,Sector
-Savoie,Energy,149,0.7740576921360601,Sector
-Savoie,Consumer Goods,184,0.4032368218946971,Sector
-Savoie,Utilities,171,0.9905917247879096,Sector
-Savoie,Real Estate,235,0.0470399563810755,Sector
-Savoie,Telecommunications,205,0.8147072386544623,Sector
-Savoie,Materials,78,0.42004815811771934,Sector
-Savoie,Industrials,197,0.5252005348434325,Sector
-Savoie,Consumer Services,133,0.17125518284426333,Sector
-Savoie,Transportation,176,0.38302098859011946,Sector
-Technology,Software,71,0.05841657651300791,Industry
-Technology,Hardware,10,0.7459461073096422,Industry
-Technology,IT Services,58,0.5385242498630339,Industry
-Healthcare,Pharmaceuticals,18,0.646047140398525,Industry
-Healthcare,Medical Devices,19,0.6540777809743775,Industry
-Healthcare,Healthcare Services,8,0.37899619122504924,Industry
-Finance,Banking,32,0.6376714179896619,Industry
-Finance,Insurance,40,0.957312838880501,Industry
-Finance,Investment Services,89,0.07335245526495937,Industry
-Energy,Oil & Gas,88,0.4776592531490904,Industry
-Energy,Renewable Energy,40,0.5942943256249565,Industry
-Energy,Energy Exploration,21,0.04111543413012286,Industry
-Consumer Goods,Food & Beverage,77,0.6951103497975423,Industry
-Consumer Goods,Household Products,72,0.1921122007961611,Industry
-Consumer Goods,Apparel,35,0.9862308759590399,Industry
-Utilities,Electric,11,0.8465477251527921,Industry
-Utilities,Water,63,0.4293973933901851,Industry
-Utilities,Gas,97,0.43250610676681456,Industry
-Real Estate,Residential,80,0.5564580303351312,Industry
-Real Estate,Commercial,72,0.6735997367856583,Industry
-Real Estate,Industrial,83,0.48617805376945555,Industry
-Telecommunications,Mobile,91,0.1639772315361957,Industry
-Telecommunications,Broadband,27,0.486421164559784,Industry
-Telecommunications,Satellite,87,0.9022592629413437,Industry
-Materials,Chemicals,30,0.5459146788278317,Industry
-Materials,Metals & Mining,14,0.7411844834999399,Industry
-Materials,Construction Materials,34,0.6241143611368378,Industry
-Industrials,Aerospace & Defense,75,0.20697508492304406,Industry
-Industrials,Machinery,75,0.47280155838333404,Industry
-Industrials,Industrial Services,47,0.009757094486584572,Industry
-Consumer Services,Retail,45,0.9013675720152756,Industry
-Consumer Services,Travel & Leisure,55,0.6237018833365277,Industry
-Consumer Services,Media,33,0.8900050691127169,Industry
-Transportation,Airlines,69,0.02210870779651042,Industry
-Transportation,Railroads,20,0.25039749853741766,Industry
-Transportation,Logistics,87,0.9897863200720515,Industry
+,Savoie,697,0.5405566071787847,Overall
+Savoie,HiTech,47,0.46915521693672124,Sector
+Savoie,Agriculture,84,0.7106347091228434,Sector
+Savoie,Transportation,47,0.10226795441347747,Sector
+Savoie,Consumer_Products,74,0.6111200568516146,Sector
+Savoie,Unassigned,8,0.2963968795528785,Sector
+Savoie,Communication,19,0.6941411926922103,Sector
+Savoie,Trade,25,0.47563110584056356,Sector
+Savoie,Business_Services,8,0.843824348832078,Sector
+Savoie,Business_Products,29,0.35163488287277367,Sector
+Savoie,Construction,42,0.12532970930175147,Sector
+Savoie,Services,93,0.6207677818824398,Sector
+Savoie,Mining,36,0.6875873233187608,Sector
+Savoie,Health_Care,36,0.9778385409934066,Sector
+Savoie,EnergyExpL_Prod,82,0.8722229562316591,Sector
+Savoie,Utilities,67,0.269796448838593,Sector

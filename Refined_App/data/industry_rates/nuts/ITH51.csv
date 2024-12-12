@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Piacenza,2357,0.9186391267769216,Overall
-Piacenza,Technology,198,0.7446891433303041,Sector
-Piacenza,Healthcare,208,0.7668515614399692,Sector
-Piacenza,Finance,145,0.976968467975789,Sector
-Piacenza,Energy,196,0.14098799343288615,Sector
-Piacenza,Consumer Goods,247,0.7245233512167112,Sector
-Piacenza,Utilities,233,0.6620751080666984,Sector
-Piacenza,Real Estate,202,0.1294020378698616,Sector
-Piacenza,Telecommunications,181,0.2793667087452284,Sector
-Piacenza,Materials,247,0.780534149377111,Sector
-Piacenza,Industrials,98,0.56665612289759,Sector
-Piacenza,Consumer Services,185,0.8603075868949466,Sector
-Piacenza,Transportation,217,0.7372350109779846,Sector
-Technology,Software,82,0.8108818672814633,Industry
-Technology,Hardware,83,0.7482887120884499,Industry
-Technology,IT Services,33,0.9482142981286232,Industry
-Healthcare,Pharmaceuticals,62,0.9786511275030808,Industry
-Healthcare,Medical Devices,84,0.5611762829317029,Industry
-Healthcare,Healthcare Services,62,0.6658303003497762,Industry
-Finance,Banking,17,0.2584007262063772,Industry
-Finance,Insurance,57,0.8730546246800992,Industry
-Finance,Investment Services,71,0.060213403315214964,Industry
-Energy,Oil & Gas,88,0.8837603518475994,Industry
-Energy,Renewable Energy,14,0.006438579596603544,Industry
-Energy,Energy Exploration,94,0.49369644423981685,Industry
-Consumer Goods,Food & Beverage,97,0.6433424206227996,Industry
-Consumer Goods,Household Products,54,0.4339833832523322,Industry
-Consumer Goods,Apparel,96,0.3886035055099566,Industry
-Utilities,Electric,67,0.07331095235550589,Industry
-Utilities,Water,73,0.220519117371607,Industry
-Utilities,Gas,93,0.9750836083064077,Industry
-Real Estate,Residential,41,0.35378840432159975,Industry
-Real Estate,Commercial,93,0.4577402326820015,Industry
-Real Estate,Industrial,68,0.5252040508094882,Industry
-Telecommunications,Mobile,29,0.5006377683177873,Industry
-Telecommunications,Broadband,97,0.5904735863044154,Industry
-Telecommunications,Satellite,55,0.9716226747894938,Industry
-Materials,Chemicals,98,0.8340350892807069,Industry
-Materials,Metals & Mining,87,0.5551835950936803,Industry
-Materials,Construction Materials,62,0.04559302653414732,Industry
-Industrials,Aerospace & Defense,67,0.5836365569895567,Industry
-Industrials,Machinery,27,0.5944203152949344,Industry
-Industrials,Industrial Services,4,0.8452026542740567,Industry
-Consumer Services,Retail,78,0.07281117375596324,Industry
-Consumer Services,Travel & Leisure,8,0.9954419264868419,Industry
-Consumer Services,Media,99,0.8414027293213113,Industry
-Transportation,Airlines,61,0.6452149911819227,Industry
-Transportation,Railroads,93,0.5591066781716889,Industry
-Transportation,Logistics,63,0.11941577863160258,Industry
+,Piacenza,761,0.5673405549632325,Overall
+Piacenza,HiTech,45,0.7442359937682407,Sector
+Piacenza,Agriculture,98,0.504281368966796,Sector
+Piacenza,Transportation,62,0.815284182334456,Sector
+Piacenza,Consumer_Products,29,0.27490613203344494,Sector
+Piacenza,Unassigned,6,0.7737287092162642,Sector
+Piacenza,Communication,58,0.03479875822455136,Sector
+Piacenza,Trade,18,0.9271604670409067,Sector
+Piacenza,Business_Services,31,0.8720055677940052,Sector
+Piacenza,Business_Products,89,0.4871820037055291,Sector
+Piacenza,Construction,56,0.4913776252743287,Sector
+Piacenza,Services,74,0.9833435941967887,Sector
+Piacenza,Mining,40,0.39223861903213986,Sector
+Piacenza,Health_Care,21,0.5430170951178118,Sector
+Piacenza,EnergyExpL_Prod,38,0.4635056864414955,Sector
+Piacenza,Utilities,96,0.20304252130172817,Sector

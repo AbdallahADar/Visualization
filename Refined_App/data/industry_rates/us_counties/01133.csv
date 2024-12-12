@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Winston,1725,0.25275243528821256,Overall
-Winston,Technology,249,0.706828525329225,Sector
-Winston,Healthcare,110,0.6711754200559923,Sector
-Winston,Finance,59,0.41379856153019123,Sector
-Winston,Energy,143,0.48695414014418126,Sector
-Winston,Consumer Goods,194,0.8225548312062291,Sector
-Winston,Utilities,182,0.6335366369456908,Sector
-Winston,Real Estate,36,0.25493046383758033,Sector
-Winston,Telecommunications,97,0.40957055156155464,Sector
-Winston,Materials,214,0.5210704024018646,Sector
-Winston,Industrials,104,0.9583973180786576,Sector
-Winston,Consumer Services,156,0.7415534957951009,Sector
-Winston,Transportation,181,0.16384931448546314,Sector
-Technology,Software,88,0.03580358375790205,Industry
-Technology,Hardware,89,0.32498097282795224,Industry
-Technology,IT Services,72,0.8236236658629622,Industry
-Healthcare,Pharmaceuticals,21,0.08915794157441359,Industry
-Healthcare,Medical Devices,75,0.769466888813257,Industry
-Healthcare,Healthcare Services,14,0.6927782294483068,Industry
-Finance,Banking,26,0.1656851151348091,Industry
-Finance,Insurance,25,0.09747448469715236,Industry
-Finance,Investment Services,8,0.9817923873702818,Industry
-Energy,Oil & Gas,39,0.16589939271674414,Industry
-Energy,Renewable Energy,54,0.4356448368786635,Industry
-Energy,Energy Exploration,50,0.1689122587026627,Industry
-Consumer Goods,Food & Beverage,14,0.5092250219052077,Industry
-Consumer Goods,Household Products,83,0.007049027695925303,Industry
-Consumer Goods,Apparel,97,0.36443427399253747,Industry
-Utilities,Electric,6,0.8335147336663212,Industry
-Utilities,Water,85,0.8761939436061202,Industry
-Utilities,Gas,91,0.1636192640306222,Industry
-Real Estate,Residential,2,0.6037161854082069,Industry
-Real Estate,Commercial,4,0.633131068998902,Industry
-Real Estate,Industrial,30,0.34009387842406913,Industry
-Telecommunications,Mobile,19,0.6267062137369551,Industry
-Telecommunications,Broadband,55,0.7378476021439572,Industry
-Telecommunications,Satellite,23,0.6989518922101415,Industry
-Materials,Chemicals,90,0.22762160351763516,Industry
-Materials,Metals & Mining,71,0.9438363071153815,Industry
-Materials,Construction Materials,53,0.017298553901720304,Industry
-Industrials,Aerospace & Defense,57,0.7799264554028653,Industry
-Industrials,Machinery,45,0.5234296530330564,Industry
-Industrials,Industrial Services,2,0.17933729295456535,Industry
-Consumer Services,Retail,19,0.688449998014435,Industry
-Consumer Services,Travel & Leisure,41,0.591873177261989,Industry
-Consumer Services,Media,96,0.9473070241648611,Industry
-Transportation,Airlines,47,0.41995027804929674,Industry
-Transportation,Railroads,66,0.5570060061394737,Industry
-Transportation,Logistics,68,0.8362719574644939,Industry
+,Winston,794,0.42398315161798145,Overall
+Winston,HiTech,81,0.6009836803749908,Sector
+Winston,Agriculture,59,0.33753051042560567,Sector
+Winston,Transportation,7,0.025435484508238515,Sector
+Winston,Consumer_Products,2,0.4478131620884185,Sector
+Winston,Unassigned,24,0.3594127546212822,Sector
+Winston,Communication,61,0.8601234423532761,Sector
+Winston,Trade,43,0.16859407465897291,Sector
+Winston,Business_Services,90,0.3928987487623108,Sector
+Winston,Business_Products,75,0.19181388110357744,Sector
+Winston,Construction,22,0.7101974181567743,Sector
+Winston,Services,70,0.16616336658218356,Sector
+Winston,Mining,78,0.5780188578618363,Sector
+Winston,Health_Care,55,0.24031313544663202,Sector
+Winston,EnergyExpL_Prod,29,0.586234183669355,Sector
+Winston,Utilities,98,0.6942145736562684,Sector

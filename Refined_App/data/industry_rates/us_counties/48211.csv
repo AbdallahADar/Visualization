@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hemphill,2064,0.8645678091403822,Overall
-Hemphill,Technology,196,0.9431493207268564,Sector
-Hemphill,Healthcare,183,0.28109386242417367,Sector
-Hemphill,Finance,162,0.6807671843229961,Sector
-Hemphill,Energy,145,0.1707254246551142,Sector
-Hemphill,Consumer Goods,188,0.6987889430599442,Sector
-Hemphill,Utilities,225,0.7344287335253564,Sector
-Hemphill,Real Estate,151,0.48031950774270016,Sector
-Hemphill,Telecommunications,177,0.5792234962810787,Sector
-Hemphill,Materials,132,0.21896355410220492,Sector
-Hemphill,Industrials,213,0.1708160100008843,Sector
-Hemphill,Consumer Services,164,0.2874201697371912,Sector
-Hemphill,Transportation,128,0.37053497248676426,Sector
-Technology,Software,91,0.03081350730204524,Industry
-Technology,Hardware,54,0.44475059621429447,Industry
-Technology,IT Services,51,0.7290095255919934,Industry
-Healthcare,Pharmaceuticals,92,0.47304465491876246,Industry
-Healthcare,Medical Devices,11,0.6920570030015528,Industry
-Healthcare,Healthcare Services,80,0.5982967739889014,Industry
-Finance,Banking,70,0.570732848255455,Industry
-Finance,Insurance,76,0.5095915974960581,Industry
-Finance,Investment Services,16,0.8310830891630114,Industry
-Energy,Oil & Gas,68,0.9784551767086731,Industry
-Energy,Renewable Energy,24,0.7675387684460728,Industry
-Energy,Energy Exploration,53,0.2044579084257898,Industry
-Consumer Goods,Food & Beverage,85,0.7253708958417413,Industry
-Consumer Goods,Household Products,49,0.09165146178013661,Industry
-Consumer Goods,Apparel,54,0.5281781876897272,Industry
-Utilities,Electric,97,0.14251932881081675,Industry
-Utilities,Water,58,0.2516949456563201,Industry
-Utilities,Gas,70,0.22224612511070962,Industry
-Real Estate,Residential,2,0.7638563556686168,Industry
-Real Estate,Commercial,55,0.20934084334492065,Industry
-Real Estate,Industrial,94,0.5875857621869558,Industry
-Telecommunications,Mobile,30,0.6782768445227092,Industry
-Telecommunications,Broadband,75,0.9557161214722717,Industry
-Telecommunications,Satellite,72,0.29284963244389084,Industry
-Materials,Chemicals,10,0.12086035377319093,Industry
-Materials,Metals & Mining,47,0.8661527092371613,Industry
-Materials,Construction Materials,75,0.34969479028563755,Industry
-Industrials,Aerospace & Defense,66,0.7575412642703642,Industry
-Industrials,Machinery,66,0.7687229554816939,Industry
-Industrials,Industrial Services,81,0.15674641130807576,Industry
-Consumer Services,Retail,32,0.4112860085807457,Industry
-Consumer Services,Travel & Leisure,51,0.6185508450693651,Industry
-Consumer Services,Media,81,0.662738685329968,Industry
-Transportation,Airlines,41,0.15357019147649675,Industry
-Transportation,Railroads,51,0.7315647322932758,Industry
-Transportation,Logistics,36,0.20220497814516136,Industry
+,Hemphill,763,0.4911982199486516,Overall
+Hemphill,HiTech,27,0.2955887765007862,Sector
+Hemphill,Agriculture,88,0.7544546079935203,Sector
+Hemphill,Transportation,53,0.6457448753371643,Sector
+Hemphill,Consumer_Products,62,0.26598899043646107,Sector
+Hemphill,Unassigned,66,0.3837844976922211,Sector
+Hemphill,Communication,34,0.11550207005437063,Sector
+Hemphill,Trade,57,0.43421700047192047,Sector
+Hemphill,Business_Services,88,0.23732506916706264,Sector
+Hemphill,Business_Products,61,0.49781507444939266,Sector
+Hemphill,Construction,26,0.6882833661874886,Sector
+Hemphill,Services,17,0.8412190396602545,Sector
+Hemphill,Mining,52,0.5161888051968724,Sector
+Hemphill,Health_Care,73,0.5076421272201123,Sector
+Hemphill,EnergyExpL_Prod,13,0.3755009516917198,Sector
+Hemphill,Utilities,46,0.8087180471704263,Sector

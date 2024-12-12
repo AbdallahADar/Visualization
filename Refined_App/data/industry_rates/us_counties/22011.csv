@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Beauregard,1694,0.7576044295093326,Overall
-Beauregard,Technology,119,0.268013150957081,Sector
-Beauregard,Healthcare,50,0.12310568670036648,Sector
-Beauregard,Finance,144,0.3533645529574395,Sector
-Beauregard,Energy,144,0.0905168509435883,Sector
-Beauregard,Consumer Goods,197,0.7084792899684974,Sector
-Beauregard,Utilities,251,0.444528103094325,Sector
-Beauregard,Real Estate,173,0.17318193626113876,Sector
-Beauregard,Telecommunications,46,0.22085209134465666,Sector
-Beauregard,Materials,111,0.17939841971000903,Sector
-Beauregard,Industrials,125,0.4304618703834463,Sector
-Beauregard,Consumer Services,145,0.06743196740492963,Sector
-Beauregard,Transportation,189,0.016824385564305877,Sector
-Technology,Software,48,0.13723261743946413,Industry
-Technology,Hardware,8,0.41753513803539255,Industry
-Technology,IT Services,63,0.07200391322007549,Industry
-Healthcare,Pharmaceuticals,1,0.2936430013022555,Industry
-Healthcare,Medical Devices,13,0.35459809166512757,Industry
-Healthcare,Healthcare Services,36,0.3085333877242661,Industry
-Finance,Banking,83,0.5765266109710074,Industry
-Finance,Insurance,51,0.6482377685067345,Industry
-Finance,Investment Services,10,0.17538102432927982,Industry
-Energy,Oil & Gas,81,0.06787825899454925,Industry
-Energy,Renewable Energy,63,0.06672694885070773,Industry
-Energy,Energy Exploration,0,0.3153484210601525,Industry
-Consumer Goods,Food & Beverage,99,0.3171018602801132,Industry
-Consumer Goods,Household Products,86,0.1043915722547919,Industry
-Consumer Goods,Apparel,12,0.7244457459544263,Industry
-Utilities,Electric,95,0.9374683303391232,Industry
-Utilities,Water,92,0.9297735837703178,Industry
-Utilities,Gas,64,0.2569061769753933,Industry
-Real Estate,Residential,48,0.05771150576878714,Industry
-Real Estate,Commercial,94,0.021973860461004247,Industry
-Real Estate,Industrial,31,0.7863579425110292,Industry
-Telecommunications,Mobile,20,0.2815900476735953,Industry
-Telecommunications,Broadband,26,0.1461933613859051,Industry
-Telecommunications,Satellite,0,0.10520907236246357,Industry
-Materials,Chemicals,30,0.6778719328830097,Industry
-Materials,Metals & Mining,2,0.8258308818556346,Industry
-Materials,Construction Materials,79,0.08598733931746871,Industry
-Industrials,Aerospace & Defense,2,0.7745190901333903,Industry
-Industrials,Machinery,30,0.6972645915763627,Industry
-Industrials,Industrial Services,93,0.34819191895148327,Industry
-Consumer Services,Retail,49,0.47525769285445474,Industry
-Consumer Services,Travel & Leisure,20,0.6248156353537344,Industry
-Consumer Services,Media,76,0.528025696299972,Industry
-Transportation,Airlines,82,0.6706199527043971,Industry
-Transportation,Railroads,39,0.7280759258966714,Industry
-Transportation,Logistics,68,0.7352349356972296,Industry
+,Beauregard,877,0.4024722580684872,Overall
+Beauregard,HiTech,30,0.06638136327809652,Sector
+Beauregard,Agriculture,67,0.3757216570808717,Sector
+Beauregard,Transportation,84,0.16179910274832776,Sector
+Beauregard,Consumer_Products,68,0.17865513743253403,Sector
+Beauregard,Unassigned,30,0.6240701336219133,Sector
+Beauregard,Communication,57,0.9430759795347952,Sector
+Beauregard,Trade,80,0.1779492608662946,Sector
+Beauregard,Business_Services,93,0.02674138998009057,Sector
+Beauregard,Business_Products,69,0.3102009360888197,Sector
+Beauregard,Construction,16,0.9132151324273856,Sector
+Beauregard,Services,94,0.5458302372347554,Sector
+Beauregard,Mining,65,0.2941679907230934,Sector
+Beauregard,Health_Care,30,0.0031719006807108263,Sector
+Beauregard,EnergyExpL_Prod,38,0.9063409932137101,Sector
+Beauregard,Utilities,56,0.50976265611591,Sector

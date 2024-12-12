@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Isabella,1863,0.3016372140937096,Overall
+Isabella,Technology,106,0.8893608323080534,Sector
+Isabella,Healthcare,145,0.8819116956440091,Sector
+Isabella,Finance,62,0.7694815890841193,Sector
+Isabella,Energy,100,0.8194491248403416,Sector
+Isabella,Consumer Goods,104,0.3103298490667429,Sector
+Isabella,Utilities,158,0.7677837504364112,Sector
+Isabella,Real Estate,160,0.12251888462585814,Sector
+Isabella,Telecommunications,208,0.4570325193470198,Sector
+Isabella,Materials,249,0.26513706848122376,Sector
+Isabella,Industrials,202,0.34658669911214823,Sector
+Isabella,Consumer Services,197,0.11309599125521708,Sector
+Isabella,Transportation,172,0.07395576815929228,Sector
+Technology,Software,37,0.41447261053430706,Industry
+Technology,Hardware,67,0.5309708235384114,Industry
+Technology,IT Services,2,0.5549791325970044,Industry
+Healthcare,Pharmaceuticals,76,0.5506654130531138,Industry
+Healthcare,Medical Devices,21,0.6118252594233108,Industry
+Healthcare,Healthcare Services,48,0.9100967938060912,Industry
+Finance,Banking,20,0.7385575263337999,Industry
+Finance,Insurance,23,0.21361844495514748,Industry
+Finance,Investment Services,19,0.9743240272986962,Industry
+Energy,Oil & Gas,27,0.9319962944350226,Industry
+Energy,Renewable Energy,3,0.2161477293010875,Industry
+Energy,Energy Exploration,70,0.7646913763065775,Industry
+Consumer Goods,Food & Beverage,84,0.9572560444639899,Industry
+Consumer Goods,Household Products,4,0.49569384256075766,Industry
+Consumer Goods,Apparel,16,0.5118103398824876,Industry
+Utilities,Electric,98,0.7388796588758677,Industry
+Utilities,Water,8,0.44790602882468356,Industry
+Utilities,Gas,52,0.8294925089538158,Industry
+Real Estate,Residential,88,0.7348025364923597,Industry
+Real Estate,Commercial,6,0.44232770611432803,Industry
+Real Estate,Industrial,66,0.3275928718950323,Industry
+Telecommunications,Mobile,13,0.8627471684023965,Industry
+Telecommunications,Broadband,98,0.579331122814784,Industry
+Telecommunications,Satellite,97,0.3481310531026478,Industry
+Materials,Chemicals,85,0.036125089817087175,Industry
+Materials,Metals & Mining,90,0.8865938936118449,Industry
+Materials,Construction Materials,74,0.27360480845473845,Industry
+Industrials,Aerospace & Defense,55,0.7729267208647299,Industry
+Industrials,Machinery,72,0.2180057337714021,Industry
+Industrials,Industrial Services,75,0.7700734113394603,Industry
+Consumer Services,Retail,84,0.25223435904670477,Industry
+Consumer Services,Travel & Leisure,81,0.5028344295599417,Industry
+Consumer Services,Media,32,0.10112314279678702,Industry
+Transportation,Airlines,63,0.943992283965033,Industry
+Transportation,Railroads,78,0.14637559649982168,Industry
+Transportation,Logistics,31,0.4605009169526926,Industry

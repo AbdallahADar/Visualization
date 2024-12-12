@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Martin,2120,0.7135002924763821,Overall
-Martin,Technology,154,0.31864461715991077,Sector
-Martin,Healthcare,179,0.2746335032018655,Sector
-Martin,Finance,181,0.5165167937886336,Sector
-Martin,Energy,265,0.37457196539458326,Sector
-Martin,Consumer Goods,149,0.6639841730298917,Sector
-Martin,Utilities,211,0.5772305294795795,Sector
-Martin,Real Estate,194,0.8331749267486106,Sector
-Martin,Telecommunications,167,0.3456630935852315,Sector
-Martin,Materials,219,0.4055911537476752,Sector
-Martin,Industrials,135,0.6621122629916936,Sector
-Martin,Consumer Services,155,0.9425100609656443,Sector
-Martin,Transportation,111,0.8124184143365628,Sector
-Technology,Software,19,0.37198887902960487,Industry
-Technology,Hardware,59,0.6068074683847139,Industry
-Technology,IT Services,76,0.22373043413471616,Industry
-Healthcare,Pharmaceuticals,91,0.4350562594028826,Industry
-Healthcare,Medical Devices,25,0.4931116960762916,Industry
-Healthcare,Healthcare Services,63,0.7190074094441637,Industry
-Finance,Banking,67,0.338336572627536,Industry
-Finance,Insurance,39,0.2962712682458356,Industry
-Finance,Investment Services,75,0.4224948621313923,Industry
-Energy,Oil & Gas,89,0.7280013261936341,Industry
-Energy,Renewable Energy,98,0.7641684589347219,Industry
-Energy,Energy Exploration,78,0.9977966544669676,Industry
-Consumer Goods,Food & Beverage,43,0.07646058592104599,Industry
-Consumer Goods,Household Products,15,0.6463847616130766,Industry
-Consumer Goods,Apparel,91,0.07424953943079271,Industry
-Utilities,Electric,94,0.6513970605040109,Industry
-Utilities,Water,63,0.775376411647339,Industry
-Utilities,Gas,54,0.9834591911727777,Industry
-Real Estate,Residential,30,0.12018008904367039,Industry
-Real Estate,Commercial,89,0.8554436716619869,Industry
-Real Estate,Industrial,75,0.11508387501740958,Industry
-Telecommunications,Mobile,78,0.4927346824907475,Industry
-Telecommunications,Broadband,40,0.4578191877849992,Industry
-Telecommunications,Satellite,49,0.8206725457633868,Industry
-Materials,Chemicals,58,0.37254885933457105,Industry
-Materials,Metals & Mining,95,0.6892620219839704,Industry
-Materials,Construction Materials,66,0.24208063012353787,Industry
-Industrials,Aerospace & Defense,14,0.9664662137504668,Industry
-Industrials,Machinery,30,0.13056769168947602,Industry
-Industrials,Industrial Services,91,0.8330114345440359,Industry
-Consumer Services,Retail,69,0.5312907775920916,Industry
-Consumer Services,Travel & Leisure,52,0.25181010122152736,Industry
-Consumer Services,Media,34,0.7515518038716009,Industry
-Transportation,Airlines,35,0.6970530343114139,Industry
-Transportation,Railroads,58,0.09700830858213394,Industry
-Transportation,Logistics,18,0.12989496309920734,Industry
+,Martin,730,0.45390142820556095,Overall
+Martin,HiTech,55,0.6921958865814162,Sector
+Martin,Agriculture,84,0.3425349744235108,Sector
+Martin,Transportation,9,0.49393647076027447,Sector
+Martin,Consumer_Products,74,0.29077215391214883,Sector
+Martin,Unassigned,37,0.7384154237385259,Sector
+Martin,Communication,41,0.3705713400106818,Sector
+Martin,Trade,86,0.9081649261922397,Sector
+Martin,Business_Services,70,0.025845067335808936,Sector
+Martin,Business_Products,20,0.8298346303019362,Sector
+Martin,Construction,28,0.007848528577030445,Sector
+Martin,Services,87,0.29055803340029596,Sector
+Martin,Mining,33,0.5750992664838751,Sector
+Martin,Health_Care,14,0.2839543578995485,Sector
+Martin,EnergyExpL_Prod,37,0.5742116982896636,Sector
+Martin,Utilities,55,0.38457866517645867,Sector

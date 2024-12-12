@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Tulsa,1962,0.7934766224472031,Overall
-Tulsa,Technology,185,0.8092952851517988,Sector
-Tulsa,Healthcare,206,0.4788379467094158,Sector
-Tulsa,Finance,222,0.04600506522196168,Sector
-Tulsa,Energy,212,0.3324110162106809,Sector
-Tulsa,Consumer Goods,124,0.2814171128897107,Sector
-Tulsa,Utilities,119,0.11460154210078377,Sector
-Tulsa,Real Estate,136,0.3209472497082806,Sector
-Tulsa,Telecommunications,184,0.05654122494935099,Sector
-Tulsa,Materials,159,0.7897510031307403,Sector
-Tulsa,Industrials,63,0.07338012768056423,Sector
-Tulsa,Consumer Services,164,0.6833856340200319,Sector
-Tulsa,Transportation,188,0.4181496842824104,Sector
-Technology,Software,49,0.10068945676632934,Industry
-Technology,Hardware,80,0.28973238914342003,Industry
-Technology,IT Services,56,0.87905682551149,Industry
-Healthcare,Pharmaceuticals,70,0.9558611104103357,Industry
-Healthcare,Medical Devices,53,0.8959042325918145,Industry
-Healthcare,Healthcare Services,83,0.5646017121894764,Industry
-Finance,Banking,77,0.5613370030944658,Industry
-Finance,Insurance,73,0.5472305020223263,Industry
-Finance,Investment Services,72,0.31664848305519455,Industry
-Energy,Oil & Gas,90,0.8529991755295698,Industry
-Energy,Renewable Energy,77,0.8641224670510367,Industry
-Energy,Energy Exploration,45,0.9361253286719349,Industry
-Consumer Goods,Food & Beverage,19,0.9105865845549389,Industry
-Consumer Goods,Household Products,70,0.9661500519161094,Industry
-Consumer Goods,Apparel,35,0.11063127162940134,Industry
-Utilities,Electric,21,0.6551136325383489,Industry
-Utilities,Water,11,0.11873335948651675,Industry
-Utilities,Gas,87,0.4769252851226813,Industry
-Real Estate,Residential,46,0.8525156661306564,Industry
-Real Estate,Commercial,23,0.7576290981996332,Industry
-Real Estate,Industrial,67,0.21689063938247455,Industry
-Telecommunications,Mobile,98,0.7228323442925114,Industry
-Telecommunications,Broadband,2,0.1266465791233875,Industry
-Telecommunications,Satellite,84,0.03145125414979788,Industry
-Materials,Chemicals,54,0.4035273529020075,Industry
-Materials,Metals & Mining,25,0.8345230906311754,Industry
-Materials,Construction Materials,80,0.9919355837825676,Industry
-Industrials,Aerospace & Defense,60,0.6600217763976567,Industry
-Industrials,Machinery,0,0.04163121890598709,Industry
-Industrials,Industrial Services,3,0.5517357357672467,Industry
-Consumer Services,Retail,63,0.13735099217316882,Industry
-Consumer Services,Travel & Leisure,32,0.577621603101948,Industry
-Consumer Services,Media,69,0.45622851250237284,Industry
-Transportation,Airlines,57,0.9508897501407311,Industry
-Transportation,Railroads,61,0.07944114722944373,Industry
-Transportation,Logistics,70,0.7529661622042133,Industry
+,Tulsa,651,0.4546461254968007,Overall
+Tulsa,HiTech,55,0.14332807526989877,Sector
+Tulsa,Agriculture,78,0.07250248548920979,Sector
+Tulsa,Transportation,23,0.9415582198133408,Sector
+Tulsa,Consumer_Products,58,0.8635611408428838,Sector
+Tulsa,Unassigned,27,0.14161110535866595,Sector
+Tulsa,Communication,38,0.5250691573323502,Sector
+Tulsa,Trade,88,0.1480867416351811,Sector
+Tulsa,Business_Services,37,0.024136417699943014,Sector
+Tulsa,Business_Products,41,0.899155540193949,Sector
+Tulsa,Construction,58,0.3258255125304982,Sector
+Tulsa,Services,55,0.2709303313011089,Sector
+Tulsa,Mining,27,0.29927175514304616,Sector
+Tulsa,Health_Care,50,0.4406508002306785,Sector
+Tulsa,EnergyExpL_Prod,14,0.7477536110655706,Sector
+Tulsa,Utilities,2,0.9762509885456847,Sector

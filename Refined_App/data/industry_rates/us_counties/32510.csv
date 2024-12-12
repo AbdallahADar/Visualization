@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Carson City,1502,0.42069559279560076,Overall
-Carson City,Technology,54,0.06667339947298323,Sector
-Carson City,Healthcare,195,0.7813977221874621,Sector
-Carson City,Finance,147,0.7134643039271926,Sector
-Carson City,Energy,144,0.5520689149729112,Sector
-Carson City,Consumer Goods,113,0.12244909790414893,Sector
-Carson City,Utilities,161,0.6567229176757616,Sector
-Carson City,Real Estate,37,0.10510312938722388,Sector
-Carson City,Telecommunications,130,0.4509314281983854,Sector
-Carson City,Materials,155,0.4329687164483499,Sector
-Carson City,Industrials,107,0.49784988778860984,Sector
-Carson City,Consumer Services,102,0.19249693840826254,Sector
-Carson City,Transportation,157,0.2707389047370462,Sector
-Technology,Software,0,0.72016642457324,Industry
-Technology,Hardware,12,0.74264603347026,Industry
-Technology,IT Services,42,0.7365430014494522,Industry
-Healthcare,Pharmaceuticals,91,0.4737330902673734,Industry
-Healthcare,Medical Devices,12,0.6011505193436987,Industry
-Healthcare,Healthcare Services,92,0.6587143738075942,Industry
-Finance,Banking,61,0.16820118665113493,Industry
-Finance,Insurance,47,0.5977447800116138,Industry
-Finance,Investment Services,39,0.7552422152062345,Industry
-Energy,Oil & Gas,42,0.47527808368792135,Industry
-Energy,Renewable Energy,52,0.09282000378362332,Industry
-Energy,Energy Exploration,50,0.01449990535923118,Industry
-Consumer Goods,Food & Beverage,25,0.2163739634863825,Industry
-Consumer Goods,Household Products,79,0.6214857146654975,Industry
-Consumer Goods,Apparel,9,0.45414772497509404,Industry
-Utilities,Electric,82,0.0669854976406512,Industry
-Utilities,Water,70,0.03417206870774114,Industry
-Utilities,Gas,9,0.2846098804544789,Industry
-Real Estate,Residential,25,0.05466553612450464,Industry
-Real Estate,Commercial,8,0.7864622852750659,Industry
-Real Estate,Industrial,4,0.202014219312451,Industry
-Telecommunications,Mobile,27,0.06497821643825996,Industry
-Telecommunications,Broadband,51,0.6710602724414013,Industry
-Telecommunications,Satellite,52,0.686020597064103,Industry
-Materials,Chemicals,76,0.04859425331637812,Industry
-Materials,Metals & Mining,22,0.7251683831365736,Industry
-Materials,Construction Materials,57,0.4274757571447336,Industry
-Industrials,Aerospace & Defense,15,0.3178757523411775,Industry
-Industrials,Machinery,24,0.9193377791272069,Industry
-Industrials,Industrial Services,68,0.78428106597615,Industry
-Consumer Services,Retail,2,0.5633060778434773,Industry
-Consumer Services,Travel & Leisure,13,0.8574331744781915,Industry
-Consumer Services,Media,87,0.4600712554634513,Industry
-Transportation,Airlines,71,0.5369981848326972,Industry
-Transportation,Railroads,27,0.4442093684007744,Industry
-Transportation,Logistics,59,0.7806516858370787,Industry
+,Carson City,748,0.5282034116351209,Overall
+Carson City,HiTech,44,0.4867319625866593,Sector
+Carson City,Agriculture,48,0.4569003931745709,Sector
+Carson City,Transportation,22,0.7827413108008865,Sector
+Carson City,Consumer_Products,32,0.6871076670130742,Sector
+Carson City,Unassigned,40,0.7019995427442609,Sector
+Carson City,Communication,58,0.1683845728284823,Sector
+Carson City,Trade,99,0.4141245361516773,Sector
+Carson City,Business_Services,8,0.7593571959918413,Sector
+Carson City,Business_Products,67,0.4179869111564314,Sector
+Carson City,Construction,81,0.01882065806627775,Sector
+Carson City,Services,20,0.33532546134172425,Sector
+Carson City,Mining,80,0.7826859936067905,Sector
+Carson City,Health_Care,71,0.7512803086486736,Sector
+Carson City,EnergyExpL_Prod,58,0.5551701723885822,Sector
+Carson City,Utilities,20,0.604434488026881,Sector

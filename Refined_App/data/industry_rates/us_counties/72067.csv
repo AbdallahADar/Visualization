@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hormigueros,1676,0.77951767655396,Overall
-Hormigueros,Technology,21,0.26755535253550644,Sector
-Hormigueros,Healthcare,136,0.6002909655220725,Sector
-Hormigueros,Finance,208,0.10870290340470512,Sector
-Hormigueros,Energy,112,0.42083618935663647,Sector
-Hormigueros,Consumer Goods,209,0.8377205466938312,Sector
-Hormigueros,Utilities,241,0.19509273608107913,Sector
-Hormigueros,Real Estate,21,0.9704636018927194,Sector
-Hormigueros,Telecommunications,156,0.7669307054152806,Sector
-Hormigueros,Materials,160,0.687923659014345,Sector
-Hormigueros,Industrials,180,0.17257100470601172,Sector
-Hormigueros,Consumer Services,139,0.06361086161292318,Sector
-Hormigueros,Transportation,93,0.25503683802402044,Sector
-Technology,Software,13,0.2495863029045826,Industry
-Technology,Hardware,6,0.40355099643521497,Industry
-Technology,IT Services,2,0.25332156829678565,Industry
-Healthcare,Pharmaceuticals,81,0.3189808163643967,Industry
-Healthcare,Medical Devices,41,0.14527193352168266,Industry
-Healthcare,Healthcare Services,14,0.0030403071801183845,Industry
-Finance,Banking,46,0.4465298690696893,Industry
-Finance,Insurance,76,0.3270614299706205,Industry
-Finance,Investment Services,86,0.168391545421955,Industry
-Energy,Oil & Gas,10,0.3141182032922205,Industry
-Energy,Renewable Energy,87,0.036232453324850145,Industry
-Energy,Energy Exploration,15,0.28873141950239134,Industry
-Consumer Goods,Food & Beverage,95,0.5365930381345921,Industry
-Consumer Goods,Household Products,40,0.9062211907525575,Industry
-Consumer Goods,Apparel,74,0.26033537658694594,Industry
-Utilities,Electric,91,0.4980962247102506,Industry
-Utilities,Water,89,0.9407446011473294,Industry
-Utilities,Gas,61,0.09354282794140156,Industry
-Real Estate,Residential,2,0.22208405685312016,Industry
-Real Estate,Commercial,12,0.5468850528752127,Industry
-Real Estate,Industrial,7,0.2054909589287205,Industry
-Telecommunications,Mobile,22,0.8172956717031348,Industry
-Telecommunications,Broadband,58,0.8945246376230294,Industry
-Telecommunications,Satellite,76,0.34181889063952875,Industry
-Materials,Chemicals,72,0.6409639775164022,Industry
-Materials,Metals & Mining,58,0.9179394310837109,Industry
-Materials,Construction Materials,30,0.21088727661792794,Industry
-Industrials,Aerospace & Defense,7,0.3273352280360128,Industry
-Industrials,Machinery,89,0.4322425120880621,Industry
-Industrials,Industrial Services,84,0.5003906686641288,Industry
-Consumer Services,Retail,28,0.903628248715378,Industry
-Consumer Services,Travel & Leisure,59,0.3477971391975768,Industry
-Consumer Services,Media,52,0.25996430777245827,Industry
-Transportation,Airlines,39,0.005344742877976705,Industry
-Transportation,Railroads,7,0.9746124236331467,Industry
-Transportation,Logistics,47,0.20131220865016874,Industry
+,Hormigueros,562,0.5747892799652708,Overall
+Hormigueros,HiTech,57,0.5412297795371236,Sector
+Hormigueros,Agriculture,2,0.4478997087733092,Sector
+Hormigueros,Transportation,48,0.7880681794163227,Sector
+Hormigueros,Consumer_Products,6,0.5127708998118367,Sector
+Hormigueros,Unassigned,32,0.6755039311701557,Sector
+Hormigueros,Communication,15,0.1588674756462175,Sector
+Hormigueros,Trade,92,0.6091741609943845,Sector
+Hormigueros,Business_Services,23,0.7921632491002422,Sector
+Hormigueros,Business_Products,20,0.7929008022050923,Sector
+Hormigueros,Construction,57,0.7759739078007393,Sector
+Hormigueros,Services,22,0.28405407176731,Sector
+Hormigueros,Mining,59,0.5867662241184918,Sector
+Hormigueros,Health_Care,57,0.06968734038001956,Sector
+Hormigueros,EnergyExpL_Prod,67,0.6280330936401785,Sector
+Hormigueros,Utilities,5,0.9587463751176398,Sector

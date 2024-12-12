@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Oberhavel,1599,0.5738335643373558,Overall
-Oberhavel,Technology,133,0.13877656626929047,Sector
-Oberhavel,Healthcare,167,0.7755675899352463,Sector
-Oberhavel,Finance,163,0.9512425544396936,Sector
-Oberhavel,Energy,100,0.657946600190767,Sector
-Oberhavel,Consumer Goods,114,0.7368607108906008,Sector
-Oberhavel,Utilities,126,0.568315700175413,Sector
-Oberhavel,Real Estate,118,0.7147698578954041,Sector
-Oberhavel,Telecommunications,16,0.6479026818257946,Sector
-Oberhavel,Materials,217,0.6588192731905325,Sector
-Oberhavel,Industrials,155,0.4935146246522495,Sector
-Oberhavel,Consumer Services,184,0.7138727967930422,Sector
-Oberhavel,Transportation,106,0.6142993854838125,Sector
-Technology,Software,6,0.5939164224545435,Industry
-Technology,Hardware,31,0.5632439267078079,Industry
-Technology,IT Services,96,0.20751368651691282,Industry
-Healthcare,Pharmaceuticals,91,0.9408833841918501,Industry
-Healthcare,Medical Devices,12,0.04282814330241236,Industry
-Healthcare,Healthcare Services,64,0.9349325746687714,Industry
-Finance,Banking,39,0.5484284794580474,Industry
-Finance,Insurance,26,0.24923592225398583,Industry
-Finance,Investment Services,98,0.8681835626260946,Industry
-Energy,Oil & Gas,36,0.8544948139066935,Industry
-Energy,Renewable Energy,55,0.8518830931832426,Industry
-Energy,Energy Exploration,9,0.3609528173787778,Industry
-Consumer Goods,Food & Beverage,48,0.16575626798634413,Industry
-Consumer Goods,Household Products,0,0.10844656692834242,Industry
-Consumer Goods,Apparel,66,0.20443546930452217,Industry
-Utilities,Electric,47,0.6587538956419874,Industry
-Utilities,Water,47,0.5147089257563238,Industry
-Utilities,Gas,32,0.7345808897045928,Industry
-Real Estate,Residential,43,0.6895649722683643,Industry
-Real Estate,Commercial,20,0.08511824217198971,Industry
-Real Estate,Industrial,55,0.5848887657426174,Industry
-Telecommunications,Mobile,6,0.49046261256374524,Industry
-Telecommunications,Broadband,7,0.24057186299097455,Industry
-Telecommunications,Satellite,3,0.08187442584154292,Industry
-Materials,Chemicals,62,0.22607381548539662,Industry
-Materials,Metals & Mining,60,0.24792995222956538,Industry
-Materials,Construction Materials,95,0.26992439790437184,Industry
-Industrials,Aerospace & Defense,21,0.100652943776534,Industry
-Industrials,Machinery,42,0.012046150232526531,Industry
-Industrials,Industrial Services,92,0.8551706513959877,Industry
-Consumer Services,Retail,98,0.6194810600054284,Industry
-Consumer Services,Travel & Leisure,4,0.39977484989569945,Industry
-Consumer Services,Media,82,0.3575498657292847,Industry
-Transportation,Airlines,61,0.5818128179846889,Industry
-Transportation,Railroads,11,0.641130065650951,Industry
-Transportation,Logistics,34,0.20846522724169825,Industry
+,Oberhavel,740,0.5994016746857279,Overall
+Oberhavel,HiTech,49,0.9251351775104086,Sector
+Oberhavel,Agriculture,32,0.4676535548855941,Sector
+Oberhavel,Transportation,95,0.8037417465024238,Sector
+Oberhavel,Consumer_Products,55,0.9374786009074386,Sector
+Oberhavel,Unassigned,76,0.9889787556463402,Sector
+Oberhavel,Communication,90,0.6305663691021867,Sector
+Oberhavel,Trade,44,0.8593822160947587,Sector
+Oberhavel,Business_Services,8,0.008370013030451373,Sector
+Oberhavel,Business_Products,15,0.34204946218502874,Sector
+Oberhavel,Construction,97,0.4843878615883058,Sector
+Oberhavel,Services,27,0.17763692675447007,Sector
+Oberhavel,Mining,74,0.12384002683985107,Sector
+Oberhavel,Health_Care,18,0.6214510768673353,Sector
+Oberhavel,EnergyExpL_Prod,47,0.8146973603904467,Sector
+Oberhavel,Utilities,13,0.8056559719808803,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Burke,1798,0.5426728289688388,Overall
-Burke,Technology,71,0.6123956494079345,Sector
-Burke,Healthcare,121,0.10284260357263986,Sector
-Burke,Finance,112,0.6654337588467246,Sector
-Burke,Energy,222,0.37021779214065376,Sector
-Burke,Consumer Goods,209,0.7118588647303328,Sector
-Burke,Utilities,179,0.1816212005662945,Sector
-Burke,Real Estate,241,0.10665762740119478,Sector
-Burke,Telecommunications,57,0.18000558433503466,Sector
-Burke,Materials,76,0.07959805003311093,Sector
-Burke,Industrials,178,0.028343514902207545,Sector
-Burke,Consumer Services,217,0.5983782945144217,Sector
-Burke,Transportation,115,0.632001433577447,Sector
-Technology,Software,57,0.8121003567996233,Industry
-Technology,Hardware,14,0.2385064244377897,Industry
-Technology,IT Services,0,0.6968797592916351,Industry
-Healthcare,Pharmaceuticals,30,0.16284129594499552,Industry
-Healthcare,Medical Devices,28,0.19755735596222201,Industry
-Healthcare,Healthcare Services,63,0.010204154281924782,Industry
-Finance,Banking,16,0.8844180601912934,Industry
-Finance,Insurance,18,0.3192885988286247,Industry
-Finance,Investment Services,78,0.3921299935777106,Industry
-Energy,Oil & Gas,77,0.43457647261246646,Industry
-Energy,Renewable Energy,98,0.9505109748349422,Industry
-Energy,Energy Exploration,47,0.8595835556114645,Industry
-Consumer Goods,Food & Beverage,52,0.5322017621598759,Industry
-Consumer Goods,Household Products,82,0.9693461629295363,Industry
-Consumer Goods,Apparel,75,0.8556550255537589,Industry
-Utilities,Electric,33,0.03744479009781976,Industry
-Utilities,Water,82,0.991387832613139,Industry
-Utilities,Gas,64,0.3120532939234517,Industry
-Real Estate,Residential,80,0.6515799337925721,Industry
-Real Estate,Commercial,76,0.7108116715969306,Industry
-Real Estate,Industrial,85,0.9677115726955177,Industry
-Telecommunications,Mobile,18,0.8914725563525033,Industry
-Telecommunications,Broadband,31,0.9672935100684757,Industry
-Telecommunications,Satellite,8,0.3292747445776142,Industry
-Materials,Chemicals,4,0.11004013280400138,Industry
-Materials,Metals & Mining,34,0.34844895595935066,Industry
-Materials,Construction Materials,38,0.19726443485140477,Industry
-Industrials,Aerospace & Defense,44,0.614612535948371,Industry
-Industrials,Machinery,56,0.40525355645858896,Industry
-Industrials,Industrial Services,78,0.4858516666854239,Industry
-Consumer Services,Retail,72,0.7686018624879026,Industry
-Consumer Services,Travel & Leisure,59,0.20827945845352103,Industry
-Consumer Services,Media,86,0.28910906794780467,Industry
-Transportation,Airlines,11,0.37624226874496114,Industry
-Transportation,Railroads,63,0.06827005512753248,Industry
-Transportation,Logistics,41,0.6425962810927145,Industry
+,Burke,541,0.46698933288091166,Overall
+Burke,HiTech,21,0.08453279913819345,Sector
+Burke,Agriculture,67,0.1833838945999824,Sector
+Burke,Transportation,30,0.6163712136279388,Sector
+Burke,Consumer_Products,29,0.34114115643859233,Sector
+Burke,Unassigned,66,0.30579903789671636,Sector
+Burke,Communication,46,0.5161393860338294,Sector
+Burke,Trade,9,0.956715384991091,Sector
+Burke,Business_Services,33,0.9663368206682019,Sector
+Burke,Business_Products,17,0.5503260278735883,Sector
+Burke,Construction,29,0.6304120203100025,Sector
+Burke,Services,18,0.09170089433956741,Sector
+Burke,Mining,37,0.33528454881072867,Sector
+Burke,Health_Care,37,0.7724164036021106,Sector
+Burke,EnergyExpL_Prod,78,0.49083870525553464,Sector
+Burke,Utilities,24,0.16344169962759647,Sector

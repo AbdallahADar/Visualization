@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,New Madrid,1933,0.22675877879031447,Overall
-New Madrid,Technology,134,0.23811758792045012,Sector
-New Madrid,Healthcare,169,0.9525367670016598,Sector
-New Madrid,Finance,200,0.27000094479484604,Sector
-New Madrid,Energy,139,0.4629364656139321,Sector
-New Madrid,Consumer Goods,128,0.7299376631554227,Sector
-New Madrid,Utilities,217,0.9741452810455418,Sector
-New Madrid,Real Estate,182,0.8047157294321795,Sector
-New Madrid,Telecommunications,184,0.8182698624918368,Sector
-New Madrid,Materials,95,0.480726266114029,Sector
-New Madrid,Industrials,186,0.17574986143032445,Sector
-New Madrid,Consumer Services,121,0.6277530480439515,Sector
-New Madrid,Transportation,178,0.17885138780772913,Sector
-Technology,Software,58,0.4659162236429796,Industry
-Technology,Hardware,30,0.0739815604636983,Industry
-Technology,IT Services,46,0.7235136196801394,Industry
-Healthcare,Pharmaceuticals,51,0.3414414763386968,Industry
-Healthcare,Medical Devices,99,0.33592962542878946,Industry
-Healthcare,Healthcare Services,19,0.12072942860699909,Industry
-Finance,Banking,61,0.3605894724263611,Industry
-Finance,Insurance,42,0.18695768737745722,Industry
-Finance,Investment Services,97,0.6018172584235784,Industry
-Energy,Oil & Gas,21,0.34839932937157625,Industry
-Energy,Renewable Energy,75,0.8528006968496609,Industry
-Energy,Energy Exploration,43,0.3338215875981655,Industry
-Consumer Goods,Food & Beverage,37,0.03233242369070022,Industry
-Consumer Goods,Household Products,70,0.8985278864190234,Industry
-Consumer Goods,Apparel,21,0.9217399172535877,Industry
-Utilities,Electric,65,0.48393927420944804,Industry
-Utilities,Water,89,0.7947337090060955,Industry
-Utilities,Gas,63,0.5260963313852675,Industry
-Real Estate,Residential,34,0.8328778013636818,Industry
-Real Estate,Commercial,68,0.2094235044418149,Industry
-Real Estate,Industrial,80,0.6401402243773741,Industry
-Telecommunications,Mobile,51,0.32861501438992946,Industry
-Telecommunications,Broadband,99,0.6867737888279883,Industry
-Telecommunications,Satellite,34,0.28913742766663,Industry
-Materials,Chemicals,52,0.3667326654525249,Industry
-Materials,Metals & Mining,6,0.8717105734785823,Industry
-Materials,Construction Materials,37,0.2683287525512428,Industry
-Industrials,Aerospace & Defense,13,0.863034710246553,Industry
-Industrials,Machinery,82,0.3552226313989233,Industry
-Industrials,Industrial Services,91,0.13501427491597973,Industry
-Consumer Services,Retail,25,0.24610345068907646,Industry
-Consumer Services,Travel & Leisure,16,0.1410383242665697,Industry
-Consumer Services,Media,80,0.9591844341508466,Industry
-Transportation,Airlines,61,0.9428330978640508,Industry
-Transportation,Railroads,93,0.4203361245905083,Industry
-Transportation,Logistics,24,0.9700138355344259,Industry
+,New Madrid,710,0.4007355053295068,Overall
+New Madrid,HiTech,0,0.01109938650969744,Sector
+New Madrid,Agriculture,62,0.47003320235167967,Sector
+New Madrid,Transportation,32,0.8414537578364683,Sector
+New Madrid,Consumer_Products,56,0.05378409131926287,Sector
+New Madrid,Unassigned,97,0.28117480728651345,Sector
+New Madrid,Communication,24,0.6526850111325835,Sector
+New Madrid,Trade,95,0.23005648879106777,Sector
+New Madrid,Business_Services,94,0.3420285052972427,Sector
+New Madrid,Business_Products,80,0.9598109180331676,Sector
+New Madrid,Construction,15,0.3399918602943963,Sector
+New Madrid,Services,16,0.2698079755481396,Sector
+New Madrid,Mining,16,0.3841481174262411,Sector
+New Madrid,Health_Care,13,0.4977707107598669,Sector
+New Madrid,EnergyExpL_Prod,49,0.42438068594357137,Sector
+New Madrid,Utilities,61,0.25280706141270304,Sector

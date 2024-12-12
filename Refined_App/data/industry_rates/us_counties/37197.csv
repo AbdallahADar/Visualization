@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Yadkin,1720,0.5755351484501408,Overall
-Yadkin,Technology,204,0.6952101410156918,Sector
-Yadkin,Healthcare,56,0.9607648356318892,Sector
-Yadkin,Finance,115,0.9103288062173364,Sector
-Yadkin,Energy,90,0.33898373346414,Sector
-Yadkin,Consumer Goods,177,0.1283430464190568,Sector
-Yadkin,Utilities,138,0.8409905036061205,Sector
-Yadkin,Real Estate,155,0.7972480229518007,Sector
-Yadkin,Telecommunications,202,0.21858665691283408,Sector
-Yadkin,Materials,100,0.8028310168699347,Sector
-Yadkin,Industrials,181,0.4759312974875538,Sector
-Yadkin,Consumer Services,137,0.5622206820660438,Sector
-Yadkin,Transportation,165,0.4344845917087179,Sector
-Technology,Software,85,0.11286768613865761,Industry
-Technology,Hardware,81,0.08848080928449642,Industry
-Technology,IT Services,38,0.9806916471147561,Industry
-Healthcare,Pharmaceuticals,23,0.44850254198883865,Industry
-Healthcare,Medical Devices,24,0.9652084878471157,Industry
-Healthcare,Healthcare Services,9,0.7003389277640205,Industry
-Finance,Banking,44,0.12625293979748708,Industry
-Finance,Insurance,42,0.17573602967636226,Industry
-Finance,Investment Services,29,0.7492074019051153,Industry
-Energy,Oil & Gas,29,0.8645778009042001,Industry
-Energy,Renewable Energy,30,0.9153992892914279,Industry
-Energy,Energy Exploration,31,0.7239326287688448,Industry
-Consumer Goods,Food & Beverage,19,0.8082305206863334,Industry
-Consumer Goods,Household Products,99,0.4596419821499379,Industry
-Consumer Goods,Apparel,59,0.49493757199438415,Industry
-Utilities,Electric,12,0.9094569330104922,Industry
-Utilities,Water,42,0.36042562267946043,Industry
-Utilities,Gas,84,0.875448062491208,Industry
-Real Estate,Residential,26,0.7545222073626784,Industry
-Real Estate,Commercial,70,0.3788598848177561,Industry
-Real Estate,Industrial,59,0.12758431525976388,Industry
-Telecommunications,Mobile,74,0.3441937262326411,Industry
-Telecommunications,Broadband,84,0.002071013197998961,Industry
-Telecommunications,Satellite,44,0.03965115622990134,Industry
-Materials,Chemicals,56,0.8569237781374066,Industry
-Materials,Metals & Mining,42,0.3841624671307803,Industry
-Materials,Construction Materials,2,0.25739260944909337,Industry
-Industrials,Aerospace & Defense,91,0.76514371516593,Industry
-Industrials,Machinery,50,0.4579784735145024,Industry
-Industrials,Industrial Services,40,0.2639921780680712,Industry
-Consumer Services,Retail,21,0.648670639793525,Industry
-Consumer Services,Travel & Leisure,33,0.11662156711693472,Industry
-Consumer Services,Media,83,0.3590525626871399,Industry
-Transportation,Airlines,82,0.6276018634347282,Industry
-Transportation,Railroads,54,0.1631981932886497,Industry
-Transportation,Logistics,29,0.9953128832433272,Industry
+,Yadkin,822,0.36884791291056324,Overall
+Yadkin,HiTech,1,0.41633011371278206,Sector
+Yadkin,Agriculture,0,0.3139639381302384,Sector
+Yadkin,Transportation,17,0.2808174052803828,Sector
+Yadkin,Consumer_Products,9,0.8936536285349387,Sector
+Yadkin,Unassigned,97,0.021398500500103057,Sector
+Yadkin,Communication,85,0.04515417669289412,Sector
+Yadkin,Trade,30,0.7947208643425402,Sector
+Yadkin,Business_Services,98,0.7972343756714583,Sector
+Yadkin,Business_Products,78,0.8949154803203695,Sector
+Yadkin,Construction,87,0.11364186192333525,Sector
+Yadkin,Services,84,0.18229997916917795,Sector
+Yadkin,Mining,75,0.1457680503171015,Sector
+Yadkin,Health_Care,27,0.050182419681877644,Sector
+Yadkin,EnergyExpL_Prod,39,0.15602713968230975,Sector
+Yadkin,Utilities,95,0.42661075969893847,Sector

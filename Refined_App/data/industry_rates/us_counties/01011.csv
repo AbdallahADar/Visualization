@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bullock,1663,0.26450911073214645,Overall
-Bullock,Technology,113,0.10939957631756103,Sector
-Bullock,Healthcare,135,0.45353171605424514,Sector
-Bullock,Finance,155,0.016922366747543105,Sector
-Bullock,Energy,101,0.8853020253985906,Sector
-Bullock,Consumer Goods,162,0.6771751083045342,Sector
-Bullock,Utilities,173,0.08694006620618067,Sector
-Bullock,Real Estate,205,0.6035396875984164,Sector
-Bullock,Telecommunications,83,0.9062255417453644,Sector
-Bullock,Materials,98,0.38363360568062055,Sector
-Bullock,Industrials,198,0.08977756656042957,Sector
-Bullock,Consumer Services,156,0.6006223700264532,Sector
-Bullock,Transportation,84,0.1939304569973711,Sector
-Technology,Software,68,0.6666344303477413,Industry
-Technology,Hardware,34,0.6971860953369285,Industry
-Technology,IT Services,11,0.9668594185649441,Industry
-Healthcare,Pharmaceuticals,98,0.12874911079956386,Industry
-Healthcare,Medical Devices,35,0.3881605207624781,Industry
-Healthcare,Healthcare Services,2,0.6046438036603964,Industry
-Finance,Banking,94,0.23867574692886684,Industry
-Finance,Insurance,27,0.5725492153277687,Industry
-Finance,Investment Services,34,0.9988276206151411,Industry
-Energy,Oil & Gas,37,0.44727051206108637,Industry
-Energy,Renewable Energy,52,0.6632969099143903,Industry
-Energy,Energy Exploration,12,0.8095252997043527,Industry
-Consumer Goods,Food & Beverage,67,0.5344722984450152,Industry
-Consumer Goods,Household Products,35,0.5673672055492271,Industry
-Consumer Goods,Apparel,60,0.8361033357941412,Industry
-Utilities,Electric,93,0.6787438178848166,Industry
-Utilities,Water,29,0.8995513866647898,Industry
-Utilities,Gas,51,0.6891095367667814,Industry
-Real Estate,Residential,69,0.5120686249524361,Industry
-Real Estate,Commercial,87,0.03475131592680736,Industry
-Real Estate,Industrial,49,0.37532093848354353,Industry
-Telecommunications,Mobile,82,0.11193829343247974,Industry
-Telecommunications,Broadband,0,0.943212225486734,Industry
-Telecommunications,Satellite,1,0.4645855156511671,Industry
-Materials,Chemicals,13,0.6237798740694617,Industry
-Materials,Metals & Mining,60,0.8776303886151517,Industry
-Materials,Construction Materials,25,0.13803166652711474,Industry
-Industrials,Aerospace & Defense,70,0.32490332155783974,Industry
-Industrials,Machinery,47,0.8549768542136696,Industry
-Industrials,Industrial Services,81,0.27524196865314265,Industry
-Consumer Services,Retail,52,0.8061733204696023,Industry
-Consumer Services,Travel & Leisure,91,0.21302686910096091,Industry
-Consumer Services,Media,13,0.8760824510999533,Industry
-Transportation,Airlines,6,0.5899855458241369,Industry
-Transportation,Railroads,40,0.20793341318842506,Industry
-Transportation,Logistics,38,0.6759906484221545,Industry
+,Bullock,611,0.4492364602591831,Overall
+Bullock,HiTech,4,0.8914710328960838,Sector
+Bullock,Agriculture,36,0.39171791554592394,Sector
+Bullock,Transportation,25,0.9127337178048753,Sector
+Bullock,Consumer_Products,39,0.15718067382515533,Sector
+Bullock,Unassigned,73,0.6470070237798713,Sector
+Bullock,Communication,38,0.4849283307648764,Sector
+Bullock,Trade,98,0.5386943884046369,Sector
+Bullock,Business_Services,84,0.007680228051101579,Sector
+Bullock,Business_Products,92,0.10838077948251079,Sector
+Bullock,Construction,28,0.7466026955741779,Sector
+Bullock,Services,23,0.4753316099505027,Sector
+Bullock,Mining,9,0.5122729802893949,Sector
+Bullock,Health_Care,47,0.05873479923971492,Sector
+Bullock,EnergyExpL_Prod,6,0.559390676895648,Sector
+Bullock,Utilities,9,0.2464200513832745,Sector

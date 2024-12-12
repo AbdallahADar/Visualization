@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Genesee,1899,0.3248309217391593,Overall
-Genesee,Technology,193,0.6552719625356278,Sector
-Genesee,Healthcare,212,0.6758501323220197,Sector
-Genesee,Finance,36,0.30861964754846927,Sector
-Genesee,Energy,170,0.6915440553062011,Sector
-Genesee,Consumer Goods,141,0.27445032502585687,Sector
-Genesee,Utilities,213,0.41912383320246016,Sector
-Genesee,Real Estate,182,0.7764644275620536,Sector
-Genesee,Telecommunications,150,0.02133737605997399,Sector
-Genesee,Materials,124,0.611000146717885,Sector
-Genesee,Industrials,135,0.6389411577182299,Sector
-Genesee,Consumer Services,211,0.6932714694633022,Sector
-Genesee,Transportation,132,0.9443281815995596,Sector
-Technology,Software,13,0.020206972049540473,Industry
-Technology,Hardware,88,0.34380023114856406,Industry
-Technology,IT Services,92,0.7832847455973584,Industry
-Healthcare,Pharmaceuticals,87,0.14737899374226515,Industry
-Healthcare,Medical Devices,90,0.17372322841107735,Industry
-Healthcare,Healthcare Services,35,0.1642208677664443,Industry
-Finance,Banking,15,0.5346823962076589,Industry
-Finance,Insurance,21,0.08071870832880657,Industry
-Finance,Investment Services,0,0.662278709090854,Industry
-Energy,Oil & Gas,42,0.39582365392559626,Industry
-Energy,Renewable Energy,85,0.19990665871492652,Industry
-Energy,Energy Exploration,43,0.6948758207525921,Industry
-Consumer Goods,Food & Beverage,46,0.5522432605497619,Industry
-Consumer Goods,Household Products,59,0.6437992334442658,Industry
-Consumer Goods,Apparel,36,0.3586579552626715,Industry
-Utilities,Electric,48,0.7538264686612228,Industry
-Utilities,Water,70,0.8345181435414547,Industry
-Utilities,Gas,95,0.26186121674564844,Industry
-Real Estate,Residential,65,0.8171689906387773,Industry
-Real Estate,Commercial,76,0.3193481007678035,Industry
-Real Estate,Industrial,41,0.05041193635515562,Industry
-Telecommunications,Mobile,24,0.8108726377746998,Industry
-Telecommunications,Broadband,57,0.4979958982930426,Industry
-Telecommunications,Satellite,69,0.9858053061549652,Industry
-Materials,Chemicals,16,0.24588155017686142,Industry
-Materials,Metals & Mining,78,0.8098654517173375,Industry
-Materials,Construction Materials,30,0.40150422640678707,Industry
-Industrials,Aerospace & Defense,3,0.7627630144702439,Industry
-Industrials,Machinery,49,0.037730695014501214,Industry
-Industrials,Industrial Services,83,0.7355583661399692,Industry
-Consumer Services,Retail,70,0.10477976523271915,Industry
-Consumer Services,Travel & Leisure,67,0.8221409137469736,Industry
-Consumer Services,Media,74,0.1660378585786303,Industry
-Transportation,Airlines,44,0.5313259190151168,Industry
-Transportation,Railroads,72,0.9054621384701643,Industry
-Transportation,Logistics,16,0.5665320731825665,Industry
+,Genesee,793,0.603581392982619,Overall
+Genesee,HiTech,56,0.8703386843871601,Sector
+Genesee,Agriculture,63,0.996793445040545,Sector
+Genesee,Transportation,66,0.9629209705976428,Sector
+Genesee,Consumer_Products,47,0.16864748866903057,Sector
+Genesee,Unassigned,15,0.16173703676717244,Sector
+Genesee,Communication,83,0.24900300284644272,Sector
+Genesee,Trade,85,0.5352914251130066,Sector
+Genesee,Business_Services,56,0.8287323464101004,Sector
+Genesee,Business_Products,17,0.9060921434411835,Sector
+Genesee,Construction,45,0.8327203678849425,Sector
+Genesee,Services,13,0.49688701211925856,Sector
+Genesee,Mining,54,0.6825627439453769,Sector
+Genesee,Health_Care,99,0.6838801903587797,Sector
+Genesee,EnergyExpL_Prod,3,0.44177188602321993,Sector
+Genesee,Utilities,91,0.23634215113542345,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Latimer,1792,0.4184958422266729,Overall
-Latimer,Technology,116,0.9357921488381317,Sector
-Latimer,Healthcare,157,0.5216547923211459,Sector
-Latimer,Finance,85,0.011230721592952353,Sector
-Latimer,Energy,191,0.400538680537342,Sector
-Latimer,Consumer Goods,194,0.17716585933596818,Sector
-Latimer,Utilities,176,0.6983527410027888,Sector
-Latimer,Real Estate,180,0.00850256725102383,Sector
-Latimer,Telecommunications,191,0.5982310386413278,Sector
-Latimer,Materials,95,0.054622772435431344,Sector
-Latimer,Industrials,181,0.02366364291508538,Sector
-Latimer,Consumer Services,98,0.8603161254051593,Sector
-Latimer,Transportation,128,0.8081043055298958,Sector
-Technology,Software,30,0.05889815168765489,Industry
-Technology,Hardware,53,0.6097984439151368,Industry
-Technology,IT Services,33,0.5031919600099499,Industry
-Healthcare,Pharmaceuticals,72,0.03751497116864311,Industry
-Healthcare,Medical Devices,45,0.7008318576792562,Industry
-Healthcare,Healthcare Services,40,0.6589925400384744,Industry
-Finance,Banking,35,0.2799958793297168,Industry
-Finance,Insurance,30,0.8678223061349777,Industry
-Finance,Investment Services,20,0.3059125059984491,Industry
-Energy,Oil & Gas,70,0.3095373382708073,Industry
-Energy,Renewable Energy,60,0.12854557240818565,Industry
-Energy,Energy Exploration,61,0.7234651731518732,Industry
-Consumer Goods,Food & Beverage,61,0.1386882819561689,Industry
-Consumer Goods,Household Products,37,0.15203217266683244,Industry
-Consumer Goods,Apparel,96,0.47448175836670403,Industry
-Utilities,Electric,17,0.1932191750119452,Industry
-Utilities,Water,77,0.3371709466792223,Industry
-Utilities,Gas,82,0.1686543266922278,Industry
-Real Estate,Residential,83,0.3686502005692952,Industry
-Real Estate,Commercial,54,0.43112436056969683,Industry
-Real Estate,Industrial,43,0.36323218013313285,Industry
-Telecommunications,Mobile,10,0.6730393730657306,Industry
-Telecommunications,Broadband,84,0.028030194213269244,Industry
-Telecommunications,Satellite,97,0.7377842831823,Industry
-Materials,Chemicals,50,0.5240765631735842,Industry
-Materials,Metals & Mining,30,0.48307282859564726,Industry
-Materials,Construction Materials,15,0.9823462117906306,Industry
-Industrials,Aerospace & Defense,5,0.7560482939571551,Industry
-Industrials,Machinery,81,0.15594535454488367,Industry
-Industrials,Industrial Services,95,0.37673962737789246,Industry
-Consumer Services,Retail,14,0.558230039742938,Industry
-Consumer Services,Travel & Leisure,17,0.11029010910106951,Industry
-Consumer Services,Media,67,0.8124046115102891,Industry
-Transportation,Airlines,63,0.02789082684582289,Industry
-Transportation,Railroads,32,0.5269399504769522,Industry
-Transportation,Logistics,33,0.30016797475861245,Industry
+,Latimer,854,0.47689653557510703,Overall
+Latimer,HiTech,29,0.4595018252951091,Sector
+Latimer,Agriculture,84,0.465670687316847,Sector
+Latimer,Transportation,41,0.6905579310497909,Sector
+Latimer,Consumer_Products,78,0.4030525636494068,Sector
+Latimer,Unassigned,55,0.1105955493332238,Sector
+Latimer,Communication,40,0.6224780489490013,Sector
+Latimer,Trade,45,0.1849667528497927,Sector
+Latimer,Business_Services,82,0.37207130311480696,Sector
+Latimer,Business_Products,13,0.2529692598898664,Sector
+Latimer,Construction,66,0.43976254630176215,Sector
+Latimer,Services,20,0.5350202959760736,Sector
+Latimer,Mining,96,0.8868488249682247,Sector
+Latimer,Health_Care,65,0.6898747646466141,Sector
+Latimer,EnergyExpL_Prod,94,0.8235212180816641,Sector
+Latimer,Utilities,46,0.21655646220442182,Sector

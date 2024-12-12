@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,San Benito,1802,0.7083269139366989,Overall
-San Benito,Technology,139,0.8290121874214316,Sector
-San Benito,Healthcare,183,0.4884485861689496,Sector
-San Benito,Finance,119,0.6540380797475793,Sector
-San Benito,Energy,142,0.9621383867004678,Sector
-San Benito,Consumer Goods,111,0.6925118157858557,Sector
-San Benito,Utilities,122,0.6997520011060379,Sector
-San Benito,Real Estate,144,0.6890271917011895,Sector
-San Benito,Telecommunications,203,0.8295704744367576,Sector
-San Benito,Materials,209,0.12142684773481716,Sector
-San Benito,Industrials,177,0.10146413738345295,Sector
-San Benito,Consumer Services,92,0.03190780645674596,Sector
-San Benito,Transportation,161,0.3026932552221684,Sector
-Technology,Software,49,0.4310941084964808,Industry
-Technology,Hardware,86,0.9046755667869454,Industry
-Technology,IT Services,4,0.11059099892790059,Industry
-Healthcare,Pharmaceuticals,53,0.8052191276096854,Industry
-Healthcare,Medical Devices,45,0.19005629170670624,Industry
-Healthcare,Healthcare Services,85,0.7706940796789646,Industry
-Finance,Banking,8,0.8569292118360272,Industry
-Finance,Insurance,36,0.501310277893981,Industry
-Finance,Investment Services,75,0.0932936408871321,Industry
-Energy,Oil & Gas,44,0.03110975719831588,Industry
-Energy,Renewable Energy,81,0.6975236523938618,Industry
-Energy,Energy Exploration,17,0.6225895445264421,Industry
-Consumer Goods,Food & Beverage,21,0.03128414747381436,Industry
-Consumer Goods,Household Products,32,0.3008985344548619,Industry
-Consumer Goods,Apparel,58,0.03039365106774161,Industry
-Utilities,Electric,72,0.6601042335963406,Industry
-Utilities,Water,20,0.7877583289914344,Industry
-Utilities,Gas,30,0.7543819512336658,Industry
-Real Estate,Residential,91,0.7521158100920925,Industry
-Real Estate,Commercial,4,0.268580391180985,Industry
-Real Estate,Industrial,49,0.9148963523762976,Industry
-Telecommunications,Mobile,45,0.4455370924529022,Industry
-Telecommunications,Broadband,89,0.9397943017654093,Industry
-Telecommunications,Satellite,69,0.06940906481059761,Industry
-Materials,Chemicals,82,0.3802481346637794,Industry
-Materials,Metals & Mining,83,0.6971864707899933,Industry
-Materials,Construction Materials,44,0.3277881027835854,Industry
-Industrials,Aerospace & Defense,56,0.02674548152723688,Industry
-Industrials,Machinery,42,0.333087929514881,Industry
-Industrials,Industrial Services,79,0.5129446197501573,Industry
-Consumer Services,Retail,11,0.9371728634400239,Industry
-Consumer Services,Travel & Leisure,4,0.9574965235142137,Industry
-Consumer Services,Media,77,0.3334491779020131,Industry
-Transportation,Airlines,75,0.8183872929707587,Industry
-Transportation,Railroads,16,0.1544345254628514,Industry
-Transportation,Logistics,70,0.9706380891537637,Industry
+,San Benito,718,0.42104853252954655,Overall
+San Benito,HiTech,51,0.9355709891407752,Sector
+San Benito,Agriculture,76,0.016640007914154542,Sector
+San Benito,Transportation,1,0.32865484597212136,Sector
+San Benito,Consumer_Products,75,0.5382554433492324,Sector
+San Benito,Unassigned,78,0.6374927663528495,Sector
+San Benito,Communication,51,0.3987906337018807,Sector
+San Benito,Trade,17,0.07197003858268813,Sector
+San Benito,Business_Services,9,0.7460735154834727,Sector
+San Benito,Business_Products,83,0.4583930934839522,Sector
+San Benito,Construction,15,0.26796275756553223,Sector
+San Benito,Services,0,0.11410053134543163,Sector
+San Benito,Mining,46,0.07720402675762039,Sector
+San Benito,Health_Care,91,0.9822570895910728,Sector
+San Benito,EnergyExpL_Prod,48,0.36289315213098505,Sector
+San Benito,Utilities,77,0.3794690965714306,Sector

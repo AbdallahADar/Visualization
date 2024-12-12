@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hot Springs,1726,0.7133149048711657,Overall
-Hot Springs,Technology,153,0.2303803249102898,Sector
-Hot Springs,Healthcare,179,0.38707393770238596,Sector
-Hot Springs,Finance,41,0.18055160200821063,Sector
-Hot Springs,Energy,79,0.12940890032960783,Sector
-Hot Springs,Consumer Goods,170,0.8034880688679126,Sector
-Hot Springs,Utilities,143,0.9328826112463873,Sector
-Hot Springs,Real Estate,150,0.4970646903557776,Sector
-Hot Springs,Telecommunications,152,0.4578562448645227,Sector
-Hot Springs,Materials,170,0.13087129944983922,Sector
-Hot Springs,Industrials,173,0.4539379747517648,Sector
-Hot Springs,Consumer Services,211,0.9978084829654951,Sector
-Hot Springs,Transportation,105,0.19289218864020308,Sector
-Technology,Software,43,0.7480464482633002,Industry
-Technology,Hardware,11,0.8147609918584422,Industry
-Technology,IT Services,99,0.6596189654742427,Industry
-Healthcare,Pharmaceuticals,25,0.6528689808976932,Industry
-Healthcare,Medical Devices,94,0.12938469660601637,Industry
-Healthcare,Healthcare Services,60,0.9003860594192911,Industry
-Finance,Banking,1,0.3302266489267026,Industry
-Finance,Insurance,26,0.18129603276215478,Industry
-Finance,Investment Services,14,0.8911008616761141,Industry
-Energy,Oil & Gas,9,0.6089621486773491,Industry
-Energy,Renewable Energy,18,0.5767764879864798,Industry
-Energy,Energy Exploration,52,0.8222181695859091,Industry
-Consumer Goods,Food & Beverage,48,0.4098297879301235,Industry
-Consumer Goods,Household Products,49,0.9107149673469248,Industry
-Consumer Goods,Apparel,73,0.522169961446315,Industry
-Utilities,Electric,36,0.6280653033930254,Industry
-Utilities,Water,42,0.1457482035837563,Industry
-Utilities,Gas,65,0.8353037458340488,Industry
-Real Estate,Residential,2,0.21757018257554195,Industry
-Real Estate,Commercial,62,0.7074584666321817,Industry
-Real Estate,Industrial,86,0.3049903908443262,Industry
-Telecommunications,Mobile,49,0.08384496979868372,Industry
-Telecommunications,Broadband,7,0.33600002947901264,Industry
-Telecommunications,Satellite,96,0.875014092831931,Industry
-Materials,Chemicals,80,0.11691772798138833,Industry
-Materials,Metals & Mining,73,0.7649884570968745,Industry
-Materials,Construction Materials,17,0.7265858289361906,Industry
-Industrials,Aerospace & Defense,58,0.2376746053464599,Industry
-Industrials,Machinery,53,0.8119640477179076,Industry
-Industrials,Industrial Services,62,0.8809256369237387,Industry
-Consumer Services,Retail,67,0.7146548554884512,Industry
-Consumer Services,Travel & Leisure,77,0.009878407052389737,Industry
-Consumer Services,Media,67,0.48990178539079987,Industry
-Transportation,Airlines,79,0.41917791875071053,Industry
-Transportation,Railroads,12,0.6764813059169066,Industry
-Transportation,Logistics,14,0.5132119328221927,Industry
+,Hot Springs,561,0.4418977432815447,Overall
+Hot Springs,HiTech,96,0.2436213643801094,Sector
+Hot Springs,Agriculture,39,0.41588989709065216,Sector
+Hot Springs,Transportation,13,0.38108539039425093,Sector
+Hot Springs,Consumer_Products,83,0.07786439702531889,Sector
+Hot Springs,Unassigned,48,0.7536427383087517,Sector
+Hot Springs,Communication,34,0.24067861240537425,Sector
+Hot Springs,Trade,64,0.4974357697357157,Sector
+Hot Springs,Business_Services,59,0.6497155758950455,Sector
+Hot Springs,Business_Products,1,0.6891173632044838,Sector
+Hot Springs,Construction,63,0.12567020572750554,Sector
+Hot Springs,Services,40,0.07807256161232545,Sector
+Hot Springs,Mining,2,0.26011009983074684,Sector
+Hot Springs,Health_Care,13,0.9675516247243555,Sector
+Hot Springs,EnergyExpL_Prod,2,0.9746349863301307,Sector
+Hot Springs,Utilities,4,0.2733755625584062,Sector

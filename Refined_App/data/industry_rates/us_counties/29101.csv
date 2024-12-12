@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Johnson,1431,0.5237237306326405,Overall
-Johnson,Technology,176,0.6238894180053619,Sector
-Johnson,Healthcare,103,0.6655276926079159,Sector
-Johnson,Finance,109,0.15965411251213046,Sector
-Johnson,Energy,73,0.06526296650400842,Sector
-Johnson,Consumer Goods,63,0.03519552398167258,Sector
-Johnson,Utilities,101,0.943200532871017,Sector
-Johnson,Real Estate,201,0.9612340570465379,Sector
-Johnson,Telecommunications,164,0.26001419667817616,Sector
-Johnson,Materials,194,0.9818597238556219,Sector
-Johnson,Industrials,94,0.5477081878694013,Sector
-Johnson,Consumer Services,113,0.8626158633226645,Sector
-Johnson,Transportation,40,0.5686729108926344,Sector
-Technology,Software,81,0.7787369178443688,Industry
-Technology,Hardware,41,0.6291335565051869,Industry
-Technology,IT Services,54,0.74666594175421,Industry
-Healthcare,Pharmaceuticals,30,0.9985069539932375,Industry
-Healthcare,Medical Devices,33,0.8534546799760238,Industry
-Healthcare,Healthcare Services,40,0.24305247113783568,Industry
-Finance,Banking,29,0.4058433194919374,Industry
-Finance,Insurance,3,0.35558575794686265,Industry
-Finance,Investment Services,77,0.08905903130665682,Industry
-Energy,Oil & Gas,20,0.05019705861163737,Industry
-Energy,Renewable Energy,9,0.260863526104673,Industry
-Energy,Energy Exploration,44,0.17989973886209953,Industry
-Consumer Goods,Food & Beverage,3,0.523187704877295,Industry
-Consumer Goods,Household Products,26,0.5765547775436078,Industry
-Consumer Goods,Apparel,34,0.9272021619928599,Industry
-Utilities,Electric,36,0.03593735333302539,Industry
-Utilities,Water,34,0.9939251551363368,Industry
-Utilities,Gas,31,0.7776777976847385,Industry
-Real Estate,Residential,51,0.45500274497191384,Industry
-Real Estate,Commercial,70,0.9386051054253375,Industry
-Real Estate,Industrial,80,0.4373511777251434,Industry
-Telecommunications,Mobile,39,0.10435457571432127,Industry
-Telecommunications,Broadband,66,0.29187083927894464,Industry
-Telecommunications,Satellite,59,0.019289660157273292,Industry
-Materials,Chemicals,68,0.6815578126301626,Industry
-Materials,Metals & Mining,93,0.4930285703517846,Industry
-Materials,Construction Materials,33,0.5289019016575501,Industry
-Industrials,Aerospace & Defense,29,0.8569274439452917,Industry
-Industrials,Machinery,33,0.03328233144305881,Industry
-Industrials,Industrial Services,32,0.5902911679415968,Industry
-Consumer Services,Retail,37,0.8396759273317922,Industry
-Consumer Services,Travel & Leisure,20,0.9082766845046388,Industry
-Consumer Services,Media,56,0.7481754552269761,Industry
-Transportation,Airlines,0,0.00228953240908103,Industry
-Transportation,Railroads,24,0.5875639291512188,Industry
-Transportation,Logistics,16,0.7086050948698144,Industry
+,Johnson,670,0.5238611275854957,Overall
+Johnson,HiTech,11,0.19129714966344735,Sector
+Johnson,Agriculture,76,0.9855230284444058,Sector
+Johnson,Transportation,50,0.0018884377571656286,Sector
+Johnson,Consumer_Products,12,0.9198556930051105,Sector
+Johnson,Unassigned,37,0.9140644134374044,Sector
+Johnson,Communication,73,0.3145613415768568,Sector
+Johnson,Trade,62,0.9940267016167973,Sector
+Johnson,Business_Services,45,0.31024105804024893,Sector
+Johnson,Business_Products,72,0.7389348147311771,Sector
+Johnson,Construction,6,0.2960001901919632,Sector
+Johnson,Services,3,0.43293312914568105,Sector
+Johnson,Mining,2,0.7222044974587625,Sector
+Johnson,Health_Care,53,0.5206849342899917,Sector
+Johnson,EnergyExpL_Prod,95,0.21749360172346843,Sector
+Johnson,Utilities,73,0.2982079226999558,Sector

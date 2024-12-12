@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Emsland,1738,0.5103305313636772,Overall
-Emsland,Technology,139,0.44259402546735216,Sector
-Emsland,Healthcare,179,0.8425222469318056,Sector
-Emsland,Finance,175,0.17656695297959302,Sector
-Emsland,Energy,201,0.7313435244569325,Sector
-Emsland,Consumer Goods,154,0.7239529330767228,Sector
-Emsland,Utilities,151,0.21680905862289357,Sector
-Emsland,Real Estate,137,0.14405843022666065,Sector
-Emsland,Telecommunications,199,0.41385391457098464,Sector
-Emsland,Materials,85,0.8892183661208235,Sector
-Emsland,Industrials,52,0.8489459854459945,Sector
-Emsland,Consumer Services,146,0.0446043642972771,Sector
-Emsland,Transportation,120,0.12061087291379802,Sector
-Technology,Software,93,0.4071594020316295,Industry
-Technology,Hardware,32,0.09747026181977081,Industry
-Technology,IT Services,14,0.16110288384693416,Industry
-Healthcare,Pharmaceuticals,98,0.40051658912598087,Industry
-Healthcare,Medical Devices,44,0.48809025978545884,Industry
-Healthcare,Healthcare Services,37,0.16217590013362437,Industry
-Finance,Banking,20,0.07854577213222924,Industry
-Finance,Insurance,85,0.790931888728541,Industry
-Finance,Investment Services,70,0.7777574404324108,Industry
-Energy,Oil & Gas,73,0.8603793232031335,Industry
-Energy,Renewable Energy,95,0.9007103513125038,Industry
-Energy,Energy Exploration,33,0.8791512390348329,Industry
-Consumer Goods,Food & Beverage,53,0.20230814019934618,Industry
-Consumer Goods,Household Products,49,0.6089082207161808,Industry
-Consumer Goods,Apparel,52,0.5051469377045605,Industry
-Utilities,Electric,56,0.20147852301598956,Industry
-Utilities,Water,30,0.9706172799873768,Industry
-Utilities,Gas,65,0.19183599745980684,Industry
-Real Estate,Residential,88,0.37008266101492215,Industry
-Real Estate,Commercial,37,0.8376284483690444,Industry
-Real Estate,Industrial,12,0.32175407149991864,Industry
-Telecommunications,Mobile,71,0.7761148401537835,Industry
-Telecommunications,Broadband,65,0.9517354616470358,Industry
-Telecommunications,Satellite,63,0.7189697436910486,Industry
-Materials,Chemicals,56,0.03834462188280496,Industry
-Materials,Metals & Mining,29,0.10730006246476642,Industry
-Materials,Construction Materials,0,0.7270488301956451,Industry
-Industrials,Aerospace & Defense,43,0.6850458874938211,Industry
-Industrials,Machinery,6,0.48572635363915573,Industry
-Industrials,Industrial Services,3,0.7256355927553523,Industry
-Consumer Services,Retail,32,0.6053471377248691,Industry
-Consumer Services,Travel & Leisure,41,0.7461207147139163,Industry
-Consumer Services,Media,73,0.09391155005536833,Industry
-Transportation,Airlines,97,0.5435117481726445,Industry
-Transportation,Railroads,7,0.40886953949041493,Industry
-Transportation,Logistics,16,0.7842337337951412,Industry
+,Emsland,909,0.5182060790262047,Overall
+Emsland,HiTech,77,0.9863075801470904,Sector
+Emsland,Agriculture,92,0.7341776369040799,Sector
+Emsland,Transportation,31,0.17914754288991108,Sector
+Emsland,Consumer_Products,54,0.9230222372720919,Sector
+Emsland,Unassigned,89,0.9888035323918329,Sector
+Emsland,Communication,59,0.34435708727096304,Sector
+Emsland,Trade,95,0.6890227428155705,Sector
+Emsland,Business_Services,66,0.44561720508831926,Sector
+Emsland,Business_Products,14,0.8023782311518138,Sector
+Emsland,Construction,34,0.23335065865274918,Sector
+Emsland,Services,19,0.05794738851820691,Sector
+Emsland,Mining,78,0.8333739229927105,Sector
+Emsland,Health_Care,38,0.032626645874528126,Sector
+Emsland,EnergyExpL_Prod,81,0.48478554583816835,Sector
+Emsland,Utilities,82,0.03817322758503461,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ransom,1806,0.7319756422585594,Overall
-Ransom,Technology,114,0.05427816708645172,Sector
-Ransom,Healthcare,229,0.9068161513091056,Sector
-Ransom,Finance,229,0.43742628457184796,Sector
-Ransom,Energy,84,0.7374446382682693,Sector
-Ransom,Consumer Goods,108,0.008010557879979507,Sector
-Ransom,Utilities,156,0.5878879043495296,Sector
-Ransom,Real Estate,146,0.1824949244431867,Sector
-Ransom,Telecommunications,129,0.6948147782635552,Sector
-Ransom,Materials,69,0.4190105866475079,Sector
-Ransom,Industrials,207,0.30165859879537005,Sector
-Ransom,Consumer Services,187,0.6183821774594673,Sector
-Ransom,Transportation,148,0.9020405128458368,Sector
-Technology,Software,56,0.31192626008011104,Industry
-Technology,Hardware,26,0.4090048664921717,Industry
-Technology,IT Services,32,0.3158713931715338,Industry
-Healthcare,Pharmaceuticals,83,0.7083066988191388,Industry
-Healthcare,Medical Devices,70,0.5424419955054663,Industry
-Healthcare,Healthcare Services,76,0.7742178005820998,Industry
-Finance,Banking,81,0.9459836129737337,Industry
-Finance,Insurance,63,0.47802123945304154,Industry
-Finance,Investment Services,85,0.225412226369623,Industry
-Energy,Oil & Gas,4,0.9321132263894034,Industry
-Energy,Renewable Energy,47,0.6137028108036081,Industry
-Energy,Energy Exploration,33,0.6282544926855875,Industry
-Consumer Goods,Food & Beverage,28,0.059084424634135435,Industry
-Consumer Goods,Household Products,60,0.6869628538395689,Industry
-Consumer Goods,Apparel,20,0.34926311665882914,Industry
-Utilities,Electric,98,0.5075765163185814,Industry
-Utilities,Water,54,0.3439489892232114,Industry
-Utilities,Gas,4,0.16467269511742133,Industry
-Real Estate,Residential,99,0.1595147514221631,Industry
-Real Estate,Commercial,43,0.07502989715393316,Industry
-Real Estate,Industrial,4,0.7353057909469224,Industry
-Telecommunications,Mobile,47,0.7229084871429029,Industry
-Telecommunications,Broadband,38,0.8005003462863802,Industry
-Telecommunications,Satellite,44,0.9163367241016687,Industry
-Materials,Chemicals,43,0.2931181642655789,Industry
-Materials,Metals & Mining,21,0.15182142169865054,Industry
-Materials,Construction Materials,5,0.4230903881432553,Industry
-Industrials,Aerospace & Defense,51,0.7166816470499927,Industry
-Industrials,Machinery,97,0.39127171102618685,Industry
-Industrials,Industrial Services,59,0.6064450905435189,Industry
-Consumer Services,Retail,20,0.30806012572527974,Industry
-Consumer Services,Travel & Leisure,84,0.37823858870923677,Industry
-Consumer Services,Media,83,0.1211154314638283,Industry
-Transportation,Airlines,69,0.14426023231274754,Industry
-Transportation,Railroads,11,0.18013872226552197,Industry
-Transportation,Logistics,68,0.41505939154608285,Industry
+,Ransom,679,0.7555913462552756,Overall
+Ransom,HiTech,33,0.9248821885860545,Sector
+Ransom,Agriculture,0,0.6179725816667636,Sector
+Ransom,Transportation,30,0.9560876245385449,Sector
+Ransom,Consumer_Products,86,0.650908379223316,Sector
+Ransom,Unassigned,65,0.5796194067994287,Sector
+Ransom,Communication,62,0.7883086730994961,Sector
+Ransom,Trade,66,0.9150754364863295,Sector
+Ransom,Business_Services,66,0.8553606954073708,Sector
+Ransom,Business_Products,7,0.8041508450493086,Sector
+Ransom,Construction,68,0.972321508674617,Sector
+Ransom,Services,59,0.39898671792700924,Sector
+Ransom,Mining,85,0.6472779562557531,Sector
+Ransom,Health_Care,40,0.6861071952834733,Sector
+Ransom,EnergyExpL_Prod,4,0.6659439316708378,Sector
+Ransom,Utilities,8,0.8708670531608308,Sector

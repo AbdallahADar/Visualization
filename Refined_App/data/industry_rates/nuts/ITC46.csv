@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Bergamo,1764,0.7091871137021882,Overall
-Bergamo,Technology,141,0.21371695650804545,Sector
-Bergamo,Healthcare,171,0.37066630214354357,Sector
-Bergamo,Finance,146,0.9787816747751406,Sector
-Bergamo,Energy,203,0.9680947626871129,Sector
-Bergamo,Consumer Goods,50,0.09686511117861063,Sector
-Bergamo,Utilities,121,0.6291128129574791,Sector
-Bergamo,Real Estate,101,0.503990420876281,Sector
-Bergamo,Telecommunications,184,0.02884714056668025,Sector
-Bergamo,Materials,200,0.4840404198786955,Sector
-Bergamo,Industrials,199,0.7999437569033021,Sector
-Bergamo,Consumer Services,56,0.3722795881331855,Sector
-Bergamo,Transportation,192,0.2935094635284411,Sector
-Technology,Software,41,0.0819407469272827,Industry
-Technology,Hardware,12,0.5573122765002579,Industry
-Technology,IT Services,88,0.8963286486909654,Industry
-Healthcare,Pharmaceuticals,35,0.41491628053502017,Industry
-Healthcare,Medical Devices,61,0.4608035445830774,Industry
-Healthcare,Healthcare Services,75,0.5111570164871756,Industry
-Finance,Banking,36,0.7670996071385686,Industry
-Finance,Insurance,90,0.9885034701086509,Industry
-Finance,Investment Services,20,0.1058893536136789,Industry
-Energy,Oil & Gas,46,0.856112900921328,Industry
-Energy,Renewable Energy,86,0.29248110520379567,Industry
-Energy,Energy Exploration,71,0.03614996669666626,Industry
-Consumer Goods,Food & Beverage,22,0.22048764316689362,Industry
-Consumer Goods,Household Products,21,0.5729162623571943,Industry
-Consumer Goods,Apparel,7,0.9051617564615739,Industry
-Utilities,Electric,7,0.8198531514680019,Industry
-Utilities,Water,79,0.30850744383809325,Industry
-Utilities,Gas,35,0.04406226756025833,Industry
-Real Estate,Residential,27,0.8822110213676968,Industry
-Real Estate,Commercial,9,0.26630493727841664,Industry
-Real Estate,Industrial,65,0.4345629574486476,Industry
-Telecommunications,Mobile,37,0.38718634014177444,Industry
-Telecommunications,Broadband,97,0.8646556143391,Industry
-Telecommunications,Satellite,50,0.4572857145539394,Industry
-Materials,Chemicals,87,0.6725148188353827,Industry
-Materials,Metals & Mining,74,0.1468980260497712,Industry
-Materials,Construction Materials,39,0.2739486501886105,Industry
-Industrials,Aerospace & Defense,79,0.12543188497151858,Industry
-Industrials,Machinery,82,0.7697228984702965,Industry
-Industrials,Industrial Services,38,0.5265800967290947,Industry
-Consumer Services,Retail,6,0.8320914972921392,Industry
-Consumer Services,Travel & Leisure,18,0.8283353111563087,Industry
-Consumer Services,Media,32,0.8095570444774443,Industry
-Transportation,Airlines,61,0.7652631697197688,Industry
-Transportation,Railroads,78,0.44407979432723,Industry
-Transportation,Logistics,53,0.45731138413173744,Industry
+,Bergamo,517,0.39572211440390137,Overall
+Bergamo,HiTech,19,0.8565160042333503,Sector
+Bergamo,Agriculture,26,0.8355596218947642,Sector
+Bergamo,Transportation,45,0.1828835267758846,Sector
+Bergamo,Consumer_Products,3,0.5690921483745536,Sector
+Bergamo,Unassigned,9,0.021044644155557957,Sector
+Bergamo,Communication,16,0.17133887911391965,Sector
+Bergamo,Trade,5,0.26140172120981064,Sector
+Bergamo,Business_Services,49,0.19686550105867429,Sector
+Bergamo,Business_Products,41,0.02954141275766997,Sector
+Bergamo,Construction,43,0.1680626932143403,Sector
+Bergamo,Services,89,0.3682012351815256,Sector
+Bergamo,Mining,25,0.9961388482028306,Sector
+Bergamo,Health_Care,37,0.6378558393390407,Sector
+Bergamo,EnergyExpL_Prod,95,0.2581603223904967,Sector
+Bergamo,Utilities,15,0.38316931815610034,Sector

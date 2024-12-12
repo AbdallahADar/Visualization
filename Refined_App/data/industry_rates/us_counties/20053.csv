@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ellsworth,1726,0.9818213214885596,Overall
-Ellsworth,Technology,227,0.4502863192183474,Sector
-Ellsworth,Healthcare,131,0.9860734014783163,Sector
-Ellsworth,Finance,150,0.1582983693190736,Sector
-Ellsworth,Energy,149,0.050405900767807155,Sector
-Ellsworth,Consumer Goods,136,0.6881142596876251,Sector
-Ellsworth,Utilities,137,0.9384598760366233,Sector
-Ellsworth,Real Estate,91,0.5851675233338504,Sector
-Ellsworth,Telecommunications,72,0.8277983629891557,Sector
-Ellsworth,Materials,197,0.6265407563137921,Sector
-Ellsworth,Industrials,172,0.8691043259291863,Sector
-Ellsworth,Consumer Services,147,0.6403809064870359,Sector
-Ellsworth,Transportation,117,0.31355398371182286,Sector
-Technology,Software,95,0.8936982666976081,Industry
-Technology,Hardware,87,0.2879773957190723,Industry
-Technology,IT Services,45,0.6141831254419952,Industry
-Healthcare,Pharmaceuticals,43,0.015303530471574844,Industry
-Healthcare,Medical Devices,83,0.5615290627737208,Industry
-Healthcare,Healthcare Services,5,0.3564666656105141,Industry
-Finance,Banking,3,0.9343927260205769,Industry
-Finance,Insurance,67,0.5375526843519934,Industry
-Finance,Investment Services,80,0.9429664417531131,Industry
-Energy,Oil & Gas,84,0.0563239411952795,Industry
-Energy,Renewable Energy,36,0.6736893223246004,Industry
-Energy,Energy Exploration,29,0.23389899801598735,Industry
-Consumer Goods,Food & Beverage,0,0.2568753008412772,Industry
-Consumer Goods,Household Products,53,0.0008006809718076324,Industry
-Consumer Goods,Apparel,83,0.3724595072572038,Industry
-Utilities,Electric,83,0.07440519860779127,Industry
-Utilities,Water,29,0.4429515365034584,Industry
-Utilities,Gas,25,0.13043437981330974,Industry
-Real Estate,Residential,16,0.6412268299014178,Industry
-Real Estate,Commercial,11,0.28465315560733817,Industry
-Real Estate,Industrial,64,0.5178314483453316,Industry
-Telecommunications,Mobile,16,0.36428829044695676,Industry
-Telecommunications,Broadband,12,0.14688503453301693,Industry
-Telecommunications,Satellite,44,0.511991948284473,Industry
-Materials,Chemicals,13,0.003447973038455454,Industry
-Materials,Metals & Mining,85,0.6519607191928748,Industry
-Materials,Construction Materials,99,0.8155888661399269,Industry
-Industrials,Aerospace & Defense,68,0.37678487616622003,Industry
-Industrials,Machinery,49,0.9349553463477542,Industry
-Industrials,Industrial Services,55,0.5095671516202845,Industry
-Consumer Services,Retail,54,0.8967042524044713,Industry
-Consumer Services,Travel & Leisure,48,0.025071941171261547,Industry
-Consumer Services,Media,45,0.7821306460718018,Industry
-Transportation,Airlines,94,0.7266736110754553,Industry
-Transportation,Railroads,15,0.645660876319698,Industry
-Transportation,Logistics,8,0.789544690242828,Industry
+,Ellsworth,728,0.39877513468114884,Overall
+Ellsworth,HiTech,82,0.12851707982662464,Sector
+Ellsworth,Agriculture,2,0.5115569783380709,Sector
+Ellsworth,Transportation,39,0.01150972257667382,Sector
+Ellsworth,Consumer_Products,67,0.679324541790268,Sector
+Ellsworth,Unassigned,66,0.18289502314004147,Sector
+Ellsworth,Communication,77,0.6568535033316174,Sector
+Ellsworth,Trade,25,0.43777632371212005,Sector
+Ellsworth,Business_Services,37,0.49522648253349866,Sector
+Ellsworth,Business_Products,99,0.779519267308548,Sector
+Ellsworth,Construction,30,0.5620520313602828,Sector
+Ellsworth,Services,62,0.22246808818034736,Sector
+Ellsworth,Mining,56,0.4139530240017243,Sector
+Ellsworth,Health_Care,5,0.5055498832902056,Sector
+Ellsworth,EnergyExpL_Prod,33,0.07303102373692061,Sector
+Ellsworth,Utilities,48,0.3213940470902884,Sector

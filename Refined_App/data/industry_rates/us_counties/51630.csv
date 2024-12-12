@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Fredericksburg,1878,0.390454367227416,Overall
-Fredericksburg,Technology,55,0.49880011995212603,Sector
-Fredericksburg,Healthcare,114,0.2633283013037663,Sector
-Fredericksburg,Finance,162,0.027883261984244845,Sector
-Fredericksburg,Energy,225,0.20694927619801995,Sector
-Fredericksburg,Consumer Goods,100,0.6276048712905202,Sector
-Fredericksburg,Utilities,205,0.4553136892243085,Sector
-Fredericksburg,Real Estate,140,0.3997323531989012,Sector
-Fredericksburg,Telecommunications,178,0.7809332106594069,Sector
-Fredericksburg,Materials,103,0.7653136104205255,Sector
-Fredericksburg,Industrials,189,0.06300353283810922,Sector
-Fredericksburg,Consumer Services,211,0.8874520370295542,Sector
-Fredericksburg,Transportation,196,0.587449989224618,Sector
-Technology,Software,26,0.39403050150900953,Industry
-Technology,Hardware,2,0.5992193617623881,Industry
-Technology,IT Services,27,0.30370018836001744,Industry
-Healthcare,Pharmaceuticals,28,0.9782508490420312,Industry
-Healthcare,Medical Devices,65,0.892363722346933,Industry
-Healthcare,Healthcare Services,21,0.4062953760163449,Industry
-Finance,Banking,58,0.03846795078238152,Industry
-Finance,Insurance,66,0.7124838976473598,Industry
-Finance,Investment Services,38,0.9355353004571882,Industry
-Energy,Oil & Gas,70,0.8023598924495144,Industry
-Energy,Renewable Energy,60,0.3042022951575982,Industry
-Energy,Energy Exploration,95,0.4679580887404281,Industry
-Consumer Goods,Food & Beverage,31,0.2732099139202422,Industry
-Consumer Goods,Household Products,51,0.51136102708552,Industry
-Consumer Goods,Apparel,18,0.23384468084570886,Industry
-Utilities,Electric,25,0.44773622489663023,Industry
-Utilities,Water,90,0.1676238974773958,Industry
-Utilities,Gas,90,0.7528376481909542,Industry
-Real Estate,Residential,1,0.6531418317249401,Industry
-Real Estate,Commercial,47,0.10974159766265845,Industry
-Real Estate,Industrial,92,0.003990266362286388,Industry
-Telecommunications,Mobile,84,0.4197167128822529,Industry
-Telecommunications,Broadband,65,0.9504383706145023,Industry
-Telecommunications,Satellite,29,0.8612032910134768,Industry
-Materials,Chemicals,88,0.6988525921735692,Industry
-Materials,Metals & Mining,13,0.4360358246496008,Industry
-Materials,Construction Materials,2,0.9928589052112448,Industry
-Industrials,Aerospace & Defense,4,0.7955154215871381,Industry
-Industrials,Machinery,94,0.3358352610459714,Industry
-Industrials,Industrial Services,91,0.016439388493288742,Industry
-Consumer Services,Retail,62,0.7285291529378171,Industry
-Consumer Services,Travel & Leisure,61,0.06009377635763791,Industry
-Consumer Services,Media,88,0.9802948498557795,Industry
-Transportation,Airlines,48,0.39899044211597856,Industry
-Transportation,Railroads,56,0.8503940264487866,Industry
-Transportation,Logistics,92,0.6429391445983283,Industry
+,Fredericksburg,816,0.3535770841584345,Overall
+Fredericksburg,HiTech,36,0.048553790984930845,Sector
+Fredericksburg,Agriculture,74,0.02779574840884569,Sector
+Fredericksburg,Transportation,70,0.3041307035219326,Sector
+Fredericksburg,Consumer_Products,15,0.7035964126760278,Sector
+Fredericksburg,Unassigned,68,0.5393677283567404,Sector
+Fredericksburg,Communication,82,0.5753058773826888,Sector
+Fredericksburg,Trade,0,0.7985734327364619,Sector
+Fredericksburg,Business_Services,51,0.03353746148171355,Sector
+Fredericksburg,Business_Products,67,0.13429339616175684,Sector
+Fredericksburg,Construction,11,0.3517103023373046,Sector
+Fredericksburg,Services,89,0.06296615921331772,Sector
+Fredericksburg,Mining,27,0.49443398892289636,Sector
+Fredericksburg,Health_Care,88,0.04161983544033643,Sector
+Fredericksburg,EnergyExpL_Prod,55,0.7361376197837532,Sector
+Fredericksburg,Utilities,83,0.4516338049678107,Sector

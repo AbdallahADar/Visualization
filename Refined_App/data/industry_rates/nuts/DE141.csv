@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Reutlingen,1813,0.4118170783134252,Overall
-Reutlingen,Technology,128,0.1546546819084026,Sector
-Reutlingen,Healthcare,159,0.8025964169274221,Sector
-Reutlingen,Finance,159,0.4540486688022757,Sector
-Reutlingen,Energy,166,0.8621815020198166,Sector
-Reutlingen,Consumer Goods,182,0.36872424633110035,Sector
-Reutlingen,Utilities,144,0.2774152471196796,Sector
-Reutlingen,Real Estate,166,0.9227686357331129,Sector
-Reutlingen,Telecommunications,120,0.8295543349226483,Sector
-Reutlingen,Materials,127,0.028111847867499207,Sector
-Reutlingen,Industrials,138,0.2684589666705578,Sector
-Reutlingen,Consumer Services,102,0.60445970143931,Sector
-Reutlingen,Transportation,222,0.6542529338359154,Sector
-Technology,Software,48,0.25771367044586124,Industry
-Technology,Hardware,44,0.6259474951967833,Industry
-Technology,IT Services,36,0.08747109881958026,Industry
-Healthcare,Pharmaceuticals,13,0.8340368878922033,Industry
-Healthcare,Medical Devices,55,0.05894821596705124,Industry
-Healthcare,Healthcare Services,91,0.5304505176635143,Industry
-Finance,Banking,51,0.5923793764487717,Industry
-Finance,Insurance,77,0.5581952973532511,Industry
-Finance,Investment Services,31,0.06564859164115089,Industry
-Energy,Oil & Gas,91,0.1711701671215473,Industry
-Energy,Renewable Energy,8,0.9025953416236623,Industry
-Energy,Energy Exploration,67,0.8632088198877619,Industry
-Consumer Goods,Food & Beverage,79,0.16288545713196156,Industry
-Consumer Goods,Household Products,53,0.06083752597169001,Industry
-Consumer Goods,Apparel,50,0.06631229325750809,Industry
-Utilities,Electric,62,0.026441977997520016,Industry
-Utilities,Water,24,0.3030579119544974,Industry
-Utilities,Gas,58,0.8729192952908778,Industry
-Real Estate,Residential,98,0.2984606828659252,Industry
-Real Estate,Commercial,62,0.04975490035243857,Industry
-Real Estate,Industrial,6,0.12307517375907617,Industry
-Telecommunications,Mobile,10,0.44059926554785134,Industry
-Telecommunications,Broadband,60,0.04649548039234175,Industry
-Telecommunications,Satellite,50,0.2782269524210387,Industry
-Materials,Chemicals,46,0.25191438805194954,Industry
-Materials,Metals & Mining,67,0.6839685797350944,Industry
-Materials,Construction Materials,14,0.2703951607156687,Industry
-Industrials,Aerospace & Defense,81,0.7171563269353645,Industry
-Industrials,Machinery,1,0.26507963638439824,Industry
-Industrials,Industrial Services,56,0.06732011793523263,Industry
-Consumer Services,Retail,26,0.086978360430092,Industry
-Consumer Services,Travel & Leisure,37,0.03744225853418803,Industry
-Consumer Services,Media,39,0.3946174434716674,Industry
-Transportation,Airlines,96,0.48607642449052835,Industry
-Transportation,Railroads,88,0.7570189656987656,Industry
-Transportation,Logistics,38,0.8009028998532036,Industry
+,Reutlingen,599,0.4564710415292865,Overall
+Reutlingen,HiTech,7,0.8977912439620515,Sector
+Reutlingen,Agriculture,77,0.09437599769372385,Sector
+Reutlingen,Transportation,9,0.041116554071470524,Sector
+Reutlingen,Consumer_Products,56,0.9031790057977123,Sector
+Reutlingen,Unassigned,8,0.20483632056792767,Sector
+Reutlingen,Communication,1,0.2601640012477774,Sector
+Reutlingen,Trade,32,0.49061485728659204,Sector
+Reutlingen,Business_Services,85,0.9091111639366426,Sector
+Reutlingen,Business_Products,78,0.34956905302394636,Sector
+Reutlingen,Construction,8,0.03470549879535134,Sector
+Reutlingen,Services,82,0.5224100251144547,Sector
+Reutlingen,Mining,22,0.06521713197374013,Sector
+Reutlingen,Health_Care,45,0.9230815050554383,Sector
+Reutlingen,EnergyExpL_Prod,46,0.896570765133927,Sector
+Reutlingen,Utilities,43,0.2543224992785428,Sector

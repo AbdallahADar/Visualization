@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Niobrara,1800,0.16178988581912512,Overall
-Niobrara,Technology,160,0.8428140902358506,Sector
-Niobrara,Healthcare,128,0.00452572188234468,Sector
-Niobrara,Finance,207,0.7119966939211586,Sector
-Niobrara,Energy,113,0.3413224280502595,Sector
-Niobrara,Consumer Goods,199,0.366174375259678,Sector
-Niobrara,Utilities,170,0.6732773750880853,Sector
-Niobrara,Real Estate,204,0.5358162488680986,Sector
-Niobrara,Telecommunications,139,0.7687118643569353,Sector
-Niobrara,Materials,47,0.9408244447057426,Sector
-Niobrara,Industrials,177,0.31871917408835215,Sector
-Niobrara,Consumer Services,146,0.3383258417536614,Sector
-Niobrara,Transportation,110,0.9295950005066959,Sector
-Technology,Software,58,0.2725196105809511,Industry
-Technology,Hardware,58,0.1658676771349733,Industry
-Technology,IT Services,44,0.30431518738105157,Industry
-Healthcare,Pharmaceuticals,56,0.979702084923136,Industry
-Healthcare,Medical Devices,1,0.9461661261174356,Industry
-Healthcare,Healthcare Services,71,0.67433378470782,Industry
-Finance,Banking,80,0.5883158087999469,Industry
-Finance,Insurance,96,0.3007601642009773,Industry
-Finance,Investment Services,31,0.12223026401028059,Industry
-Energy,Oil & Gas,48,0.15655854272465908,Industry
-Energy,Renewable Energy,37,0.059412948396975196,Industry
-Energy,Energy Exploration,28,0.439323649047648,Industry
-Consumer Goods,Food & Beverage,83,0.7568379464870483,Industry
-Consumer Goods,Household Products,67,0.2799462489873681,Industry
-Consumer Goods,Apparel,49,0.6559214678819578,Industry
-Utilities,Electric,82,0.9489345113828437,Industry
-Utilities,Water,29,0.8284576395543664,Industry
-Utilities,Gas,59,0.9715797909360832,Industry
-Real Estate,Residential,59,0.9517615053325585,Industry
-Real Estate,Commercial,66,0.8861077121359267,Industry
-Real Estate,Industrial,79,0.17558630507975437,Industry
-Telecommunications,Mobile,47,0.27857285381071717,Industry
-Telecommunications,Broadband,56,0.895223313054494,Industry
-Telecommunications,Satellite,36,0.13383519558934875,Industry
-Materials,Chemicals,12,0.6498480246935917,Industry
-Materials,Metals & Mining,9,0.7549819387394441,Industry
-Materials,Construction Materials,26,0.03969735560000531,Industry
-Industrials,Aerospace & Defense,15,0.6627728144830302,Industry
-Industrials,Machinery,69,0.49368677084202894,Industry
-Industrials,Industrial Services,93,0.6876189612539009,Industry
-Consumer Services,Retail,33,0.29449031377377477,Industry
-Consumer Services,Travel & Leisure,38,0.6467732309712756,Industry
-Consumer Services,Media,75,0.8830597294104553,Industry
-Transportation,Airlines,4,0.4584692353111799,Industry
-Transportation,Railroads,34,0.2835644798077538,Industry
-Transportation,Logistics,72,0.980412780722741,Industry
+,Niobrara,645,0.5208398226920151,Overall
+Niobrara,HiTech,93,0.788700187389682,Sector
+Niobrara,Agriculture,9,0.9690215826843481,Sector
+Niobrara,Transportation,16,0.7742670806589433,Sector
+Niobrara,Consumer_Products,1,0.9358066661803878,Sector
+Niobrara,Unassigned,80,0.5212935908453261,Sector
+Niobrara,Communication,8,0.5898863934770917,Sector
+Niobrara,Trade,53,0.8754889712817625,Sector
+Niobrara,Business_Services,50,0.06732431016599771,Sector
+Niobrara,Business_Products,57,0.47636448697824274,Sector
+Niobrara,Construction,91,0.1904756829228288,Sector
+Niobrara,Services,5,0.0027648635438694003,Sector
+Niobrara,Mining,27,0.03820773450420645,Sector
+Niobrara,Health_Care,44,0.5476420538338338,Sector
+Niobrara,EnergyExpL_Prod,85,0.37490386156967503,Sector
+Niobrara,Utilities,26,0.6604498743440305,Sector

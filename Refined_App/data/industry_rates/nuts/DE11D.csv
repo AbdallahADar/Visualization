@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ostalbkreis,1830,0.5932789137025534,Overall
-Ostalbkreis,Technology,162,0.9524225744002476,Sector
-Ostalbkreis,Healthcare,140,0.0804151995806297,Sector
-Ostalbkreis,Finance,241,0.6269547152307545,Sector
-Ostalbkreis,Energy,131,0.1215200541702659,Sector
-Ostalbkreis,Consumer Goods,193,0.2822306297403687,Sector
-Ostalbkreis,Utilities,171,0.34668550026610523,Sector
-Ostalbkreis,Real Estate,160,0.5250764881817193,Sector
-Ostalbkreis,Telecommunications,154,0.6760654253084402,Sector
-Ostalbkreis,Materials,106,0.6732870392639028,Sector
-Ostalbkreis,Industrials,138,0.17919738066913915,Sector
-Ostalbkreis,Consumer Services,150,0.14132127225230395,Sector
-Ostalbkreis,Transportation,84,0.6121773657542271,Sector
-Technology,Software,64,0.2689968505181326,Industry
-Technology,Hardware,0,0.8290708384297499,Industry
-Technology,IT Services,98,0.7157261545945943,Industry
-Healthcare,Pharmaceuticals,20,0.6588870546960123,Industry
-Healthcare,Medical Devices,38,0.9784828830017919,Industry
-Healthcare,Healthcare Services,82,0.5620956842857536,Industry
-Finance,Banking,91,0.7984237745807103,Industry
-Finance,Insurance,94,0.9440876340711214,Industry
-Finance,Investment Services,56,0.5714865439502356,Industry
-Energy,Oil & Gas,28,0.38998890706978495,Industry
-Energy,Renewable Energy,41,0.5523627306930086,Industry
-Energy,Energy Exploration,62,0.703936282585274,Industry
-Consumer Goods,Food & Beverage,95,0.4852947433438538,Industry
-Consumer Goods,Household Products,32,0.9835621037221075,Industry
-Consumer Goods,Apparel,66,0.15495812761762806,Industry
-Utilities,Electric,8,0.7049678711754546,Industry
-Utilities,Water,93,0.46150801603333313,Industry
-Utilities,Gas,70,0.9094797848798907,Industry
-Real Estate,Residential,22,0.7152557331412736,Industry
-Real Estate,Commercial,74,0.6149863732924994,Industry
-Real Estate,Industrial,64,0.03413370847124997,Industry
-Telecommunications,Mobile,69,0.6624055359134362,Industry
-Telecommunications,Broadband,38,0.9303088513734107,Industry
-Telecommunications,Satellite,47,0.8420370154764812,Industry
-Materials,Chemicals,16,0.7619703133158925,Industry
-Materials,Metals & Mining,11,0.06372596936061703,Industry
-Materials,Construction Materials,79,0.19555755855437085,Industry
-Industrials,Aerospace & Defense,21,0.5175987489778496,Industry
-Industrials,Machinery,63,0.48518504595770695,Industry
-Industrials,Industrial Services,54,0.4843842395546486,Industry
-Consumer Services,Retail,75,0.6513033338331458,Industry
-Consumer Services,Travel & Leisure,11,0.9848065916998021,Industry
-Consumer Services,Media,64,0.19174208280284066,Industry
-Transportation,Airlines,75,0.9518173704391312,Industry
-Transportation,Railroads,3,0.31902495575261725,Industry
-Transportation,Logistics,6,0.8944520518684381,Industry
+,Ostalbkreis,655,0.40883342366578856,Overall
+Ostalbkreis,HiTech,32,0.6877812742992387,Sector
+Ostalbkreis,Agriculture,15,0.540859737502115,Sector
+Ostalbkreis,Transportation,91,0.23075080279449656,Sector
+Ostalbkreis,Consumer_Products,58,0.1439990404845295,Sector
+Ostalbkreis,Unassigned,37,0.942000801491017,Sector
+Ostalbkreis,Communication,25,0.678525874974866,Sector
+Ostalbkreis,Trade,37,0.45499506383990207,Sector
+Ostalbkreis,Business_Services,65,0.2309220372475561,Sector
+Ostalbkreis,Business_Products,30,0.22603794313865366,Sector
+Ostalbkreis,Construction,39,0.12650340464230736,Sector
+Ostalbkreis,Services,57,0.37137496547012483,Sector
+Ostalbkreis,Mining,6,0.2718083776512119,Sector
+Ostalbkreis,Health_Care,85,0.05655398576728676,Sector
+Ostalbkreis,EnergyExpL_Prod,29,0.7174155804710395,Sector
+Ostalbkreis,Utilities,49,0.45297246521248447,Sector

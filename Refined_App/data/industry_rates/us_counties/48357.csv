@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ochiltree,1824,0.14151981192780105,Overall
-Ochiltree,Technology,193,0.6895796529198659,Sector
-Ochiltree,Healthcare,169,0.9761752720175404,Sector
-Ochiltree,Finance,178,0.7593978080504961,Sector
-Ochiltree,Energy,116,0.21250322751491169,Sector
-Ochiltree,Consumer Goods,233,0.7274485464628789,Sector
-Ochiltree,Utilities,115,0.3926798024253556,Sector
-Ochiltree,Real Estate,89,0.8399844098376117,Sector
-Ochiltree,Telecommunications,209,0.9886760522463163,Sector
-Ochiltree,Materials,148,0.43124213894058994,Sector
-Ochiltree,Industrials,100,0.5342448687043543,Sector
-Ochiltree,Consumer Services,100,0.20955341014319484,Sector
-Ochiltree,Transportation,174,0.7502650020600695,Sector
-Technology,Software,72,0.4959518033018194,Industry
-Technology,Hardware,71,0.3224032538361834,Industry
-Technology,IT Services,50,0.3415872742640469,Industry
-Healthcare,Pharmaceuticals,73,0.9666255853405943,Industry
-Healthcare,Medical Devices,77,0.04387954780352943,Industry
-Healthcare,Healthcare Services,19,0.13501671618772937,Industry
-Finance,Banking,82,0.4281197666936577,Industry
-Finance,Insurance,62,0.5515102850309465,Industry
-Finance,Investment Services,34,0.6415456686999372,Industry
-Energy,Oil & Gas,3,0.37439994691731404,Industry
-Energy,Renewable Energy,82,0.2382741842113788,Industry
-Energy,Energy Exploration,31,0.6899357932658207,Industry
-Consumer Goods,Food & Beverage,95,0.18502147191151852,Industry
-Consumer Goods,Household Products,40,0.06371272473355705,Industry
-Consumer Goods,Apparel,98,0.9242595362414948,Industry
-Utilities,Electric,33,0.9614875492610042,Industry
-Utilities,Water,26,0.8494869916193071,Industry
-Utilities,Gas,56,0.8854360512691738,Industry
-Real Estate,Residential,12,0.23166960064626296,Industry
-Real Estate,Commercial,73,0.9116485968538256,Industry
-Real Estate,Industrial,4,0.8154157806812339,Industry
-Telecommunications,Mobile,53,0.5080946786002989,Industry
-Telecommunications,Broadband,98,0.36201414300946766,Industry
-Telecommunications,Satellite,58,0.09519059190654355,Industry
-Materials,Chemicals,33,0.9582288046293382,Industry
-Materials,Metals & Mining,27,0.21217528255364404,Industry
-Materials,Construction Materials,88,0.6957923676485336,Industry
-Industrials,Aerospace & Defense,3,0.2694041896772237,Industry
-Industrials,Machinery,74,0.052241669747719155,Industry
-Industrials,Industrial Services,23,0.34915813219744796,Industry
-Consumer Services,Retail,33,0.619657956436962,Industry
-Consumer Services,Travel & Leisure,34,0.03427309680241919,Industry
-Consumer Services,Media,33,0.18982499146869258,Industry
-Transportation,Airlines,80,0.1889248527191717,Industry
-Transportation,Railroads,91,0.6509765981154583,Industry
-Transportation,Logistics,3,0.361025050160233,Industry
+,Ochiltree,738,0.4981244129872041,Overall
+Ochiltree,HiTech,10,0.755402987809768,Sector
+Ochiltree,Agriculture,33,0.8418030474453265,Sector
+Ochiltree,Transportation,5,0.6579036655501228,Sector
+Ochiltree,Consumer_Products,57,0.3166058944492567,Sector
+Ochiltree,Unassigned,58,0.3929218516885087,Sector
+Ochiltree,Communication,75,0.3523526815689588,Sector
+Ochiltree,Trade,55,0.3137043063823277,Sector
+Ochiltree,Business_Services,96,0.3758344041488093,Sector
+Ochiltree,Business_Products,24,0.07133783965418306,Sector
+Ochiltree,Construction,57,0.8619357613827245,Sector
+Ochiltree,Services,50,0.8557292800756996,Sector
+Ochiltree,Mining,32,0.062302754873784005,Sector
+Ochiltree,Health_Care,80,0.7090137001185478,Sector
+Ochiltree,EnergyExpL_Prod,45,0.7628807448788048,Sector
+Ochiltree,Utilities,61,0.1421372747812395,Sector

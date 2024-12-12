@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Catawba,1835,0.3306533024488886,Overall
-Catawba,Technology,230,0.6768254828895477,Sector
-Catawba,Healthcare,98,0.63257385477037,Sector
-Catawba,Finance,208,0.9315471083770914,Sector
-Catawba,Energy,123,0.6094035665332002,Sector
-Catawba,Consumer Goods,143,0.511133849894219,Sector
-Catawba,Utilities,72,0.22643052740399416,Sector
-Catawba,Real Estate,157,0.226511365024455,Sector
-Catawba,Telecommunications,108,0.8160751936690643,Sector
-Catawba,Materials,178,0.511044728749629,Sector
-Catawba,Industrials,133,0.1787987850508257,Sector
-Catawba,Consumer Services,200,0.7719508584580181,Sector
-Catawba,Transportation,185,0.8441324287061802,Sector
-Technology,Software,57,0.48205492430673735,Industry
-Technology,Hardware,76,0.8267544019060978,Industry
-Technology,IT Services,97,0.6816389350369304,Industry
-Healthcare,Pharmaceuticals,75,0.26915007799284285,Industry
-Healthcare,Medical Devices,1,0.734091553597851,Industry
-Healthcare,Healthcare Services,22,0.7406032940527136,Industry
-Finance,Banking,61,0.9402087244575131,Industry
-Finance,Insurance,71,0.1970297726937934,Industry
-Finance,Investment Services,76,0.8701153047750648,Industry
-Energy,Oil & Gas,27,0.5602581418805241,Industry
-Energy,Renewable Energy,62,0.3034837413756798,Industry
-Energy,Energy Exploration,34,0.5947009730450331,Industry
-Consumer Goods,Food & Beverage,29,0.07161141871883547,Industry
-Consumer Goods,Household Products,27,0.44359921187464924,Industry
-Consumer Goods,Apparel,87,0.38359629911936577,Industry
-Utilities,Electric,13,0.9892510771706859,Industry
-Utilities,Water,40,0.18637038993235555,Industry
-Utilities,Gas,19,0.06622506839499565,Industry
-Real Estate,Residential,41,0.7400226047757588,Industry
-Real Estate,Commercial,77,0.8134394028227343,Industry
-Real Estate,Industrial,39,0.37504185451445604,Industry
-Telecommunications,Mobile,63,0.24646880924181347,Industry
-Telecommunications,Broadband,37,0.09738572924884081,Industry
-Telecommunications,Satellite,8,0.3616916039880419,Industry
-Materials,Chemicals,57,0.5616496631282474,Industry
-Materials,Metals & Mining,43,0.765602519088495,Industry
-Materials,Construction Materials,78,0.6812906343773198,Industry
-Industrials,Aerospace & Defense,26,0.6230498709751262,Industry
-Industrials,Machinery,63,0.4685124057026989,Industry
-Industrials,Industrial Services,44,0.3938993087500332,Industry
-Consumer Services,Retail,76,0.407387136725626,Industry
-Consumer Services,Travel & Leisure,38,0.645106278460655,Industry
-Consumer Services,Media,86,0.02701443062854736,Industry
-Transportation,Airlines,67,0.4226525784149481,Industry
-Transportation,Railroads,27,0.39976020795436396,Industry
-Transportation,Logistics,91,0.754846781862429,Industry
+,Catawba,714,0.5831537602741818,Overall
+Catawba,HiTech,47,0.9299397504935428,Sector
+Catawba,Agriculture,98,0.42429764155618566,Sector
+Catawba,Transportation,8,0.9026017967118054,Sector
+Catawba,Consumer_Products,55,0.447731906251444,Sector
+Catawba,Unassigned,70,0.5850194556017483,Sector
+Catawba,Communication,91,0.05790931583901304,Sector
+Catawba,Trade,1,0.3458733506224225,Sector
+Catawba,Business_Services,91,0.39587108563599827,Sector
+Catawba,Business_Products,66,0.4254545115174827,Sector
+Catawba,Construction,15,0.3657424215653333,Sector
+Catawba,Services,85,0.5484921707632264,Sector
+Catawba,Mining,23,0.7711522654409096,Sector
+Catawba,Health_Care,47,0.9241698035892038,Sector
+Catawba,EnergyExpL_Prod,5,0.8089781470895234,Sector
+Catawba,Utilities,12,0.814072781434886,Sector

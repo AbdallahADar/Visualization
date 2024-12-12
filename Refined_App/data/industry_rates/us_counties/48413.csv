@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Schleicher,1662,0.20097867020550164,Overall
-Schleicher,Technology,168,0.43023815397645404,Sector
-Schleicher,Healthcare,107,0.9561999423936436,Sector
-Schleicher,Finance,157,0.2861392903438714,Sector
-Schleicher,Energy,95,0.9271830277414677,Sector
-Schleicher,Consumer Goods,138,0.6597267777106539,Sector
-Schleicher,Utilities,123,0.36742793200464297,Sector
-Schleicher,Real Estate,164,0.9561159861240109,Sector
-Schleicher,Telecommunications,119,0.03792609732163288,Sector
-Schleicher,Materials,233,0.5515822165262497,Sector
-Schleicher,Industrials,191,0.7611413281411905,Sector
-Schleicher,Consumer Services,33,0.3621151994157954,Sector
-Schleicher,Transportation,134,0.13913113630672092,Sector
-Technology,Software,52,0.4166366072377262,Industry
-Technology,Hardware,94,0.32309122269441193,Industry
-Technology,IT Services,22,0.013284272568012012,Industry
-Healthcare,Pharmaceuticals,9,0.607072488524972,Industry
-Healthcare,Medical Devices,13,0.4432277688002426,Industry
-Healthcare,Healthcare Services,85,0.3241858442251493,Industry
-Finance,Banking,85,0.8095014595747103,Industry
-Finance,Insurance,69,0.3564242642043315,Industry
-Finance,Investment Services,3,0.9106773304651054,Industry
-Energy,Oil & Gas,67,0.12590282484232906,Industry
-Energy,Renewable Energy,25,0.45060417145551046,Industry
-Energy,Energy Exploration,3,0.4682915192167849,Industry
-Consumer Goods,Food & Beverage,59,0.3741707709580008,Industry
-Consumer Goods,Household Products,2,0.2808800923476964,Industry
-Consumer Goods,Apparel,77,0.20676605074831567,Industry
-Utilities,Electric,51,0.765336953932605,Industry
-Utilities,Water,62,0.6382149637134236,Industry
-Utilities,Gas,10,0.40097126519402515,Industry
-Real Estate,Residential,82,0.015684856755254106,Industry
-Real Estate,Commercial,19,0.4096605721412998,Industry
-Real Estate,Industrial,63,0.09178249152775109,Industry
-Telecommunications,Mobile,33,0.14906753162619235,Industry
-Telecommunications,Broadband,29,0.270684938200613,Industry
-Telecommunications,Satellite,57,0.4742011015072778,Industry
-Materials,Chemicals,91,0.23342005086037798,Industry
-Materials,Metals & Mining,49,0.65916739546211,Industry
-Materials,Construction Materials,93,0.018239034641089447,Industry
-Industrials,Aerospace & Defense,90,0.46437140271756316,Industry
-Industrials,Machinery,45,0.5255878265537091,Industry
-Industrials,Industrial Services,56,0.4316727853010366,Industry
-Consumer Services,Retail,11,0.5045578330129146,Industry
-Consumer Services,Travel & Leisure,1,0.2971198963786892,Industry
-Consumer Services,Media,21,0.9358669103146724,Industry
-Transportation,Airlines,9,0.4368670750720789,Industry
-Transportation,Railroads,26,0.16663413416566297,Industry
-Transportation,Logistics,99,0.6502372475475818,Industry
+,Schleicher,831,0.5599737110841099,Overall
+Schleicher,HiTech,75,0.9782056776238296,Sector
+Schleicher,Agriculture,73,0.3279246123776697,Sector
+Schleicher,Transportation,82,0.5597051738778646,Sector
+Schleicher,Consumer_Products,23,0.5746993062035347,Sector
+Schleicher,Unassigned,25,0.1170119460748863,Sector
+Schleicher,Communication,14,0.1835555402235317,Sector
+Schleicher,Trade,16,0.984359030078938,Sector
+Schleicher,Business_Services,89,0.026896162990456607,Sector
+Schleicher,Business_Products,74,0.6224033109172786,Sector
+Schleicher,Construction,81,0.9676296380117032,Sector
+Schleicher,Services,43,0.9851450780926071,Sector
+Schleicher,Mining,31,0.07509212998212911,Sector
+Schleicher,Health_Care,93,0.9389264587577394,Sector
+Schleicher,EnergyExpL_Prod,62,0.6532934014235611,Sector
+Schleicher,Utilities,50,0.4047581996259185,Sector

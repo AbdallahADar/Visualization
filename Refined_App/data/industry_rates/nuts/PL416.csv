@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Kaliski,1670,0.8801169493326136,Overall
-Kaliski,Technology,122,0.08452407023747721,Sector
-Kaliski,Healthcare,157,0.9241305203166776,Sector
-Kaliski,Finance,122,0.5156403348792523,Sector
-Kaliski,Energy,49,0.029994831712207515,Sector
-Kaliski,Consumer Goods,184,0.637125241315544,Sector
-Kaliski,Utilities,197,0.1455438325490802,Sector
-Kaliski,Real Estate,73,0.32859096127105225,Sector
-Kaliski,Telecommunications,134,0.20258296595246894,Sector
-Kaliski,Materials,150,0.34948480849067975,Sector
-Kaliski,Industrials,157,0.5376569343665633,Sector
-Kaliski,Consumer Services,106,0.20005414528476206,Sector
-Kaliski,Transportation,219,0.8760122165094583,Sector
-Technology,Software,18,0.5392914936359503,Industry
-Technology,Hardware,49,0.052305293208872894,Industry
-Technology,IT Services,55,0.2285479204938332,Industry
-Healthcare,Pharmaceuticals,58,0.4898366647283421,Industry
-Healthcare,Medical Devices,73,0.9006150214765393,Industry
-Healthcare,Healthcare Services,26,0.8487515250019736,Industry
-Finance,Banking,11,0.1440769764409522,Industry
-Finance,Insurance,51,0.5520696900999773,Industry
-Finance,Investment Services,60,0.8882540097103436,Industry
-Energy,Oil & Gas,17,0.79492896179035,Industry
-Energy,Renewable Energy,28,0.4486353602669504,Industry
-Energy,Energy Exploration,4,0.8979876675294909,Industry
-Consumer Goods,Food & Beverage,9,0.8580254018816398,Industry
-Consumer Goods,Household Products,94,0.9090424581627458,Industry
-Consumer Goods,Apparel,81,0.8153067517937359,Industry
-Utilities,Electric,8,0.4971226177126822,Industry
-Utilities,Water,99,0.5025942333914621,Industry
-Utilities,Gas,90,0.9466779074645906,Industry
-Real Estate,Residential,13,0.24872126282498863,Industry
-Real Estate,Commercial,33,0.9108871125888396,Industry
-Real Estate,Industrial,27,0.46951607133509987,Industry
-Telecommunications,Mobile,37,0.49355066340720877,Industry
-Telecommunications,Broadband,46,0.44033231253621385,Industry
-Telecommunications,Satellite,51,0.25480813464935836,Industry
-Materials,Chemicals,61,0.13603615435399008,Industry
-Materials,Metals & Mining,6,0.35094129621633663,Industry
-Materials,Construction Materials,83,0.37415009887885575,Industry
-Industrials,Aerospace & Defense,73,0.7350242488302788,Industry
-Industrials,Machinery,83,0.3412145720710754,Industry
-Industrials,Industrial Services,1,0.5902981109757881,Industry
-Consumer Services,Retail,37,0.5396496179668159,Industry
-Consumer Services,Travel & Leisure,50,0.7929904653091289,Industry
-Consumer Services,Media,19,0.5429809442395248,Industry
-Transportation,Airlines,82,0.9591846092598201,Industry
-Transportation,Railroads,65,0.5357634243650673,Industry
-Transportation,Logistics,72,0.32567502779074187,Industry
+,Kaliski,571,0.58957581583733,Overall
+Kaliski,HiTech,37,0.9233719411854323,Sector
+Kaliski,Agriculture,16,0.313827388731144,Sector
+Kaliski,Transportation,84,0.7635603370126659,Sector
+Kaliski,Consumer_Products,4,0.872834813614112,Sector
+Kaliski,Unassigned,17,0.3092857355374794,Sector
+Kaliski,Communication,39,0.14039530427459967,Sector
+Kaliski,Trade,64,0.8088346609250691,Sector
+Kaliski,Business_Services,81,0.1003358851077677,Sector
+Kaliski,Business_Products,16,0.9447911252842215,Sector
+Kaliski,Construction,65,0.7452475990759023,Sector
+Kaliski,Services,13,0.5833972857910656,Sector
+Kaliski,Mining,59,0.7734104409947865,Sector
+Kaliski,Health_Care,33,0.6388312742275688,Sector
+Kaliski,EnergyExpL_Prod,3,0.09635121044107786,Sector
+Kaliski,Utilities,40,0.8291622353570542,Sector

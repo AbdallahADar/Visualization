@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Calvados ,1835,0.5490749398336704,Overall
+Calvados ,Technology,215,0.9714813751725356,Sector
+Calvados ,Healthcare,161,0.9131338085603251,Sector
+Calvados ,Finance,176,0.6318536621084201,Sector
+Calvados ,Energy,153,0.5029327167696896,Sector
+Calvados ,Consumer Goods,187,0.23926124662018278,Sector
+Calvados ,Utilities,170,0.951329671744255,Sector
+Calvados ,Real Estate,55,0.1444336510465597,Sector
+Calvados ,Telecommunications,135,0.09208625901392653,Sector
+Calvados ,Materials,88,0.5830395615854737,Sector
+Calvados ,Industrials,147,0.9916357494400203,Sector
+Calvados ,Consumer Services,161,0.7659820393139046,Sector
+Calvados ,Transportation,187,0.1537901134271359,Sector
+Technology,Software,95,0.5522693524722287,Industry
+Technology,Hardware,38,0.49923215134336685,Industry
+Technology,IT Services,82,0.28536888352402934,Industry
+Healthcare,Pharmaceuticals,87,0.26510753400595166,Industry
+Healthcare,Medical Devices,71,0.546741272107078,Industry
+Healthcare,Healthcare Services,3,0.23578383385916657,Industry
+Finance,Banking,58,0.05359799395665876,Industry
+Finance,Insurance,27,0.722780430203605,Industry
+Finance,Investment Services,91,0.6703344365391671,Industry
+Energy,Oil & Gas,39,0.13371725719020155,Industry
+Energy,Renewable Energy,35,0.0655856039672279,Industry
+Energy,Energy Exploration,79,0.7047005365058945,Industry
+Consumer Goods,Food & Beverage,74,0.43488185146238156,Industry
+Consumer Goods,Household Products,87,0.3752371462932188,Industry
+Consumer Goods,Apparel,26,0.136772640820929,Industry
+Utilities,Electric,84,0.7440809113483481,Industry
+Utilities,Water,24,0.7678613367592123,Industry
+Utilities,Gas,62,0.4590862933618458,Industry
+Real Estate,Residential,3,0.4426614135822884,Industry
+Real Estate,Commercial,13,0.3597126245755111,Industry
+Real Estate,Industrial,39,0.05243506483926508,Industry
+Telecommunications,Mobile,68,0.804176329565152,Industry
+Telecommunications,Broadband,5,0.7051899435069429,Industry
+Telecommunications,Satellite,62,0.4383287176547873,Industry
+Materials,Chemicals,74,0.34599045782265814,Industry
+Materials,Metals & Mining,3,0.046317862409180344,Industry
+Materials,Construction Materials,11,0.708774863558645,Industry
+Industrials,Aerospace & Defense,72,0.5439051728377275,Industry
+Industrials,Machinery,75,0.9752701359554214,Industry
+Industrials,Industrial Services,0,0.11471223305828238,Industry
+Consumer Services,Retail,77,0.3748288166089673,Industry
+Consumer Services,Travel & Leisure,54,0.4723584584035474,Industry
+Consumer Services,Media,30,0.49090828628853245,Industry
+Transportation,Airlines,99,0.9908429432394695,Industry
+Transportation,Railroads,66,0.6668352261199099,Industry
+Transportation,Logistics,22,0.5226969811264678,Industry

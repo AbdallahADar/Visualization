@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Hendry,2000,0.3317551956891609,Overall
-Hendry,Technology,75,0.09304581165584269,Sector
-Hendry,Healthcare,107,0.31756768401221835,Sector
-Hendry,Finance,192,0.0005238277611349096,Sector
-Hendry,Energy,153,0.5708005391701869,Sector
-Hendry,Consumer Goods,194,0.23209452394638042,Sector
-Hendry,Utilities,178,0.9842243083197764,Sector
-Hendry,Real Estate,127,0.9682434704646201,Sector
-Hendry,Telecommunications,207,0.2947709314643764,Sector
-Hendry,Materials,222,0.6776412191879517,Sector
-Hendry,Industrials,146,0.465723592942733,Sector
-Hendry,Consumer Services,185,0.5663274468380607,Sector
-Hendry,Transportation,214,0.4752400721218295,Sector
-Technology,Software,9,0.1510450198140736,Industry
-Technology,Hardware,19,0.7249072740443762,Industry
-Technology,IT Services,47,0.4474341170525249,Industry
-Healthcare,Pharmaceuticals,71,0.22690522340750552,Industry
-Healthcare,Medical Devices,19,0.33980736800271705,Industry
-Healthcare,Healthcare Services,17,0.5169349845205964,Industry
-Finance,Banking,31,0.9065769287608438,Industry
-Finance,Insurance,75,0.250274354471553,Industry
-Finance,Investment Services,86,0.4272922538389954,Industry
-Energy,Oil & Gas,20,0.6381341429830213,Industry
-Energy,Renewable Energy,95,0.9912288700290104,Industry
-Energy,Energy Exploration,38,0.32973952554535835,Industry
-Consumer Goods,Food & Beverage,64,0.3864490883969999,Industry
-Consumer Goods,Household Products,93,0.7982308113307865,Industry
-Consumer Goods,Apparel,37,0.663646267617157,Industry
-Utilities,Electric,4,0.05117461318809202,Industry
-Utilities,Water,76,0.179437016606375,Industry
-Utilities,Gas,98,0.8411751517369384,Industry
-Real Estate,Residential,30,0.2651172253542109,Industry
-Real Estate,Commercial,86,0.2970168289492918,Industry
-Real Estate,Industrial,11,0.14514987717483518,Industry
-Telecommunications,Mobile,42,0.8735969092007718,Industry
-Telecommunications,Broadband,91,0.10330691610163323,Industry
-Telecommunications,Satellite,74,0.9843575184070581,Industry
-Materials,Chemicals,60,0.5983100036213006,Industry
-Materials,Metals & Mining,67,0.8156732529722046,Industry
-Materials,Construction Materials,95,0.8060288416434735,Industry
-Industrials,Aerospace & Defense,79,0.21393668893492623,Industry
-Industrials,Machinery,67,0.7981856895962107,Industry
-Industrials,Industrial Services,0,0.8348106336038082,Industry
-Consumer Services,Retail,99,0.21263738410340238,Industry
-Consumer Services,Travel & Leisure,74,0.4866250927625907,Industry
-Consumer Services,Media,12,0.33851486205531134,Industry
-Transportation,Airlines,84,0.07721680777590167,Industry
-Transportation,Railroads,65,0.03616506620108795,Industry
-Transportation,Logistics,65,0.43569020743412323,Industry
+,Hendry,693,0.4047957466383195,Overall
+Hendry,HiTech,25,0.7648294641459126,Sector
+Hendry,Agriculture,1,0.15885916565614921,Sector
+Hendry,Transportation,19,0.657306567720668,Sector
+Hendry,Consumer_Products,67,0.7593675347968525,Sector
+Hendry,Unassigned,67,0.1693474572274576,Sector
+Hendry,Communication,59,0.6453212020860081,Sector
+Hendry,Trade,35,0.2702853807974206,Sector
+Hendry,Business_Services,94,0.518662127319308,Sector
+Hendry,Business_Products,20,0.3310697937434508,Sector
+Hendry,Construction,5,0.5303963326019518,Sector
+Hendry,Services,95,0.01789903111656943,Sector
+Hendry,Mining,64,0.07849054622916518,Sector
+Hendry,Health_Care,95,0.020691913524080507,Sector
+Hendry,EnergyExpL_Prod,43,0.5151297969567188,Sector
+Hendry,Utilities,4,0.6342798856530796,Sector

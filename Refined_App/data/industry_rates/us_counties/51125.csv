@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Nelson,1798,0.3207325606099365,Overall
-Nelson,Technology,210,0.3542997419216817,Sector
-Nelson,Healthcare,191,0.20398546325829803,Sector
-Nelson,Finance,148,0.1196429742440096,Sector
-Nelson,Energy,177,0.932849797415187,Sector
-Nelson,Consumer Goods,203,0.2498091539526046,Sector
-Nelson,Utilities,144,0.9999716484503512,Sector
-Nelson,Real Estate,128,0.3189653182298573,Sector
-Nelson,Telecommunications,87,0.557063745173864,Sector
-Nelson,Materials,133,0.25307987715292923,Sector
-Nelson,Industrials,44,0.4480250005634481,Sector
-Nelson,Consumer Services,217,0.290132552374619,Sector
-Nelson,Transportation,116,0.8209436614251744,Sector
-Technology,Software,60,0.8700859667460753,Industry
-Technology,Hardware,55,0.5877582523078781,Industry
-Technology,IT Services,95,0.5377937523008678,Industry
-Healthcare,Pharmaceuticals,89,0.7707206241723977,Industry
-Healthcare,Medical Devices,23,0.20458791129380838,Industry
-Healthcare,Healthcare Services,79,0.6720922108686834,Industry
-Finance,Banking,13,0.9359380506634192,Industry
-Finance,Insurance,52,0.6921101260788983,Industry
-Finance,Investment Services,83,0.1931138553625359,Industry
-Energy,Oil & Gas,0,0.5289559138340467,Industry
-Energy,Renewable Energy,84,0.9775141726175915,Industry
-Energy,Energy Exploration,93,0.8033565310045816,Industry
-Consumer Goods,Food & Beverage,34,0.02193009255683409,Industry
-Consumer Goods,Household Products,81,0.7939457992242643,Industry
-Consumer Goods,Apparel,88,0.4934208094075223,Industry
-Utilities,Electric,64,0.4186181960915223,Industry
-Utilities,Water,7,0.14939757461978076,Industry
-Utilities,Gas,73,0.2985466027295097,Industry
-Real Estate,Residential,67,0.5590631456196309,Industry
-Real Estate,Commercial,21,0.13759416631901622,Industry
-Real Estate,Industrial,40,0.7511681326793809,Industry
-Telecommunications,Mobile,7,0.11163101737377845,Industry
-Telecommunications,Broadband,41,0.6499446631940261,Industry
-Telecommunications,Satellite,39,0.297192241082437,Industry
-Materials,Chemicals,48,0.1244794894428416,Industry
-Materials,Metals & Mining,13,0.4971736177900088,Industry
-Materials,Construction Materials,72,0.46581060386468953,Industry
-Industrials,Aerospace & Defense,28,0.3915744472806483,Industry
-Industrials,Machinery,10,0.27446884045039766,Industry
-Industrials,Industrial Services,6,0.4132141736952609,Industry
-Consumer Services,Retail,80,0.29815487479750136,Industry
-Consumer Services,Travel & Leisure,90,0.9664393178324444,Industry
-Consumer Services,Media,47,0.9869973930615268,Industry
-Transportation,Airlines,9,0.7381486485426537,Industry
-Transportation,Railroads,48,0.7135355861753955,Industry
-Transportation,Logistics,59,0.14774118719853002,Industry
+,Nelson,641,0.46545869858276223,Overall
+Nelson,HiTech,6,0.5953422564187154,Sector
+Nelson,Agriculture,72,0.6497950400671343,Sector
+Nelson,Transportation,50,0.5662831465955466,Sector
+Nelson,Consumer_Products,54,0.9770270251795102,Sector
+Nelson,Unassigned,6,0.003488465572566657,Sector
+Nelson,Communication,71,0.7352330859633727,Sector
+Nelson,Trade,61,0.7076615259387128,Sector
+Nelson,Business_Services,35,0.3361587950074817,Sector
+Nelson,Business_Products,30,0.7265215430282184,Sector
+Nelson,Construction,95,0.190065025380869,Sector
+Nelson,Services,33,0.09030347348853629,Sector
+Nelson,Mining,85,0.04258197583525525,Sector
+Nelson,Health_Care,18,0.5905507104196944,Sector
+Nelson,EnergyExpL_Prod,6,0.28272163722259425,Sector
+Nelson,Utilities,19,0.4881467726232269,Sector

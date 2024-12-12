@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pembina,1820,0.0672020186039447,Overall
-Pembina,Technology,67,0.12425900396093392,Sector
-Pembina,Healthcare,245,0.2478497468582913,Sector
-Pembina,Finance,139,0.4251291839073137,Sector
-Pembina,Energy,46,0.6080604393617692,Sector
-Pembina,Consumer Goods,170,0.33601058100628733,Sector
-Pembina,Utilities,164,0.4122342355528382,Sector
-Pembina,Real Estate,229,0.6260147992240432,Sector
-Pembina,Telecommunications,96,0.32264192825973037,Sector
-Pembina,Materials,165,0.5968975576349931,Sector
-Pembina,Industrials,154,0.663210583160568,Sector
-Pembina,Consumer Services,163,0.7040336056955604,Sector
-Pembina,Transportation,182,0.21102929643083068,Sector
-Technology,Software,28,0.5531658443749962,Industry
-Technology,Hardware,36,0.04241768431654258,Industry
-Technology,IT Services,3,0.11027421344449762,Industry
-Healthcare,Pharmaceuticals,79,0.11993691537261553,Industry
-Healthcare,Medical Devices,67,0.11854445278600323,Industry
-Healthcare,Healthcare Services,99,0.6249283400774616,Industry
-Finance,Banking,27,0.5932458862239532,Industry
-Finance,Insurance,96,0.5757793537532949,Industry
-Finance,Investment Services,16,0.6375488424964622,Industry
-Energy,Oil & Gas,23,0.13703963714493594,Industry
-Energy,Renewable Energy,16,0.017686025113297643,Industry
-Energy,Energy Exploration,7,0.8880668538921629,Industry
-Consumer Goods,Food & Beverage,0,0.3244529191571732,Industry
-Consumer Goods,Household Products,94,0.1568791718783834,Industry
-Consumer Goods,Apparel,76,0.9223834883945068,Industry
-Utilities,Electric,4,0.17413634605161488,Industry
-Utilities,Water,66,0.7938456749913501,Industry
-Utilities,Gas,94,0.7710650215963286,Industry
-Real Estate,Residential,85,0.7434821210622068,Industry
-Real Estate,Commercial,93,0.05121524771340502,Industry
-Real Estate,Industrial,51,0.5232897795983918,Industry
-Telecommunications,Mobile,42,0.06390429969157563,Industry
-Telecommunications,Broadband,45,0.5314561442525293,Industry
-Telecommunications,Satellite,9,0.5279061920844624,Industry
-Materials,Chemicals,51,0.009233442182195795,Industry
-Materials,Metals & Mining,24,0.9398488884127406,Industry
-Materials,Construction Materials,90,0.4251593786089255,Industry
-Industrials,Aerospace & Defense,66,0.9686080323631545,Industry
-Industrials,Machinery,13,0.9197961631658707,Industry
-Industrials,Industrial Services,75,0.36001347268370354,Industry
-Consumer Services,Retail,59,0.9730926622249649,Industry
-Consumer Services,Travel & Leisure,77,0.6940988450391978,Industry
-Consumer Services,Media,27,0.5898518586821773,Industry
-Transportation,Airlines,75,0.06007409257872531,Industry
-Transportation,Railroads,25,0.8320172979113977,Industry
-Transportation,Logistics,82,0.4258833205527841,Industry
+,Pembina,821,0.45632128325548865,Overall
+Pembina,HiTech,90,0.22127055645672045,Sector
+Pembina,Agriculture,79,0.4682716943503018,Sector
+Pembina,Transportation,43,0.5109025493937294,Sector
+Pembina,Consumer_Products,65,0.4505364389916784,Sector
+Pembina,Unassigned,26,0.4207863735410342,Sector
+Pembina,Communication,71,0.3347424769644909,Sector
+Pembina,Trade,96,0.1305641510503528,Sector
+Pembina,Business_Services,80,0.006629228732613512,Sector
+Pembina,Business_Products,15,0.8968444052569206,Sector
+Pembina,Construction,48,0.8462210290859337,Sector
+Pembina,Services,25,0.7698764845539247,Sector
+Pembina,Mining,16,0.04638677251755585,Sector
+Pembina,Health_Care,53,0.8533740914110542,Sector
+Pembina,EnergyExpL_Prod,53,0.09650866636385924,Sector
+Pembina,Utilities,61,0.7919043301621599,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Muhlenberg,1881,0.46884052946792953,Overall
-Muhlenberg,Technology,96,0.38387656900114453,Sector
-Muhlenberg,Healthcare,132,0.3109902778418784,Sector
-Muhlenberg,Finance,255,0.812625396177168,Sector
-Muhlenberg,Energy,134,0.4377976971717972,Sector
-Muhlenberg,Consumer Goods,81,0.6618463873791443,Sector
-Muhlenberg,Utilities,182,0.6550129801158258,Sector
-Muhlenberg,Real Estate,187,0.44319125569819784,Sector
-Muhlenberg,Telecommunications,190,0.4272347359382771,Sector
-Muhlenberg,Materials,94,0.6646480389026745,Sector
-Muhlenberg,Industrials,230,0.17148671073013566,Sector
-Muhlenberg,Consumer Services,160,0.3527974131131275,Sector
-Muhlenberg,Transportation,140,0.09752963500240541,Sector
-Technology,Software,3,0.9308882889150661,Industry
-Technology,Hardware,13,0.2634010690070646,Industry
-Technology,IT Services,80,0.48169549513326415,Industry
-Healthcare,Pharmaceuticals,18,0.9204663787383164,Industry
-Healthcare,Medical Devices,21,0.5143391009170101,Industry
-Healthcare,Healthcare Services,93,0.6819474098997756,Industry
-Finance,Banking,81,0.45126017019618514,Industry
-Finance,Insurance,76,0.1567846450448005,Industry
-Finance,Investment Services,98,0.8991785358882557,Industry
-Energy,Oil & Gas,86,0.38050902070680304,Industry
-Energy,Renewable Energy,4,0.9663789656494549,Industry
-Energy,Energy Exploration,44,0.09808842797498407,Industry
-Consumer Goods,Food & Beverage,4,0.5153443686470678,Industry
-Consumer Goods,Household Products,51,0.23652550178529508,Industry
-Consumer Goods,Apparel,26,0.2521985996560785,Industry
-Utilities,Electric,64,0.5268948617913524,Industry
-Utilities,Water,99,0.24383772902037515,Industry
-Utilities,Gas,19,0.4901979667880768,Industry
-Real Estate,Residential,61,0.2864904819792127,Industry
-Real Estate,Commercial,97,0.2263572201364178,Industry
-Real Estate,Industrial,29,0.1430944841434243,Industry
-Telecommunications,Mobile,78,0.5150688660406402,Industry
-Telecommunications,Broadband,72,0.9298791819957649,Industry
-Telecommunications,Satellite,40,0.4137121661878089,Industry
-Materials,Chemicals,3,0.19670306326931886,Industry
-Materials,Metals & Mining,42,0.14174931465719287,Industry
-Materials,Construction Materials,49,0.8020983554031613,Industry
-Industrials,Aerospace & Defense,58,0.9167273855271312,Industry
-Industrials,Machinery,80,0.4077611203946122,Industry
-Industrials,Industrial Services,92,0.565765652111128,Industry
-Consumer Services,Retail,62,0.3630081067651758,Industry
-Consumer Services,Travel & Leisure,59,0.8727416693455987,Industry
-Consumer Services,Media,39,0.35426955880627486,Industry
-Transportation,Airlines,58,0.2843608219853677,Industry
-Transportation,Railroads,0,0.9795316516276072,Industry
-Transportation,Logistics,82,0.38696208698349266,Industry
+,Muhlenberg,843,0.47121577401448195,Overall
+Muhlenberg,HiTech,91,0.06290055549579165,Sector
+Muhlenberg,Agriculture,66,0.6552723128381878,Sector
+Muhlenberg,Transportation,77,0.9181047159774905,Sector
+Muhlenberg,Consumer_Products,54,0.5209659433511792,Sector
+Muhlenberg,Unassigned,91,0.008588751769263547,Sector
+Muhlenberg,Communication,95,0.4814908783132693,Sector
+Muhlenberg,Trade,74,0.13249801591745225,Sector
+Muhlenberg,Business_Services,37,0.35023841786960797,Sector
+Muhlenberg,Business_Products,7,0.6596817689284448,Sector
+Muhlenberg,Construction,62,0.5508170421065703,Sector
+Muhlenberg,Services,26,0.17201428344190506,Sector
+Muhlenberg,Mining,42,0.6183799106200035,Sector
+Muhlenberg,Health_Care,5,0.5104882110262136,Sector
+Muhlenberg,EnergyExpL_Prod,66,0.50097375482513,Sector
+Muhlenberg,Utilities,50,0.9258220477367195,Sector

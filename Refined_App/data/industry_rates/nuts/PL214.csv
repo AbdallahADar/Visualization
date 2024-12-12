@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Krakowski,1974,0.11194578105466324,Overall
-Krakowski,Technology,199,0.0678393526063884,Sector
-Krakowski,Healthcare,164,0.666881324337917,Sector
-Krakowski,Finance,211,0.3718102171809413,Sector
-Krakowski,Energy,72,0.5228344361486761,Sector
-Krakowski,Consumer Goods,141,0.4937435856076541,Sector
-Krakowski,Utilities,177,0.8039741772082745,Sector
-Krakowski,Real Estate,184,0.8603326681554112,Sector
-Krakowski,Telecommunications,135,0.39870002330642174,Sector
-Krakowski,Materials,193,0.7372037150493744,Sector
-Krakowski,Industrials,113,0.002556387892969303,Sector
-Krakowski,Consumer Services,127,0.18859036244939476,Sector
-Krakowski,Transportation,258,0.13996272674203247,Sector
-Technology,Software,72,0.594748084958915,Industry
-Technology,Hardware,85,0.33715003350688866,Industry
-Technology,IT Services,42,0.16012553857174971,Industry
-Healthcare,Pharmaceuticals,32,0.29362502554370196,Industry
-Healthcare,Medical Devices,58,0.8746225161638668,Industry
-Healthcare,Healthcare Services,74,0.8647140178187243,Industry
-Finance,Banking,98,0.2072698251348256,Industry
-Finance,Insurance,73,0.7918533490425517,Industry
-Finance,Investment Services,40,0.7405783443643407,Industry
-Energy,Oil & Gas,12,0.8753074341985937,Industry
-Energy,Renewable Energy,46,0.07246262867615705,Industry
-Energy,Energy Exploration,14,0.1377606117318182,Industry
-Consumer Goods,Food & Beverage,17,0.4761350029206559,Industry
-Consumer Goods,Household Products,67,0.2711346368973079,Industry
-Consumer Goods,Apparel,57,0.6776379296473103,Industry
-Utilities,Electric,27,0.4785385488836026,Industry
-Utilities,Water,61,0.7594802494100213,Industry
-Utilities,Gas,89,0.9895704339498244,Industry
-Real Estate,Residential,96,0.4030678468803661,Industry
-Real Estate,Commercial,40,0.400745720327645,Industry
-Real Estate,Industrial,48,0.09666203139920082,Industry
-Telecommunications,Mobile,72,0.16749165377781394,Industry
-Telecommunications,Broadband,11,0.8084375131784137,Industry
-Telecommunications,Satellite,52,0.7785370168673945,Industry
-Materials,Chemicals,70,0.24698159259288965,Industry
-Materials,Metals & Mining,94,0.49914880898095837,Industry
-Materials,Construction Materials,29,0.7386624464655446,Industry
-Industrials,Aerospace & Defense,90,0.0863158009269479,Industry
-Industrials,Machinery,21,0.1840157111384595,Industry
-Industrials,Industrial Services,2,0.29851502338854075,Industry
-Consumer Services,Retail,88,0.19997981251105368,Industry
-Consumer Services,Travel & Leisure,23,0.028248898259899735,Industry
-Consumer Services,Media,16,0.6559891401255091,Industry
-Transportation,Airlines,93,0.18149163563174897,Industry
-Transportation,Railroads,84,0.043267313297989274,Industry
-Transportation,Logistics,81,0.1506682849538431,Industry
+,Krakowski,768,0.6015167946381539,Overall
+Krakowski,HiTech,91,0.767935004015739,Sector
+Krakowski,Agriculture,64,0.14026592405136828,Sector
+Krakowski,Transportation,27,0.6455896366530371,Sector
+Krakowski,Consumer_Products,34,0.7313745497311921,Sector
+Krakowski,Unassigned,28,0.5684648312777455,Sector
+Krakowski,Communication,62,0.9492233881230717,Sector
+Krakowski,Trade,46,0.3722480832473537,Sector
+Krakowski,Business_Services,17,0.859611940350362,Sector
+Krakowski,Business_Products,23,0.2031857585795882,Sector
+Krakowski,Construction,24,0.5926143360215531,Sector
+Krakowski,Services,62,0.024916905327906802,Sector
+Krakowski,Mining,62,0.9686268490554455,Sector
+Krakowski,Health_Care,50,0.9670427842468545,Sector
+Krakowski,EnergyExpL_Prod,90,0.6693812346947376,Sector
+Krakowski,Utilities,88,0.5622706941963531,Sector

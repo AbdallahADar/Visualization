@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Chesterfield,2211,0.44470109067085684,Overall
-Chesterfield,Technology,187,0.9376872794764116,Sector
-Chesterfield,Healthcare,172,0.7909249892626549,Sector
-Chesterfield,Finance,258,0.15637145573767253,Sector
-Chesterfield,Energy,233,0.8109028457744452,Sector
-Chesterfield,Consumer Goods,258,0.46670724177618916,Sector
-Chesterfield,Utilities,82,0.5306882466045225,Sector
-Chesterfield,Real Estate,119,0.16146246268581355,Sector
-Chesterfield,Telecommunications,228,0.8183189554191473,Sector
-Chesterfield,Materials,156,0.2984748050592104,Sector
-Chesterfield,Industrials,225,0.508671428464918,Sector
-Chesterfield,Consumer Services,137,0.6867224602721685,Sector
-Chesterfield,Transportation,156,0.30018080005847914,Sector
-Technology,Software,73,0.291599584757642,Industry
-Technology,Hardware,47,0.6865125732068023,Industry
-Technology,IT Services,67,0.18516745362082987,Industry
-Healthcare,Pharmaceuticals,74,0.011063418952169002,Industry
-Healthcare,Medical Devices,85,0.5015347245775097,Industry
-Healthcare,Healthcare Services,13,0.4092875690156019,Industry
-Finance,Banking,81,0.22907441477539292,Industry
-Finance,Insurance,86,0.3465336514208125,Industry
-Finance,Investment Services,91,0.9528677880378399,Industry
-Energy,Oil & Gas,95,0.8561155582802485,Industry
-Energy,Renewable Energy,43,0.20729877982131384,Industry
-Energy,Energy Exploration,95,0.6576810618018619,Industry
-Consumer Goods,Food & Beverage,85,0.4572954925970114,Industry
-Consumer Goods,Household Products,92,0.13803633239309976,Industry
-Consumer Goods,Apparel,81,0.12056646733311138,Industry
-Utilities,Electric,21,0.8250756751192702,Industry
-Utilities,Water,34,0.19175332992509786,Industry
-Utilities,Gas,27,0.20992337788534376,Industry
-Real Estate,Residential,37,0.9342623919852442,Industry
-Real Estate,Commercial,38,0.06015813911844603,Industry
-Real Estate,Industrial,44,0.31963552783188776,Industry
-Telecommunications,Mobile,75,0.43311279066358355,Industry
-Telecommunications,Broadband,66,0.9102445482926811,Industry
-Telecommunications,Satellite,87,0.7888778029348315,Industry
-Materials,Chemicals,46,0.5654471813400362,Industry
-Materials,Metals & Mining,49,0.5131137090579861,Industry
-Materials,Construction Materials,61,0.5483015131472022,Industry
-Industrials,Aerospace & Defense,71,0.033621230766488375,Industry
-Industrials,Machinery,88,0.8560469352088663,Industry
-Industrials,Industrial Services,66,0.6893698491416568,Industry
-Consumer Services,Retail,10,0.7007074634234459,Industry
-Consumer Services,Travel & Leisure,72,0.33607265918299023,Industry
-Consumer Services,Media,55,0.6775143094891015,Industry
-Transportation,Airlines,65,0.9463327946906632,Industry
-Transportation,Railroads,22,0.3007298426700721,Industry
-Transportation,Logistics,69,0.674148944970914,Industry
+,Chesterfield,681,0.5603085667456168,Overall
+Chesterfield,HiTech,2,0.4532011257572228,Sector
+Chesterfield,Agriculture,69,0.2912431033805669,Sector
+Chesterfield,Transportation,81,0.8695165867957757,Sector
+Chesterfield,Consumer_Products,14,0.8768216401519052,Sector
+Chesterfield,Unassigned,72,0.9821598580021792,Sector
+Chesterfield,Communication,3,0.6173149632833568,Sector
+Chesterfield,Trade,25,0.6403144697440616,Sector
+Chesterfield,Business_Services,99,0.3369735439553757,Sector
+Chesterfield,Business_Products,0,0.5735065674057257,Sector
+Chesterfield,Construction,93,0.3173581628031563,Sector
+Chesterfield,Services,42,0.8925898752322413,Sector
+Chesterfield,Mining,8,0.5361217499551093,Sector
+Chesterfield,Health_Care,75,0.06048694793799081,Sector
+Chesterfield,EnergyExpL_Prod,6,0.8335373574492106,Sector
+Chesterfield,Utilities,92,0.12348254933037439,Sector

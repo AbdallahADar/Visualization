@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Keweenaw,2129,0.8868462932258243,Overall
-Keweenaw,Technology,54,0.8506737545257403,Sector
-Keweenaw,Healthcare,283,0.949784549199079,Sector
-Keweenaw,Finance,126,0.6981256247754413,Sector
-Keweenaw,Energy,92,0.7414280200367462,Sector
-Keweenaw,Consumer Goods,198,0.6543753275485388,Sector
-Keweenaw,Utilities,193,0.6115583078325757,Sector
-Keweenaw,Real Estate,189,0.5281390981740289,Sector
-Keweenaw,Telecommunications,141,0.3085404426829542,Sector
-Keweenaw,Materials,199,0.4694976196829902,Sector
-Keweenaw,Industrials,207,0.34319562016837624,Sector
-Keweenaw,Consumer Services,217,0.5836294570952917,Sector
-Keweenaw,Transportation,230,0.2182298831248114,Sector
-Technology,Software,21,0.5595210579737844,Industry
-Technology,Hardware,18,0.5030899281866884,Industry
-Technology,IT Services,15,0.33736119815421617,Industry
-Healthcare,Pharmaceuticals,95,0.6626448871248377,Industry
-Healthcare,Medical Devices,96,0.19655852787147698,Industry
-Healthcare,Healthcare Services,92,0.9496858103157421,Industry
-Finance,Banking,92,0.6868303793085813,Industry
-Finance,Insurance,8,0.21937910554133477,Industry
-Finance,Investment Services,26,0.3590936716496629,Industry
-Energy,Oil & Gas,16,0.9118328560810431,Industry
-Energy,Renewable Energy,18,0.44468628585220826,Industry
-Energy,Energy Exploration,58,0.9130470161541128,Industry
-Consumer Goods,Food & Beverage,74,0.4859103275852936,Industry
-Consumer Goods,Household Products,32,0.6065514967455629,Industry
-Consumer Goods,Apparel,92,0.5743519652942235,Industry
-Utilities,Electric,26,0.6576317383308792,Industry
-Utilities,Water,96,0.29321871913619724,Industry
-Utilities,Gas,71,0.502173563568075,Industry
-Real Estate,Residential,80,0.26784060352635974,Industry
-Real Estate,Commercial,72,0.7693108661032708,Industry
-Real Estate,Industrial,37,0.2627501277325115,Industry
-Telecommunications,Mobile,39,0.9030874169327534,Industry
-Telecommunications,Broadband,15,0.68339229986933,Industry
-Telecommunications,Satellite,87,0.36501424299236307,Industry
-Materials,Chemicals,86,0.3149695198011976,Industry
-Materials,Metals & Mining,55,0.6621521563028552,Industry
-Materials,Construction Materials,58,0.9850001192802352,Industry
-Industrials,Aerospace & Defense,88,0.032252215789100425,Industry
-Industrials,Machinery,36,0.9907302087835849,Industry
-Industrials,Industrial Services,83,0.9251583535701411,Industry
-Consumer Services,Retail,59,0.050125646165895876,Industry
-Consumer Services,Travel & Leisure,93,0.3883125315099367,Industry
-Consumer Services,Media,65,0.45755644093277303,Industry
-Transportation,Airlines,83,0.6389456879469588,Industry
-Transportation,Railroads,80,0.7715628012991426,Industry
-Transportation,Logistics,67,0.07939238051388875,Industry
+,Keweenaw,765,0.5117845134903986,Overall
+Keweenaw,HiTech,97,0.822429358935051,Sector
+Keweenaw,Agriculture,19,0.9287456118942826,Sector
+Keweenaw,Transportation,5,0.05143756069712069,Sector
+Keweenaw,Consumer_Products,54,0.58162975775916,Sector
+Keweenaw,Unassigned,82,0.9001638241532524,Sector
+Keweenaw,Communication,86,0.7613144080907062,Sector
+Keweenaw,Trade,4,0.543230731290263,Sector
+Keweenaw,Business_Services,30,0.1252839516684503,Sector
+Keweenaw,Business_Products,63,0.7526276576625001,Sector
+Keweenaw,Construction,59,0.11546563596070214,Sector
+Keweenaw,Services,94,0.2592903243731769,Sector
+Keweenaw,Mining,69,0.8961832673730781,Sector
+Keweenaw,Health_Care,60,0.6181463275912408,Sector
+Keweenaw,EnergyExpL_Prod,0,0.11624961719696958,Sector
+Keweenaw,Utilities,43,0.2045696677100245,Sector

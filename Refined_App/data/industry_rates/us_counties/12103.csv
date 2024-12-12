@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Pinellas,2004,0.9274897052882695,Overall
-Pinellas,Technology,184,0.8917946701881412,Sector
-Pinellas,Healthcare,190,0.8335603707720511,Sector
-Pinellas,Finance,223,0.199701196788878,Sector
-Pinellas,Energy,137,0.9914101956966233,Sector
-Pinellas,Consumer Goods,171,0.3898926841485326,Sector
-Pinellas,Utilities,185,0.9225396291409118,Sector
-Pinellas,Real Estate,97,0.33518380251324154,Sector
-Pinellas,Telecommunications,141,0.02008820948428991,Sector
-Pinellas,Materials,204,0.26702129512139416,Sector
-Pinellas,Industrials,114,0.7804320993879513,Sector
-Pinellas,Consumer Services,173,0.7166160687629445,Sector
-Pinellas,Transportation,185,0.01836470107799526,Sector
-Technology,Software,81,0.9658408354478151,Industry
-Technology,Hardware,47,0.0913054578248621,Industry
-Technology,IT Services,56,0.6488485951956773,Industry
-Healthcare,Pharmaceuticals,92,0.8180414176206033,Industry
-Healthcare,Medical Devices,52,0.9221608727761893,Industry
-Healthcare,Healthcare Services,46,0.27670382225457124,Industry
-Finance,Banking,97,0.9394220082606388,Industry
-Finance,Insurance,76,0.5583575169313272,Industry
-Finance,Investment Services,50,0.11843385292097242,Industry
-Energy,Oil & Gas,12,0.6653529071880668,Industry
-Energy,Renewable Energy,70,0.5193962218859336,Industry
-Energy,Energy Exploration,55,0.7739349958475509,Industry
-Consumer Goods,Food & Beverage,96,0.8685377210547977,Industry
-Consumer Goods,Household Products,54,0.03998714382794222,Industry
-Consumer Goods,Apparel,21,0.5100627741625164,Industry
-Utilities,Electric,8,0.07989117685233538,Industry
-Utilities,Water,95,0.016795600926803878,Industry
-Utilities,Gas,82,0.8595092584944707,Industry
-Real Estate,Residential,45,0.8259588287473437,Industry
-Real Estate,Commercial,23,0.9759932334261253,Industry
-Real Estate,Industrial,29,0.3406746112940203,Industry
-Telecommunications,Mobile,44,0.1539928496193348,Industry
-Telecommunications,Broadband,32,0.1428121222893931,Industry
-Telecommunications,Satellite,65,0.40845985456797984,Industry
-Materials,Chemicals,63,0.5971910634850929,Industry
-Materials,Metals & Mining,46,0.45806770918190143,Industry
-Materials,Construction Materials,95,0.390443877212584,Industry
-Industrials,Aerospace & Defense,60,0.29836662660912927,Industry
-Industrials,Machinery,24,0.7038258514685678,Industry
-Industrials,Industrial Services,30,0.612403481425772,Industry
-Consumer Services,Retail,18,0.9248490804766071,Industry
-Consumer Services,Travel & Leisure,73,0.9822422159956159,Industry
-Consumer Services,Media,82,0.1011106052894043,Industry
-Transportation,Airlines,79,0.6706320736451377,Industry
-Transportation,Railroads,85,0.0671754971936891,Industry
-Transportation,Logistics,21,0.5996612066549384,Industry
+,Pinellas,786,0.477353649608965,Overall
+Pinellas,HiTech,54,0.1301341354511415,Sector
+Pinellas,Agriculture,61,0.3128345318437753,Sector
+Pinellas,Transportation,0,0.7368344504835167,Sector
+Pinellas,Consumer_Products,57,0.4421049295341569,Sector
+Pinellas,Unassigned,71,0.030909771859380486,Sector
+Pinellas,Communication,43,0.04241889542350774,Sector
+Pinellas,Trade,63,0.2229925499233455,Sector
+Pinellas,Business_Services,27,0.6221119118456586,Sector
+Pinellas,Business_Products,13,0.9125012294916238,Sector
+Pinellas,Construction,32,0.25907897222009957,Sector
+Pinellas,Services,58,0.4085017393303273,Sector
+Pinellas,Mining,71,0.6834437422238755,Sector
+Pinellas,Health_Care,68,0.979698627776547,Sector
+Pinellas,EnergyExpL_Prod,92,0.7902911856176648,Sector
+Pinellas,Utilities,76,0.5864480711098543,Sector

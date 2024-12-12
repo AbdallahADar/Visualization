@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Morgan,1751,0.6518043982427922,Overall
-Morgan,Technology,207,0.643893661449067,Sector
-Morgan,Healthcare,178,0.23126462590684616,Sector
-Morgan,Finance,138,0.01939379065363478,Sector
-Morgan,Energy,184,0.6445518529816959,Sector
-Morgan,Consumer Goods,170,0.7557961947568012,Sector
-Morgan,Utilities,133,0.2225419493229458,Sector
-Morgan,Real Estate,201,0.5038893211048352,Sector
-Morgan,Telecommunications,51,0.02004859737051068,Sector
-Morgan,Materials,68,0.12868252089874355,Sector
-Morgan,Industrials,71,0.09693543169105523,Sector
-Morgan,Consumer Services,119,0.21017911002851275,Sector
-Morgan,Transportation,231,0.48728617247072903,Sector
-Technology,Software,45,0.04942802479230357,Industry
-Technology,Hardware,85,0.39111500612477024,Industry
-Technology,IT Services,77,0.6405327066154465,Industry
-Healthcare,Pharmaceuticals,60,0.9934914762114812,Industry
-Healthcare,Medical Devices,61,0.6167314714177952,Industry
-Healthcare,Healthcare Services,57,0.7407442215159074,Industry
-Finance,Banking,13,0.5670696511035259,Industry
-Finance,Insurance,47,0.3661924569199363,Industry
-Finance,Investment Services,78,0.5025217320283917,Industry
-Energy,Oil & Gas,88,0.7448760234422366,Industry
-Energy,Renewable Energy,19,0.2329779123478547,Industry
-Energy,Energy Exploration,77,0.4160574610620983,Industry
-Consumer Goods,Food & Beverage,0,0.3477598365464244,Industry
-Consumer Goods,Household Products,87,0.19044256678108784,Industry
-Consumer Goods,Apparel,83,0.7762072928877382,Industry
-Utilities,Electric,36,0.9078689588746318,Industry
-Utilities,Water,47,0.11262877778678537,Industry
-Utilities,Gas,50,0.19125237742114098,Industry
-Real Estate,Residential,74,0.3907227426735018,Industry
-Real Estate,Commercial,55,0.42000042887834943,Industry
-Real Estate,Industrial,72,0.34156316998188463,Industry
-Telecommunications,Mobile,22,0.99839949099882,Industry
-Telecommunications,Broadband,22,0.48626827577897,Industry
-Telecommunications,Satellite,7,0.3280436794980449,Industry
-Materials,Chemicals,37,0.761178640954613,Industry
-Materials,Metals & Mining,26,0.18522063674103262,Industry
-Materials,Construction Materials,5,0.12354165107198878,Industry
-Industrials,Aerospace & Defense,2,0.5175461295152869,Industry
-Industrials,Machinery,11,0.2691766398783296,Industry
-Industrials,Industrial Services,58,0.7500675510404522,Industry
-Consumer Services,Retail,14,0.623383032813579,Industry
-Consumer Services,Travel & Leisure,49,0.17738330716232853,Industry
-Consumer Services,Media,56,0.8452090779663494,Industry
-Transportation,Airlines,96,0.9806000128626202,Industry
-Transportation,Railroads,46,0.43434885947691193,Industry
-Transportation,Logistics,89,0.006268875708874466,Industry
+,Morgan,881,0.5077944098063981,Overall
+Morgan,HiTech,54,0.4479288030343821,Sector
+Morgan,Agriculture,36,0.6481498099985651,Sector
+Morgan,Transportation,85,0.5858454354835577,Sector
+Morgan,Consumer_Products,89,0.13508084483509442,Sector
+Morgan,Unassigned,65,0.09543493085241694,Sector
+Morgan,Communication,92,0.9731432460284369,Sector
+Morgan,Trade,49,0.6871848328859383,Sector
+Morgan,Business_Services,94,0.4837961991002028,Sector
+Morgan,Business_Products,30,0.24158887790614036,Sector
+Morgan,Construction,8,0.4743283218447377,Sector
+Morgan,Services,85,0.198001233318016,Sector
+Morgan,Mining,49,0.4193866011037132,Sector
+Morgan,Health_Care,83,0.8895541693594482,Sector
+Morgan,EnergyExpL_Prod,62,0.7228634865708303,Sector
+Morgan,Utilities,0,0.6146293547744929,Sector

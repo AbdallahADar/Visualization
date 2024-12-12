@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Itasca,1645,0.9252275911368805,Overall
-Itasca,Technology,244,0.8056617360117969,Sector
-Itasca,Healthcare,58,0.7250875946292511,Sector
-Itasca,Finance,46,0.1498862147605423,Sector
-Itasca,Energy,223,0.7185897216105656,Sector
-Itasca,Consumer Goods,105,0.49419102536098414,Sector
-Itasca,Utilities,123,0.6968605103011624,Sector
-Itasca,Real Estate,56,0.5771602381021085,Sector
-Itasca,Telecommunications,118,0.8765537261091122,Sector
-Itasca,Materials,105,0.9610502517786726,Sector
-Itasca,Industrials,201,0.06903560543061205,Sector
-Itasca,Consumer Services,212,0.8084037256666317,Sector
-Itasca,Transportation,154,0.25438328698376367,Sector
-Technology,Software,86,0.8650355302373409,Industry
-Technology,Hardware,65,0.024220377594213693,Industry
-Technology,IT Services,93,0.9260149105893992,Industry
-Healthcare,Pharmaceuticals,15,0.2493565849229673,Industry
-Healthcare,Medical Devices,12,0.019805150489207946,Industry
-Healthcare,Healthcare Services,31,0.031890102488483896,Industry
-Finance,Banking,29,0.9866893858729826,Industry
-Finance,Insurance,10,0.18128187346921287,Industry
-Finance,Investment Services,7,0.2204966942828832,Industry
-Energy,Oil & Gas,50,0.42104319504851495,Industry
-Energy,Renewable Energy,98,0.09017594129120188,Industry
-Energy,Energy Exploration,75,0.11363423128431749,Industry
-Consumer Goods,Food & Beverage,89,0.7606999809171504,Industry
-Consumer Goods,Household Products,3,0.7343470647204082,Industry
-Consumer Goods,Apparel,13,0.09065845701001907,Industry
-Utilities,Electric,46,0.2243849453413781,Industry
-Utilities,Water,27,0.10456946762356534,Industry
-Utilities,Gas,50,0.13815207899805926,Industry
-Real Estate,Residential,48,0.8240559497820528,Industry
-Real Estate,Commercial,1,0.644159840513925,Industry
-Real Estate,Industrial,7,0.9654224331273951,Industry
-Telecommunications,Mobile,19,0.5926252866142158,Industry
-Telecommunications,Broadband,75,0.873739811845413,Industry
-Telecommunications,Satellite,24,0.5400065745191903,Industry
-Materials,Chemicals,9,0.5122730615616904,Industry
-Materials,Metals & Mining,31,0.5390733284968534,Industry
-Materials,Construction Materials,65,0.5733320118245813,Industry
-Industrials,Aerospace & Defense,48,0.8393272860450987,Industry
-Industrials,Machinery,70,0.5991265492195418,Industry
-Industrials,Industrial Services,83,0.9350066686614594,Industry
-Consumer Services,Retail,85,0.08743611036567323,Industry
-Consumer Services,Travel & Leisure,69,0.28067498402753766,Industry
-Consumer Services,Media,58,0.9208649485932251,Industry
-Transportation,Airlines,95,0.7428911755015668,Industry
-Transportation,Railroads,53,0.6498626031785847,Industry
-Transportation,Logistics,6,0.18962046116989306,Industry
+,Itasca,945,0.6607500652746955,Overall
+Itasca,HiTech,20,0.5984079692438399,Sector
+Itasca,Agriculture,67,0.9042004369338507,Sector
+Itasca,Transportation,2,0.05310446517124212,Sector
+Itasca,Consumer_Products,96,0.7801039925105359,Sector
+Itasca,Unassigned,72,0.9586111680241927,Sector
+Itasca,Communication,91,0.9261988313509483,Sector
+Itasca,Trade,96,0.81249329453525,Sector
+Itasca,Business_Services,58,0.9474800932748287,Sector
+Itasca,Business_Products,17,0.7303506782639811,Sector
+Itasca,Construction,86,0.9311015040337653,Sector
+Itasca,Services,94,0.1514691235603427,Sector
+Itasca,Mining,95,0.03136972274324934,Sector
+Itasca,Health_Care,15,0.8176734755853489,Sector
+Itasca,EnergyExpL_Prod,97,0.6138268553060322,Sector
+Itasca,Utilities,39,0.6548593685830236,Sector

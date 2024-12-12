@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ontario,2023,0.1965863265795772,Overall
-Ontario,Technology,149,0.8922472132529894,Sector
-Ontario,Healthcare,210,0.9113805968886382,Sector
-Ontario,Finance,226,0.20129716574750722,Sector
-Ontario,Energy,231,0.6387458175151746,Sector
-Ontario,Consumer Goods,126,0.6716849077869832,Sector
-Ontario,Utilities,191,0.238758822075548,Sector
-Ontario,Real Estate,130,0.5194980326397275,Sector
-Ontario,Telecommunications,220,0.46993615765994357,Sector
-Ontario,Materials,99,0.5239374793864069,Sector
-Ontario,Industrials,145,0.6891375209160471,Sector
-Ontario,Consumer Services,161,0.9017002577093612,Sector
-Ontario,Transportation,135,0.40613532817715636,Sector
-Technology,Software,76,0.9353256710695385,Industry
-Technology,Hardware,59,0.6758082923933592,Industry
-Technology,IT Services,14,0.9400184727200175,Industry
-Healthcare,Pharmaceuticals,84,0.6788581402396666,Industry
-Healthcare,Medical Devices,89,0.6907284454988456,Industry
-Healthcare,Healthcare Services,37,0.3168845098792413,Industry
-Finance,Banking,73,0.7209229201599552,Industry
-Finance,Insurance,74,0.45248644512714364,Industry
-Finance,Investment Services,79,0.34823552427441895,Industry
-Energy,Oil & Gas,93,0.11777545543898083,Industry
-Energy,Renewable Energy,68,0.0813656789697399,Industry
-Energy,Energy Exploration,70,0.388829526389018,Industry
-Consumer Goods,Food & Beverage,61,0.4987899175194074,Industry
-Consumer Goods,Household Products,33,0.6293881662232973,Industry
-Consumer Goods,Apparel,32,0.28442426729494585,Industry
-Utilities,Electric,92,0.15452683171985138,Industry
-Utilities,Water,20,0.7707941421669529,Industry
-Utilities,Gas,79,0.369585299424222,Industry
-Real Estate,Residential,10,0.8248881606443162,Industry
-Real Estate,Commercial,50,0.18350773423776245,Industry
-Real Estate,Industrial,70,0.08882858193901799,Industry
-Telecommunications,Mobile,85,0.539876138121345,Industry
-Telecommunications,Broadband,38,0.7588736026783994,Industry
-Telecommunications,Satellite,97,0.517910070322031,Industry
-Materials,Chemicals,60,0.42479804357511697,Industry
-Materials,Metals & Mining,27,0.11619819209196436,Industry
-Materials,Construction Materials,12,0.012434064401987355,Industry
-Industrials,Aerospace & Defense,63,0.8458070983335169,Industry
-Industrials,Machinery,47,0.12847686865523078,Industry
-Industrials,Industrial Services,35,0.5346861809007936,Industry
-Consumer Services,Retail,6,0.9853606471947132,Industry
-Consumer Services,Travel & Leisure,79,0.2516202592765997,Industry
-Consumer Services,Media,76,0.4100857010156642,Industry
-Transportation,Airlines,7,0.4162153964672416,Industry
-Transportation,Railroads,70,0.7666559293250114,Industry
-Transportation,Logistics,58,0.6690952667877745,Industry
+,Ontario,688,0.5668019789935528,Overall
+Ontario,HiTech,2,0.10375573059281895,Sector
+Ontario,Agriculture,24,0.48372910281022075,Sector
+Ontario,Transportation,72,0.26943474147636437,Sector
+Ontario,Consumer_Products,98,0.6505213762396417,Sector
+Ontario,Unassigned,14,0.2824306527016007,Sector
+Ontario,Communication,46,0.44891363764812,Sector
+Ontario,Trade,28,0.5387842035246753,Sector
+Ontario,Business_Services,81,0.8499254250691279,Sector
+Ontario,Business_Products,14,0.9714149642962567,Sector
+Ontario,Construction,89,0.9112498831446411,Sector
+Ontario,Services,52,0.8139203597258079,Sector
+Ontario,Mining,25,0.3152599907436868,Sector
+Ontario,Health_Care,5,0.33760878020880547,Sector
+Ontario,EnergyExpL_Prod,74,0.841244227651963,Sector
+Ontario,Utilities,64,0.6838366090695628,Sector

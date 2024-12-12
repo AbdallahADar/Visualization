@@ -1,0 +1,50 @@
+parent,child,Count,Growth_Rate,Type
+,Starogardzki,1687,0.05576038043816678,Overall
+Starogardzki,Technology,170,0.9246214377147122,Sector
+Starogardzki,Healthcare,143,0.06096094933855756,Sector
+Starogardzki,Finance,177,0.10125420700128929,Sector
+Starogardzki,Energy,196,0.09611996558524494,Sector
+Starogardzki,Consumer Goods,169,0.6586698880405453,Sector
+Starogardzki,Utilities,111,0.3717490624398285,Sector
+Starogardzki,Real Estate,192,0.7464947167244884,Sector
+Starogardzki,Telecommunications,108,0.7574345140271687,Sector
+Starogardzki,Materials,144,0.6982731382082861,Sector
+Starogardzki,Industrials,62,0.38091874360309974,Sector
+Starogardzki,Consumer Services,89,0.7390518940663073,Sector
+Starogardzki,Transportation,126,0.9323435683674955,Sector
+Technology,Software,82,0.9130947502763391,Industry
+Technology,Hardware,60,0.21571720456622445,Industry
+Technology,IT Services,28,0.09616373928175159,Industry
+Healthcare,Pharmaceuticals,65,0.829147192563215,Industry
+Healthcare,Medical Devices,1,0.32208074913087814,Industry
+Healthcare,Healthcare Services,77,0.6983327314478193,Industry
+Finance,Banking,75,0.2753738815360155,Industry
+Finance,Insurance,48,0.027723786898439795,Industry
+Finance,Investment Services,54,0.6761665888709456,Industry
+Energy,Oil & Gas,39,0.6440322537378917,Industry
+Energy,Renewable Energy,74,0.4629925974680692,Industry
+Energy,Energy Exploration,83,0.35314622018429476,Industry
+Consumer Goods,Food & Beverage,70,0.6108544042426007,Industry
+Consumer Goods,Household Products,81,0.17543601489634197,Industry
+Consumer Goods,Apparel,18,0.7103831437107592,Industry
+Utilities,Electric,79,0.3121511435317714,Industry
+Utilities,Water,7,0.7810993921707301,Industry
+Utilities,Gas,25,0.032692802623829564,Industry
+Real Estate,Residential,67,0.039844484359064514,Industry
+Real Estate,Commercial,83,0.021686363367354966,Industry
+Real Estate,Industrial,42,0.5866224311886558,Industry
+Telecommunications,Mobile,7,0.590555768778528,Industry
+Telecommunications,Broadband,30,0.44992869833160554,Industry
+Telecommunications,Satellite,71,0.6563057955246692,Industry
+Materials,Chemicals,90,0.5707430666007045,Industry
+Materials,Metals & Mining,10,0.5040587762032028,Industry
+Materials,Construction Materials,44,0.7339493701423953,Industry
+Industrials,Aerospace & Defense,8,0.0425832770364547,Industry
+Industrials,Machinery,9,0.8290911443667042,Industry
+Industrials,Industrial Services,45,0.5092323479760152,Industry
+Consumer Services,Retail,13,0.8523622317675342,Industry
+Consumer Services,Travel & Leisure,0,0.5933899324103568,Industry
+Consumer Services,Media,76,0.24942313490138746,Industry
+Transportation,Airlines,29,0.4538409000327973,Industry
+Transportation,Railroads,19,0.9310713414788463,Industry
+Transportation,Logistics,78,0.1459068515699974,Industry

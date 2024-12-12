@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Charlton,1699,0.08695571588824036,Overall
-Charlton,Technology,156,0.4254572604080866,Sector
-Charlton,Healthcare,208,0.13555926080341152,Sector
-Charlton,Finance,111,0.011065157289219196,Sector
-Charlton,Energy,96,0.5199435839360834,Sector
-Charlton,Consumer Goods,187,0.6456428021433187,Sector
-Charlton,Utilities,96,0.5665520144563848,Sector
-Charlton,Real Estate,128,0.36200964380863065,Sector
-Charlton,Telecommunications,157,0.6567826717836293,Sector
-Charlton,Materials,137,0.18150888196990844,Sector
-Charlton,Industrials,96,0.387726306373665,Sector
-Charlton,Consumer Services,157,0.3482361755961042,Sector
-Charlton,Transportation,170,0.4699798129479069,Sector
-Technology,Software,90,0.7554492764088483,Industry
-Technology,Hardware,58,0.07710068896368283,Industry
-Technology,IT Services,8,0.6665321766747694,Industry
-Healthcare,Pharmaceuticals,69,0.46181269894613075,Industry
-Healthcare,Medical Devices,74,0.5519033100391112,Industry
-Healthcare,Healthcare Services,65,0.10133822565235728,Industry
-Finance,Banking,15,0.9957043937262636,Industry
-Finance,Insurance,52,0.07795564575713676,Industry
-Finance,Investment Services,44,0.7917705086450897,Industry
-Energy,Oil & Gas,6,0.5188235310337109,Industry
-Energy,Renewable Energy,63,0.18367857772045382,Industry
-Energy,Energy Exploration,27,0.019893722118162094,Industry
-Consumer Goods,Food & Beverage,84,0.1251056874154114,Industry
-Consumer Goods,Household Products,81,0.6495113257170293,Industry
-Consumer Goods,Apparel,22,0.005933331260526198,Industry
-Utilities,Electric,42,0.06973983858567323,Industry
-Utilities,Water,23,0.8616820520239484,Industry
-Utilities,Gas,31,0.12108767726886405,Industry
-Real Estate,Residential,68,0.7136215282186447,Industry
-Real Estate,Commercial,6,0.3309131078410956,Industry
-Real Estate,Industrial,54,0.76792065230126,Industry
-Telecommunications,Mobile,78,0.1805905303193477,Industry
-Telecommunications,Broadband,65,0.9942893261171833,Industry
-Telecommunications,Satellite,14,0.9497822928375507,Industry
-Materials,Chemicals,32,0.6813627750720495,Industry
-Materials,Metals & Mining,27,0.6960406104497926,Industry
-Materials,Construction Materials,78,0.6603529531994439,Industry
-Industrials,Aerospace & Defense,23,0.004864222368645477,Industry
-Industrials,Machinery,69,0.7315456082403194,Industry
-Industrials,Industrial Services,4,0.8900231343214821,Industry
-Consumer Services,Retail,73,0.11361746839788733,Industry
-Consumer Services,Travel & Leisure,61,0.5427839677374756,Industry
-Consumer Services,Media,23,0.2638052374070432,Industry
-Transportation,Airlines,78,0.8323586815360485,Industry
-Transportation,Railroads,20,0.20968106238218742,Industry
-Transportation,Logistics,72,0.3507534122642473,Industry
+,Charlton,680,0.5141037714885003,Overall
+Charlton,HiTech,80,0.12706514358660215,Sector
+Charlton,Agriculture,20,0.7893653822384582,Sector
+Charlton,Transportation,41,0.4444714746617472,Sector
+Charlton,Consumer_Products,92,0.2435418285038714,Sector
+Charlton,Unassigned,80,0.5709047804522459,Sector
+Charlton,Communication,22,0.7533945076223054,Sector
+Charlton,Trade,15,0.6194577192798231,Sector
+Charlton,Business_Services,49,0.9621951041712176,Sector
+Charlton,Business_Products,65,0.3197411624936195,Sector
+Charlton,Construction,27,0.21447190380375636,Sector
+Charlton,Services,2,0.9326052923663493,Sector
+Charlton,Mining,52,0.3035117181058915,Sector
+Charlton,Health_Care,57,0.17815426188565697,Sector
+Charlton,EnergyExpL_Prod,72,0.31148314943265665,Sector
+Charlton,Utilities,6,0.9411931437233021,Sector

@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Ouachita,1983,0.320597761105319,Overall
-Ouachita,Technology,148,0.22811291991219185,Sector
-Ouachita,Healthcare,193,0.6462944175407068,Sector
-Ouachita,Finance,107,0.817458336294187,Sector
-Ouachita,Energy,240,0.23241960672265483,Sector
-Ouachita,Consumer Goods,186,0.760891808561215,Sector
-Ouachita,Utilities,122,0.9557957644853682,Sector
-Ouachita,Real Estate,170,0.5265186483915416,Sector
-Ouachita,Telecommunications,167,0.5749718878824711,Sector
-Ouachita,Materials,189,0.861498260041387,Sector
-Ouachita,Industrials,172,0.0997247443452901,Sector
-Ouachita,Consumer Services,162,0.8844284433943008,Sector
-Ouachita,Transportation,127,0.31219164689400514,Sector
-Technology,Software,72,0.10090170465981607,Industry
-Technology,Hardware,53,0.9953307971272976,Industry
-Technology,IT Services,23,0.8679392714068103,Industry
-Healthcare,Pharmaceuticals,42,0.5154855840376728,Industry
-Healthcare,Medical Devices,75,0.22081811746510516,Industry
-Healthcare,Healthcare Services,76,0.9599551423803244,Industry
-Finance,Banking,35,0.4765663334777369,Industry
-Finance,Insurance,22,0.10362344287281078,Industry
-Finance,Investment Services,50,0.6572862675455838,Industry
-Energy,Oil & Gas,93,0.5497265157185426,Industry
-Energy,Renewable Energy,97,0.009871975272608746,Industry
-Energy,Energy Exploration,50,0.6724855352345908,Industry
-Consumer Goods,Food & Beverage,97,0.886078279668236,Industry
-Consumer Goods,Household Products,1,0.881853406911451,Industry
-Consumer Goods,Apparel,88,0.8005815631051226,Industry
-Utilities,Electric,66,0.6553007585286941,Industry
-Utilities,Water,20,0.4475483213317105,Industry
-Utilities,Gas,36,0.26264468240442285,Industry
-Real Estate,Residential,24,0.03604598350144883,Industry
-Real Estate,Commercial,60,0.8786172444855347,Industry
-Real Estate,Industrial,86,0.5454852419859592,Industry
-Telecommunications,Mobile,59,0.0308298613914475,Industry
-Telecommunications,Broadband,89,0.8510919546897725,Industry
-Telecommunications,Satellite,19,0.3354083996835122,Industry
-Materials,Chemicals,71,0.6678658373096735,Industry
-Materials,Metals & Mining,35,0.08855907907810967,Industry
-Materials,Construction Materials,83,0.059415736382692486,Industry
-Industrials,Aerospace & Defense,53,0.15291006160444043,Industry
-Industrials,Machinery,54,0.1884904122747949,Industry
-Industrials,Industrial Services,65,0.4504017323824574,Industry
-Consumer Services,Retail,28,0.9968934330985104,Industry
-Consumer Services,Travel & Leisure,76,0.9317582522178547,Industry
-Consumer Services,Media,58,0.22530524189747725,Industry
-Transportation,Airlines,84,0.7638257781226974,Industry
-Transportation,Railroads,14,0.44952058014405805,Industry
-Transportation,Logistics,29,0.4648184017400816,Industry
+,Ouachita,648,0.4831225870431525,Overall
+Ouachita,HiTech,69,0.8429195222841598,Sector
+Ouachita,Agriculture,31,0.36479048319536866,Sector
+Ouachita,Transportation,62,0.9339993892116071,Sector
+Ouachita,Consumer_Products,51,0.39775021880496153,Sector
+Ouachita,Unassigned,15,0.05588032436811319,Sector
+Ouachita,Communication,63,0.5785451094178047,Sector
+Ouachita,Trade,33,0.8417295668261685,Sector
+Ouachita,Business_Services,63,0.006610787420513686,Sector
+Ouachita,Business_Products,48,0.024538150847121742,Sector
+Ouachita,Construction,27,0.6626926412490015,Sector
+Ouachita,Services,19,0.9123206957492992,Sector
+Ouachita,Mining,49,0.5688503140253062,Sector
+Ouachita,Health_Care,46,0.06932588240329574,Sector
+Ouachita,EnergyExpL_Prod,68,0.46809336762513576,Sector
+Ouachita,Utilities,4,0.5187923522194294,Sector

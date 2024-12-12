@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Huelva,1725,0.20542640115367383,Overall
-Huelva,Technology,138,0.9339178299010034,Sector
-Huelva,Healthcare,139,0.9134515712289157,Sector
-Huelva,Finance,101,0.20423767257947567,Sector
-Huelva,Energy,183,0.6576012691674616,Sector
-Huelva,Consumer Goods,134,0.2853112050538087,Sector
-Huelva,Utilities,62,0.26265588546774743,Sector
-Huelva,Real Estate,136,0.9408422489136787,Sector
-Huelva,Telecommunications,86,0.8299332278994679,Sector
-Huelva,Materials,184,0.5343174441542853,Sector
-Huelva,Industrials,220,0.156898445454546,Sector
-Huelva,Consumer Services,254,0.7347066795902338,Sector
-Huelva,Transportation,88,0.5763823717759666,Sector
-Technology,Software,37,0.4610140668911351,Industry
-Technology,Hardware,19,0.8032449632246598,Industry
-Technology,IT Services,82,0.5316639803461112,Industry
-Healthcare,Pharmaceuticals,75,0.6510776361986912,Industry
-Healthcare,Medical Devices,61,0.6405245621341011,Industry
-Healthcare,Healthcare Services,3,0.05790679025572787,Industry
-Finance,Banking,51,0.17376930728838402,Industry
-Finance,Insurance,7,0.592602531749824,Industry
-Finance,Investment Services,43,0.4526658273113695,Industry
-Energy,Oil & Gas,69,0.06304131918493905,Industry
-Energy,Renewable Energy,16,0.8861850540230614,Industry
-Energy,Energy Exploration,98,0.27885966008105934,Industry
-Consumer Goods,Food & Beverage,11,0.6073717591817758,Industry
-Consumer Goods,Household Products,24,0.7199786903370691,Industry
-Consumer Goods,Apparel,99,0.555750578888046,Industry
-Utilities,Electric,14,0.6031009534032588,Industry
-Utilities,Water,8,0.5112596263160729,Industry
-Utilities,Gas,40,0.37481195808749035,Industry
-Real Estate,Residential,51,0.6849695542627766,Industry
-Real Estate,Commercial,40,0.6176951143165045,Industry
-Real Estate,Industrial,45,0.3977664962794918,Industry
-Telecommunications,Mobile,15,0.4299500979681026,Industry
-Telecommunications,Broadband,34,0.06354319685227994,Industry
-Telecommunications,Satellite,37,0.7794852198096964,Industry
-Materials,Chemicals,18,0.7595868817335679,Industry
-Materials,Metals & Mining,83,0.1918406203388464,Industry
-Materials,Construction Materials,83,0.6692992857021582,Industry
-Industrials,Aerospace & Defense,76,0.17173013645000934,Industry
-Industrials,Machinery,72,0.016731265395073636,Industry
-Industrials,Industrial Services,72,0.544570260889414,Industry
-Consumer Services,Retail,88,0.9323974956558905,Industry
-Consumer Services,Travel & Leisure,83,0.9633067273639415,Industry
-Consumer Services,Media,83,0.22153943346200677,Industry
-Transportation,Airlines,17,0.6894098595026856,Industry
-Transportation,Railroads,52,0.1730441637948359,Industry
-Transportation,Logistics,19,0.16525472720345258,Industry
+,Huelva,620,0.4941455108277568,Overall
+Huelva,HiTech,4,0.5218481916040467,Sector
+Huelva,Agriculture,10,0.2568943088517982,Sector
+Huelva,Transportation,33,0.12506283613399471,Sector
+Huelva,Consumer_Products,51,0.4244611948464858,Sector
+Huelva,Unassigned,31,0.8557672692094103,Sector
+Huelva,Communication,29,0.3563374772966088,Sector
+Huelva,Trade,52,0.9190666589914227,Sector
+Huelva,Business_Services,54,0.5683056539807408,Sector
+Huelva,Business_Products,97,0.14356692486122313,Sector
+Huelva,Construction,29,0.09496594458971075,Sector
+Huelva,Services,83,0.5494570292646935,Sector
+Huelva,Mining,28,0.23803549834751137,Sector
+Huelva,Health_Care,34,0.6634985896711522,Sector
+Huelva,EnergyExpL_Prod,7,0.6983967386803048,Sector
+Huelva,Utilities,78,0.9965183460872488,Sector

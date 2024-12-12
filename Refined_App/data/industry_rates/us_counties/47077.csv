@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Henderson,1755,0.6261555254776472,Overall
-Henderson,Technology,170,0.23055050502111696,Sector
-Henderson,Healthcare,82,0.9759182576990019,Sector
-Henderson,Finance,205,0.7157496660483715,Sector
-Henderson,Energy,159,0.15323473573199808,Sector
-Henderson,Consumer Goods,169,0.5575164854550109,Sector
-Henderson,Utilities,199,0.18124443056550188,Sector
-Henderson,Real Estate,213,0.6255973519816986,Sector
-Henderson,Telecommunications,56,0.5628967578042786,Sector
-Henderson,Materials,147,0.9759557266180162,Sector
-Henderson,Industrials,90,0.5795610500637157,Sector
-Henderson,Consumer Services,109,0.5833332105878619,Sector
-Henderson,Transportation,156,0.6196444984854078,Sector
-Technology,Software,66,0.8953563851114151,Industry
-Technology,Hardware,6,0.9272230096407156,Industry
-Technology,IT Services,98,0.43106155923948664,Industry
-Healthcare,Pharmaceuticals,17,0.014965765994766178,Industry
-Healthcare,Medical Devices,54,0.1840205551870464,Industry
-Healthcare,Healthcare Services,11,0.269386591833633,Industry
-Finance,Banking,42,0.7439134429540706,Industry
-Finance,Insurance,84,0.9591167186872689,Industry
-Finance,Investment Services,79,0.21429609143048,Industry
-Energy,Oil & Gas,60,0.13724316518743962,Industry
-Energy,Renewable Energy,25,0.3529521615875687,Industry
-Energy,Energy Exploration,74,0.5894023956260309,Industry
-Consumer Goods,Food & Beverage,80,0.7324687688756673,Industry
-Consumer Goods,Household Products,11,0.034462793313148055,Industry
-Consumer Goods,Apparel,78,0.0034239960651666346,Industry
-Utilities,Electric,99,0.7575688324248976,Industry
-Utilities,Water,14,0.029479183271410636,Industry
-Utilities,Gas,86,0.3138009197185204,Industry
-Real Estate,Residential,74,0.4852553570419613,Industry
-Real Estate,Commercial,94,0.46537678213785116,Industry
-Real Estate,Industrial,45,0.6179416789283878,Industry
-Telecommunications,Mobile,8,0.316145780494265,Industry
-Telecommunications,Broadband,13,0.9202519303938406,Industry
-Telecommunications,Satellite,35,0.4931560155672561,Industry
-Materials,Chemicals,22,0.8575507225081781,Industry
-Materials,Metals & Mining,45,0.43477142342413533,Industry
-Materials,Construction Materials,80,0.08775488396663933,Industry
-Industrials,Aerospace & Defense,13,0.7340853577378019,Industry
-Industrials,Machinery,62,0.9819203128989108,Industry
-Industrials,Industrial Services,15,0.8422955361925852,Industry
-Consumer Services,Retail,45,0.6259251786287584,Industry
-Consumer Services,Travel & Leisure,57,0.6274961406965085,Industry
-Consumer Services,Media,7,0.4660260087350263,Industry
-Transportation,Airlines,41,0.24919332302302188,Industry
-Transportation,Railroads,51,0.3396333735551169,Industry
-Transportation,Logistics,64,0.7372463365607608,Industry
+,Henderson,910,0.5343877141057599,Overall
+Henderson,HiTech,94,0.06893867922580299,Sector
+Henderson,Agriculture,51,0.5434395607564168,Sector
+Henderson,Transportation,81,0.5154041127992933,Sector
+Henderson,Consumer_Products,1,0.6895689912252978,Sector
+Henderson,Unassigned,69,0.8343422557143926,Sector
+Henderson,Communication,63,0.8070171766561516,Sector
+Henderson,Trade,80,0.6021563614646156,Sector
+Henderson,Business_Services,78,0.6400643122866907,Sector
+Henderson,Business_Products,16,0.48876973664587553,Sector
+Henderson,Construction,35,0.5407693107338473,Sector
+Henderson,Services,95,0.7832320333278536,Sector
+Henderson,Mining,33,0.3112417359431616,Sector
+Henderson,Health_Care,39,0.15424447652883255,Sector
+Henderson,EnergyExpL_Prod,83,0.5697733771166731,Sector
+Henderson,Utilities,92,0.46685359116149316,Sector

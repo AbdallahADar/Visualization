@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Robertson,1912,0.5404628263823525,Overall
-Robertson,Technology,185,0.14429690854783028,Sector
-Robertson,Healthcare,187,0.9246422999271728,Sector
-Robertson,Finance,130,0.8034399207032366,Sector
-Robertson,Energy,121,0.8516242385995666,Sector
-Robertson,Consumer Goods,192,0.7594876227620292,Sector
-Robertson,Utilities,140,0.5873517088200464,Sector
-Robertson,Real Estate,65,0.7299431961316556,Sector
-Robertson,Telecommunications,201,0.3081271672598328,Sector
-Robertson,Materials,186,0.5269962289384323,Sector
-Robertson,Industrials,224,0.0703336879202715,Sector
-Robertson,Consumer Services,97,0.7241597842930595,Sector
-Robertson,Transportation,184,0.1891720983929126,Sector
-Technology,Software,94,0.0832514939524851,Industry
-Technology,Hardware,50,0.7873479309232531,Industry
-Technology,IT Services,41,0.3264923798871119,Industry
-Healthcare,Pharmaceuticals,64,0.11401313267456281,Industry
-Healthcare,Medical Devices,69,0.99953322860025,Industry
-Healthcare,Healthcare Services,54,0.5289061344149047,Industry
-Finance,Banking,16,0.9813344593934654,Industry
-Finance,Insurance,65,0.449459914114698,Industry
-Finance,Investment Services,49,0.5567579753051162,Industry
-Energy,Oil & Gas,4,0.6143781863165689,Industry
-Energy,Renewable Energy,69,0.5691018220272451,Industry
-Energy,Energy Exploration,48,0.18253105738179753,Industry
-Consumer Goods,Food & Beverage,32,0.4587131187020873,Industry
-Consumer Goods,Household Products,71,0.14778940201664048,Industry
-Consumer Goods,Apparel,89,0.36892570691344106,Industry
-Utilities,Electric,21,0.5021680861949579,Industry
-Utilities,Water,65,0.5261365389774476,Industry
-Utilities,Gas,54,0.5993146735198966,Industry
-Real Estate,Residential,17,0.9699308319794622,Industry
-Real Estate,Commercial,10,0.17732420252578052,Industry
-Real Estate,Industrial,38,0.49324711139808686,Industry
-Telecommunications,Mobile,85,0.880991707920712,Industry
-Telecommunications,Broadband,88,0.7374251325089618,Industry
-Telecommunications,Satellite,28,0.6644748844605568,Industry
-Materials,Chemicals,69,0.8437019844759948,Industry
-Materials,Metals & Mining,65,0.35799954257506594,Industry
-Materials,Construction Materials,52,0.05121951144600456,Industry
-Industrials,Aerospace & Defense,91,0.004978162642682249,Industry
-Industrials,Machinery,56,0.48481574516309545,Industry
-Industrials,Industrial Services,77,0.44513082831643946,Industry
-Consumer Services,Retail,0,0.8173514878068592,Industry
-Consumer Services,Travel & Leisure,9,0.03356000245153523,Industry
-Consumer Services,Media,88,0.7120917292112006,Industry
-Transportation,Airlines,22,0.13189219053509782,Industry
-Transportation,Railroads,87,0.9032813258552796,Industry
-Transportation,Logistics,75,0.773354032593892,Industry
+,Robertson,805,0.45126609995729444,Overall
+Robertson,HiTech,68,0.9111119855695939,Sector
+Robertson,Agriculture,4,0.32773627141629225,Sector
+Robertson,Transportation,51,0.17673692671903674,Sector
+Robertson,Consumer_Products,83,0.8496990765333516,Sector
+Robertson,Unassigned,56,0.420043940270031,Sector
+Robertson,Communication,61,0.5302006313966021,Sector
+Robertson,Trade,64,0.9342506517025781,Sector
+Robertson,Business_Services,43,0.2028164916187446,Sector
+Robertson,Business_Products,63,0.01285775611200446,Sector
+Robertson,Construction,88,0.23752252112044003,Sector
+Robertson,Services,59,0.6057068420224108,Sector
+Robertson,Mining,5,0.8207202430775449,Sector
+Robertson,Health_Care,36,0.20115091726032286,Sector
+Robertson,EnergyExpL_Prod,72,0.5283138144332548,Sector
+Robertson,Utilities,52,0.010123430107207065,Sector

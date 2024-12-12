@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Rappahannock,1847,0.33055774084564005,Overall
-Rappahannock,Technology,133,0.1472340161964717,Sector
-Rappahannock,Healthcare,185,0.01201158989607043,Sector
-Rappahannock,Finance,117,0.5435922009357816,Sector
-Rappahannock,Energy,202,0.24399837057775875,Sector
-Rappahannock,Consumer Goods,186,0.7849492368032838,Sector
-Rappahannock,Utilities,162,0.6205742509010885,Sector
-Rappahannock,Real Estate,91,0.7761676884336048,Sector
-Rappahannock,Telecommunications,152,0.38278993843947107,Sector
-Rappahannock,Materials,153,0.7049092559677129,Sector
-Rappahannock,Industrials,175,0.4232525891250646,Sector
-Rappahannock,Consumer Services,170,0.8266090081733365,Sector
-Rappahannock,Transportation,121,0.053586579212061225,Sector
-Technology,Software,40,0.5073590090428172,Industry
-Technology,Hardware,35,0.8505837632408847,Industry
-Technology,IT Services,58,0.6047275922346779,Industry
-Healthcare,Pharmaceuticals,48,0.8864899649945348,Industry
-Healthcare,Medical Devices,62,0.28845730069249287,Industry
-Healthcare,Healthcare Services,75,0.09274644885946604,Industry
-Finance,Banking,19,0.7675004101086706,Industry
-Finance,Insurance,76,0.8345278233027327,Industry
-Finance,Investment Services,22,0.5767345359958629,Industry
-Energy,Oil & Gas,88,0.37713544968445767,Industry
-Energy,Renewable Energy,25,0.24534363717973307,Industry
-Energy,Energy Exploration,89,0.4344998891201619,Industry
-Consumer Goods,Food & Beverage,63,0.5725744706397902,Industry
-Consumer Goods,Household Products,52,0.774444129001105,Industry
-Consumer Goods,Apparel,71,0.9601937331484534,Industry
-Utilities,Electric,63,0.5877888655371816,Industry
-Utilities,Water,50,0.2442625550232781,Industry
-Utilities,Gas,49,0.30633591051268594,Industry
-Real Estate,Residential,68,0.9442754100384089,Industry
-Real Estate,Commercial,8,0.7699357757662936,Industry
-Real Estate,Industrial,15,0.3139656693222449,Industry
-Telecommunications,Mobile,9,0.4423481697471958,Industry
-Telecommunications,Broadband,78,0.15206104378762886,Industry
-Telecommunications,Satellite,65,0.2764674199605289,Industry
-Materials,Chemicals,14,0.8417422673718772,Industry
-Materials,Metals & Mining,56,0.9233761120215073,Industry
-Materials,Construction Materials,83,0.018888985831469918,Industry
-Industrials,Aerospace & Defense,17,0.8630069797134653,Industry
-Industrials,Machinery,70,0.15191501320036727,Industry
-Industrials,Industrial Services,88,0.774498290867021,Industry
-Consumer Services,Retail,86,0.7879621022966736,Industry
-Consumer Services,Travel & Leisure,37,0.8143428163804589,Industry
-Consumer Services,Media,47,0.4915603176821647,Industry
-Transportation,Airlines,11,0.7444947683887722,Industry
-Transportation,Railroads,23,0.26958314017227425,Industry
-Transportation,Logistics,87,0.8311774530330666,Industry
+,Rappahannock,571,0.5965933959152456,Overall
+Rappahannock,HiTech,90,0.8244322064412204,Sector
+Rappahannock,Agriculture,24,0.4710904434926029,Sector
+Rappahannock,Transportation,83,0.8566237750851166,Sector
+Rappahannock,Consumer_Products,11,0.360805561075927,Sector
+Rappahannock,Unassigned,84,0.7067093044703375,Sector
+Rappahannock,Communication,4,0.784770388468729,Sector
+Rappahannock,Trade,8,0.004848403822120595,Sector
+Rappahannock,Business_Services,48,0.9346111419729425,Sector
+Rappahannock,Business_Products,19,0.5593361509686053,Sector
+Rappahannock,Construction,85,0.8635406466928507,Sector
+Rappahannock,Services,12,0.3547672716938113,Sector
+Rappahannock,Mining,16,0.2997857637564524,Sector
+Rappahannock,Health_Care,32,0.9361402437703382,Sector
+Rappahannock,EnergyExpL_Prod,22,0.8490070382153025,Sector
+Rappahannock,Utilities,33,0.14243259880232628,Sector

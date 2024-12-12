@@ -1,50 +1,17 @@
 parent,child,Count,Growth_Rate,Type
-,Colfax,1856,0.32296279259679705,Overall
-Colfax,Technology,138,0.15549031977591599,Sector
-Colfax,Healthcare,224,0.8432096663157117,Sector
-Colfax,Finance,149,0.035784102502321335,Sector
-Colfax,Energy,156,0.08574698155059024,Sector
-Colfax,Consumer Goods,176,0.37678217091445076,Sector
-Colfax,Utilities,79,0.04424599536544016,Sector
-Colfax,Real Estate,103,0.7309612508641804,Sector
-Colfax,Telecommunications,249,0.1917203715346154,Sector
-Colfax,Materials,158,0.6825713953326843,Sector
-Colfax,Industrials,221,0.7133128337891017,Sector
-Colfax,Consumer Services,95,0.18101856827301033,Sector
-Colfax,Transportation,108,0.022287182385431592,Sector
-Technology,Software,69,0.4073954900650082,Industry
-Technology,Hardware,27,0.8361343093314311,Industry
-Technology,IT Services,42,0.160643573054161,Industry
-Healthcare,Pharmaceuticals,91,0.014183901632541462,Industry
-Healthcare,Medical Devices,47,0.63721479817206,Industry
-Healthcare,Healthcare Services,86,0.32902877264661934,Industry
-Finance,Banking,74,0.9232161894864606,Industry
-Finance,Insurance,12,0.40635779717048626,Industry
-Finance,Investment Services,63,0.9441322312874019,Industry
-Energy,Oil & Gas,36,0.5670668464643622,Industry
-Energy,Renewable Energy,22,0.6331592036154614,Industry
-Energy,Energy Exploration,98,0.8339367679234858,Industry
-Consumer Goods,Food & Beverage,51,0.1631907343525889,Industry
-Consumer Goods,Household Products,49,0.03676343765279588,Industry
-Consumer Goods,Apparel,76,0.04837539300319027,Industry
-Utilities,Electric,19,0.6252556263412159,Industry
-Utilities,Water,60,0.2537324335137947,Industry
-Utilities,Gas,0,0.9752081928418121,Industry
-Real Estate,Residential,28,0.0450653165061361,Industry
-Real Estate,Commercial,62,0.4947818480111208,Industry
-Real Estate,Industrial,13,0.9535317951932096,Industry
-Telecommunications,Mobile,71,0.1106967765296838,Industry
-Telecommunications,Broadband,93,0.05736894296494033,Industry
-Telecommunications,Satellite,85,0.4429592516597409,Industry
-Materials,Chemicals,11,0.5005700519132231,Industry
-Materials,Metals & Mining,67,0.4552901432960539,Industry
-Materials,Construction Materials,80,0.7845699414928078,Industry
-Industrials,Aerospace & Defense,95,0.2238137247158558,Industry
-Industrials,Machinery,43,0.4089013084538492,Industry
-Industrials,Industrial Services,83,0.1021517356691738,Industry
-Consumer Services,Retail,87,0.8642909830886243,Industry
-Consumer Services,Travel & Leisure,1,0.5609329840753486,Industry
-Consumer Services,Media,7,0.058669402935625836,Industry
-Transportation,Airlines,37,0.35871861012065753,Industry
-Transportation,Railroads,38,0.5300873494799424,Industry
-Transportation,Logistics,33,0.49963970840744387,Industry
+,Colfax,913,0.5222028256179364,Overall
+Colfax,HiTech,39,0.2408820317344852,Sector
+Colfax,Agriculture,10,0.004029418339907775,Sector
+Colfax,Transportation,86,0.2516372995991908,Sector
+Colfax,Consumer_Products,99,0.9587165851311584,Sector
+Colfax,Unassigned,57,0.7349139329380727,Sector
+Colfax,Communication,70,0.7372431091462457,Sector
+Colfax,Trade,17,0.726308157575887,Sector
+Colfax,Business_Services,56,0.39764882858103723,Sector
+Colfax,Business_Products,80,0.9296017182838899,Sector
+Colfax,Construction,82,0.5253989887352748,Sector
+Colfax,Services,94,0.9921003473467811,Sector
+Colfax,Mining,71,0.06363195480534212,Sector
+Colfax,Health_Care,6,0.7322777668279317,Sector
+Colfax,EnergyExpL_Prod,88,0.2214506837214406,Sector
+Colfax,Utilities,58,0.31720156150240075,Sector
