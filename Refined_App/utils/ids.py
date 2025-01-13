@@ -44,3 +44,7 @@ TABLE_COLUMNS = {
     "us_county":"COUNTY_ID",
     "country" : "COUNTRY"
 }
+
+DATA_EXPORT_ID = {
+    "portfolio-button" : "portfolio-selection-button"
+}

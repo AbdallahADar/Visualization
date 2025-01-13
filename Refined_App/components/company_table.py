@@ -1,8 +1,8 @@
 import dash
 from dash import html, dcc
-from utils.ids import TABLE_IDS, TABLE_COLUMNS
+from utils.ids import TABLE_IDS, TABLE_COLUMNS, DATA_EXPORT_ID
 from utils.constants import SELECTED_TABLE_HEADER
-from utils.styles import CELL_STYLING_FUNC_PROPENSITY, CELL_STYLING_EWS
+from utils.styles import CELL_STYLING_FUNC_PROPENSITY, CELL_STYLING_EWS, DATA_EXPORT_BUTTON
 import dash_ag_grid as dag
 import numpy as np
 import pandas as pd
@@ -62,25 +62,13 @@ company_table = html.Div(
                 "pagination": True,
                 "paginationPageSize": 20,
                 "rowSelection": "single"  # Single selection to add row by row
-                }
+                },
             ),
         html.Div([
             html.H2(SELECTED_TABLE_HEADER, style = {'text-align': 'center', 'display': 'inline-block'}),
-            html.Button("Export as csv", id = "portfolio-selection-button", 
+            html.Button("Export as csv", id = DATA_EXPORT_ID["portfolio-button"], 
                         n_clicks = 0,
-                        style = {
-                               "margin-left": "20px",
-                                "padding": "8px 16px",
-                                "font-size": "1em",
-                                "color": "white",
-                                "background-color": "#3399ff",
-                                "border": "none",
-                                "border-radius": "5px",
-                                "cursor": "pointer",
-                                "box-shadow": "0px 4px 8px rgba(0, 0, 0, 0.2)",
-                                "display": "inline-block",
-                                "vertical-align": "middle"
-                               })
+                        style = DATA_EXPORT_BUTTON)
             ], 
                  style = {'display': 'flex', 'align-items': 'center', 'justify-content': 'center'}
                  ),
@@ -89,12 +77,12 @@ company_table = html.Div(
                 columnDefs = out,
                 rowData = [],
                 defaultColDef=defaultColDef,
-                csvExportParams = {"fileName" : "screened_names.csv"},
                 dashGridOptions={
                     "pagination": True,
                     "paginationPageSize": 20,
                     "rowSelection": "single"  # Single selection to add row by row
-                    }
+                    },
+                csvExportParams = {"fileName": "OpportunityScreened.csv"},
                 ),
         ]
 )

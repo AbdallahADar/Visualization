@@ -122,6 +122,18 @@ CELL_STYLING_EWS = [
 TABLES_CONTAINER = {'display': 'flex',"alignItems": "center",
                    "justifyContent": "center","flexDirection": "column"}
 
-
+DATA_EXPORT_BUTTON = {
+    "margin-left": "20px",
+    "padding": "8px 16px",
+    "font-size": "1em",
+    "color": "white",
+    "background-color": "#3399ff",
+    "border": "none",
+    "border-radius": "5px",
+    "cursor": "pointer",
+    "box-shadow": "0px 4px 8px rgba(0, 0, 0, 0.2)",
+    "display": "inline-block",
+    "vertical-align": "middle"
+    }
 
 

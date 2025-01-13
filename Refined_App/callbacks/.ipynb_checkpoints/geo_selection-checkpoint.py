@@ -49,7 +49,6 @@ def register_callbacks(app):
                 SM.step = "nuts3"
 
             elif SM.step == "nuts1":
-                print(SM.geo_fig, "********")
                 SM.nuts1 = clicked["points"][0]["location"]
                 SM.step = "nuts2"
 
@@ -79,7 +78,7 @@ def register_callbacks(app):
 
                 else:
                     SM.step = "tree"
-                    SM.tree_fig = tree_plot(SM.nuts3, "nuts", False, APP_BACKGROUND_COLOR)
+                    SM.tree_fig = tree_plot(SM.country, "countries", False, APP_BACKGROUND_COLOR)
 
             
             ## Update geo figure
