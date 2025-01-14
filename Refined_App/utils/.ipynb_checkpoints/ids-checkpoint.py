@@ -1,4 +1,12 @@
+from utils.constants import TOTAL_CELLS
+
 ## Save container IDs for usage
+
+APP_SELECTION_IDS = {
+    'overall-container' : 'app-selection-page',
+    'demo-block' : 'demo-half',
+    'details-block' : 'details-half',
+}
 
 SEARCH_SELECTION_IDS = {
     'overall-container' : 'seearch-selection-page',
@@ -43,4 +51,17 @@ TABLE_COLUMNS = {
     "nuts":"NUTS3_ID",
     "us_county":"COUNTY_ID",
     "country" : "COUNTRY"
+}
+
+DATA_EXPORT_ID = {
+    "portfolio-button" : "portfolio-selection-button"
+}
+
+DETAILS_GRID_IDS = {f"G{i}":f"grid-{i}" for i in range(1, TOTAL_CELLS+1)}
+DETAILS_GRID_IDS["overall-container"] = "details-grid"
+
+DETAILS_POP_UP_IDS = {
+    "overall-container":"pop-up-container",
+    "body":"pop-up-body",
+    "button":"pop-up-close-button",
 }

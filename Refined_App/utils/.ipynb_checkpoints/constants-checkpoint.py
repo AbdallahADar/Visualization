@@ -1,6 +1,13 @@
+import dash
+from dash import html
+
 ## Define color dictionary used by the app
 COLORS = {
     "background" : "white",
+    "demo_block" : "black", # Azure Radiance Blue
+    "details_block" : "white", # Azure Radiance Blue
+    "demo_text" : "white",
+    "details_text" : "black",
     "exploratory_block" : "#007BFF", # Azure Radiance Blue
     "targeted_block" : "#28A745", # Eucalyptus Green
     "exploratory_text" : "white",
@@ -21,6 +28,8 @@ FONTS = {
 
 ## Define font sizes
 FONT_SIZES = {
+    "demo_text" : "2.5em",
+    "details_text" : "2.5em",
     "exploratory_text" : "2.5em",
     "targeted_text" : "2.5em",
 }
@@ -127,6 +136,29 @@ EWS_COLOR = {
     "S":"#E2556A"
 }
 
+## Details Grid
+NUM_ROWS = 3
+NUM_COLS = 4
+TOTAL_CELLS = NUM_ROWS * NUM_COLS
 
+## Grid Cells
+GRID_CELLS = ["Model Introduction", "Top-Growth Milestones"]
+## Define what each grid contains i.e. populated or empty
+GRID_CELLS = GRID_CELLS + ["Coming Soon"]*(TOTAL_CELLS - len(GRID_CELLS))
 
+## Grid Cell Content
+GRID_CONTENT = {
+    "G1" : html.Video(
+        controls = True,
+        src = "assets/OppAnalytics_v1.mp4",
+        style = {"width":"100%"}
+    ),
+    "G2" : html.Div("Content Test", style={"textAlign": "center"})
+}
 
+GRID_CONTENT = {
+    **GRID_CONTENT,
+    **{
+        f"G{i}" : html.Div("Coming Soon Content", style={"textAlign": "center"}) for i in range(len(GRID_CONTENT)+2, TOTAL_CELLS+1)
+    }
+}

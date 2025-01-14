@@ -7,7 +7,7 @@ from utils.ids import SEARCH_SELECTION_IDS
 
 search_selection = html.Div(
     id = SEARCH_SELECTION_IDS["overall-container"],
-    style = SELECTION_CONTAINER,
+    style = {'display':'none'},
     children = [
         html.Div(
             id = SEARCH_SELECTION_IDS["exploratory-block"],

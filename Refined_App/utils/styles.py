@@ -43,6 +43,44 @@ SELECTION_CONTAINER = {
     'overflow' : 'hidden',
 }
 
+DEMO_SELECTION_HALF = {
+    'flex': '1', 
+    'display': 'flex', 
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'background-color': COLORS["demo_block"], 
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%'
+}
+
+DEMO_SELECTION_HEADER = {
+    'color' : COLORS["demo_text"],
+    'font-family' : f"{FONTS['headings']}, {FONTS['headings-fallback']}",
+    'font-size' : FONT_SIZES["demo_text"]
+}
+
+DETAILS_SELECTION_HALF = {
+    'flex': '1', 
+    'display': 'flex', 
+    'align-items': 'center', 
+    'justify-content': 'center',
+    'background-color': COLORS["details_block"], 
+    'cursor': 'pointer', 
+    'transition': 'flex 0.6s ease',
+    'position': 'relative', 
+    'height': '100%'
+}
+
+DETAILS_SELECTION_HEADER = {
+    'color' : COLORS["details_text"],
+    'font-family' : f"{FONTS['headings']}, {FONTS['headings-fallback']}",
+    'font-size' : FONT_SIZES["details_text"]
+}
+
+########### Search Selection Page ###########
+
 EXPLORATORY_SELECTION_HALF = {
     'flex': '1', 
     'display': 'flex', 
@@ -136,4 +174,27 @@ DATA_EXPORT_BUTTON = {
     "vertical-align": "middle"
     }
 
+DETAILS_GRID_MAIN_CONTAINER = {
+    "display": "grid",
+    "gap": "10px",  # Adds space between grid items
+    "padding": "10px",  # Space around the edges of the grid
+    "width": "100%",
+    "height": "100vh",
+}
 
+DETAILS_GRID_CELLS = {
+    "gridColumn": f"span 1", 
+    "gridRow": f"span 1"
+}
+
+DETAILS_GRID_BUTTON = {
+    "width": "100%",
+    "height": "100%",
+    "border": "1px solid #ddd",
+    "textAlign": "center",
+    "display": "flex",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "fontSize": "18px",  # Increased text size
+    "fontWeight": "bold",  # Optional: Make text bold
+}

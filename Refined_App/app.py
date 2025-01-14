@@ -2,9 +2,10 @@ from dash import Dash
 from layout import app_layout  # Import the centralized layout
 from callbacks import register_all_callbacks  # Register all callbacks
 from utils.styles import index_string
+import dash_bootstrap_components as dbc
 
 # Initialize the Dash app
-app = Dash(__name__)
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 # Customize app index string
 app.index_string = index_string
