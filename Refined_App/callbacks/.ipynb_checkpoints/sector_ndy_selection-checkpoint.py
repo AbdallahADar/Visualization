@@ -1,7 +1,7 @@
 import dash
 from dash import html, Input, Output, State
 from utils.ids import STATE_DATA_ID, SECTOR_NDY_FIGURE_IDS, TABLE_COLUMNS, TABLE_IDS
-from utils.constants import APP_BACKGROUND_COLOR, NUTS_COUNTRIES
+from utils.constants import APP_BACKGROUND_COLOR, NUTS_COUNTRIES, PATH
 from utils.styles import TREE_FIGURE, TABLES_CONTAINER
 from plots.geo_plot import geo_plot
 from plots.tree_plot import tree_plot
@@ -34,11 +34,11 @@ def register_callbacks(app):
         if clicked:
 
             if SM.us_county != "":
-                data_path = f"data/sample_data/Country={'USA'}/State={SM.us_state}/COUNTY_ID={float(SM.us_county)}/data.csv"
+                data_path = f"{PATH}data/sample_data/Country={'USA'}/State={SM.us_state}/COUNTY_ID={float(SM.us_county)}/data.csv"
             elif SM.nuts3 != "":
-                data_path = f"data/sample_data/Country={SM.country}/NUTS3_ID={SM.nuts3}/data.csv"
+                data_path = f"{PATH}data/sample_data/Country={SM.country}/NUTS3_ID={SM.nuts3}/data.csv"
             else:
-                data_path = f"data/sample_data/Country={SM.country}/data.csv"
+                data_path = f"{PATH}data/sample_data/Country={SM.country}/data.csv"
 
             df = pd.read_csv(data_path)
             

@@ -1,13 +1,13 @@
 import numpy as np
 import pandas as pd
 import plotly.express as px
-from utils.constants import METADATA_COLUMNS, TREE_CMAP
+from utils.constants import METADATA_COLUMNS, TREE_CMAP, PATH
 
 ## Get Tree Map
 def tree_plot(selection_id, selection_category, normalize = True, bg_color = "white"):
 
     ## Read file
-    df = pd.read_csv(f"data/industry_rates/{selection_category}/{selection_id}.csv")
+    df = pd.read_csv(f"{PATH}data/industry_rates/{selection_category}/{selection_id}.csv")
     df[METADATA_COLUMNS["TREE_PARENT"]] = df[METADATA_COLUMNS["TREE_PARENT"]].fillna("")
 
     if normalize:

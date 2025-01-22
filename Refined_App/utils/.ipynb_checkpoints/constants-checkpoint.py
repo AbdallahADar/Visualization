@@ -1,6 +1,9 @@
 import dash
 from dash import html
 
+## Define path
+PATH = ""
+
 ## Define color dictionary used by the app
 COLORS = {
     "background" : "white",
@@ -28,8 +31,8 @@ FONTS = {
 
 ## Define font sizes
 FONT_SIZES = {
-    "demo_text" : "2.5em",
-    "details_text" : "2.5em",
+    "demo_text" : "3em",
+    "details_text" : "3em",
     "exploratory_text" : "2.5em",
     "targeted_text" : "2.5em",
 }
@@ -150,7 +153,7 @@ GRID_CELLS = GRID_CELLS + ["Coming Soon"]*(TOTAL_CELLS - len(GRID_CELLS))
 GRID_CONTENT = {
     "G1" : html.Video(
         controls = True,
-        src = "assets/OppAnalytics_v1.mp4",
+        src = f"{PATH}assets/OppAnalytics_v1.mp4",
         style = {"width":"100%"}
     ),
     "G2" : html.Div("Content Test", style={"textAlign": "center"})

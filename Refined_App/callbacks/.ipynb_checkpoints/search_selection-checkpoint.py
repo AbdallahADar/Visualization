@@ -3,7 +3,7 @@ import numpy as np
 import dash
 from dash import html, Input, Output, State
 from utils.ids import SEARCH_SELECTION_IDS, GEO_FIGURE_IDS, STATE_DATA_ID, TABLE_COLUMNS, TABLE_IDS
-from utils.constants import APP_BACKGROUND_COLOR
+from utils.constants import APP_BACKGROUND_COLOR, PATH
 from utils.styles import GEO_FIGURE, TABLES_CONTAINER
 from plots.geo_plot import geo_plot, geo_plot_risk
 from data.StateManager import StateManager
@@ -48,11 +48,11 @@ def register_callbacks(app):
         elif target:
             
             ## Read in Sample data for now
-            data_path1 = f"data/sample_data/Country={'USA'}/State=NJ/COUNTY_ID={float(34023)}/data.csv"
+            data_path1 = f"{PATH}data/sample_data/Country={'USA'}/State=NJ/COUNTY_ID={float(34023)}/data.csv"
             df1 = pd.read_csv(data_path1)
-            data_path2 = f"data/sample_data/Country={'JPN'}/data.csv"
+            data_path2 = f"{PATH}data/sample_data/Country={'JPN'}/data.csv"
             df2 = pd.read_csv(data_path2)
-            data_path3 = f"data/sample_data/Country={'BRA'}/data.csv"
+            data_path3 = f"{PATH}data/sample_data/Country={'BRA'}/data.csv"
             df3 = pd.read_csv(data_path3)
             
             df = pd.concat([df3, df2, df1])
