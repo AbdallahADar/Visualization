@@ -38,8 +38,10 @@ def COUNTRY_CHOROPLETH_RISK(file_name, column, bg_color = "white"):
     # Update layout
     fig.update_layout(
         coloraxis_colorbar=dict(
-            title=f"{column_list[0]}<br>{column_list[1]}", # Remove the title from the color bar
-            titleside="top",
+            title=dict(
+                text=f"{column_list[0]}<br>{column_list[1]}", # Remove the title from the color bar
+                side="top"  # This is the correct way to set the title side in recent versions
+            ),
             tickvals=[],            # Remove tick values (i.e., labels)
             ticks='',               # Disable tick marks
             showticklabels=False    # Do not show tick labels

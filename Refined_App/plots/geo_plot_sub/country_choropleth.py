@@ -41,8 +41,10 @@ def COUNTRY_CHOROPLETH(file_name, bg_color = "white"):
     fig.update_layout(
         coloraxis=dict(
             colorbar=dict(
-            title="Median<br>Growth Rate Checker", # Remove the title from the color bar
-            titleside="top",
+                title=dict(
+                text="Median<br>Growth Rate",
+                side="top"  # This is the correct way to set the title side in recent versions
+            ),
             orientation='h',
             y=1.05,
             tickvals=[],            # Remove tick values (i.e., labels)
