@@ -54,8 +54,10 @@ def US_COUNTY_CHOROPLETH(file_name, state, bg_color = "white"):
     # Increase plot size and remove padding
     fig.update_layout(
         coloraxis_colorbar=dict(
-            title="Median<br>Growth Rate", # Remove the title from the color bar
-            titleside="top",
+            title=dict(
+                text="Median<br>Growth Rate",
+                side="top"  # This is the correct way to set the title side in recent versions
+            ),
             tickvals=[],            # Remove tick values (i.e., labels)
             ticks='',               # Disable tick marks
             showticklabels=False    # Do not show tick labels
