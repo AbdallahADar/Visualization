@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
-from utils.constants import METADATA_COLUMNS, HEATMAP_GEO
+from utils.constants import METADATA_COLUMNS, HEATMAP_GEO, PATH
 import json
 
 def US_COUNTY_CHOROPLETH(file_name, state, bg_color = "white"):
@@ -16,7 +16,7 @@ def US_COUNTY_CHOROPLETH(file_name, state, bg_color = "white"):
     df[COUNTY_COLUMN] = df[COUNTY_COLUMN].apply(lambda x: "0"+str(x) if len(str(x)) == 4 else x)
 
     ## Read in geodata
-    file = f"data/geodata/us_counties/{state}.json"
+    file = f"{PATH}data/geodata/us_counties/{state}.json"
     counties = json.load(open(file))
 
     # Plot the choropleth map using custom colors and display county name in hover

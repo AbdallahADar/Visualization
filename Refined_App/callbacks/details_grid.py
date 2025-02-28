@@ -27,18 +27,18 @@ def register_callbacks(app):
         print("details-grid")
 
         ctx = dash.callback_context
+        # Identify which component triggered the callback
+        triggered_id = ctx.triggered[0]["prop_id"].split(".")[0]
+        print(triggered_id)
 
         grid_clicks = args[:-TOTAL_CELLS]
         close_click = args[-2]
         is_open = args[-1]
 
         # Close button is clicked, close the pop-up
-        if close_click:
+        if triggered_id == DETAILS_POP_UP_IDS["button"]:
+            print(close_click)
             return False, []
-
-        # Identify which component triggered the callback
-        triggered_id = ctx.triggered[0]["prop_id"].split(".")[0]
-        print(triggered_id)
             
         # Check which grid cell was clicked
         for i, click in enumerate(grid_clicks):

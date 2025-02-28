@@ -153,7 +153,7 @@ GRID_CELLS = GRID_CELLS + ["Coming Soon"]*(TOTAL_CELLS - len(GRID_CELLS))
 GRID_CONTENT = {
     "G1" : html.Video(
         controls = True,
-        src = f"{PATH}assets/OppAnalytics_v1.mp4",
+        src = f"assets/OppAnalytics_v1.mp4",
         style = {"width":"100%"}
     ),
     "G2" : html.Div("Content Test", style={"textAlign": "center"})
